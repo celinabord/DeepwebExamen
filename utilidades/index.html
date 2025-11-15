@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DeepWeb - Exámenes y Especialidades</title>
+    <style>
+        :root{--bg:#8a2be2;--panel:rgba(255,255,255,0.08);--btn:#4b0082;--btn-hover:#6a0dad}
+        body {font-family: Arial, sans-serif;background-color: var(--bg);color: #fff;margin:0;padding:20px;display:flex;align-items:flex-start;justify-content:center;min-height:100vh}
+        .container{width:100%;max-width:1000px;background:var(--panel);padding:20px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.25)}
+        h1,h2,h3{margin:6px 0}
+        input[type="password"], select, button{padding:10px;margin:8px 6px;border-radius:6px;border:1px solid rgba(255,255,255,0.12);background:transparent;color:#fff}
+        button{background:var(--btn);border:none;cursor:pointer}
+        button:hover{background:var(--btn-hover)}
+        .hidden{display:none}
+        .quiz{margin-top:12px;max-height:520px;overflow:auto;padding-right:8px}
+        .question{background:rgba(255,255,255,0.03);padding:12px;border-radius:8px;margin-bottom:10px}
+        .options label{display:block;margin:6px 0;cursor:pointer}
+        .timer{font-size:16px;color:yellow;margin:6px 0}
+        .result{margin-top:20px;padding:12px;background:rgba(0,0,0,0.2);border-radius:6px}
+        .top-row{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+        @media (max-width:640px){.top-row{flex-direction:column;align-items:stretch}}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>DeepWeb - Exámenes y Especialidades</h1>
+        <div id="login">
+            <p>Ingresa la clave de acceso:</p>
+            <div class="top-row">
+                <input type="password" id="keyInput" placeholder="Clave" aria-label="Clave de acceso">
+                <button id="accessBtn">Acceder</button>
+            </div>
+            <p style="opacity:.8;font-size:13px">Clave de ejemplo: <strong>examen</strong></p>
+        </div>
+
+        <div id="main" class="hidden">
+            <div class="top-row">
+                <div>
+                    <h2>Selecciona una Especialidad</h2>
+                    <select id="specialtySelect">
+                        <option value="pediatria">Pediatría</option>
+                        <option value="anestesiologia">Anestesiología</option>
+                        <option value="tocoginecologia">Tocoginecología</option>
+                        <option value="diagnostico_imagenes">Diagnóstico por Imágenes</option>
+                        <option value="dermatologia">Dermatología</option>
+                        <option value="cardiologia">Cardiología</option>
+                        <option value="hematologia">Hematología</option>
+                        <option value="neumonologia">Neumonología</option>
+                        <option value="neurologia">Neurología</option>
+                        <option value="ortopedia_traumatologia">Ortopedia y Traumatología</option>
+                        <option value="urologia">Urología</option>
+                        <option value="otorrinolaringologia">Otorrinolaringología</option>
+                        <option value="psiquiatria">Psiquiatría</option>
+                        <option value="medicina_general">Medicina General y/o Medicina de Familia</option>
+                        <option value="oncologia">Oncología</option>
+                        <option value="geriatria">Geriatría</option>
+                        <option value="terapia_intensiva">Terapia Intensiva</option>
+                        <option value="intervencionista">Intervencionista</option>
+                        <option value="neurologia_infantil">Neurología infantil</option>
+                        <option value="psiquiatria_infantojuvenil">Psiquiatría infanto-juvenil</option>
+                        <option value="terapia_intensiva_pediatrica">Terapia intensiva pediátrica</option>
+                    </select>
+                    <button id="startBtn">Iniciar Examen de Choice</button>
+                </div>
+                <div style="margin-left:auto;text-align:right">
+                    <div class="timer" id="timer">Tiempo restante: 04:00:00</div>
+                </div>
+            </div>
+
+            <div id="quiz" class="hidden">
+                <h3 id="quizTitle"></h3>
+                <div id="questions" class="quiz" role="list"></div>
+                <div style="margin-top:12px">
+                    <button id="submitBtn">Enviar Respuestas</button>
+                    <button id="cancelBtn" style="background:#a00;margin-left:8px">Cancelar</button>
+                </div>
+            </div>
+
+            <div id="results" class="hidden result" aria-live="polite">
+                <h3>Resultados</h3>
+                <p id="score"></p>
+                <p>Feedback: <span id="feedback">[Aquí puedes agregar tu feedback manualmente]</span></p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Clave de acceso
+        const accessKey = "examen";
+        let timerInterval = null;
+        let timeLeft = 4 * 60 * 60; // 4 horas en segundos
+
+        // Genera preguntas de placeholder (no contenido médico real)
+        function generateQuestions(specialty) {
+            const questions = [];
+            for (let i = 1; i <= 100; i++) {
+                const questionText = `Pregunta ${i} — ${specialty.replace(/_/g, ' ')}: Seleccione la opción correcta.`;
+                const options = [
+                    `Opción A para pregunta ${i}`,
+                    `Opción B para pregunta ${i}`,
+                    `Opción C para pregunta ${i}`,
+                    `Opción D para pregunta ${i}`
+                ];
+                // Respuesta correcta cíclica (0..3)
+                const answer = i % 4; // 0,1,2,3,0,1,... (índice de la opción correcta)
+                questions.push({ question: questionText, options, answer });
+            }
+            return questions;
+        }
+
+        // Crear quizzes por especialidad (inicialmente con generador).
+        // Si existe un archivo JSON en /data/<especialidad>.json se cargará en tiempo de ejecución.
+        const quizzes = {};
+        const specialties = ["pediatria","anestesiologia","tocoginecologia","diagnostico_imagenes","dermatologia","cardiologia","hematologia","neumonologia","neurologia","ortopedia_traumatologia","urologia","otorrinolaringologia","psiquiatria","medicina_general","oncologia","geriatria","terapia_intensiva","intervencionista","neurologia_infantil","psiquiatria_infantojuvenil","terapia_intensiva_pediatrica"];
+        specialties.forEach(spec => {
+            const title = `Examen de Choice - ${spec.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}`;
+            quizzes[spec] = { title, questions: generateQuestions(spec) };
+        });
+
+        // DOM elementos
+        const accessBtn = document.getElementById('accessBtn');
+        const keyInput = document.getElementById('keyInput');
+        const loginDiv = document.getElementById('login');
+        const mainDiv = document.getElementById('main');
+        const startBtn = document.getElementById('startBtn');
+        const specialtySelect = document.getElementById('specialtySelect');
+        const quizDiv = document.getElementById('quiz');
+        const questionsDiv = document.getElementById('questions');
+        const quizTitle = document.getElementById('quizTitle');
+        const timerEl = document.getElementById('timer');
+        const submitBtn = document.getElementById('submitBtn');
+        const cancelBtn = document.getElementById('cancelBtn');
+        const resultsDiv = document.getElementById('results');
+        const scoreEl = document.getElementById('score');
+
+        accessBtn.addEventListener('click', checkKey);
+        keyInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') checkKey(); });
+        startBtn.addEventListener('click', startQuiz);
+        submitBtn.addEventListener('click', submitQuiz);
+        cancelBtn.addEventListener('click', cancelQuiz);
+
+        function checkKey() {
+            const input = keyInput.value.trim().toLowerCase();
+            if (input === accessKey) {
+                loginDiv.classList.add('hidden');
+                mainDiv.classList.remove('hidden');
+            } else {
+                alert('Clave incorrecta');
+                keyInput.value = '';
+                keyInput.focus();
+            }
+        }
+
+        async function startQuiz() {
+            const specialty = specialtySelect.value;
+            const title = quizzes[specialty] ? quizzes[specialty].title : `Examen - ${specialty}`;
+            quizTitle.textContent = title;
+            questionsDiv.innerHTML = '';
+
+            // Intentar cargar archivo JSON desde /data/<especialidad>.json
+            let questions = null;
+            try {
+                const resp = await fetch(`data/${specialty}.json`, {cache: 'no-cache'});
+                if (resp.ok) {
+                    const data = await resp.json();
+                    // Validar formato mínimo
+                    if (Array.isArray(data) && data.length > 0 && data[0].question) {
+                        questions = data;
+                    }
+                }
+            } catch (e) {
+                // No hacer nada; caerá al generador
+            }
+
+            if (!questions) {
+                // Fallback al generador incorporado
+                const quiz = quizzes[specialty];
+                if (!quiz) { alert('Especialidad no encontrada'); return; }
+                questions = quiz.questions;
+            }
+
+            // Render preguntas
+            questions.forEach((q, i) => {
+                const qWrap = document.createElement('div');
+                qWrap.className = 'question';
+                qWrap.setAttribute('role','listitem');
+                const qText = document.createElement('div');
+                qText.innerHTML = `<strong>${i+1}.</strong> ${q.question}`;
+                qWrap.appendChild(qText);
+
+                const opts = document.createElement('div');
+                opts.className = 'options';
+                (q.options || []).forEach((opt, idx) => {
+                    const id = `q${i}_opt${idx}`;
+                    const label = document.createElement('label');
+                    label.htmlFor = id;
+                    const radio = document.createElement('input');
+                    radio.type = 'radio';
+                    radio.name = `q${i}`;
+                    radio.id = id;
+                    radio.value = String(idx);
+                    label.appendChild(radio);
+                    const span = document.createElement('span');
+                    span.style.marginLeft = '8px';
+                    span.textContent = opt;
+                    label.appendChild(span);
+                    opts.appendChild(label);
+                });
+                qWrap.appendChild(opts);
+                questionsDiv.appendChild(qWrap);
+            });
+
+            // Guardar referencia temporal de preguntas en el objeto quizzes para el envío
+            quizzes[specialty] = quizzes[specialty] || { title };
+            quizzes[specialty].questions = questions;
+
+            // Mostrar quiz
+            quizDiv.classList.remove('hidden');
+            resultsDiv.classList.add('hidden');
+            // Reiniciar y empezar timer
+            timeLeft = 4 * 60 * 60; // 4 horas
+            updateTimerDisplay();
+            startTimer();
+            // Scroll to top of questions
+            questionsDiv.scrollTop = 0;
+        }
+
+        function startTimer() {
+            if (timerInterval) clearInterval(timerInterval);
+            timerInterval = setInterval(() => {
+                timeLeft -= 1;
+                if (timeLeft <= 0) {
+                    clearInterval(timerInterval);
+                    timerInterval = null;
+                    timerEl.textContent = 'Tiempo restante: 00:00:00';
+                    alert('Tiempo finalizado. Se enviarán las respuestas.');
+                    submitQuiz();
+                    return;
+                }
+                updateTimerDisplay();
+            }, 1000);
+        }
+
+        function updateTimerDisplay() {
+            const h = String(Math.floor(timeLeft / 3600)).padStart(2,'0');
+            const m = String(Math.floor((timeLeft % 3600) / 60)).padStart(2,'0');
+            const s = String(timeLeft % 60).padStart(2,'0');
+            timerEl.textContent = `Tiempo restante: ${h}:${m}:${s}`;
+        }
+
+        function submitQuiz() {
+            if (timerInterval) { clearInterval(timerInterval); timerInterval = null; }
+            const specialty = specialtySelect.value;
+            const quiz = quizzes[specialty];
+            let score = 0;
+            quiz.questions.forEach((q, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                if (selected && parseInt(selected.value, 10) === q.answer) score++;
+            });
+            scoreEl.textContent = `Puntuación: ${score}/${quiz.questions.length} puntos`;
+            resultsDiv.classList.remove('hidden');
+            quizDiv.classList.add('hidden');
+            console.log(`Usuario completó ${specialty}: ${score} puntos`);
+        }
+
+        function cancelQuiz() {
+            if (timerInterval) { clearInterval(timerInterval); timerInterval = null; }
+            if (!confirm('¿Deseas cancelar el examen actual? Se perderán las respuestas no enviadas.')) return;
+            quizDiv.classList.add('hidden');
+            resultsDiv.classList.add('hidden');
+        }
+
+        // Inicializar display del timer
+        updateTimerDisplay();
+    </script>
+</body>
+</html>

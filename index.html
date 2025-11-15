@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Examen Residencias Médicas y de Enfermería</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Examen Residencias Médicas y de Enfermería</h1>
+        <button id="subscribeBtn" onclick="window.open('https://deepweb.com.ar/', '_blank')">Suscribirse</button>
+    </header>
+    <main>
+        <section id="loginSection">
+            <h2>Ingreso</h2>
+            <input type="password" id="claveInput" placeholder="Clave de acceso">
+            <button onclick="login()">Ingresar</button>
+            <p id="loginMsg"></p>
+        </section>
+        <section id="adminSection" style="display:none;">
+            <h2>Panel Administrador</h2>
+            <button onclick="regenerarClave()">Regenerar clave alumnos</button>
+            <p>Clave actual alumnos: <span id="claveAlumnos"></span></p>
+            <button onclick="logout()">Cerrar sesión</button>
+        </section>
+        <section id="especialidadSection" style="display:none;">
+            <h2>Selecciona Especialidad</h2>
+            <select id="especialidadSelect"></select>
+            <button onclick="iniciarExamen()">Comenzar Examen</button>
+            <button onclick="logout()">Cerrar sesión</button>
+        </section>
+        <section id="examenSection" style="display:none;">
+            <h2>Examen</h2>
+            <div id="timer"></div>
+            <div id="preguntaContainer"></div>
+            <button id="siguienteBtn" onclick="siguientePregunta()">Siguiente</button>
+        </section>
+        <section id="resultadoSection" style="display:none;">
+            <h2>Resultado</h2>
+            <p id="resultadoTexto"></p>
+            <button onclick="logout()">Salir</button>
+        </section>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>

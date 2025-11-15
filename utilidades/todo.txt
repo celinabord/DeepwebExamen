@@ -1,0 +1,41 @@
+To Do's:
+--- Custom HSMLP propaganda
+
+Done:
+--- Put stopTimer() when exam is finished
+--- Create logo
+--- All year inputs fixed
+--- Search error message position
+--- Circle bar scroll handler
+--- Highligth list bug fixed
+--- Stats links fixed
+--- Make footer
+--- Put empty values in added path list
+--- Highligth the path options matched sequence
+--- Put a report question, conected with email.
+--- Multiple display exam bug fixed
+--- Statistics
+--- Put empty values in path list
+--- Add 'Down arrow' event in search input
+--- Navegate the path list with arrows
+--- fix qCounter of specialities in search list
+--- Add analogue 'neurodesarrollo' to 'maduracion neurologica'
+--- Custom correct/mistake/total marker
+--- Delete the search focus and the value = '' when select an list option
+--- Change font family
+--- Remove the years error when there is no one selected
+--- Handle the 0 questions submit
+--- Handle the questions with null answers
+--- Make an question length indicator.
+--- Make modals
+--- Make an READ ME section with instructions
+--- Make error messages in search input
+--- Fix check radio path button. When i click on a path option, doesnt let me select the radio path button on the added path list
+--- Make some trash icons for delete the added path, and a 'escoba' icon for clean all added paths
+--- Fix search bug, when i click on the 'p' tag doesnt recognize the id value of the path option
+--- Make a header
+--- Put origin in every question
+--- Merge the SCHEMA complete
+--- Submit all handler
+--- Shuffle questions handler
+--- Clean paths button

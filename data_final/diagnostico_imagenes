@@ -1,0 +1,7 @@
+[
+  {"question":"¿Cuál es la modalidad de imagen de elección inicial para evaluar dolor abdominal agudo en adultos?","options":["Radiografía de tórax","Tomografía computarizada (TC) abdominal contrastada","Ecografía limitada","Resonancia magnética inmediatamente"],"answer":1},
+  {"question":"La ecografía es especialmente útil en pediatría para:","options":["Evaluar apendicitis en todos los casos","Evaluar estructuras superficiales y líquido libre sin radiación", "Obtener imágenes óseas detalladas", "Diagnosticar fracturas complejas"],"answer":1},
+  {"question":"En sospecha de tromboembolismo pulmonar, la prueba más utilizada es:","options":["ECG solamente","Angio-TC pulmonar (CTPA)","Radiografía de abdomen","Test de función hepática"],"answer":1},
+  {"question":"La resonancia magnética (RM) es preferida para evaluar:","options":["Lesiones méduloespinales y cerebrales sin radiación ionizante", "Patologías pulmonares agudas en urgencias", "Fracturas simples","Evaluación dentaria"],"answer":0},
+  {"question":"El contraste iodado en TC se debe usar con precaución en pacientes con:","options":["Insuficiencia renal significativa","Hipotiroidismo controlado","Diabetes controlada","Alergia a penicilina únicamente"],"answer":0}
+]

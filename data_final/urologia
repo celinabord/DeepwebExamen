@@ -1,0 +1,7 @@
+[
+  {"question":"Cuál es la causa más frecuente de infección urinaria en pediatría?","options":["Infección por E. coli ascendente","Virus respiratorio","Traumatismo local","Intolerancia alimentaria"],"answer":0},
+  {"question":"El método diagnóstico gold standard para infección urinaria es:","options":["Urocultivo apropiado", "Tira reactiva sola", "Radiografía de abdomen", "Ecografía hepática"],"answer":0},
+  {"question":"Indicador para realizar ecografía renal en un niño con primera infección urinaria febril: ","options":["Edad <2 años y/u otros signos de complicación", "Infección respiratoria recurrente", "Presión arterial alta aislada", "Cefalea"],"answer":0},
+  {"question":"Cuál es el manejo inicial de un niño con retención urinaria aguda?","options":["Cateterización y valoración urológica urgente", "Observación en casa sin intervención", "Higiene y seguimiento ambulatorio", "Dar diuréticos"],"answer":0},
+  {"question":"En niños, la enuresis más común es: ","options":["Enuresis nocturna primaria", "Enuresis diurna siempre", "Incontinencia fecal", "Nicturia por diabetes"],"answer":0}
+]

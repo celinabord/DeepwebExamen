@@ -1,0 +1,12 @@
+[
+  {"question":"¿Cuál es la causa más frecuente de hemorragia uterina anormal en edad reproductiva?","options":["Embarazo ectópico","Adenomiosis","Disfunción ovárica anovulatoria","Cáncer de endometrio"],"answer":2},
+  {"question":"La prueba de embarazo más temprana y específica es:","options":["Prueba de orina casera basada en hCG","Medición sérica cuantitativa de hCG","Ecografía transvaginal siempre","Niveles de progesterona"],"answer":1},
+  {"question":"Diagnóstico de preeclampsia requiere:","options":["Hipertensión y proteinuria o datos de daño orgánico después de 20 semanas", "Hipotensión sólo", "Sangrado vaginal sólo", "Infección urinaria"],"answer":0},
+  {"question":"La profilaxis para la infección postparto incluye generalmente:","options":["Antibiótico profiláctico en cesárea según protocolo", "No antibiótico en ninguna cirugía", "Uso rutinario de antivirales", "Administrar hormonas"],"answer":0},
+  {"question":"La intraparto, una indicación clásica para cesárea es:","options":["Sufrimiento fetal no reversible", "Deseo materno sin indicación", "Parto normal espontáneo sin complicaciones", "Trabajo de parto activo"],"answer":0},
+  {"question":"La vacunación recomendada en embarazadas incluye:","options":["Vacuna inactivada antigripal y Tdap (según pautas)","Vacuna MMR (viva)","Vacuna oral contra rotavirus","Vacuna BCG"],"answer":0},
+  {"question":"La prueba de Papanicolaou se utiliza para detectar:","options":["Infecciones gastrointestinales","Lesiones cervicales precancerosas y cáncer de cuello uterino","Embarazo ectópico","Trombosis venosa"],"answer":1},
+  {"question":"Una causa común de infertilidad femenina es:","options":["Síndrome de ovario poliquístico (SOP)","Fractura ósea","Infección respiratoria crónica","Hiperactividad mental"],"answer":0},
+  {"question":"Para el diagnóstico de embarazo ectópico, la combinación más útil es:","options":["hCG seriada y ecografía transvaginal", "Radiografía de pelvis", "Prueba de función hepática", "Hemocultivos"],"answer":0},
+  {"question":"El manejo de la metrorragia en la adolescente suele incluir:","options":["Evaluación inicial y manejo según causa; anticonceptivos hormonales si indicado", "Cirugía inmediata siempre", "Administrar hormona del crecimiento", "Descartar cualquier intervención"],"answer":0}
+]
