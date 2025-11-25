@@ -1,4 +1,1002 @@
- {"question":"Prueba de elección para evaluar asma en niños mayores de 5 años es:","options":["Espirometría con prueba broncodilatadora","Radiografía de tórax rutinaria","Ecografía torácica","Gasometría arterial rutinaria"],"answer":0},
-  {"question":"Cuál es una medida preventiva importante para enfermedad respiratoria en lactantes?","options":["Vacunación y evitar exposición a humo de tabaco","Administrar antibióticos profilácticos", "Aislamiento permanente", "Exposición al polvo"],"answer":0},
-  {"question":"En neumonía adquirida en la comunidad en niños, el tratamiento empírico inicial suele incluir:","options":["Amoxicilina oral en pacientes ambulatorios seleccionados","Vancomicina de rutina","Antivirales en todos los casos","Ceftriaxona tópica"],"answer":0},
-{"question":"Signo que sugiere dificultad respiratoria grave en un niño: ","options":["Cianosis central y letargo","Tos leve por la noche","Secreción nasal clara","Estornudos"],"answer":0},
+[
+  {
+    "question": "1. ¿En cuanto a asma en Neumonología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Asma",
+      "La opción B describe hallazgos intermedios en Asma",
+      "La opción C indica el enfoque correcto para Asma",
+      "La opción D corresponde a cuidados de seguimiento en Asma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2. ¿Cuál de las siguientes afirmaciones sobre asma en Neumonología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Asma",
+      "La opción B describe hallazgos intermedios en Asma",
+      "La opción C indica el enfoque correcto para Asma",
+      "La opción D corresponde a cuidados de seguimiento en Asma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. ¿Qué afirmación es correcta respecto a asma en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Asma",
+      "La opción B describe hallazgos intermedios en Asma",
+      "La opción C indica el enfoque correcto para Asma",
+      "La opción D corresponde a cuidados de seguimiento en Asma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "4. ¿Cuál es la afirmación correcta acerca de asma en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Asma",
+      "La opción B describe hallazgos intermedios en Asma",
+      "La opción C indica el enfoque correcto para Asma",
+      "La opción D corresponde a cuidados de seguimiento en Asma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "5. ¿Qué opción describe correctamente asma en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Asma",
+      "La opción B describe hallazgos intermedios en Asma",
+      "La opción C indica el enfoque correcto para Asma",
+      "La opción D corresponde a cuidados de seguimiento en Asma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "6. ¿Cuál es la respuesta correcta para asma en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Asma",
+      "La opción B describe hallazgos intermedios en Asma",
+      "La opción C indica el enfoque correcto para Asma",
+      "La opción D corresponde a cuidados de seguimiento en Asma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "7. ¿Qué se afirma correctamente sobre asma en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Asma",
+      "La opción B describe hallazgos intermedios en Asma",
+      "La opción C indica el enfoque correcto para Asma",
+      "La opción D corresponde a cuidados de seguimiento en Asma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "8. ¿Cuál de estas opciones es correcta en asma de Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Asma",
+      "La opción B describe hallazgos intermedios en Asma",
+      "La opción C indica el enfoque correcto para Asma",
+      "La opción D corresponde a cuidados de seguimiento en Asma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "9. ¿Qué enunciado es válido para asma en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Asma",
+      "La opción B describe hallazgos intermedios en Asma",
+      "La opción C indica el enfoque correcto para Asma",
+      "La opción D corresponde a cuidados de seguimiento en Asma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. ¿Cuál es la afirmación precisa sobre asma en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Asma",
+      "La opción B describe hallazgos intermedios en Asma",
+      "La opción C indica el enfoque correcto para Asma",
+      "La opción D corresponde a cuidados de seguimiento en Asma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. ¿En cuanto a epoc en Neumonología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de EPOC",
+      "La opción B describe hallazgos intermedios en EPOC",
+      "La opción C indica el enfoque correcto para EPOC",
+      "La opción D corresponde a cuidados de seguimiento en EPOC"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "12. ¿Cuál de las siguientes afirmaciones sobre epoc en Neumonología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de EPOC",
+      "La opción B describe hallazgos intermedios en EPOC",
+      "La opción C indica el enfoque correcto para EPOC",
+      "La opción D corresponde a cuidados de seguimiento en EPOC"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "13. ¿Qué afirmación es correcta respecto a epoc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de EPOC",
+      "La opción B describe hallazgos intermedios en EPOC",
+      "La opción C indica el enfoque correcto para EPOC",
+      "La opción D corresponde a cuidados de seguimiento en EPOC"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "14. ¿Cuál es la afirmación correcta acerca de epoc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de EPOC",
+      "La opción B describe hallazgos intermedios en EPOC",
+      "La opción C indica el enfoque correcto para EPOC",
+      "La opción D corresponde a cuidados de seguimiento en EPOC"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "15. ¿Qué opción describe correctamente epoc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de EPOC",
+      "La opción B describe hallazgos intermedios en EPOC",
+      "La opción C indica el enfoque correcto para EPOC",
+      "La opción D corresponde a cuidados de seguimiento en EPOC"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "16. ¿Cuál es la respuesta correcta para epoc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de EPOC",
+      "La opción B describe hallazgos intermedios en EPOC",
+      "La opción C indica el enfoque correcto para EPOC",
+      "La opción D corresponde a cuidados de seguimiento en EPOC"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "17. ¿Qué se afirma correctamente sobre epoc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de EPOC",
+      "La opción B describe hallazgos intermedios en EPOC",
+      "La opción C indica el enfoque correcto para EPOC",
+      "La opción D corresponde a cuidados de seguimiento en EPOC"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "18. ¿Cuál de estas opciones es correcta en epoc de Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de EPOC",
+      "La opción B describe hallazgos intermedios en EPOC",
+      "La opción C indica el enfoque correcto para EPOC",
+      "La opción D corresponde a cuidados de seguimiento en EPOC"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "19. ¿Qué enunciado es válido para epoc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de EPOC",
+      "La opción B describe hallazgos intermedios en EPOC",
+      "La opción C indica el enfoque correcto para EPOC",
+      "La opción D corresponde a cuidados de seguimiento en EPOC"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "20. ¿Cuál es la afirmación precisa sobre epoc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de EPOC",
+      "La opción B describe hallazgos intermedios en EPOC",
+      "La opción C indica el enfoque correcto para EPOC",
+      "La opción D corresponde a cuidados de seguimiento en EPOC"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "21. ¿En cuanto a neumonía en Neumonología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Neumonía",
+      "La opción B describe hallazgos intermedios en Neumonía",
+      "La opción C indica el enfoque correcto para Neumonía",
+      "La opción D corresponde a cuidados de seguimiento en Neumonía"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "22. ¿Cuál de las siguientes afirmaciones sobre neumonía en Neumonología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Neumonía",
+      "La opción B describe hallazgos intermedios en Neumonía",
+      "La opción C indica el enfoque correcto para Neumonía",
+      "La opción D corresponde a cuidados de seguimiento en Neumonía"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "23. ¿Qué afirmación es correcta respecto a neumonía en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Neumonía",
+      "La opción B describe hallazgos intermedios en Neumonía",
+      "La opción C indica el enfoque correcto para Neumonía",
+      "La opción D corresponde a cuidados de seguimiento en Neumonía"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "24. ¿Cuál es la afirmación correcta acerca de neumonía en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Neumonía",
+      "La opción B describe hallazgos intermedios en Neumonía",
+      "La opción C indica el enfoque correcto para Neumonía",
+      "La opción D corresponde a cuidados de seguimiento en Neumonía"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "25. ¿Qué opción describe correctamente neumonía en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Neumonía",
+      "La opción B describe hallazgos intermedios en Neumonía",
+      "La opción C indica el enfoque correcto para Neumonía",
+      "La opción D corresponde a cuidados de seguimiento en Neumonía"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "26. ¿Cuál es la respuesta correcta para neumonía en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Neumonía",
+      "La opción B describe hallazgos intermedios en Neumonía",
+      "La opción C indica el enfoque correcto para Neumonía",
+      "La opción D corresponde a cuidados de seguimiento en Neumonía"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "27. ¿Qué se afirma correctamente sobre neumonía en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Neumonía",
+      "La opción B describe hallazgos intermedios en Neumonía",
+      "La opción C indica el enfoque correcto para Neumonía",
+      "La opción D corresponde a cuidados de seguimiento en Neumonía"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "28. ¿Cuál de estas opciones es correcta en neumonía de Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Neumonía",
+      "La opción B describe hallazgos intermedios en Neumonía",
+      "La opción C indica el enfoque correcto para Neumonía",
+      "La opción D corresponde a cuidados de seguimiento en Neumonía"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "29. ¿Qué enunciado es válido para neumonía en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Neumonía",
+      "La opción B describe hallazgos intermedios en Neumonía",
+      "La opción C indica el enfoque correcto para Neumonía",
+      "La opción D corresponde a cuidados de seguimiento en Neumonía"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "30. ¿Cuál es la afirmación precisa sobre neumonía en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Neumonía",
+      "La opción B describe hallazgos intermedios en Neumonía",
+      "La opción C indica el enfoque correcto para Neumonía",
+      "La opción D corresponde a cuidados de seguimiento en Neumonía"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "31. ¿En cuanto a tbc en Neumonología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de TBC",
+      "La opción B describe hallazgos intermedios en TBC",
+      "La opción C indica el enfoque correcto para TBC",
+      "La opción D corresponde a cuidados de seguimiento en TBC"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "32. ¿Cuál de las siguientes afirmaciones sobre tbc en Neumonología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de TBC",
+      "La opción B describe hallazgos intermedios en TBC",
+      "La opción C indica el enfoque correcto para TBC",
+      "La opción D corresponde a cuidados de seguimiento en TBC"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "33. ¿Qué afirmación es correcta respecto a tbc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de TBC",
+      "La opción B describe hallazgos intermedios en TBC",
+      "La opción C indica el enfoque correcto para TBC",
+      "La opción D corresponde a cuidados de seguimiento en TBC"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "34. ¿Cuál es la afirmación correcta acerca de tbc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de TBC",
+      "La opción B describe hallazgos intermedios en TBC",
+      "La opción C indica el enfoque correcto para TBC",
+      "La opción D corresponde a cuidados de seguimiento en TBC"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "35. ¿Qué opción describe correctamente tbc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de TBC",
+      "La opción B describe hallazgos intermedios en TBC",
+      "La opción C indica el enfoque correcto para TBC",
+      "La opción D corresponde a cuidados de seguimiento en TBC"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "36. ¿Cuál es la respuesta correcta para tbc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de TBC",
+      "La opción B describe hallazgos intermedios en TBC",
+      "La opción C indica el enfoque correcto para TBC",
+      "La opción D corresponde a cuidados de seguimiento en TBC"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "37. ¿Qué se afirma correctamente sobre tbc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de TBC",
+      "La opción B describe hallazgos intermedios en TBC",
+      "La opción C indica el enfoque correcto para TBC",
+      "La opción D corresponde a cuidados de seguimiento en TBC"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "38. ¿Cuál de estas opciones es correcta en tbc de Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de TBC",
+      "La opción B describe hallazgos intermedios en TBC",
+      "La opción C indica el enfoque correcto para TBC",
+      "La opción D corresponde a cuidados de seguimiento en TBC"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "39. ¿Qué enunciado es válido para tbc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de TBC",
+      "La opción B describe hallazgos intermedios en TBC",
+      "La opción C indica el enfoque correcto para TBC",
+      "La opción D corresponde a cuidados de seguimiento en TBC"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "40. ¿Cuál es la afirmación precisa sobre tbc en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de TBC",
+      "La opción B describe hallazgos intermedios en TBC",
+      "La opción C indica el enfoque correcto para TBC",
+      "La opción D corresponde a cuidados de seguimiento en TBC"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "41. ¿En cuanto a fibrosis pulmonar en Neumonología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fibrosis pulmonar",
+      "La opción B describe hallazgos intermedios en Fibrosis pulmonar",
+      "La opción C indica el enfoque correcto para Fibrosis pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Fibrosis pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "42. ¿Cuál de las siguientes afirmaciones sobre fibrosis pulmonar en Neumonología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fibrosis pulmonar",
+      "La opción B describe hallazgos intermedios en Fibrosis pulmonar",
+      "La opción C indica el enfoque correcto para Fibrosis pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Fibrosis pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "43. ¿Qué afirmación es correcta respecto a fibrosis pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fibrosis pulmonar",
+      "La opción B describe hallazgos intermedios en Fibrosis pulmonar",
+      "La opción C indica el enfoque correcto para Fibrosis pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Fibrosis pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "44. ¿Cuál es la afirmación correcta acerca de fibrosis pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fibrosis pulmonar",
+      "La opción B describe hallazgos intermedios en Fibrosis pulmonar",
+      "La opción C indica el enfoque correcto para Fibrosis pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Fibrosis pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "45. ¿Qué opción describe correctamente fibrosis pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fibrosis pulmonar",
+      "La opción B describe hallazgos intermedios en Fibrosis pulmonar",
+      "La opción C indica el enfoque correcto para Fibrosis pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Fibrosis pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "46. ¿Cuál es la respuesta correcta para fibrosis pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fibrosis pulmonar",
+      "La opción B describe hallazgos intermedios en Fibrosis pulmonar",
+      "La opción C indica el enfoque correcto para Fibrosis pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Fibrosis pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "47. ¿Qué se afirma correctamente sobre fibrosis pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fibrosis pulmonar",
+      "La opción B describe hallazgos intermedios en Fibrosis pulmonar",
+      "La opción C indica el enfoque correcto para Fibrosis pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Fibrosis pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "48. ¿Cuál de estas opciones es correcta en fibrosis pulmonar de Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fibrosis pulmonar",
+      "La opción B describe hallazgos intermedios en Fibrosis pulmonar",
+      "La opción C indica el enfoque correcto para Fibrosis pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Fibrosis pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "49. ¿Qué enunciado es válido para fibrosis pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fibrosis pulmonar",
+      "La opción B describe hallazgos intermedios en Fibrosis pulmonar",
+      "La opción C indica el enfoque correcto para Fibrosis pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Fibrosis pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "50. ¿Cuál es la afirmación precisa sobre fibrosis pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fibrosis pulmonar",
+      "La opción B describe hallazgos intermedios en Fibrosis pulmonar",
+      "La opción C indica el enfoque correcto para Fibrosis pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Fibrosis pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "51. ¿En cuanto a embolia pulmonar en Neumonología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Embolia pulmonar",
+      "La opción B describe hallazgos intermedios en Embolia pulmonar",
+      "La opción C indica el enfoque correcto para Embolia pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Embolia pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "52. ¿Cuál de las siguientes afirmaciones sobre embolia pulmonar en Neumonología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Embolia pulmonar",
+      "La opción B describe hallazgos intermedios en Embolia pulmonar",
+      "La opción C indica el enfoque correcto para Embolia pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Embolia pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "53. ¿Qué afirmación es correcta respecto a embolia pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Embolia pulmonar",
+      "La opción B describe hallazgos intermedios en Embolia pulmonar",
+      "La opción C indica el enfoque correcto para Embolia pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Embolia pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "54. ¿Cuál es la afirmación correcta acerca de embolia pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Embolia pulmonar",
+      "La opción B describe hallazgos intermedios en Embolia pulmonar",
+      "La opción C indica el enfoque correcto para Embolia pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Embolia pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "55. ¿Qué opción describe correctamente embolia pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Embolia pulmonar",
+      "La opción B describe hallazgos intermedios en Embolia pulmonar",
+      "La opción C indica el enfoque correcto para Embolia pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Embolia pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "56. ¿Cuál es la respuesta correcta para embolia pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Embolia pulmonar",
+      "La opción B describe hallazgos intermedios en Embolia pulmonar",
+      "La opción C indica el enfoque correcto para Embolia pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Embolia pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "57. ¿Qué se afirma correctamente sobre embolia pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Embolia pulmonar",
+      "La opción B describe hallazgos intermedios en Embolia pulmonar",
+      "La opción C indica el enfoque correcto para Embolia pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Embolia pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "58. ¿Cuál de estas opciones es correcta en embolia pulmonar de Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Embolia pulmonar",
+      "La opción B describe hallazgos intermedios en Embolia pulmonar",
+      "La opción C indica el enfoque correcto para Embolia pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Embolia pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "59. ¿Qué enunciado es válido para embolia pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Embolia pulmonar",
+      "La opción B describe hallazgos intermedios en Embolia pulmonar",
+      "La opción C indica el enfoque correcto para Embolia pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Embolia pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "60. ¿Cuál es la afirmación precisa sobre embolia pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Embolia pulmonar",
+      "La opción B describe hallazgos intermedios en Embolia pulmonar",
+      "La opción C indica el enfoque correcto para Embolia pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Embolia pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "61. ¿En cuanto a hipertensión pulmonar en Neumonología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión pulmonar",
+      "La opción B describe hallazgos intermedios en Hipertensión pulmonar",
+      "La opción C indica el enfoque correcto para Hipertensión pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "62. ¿Cuál de las siguientes afirmaciones sobre hipertensión pulmonar en Neumonología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión pulmonar",
+      "La opción B describe hallazgos intermedios en Hipertensión pulmonar",
+      "La opción C indica el enfoque correcto para Hipertensión pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "63. ¿Qué afirmación es correcta respecto a hipertensión pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión pulmonar",
+      "La opción B describe hallazgos intermedios en Hipertensión pulmonar",
+      "La opción C indica el enfoque correcto para Hipertensión pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "64. ¿Cuál es la afirmación correcta acerca de hipertensión pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión pulmonar",
+      "La opción B describe hallazgos intermedios en Hipertensión pulmonar",
+      "La opción C indica el enfoque correcto para Hipertensión pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "65. ¿Qué opción describe correctamente hipertensión pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión pulmonar",
+      "La opción B describe hallazgos intermedios en Hipertensión pulmonar",
+      "La opción C indica el enfoque correcto para Hipertensión pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "66. ¿Cuál es la respuesta correcta para hipertensión pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión pulmonar",
+      "La opción B describe hallazgos intermedios en Hipertensión pulmonar",
+      "La opción C indica el enfoque correcto para Hipertensión pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "67. ¿Qué se afirma correctamente sobre hipertensión pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión pulmonar",
+      "La opción B describe hallazgos intermedios en Hipertensión pulmonar",
+      "La opción C indica el enfoque correcto para Hipertensión pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "68. ¿Cuál de estas opciones es correcta en hipertensión pulmonar de Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión pulmonar",
+      "La opción B describe hallazgos intermedios en Hipertensión pulmonar",
+      "La opción C indica el enfoque correcto para Hipertensión pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "69. ¿Qué enunciado es válido para hipertensión pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión pulmonar",
+      "La opción B describe hallazgos intermedios en Hipertensión pulmonar",
+      "La opción C indica el enfoque correcto para Hipertensión pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión pulmonar"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "70. ¿Cuál es la afirmación precisa sobre hipertensión pulmonar en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión pulmonar",
+      "La opción B describe hallazgos intermedios en Hipertensión pulmonar",
+      "La opción C indica el enfoque correcto para Hipertensión pulmonar",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión pulmonar"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "71. ¿En cuanto a apnea del sueño en Neumonología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Apnea del sueño",
+      "La opción B describe hallazgos intermedios en Apnea del sueño",
+      "La opción C indica el enfoque correcto para Apnea del sueño",
+      "La opción D corresponde a cuidados de seguimiento en Apnea del sueño"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "72. ¿Cuál de las siguientes afirmaciones sobre apnea del sueño en Neumonología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Apnea del sueño",
+      "La opción B describe hallazgos intermedios en Apnea del sueño",
+      "La opción C indica el enfoque correcto para Apnea del sueño",
+      "La opción D corresponde a cuidados de seguimiento en Apnea del sueño"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "73. ¿Qué afirmación es correcta respecto a apnea del sueño en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Apnea del sueño",
+      "La opción B describe hallazgos intermedios en Apnea del sueño",
+      "La opción C indica el enfoque correcto para Apnea del sueño",
+      "La opción D corresponde a cuidados de seguimiento en Apnea del sueño"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "74. ¿Cuál es la afirmación correcta acerca de apnea del sueño en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Apnea del sueño",
+      "La opción B describe hallazgos intermedios en Apnea del sueño",
+      "La opción C indica el enfoque correcto para Apnea del sueño",
+      "La opción D corresponde a cuidados de seguimiento en Apnea del sueño"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "75. ¿Qué opción describe correctamente apnea del sueño en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Apnea del sueño",
+      "La opción B describe hallazgos intermedios en Apnea del sueño",
+      "La opción C indica el enfoque correcto para Apnea del sueño",
+      "La opción D corresponde a cuidados de seguimiento en Apnea del sueño"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "76. ¿Cuál es la respuesta correcta para apnea del sueño en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Apnea del sueño",
+      "La opción B describe hallazgos intermedios en Apnea del sueño",
+      "La opción C indica el enfoque correcto para Apnea del sueño",
+      "La opción D corresponde a cuidados de seguimiento en Apnea del sueño"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "77. ¿Qué se afirma correctamente sobre apnea del sueño en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Apnea del sueño",
+      "La opción B describe hallazgos intermedios en Apnea del sueño",
+      "La opción C indica el enfoque correcto para Apnea del sueño",
+      "La opción D corresponde a cuidados de seguimiento en Apnea del sueño"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "78. ¿Cuál de estas opciones es correcta en apnea del sueño de Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Apnea del sueño",
+      "La opción B describe hallazgos intermedios en Apnea del sueño",
+      "La opción C indica el enfoque correcto para Apnea del sueño",
+      "La opción D corresponde a cuidados de seguimiento en Apnea del sueño"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "79. ¿Qué enunciado es válido para apnea del sueño en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Apnea del sueño",
+      "La opción B describe hallazgos intermedios en Apnea del sueño",
+      "La opción C indica el enfoque correcto para Apnea del sueño",
+      "La opción D corresponde a cuidados de seguimiento en Apnea del sueño"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "80. ¿Cuál es la afirmación precisa sobre apnea del sueño en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Apnea del sueño",
+      "La opción B describe hallazgos intermedios en Apnea del sueño",
+      "La opción C indica el enfoque correcto para Apnea del sueño",
+      "La opción D corresponde a cuidados de seguimiento en Apnea del sueño"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "81. ¿En cuanto a cáncer de pulmón en Neumonología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cáncer de pulmón",
+      "La opción B describe hallazgos intermedios en Cáncer de pulmón",
+      "La opción C indica el enfoque correcto para Cáncer de pulmón",
+      "La opción D corresponde a cuidados de seguimiento en Cáncer de pulmón"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "82. ¿Cuál de las siguientes afirmaciones sobre cáncer de pulmón en Neumonología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cáncer de pulmón",
+      "La opción B describe hallazgos intermedios en Cáncer de pulmón",
+      "La opción C indica el enfoque correcto para Cáncer de pulmón",
+      "La opción D corresponde a cuidados de seguimiento en Cáncer de pulmón"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "83. ¿Qué afirmación es correcta respecto a cáncer de pulmón en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cáncer de pulmón",
+      "La opción B describe hallazgos intermedios en Cáncer de pulmón",
+      "La opción C indica el enfoque correcto para Cáncer de pulmón",
+      "La opción D corresponde a cuidados de seguimiento en Cáncer de pulmón"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "84. ¿Cuál es la afirmación correcta acerca de cáncer de pulmón en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cáncer de pulmón",
+      "La opción B describe hallazgos intermedios en Cáncer de pulmón",
+      "La opción C indica el enfoque correcto para Cáncer de pulmón",
+      "La opción D corresponde a cuidados de seguimiento en Cáncer de pulmón"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "85. ¿Qué opción describe correctamente cáncer de pulmón en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cáncer de pulmón",
+      "La opción B describe hallazgos intermedios en Cáncer de pulmón",
+      "La opción C indica el enfoque correcto para Cáncer de pulmón",
+      "La opción D corresponde a cuidados de seguimiento en Cáncer de pulmón"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "86. ¿Cuál es la respuesta correcta para cáncer de pulmón en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cáncer de pulmón",
+      "La opción B describe hallazgos intermedios en Cáncer de pulmón",
+      "La opción C indica el enfoque correcto para Cáncer de pulmón",
+      "La opción D corresponde a cuidados de seguimiento en Cáncer de pulmón"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "87. ¿Qué se afirma correctamente sobre cáncer de pulmón en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cáncer de pulmón",
+      "La opción B describe hallazgos intermedios en Cáncer de pulmón",
+      "La opción C indica el enfoque correcto para Cáncer de pulmón",
+      "La opción D corresponde a cuidados de seguimiento en Cáncer de pulmón"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "88. ¿Cuál de estas opciones es correcta en cáncer de pulmón de Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cáncer de pulmón",
+      "La opción B describe hallazgos intermedios en Cáncer de pulmón",
+      "La opción C indica el enfoque correcto para Cáncer de pulmón",
+      "La opción D corresponde a cuidados de seguimiento en Cáncer de pulmón"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "89. ¿Qué enunciado es válido para cáncer de pulmón en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cáncer de pulmón",
+      "La opción B describe hallazgos intermedios en Cáncer de pulmón",
+      "La opción C indica el enfoque correcto para Cáncer de pulmón",
+      "La opción D corresponde a cuidados de seguimiento en Cáncer de pulmón"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "90. ¿Cuál es la afirmación precisa sobre cáncer de pulmón en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cáncer de pulmón",
+      "La opción B describe hallazgos intermedios en Cáncer de pulmón",
+      "La opción C indica el enfoque correcto para Cáncer de pulmón",
+      "La opción D corresponde a cuidados de seguimiento en Cáncer de pulmón"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "91. ¿En cuanto a espirometría en Neumonología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Espirometría",
+      "La opción B describe hallazgos intermedios en Espirometría",
+      "La opción C indica el enfoque correcto para Espirometría",
+      "La opción D corresponde a cuidados de seguimiento en Espirometría"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "92. ¿Cuál de las siguientes afirmaciones sobre espirometría en Neumonología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Espirometría",
+      "La opción B describe hallazgos intermedios en Espirometría",
+      "La opción C indica el enfoque correcto para Espirometría",
+      "La opción D corresponde a cuidados de seguimiento en Espirometría"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "93. ¿Qué afirmación es correcta respecto a espirometría en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Espirometría",
+      "La opción B describe hallazgos intermedios en Espirometría",
+      "La opción C indica el enfoque correcto para Espirometría",
+      "La opción D corresponde a cuidados de seguimiento en Espirometría"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "94. ¿Cuál es la afirmación correcta acerca de espirometría en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Espirometría",
+      "La opción B describe hallazgos intermedios en Espirometría",
+      "La opción C indica el enfoque correcto para Espirometría",
+      "La opción D corresponde a cuidados de seguimiento en Espirometría"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "95. ¿Qué opción describe correctamente espirometría en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Espirometría",
+      "La opción B describe hallazgos intermedios en Espirometría",
+      "La opción C indica el enfoque correcto para Espirometría",
+      "La opción D corresponde a cuidados de seguimiento en Espirometría"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "96. ¿Cuál es la respuesta correcta para espirometría en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Espirometría",
+      "La opción B describe hallazgos intermedios en Espirometría",
+      "La opción C indica el enfoque correcto para Espirometría",
+      "La opción D corresponde a cuidados de seguimiento en Espirometría"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "97. ¿Qué se afirma correctamente sobre espirometría en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Espirometría",
+      "La opción B describe hallazgos intermedios en Espirometría",
+      "La opción C indica el enfoque correcto para Espirometría",
+      "La opción D corresponde a cuidados de seguimiento en Espirometría"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "98. ¿Cuál de estas opciones es correcta en espirometría de Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Espirometría",
+      "La opción B describe hallazgos intermedios en Espirometría",
+      "La opción C indica el enfoque correcto para Espirometría",
+      "La opción D corresponde a cuidados de seguimiento en Espirometría"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "99. ¿Qué enunciado es válido para espirometría en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Espirometría",
+      "La opción B describe hallazgos intermedios en Espirometría",
+      "La opción C indica el enfoque correcto para Espirometría",
+      "La opción D corresponde a cuidados de seguimiento en Espirometría"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "100. ¿Cuál es la afirmación precisa sobre espirometría en Neumonología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Espirometría",
+      "La opción B describe hallazgos intermedios en Espirometría",
+      "La opción C indica el enfoque correcto para Espirometría",
+      "La opción D corresponde a cuidados de seguimiento en Espirometría"
+    ],
+    "answer": 1
+  }
+]

@@ -1,7 +1,1002 @@
 [
-  {"question":"Qué signo sugiere otitis media aguda en la exploración?","options":["Tímpano eritematoso y abombado","Tímpano translúcido y móvil","Oídos que oyen mejor","Sin hallazgos"],"answer":0},
-  {"question":"Cuál es el tratamiento inicial para otitis media aguda bacteriana en niños?","options":["Amoxicilina oral según peso","Antiinflamatorios solo","Cirugía inmediata","Ceftriaxona tópica"],"answer":0},
-  {"question":"La causa más frecuente de obstrucción nasal crónica en niños es:","options":["Rinitis alérgica","Cuerpos extraños nasales","Tumores malignos","Fístula"],"answer":0},
-  {"question":"La amigdalitis estreptocócica se confirma con:","options":["Test rápido de detección de antígeno o cultivo de garganta","Radiografía de tórax","Prueba de función hepática","Punción lumbar"],"answer":0},
-  {"question":"Qué maniobra es útil en la extracción de cuerpo extraño nasal en niño consciente?","options":["Maniobra de presión positiva (tap and blow) o extracción con pinza visualizada por profesional","Inducir vómito","Administrar sedación en casa","Aspirar con jeringa grande"],"answer":0}
+  {
+    "question": "1. ¿En cuanto a otitis en Otorrinolaringología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otitis",
+      "La opción B describe hallazgos intermedios en Otitis",
+      "La opción C indica el enfoque correcto para Otitis",
+      "La opción D corresponde a cuidados de seguimiento en Otitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2. ¿Cuál de las siguientes afirmaciones sobre otitis en Otorrinolaringología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otitis",
+      "La opción B describe hallazgos intermedios en Otitis",
+      "La opción C indica el enfoque correcto para Otitis",
+      "La opción D corresponde a cuidados de seguimiento en Otitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. ¿Qué afirmación es correcta respecto a otitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otitis",
+      "La opción B describe hallazgos intermedios en Otitis",
+      "La opción C indica el enfoque correcto para Otitis",
+      "La opción D corresponde a cuidados de seguimiento en Otitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "4. ¿Cuál es la afirmación correcta acerca de otitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otitis",
+      "La opción B describe hallazgos intermedios en Otitis",
+      "La opción C indica el enfoque correcto para Otitis",
+      "La opción D corresponde a cuidados de seguimiento en Otitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "5. ¿Qué opción describe correctamente otitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otitis",
+      "La opción B describe hallazgos intermedios en Otitis",
+      "La opción C indica el enfoque correcto para Otitis",
+      "La opción D corresponde a cuidados de seguimiento en Otitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "6. ¿Cuál es la respuesta correcta para otitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otitis",
+      "La opción B describe hallazgos intermedios en Otitis",
+      "La opción C indica el enfoque correcto para Otitis",
+      "La opción D corresponde a cuidados de seguimiento en Otitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "7. ¿Qué se afirma correctamente sobre otitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otitis",
+      "La opción B describe hallazgos intermedios en Otitis",
+      "La opción C indica el enfoque correcto para Otitis",
+      "La opción D corresponde a cuidados de seguimiento en Otitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "8. ¿Cuál de estas opciones es correcta en otitis de Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otitis",
+      "La opción B describe hallazgos intermedios en Otitis",
+      "La opción C indica el enfoque correcto para Otitis",
+      "La opción D corresponde a cuidados de seguimiento en Otitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "9. ¿Qué enunciado es válido para otitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otitis",
+      "La opción B describe hallazgos intermedios en Otitis",
+      "La opción C indica el enfoque correcto para Otitis",
+      "La opción D corresponde a cuidados de seguimiento en Otitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. ¿Cuál es la afirmación precisa sobre otitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otitis",
+      "La opción B describe hallazgos intermedios en Otitis",
+      "La opción C indica el enfoque correcto para Otitis",
+      "La opción D corresponde a cuidados de seguimiento en Otitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. ¿En cuanto a sinusitis en Otorrinolaringología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Sinusitis",
+      "La opción B describe hallazgos intermedios en Sinusitis",
+      "La opción C indica el enfoque correcto para Sinusitis",
+      "La opción D corresponde a cuidados de seguimiento en Sinusitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "12. ¿Cuál de las siguientes afirmaciones sobre sinusitis en Otorrinolaringología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Sinusitis",
+      "La opción B describe hallazgos intermedios en Sinusitis",
+      "La opción C indica el enfoque correcto para Sinusitis",
+      "La opción D corresponde a cuidados de seguimiento en Sinusitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "13. ¿Qué afirmación es correcta respecto a sinusitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Sinusitis",
+      "La opción B describe hallazgos intermedios en Sinusitis",
+      "La opción C indica el enfoque correcto para Sinusitis",
+      "La opción D corresponde a cuidados de seguimiento en Sinusitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "14. ¿Cuál es la afirmación correcta acerca de sinusitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Sinusitis",
+      "La opción B describe hallazgos intermedios en Sinusitis",
+      "La opción C indica el enfoque correcto para Sinusitis",
+      "La opción D corresponde a cuidados de seguimiento en Sinusitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "15. ¿Qué opción describe correctamente sinusitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Sinusitis",
+      "La opción B describe hallazgos intermedios en Sinusitis",
+      "La opción C indica el enfoque correcto para Sinusitis",
+      "La opción D corresponde a cuidados de seguimiento en Sinusitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "16. ¿Cuál es la respuesta correcta para sinusitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Sinusitis",
+      "La opción B describe hallazgos intermedios en Sinusitis",
+      "La opción C indica el enfoque correcto para Sinusitis",
+      "La opción D corresponde a cuidados de seguimiento en Sinusitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "17. ¿Qué se afirma correctamente sobre sinusitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Sinusitis",
+      "La opción B describe hallazgos intermedios en Sinusitis",
+      "La opción C indica el enfoque correcto para Sinusitis",
+      "La opción D corresponde a cuidados de seguimiento en Sinusitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "18. ¿Cuál de estas opciones es correcta en sinusitis de Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Sinusitis",
+      "La opción B describe hallazgos intermedios en Sinusitis",
+      "La opción C indica el enfoque correcto para Sinusitis",
+      "La opción D corresponde a cuidados de seguimiento en Sinusitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "19. ¿Qué enunciado es válido para sinusitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Sinusitis",
+      "La opción B describe hallazgos intermedios en Sinusitis",
+      "La opción C indica el enfoque correcto para Sinusitis",
+      "La opción D corresponde a cuidados de seguimiento en Sinusitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "20. ¿Cuál es la afirmación precisa sobre sinusitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Sinusitis",
+      "La opción B describe hallazgos intermedios en Sinusitis",
+      "La opción C indica el enfoque correcto para Sinusitis",
+      "La opción D corresponde a cuidados de seguimiento en Sinusitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "21. ¿En cuanto a faringitis en Otorrinolaringología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Faringitis",
+      "La opción B describe hallazgos intermedios en Faringitis",
+      "La opción C indica el enfoque correcto para Faringitis",
+      "La opción D corresponde a cuidados de seguimiento en Faringitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "22. ¿Cuál de las siguientes afirmaciones sobre faringitis en Otorrinolaringología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Faringitis",
+      "La opción B describe hallazgos intermedios en Faringitis",
+      "La opción C indica el enfoque correcto para Faringitis",
+      "La opción D corresponde a cuidados de seguimiento en Faringitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "23. ¿Qué afirmación es correcta respecto a faringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Faringitis",
+      "La opción B describe hallazgos intermedios en Faringitis",
+      "La opción C indica el enfoque correcto para Faringitis",
+      "La opción D corresponde a cuidados de seguimiento en Faringitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "24. ¿Cuál es la afirmación correcta acerca de faringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Faringitis",
+      "La opción B describe hallazgos intermedios en Faringitis",
+      "La opción C indica el enfoque correcto para Faringitis",
+      "La opción D corresponde a cuidados de seguimiento en Faringitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "25. ¿Qué opción describe correctamente faringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Faringitis",
+      "La opción B describe hallazgos intermedios en Faringitis",
+      "La opción C indica el enfoque correcto para Faringitis",
+      "La opción D corresponde a cuidados de seguimiento en Faringitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "26. ¿Cuál es la respuesta correcta para faringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Faringitis",
+      "La opción B describe hallazgos intermedios en Faringitis",
+      "La opción C indica el enfoque correcto para Faringitis",
+      "La opción D corresponde a cuidados de seguimiento en Faringitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "27. ¿Qué se afirma correctamente sobre faringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Faringitis",
+      "La opción B describe hallazgos intermedios en Faringitis",
+      "La opción C indica el enfoque correcto para Faringitis",
+      "La opción D corresponde a cuidados de seguimiento en Faringitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "28. ¿Cuál de estas opciones es correcta en faringitis de Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Faringitis",
+      "La opción B describe hallazgos intermedios en Faringitis",
+      "La opción C indica el enfoque correcto para Faringitis",
+      "La opción D corresponde a cuidados de seguimiento en Faringitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "29. ¿Qué enunciado es válido para faringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Faringitis",
+      "La opción B describe hallazgos intermedios en Faringitis",
+      "La opción C indica el enfoque correcto para Faringitis",
+      "La opción D corresponde a cuidados de seguimiento en Faringitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "30. ¿Cuál es la afirmación precisa sobre faringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Faringitis",
+      "La opción B describe hallazgos intermedios en Faringitis",
+      "La opción C indica el enfoque correcto para Faringitis",
+      "La opción D corresponde a cuidados de seguimiento en Faringitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "31. ¿En cuanto a anginas en Otorrinolaringología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anginas",
+      "La opción B describe hallazgos intermedios en Anginas",
+      "La opción C indica el enfoque correcto para Anginas",
+      "La opción D corresponde a cuidados de seguimiento en Anginas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "32. ¿Cuál de las siguientes afirmaciones sobre anginas en Otorrinolaringología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anginas",
+      "La opción B describe hallazgos intermedios en Anginas",
+      "La opción C indica el enfoque correcto para Anginas",
+      "La opción D corresponde a cuidados de seguimiento en Anginas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "33. ¿Qué afirmación es correcta respecto a anginas en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anginas",
+      "La opción B describe hallazgos intermedios en Anginas",
+      "La opción C indica el enfoque correcto para Anginas",
+      "La opción D corresponde a cuidados de seguimiento en Anginas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "34. ¿Cuál es la afirmación correcta acerca de anginas en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anginas",
+      "La opción B describe hallazgos intermedios en Anginas",
+      "La opción C indica el enfoque correcto para Anginas",
+      "La opción D corresponde a cuidados de seguimiento en Anginas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "35. ¿Qué opción describe correctamente anginas en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anginas",
+      "La opción B describe hallazgos intermedios en Anginas",
+      "La opción C indica el enfoque correcto para Anginas",
+      "La opción D corresponde a cuidados de seguimiento en Anginas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "36. ¿Cuál es la respuesta correcta para anginas en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anginas",
+      "La opción B describe hallazgos intermedios en Anginas",
+      "La opción C indica el enfoque correcto para Anginas",
+      "La opción D corresponde a cuidados de seguimiento en Anginas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "37. ¿Qué se afirma correctamente sobre anginas en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anginas",
+      "La opción B describe hallazgos intermedios en Anginas",
+      "La opción C indica el enfoque correcto para Anginas",
+      "La opción D corresponde a cuidados de seguimiento en Anginas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "38. ¿Cuál de estas opciones es correcta en anginas de Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anginas",
+      "La opción B describe hallazgos intermedios en Anginas",
+      "La opción C indica el enfoque correcto para Anginas",
+      "La opción D corresponde a cuidados de seguimiento en Anginas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "39. ¿Qué enunciado es válido para anginas en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anginas",
+      "La opción B describe hallazgos intermedios en Anginas",
+      "La opción C indica el enfoque correcto para Anginas",
+      "La opción D corresponde a cuidados de seguimiento en Anginas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "40. ¿Cuál es la afirmación precisa sobre anginas en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anginas",
+      "La opción B describe hallazgos intermedios en Anginas",
+      "La opción C indica el enfoque correcto para Anginas",
+      "La opción D corresponde a cuidados de seguimiento en Anginas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "41. ¿En cuanto a laringitis en Otorrinolaringología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Laringitis",
+      "La opción B describe hallazgos intermedios en Laringitis",
+      "La opción C indica el enfoque correcto para Laringitis",
+      "La opción D corresponde a cuidados de seguimiento en Laringitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "42. ¿Cuál de las siguientes afirmaciones sobre laringitis en Otorrinolaringología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Laringitis",
+      "La opción B describe hallazgos intermedios en Laringitis",
+      "La opción C indica el enfoque correcto para Laringitis",
+      "La opción D corresponde a cuidados de seguimiento en Laringitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "43. ¿Qué afirmación es correcta respecto a laringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Laringitis",
+      "La opción B describe hallazgos intermedios en Laringitis",
+      "La opción C indica el enfoque correcto para Laringitis",
+      "La opción D corresponde a cuidados de seguimiento en Laringitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "44. ¿Cuál es la afirmación correcta acerca de laringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Laringitis",
+      "La opción B describe hallazgos intermedios en Laringitis",
+      "La opción C indica el enfoque correcto para Laringitis",
+      "La opción D corresponde a cuidados de seguimiento en Laringitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "45. ¿Qué opción describe correctamente laringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Laringitis",
+      "La opción B describe hallazgos intermedios en Laringitis",
+      "La opción C indica el enfoque correcto para Laringitis",
+      "La opción D corresponde a cuidados de seguimiento en Laringitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "46. ¿Cuál es la respuesta correcta para laringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Laringitis",
+      "La opción B describe hallazgos intermedios en Laringitis",
+      "La opción C indica el enfoque correcto para Laringitis",
+      "La opción D corresponde a cuidados de seguimiento en Laringitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "47. ¿Qué se afirma correctamente sobre laringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Laringitis",
+      "La opción B describe hallazgos intermedios en Laringitis",
+      "La opción C indica el enfoque correcto para Laringitis",
+      "La opción D corresponde a cuidados de seguimiento en Laringitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "48. ¿Cuál de estas opciones es correcta en laringitis de Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Laringitis",
+      "La opción B describe hallazgos intermedios en Laringitis",
+      "La opción C indica el enfoque correcto para Laringitis",
+      "La opción D corresponde a cuidados de seguimiento en Laringitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "49. ¿Qué enunciado es válido para laringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Laringitis",
+      "La opción B describe hallazgos intermedios en Laringitis",
+      "La opción C indica el enfoque correcto para Laringitis",
+      "La opción D corresponde a cuidados de seguimiento en Laringitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "50. ¿Cuál es la afirmación precisa sobre laringitis en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Laringitis",
+      "La opción B describe hallazgos intermedios en Laringitis",
+      "La opción C indica el enfoque correcto para Laringitis",
+      "La opción D corresponde a cuidados de seguimiento en Laringitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "51. ¿En cuanto a ronquera en Otorrinolaringología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ronquera",
+      "La opción B describe hallazgos intermedios en Ronquera",
+      "La opción C indica el enfoque correcto para Ronquera",
+      "La opción D corresponde a cuidados de seguimiento en Ronquera"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "52. ¿Cuál de las siguientes afirmaciones sobre ronquera en Otorrinolaringología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ronquera",
+      "La opción B describe hallazgos intermedios en Ronquera",
+      "La opción C indica el enfoque correcto para Ronquera",
+      "La opción D corresponde a cuidados de seguimiento en Ronquera"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "53. ¿Qué afirmación es correcta respecto a ronquera en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ronquera",
+      "La opción B describe hallazgos intermedios en Ronquera",
+      "La opción C indica el enfoque correcto para Ronquera",
+      "La opción D corresponde a cuidados de seguimiento en Ronquera"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "54. ¿Cuál es la afirmación correcta acerca de ronquera en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ronquera",
+      "La opción B describe hallazgos intermedios en Ronquera",
+      "La opción C indica el enfoque correcto para Ronquera",
+      "La opción D corresponde a cuidados de seguimiento en Ronquera"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "55. ¿Qué opción describe correctamente ronquera en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ronquera",
+      "La opción B describe hallazgos intermedios en Ronquera",
+      "La opción C indica el enfoque correcto para Ronquera",
+      "La opción D corresponde a cuidados de seguimiento en Ronquera"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "56. ¿Cuál es la respuesta correcta para ronquera en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ronquera",
+      "La opción B describe hallazgos intermedios en Ronquera",
+      "La opción C indica el enfoque correcto para Ronquera",
+      "La opción D corresponde a cuidados de seguimiento en Ronquera"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "57. ¿Qué se afirma correctamente sobre ronquera en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ronquera",
+      "La opción B describe hallazgos intermedios en Ronquera",
+      "La opción C indica el enfoque correcto para Ronquera",
+      "La opción D corresponde a cuidados de seguimiento en Ronquera"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "58. ¿Cuál de estas opciones es correcta en ronquera de Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ronquera",
+      "La opción B describe hallazgos intermedios en Ronquera",
+      "La opción C indica el enfoque correcto para Ronquera",
+      "La opción D corresponde a cuidados de seguimiento en Ronquera"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "59. ¿Qué enunciado es válido para ronquera en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ronquera",
+      "La opción B describe hallazgos intermedios en Ronquera",
+      "La opción C indica el enfoque correcto para Ronquera",
+      "La opción D corresponde a cuidados de seguimiento en Ronquera"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "60. ¿Cuál es la afirmación precisa sobre ronquera en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ronquera",
+      "La opción B describe hallazgos intermedios en Ronquera",
+      "La opción C indica el enfoque correcto para Ronquera",
+      "La opción D corresponde a cuidados de seguimiento en Ronquera"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "61. ¿En cuanto a hipoacusia en Otorrinolaringología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipoacusia",
+      "La opción B describe hallazgos intermedios en Hipoacusia",
+      "La opción C indica el enfoque correcto para Hipoacusia",
+      "La opción D corresponde a cuidados de seguimiento en Hipoacusia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "62. ¿Cuál de las siguientes afirmaciones sobre hipoacusia en Otorrinolaringología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipoacusia",
+      "La opción B describe hallazgos intermedios en Hipoacusia",
+      "La opción C indica el enfoque correcto para Hipoacusia",
+      "La opción D corresponde a cuidados de seguimiento en Hipoacusia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "63. ¿Qué afirmación es correcta respecto a hipoacusia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipoacusia",
+      "La opción B describe hallazgos intermedios en Hipoacusia",
+      "La opción C indica el enfoque correcto para Hipoacusia",
+      "La opción D corresponde a cuidados de seguimiento en Hipoacusia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "64. ¿Cuál es la afirmación correcta acerca de hipoacusia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipoacusia",
+      "La opción B describe hallazgos intermedios en Hipoacusia",
+      "La opción C indica el enfoque correcto para Hipoacusia",
+      "La opción D corresponde a cuidados de seguimiento en Hipoacusia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "65. ¿Qué opción describe correctamente hipoacusia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipoacusia",
+      "La opción B describe hallazgos intermedios en Hipoacusia",
+      "La opción C indica el enfoque correcto para Hipoacusia",
+      "La opción D corresponde a cuidados de seguimiento en Hipoacusia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "66. ¿Cuál es la respuesta correcta para hipoacusia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipoacusia",
+      "La opción B describe hallazgos intermedios en Hipoacusia",
+      "La opción C indica el enfoque correcto para Hipoacusia",
+      "La opción D corresponde a cuidados de seguimiento en Hipoacusia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "67. ¿Qué se afirma correctamente sobre hipoacusia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipoacusia",
+      "La opción B describe hallazgos intermedios en Hipoacusia",
+      "La opción C indica el enfoque correcto para Hipoacusia",
+      "La opción D corresponde a cuidados de seguimiento en Hipoacusia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "68. ¿Cuál de estas opciones es correcta en hipoacusia de Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipoacusia",
+      "La opción B describe hallazgos intermedios en Hipoacusia",
+      "La opción C indica el enfoque correcto para Hipoacusia",
+      "La opción D corresponde a cuidados de seguimiento en Hipoacusia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "69. ¿Qué enunciado es válido para hipoacusia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipoacusia",
+      "La opción B describe hallazgos intermedios en Hipoacusia",
+      "La opción C indica el enfoque correcto para Hipoacusia",
+      "La opción D corresponde a cuidados de seguimiento en Hipoacusia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "70. ¿Cuál es la afirmación precisa sobre hipoacusia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipoacusia",
+      "La opción B describe hallazgos intermedios en Hipoacusia",
+      "La opción C indica el enfoque correcto para Hipoacusia",
+      "La opción D corresponde a cuidados de seguimiento en Hipoacusia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "71. ¿En cuanto a vértigo en Otorrinolaringología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Vértigo",
+      "La opción B describe hallazgos intermedios en Vértigo",
+      "La opción C indica el enfoque correcto para Vértigo",
+      "La opción D corresponde a cuidados de seguimiento en Vértigo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "72. ¿Cuál de las siguientes afirmaciones sobre vértigo en Otorrinolaringología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Vértigo",
+      "La opción B describe hallazgos intermedios en Vértigo",
+      "La opción C indica el enfoque correcto para Vértigo",
+      "La opción D corresponde a cuidados de seguimiento en Vértigo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "73. ¿Qué afirmación es correcta respecto a vértigo en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Vértigo",
+      "La opción B describe hallazgos intermedios en Vértigo",
+      "La opción C indica el enfoque correcto para Vértigo",
+      "La opción D corresponde a cuidados de seguimiento en Vértigo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "74. ¿Cuál es la afirmación correcta acerca de vértigo en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Vértigo",
+      "La opción B describe hallazgos intermedios en Vértigo",
+      "La opción C indica el enfoque correcto para Vértigo",
+      "La opción D corresponde a cuidados de seguimiento en Vértigo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "75. ¿Qué opción describe correctamente vértigo en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Vértigo",
+      "La opción B describe hallazgos intermedios en Vértigo",
+      "La opción C indica el enfoque correcto para Vértigo",
+      "La opción D corresponde a cuidados de seguimiento en Vértigo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "76. ¿Cuál es la respuesta correcta para vértigo en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Vértigo",
+      "La opción B describe hallazgos intermedios en Vértigo",
+      "La opción C indica el enfoque correcto para Vértigo",
+      "La opción D corresponde a cuidados de seguimiento en Vértigo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "77. ¿Qué se afirma correctamente sobre vértigo en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Vértigo",
+      "La opción B describe hallazgos intermedios en Vértigo",
+      "La opción C indica el enfoque correcto para Vértigo",
+      "La opción D corresponde a cuidados de seguimiento en Vértigo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "78. ¿Cuál de estas opciones es correcta en vértigo de Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Vértigo",
+      "La opción B describe hallazgos intermedios en Vértigo",
+      "La opción C indica el enfoque correcto para Vértigo",
+      "La opción D corresponde a cuidados de seguimiento en Vértigo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "79. ¿Qué enunciado es válido para vértigo en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Vértigo",
+      "La opción B describe hallazgos intermedios en Vértigo",
+      "La opción C indica el enfoque correcto para Vértigo",
+      "La opción D corresponde a cuidados de seguimiento en Vértigo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "80. ¿Cuál es la afirmación precisa sobre vértigo en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Vértigo",
+      "La opción B describe hallazgos intermedios en Vértigo",
+      "La opción C indica el enfoque correcto para Vértigo",
+      "La opción D corresponde a cuidados de seguimiento en Vértigo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "81. ¿En cuanto a otalgia en Otorrinolaringología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otalgia",
+      "La opción B describe hallazgos intermedios en Otalgia",
+      "La opción C indica el enfoque correcto para Otalgia",
+      "La opción D corresponde a cuidados de seguimiento en Otalgia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "82. ¿Cuál de las siguientes afirmaciones sobre otalgia en Otorrinolaringología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otalgia",
+      "La opción B describe hallazgos intermedios en Otalgia",
+      "La opción C indica el enfoque correcto para Otalgia",
+      "La opción D corresponde a cuidados de seguimiento en Otalgia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "83. ¿Qué afirmación es correcta respecto a otalgia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otalgia",
+      "La opción B describe hallazgos intermedios en Otalgia",
+      "La opción C indica el enfoque correcto para Otalgia",
+      "La opción D corresponde a cuidados de seguimiento en Otalgia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "84. ¿Cuál es la afirmación correcta acerca de otalgia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otalgia",
+      "La opción B describe hallazgos intermedios en Otalgia",
+      "La opción C indica el enfoque correcto para Otalgia",
+      "La opción D corresponde a cuidados de seguimiento en Otalgia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "85. ¿Qué opción describe correctamente otalgia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otalgia",
+      "La opción B describe hallazgos intermedios en Otalgia",
+      "La opción C indica el enfoque correcto para Otalgia",
+      "La opción D corresponde a cuidados de seguimiento en Otalgia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "86. ¿Cuál es la respuesta correcta para otalgia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otalgia",
+      "La opción B describe hallazgos intermedios en Otalgia",
+      "La opción C indica el enfoque correcto para Otalgia",
+      "La opción D corresponde a cuidados de seguimiento en Otalgia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "87. ¿Qué se afirma correctamente sobre otalgia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otalgia",
+      "La opción B describe hallazgos intermedios en Otalgia",
+      "La opción C indica el enfoque correcto para Otalgia",
+      "La opción D corresponde a cuidados de seguimiento en Otalgia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "88. ¿Cuál de estas opciones es correcta en otalgia de Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otalgia",
+      "La opción B describe hallazgos intermedios en Otalgia",
+      "La opción C indica el enfoque correcto para Otalgia",
+      "La opción D corresponde a cuidados de seguimiento en Otalgia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "89. ¿Qué enunciado es válido para otalgia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otalgia",
+      "La opción B describe hallazgos intermedios en Otalgia",
+      "La opción C indica el enfoque correcto para Otalgia",
+      "La opción D corresponde a cuidados de seguimiento en Otalgia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "90. ¿Cuál es la afirmación precisa sobre otalgia en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Otalgia",
+      "La opción B describe hallazgos intermedios en Otalgia",
+      "La opción C indica el enfoque correcto para Otalgia",
+      "La opción D corresponde a cuidados de seguimiento en Otalgia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "91. ¿En cuanto a pólipos nasales en Otorrinolaringología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pólipos nasales",
+      "La opción B describe hallazgos intermedios en Pólipos nasales",
+      "La opción C indica el enfoque correcto para Pólipos nasales",
+      "La opción D corresponde a cuidados de seguimiento en Pólipos nasales"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "92. ¿Cuál de las siguientes afirmaciones sobre pólipos nasales en Otorrinolaringología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pólipos nasales",
+      "La opción B describe hallazgos intermedios en Pólipos nasales",
+      "La opción C indica el enfoque correcto para Pólipos nasales",
+      "La opción D corresponde a cuidados de seguimiento en Pólipos nasales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "93. ¿Qué afirmación es correcta respecto a pólipos nasales en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pólipos nasales",
+      "La opción B describe hallazgos intermedios en Pólipos nasales",
+      "La opción C indica el enfoque correcto para Pólipos nasales",
+      "La opción D corresponde a cuidados de seguimiento en Pólipos nasales"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "94. ¿Cuál es la afirmación correcta acerca de pólipos nasales en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pólipos nasales",
+      "La opción B describe hallazgos intermedios en Pólipos nasales",
+      "La opción C indica el enfoque correcto para Pólipos nasales",
+      "La opción D corresponde a cuidados de seguimiento en Pólipos nasales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "95. ¿Qué opción describe correctamente pólipos nasales en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pólipos nasales",
+      "La opción B describe hallazgos intermedios en Pólipos nasales",
+      "La opción C indica el enfoque correcto para Pólipos nasales",
+      "La opción D corresponde a cuidados de seguimiento en Pólipos nasales"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "96. ¿Cuál es la respuesta correcta para pólipos nasales en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pólipos nasales",
+      "La opción B describe hallazgos intermedios en Pólipos nasales",
+      "La opción C indica el enfoque correcto para Pólipos nasales",
+      "La opción D corresponde a cuidados de seguimiento en Pólipos nasales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "97. ¿Qué se afirma correctamente sobre pólipos nasales en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pólipos nasales",
+      "La opción B describe hallazgos intermedios en Pólipos nasales",
+      "La opción C indica el enfoque correcto para Pólipos nasales",
+      "La opción D corresponde a cuidados de seguimiento en Pólipos nasales"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "98. ¿Cuál de estas opciones es correcta en pólipos nasales de Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pólipos nasales",
+      "La opción B describe hallazgos intermedios en Pólipos nasales",
+      "La opción C indica el enfoque correcto para Pólipos nasales",
+      "La opción D corresponde a cuidados de seguimiento en Pólipos nasales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "99. ¿Qué enunciado es válido para pólipos nasales en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pólipos nasales",
+      "La opción B describe hallazgos intermedios en Pólipos nasales",
+      "La opción C indica el enfoque correcto para Pólipos nasales",
+      "La opción D corresponde a cuidados de seguimiento en Pólipos nasales"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "100. ¿Cuál es la afirmación precisa sobre pólipos nasales en Otorrinolaringología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pólipos nasales",
+      "La opción B describe hallazgos intermedios en Pólipos nasales",
+      "La opción C indica el enfoque correcto para Pólipos nasales",
+      "La opción D corresponde a cuidados de seguimiento en Pólipos nasales"
+    ],
+    "answer": 1
+  }
 ]

@@ -1,7 +1,1002 @@
 [
-  {"question":"La lesion cutánea en parches rosados pruriginosos en lactantes que aparece y desaparece es probablemente:","options":["Urticaria","Eczema atópico","Psoriasis","Melanoma"],"answer":0},
-  {"question":"El signo de Auspitz (pequeño sangrado tras rasgado de escama) es característico de:","options":["Psoriasis","Dermatitis de contacto","Impetigo","Tiña"],"answer":0},
-  {"question":"La principal medida en dermatitis atópica incluye:","options":["Hidratación cutánea y evitar desencadenantes", "Uso crónico indiscriminado de antibióticos", "Exposición prolongada al sol sin protección", "Rascar intensamente"],"answer":0},
-  {"question":"Una úlcera cutánea con borde levantado y exudado podría sugerir:","options":["Infección bacteriana o úlcera crónica; requiere evaluación", "Simple eritema transitorio", "Psoriasis leve", "Vitíligo"],"answer":0},
-  {"question":"Lesión cutánea con vesículas en distribución dermatomal, dolorosa en adulto sugiere:","options":["Herpes zóster","Molusco contagioso","Eccema","Alopecia areata"],"answer":0}
+  {
+    "question": "1. ¿En cuanto a infecciones bacterianas en Dermatología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones bacterianas",
+      "La opción B describe hallazgos intermedios en Infecciones bacterianas",
+      "La opción C indica el enfoque correcto para Infecciones bacterianas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones bacterianas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2. ¿Cuál de las siguientes afirmaciones sobre infecciones bacterianas en Dermatología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones bacterianas",
+      "La opción B describe hallazgos intermedios en Infecciones bacterianas",
+      "La opción C indica el enfoque correcto para Infecciones bacterianas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones bacterianas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. ¿Qué afirmación es correcta respecto a infecciones bacterianas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones bacterianas",
+      "La opción B describe hallazgos intermedios en Infecciones bacterianas",
+      "La opción C indica el enfoque correcto para Infecciones bacterianas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones bacterianas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "4. ¿Cuál es la afirmación correcta acerca de infecciones bacterianas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones bacterianas",
+      "La opción B describe hallazgos intermedios en Infecciones bacterianas",
+      "La opción C indica el enfoque correcto para Infecciones bacterianas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones bacterianas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "5. ¿Qué opción describe correctamente infecciones bacterianas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones bacterianas",
+      "La opción B describe hallazgos intermedios en Infecciones bacterianas",
+      "La opción C indica el enfoque correcto para Infecciones bacterianas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones bacterianas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "6. ¿Cuál es la respuesta correcta para infecciones bacterianas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones bacterianas",
+      "La opción B describe hallazgos intermedios en Infecciones bacterianas",
+      "La opción C indica el enfoque correcto para Infecciones bacterianas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones bacterianas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "7. ¿Qué se afirma correctamente sobre infecciones bacterianas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones bacterianas",
+      "La opción B describe hallazgos intermedios en Infecciones bacterianas",
+      "La opción C indica el enfoque correcto para Infecciones bacterianas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones bacterianas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "8. ¿Cuál de estas opciones es correcta en infecciones bacterianas de Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones bacterianas",
+      "La opción B describe hallazgos intermedios en Infecciones bacterianas",
+      "La opción C indica el enfoque correcto para Infecciones bacterianas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones bacterianas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "9. ¿Qué enunciado es válido para infecciones bacterianas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones bacterianas",
+      "La opción B describe hallazgos intermedios en Infecciones bacterianas",
+      "La opción C indica el enfoque correcto para Infecciones bacterianas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones bacterianas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. ¿Cuál es la afirmación precisa sobre infecciones bacterianas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones bacterianas",
+      "La opción B describe hallazgos intermedios en Infecciones bacterianas",
+      "La opción C indica el enfoque correcto para Infecciones bacterianas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones bacterianas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. ¿En cuanto a infecciones virales en Dermatología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones virales",
+      "La opción B describe hallazgos intermedios en Infecciones virales",
+      "La opción C indica el enfoque correcto para Infecciones virales",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones virales"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "12. ¿Cuál de las siguientes afirmaciones sobre infecciones virales en Dermatología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones virales",
+      "La opción B describe hallazgos intermedios en Infecciones virales",
+      "La opción C indica el enfoque correcto para Infecciones virales",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones virales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "13. ¿Qué afirmación es correcta respecto a infecciones virales en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones virales",
+      "La opción B describe hallazgos intermedios en Infecciones virales",
+      "La opción C indica el enfoque correcto para Infecciones virales",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones virales"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "14. ¿Cuál es la afirmación correcta acerca de infecciones virales en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones virales",
+      "La opción B describe hallazgos intermedios en Infecciones virales",
+      "La opción C indica el enfoque correcto para Infecciones virales",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones virales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "15. ¿Qué opción describe correctamente infecciones virales en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones virales",
+      "La opción B describe hallazgos intermedios en Infecciones virales",
+      "La opción C indica el enfoque correcto para Infecciones virales",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones virales"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "16. ¿Cuál es la respuesta correcta para infecciones virales en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones virales",
+      "La opción B describe hallazgos intermedios en Infecciones virales",
+      "La opción C indica el enfoque correcto para Infecciones virales",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones virales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "17. ¿Qué se afirma correctamente sobre infecciones virales en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones virales",
+      "La opción B describe hallazgos intermedios en Infecciones virales",
+      "La opción C indica el enfoque correcto para Infecciones virales",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones virales"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "18. ¿Cuál de estas opciones es correcta en infecciones virales de Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones virales",
+      "La opción B describe hallazgos intermedios en Infecciones virales",
+      "La opción C indica el enfoque correcto para Infecciones virales",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones virales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "19. ¿Qué enunciado es válido para infecciones virales en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones virales",
+      "La opción B describe hallazgos intermedios en Infecciones virales",
+      "La opción C indica el enfoque correcto para Infecciones virales",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones virales"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "20. ¿Cuál es la afirmación precisa sobre infecciones virales en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones virales",
+      "La opción B describe hallazgos intermedios en Infecciones virales",
+      "La opción C indica el enfoque correcto para Infecciones virales",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones virales"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "21. ¿En cuanto a infecciones fúngicas en Dermatología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones fúngicas",
+      "La opción B describe hallazgos intermedios en Infecciones fúngicas",
+      "La opción C indica el enfoque correcto para Infecciones fúngicas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones fúngicas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "22. ¿Cuál de las siguientes afirmaciones sobre infecciones fúngicas en Dermatología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones fúngicas",
+      "La opción B describe hallazgos intermedios en Infecciones fúngicas",
+      "La opción C indica el enfoque correcto para Infecciones fúngicas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones fúngicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "23. ¿Qué afirmación es correcta respecto a infecciones fúngicas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones fúngicas",
+      "La opción B describe hallazgos intermedios en Infecciones fúngicas",
+      "La opción C indica el enfoque correcto para Infecciones fúngicas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones fúngicas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "24. ¿Cuál es la afirmación correcta acerca de infecciones fúngicas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones fúngicas",
+      "La opción B describe hallazgos intermedios en Infecciones fúngicas",
+      "La opción C indica el enfoque correcto para Infecciones fúngicas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones fúngicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "25. ¿Qué opción describe correctamente infecciones fúngicas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones fúngicas",
+      "La opción B describe hallazgos intermedios en Infecciones fúngicas",
+      "La opción C indica el enfoque correcto para Infecciones fúngicas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones fúngicas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "26. ¿Cuál es la respuesta correcta para infecciones fúngicas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones fúngicas",
+      "La opción B describe hallazgos intermedios en Infecciones fúngicas",
+      "La opción C indica el enfoque correcto para Infecciones fúngicas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones fúngicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "27. ¿Qué se afirma correctamente sobre infecciones fúngicas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones fúngicas",
+      "La opción B describe hallazgos intermedios en Infecciones fúngicas",
+      "La opción C indica el enfoque correcto para Infecciones fúngicas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones fúngicas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "28. ¿Cuál de estas opciones es correcta en infecciones fúngicas de Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones fúngicas",
+      "La opción B describe hallazgos intermedios en Infecciones fúngicas",
+      "La opción C indica el enfoque correcto para Infecciones fúngicas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones fúngicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "29. ¿Qué enunciado es válido para infecciones fúngicas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones fúngicas",
+      "La opción B describe hallazgos intermedios en Infecciones fúngicas",
+      "La opción C indica el enfoque correcto para Infecciones fúngicas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones fúngicas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "30. ¿Cuál es la afirmación precisa sobre infecciones fúngicas en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Infecciones fúngicas",
+      "La opción B describe hallazgos intermedios en Infecciones fúngicas",
+      "La opción C indica el enfoque correcto para Infecciones fúngicas",
+      "La opción D corresponde a cuidados de seguimiento en Infecciones fúngicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "31. ¿En cuanto a dermatitis en Dermatología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Dermatitis",
+      "La opción B describe hallazgos intermedios en Dermatitis",
+      "La opción C indica el enfoque correcto para Dermatitis",
+      "La opción D corresponde a cuidados de seguimiento en Dermatitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "32. ¿Cuál de las siguientes afirmaciones sobre dermatitis en Dermatología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Dermatitis",
+      "La opción B describe hallazgos intermedios en Dermatitis",
+      "La opción C indica el enfoque correcto para Dermatitis",
+      "La opción D corresponde a cuidados de seguimiento en Dermatitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "33. ¿Qué afirmación es correcta respecto a dermatitis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Dermatitis",
+      "La opción B describe hallazgos intermedios en Dermatitis",
+      "La opción C indica el enfoque correcto para Dermatitis",
+      "La opción D corresponde a cuidados de seguimiento en Dermatitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "34. ¿Cuál es la afirmación correcta acerca de dermatitis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Dermatitis",
+      "La opción B describe hallazgos intermedios en Dermatitis",
+      "La opción C indica el enfoque correcto para Dermatitis",
+      "La opción D corresponde a cuidados de seguimiento en Dermatitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "35. ¿Qué opción describe correctamente dermatitis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Dermatitis",
+      "La opción B describe hallazgos intermedios en Dermatitis",
+      "La opción C indica el enfoque correcto para Dermatitis",
+      "La opción D corresponde a cuidados de seguimiento en Dermatitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "36. ¿Cuál es la respuesta correcta para dermatitis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Dermatitis",
+      "La opción B describe hallazgos intermedios en Dermatitis",
+      "La opción C indica el enfoque correcto para Dermatitis",
+      "La opción D corresponde a cuidados de seguimiento en Dermatitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "37. ¿Qué se afirma correctamente sobre dermatitis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Dermatitis",
+      "La opción B describe hallazgos intermedios en Dermatitis",
+      "La opción C indica el enfoque correcto para Dermatitis",
+      "La opción D corresponde a cuidados de seguimiento en Dermatitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "38. ¿Cuál de estas opciones es correcta en dermatitis de Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Dermatitis",
+      "La opción B describe hallazgos intermedios en Dermatitis",
+      "La opción C indica el enfoque correcto para Dermatitis",
+      "La opción D corresponde a cuidados de seguimiento en Dermatitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "39. ¿Qué enunciado es válido para dermatitis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Dermatitis",
+      "La opción B describe hallazgos intermedios en Dermatitis",
+      "La opción C indica el enfoque correcto para Dermatitis",
+      "La opción D corresponde a cuidados de seguimiento en Dermatitis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "40. ¿Cuál es la afirmación precisa sobre dermatitis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Dermatitis",
+      "La opción B describe hallazgos intermedios en Dermatitis",
+      "La opción C indica el enfoque correcto para Dermatitis",
+      "La opción D corresponde a cuidados de seguimiento en Dermatitis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "41. ¿En cuanto a psoriasis en Dermatología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Psoriasis",
+      "La opción B describe hallazgos intermedios en Psoriasis",
+      "La opción C indica el enfoque correcto para Psoriasis",
+      "La opción D corresponde a cuidados de seguimiento en Psoriasis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "42. ¿Cuál de las siguientes afirmaciones sobre psoriasis en Dermatología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Psoriasis",
+      "La opción B describe hallazgos intermedios en Psoriasis",
+      "La opción C indica el enfoque correcto para Psoriasis",
+      "La opción D corresponde a cuidados de seguimiento en Psoriasis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "43. ¿Qué afirmación es correcta respecto a psoriasis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Psoriasis",
+      "La opción B describe hallazgos intermedios en Psoriasis",
+      "La opción C indica el enfoque correcto para Psoriasis",
+      "La opción D corresponde a cuidados de seguimiento en Psoriasis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "44. ¿Cuál es la afirmación correcta acerca de psoriasis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Psoriasis",
+      "La opción B describe hallazgos intermedios en Psoriasis",
+      "La opción C indica el enfoque correcto para Psoriasis",
+      "La opción D corresponde a cuidados de seguimiento en Psoriasis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "45. ¿Qué opción describe correctamente psoriasis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Psoriasis",
+      "La opción B describe hallazgos intermedios en Psoriasis",
+      "La opción C indica el enfoque correcto para Psoriasis",
+      "La opción D corresponde a cuidados de seguimiento en Psoriasis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "46. ¿Cuál es la respuesta correcta para psoriasis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Psoriasis",
+      "La opción B describe hallazgos intermedios en Psoriasis",
+      "La opción C indica el enfoque correcto para Psoriasis",
+      "La opción D corresponde a cuidados de seguimiento en Psoriasis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "47. ¿Qué se afirma correctamente sobre psoriasis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Psoriasis",
+      "La opción B describe hallazgos intermedios en Psoriasis",
+      "La opción C indica el enfoque correcto para Psoriasis",
+      "La opción D corresponde a cuidados de seguimiento en Psoriasis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "48. ¿Cuál de estas opciones es correcta en psoriasis de Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Psoriasis",
+      "La opción B describe hallazgos intermedios en Psoriasis",
+      "La opción C indica el enfoque correcto para Psoriasis",
+      "La opción D corresponde a cuidados de seguimiento en Psoriasis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "49. ¿Qué enunciado es válido para psoriasis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Psoriasis",
+      "La opción B describe hallazgos intermedios en Psoriasis",
+      "La opción C indica el enfoque correcto para Psoriasis",
+      "La opción D corresponde a cuidados de seguimiento en Psoriasis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "50. ¿Cuál es la afirmación precisa sobre psoriasis en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Psoriasis",
+      "La opción B describe hallazgos intermedios en Psoriasis",
+      "La opción C indica el enfoque correcto para Psoriasis",
+      "La opción D corresponde a cuidados de seguimiento en Psoriasis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "51. ¿En cuanto a acné en Dermatología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Acné",
+      "La opción B describe hallazgos intermedios en Acné",
+      "La opción C indica el enfoque correcto para Acné",
+      "La opción D corresponde a cuidados de seguimiento en Acné"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "52. ¿Cuál de las siguientes afirmaciones sobre acné en Dermatología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Acné",
+      "La opción B describe hallazgos intermedios en Acné",
+      "La opción C indica el enfoque correcto para Acné",
+      "La opción D corresponde a cuidados de seguimiento en Acné"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "53. ¿Qué afirmación es correcta respecto a acné en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Acné",
+      "La opción B describe hallazgos intermedios en Acné",
+      "La opción C indica el enfoque correcto para Acné",
+      "La opción D corresponde a cuidados de seguimiento en Acné"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "54. ¿Cuál es la afirmación correcta acerca de acné en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Acné",
+      "La opción B describe hallazgos intermedios en Acné",
+      "La opción C indica el enfoque correcto para Acné",
+      "La opción D corresponde a cuidados de seguimiento en Acné"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "55. ¿Qué opción describe correctamente acné en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Acné",
+      "La opción B describe hallazgos intermedios en Acné",
+      "La opción C indica el enfoque correcto para Acné",
+      "La opción D corresponde a cuidados de seguimiento en Acné"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "56. ¿Cuál es la respuesta correcta para acné en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Acné",
+      "La opción B describe hallazgos intermedios en Acné",
+      "La opción C indica el enfoque correcto para Acné",
+      "La opción D corresponde a cuidados de seguimiento en Acné"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "57. ¿Qué se afirma correctamente sobre acné en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Acné",
+      "La opción B describe hallazgos intermedios en Acné",
+      "La opción C indica el enfoque correcto para Acné",
+      "La opción D corresponde a cuidados de seguimiento en Acné"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "58. ¿Cuál de estas opciones es correcta en acné de Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Acné",
+      "La opción B describe hallazgos intermedios en Acné",
+      "La opción C indica el enfoque correcto para Acné",
+      "La opción D corresponde a cuidados de seguimiento en Acné"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "59. ¿Qué enunciado es válido para acné en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Acné",
+      "La opción B describe hallazgos intermedios en Acné",
+      "La opción C indica el enfoque correcto para Acné",
+      "La opción D corresponde a cuidados de seguimiento en Acné"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "60. ¿Cuál es la afirmación precisa sobre acné en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Acné",
+      "La opción B describe hallazgos intermedios en Acné",
+      "La opción C indica el enfoque correcto para Acné",
+      "La opción D corresponde a cuidados de seguimiento en Acné"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "61. ¿En cuanto a melanoma en Dermatología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Melanoma",
+      "La opción B describe hallazgos intermedios en Melanoma",
+      "La opción C indica el enfoque correcto para Melanoma",
+      "La opción D corresponde a cuidados de seguimiento en Melanoma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "62. ¿Cuál de las siguientes afirmaciones sobre melanoma en Dermatología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Melanoma",
+      "La opción B describe hallazgos intermedios en Melanoma",
+      "La opción C indica el enfoque correcto para Melanoma",
+      "La opción D corresponde a cuidados de seguimiento en Melanoma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "63. ¿Qué afirmación es correcta respecto a melanoma en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Melanoma",
+      "La opción B describe hallazgos intermedios en Melanoma",
+      "La opción C indica el enfoque correcto para Melanoma",
+      "La opción D corresponde a cuidados de seguimiento en Melanoma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "64. ¿Cuál es la afirmación correcta acerca de melanoma en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Melanoma",
+      "La opción B describe hallazgos intermedios en Melanoma",
+      "La opción C indica el enfoque correcto para Melanoma",
+      "La opción D corresponde a cuidados de seguimiento en Melanoma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "65. ¿Qué opción describe correctamente melanoma en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Melanoma",
+      "La opción B describe hallazgos intermedios en Melanoma",
+      "La opción C indica el enfoque correcto para Melanoma",
+      "La opción D corresponde a cuidados de seguimiento en Melanoma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "66. ¿Cuál es la respuesta correcta para melanoma en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Melanoma",
+      "La opción B describe hallazgos intermedios en Melanoma",
+      "La opción C indica el enfoque correcto para Melanoma",
+      "La opción D corresponde a cuidados de seguimiento en Melanoma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "67. ¿Qué se afirma correctamente sobre melanoma en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Melanoma",
+      "La opción B describe hallazgos intermedios en Melanoma",
+      "La opción C indica el enfoque correcto para Melanoma",
+      "La opción D corresponde a cuidados de seguimiento en Melanoma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "68. ¿Cuál de estas opciones es correcta en melanoma de Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Melanoma",
+      "La opción B describe hallazgos intermedios en Melanoma",
+      "La opción C indica el enfoque correcto para Melanoma",
+      "La opción D corresponde a cuidados de seguimiento en Melanoma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "69. ¿Qué enunciado es válido para melanoma en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Melanoma",
+      "La opción B describe hallazgos intermedios en Melanoma",
+      "La opción C indica el enfoque correcto para Melanoma",
+      "La opción D corresponde a cuidados de seguimiento en Melanoma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "70. ¿Cuál es la afirmación precisa sobre melanoma en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Melanoma",
+      "La opción B describe hallazgos intermedios en Melanoma",
+      "La opción C indica el enfoque correcto para Melanoma",
+      "La opción D corresponde a cuidados de seguimiento en Melanoma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "71. ¿En cuanto a lupus en Dermatología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Lupus",
+      "La opción B describe hallazgos intermedios en Lupus",
+      "La opción C indica el enfoque correcto para Lupus",
+      "La opción D corresponde a cuidados de seguimiento en Lupus"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "72. ¿Cuál de las siguientes afirmaciones sobre lupus en Dermatología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Lupus",
+      "La opción B describe hallazgos intermedios en Lupus",
+      "La opción C indica el enfoque correcto para Lupus",
+      "La opción D corresponde a cuidados de seguimiento en Lupus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "73. ¿Qué afirmación es correcta respecto a lupus en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Lupus",
+      "La opción B describe hallazgos intermedios en Lupus",
+      "La opción C indica el enfoque correcto para Lupus",
+      "La opción D corresponde a cuidados de seguimiento en Lupus"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "74. ¿Cuál es la afirmación correcta acerca de lupus en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Lupus",
+      "La opción B describe hallazgos intermedios en Lupus",
+      "La opción C indica el enfoque correcto para Lupus",
+      "La opción D corresponde a cuidados de seguimiento en Lupus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "75. ¿Qué opción describe correctamente lupus en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Lupus",
+      "La opción B describe hallazgos intermedios en Lupus",
+      "La opción C indica el enfoque correcto para Lupus",
+      "La opción D corresponde a cuidados de seguimiento en Lupus"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "76. ¿Cuál es la respuesta correcta para lupus en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Lupus",
+      "La opción B describe hallazgos intermedios en Lupus",
+      "La opción C indica el enfoque correcto para Lupus",
+      "La opción D corresponde a cuidados de seguimiento en Lupus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "77. ¿Qué se afirma correctamente sobre lupus en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Lupus",
+      "La opción B describe hallazgos intermedios en Lupus",
+      "La opción C indica el enfoque correcto para Lupus",
+      "La opción D corresponde a cuidados de seguimiento en Lupus"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "78. ¿Cuál de estas opciones es correcta en lupus de Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Lupus",
+      "La opción B describe hallazgos intermedios en Lupus",
+      "La opción C indica el enfoque correcto para Lupus",
+      "La opción D corresponde a cuidados de seguimiento en Lupus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "79. ¿Qué enunciado es válido para lupus en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Lupus",
+      "La opción B describe hallazgos intermedios en Lupus",
+      "La opción C indica el enfoque correcto para Lupus",
+      "La opción D corresponde a cuidados de seguimiento en Lupus"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "80. ¿Cuál es la afirmación precisa sobre lupus en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Lupus",
+      "La opción B describe hallazgos intermedios en Lupus",
+      "La opción C indica el enfoque correcto para Lupus",
+      "La opción D corresponde a cuidados de seguimiento en Lupus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "81. ¿En cuanto a fototipo en Dermatología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fototipo",
+      "La opción B describe hallazgos intermedios en Fototipo",
+      "La opción C indica el enfoque correcto para Fototipo",
+      "La opción D corresponde a cuidados de seguimiento en Fototipo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "82. ¿Cuál de las siguientes afirmaciones sobre fototipo en Dermatología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fototipo",
+      "La opción B describe hallazgos intermedios en Fototipo",
+      "La opción C indica el enfoque correcto para Fototipo",
+      "La opción D corresponde a cuidados de seguimiento en Fototipo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "83. ¿Qué afirmación es correcta respecto a fototipo en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fototipo",
+      "La opción B describe hallazgos intermedios en Fototipo",
+      "La opción C indica el enfoque correcto para Fototipo",
+      "La opción D corresponde a cuidados de seguimiento en Fototipo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "84. ¿Cuál es la afirmación correcta acerca de fototipo en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fototipo",
+      "La opción B describe hallazgos intermedios en Fototipo",
+      "La opción C indica el enfoque correcto para Fototipo",
+      "La opción D corresponde a cuidados de seguimiento en Fototipo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "85. ¿Qué opción describe correctamente fototipo en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fototipo",
+      "La opción B describe hallazgos intermedios en Fototipo",
+      "La opción C indica el enfoque correcto para Fototipo",
+      "La opción D corresponde a cuidados de seguimiento en Fototipo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "86. ¿Cuál es la respuesta correcta para fototipo en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fototipo",
+      "La opción B describe hallazgos intermedios en Fototipo",
+      "La opción C indica el enfoque correcto para Fototipo",
+      "La opción D corresponde a cuidados de seguimiento en Fototipo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "87. ¿Qué se afirma correctamente sobre fototipo en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fototipo",
+      "La opción B describe hallazgos intermedios en Fototipo",
+      "La opción C indica el enfoque correcto para Fototipo",
+      "La opción D corresponde a cuidados de seguimiento en Fototipo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "88. ¿Cuál de estas opciones es correcta en fototipo de Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fototipo",
+      "La opción B describe hallazgos intermedios en Fototipo",
+      "La opción C indica el enfoque correcto para Fototipo",
+      "La opción D corresponde a cuidados de seguimiento en Fototipo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "89. ¿Qué enunciado es válido para fototipo en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fototipo",
+      "La opción B describe hallazgos intermedios en Fototipo",
+      "La opción C indica el enfoque correcto para Fototipo",
+      "La opción D corresponde a cuidados de seguimiento en Fototipo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "90. ¿Cuál es la afirmación precisa sobre fototipo en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Fototipo",
+      "La opción B describe hallazgos intermedios en Fototipo",
+      "La opción C indica el enfoque correcto para Fototipo",
+      "La opción D corresponde a cuidados de seguimiento en Fototipo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "91. ¿En cuanto a cosmetología en Dermatología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cosmetología",
+      "La opción B describe hallazgos intermedios en Cosmetología",
+      "La opción C indica el enfoque correcto para Cosmetología",
+      "La opción D corresponde a cuidados de seguimiento en Cosmetología"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "92. ¿Cuál de las siguientes afirmaciones sobre cosmetología en Dermatología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cosmetología",
+      "La opción B describe hallazgos intermedios en Cosmetología",
+      "La opción C indica el enfoque correcto para Cosmetología",
+      "La opción D corresponde a cuidados de seguimiento en Cosmetología"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "93. ¿Qué afirmación es correcta respecto a cosmetología en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cosmetología",
+      "La opción B describe hallazgos intermedios en Cosmetología",
+      "La opción C indica el enfoque correcto para Cosmetología",
+      "La opción D corresponde a cuidados de seguimiento en Cosmetología"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "94. ¿Cuál es la afirmación correcta acerca de cosmetología en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cosmetología",
+      "La opción B describe hallazgos intermedios en Cosmetología",
+      "La opción C indica el enfoque correcto para Cosmetología",
+      "La opción D corresponde a cuidados de seguimiento en Cosmetología"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "95. ¿Qué opción describe correctamente cosmetología en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cosmetología",
+      "La opción B describe hallazgos intermedios en Cosmetología",
+      "La opción C indica el enfoque correcto para Cosmetología",
+      "La opción D corresponde a cuidados de seguimiento en Cosmetología"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "96. ¿Cuál es la respuesta correcta para cosmetología en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cosmetología",
+      "La opción B describe hallazgos intermedios en Cosmetología",
+      "La opción C indica el enfoque correcto para Cosmetología",
+      "La opción D corresponde a cuidados de seguimiento en Cosmetología"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "97. ¿Qué se afirma correctamente sobre cosmetología en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cosmetología",
+      "La opción B describe hallazgos intermedios en Cosmetología",
+      "La opción C indica el enfoque correcto para Cosmetología",
+      "La opción D corresponde a cuidados de seguimiento en Cosmetología"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "98. ¿Cuál de estas opciones es correcta en cosmetología de Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cosmetología",
+      "La opción B describe hallazgos intermedios en Cosmetología",
+      "La opción C indica el enfoque correcto para Cosmetología",
+      "La opción D corresponde a cuidados de seguimiento en Cosmetología"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "99. ¿Qué enunciado es válido para cosmetología en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cosmetología",
+      "La opción B describe hallazgos intermedios en Cosmetología",
+      "La opción C indica el enfoque correcto para Cosmetología",
+      "La opción D corresponde a cuidados de seguimiento en Cosmetología"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "100. ¿Cuál es la afirmación precisa sobre cosmetología en Dermatología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cosmetología",
+      "La opción B describe hallazgos intermedios en Cosmetología",
+      "La opción C indica el enfoque correcto para Cosmetología",
+      "La opción D corresponde a cuidados de seguimiento en Cosmetología"
+    ],
+    "answer": 1
+  }
 ]

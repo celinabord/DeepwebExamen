@@ -1,7 +1,1002 @@
 [
-  {"question":"Síntoma clásico de insuficiencia cardiaca en pediatría que sugiere congestión?","options":["Edema periférico y hepatomegalia en lactantes","Pérdida de peso exclusiva","Mialgias sin signos sistémicos","Hipoacusia"],"answer":0},
-  {"question":"La cardiopatía congénita cianótica más frecuente incluye: ","options":["Tetralogía de Fallot","Comunicación interventricular aislada","Coartación de la aorta","Persistencia del conducto arterioso"],"answer":0},
-  {"question":"En el diagnóstico de miocarditis aguda, un hallazgo útil es:","options":["Elevación de troponinas y disfunción ventricular en ecocardiograma","Electrocardiograma normal siempre","Radiografía de columna","Niveles bajos de glucosa"],"answer":0},
-  {"question":"Cuál es el método de imagen de elección para evaluar la función ventricular en pediatría?","options":["Ecocardiograma (ecografía cardíaca)","TC de tórax","Radiografía de abdomen","Endoscopia"],"answer":0},
-  {"question":"En un paciente con choque cardiogénico, una intervención inmediata es:","options":["Soporte hemodinámico y consulta con cardiología/UTI", "Aislamiento domiciliario", "Administrar antibióticos orales", "Hacer fisioterapia"],"answer":0}
+  {
+    "question": "1. ¿En cuanto a arritmias en Cardiología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Arritmias",
+      "La opción B describe hallazgos intermedios en Arritmias",
+      "La opción C indica el enfoque correcto para Arritmias",
+      "La opción D corresponde a cuidados de seguimiento en Arritmias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2. ¿Cuál de las siguientes afirmaciones sobre arritmias en Cardiología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Arritmias",
+      "La opción B describe hallazgos intermedios en Arritmias",
+      "La opción C indica el enfoque correcto para Arritmias",
+      "La opción D corresponde a cuidados de seguimiento en Arritmias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. ¿Qué afirmación es correcta respecto a arritmias en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Arritmias",
+      "La opción B describe hallazgos intermedios en Arritmias",
+      "La opción C indica el enfoque correcto para Arritmias",
+      "La opción D corresponde a cuidados de seguimiento en Arritmias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "4. ¿Cuál es la afirmación correcta acerca de arritmias en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Arritmias",
+      "La opción B describe hallazgos intermedios en Arritmias",
+      "La opción C indica el enfoque correcto para Arritmias",
+      "La opción D corresponde a cuidados de seguimiento en Arritmias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "5. ¿Qué opción describe correctamente arritmias en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Arritmias",
+      "La opción B describe hallazgos intermedios en Arritmias",
+      "La opción C indica el enfoque correcto para Arritmias",
+      "La opción D corresponde a cuidados de seguimiento en Arritmias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "6. ¿Cuál es la respuesta correcta para arritmias en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Arritmias",
+      "La opción B describe hallazgos intermedios en Arritmias",
+      "La opción C indica el enfoque correcto para Arritmias",
+      "La opción D corresponde a cuidados de seguimiento en Arritmias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "7. ¿Qué se afirma correctamente sobre arritmias en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Arritmias",
+      "La opción B describe hallazgos intermedios en Arritmias",
+      "La opción C indica el enfoque correcto para Arritmias",
+      "La opción D corresponde a cuidados de seguimiento en Arritmias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "8. ¿Cuál de estas opciones es correcta en arritmias de Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Arritmias",
+      "La opción B describe hallazgos intermedios en Arritmias",
+      "La opción C indica el enfoque correcto para Arritmias",
+      "La opción D corresponde a cuidados de seguimiento en Arritmias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "9. ¿Qué enunciado es válido para arritmias en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Arritmias",
+      "La opción B describe hallazgos intermedios en Arritmias",
+      "La opción C indica el enfoque correcto para Arritmias",
+      "La opción D corresponde a cuidados de seguimiento en Arritmias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. ¿Cuál es la afirmación precisa sobre arritmias en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Arritmias",
+      "La opción B describe hallazgos intermedios en Arritmias",
+      "La opción C indica el enfoque correcto para Arritmias",
+      "La opción D corresponde a cuidados de seguimiento en Arritmias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. ¿En cuanto a insuficiencia cardíaca en Cardiología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Insuficiencia cardíaca",
+      "La opción B describe hallazgos intermedios en Insuficiencia cardíaca",
+      "La opción C indica el enfoque correcto para Insuficiencia cardíaca",
+      "La opción D corresponde a cuidados de seguimiento en Insuficiencia cardíaca"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "12. ¿Cuál de las siguientes afirmaciones sobre insuficiencia cardíaca en Cardiología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Insuficiencia cardíaca",
+      "La opción B describe hallazgos intermedios en Insuficiencia cardíaca",
+      "La opción C indica el enfoque correcto para Insuficiencia cardíaca",
+      "La opción D corresponde a cuidados de seguimiento en Insuficiencia cardíaca"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "13. ¿Qué afirmación es correcta respecto a insuficiencia cardíaca en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Insuficiencia cardíaca",
+      "La opción B describe hallazgos intermedios en Insuficiencia cardíaca",
+      "La opción C indica el enfoque correcto para Insuficiencia cardíaca",
+      "La opción D corresponde a cuidados de seguimiento en Insuficiencia cardíaca"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "14. ¿Cuál es la afirmación correcta acerca de insuficiencia cardíaca en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Insuficiencia cardíaca",
+      "La opción B describe hallazgos intermedios en Insuficiencia cardíaca",
+      "La opción C indica el enfoque correcto para Insuficiencia cardíaca",
+      "La opción D corresponde a cuidados de seguimiento en Insuficiencia cardíaca"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "15. ¿Qué opción describe correctamente insuficiencia cardíaca en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Insuficiencia cardíaca",
+      "La opción B describe hallazgos intermedios en Insuficiencia cardíaca",
+      "La opción C indica el enfoque correcto para Insuficiencia cardíaca",
+      "La opción D corresponde a cuidados de seguimiento en Insuficiencia cardíaca"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "16. ¿Cuál es la respuesta correcta para insuficiencia cardíaca en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Insuficiencia cardíaca",
+      "La opción B describe hallazgos intermedios en Insuficiencia cardíaca",
+      "La opción C indica el enfoque correcto para Insuficiencia cardíaca",
+      "La opción D corresponde a cuidados de seguimiento en Insuficiencia cardíaca"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "17. ¿Qué se afirma correctamente sobre insuficiencia cardíaca en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Insuficiencia cardíaca",
+      "La opción B describe hallazgos intermedios en Insuficiencia cardíaca",
+      "La opción C indica el enfoque correcto para Insuficiencia cardíaca",
+      "La opción D corresponde a cuidados de seguimiento en Insuficiencia cardíaca"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "18. ¿Cuál de estas opciones es correcta en insuficiencia cardíaca de Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Insuficiencia cardíaca",
+      "La opción B describe hallazgos intermedios en Insuficiencia cardíaca",
+      "La opción C indica el enfoque correcto para Insuficiencia cardíaca",
+      "La opción D corresponde a cuidados de seguimiento en Insuficiencia cardíaca"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "19. ¿Qué enunciado es válido para insuficiencia cardíaca en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Insuficiencia cardíaca",
+      "La opción B describe hallazgos intermedios en Insuficiencia cardíaca",
+      "La opción C indica el enfoque correcto para Insuficiencia cardíaca",
+      "La opción D corresponde a cuidados de seguimiento en Insuficiencia cardíaca"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "20. ¿Cuál es la afirmación precisa sobre insuficiencia cardíaca en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Insuficiencia cardíaca",
+      "La opción B describe hallazgos intermedios en Insuficiencia cardíaca",
+      "La opción C indica el enfoque correcto para Insuficiencia cardíaca",
+      "La opción D corresponde a cuidados de seguimiento en Insuficiencia cardíaca"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "21. ¿En cuanto a isquemia en Cardiología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Isquemia",
+      "La opción B describe hallazgos intermedios en Isquemia",
+      "La opción C indica el enfoque correcto para Isquemia",
+      "La opción D corresponde a cuidados de seguimiento en Isquemia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "22. ¿Cuál de las siguientes afirmaciones sobre isquemia en Cardiología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Isquemia",
+      "La opción B describe hallazgos intermedios en Isquemia",
+      "La opción C indica el enfoque correcto para Isquemia",
+      "La opción D corresponde a cuidados de seguimiento en Isquemia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "23. ¿Qué afirmación es correcta respecto a isquemia en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Isquemia",
+      "La opción B describe hallazgos intermedios en Isquemia",
+      "La opción C indica el enfoque correcto para Isquemia",
+      "La opción D corresponde a cuidados de seguimiento en Isquemia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "24. ¿Cuál es la afirmación correcta acerca de isquemia en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Isquemia",
+      "La opción B describe hallazgos intermedios en Isquemia",
+      "La opción C indica el enfoque correcto para Isquemia",
+      "La opción D corresponde a cuidados de seguimiento en Isquemia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "25. ¿Qué opción describe correctamente isquemia en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Isquemia",
+      "La opción B describe hallazgos intermedios en Isquemia",
+      "La opción C indica el enfoque correcto para Isquemia",
+      "La opción D corresponde a cuidados de seguimiento en Isquemia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "26. ¿Cuál es la respuesta correcta para isquemia en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Isquemia",
+      "La opción B describe hallazgos intermedios en Isquemia",
+      "La opción C indica el enfoque correcto para Isquemia",
+      "La opción D corresponde a cuidados de seguimiento en Isquemia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "27. ¿Qué se afirma correctamente sobre isquemia en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Isquemia",
+      "La opción B describe hallazgos intermedios en Isquemia",
+      "La opción C indica el enfoque correcto para Isquemia",
+      "La opción D corresponde a cuidados de seguimiento en Isquemia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "28. ¿Cuál de estas opciones es correcta en isquemia de Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Isquemia",
+      "La opción B describe hallazgos intermedios en Isquemia",
+      "La opción C indica el enfoque correcto para Isquemia",
+      "La opción D corresponde a cuidados de seguimiento en Isquemia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "29. ¿Qué enunciado es válido para isquemia en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Isquemia",
+      "La opción B describe hallazgos intermedios en Isquemia",
+      "La opción C indica el enfoque correcto para Isquemia",
+      "La opción D corresponde a cuidados de seguimiento en Isquemia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "30. ¿Cuál es la afirmación precisa sobre isquemia en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Isquemia",
+      "La opción B describe hallazgos intermedios en Isquemia",
+      "La opción C indica el enfoque correcto para Isquemia",
+      "La opción D corresponde a cuidados de seguimiento en Isquemia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "31. ¿En cuanto a hipertensión en Cardiología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión",
+      "La opción B describe hallazgos intermedios en Hipertensión",
+      "La opción C indica el enfoque correcto para Hipertensión",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "32. ¿Cuál de las siguientes afirmaciones sobre hipertensión en Cardiología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión",
+      "La opción B describe hallazgos intermedios en Hipertensión",
+      "La opción C indica el enfoque correcto para Hipertensión",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "33. ¿Qué afirmación es correcta respecto a hipertensión en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión",
+      "La opción B describe hallazgos intermedios en Hipertensión",
+      "La opción C indica el enfoque correcto para Hipertensión",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "34. ¿Cuál es la afirmación correcta acerca de hipertensión en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión",
+      "La opción B describe hallazgos intermedios en Hipertensión",
+      "La opción C indica el enfoque correcto para Hipertensión",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "35. ¿Qué opción describe correctamente hipertensión en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión",
+      "La opción B describe hallazgos intermedios en Hipertensión",
+      "La opción C indica el enfoque correcto para Hipertensión",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "36. ¿Cuál es la respuesta correcta para hipertensión en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión",
+      "La opción B describe hallazgos intermedios en Hipertensión",
+      "La opción C indica el enfoque correcto para Hipertensión",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "37. ¿Qué se afirma correctamente sobre hipertensión en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión",
+      "La opción B describe hallazgos intermedios en Hipertensión",
+      "La opción C indica el enfoque correcto para Hipertensión",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "38. ¿Cuál de estas opciones es correcta en hipertensión de Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión",
+      "La opción B describe hallazgos intermedios en Hipertensión",
+      "La opción C indica el enfoque correcto para Hipertensión",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "39. ¿Qué enunciado es válido para hipertensión en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión",
+      "La opción B describe hallazgos intermedios en Hipertensión",
+      "La opción C indica el enfoque correcto para Hipertensión",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "40. ¿Cuál es la afirmación precisa sobre hipertensión en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hipertensión",
+      "La opción B describe hallazgos intermedios en Hipertensión",
+      "La opción C indica el enfoque correcto para Hipertensión",
+      "La opción D corresponde a cuidados de seguimiento en Hipertensión"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "41. ¿En cuanto a valvulopatías en Cardiología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Valvulopatías",
+      "La opción B describe hallazgos intermedios en Valvulopatías",
+      "La opción C indica el enfoque correcto para Valvulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Valvulopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "42. ¿Cuál de las siguientes afirmaciones sobre valvulopatías en Cardiología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Valvulopatías",
+      "La opción B describe hallazgos intermedios en Valvulopatías",
+      "La opción C indica el enfoque correcto para Valvulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Valvulopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "43. ¿Qué afirmación es correcta respecto a valvulopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Valvulopatías",
+      "La opción B describe hallazgos intermedios en Valvulopatías",
+      "La opción C indica el enfoque correcto para Valvulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Valvulopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "44. ¿Cuál es la afirmación correcta acerca de valvulopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Valvulopatías",
+      "La opción B describe hallazgos intermedios en Valvulopatías",
+      "La opción C indica el enfoque correcto para Valvulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Valvulopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "45. ¿Qué opción describe correctamente valvulopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Valvulopatías",
+      "La opción B describe hallazgos intermedios en Valvulopatías",
+      "La opción C indica el enfoque correcto para Valvulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Valvulopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "46. ¿Cuál es la respuesta correcta para valvulopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Valvulopatías",
+      "La opción B describe hallazgos intermedios en Valvulopatías",
+      "La opción C indica el enfoque correcto para Valvulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Valvulopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "47. ¿Qué se afirma correctamente sobre valvulopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Valvulopatías",
+      "La opción B describe hallazgos intermedios en Valvulopatías",
+      "La opción C indica el enfoque correcto para Valvulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Valvulopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "48. ¿Cuál de estas opciones es correcta en valvulopatías de Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Valvulopatías",
+      "La opción B describe hallazgos intermedios en Valvulopatías",
+      "La opción C indica el enfoque correcto para Valvulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Valvulopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "49. ¿Qué enunciado es válido para valvulopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Valvulopatías",
+      "La opción B describe hallazgos intermedios en Valvulopatías",
+      "La opción C indica el enfoque correcto para Valvulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Valvulopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "50. ¿Cuál es la afirmación precisa sobre valvulopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Valvulopatías",
+      "La opción B describe hallazgos intermedios en Valvulopatías",
+      "La opción C indica el enfoque correcto para Valvulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Valvulopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "51. ¿En cuanto a cardiopatías congénitas en Cardiología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cardiopatías congénitas",
+      "La opción B describe hallazgos intermedios en Cardiopatías congénitas",
+      "La opción C indica el enfoque correcto para Cardiopatías congénitas",
+      "La opción D corresponde a cuidados de seguimiento en Cardiopatías congénitas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "52. ¿Cuál de las siguientes afirmaciones sobre cardiopatías congénitas en Cardiología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cardiopatías congénitas",
+      "La opción B describe hallazgos intermedios en Cardiopatías congénitas",
+      "La opción C indica el enfoque correcto para Cardiopatías congénitas",
+      "La opción D corresponde a cuidados de seguimiento en Cardiopatías congénitas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "53. ¿Qué afirmación es correcta respecto a cardiopatías congénitas en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cardiopatías congénitas",
+      "La opción B describe hallazgos intermedios en Cardiopatías congénitas",
+      "La opción C indica el enfoque correcto para Cardiopatías congénitas",
+      "La opción D corresponde a cuidados de seguimiento en Cardiopatías congénitas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "54. ¿Cuál es la afirmación correcta acerca de cardiopatías congénitas en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cardiopatías congénitas",
+      "La opción B describe hallazgos intermedios en Cardiopatías congénitas",
+      "La opción C indica el enfoque correcto para Cardiopatías congénitas",
+      "La opción D corresponde a cuidados de seguimiento en Cardiopatías congénitas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "55. ¿Qué opción describe correctamente cardiopatías congénitas en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cardiopatías congénitas",
+      "La opción B describe hallazgos intermedios en Cardiopatías congénitas",
+      "La opción C indica el enfoque correcto para Cardiopatías congénitas",
+      "La opción D corresponde a cuidados de seguimiento en Cardiopatías congénitas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "56. ¿Cuál es la respuesta correcta para cardiopatías congénitas en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cardiopatías congénitas",
+      "La opción B describe hallazgos intermedios en Cardiopatías congénitas",
+      "La opción C indica el enfoque correcto para Cardiopatías congénitas",
+      "La opción D corresponde a cuidados de seguimiento en Cardiopatías congénitas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "57. ¿Qué se afirma correctamente sobre cardiopatías congénitas en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cardiopatías congénitas",
+      "La opción B describe hallazgos intermedios en Cardiopatías congénitas",
+      "La opción C indica el enfoque correcto para Cardiopatías congénitas",
+      "La opción D corresponde a cuidados de seguimiento en Cardiopatías congénitas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "58. ¿Cuál de estas opciones es correcta en cardiopatías congénitas de Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cardiopatías congénitas",
+      "La opción B describe hallazgos intermedios en Cardiopatías congénitas",
+      "La opción C indica el enfoque correcto para Cardiopatías congénitas",
+      "La opción D corresponde a cuidados de seguimiento en Cardiopatías congénitas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "59. ¿Qué enunciado es válido para cardiopatías congénitas en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cardiopatías congénitas",
+      "La opción B describe hallazgos intermedios en Cardiopatías congénitas",
+      "La opción C indica el enfoque correcto para Cardiopatías congénitas",
+      "La opción D corresponde a cuidados de seguimiento en Cardiopatías congénitas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "60. ¿Cuál es la afirmación precisa sobre cardiopatías congénitas en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Cardiopatías congénitas",
+      "La opción B describe hallazgos intermedios en Cardiopatías congénitas",
+      "La opción C indica el enfoque correcto para Cardiopatías congénitas",
+      "La opción D corresponde a cuidados de seguimiento en Cardiopatías congénitas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "61. ¿En cuanto a miocardiopatías en Cardiología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Miocardiopatías",
+      "La opción B describe hallazgos intermedios en Miocardiopatías",
+      "La opción C indica el enfoque correcto para Miocardiopatías",
+      "La opción D corresponde a cuidados de seguimiento en Miocardiopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "62. ¿Cuál de las siguientes afirmaciones sobre miocardiopatías en Cardiología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Miocardiopatías",
+      "La opción B describe hallazgos intermedios en Miocardiopatías",
+      "La opción C indica el enfoque correcto para Miocardiopatías",
+      "La opción D corresponde a cuidados de seguimiento en Miocardiopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "63. ¿Qué afirmación es correcta respecto a miocardiopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Miocardiopatías",
+      "La opción B describe hallazgos intermedios en Miocardiopatías",
+      "La opción C indica el enfoque correcto para Miocardiopatías",
+      "La opción D corresponde a cuidados de seguimiento en Miocardiopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "64. ¿Cuál es la afirmación correcta acerca de miocardiopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Miocardiopatías",
+      "La opción B describe hallazgos intermedios en Miocardiopatías",
+      "La opción C indica el enfoque correcto para Miocardiopatías",
+      "La opción D corresponde a cuidados de seguimiento en Miocardiopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "65. ¿Qué opción describe correctamente miocardiopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Miocardiopatías",
+      "La opción B describe hallazgos intermedios en Miocardiopatías",
+      "La opción C indica el enfoque correcto para Miocardiopatías",
+      "La opción D corresponde a cuidados de seguimiento en Miocardiopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "66. ¿Cuál es la respuesta correcta para miocardiopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Miocardiopatías",
+      "La opción B describe hallazgos intermedios en Miocardiopatías",
+      "La opción C indica el enfoque correcto para Miocardiopatías",
+      "La opción D corresponde a cuidados de seguimiento en Miocardiopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "67. ¿Qué se afirma correctamente sobre miocardiopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Miocardiopatías",
+      "La opción B describe hallazgos intermedios en Miocardiopatías",
+      "La opción C indica el enfoque correcto para Miocardiopatías",
+      "La opción D corresponde a cuidados de seguimiento en Miocardiopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "68. ¿Cuál de estas opciones es correcta en miocardiopatías de Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Miocardiopatías",
+      "La opción B describe hallazgos intermedios en Miocardiopatías",
+      "La opción C indica el enfoque correcto para Miocardiopatías",
+      "La opción D corresponde a cuidados de seguimiento en Miocardiopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "69. ¿Qué enunciado es válido para miocardiopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Miocardiopatías",
+      "La opción B describe hallazgos intermedios en Miocardiopatías",
+      "La opción C indica el enfoque correcto para Miocardiopatías",
+      "La opción D corresponde a cuidados de seguimiento en Miocardiopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "70. ¿Cuál es la afirmación precisa sobre miocardiopatías en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Miocardiopatías",
+      "La opción B describe hallazgos intermedios en Miocardiopatías",
+      "La opción C indica el enfoque correcto para Miocardiopatías",
+      "La opción D corresponde a cuidados de seguimiento en Miocardiopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "71. ¿En cuanto a pericarditis en Cardiología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pericarditis",
+      "La opción B describe hallazgos intermedios en Pericarditis",
+      "La opción C indica el enfoque correcto para Pericarditis",
+      "La opción D corresponde a cuidados de seguimiento en Pericarditis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "72. ¿Cuál de las siguientes afirmaciones sobre pericarditis en Cardiología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pericarditis",
+      "La opción B describe hallazgos intermedios en Pericarditis",
+      "La opción C indica el enfoque correcto para Pericarditis",
+      "La opción D corresponde a cuidados de seguimiento en Pericarditis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "73. ¿Qué afirmación es correcta respecto a pericarditis en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pericarditis",
+      "La opción B describe hallazgos intermedios en Pericarditis",
+      "La opción C indica el enfoque correcto para Pericarditis",
+      "La opción D corresponde a cuidados de seguimiento en Pericarditis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "74. ¿Cuál es la afirmación correcta acerca de pericarditis en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pericarditis",
+      "La opción B describe hallazgos intermedios en Pericarditis",
+      "La opción C indica el enfoque correcto para Pericarditis",
+      "La opción D corresponde a cuidados de seguimiento en Pericarditis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "75. ¿Qué opción describe correctamente pericarditis en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pericarditis",
+      "La opción B describe hallazgos intermedios en Pericarditis",
+      "La opción C indica el enfoque correcto para Pericarditis",
+      "La opción D corresponde a cuidados de seguimiento en Pericarditis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "76. ¿Cuál es la respuesta correcta para pericarditis en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pericarditis",
+      "La opción B describe hallazgos intermedios en Pericarditis",
+      "La opción C indica el enfoque correcto para Pericarditis",
+      "La opción D corresponde a cuidados de seguimiento en Pericarditis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "77. ¿Qué se afirma correctamente sobre pericarditis en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pericarditis",
+      "La opción B describe hallazgos intermedios en Pericarditis",
+      "La opción C indica el enfoque correcto para Pericarditis",
+      "La opción D corresponde a cuidados de seguimiento en Pericarditis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "78. ¿Cuál de estas opciones es correcta en pericarditis de Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pericarditis",
+      "La opción B describe hallazgos intermedios en Pericarditis",
+      "La opción C indica el enfoque correcto para Pericarditis",
+      "La opción D corresponde a cuidados de seguimiento en Pericarditis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "79. ¿Qué enunciado es válido para pericarditis en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pericarditis",
+      "La opción B describe hallazgos intermedios en Pericarditis",
+      "La opción C indica el enfoque correcto para Pericarditis",
+      "La opción D corresponde a cuidados de seguimiento en Pericarditis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "80. ¿Cuál es la afirmación precisa sobre pericarditis en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Pericarditis",
+      "La opción B describe hallazgos intermedios en Pericarditis",
+      "La opción C indica el enfoque correcto para Pericarditis",
+      "La opción D corresponde a cuidados de seguimiento en Pericarditis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "81. ¿En cuanto a ecocardiografía en Cardiología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ecocardiografía",
+      "La opción B describe hallazgos intermedios en Ecocardiografía",
+      "La opción C indica el enfoque correcto para Ecocardiografía",
+      "La opción D corresponde a cuidados de seguimiento en Ecocardiografía"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "82. ¿Cuál de las siguientes afirmaciones sobre ecocardiografía en Cardiología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ecocardiografía",
+      "La opción B describe hallazgos intermedios en Ecocardiografía",
+      "La opción C indica el enfoque correcto para Ecocardiografía",
+      "La opción D corresponde a cuidados de seguimiento en Ecocardiografía"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "83. ¿Qué afirmación es correcta respecto a ecocardiografía en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ecocardiografía",
+      "La opción B describe hallazgos intermedios en Ecocardiografía",
+      "La opción C indica el enfoque correcto para Ecocardiografía",
+      "La opción D corresponde a cuidados de seguimiento en Ecocardiografía"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "84. ¿Cuál es la afirmación correcta acerca de ecocardiografía en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ecocardiografía",
+      "La opción B describe hallazgos intermedios en Ecocardiografía",
+      "La opción C indica el enfoque correcto para Ecocardiografía",
+      "La opción D corresponde a cuidados de seguimiento en Ecocardiografía"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "85. ¿Qué opción describe correctamente ecocardiografía en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ecocardiografía",
+      "La opción B describe hallazgos intermedios en Ecocardiografía",
+      "La opción C indica el enfoque correcto para Ecocardiografía",
+      "La opción D corresponde a cuidados de seguimiento en Ecocardiografía"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "86. ¿Cuál es la respuesta correcta para ecocardiografía en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ecocardiografía",
+      "La opción B describe hallazgos intermedios en Ecocardiografía",
+      "La opción C indica el enfoque correcto para Ecocardiografía",
+      "La opción D corresponde a cuidados de seguimiento en Ecocardiografía"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "87. ¿Qué se afirma correctamente sobre ecocardiografía en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ecocardiografía",
+      "La opción B describe hallazgos intermedios en Ecocardiografía",
+      "La opción C indica el enfoque correcto para Ecocardiografía",
+      "La opción D corresponde a cuidados de seguimiento en Ecocardiografía"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "88. ¿Cuál de estas opciones es correcta en ecocardiografía de Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ecocardiografía",
+      "La opción B describe hallazgos intermedios en Ecocardiografía",
+      "La opción C indica el enfoque correcto para Ecocardiografía",
+      "La opción D corresponde a cuidados de seguimiento en Ecocardiografía"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "89. ¿Qué enunciado es válido para ecocardiografía en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ecocardiografía",
+      "La opción B describe hallazgos intermedios en Ecocardiografía",
+      "La opción C indica el enfoque correcto para Ecocardiografía",
+      "La opción D corresponde a cuidados de seguimiento en Ecocardiografía"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "90. ¿Cuál es la afirmación precisa sobre ecocardiografía en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Ecocardiografía",
+      "La opción B describe hallazgos intermedios en Ecocardiografía",
+      "La opción C indica el enfoque correcto para Ecocardiografía",
+      "La opción D corresponde a cuidados de seguimiento en Ecocardiografía"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "91. ¿En cuanto a ecg en Cardiología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de ECG",
+      "La opción B describe hallazgos intermedios en ECG",
+      "La opción C indica el enfoque correcto para ECG",
+      "La opción D corresponde a cuidados de seguimiento en ECG"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "92. ¿Cuál de las siguientes afirmaciones sobre ecg en Cardiología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de ECG",
+      "La opción B describe hallazgos intermedios en ECG",
+      "La opción C indica el enfoque correcto para ECG",
+      "La opción D corresponde a cuidados de seguimiento en ECG"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "93. ¿Qué afirmación es correcta respecto a ecg en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de ECG",
+      "La opción B describe hallazgos intermedios en ECG",
+      "La opción C indica el enfoque correcto para ECG",
+      "La opción D corresponde a cuidados de seguimiento en ECG"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "94. ¿Cuál es la afirmación correcta acerca de ecg en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de ECG",
+      "La opción B describe hallazgos intermedios en ECG",
+      "La opción C indica el enfoque correcto para ECG",
+      "La opción D corresponde a cuidados de seguimiento en ECG"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "95. ¿Qué opción describe correctamente ecg en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de ECG",
+      "La opción B describe hallazgos intermedios en ECG",
+      "La opción C indica el enfoque correcto para ECG",
+      "La opción D corresponde a cuidados de seguimiento en ECG"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "96. ¿Cuál es la respuesta correcta para ecg en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de ECG",
+      "La opción B describe hallazgos intermedios en ECG",
+      "La opción C indica el enfoque correcto para ECG",
+      "La opción D corresponde a cuidados de seguimiento en ECG"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "97. ¿Qué se afirma correctamente sobre ecg en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de ECG",
+      "La opción B describe hallazgos intermedios en ECG",
+      "La opción C indica el enfoque correcto para ECG",
+      "La opción D corresponde a cuidados de seguimiento en ECG"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "98. ¿Cuál de estas opciones es correcta en ecg de Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de ECG",
+      "La opción B describe hallazgos intermedios en ECG",
+      "La opción C indica el enfoque correcto para ECG",
+      "La opción D corresponde a cuidados de seguimiento en ECG"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "99. ¿Qué enunciado es válido para ecg en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de ECG",
+      "La opción B describe hallazgos intermedios en ECG",
+      "La opción C indica el enfoque correcto para ECG",
+      "La opción D corresponde a cuidados de seguimiento en ECG"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "100. ¿Cuál es la afirmación precisa sobre ecg en Cardiología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de ECG",
+      "La opción B describe hallazgos intermedios en ECG",
+      "La opción C indica el enfoque correcto para ECG",
+      "La opción D corresponde a cuidados de seguimiento en ECG"
+    ],
+    "answer": 1
+  }
 ]

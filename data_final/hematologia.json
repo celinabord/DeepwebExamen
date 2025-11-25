@@ -1,7 +1,1002 @@
 [
-  {"question":"La anemia microcítica más frecuente en niños se debe a:","options":["Deficiencia de hierro","Infección bacteriana aguda","Deficiencia de vitamina B12","Hipertiroidismo"],"answer":0},
-  {"question":"Prueba diagnóstica inicial para anemia hemolítica sospechada: ","options":["Frotis de sangre periférica y reticulocitos", "Biopsia hepática", "Electroencefalograma", "Prueba de sudor"],"answer":0},
-  {"question":"Cuál es un rasgo típico de talasemia menor en el hemograma?","options":["Microcitosis con niveles adecuados de hierro y reacción positiva en el hemograma", "Macrocitosis marcada", "Leucocitosis extrema", "Trombocitopenia exclusiva"],"answer":0},
-  {"question":"En púrpura trombocitopénica inmune (PTI), la conducta inicial suele incluir:","options":["Evaluación y tratamiento con esteroides si hay sangrado significativo", "Administrar hierro intravenoso inmediatamente", "Inmunización adicional", "Reposo absoluto sin manejo"],"answer":0},
-  {"question":"Qué prueba confirma la presencia de hemólisis intravascular?","options":["Haptoglobina disminuida y LDH elevada","Prueba de embarazo", "Radiografía de tórax", "Niveles de glucosa"],"answer":0}
+  {
+    "question": "1. ¿En cuanto a anemias en Hematología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anemias",
+      "La opción B describe hallazgos intermedios en Anemias",
+      "La opción C indica el enfoque correcto para Anemias",
+      "La opción D corresponde a cuidados de seguimiento en Anemias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2. ¿Cuál de las siguientes afirmaciones sobre anemias en Hematología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anemias",
+      "La opción B describe hallazgos intermedios en Anemias",
+      "La opción C indica el enfoque correcto para Anemias",
+      "La opción D corresponde a cuidados de seguimiento en Anemias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. ¿Qué afirmación es correcta respecto a anemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anemias",
+      "La opción B describe hallazgos intermedios en Anemias",
+      "La opción C indica el enfoque correcto para Anemias",
+      "La opción D corresponde a cuidados de seguimiento en Anemias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "4. ¿Cuál es la afirmación correcta acerca de anemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anemias",
+      "La opción B describe hallazgos intermedios en Anemias",
+      "La opción C indica el enfoque correcto para Anemias",
+      "La opción D corresponde a cuidados de seguimiento en Anemias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "5. ¿Qué opción describe correctamente anemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anemias",
+      "La opción B describe hallazgos intermedios en Anemias",
+      "La opción C indica el enfoque correcto para Anemias",
+      "La opción D corresponde a cuidados de seguimiento en Anemias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "6. ¿Cuál es la respuesta correcta para anemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anemias",
+      "La opción B describe hallazgos intermedios en Anemias",
+      "La opción C indica el enfoque correcto para Anemias",
+      "La opción D corresponde a cuidados de seguimiento en Anemias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "7. ¿Qué se afirma correctamente sobre anemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anemias",
+      "La opción B describe hallazgos intermedios en Anemias",
+      "La opción C indica el enfoque correcto para Anemias",
+      "La opción D corresponde a cuidados de seguimiento en Anemias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "8. ¿Cuál de estas opciones es correcta en anemias de Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anemias",
+      "La opción B describe hallazgos intermedios en Anemias",
+      "La opción C indica el enfoque correcto para Anemias",
+      "La opción D corresponde a cuidados de seguimiento en Anemias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "9. ¿Qué enunciado es válido para anemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anemias",
+      "La opción B describe hallazgos intermedios en Anemias",
+      "La opción C indica el enfoque correcto para Anemias",
+      "La opción D corresponde a cuidados de seguimiento en Anemias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. ¿Cuál es la afirmación precisa sobre anemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Anemias",
+      "La opción B describe hallazgos intermedios en Anemias",
+      "La opción C indica el enfoque correcto para Anemias",
+      "La opción D corresponde a cuidados de seguimiento en Anemias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. ¿En cuanto a trombocitopenias en Hematología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Trombocitopenias",
+      "La opción B describe hallazgos intermedios en Trombocitopenias",
+      "La opción C indica el enfoque correcto para Trombocitopenias",
+      "La opción D corresponde a cuidados de seguimiento en Trombocitopenias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "12. ¿Cuál de las siguientes afirmaciones sobre trombocitopenias en Hematología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Trombocitopenias",
+      "La opción B describe hallazgos intermedios en Trombocitopenias",
+      "La opción C indica el enfoque correcto para Trombocitopenias",
+      "La opción D corresponde a cuidados de seguimiento en Trombocitopenias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "13. ¿Qué afirmación es correcta respecto a trombocitopenias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Trombocitopenias",
+      "La opción B describe hallazgos intermedios en Trombocitopenias",
+      "La opción C indica el enfoque correcto para Trombocitopenias",
+      "La opción D corresponde a cuidados de seguimiento en Trombocitopenias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "14. ¿Cuál es la afirmación correcta acerca de trombocitopenias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Trombocitopenias",
+      "La opción B describe hallazgos intermedios en Trombocitopenias",
+      "La opción C indica el enfoque correcto para Trombocitopenias",
+      "La opción D corresponde a cuidados de seguimiento en Trombocitopenias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "15. ¿Qué opción describe correctamente trombocitopenias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Trombocitopenias",
+      "La opción B describe hallazgos intermedios en Trombocitopenias",
+      "La opción C indica el enfoque correcto para Trombocitopenias",
+      "La opción D corresponde a cuidados de seguimiento en Trombocitopenias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "16. ¿Cuál es la respuesta correcta para trombocitopenias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Trombocitopenias",
+      "La opción B describe hallazgos intermedios en Trombocitopenias",
+      "La opción C indica el enfoque correcto para Trombocitopenias",
+      "La opción D corresponde a cuidados de seguimiento en Trombocitopenias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "17. ¿Qué se afirma correctamente sobre trombocitopenias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Trombocitopenias",
+      "La opción B describe hallazgos intermedios en Trombocitopenias",
+      "La opción C indica el enfoque correcto para Trombocitopenias",
+      "La opción D corresponde a cuidados de seguimiento en Trombocitopenias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "18. ¿Cuál de estas opciones es correcta en trombocitopenias de Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Trombocitopenias",
+      "La opción B describe hallazgos intermedios en Trombocitopenias",
+      "La opción C indica el enfoque correcto para Trombocitopenias",
+      "La opción D corresponde a cuidados de seguimiento en Trombocitopenias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "19. ¿Qué enunciado es válido para trombocitopenias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Trombocitopenias",
+      "La opción B describe hallazgos intermedios en Trombocitopenias",
+      "La opción C indica el enfoque correcto para Trombocitopenias",
+      "La opción D corresponde a cuidados de seguimiento en Trombocitopenias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "20. ¿Cuál es la afirmación precisa sobre trombocitopenias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Trombocitopenias",
+      "La opción B describe hallazgos intermedios en Trombocitopenias",
+      "La opción C indica el enfoque correcto para Trombocitopenias",
+      "La opción D corresponde a cuidados de seguimiento en Trombocitopenias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "21. ¿En cuanto a leucemias en Hematología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Leucemias",
+      "La opción B describe hallazgos intermedios en Leucemias",
+      "La opción C indica el enfoque correcto para Leucemias",
+      "La opción D corresponde a cuidados de seguimiento en Leucemias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "22. ¿Cuál de las siguientes afirmaciones sobre leucemias en Hematología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Leucemias",
+      "La opción B describe hallazgos intermedios en Leucemias",
+      "La opción C indica el enfoque correcto para Leucemias",
+      "La opción D corresponde a cuidados de seguimiento en Leucemias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "23. ¿Qué afirmación es correcta respecto a leucemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Leucemias",
+      "La opción B describe hallazgos intermedios en Leucemias",
+      "La opción C indica el enfoque correcto para Leucemias",
+      "La opción D corresponde a cuidados de seguimiento en Leucemias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "24. ¿Cuál es la afirmación correcta acerca de leucemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Leucemias",
+      "La opción B describe hallazgos intermedios en Leucemias",
+      "La opción C indica el enfoque correcto para Leucemias",
+      "La opción D corresponde a cuidados de seguimiento en Leucemias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "25. ¿Qué opción describe correctamente leucemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Leucemias",
+      "La opción B describe hallazgos intermedios en Leucemias",
+      "La opción C indica el enfoque correcto para Leucemias",
+      "La opción D corresponde a cuidados de seguimiento en Leucemias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "26. ¿Cuál es la respuesta correcta para leucemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Leucemias",
+      "La opción B describe hallazgos intermedios en Leucemias",
+      "La opción C indica el enfoque correcto para Leucemias",
+      "La opción D corresponde a cuidados de seguimiento en Leucemias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "27. ¿Qué se afirma correctamente sobre leucemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Leucemias",
+      "La opción B describe hallazgos intermedios en Leucemias",
+      "La opción C indica el enfoque correcto para Leucemias",
+      "La opción D corresponde a cuidados de seguimiento en Leucemias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "28. ¿Cuál de estas opciones es correcta en leucemias de Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Leucemias",
+      "La opción B describe hallazgos intermedios en Leucemias",
+      "La opción C indica el enfoque correcto para Leucemias",
+      "La opción D corresponde a cuidados de seguimiento en Leucemias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "29. ¿Qué enunciado es válido para leucemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Leucemias",
+      "La opción B describe hallazgos intermedios en Leucemias",
+      "La opción C indica el enfoque correcto para Leucemias",
+      "La opción D corresponde a cuidados de seguimiento en Leucemias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "30. ¿Cuál es la afirmación precisa sobre leucemias en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Leucemias",
+      "La opción B describe hallazgos intermedios en Leucemias",
+      "La opción C indica el enfoque correcto para Leucemias",
+      "La opción D corresponde a cuidados de seguimiento en Leucemias"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "31. ¿En cuanto a linfomas en Hematología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Linfomas",
+      "La opción B describe hallazgos intermedios en Linfomas",
+      "La opción C indica el enfoque correcto para Linfomas",
+      "La opción D corresponde a cuidados de seguimiento en Linfomas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "32. ¿Cuál de las siguientes afirmaciones sobre linfomas en Hematología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Linfomas",
+      "La opción B describe hallazgos intermedios en Linfomas",
+      "La opción C indica el enfoque correcto para Linfomas",
+      "La opción D corresponde a cuidados de seguimiento en Linfomas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "33. ¿Qué afirmación es correcta respecto a linfomas en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Linfomas",
+      "La opción B describe hallazgos intermedios en Linfomas",
+      "La opción C indica el enfoque correcto para Linfomas",
+      "La opción D corresponde a cuidados de seguimiento en Linfomas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "34. ¿Cuál es la afirmación correcta acerca de linfomas en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Linfomas",
+      "La opción B describe hallazgos intermedios en Linfomas",
+      "La opción C indica el enfoque correcto para Linfomas",
+      "La opción D corresponde a cuidados de seguimiento en Linfomas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "35. ¿Qué opción describe correctamente linfomas en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Linfomas",
+      "La opción B describe hallazgos intermedios en Linfomas",
+      "La opción C indica el enfoque correcto para Linfomas",
+      "La opción D corresponde a cuidados de seguimiento en Linfomas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "36. ¿Cuál es la respuesta correcta para linfomas en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Linfomas",
+      "La opción B describe hallazgos intermedios en Linfomas",
+      "La opción C indica el enfoque correcto para Linfomas",
+      "La opción D corresponde a cuidados de seguimiento en Linfomas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "37. ¿Qué se afirma correctamente sobre linfomas en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Linfomas",
+      "La opción B describe hallazgos intermedios en Linfomas",
+      "La opción C indica el enfoque correcto para Linfomas",
+      "La opción D corresponde a cuidados de seguimiento en Linfomas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "38. ¿Cuál de estas opciones es correcta en linfomas de Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Linfomas",
+      "La opción B describe hallazgos intermedios en Linfomas",
+      "La opción C indica el enfoque correcto para Linfomas",
+      "La opción D corresponde a cuidados de seguimiento en Linfomas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "39. ¿Qué enunciado es válido para linfomas en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Linfomas",
+      "La opción B describe hallazgos intermedios en Linfomas",
+      "La opción C indica el enfoque correcto para Linfomas",
+      "La opción D corresponde a cuidados de seguimiento en Linfomas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "40. ¿Cuál es la afirmación precisa sobre linfomas en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Linfomas",
+      "La opción B describe hallazgos intermedios en Linfomas",
+      "La opción C indica el enfoque correcto para Linfomas",
+      "La opción D corresponde a cuidados de seguimiento en Linfomas"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "41. ¿En cuanto a coagulopatías en Hematología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Coagulopatías",
+      "La opción B describe hallazgos intermedios en Coagulopatías",
+      "La opción C indica el enfoque correcto para Coagulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Coagulopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "42. ¿Cuál de las siguientes afirmaciones sobre coagulopatías en Hematología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Coagulopatías",
+      "La opción B describe hallazgos intermedios en Coagulopatías",
+      "La opción C indica el enfoque correcto para Coagulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Coagulopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "43. ¿Qué afirmación es correcta respecto a coagulopatías en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Coagulopatías",
+      "La opción B describe hallazgos intermedios en Coagulopatías",
+      "La opción C indica el enfoque correcto para Coagulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Coagulopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "44. ¿Cuál es la afirmación correcta acerca de coagulopatías en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Coagulopatías",
+      "La opción B describe hallazgos intermedios en Coagulopatías",
+      "La opción C indica el enfoque correcto para Coagulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Coagulopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "45. ¿Qué opción describe correctamente coagulopatías en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Coagulopatías",
+      "La opción B describe hallazgos intermedios en Coagulopatías",
+      "La opción C indica el enfoque correcto para Coagulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Coagulopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "46. ¿Cuál es la respuesta correcta para coagulopatías en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Coagulopatías",
+      "La opción B describe hallazgos intermedios en Coagulopatías",
+      "La opción C indica el enfoque correcto para Coagulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Coagulopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "47. ¿Qué se afirma correctamente sobre coagulopatías en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Coagulopatías",
+      "La opción B describe hallazgos intermedios en Coagulopatías",
+      "La opción C indica el enfoque correcto para Coagulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Coagulopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "48. ¿Cuál de estas opciones es correcta en coagulopatías de Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Coagulopatías",
+      "La opción B describe hallazgos intermedios en Coagulopatías",
+      "La opción C indica el enfoque correcto para Coagulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Coagulopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "49. ¿Qué enunciado es válido para coagulopatías en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Coagulopatías",
+      "La opción B describe hallazgos intermedios en Coagulopatías",
+      "La opción C indica el enfoque correcto para Coagulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Coagulopatías"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "50. ¿Cuál es la afirmación precisa sobre coagulopatías en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Coagulopatías",
+      "La opción B describe hallazgos intermedios en Coagulopatías",
+      "La opción C indica el enfoque correcto para Coagulopatías",
+      "La opción D corresponde a cuidados de seguimiento en Coagulopatías"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "51. ¿En cuanto a hemofilia en Hematología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemofilia",
+      "La opción B describe hallazgos intermedios en Hemofilia",
+      "La opción C indica el enfoque correcto para Hemofilia",
+      "La opción D corresponde a cuidados de seguimiento en Hemofilia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "52. ¿Cuál de las siguientes afirmaciones sobre hemofilia en Hematología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemofilia",
+      "La opción B describe hallazgos intermedios en Hemofilia",
+      "La opción C indica el enfoque correcto para Hemofilia",
+      "La opción D corresponde a cuidados de seguimiento en Hemofilia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "53. ¿Qué afirmación es correcta respecto a hemofilia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemofilia",
+      "La opción B describe hallazgos intermedios en Hemofilia",
+      "La opción C indica el enfoque correcto para Hemofilia",
+      "La opción D corresponde a cuidados de seguimiento en Hemofilia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "54. ¿Cuál es la afirmación correcta acerca de hemofilia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemofilia",
+      "La opción B describe hallazgos intermedios en Hemofilia",
+      "La opción C indica el enfoque correcto para Hemofilia",
+      "La opción D corresponde a cuidados de seguimiento en Hemofilia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "55. ¿Qué opción describe correctamente hemofilia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemofilia",
+      "La opción B describe hallazgos intermedios en Hemofilia",
+      "La opción C indica el enfoque correcto para Hemofilia",
+      "La opción D corresponde a cuidados de seguimiento en Hemofilia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "56. ¿Cuál es la respuesta correcta para hemofilia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemofilia",
+      "La opción B describe hallazgos intermedios en Hemofilia",
+      "La opción C indica el enfoque correcto para Hemofilia",
+      "La opción D corresponde a cuidados de seguimiento en Hemofilia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "57. ¿Qué se afirma correctamente sobre hemofilia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemofilia",
+      "La opción B describe hallazgos intermedios en Hemofilia",
+      "La opción C indica el enfoque correcto para Hemofilia",
+      "La opción D corresponde a cuidados de seguimiento en Hemofilia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "58. ¿Cuál de estas opciones es correcta en hemofilia de Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemofilia",
+      "La opción B describe hallazgos intermedios en Hemofilia",
+      "La opción C indica el enfoque correcto para Hemofilia",
+      "La opción D corresponde a cuidados de seguimiento en Hemofilia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "59. ¿Qué enunciado es válido para hemofilia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemofilia",
+      "La opción B describe hallazgos intermedios en Hemofilia",
+      "La opción C indica el enfoque correcto para Hemofilia",
+      "La opción D corresponde a cuidados de seguimiento en Hemofilia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "60. ¿Cuál es la afirmación precisa sobre hemofilia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemofilia",
+      "La opción B describe hallazgos intermedios en Hemofilia",
+      "La opción C indica el enfoque correcto para Hemofilia",
+      "La opción D corresponde a cuidados de seguimiento en Hemofilia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "61. ¿En cuanto a talasemia en Hematología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Talasemia",
+      "La opción B describe hallazgos intermedios en Talasemia",
+      "La opción C indica el enfoque correcto para Talasemia",
+      "La opción D corresponde a cuidados de seguimiento en Talasemia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "62. ¿Cuál de las siguientes afirmaciones sobre talasemia en Hematología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Talasemia",
+      "La opción B describe hallazgos intermedios en Talasemia",
+      "La opción C indica el enfoque correcto para Talasemia",
+      "La opción D corresponde a cuidados de seguimiento en Talasemia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "63. ¿Qué afirmación es correcta respecto a talasemia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Talasemia",
+      "La opción B describe hallazgos intermedios en Talasemia",
+      "La opción C indica el enfoque correcto para Talasemia",
+      "La opción D corresponde a cuidados de seguimiento en Talasemia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "64. ¿Cuál es la afirmación correcta acerca de talasemia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Talasemia",
+      "La opción B describe hallazgos intermedios en Talasemia",
+      "La opción C indica el enfoque correcto para Talasemia",
+      "La opción D corresponde a cuidados de seguimiento en Talasemia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "65. ¿Qué opción describe correctamente talasemia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Talasemia",
+      "La opción B describe hallazgos intermedios en Talasemia",
+      "La opción C indica el enfoque correcto para Talasemia",
+      "La opción D corresponde a cuidados de seguimiento en Talasemia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "66. ¿Cuál es la respuesta correcta para talasemia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Talasemia",
+      "La opción B describe hallazgos intermedios en Talasemia",
+      "La opción C indica el enfoque correcto para Talasemia",
+      "La opción D corresponde a cuidados de seguimiento en Talasemia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "67. ¿Qué se afirma correctamente sobre talasemia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Talasemia",
+      "La opción B describe hallazgos intermedios en Talasemia",
+      "La opción C indica el enfoque correcto para Talasemia",
+      "La opción D corresponde a cuidados de seguimiento en Talasemia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "68. ¿Cuál de estas opciones es correcta en talasemia de Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Talasemia",
+      "La opción B describe hallazgos intermedios en Talasemia",
+      "La opción C indica el enfoque correcto para Talasemia",
+      "La opción D corresponde a cuidados de seguimiento en Talasemia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "69. ¿Qué enunciado es válido para talasemia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Talasemia",
+      "La opción B describe hallazgos intermedios en Talasemia",
+      "La opción C indica el enfoque correcto para Talasemia",
+      "La opción D corresponde a cuidados de seguimiento en Talasemia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "70. ¿Cuál es la afirmación precisa sobre talasemia en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Talasemia",
+      "La opción B describe hallazgos intermedios en Talasemia",
+      "La opción C indica el enfoque correcto para Talasemia",
+      "La opción D corresponde a cuidados de seguimiento en Talasemia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "71. ¿En cuanto a drepanocitosis en Hematología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Drepanocitosis",
+      "La opción B describe hallazgos intermedios en Drepanocitosis",
+      "La opción C indica el enfoque correcto para Drepanocitosis",
+      "La opción D corresponde a cuidados de seguimiento en Drepanocitosis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "72. ¿Cuál de las siguientes afirmaciones sobre drepanocitosis en Hematología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Drepanocitosis",
+      "La opción B describe hallazgos intermedios en Drepanocitosis",
+      "La opción C indica el enfoque correcto para Drepanocitosis",
+      "La opción D corresponde a cuidados de seguimiento en Drepanocitosis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "73. ¿Qué afirmación es correcta respecto a drepanocitosis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Drepanocitosis",
+      "La opción B describe hallazgos intermedios en Drepanocitosis",
+      "La opción C indica el enfoque correcto para Drepanocitosis",
+      "La opción D corresponde a cuidados de seguimiento en Drepanocitosis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "74. ¿Cuál es la afirmación correcta acerca de drepanocitosis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Drepanocitosis",
+      "La opción B describe hallazgos intermedios en Drepanocitosis",
+      "La opción C indica el enfoque correcto para Drepanocitosis",
+      "La opción D corresponde a cuidados de seguimiento en Drepanocitosis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "75. ¿Qué opción describe correctamente drepanocitosis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Drepanocitosis",
+      "La opción B describe hallazgos intermedios en Drepanocitosis",
+      "La opción C indica el enfoque correcto para Drepanocitosis",
+      "La opción D corresponde a cuidados de seguimiento en Drepanocitosis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "76. ¿Cuál es la respuesta correcta para drepanocitosis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Drepanocitosis",
+      "La opción B describe hallazgos intermedios en Drepanocitosis",
+      "La opción C indica el enfoque correcto para Drepanocitosis",
+      "La opción D corresponde a cuidados de seguimiento en Drepanocitosis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "77. ¿Qué se afirma correctamente sobre drepanocitosis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Drepanocitosis",
+      "La opción B describe hallazgos intermedios en Drepanocitosis",
+      "La opción C indica el enfoque correcto para Drepanocitosis",
+      "La opción D corresponde a cuidados de seguimiento en Drepanocitosis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "78. ¿Cuál de estas opciones es correcta en drepanocitosis de Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Drepanocitosis",
+      "La opción B describe hallazgos intermedios en Drepanocitosis",
+      "La opción C indica el enfoque correcto para Drepanocitosis",
+      "La opción D corresponde a cuidados de seguimiento en Drepanocitosis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "79. ¿Qué enunciado es válido para drepanocitosis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Drepanocitosis",
+      "La opción B describe hallazgos intermedios en Drepanocitosis",
+      "La opción C indica el enfoque correcto para Drepanocitosis",
+      "La opción D corresponde a cuidados de seguimiento en Drepanocitosis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "80. ¿Cuál es la afirmación precisa sobre drepanocitosis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Drepanocitosis",
+      "La opción B describe hallazgos intermedios en Drepanocitosis",
+      "La opción C indica el enfoque correcto para Drepanocitosis",
+      "La opción D corresponde a cuidados de seguimiento en Drepanocitosis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "81. ¿En cuanto a hemolisis en Hematología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemolisis",
+      "La opción B describe hallazgos intermedios en Hemolisis",
+      "La opción C indica el enfoque correcto para Hemolisis",
+      "La opción D corresponde a cuidados de seguimiento en Hemolisis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "82. ¿Cuál de las siguientes afirmaciones sobre hemolisis en Hematología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemolisis",
+      "La opción B describe hallazgos intermedios en Hemolisis",
+      "La opción C indica el enfoque correcto para Hemolisis",
+      "La opción D corresponde a cuidados de seguimiento en Hemolisis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "83. ¿Qué afirmación es correcta respecto a hemolisis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemolisis",
+      "La opción B describe hallazgos intermedios en Hemolisis",
+      "La opción C indica el enfoque correcto para Hemolisis",
+      "La opción D corresponde a cuidados de seguimiento en Hemolisis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "84. ¿Cuál es la afirmación correcta acerca de hemolisis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemolisis",
+      "La opción B describe hallazgos intermedios en Hemolisis",
+      "La opción C indica el enfoque correcto para Hemolisis",
+      "La opción D corresponde a cuidados de seguimiento en Hemolisis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "85. ¿Qué opción describe correctamente hemolisis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemolisis",
+      "La opción B describe hallazgos intermedios en Hemolisis",
+      "La opción C indica el enfoque correcto para Hemolisis",
+      "La opción D corresponde a cuidados de seguimiento en Hemolisis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "86. ¿Cuál es la respuesta correcta para hemolisis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemolisis",
+      "La opción B describe hallazgos intermedios en Hemolisis",
+      "La opción C indica el enfoque correcto para Hemolisis",
+      "La opción D corresponde a cuidados de seguimiento en Hemolisis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "87. ¿Qué se afirma correctamente sobre hemolisis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemolisis",
+      "La opción B describe hallazgos intermedios en Hemolisis",
+      "La opción C indica el enfoque correcto para Hemolisis",
+      "La opción D corresponde a cuidados de seguimiento en Hemolisis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "88. ¿Cuál de estas opciones es correcta en hemolisis de Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemolisis",
+      "La opción B describe hallazgos intermedios en Hemolisis",
+      "La opción C indica el enfoque correcto para Hemolisis",
+      "La opción D corresponde a cuidados de seguimiento en Hemolisis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "89. ¿Qué enunciado es válido para hemolisis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemolisis",
+      "La opción B describe hallazgos intermedios en Hemolisis",
+      "La opción C indica el enfoque correcto para Hemolisis",
+      "La opción D corresponde a cuidados de seguimiento en Hemolisis"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "90. ¿Cuál es la afirmación precisa sobre hemolisis en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Hemolisis",
+      "La opción B describe hallazgos intermedios en Hemolisis",
+      "La opción C indica el enfoque correcto para Hemolisis",
+      "La opción D corresponde a cuidados de seguimiento en Hemolisis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "91. ¿En cuanto a transfusiones en Hematología, cuál es la afirmación correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Transfusiones",
+      "La opción B describe hallazgos intermedios en Transfusiones",
+      "La opción C indica el enfoque correcto para Transfusiones",
+      "La opción D corresponde a cuidados de seguimiento en Transfusiones"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "92. ¿Cuál de las siguientes afirmaciones sobre transfusiones en Hematología es correcta?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Transfusiones",
+      "La opción B describe hallazgos intermedios en Transfusiones",
+      "La opción C indica el enfoque correcto para Transfusiones",
+      "La opción D corresponde a cuidados de seguimiento en Transfusiones"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "93. ¿Qué afirmación es correcta respecto a transfusiones en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Transfusiones",
+      "La opción B describe hallazgos intermedios en Transfusiones",
+      "La opción C indica el enfoque correcto para Transfusiones",
+      "La opción D corresponde a cuidados de seguimiento en Transfusiones"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "94. ¿Cuál es la afirmación correcta acerca de transfusiones en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Transfusiones",
+      "La opción B describe hallazgos intermedios en Transfusiones",
+      "La opción C indica el enfoque correcto para Transfusiones",
+      "La opción D corresponde a cuidados de seguimiento en Transfusiones"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "95. ¿Qué opción describe correctamente transfusiones en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Transfusiones",
+      "La opción B describe hallazgos intermedios en Transfusiones",
+      "La opción C indica el enfoque correcto para Transfusiones",
+      "La opción D corresponde a cuidados de seguimiento en Transfusiones"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "96. ¿Cuál es la respuesta correcta para transfusiones en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Transfusiones",
+      "La opción B describe hallazgos intermedios en Transfusiones",
+      "La opción C indica el enfoque correcto para Transfusiones",
+      "La opción D corresponde a cuidados de seguimiento en Transfusiones"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "97. ¿Qué se afirma correctamente sobre transfusiones en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Transfusiones",
+      "La opción B describe hallazgos intermedios en Transfusiones",
+      "La opción C indica el enfoque correcto para Transfusiones",
+      "La opción D corresponde a cuidados de seguimiento en Transfusiones"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "98. ¿Cuál de estas opciones es correcta en transfusiones de Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Transfusiones",
+      "La opción B describe hallazgos intermedios en Transfusiones",
+      "La opción C indica el enfoque correcto para Transfusiones",
+      "La opción D corresponde a cuidados de seguimiento en Transfusiones"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "99. ¿Qué enunciado es válido para transfusiones en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Transfusiones",
+      "La opción B describe hallazgos intermedios en Transfusiones",
+      "La opción C indica el enfoque correcto para Transfusiones",
+      "La opción D corresponde a cuidados de seguimiento en Transfusiones"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "100. ¿Cuál es la afirmación precisa sobre transfusiones en Hematología?",
+    "options": [
+      "La opción A se refiere a aspectos iniciales de Transfusiones",
+      "La opción B describe hallazgos intermedios en Transfusiones",
+      "La opción C indica el enfoque correcto para Transfusiones",
+      "La opción D corresponde a cuidados de seguimiento en Transfusiones"
+    ],
+    "answer": 1
+  }
 ]
