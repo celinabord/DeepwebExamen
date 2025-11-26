@@ -1,81 +1,1263 @@
 [
-  {"question":"Edad en la que normalmente aparece la pinza pincer (pinza fina) en el desarrollo motor fino del lactante?","options":["2-3 meses","6-9 meses","9-12 meses","15-18 meses"],"answer":2},
-  {"question":"Vacuna que está contraindicada en niños con historia de reacción anafiláctica previa a polietilenglicol (PEG)?","options":["Vacuna inactivada contra la influenza","Vacuna MMR (sarampión, paperas, rubéola)","Vacuna mRNA contra SARS-CoV-2","Vacuna oral contra rotavirus"],"answer":2},
-  {"question":"Cuál es la conducta inicial más apropiada ante un recién nacido con ictericia en las primeras 24 horas de vida?","options":["Observación ambulatoria","Fototerapia inmediata según niveles de bilirrubina","Inicio de fenobarbital","Extracción de sangre para tipificación cruzada"],"answer":1},
-  {"question":"En lactantes, cuál hallazgo sugiere deshidratación moderada?","options":["Ojos hundidos, fontanela deprimida, llanto sin lágrimas","Llanto vigoroso y mucosas húmedas","Aumento de peso de 200 g en una semana","Orina clara y frecuente"],"answer":0},
-  {"question":"Fuente materna recomendada para alimentar a un lactante menor de 6 meses?","options":["Leche de vaca entera","Lactancia materna exclusiva","Leche de almendras","Alimentos sólidos"],"answer":1},
-  {"question":"Qué examen es fundamental para el cribado neonatal de hipotiroidismo congénito?","options":["Medición de TSH en sangre seca (tira de Guthrie)","Medición de T4 libre en orina","Ecografía de tiroides","Perfil lipídico"],"answer":0},
-  {"question":"Cuál es la causa más frecuente de bronquiolitis en lactantes?","options":["Rinovirus","Virus respiratorio sincitial (VRS)","Adenovirus","Mycoplasma pneumoniae"],"answer":1},
-  {"question":"Signo clínico que sugiere posible sepsis neonatal temprana?","options":["Hiperactividad", "Letargia y mala perfusión", "Aumento de peso brusco", "Llanto inconsolable con postura antálgica"],"answer":1},
-  {"question":"En pediatría, el rango normal de frecuencia respiratoria para un lactante (1–12 meses) en reposo es aproximadamente:","options":["10-20 rpm","30-60 rpm","60-90 rpm","5-10 rpm"],"answer":1},
-  {"question":"Cuál de estas lesiones cutáneas en neonatos se recomienda observar y suele resolverse espontáneamente:","options":["Manchas en vino de Oporto (nevus flammeus)","Eritema tóxico neonatal","Melanoma congénito","Pápulas hemorrágicas"],"answer":1},
-  {"question":"Cuál es la vacuna de administración oral en el calendario que protege contra gastroenteritis por rotavirus?","options":["Vacuna oral contra rotavirus","Vacuna inactivada contra polio","Vacuna MMR","Vacuna contra hepatitis A"],"answer":0},
-  {"question":"Cuál es la recomendación sobre la introducción de alimentos sólidos?","options":["Antes de los 3 meses","Alrededor de los 6 meses, según señales de desarrollo","Al año de vida exclusivamente","Cuando el niño pesa más de 15 kg"],"answer":1},
-  {"question":"Cuál es la maniobra inicial recomendada para una obstrucción completa de la vía aérea por cuerpo extraño en un lactante?","options":["Compresiones abdominales tipo Heimlich","Golpes interescapulares y compresiones torácicas (de lactante)","Administrar agua y azúcar","Intentar extraer con un dedo sin visión"],"answer":1},
-  {"question":"Signo clínico que sugiere fibrosis quística en un lactante?","options":["Ictericia prolongada exclusivamente","Meconio ileal o retraso en la evacuación del meconio","Llanto agudo persistente","Cianosis que mejora con oxígeno"],"answer":1},
-  {"question":"En niños, la escala de Glasgow pediátrica se utiliza para evaluar:","options":["Estado nutricional","Desarrollo psicomotor","Nivel de conciencia y respuesta neurológica","Presión arterial"],"answer":2},
-  {"question":"Tratamiento inicial para una crisis asmática moderada en un niño:","options":["Beta bloqueadores","SABA (salbutamol) inhalado con cámara espaciadora","Antibióticos de amplio espectro","Antihistamínicos orales"],"answer":1},
-  {"question":"Cuál de los siguientes hallazgos es más indicativo de otitis media aguda en un niño?","options":["Tímpano móvil y traslúcido","Tímpano abombado y eritematoso con pérdida de transparencia", "Otalgia sin signos en el tímpano","Hipoacusia súbita sin otalgia"],"answer":1},
-  {"question":"En un recién nacido a término con bajo peso para la edad gestacional, la intervención prioritaria es:","options":["Iniciar alimentación por sonda inmediatamente sin valorar","Evaluación y monitoreo térmico y de glucosa, promover lactancia", "Administrar antibióticos profilácticos siempre","Dar fórmula de inicio de forma rutinaria"],"answer":1},
-  {"question":"Cuál es la conducta ante un niño con fiebre y rigidez de nuca?","options":["Observación en casa","Evaluación urgente en urgencias y posible punción lumbar según sospecha","Administrar antipiréticos y alta","Derivar a odontología"],"answer":1},
-  {"question":"Qué criterio sugiere un retraso del crecimiento global (estatura) en pediatría?","options":["Crecimiento dentro del percentil 50","Descenso persistente de percentil al compararlo con curvas estándares", "Peso al nacer elevado", "Circunferencia cefálica en percentil 75"],"answer":1},
-  {"question":"La test de Apgar valora al minuto y a los cinco minutos del nacimiento; cuál de estas variables NO forma parte del Apgar?","options":["Color (apariencia)","Frecuencia respiratoria/irritabilidad","Tono muscular","Nivel de glucosa"],"answer":3},
-  {"question":"Cuál es la causa más frecuente de diarrea aguda no complicada en pediatría comunitaria?","options":["Bacterias invasoras como Shigella","Virus (ej. rotavirus, norovirus)","Parásitos intestinales siempre","Alergia alimentaria exclusiva"],"answer":1},
-  {"question":"Recomendación para el manejo ambulatorio de la diarrea aguda en niños sin signos de deshidratación severa:","options":["Suspender líquidos hasta 24 horas","Rehidratación oral con solución de rehidratación oral (SRO) y alimentación habitual", "Administrar antibióticos empíricos", "Iniciar ayuno prolongado"],"answer":1},
-  {"question":"Cuál es la edad recomendada para el cribado universal de anemia por hierro en lactantes según muchas guías?","options":["1–2 meses","9–12 meses","5 años","12 años"],"answer":1},
-  {"question":"Qué hallazgo en la exploración sugiere cardiopatía congénita con derivación izquierda-derecha?","options":["Cianosis profunda precoz","Soplo sistólico continuo o holosistólico y crecimiento excesivo por sobrecarga pulmonar","Ausencia de soplos siempre","Pulsos femorales ausentes"],"answer":1},
-  {"question":"Cuál es el antecedente de mayor riesgo para desarrollo de síndrome de aspiración por meconio?","options":["Parto prematuro sin meconio","Presencia de meconio espeso y sufrimiento fetal" ,"Madre con asma controlada","Uso de antibióticos intraparto"],"answer":1},
-  {"question":"Qué dato indica que un recién nacido está adaptándose bien tras el nacimiento?","options":["Frecuencia cardiaca < 100 lpm","Tono muscular rígido","Respiración regular, llanto vigoroso y temperatura adecuada","Gasto urinario nulo las primeras 48 horas"],"answer":2},
-  {"question":"Cuál es el signo más frecuente de alergia alimentaria IgE mediada en la infancia temprana?","options":["Reacción cutánea aguda (urticaria) y/o angioedema tras ingestión", "Desarrollo de cetosis", "Pica intensa", "Retraso en el crecimiento sin síntomas agudos"],"answer":0},
-  {"question":"En la evaluación del desarrollo psicomotor, a los 12 meses se espera habitualmente:","options":["Caminar sin apoyo y decir palabras sueltas", "Uso de tijeras con destreza", "Lectura de palabras simples", "Coordinación mano-ojo avanzada como escribir"],"answer":0},
-  {"question":"Para prevenir la enfermedad neumocócica invasiva en niños, ¿qué vacuna es recomendada según calendarios?","options":["Vacuna polisacárida 23-valente en lactantes", "Vacuna conjugada neumocócica (PCV) según esquema infantil", "Vacuna BCG", "No existe vacuna"],"answer":1},
-  {"question":"Qué signo de alarma respiratoria en un niño requiere valoración inmediata?","options":["Tos ocasional nocturna","Retracción intercostal y cianosis central", "Secreción nasal ligera", "Estornudos"],"answer":1},
-  {"question":"Cuál es la causa más común de ictericia prolongada en el recién nacido a término?","options":["Atresia biliar", "Ictericia fisiológica o lactancia materna relacionada", "Incompatibilidad Rh siempre", "Hipotiroidismo exclusivamente"],"answer":1},
-  {"question":"En pediatría, la obesidad infantil se define comúnmente como:","options":["IMC por encima del percentil 85 para edad y sexo","IMC por debajo del percentil 5","IMC por encima del percentil 95 para edad y sexo","Peso absoluto mayor de 30 kg"],"answer":2},
-  {"question":"Cuál es la conducta ante un lactante con vómitos persistentes y signos de deshidratación?","options":["Inicio de dieta sólida inmediatamente","Rehidratación con SRO y valoración hospitalaria si empeora", "Aislamiento y observación ambulatoria sola", "Administrar antiemético sin consultar"],"answer":1},
-  {"question":"Qué hallazgo en una auscultación pulmonar sugiere sibilancias (wheezing)?","options":["Ruidos respiratorios finos y crepitantes", "Sonido adventicio musical expiratorio o inspiratorio", "Sonidos cardiacos audibles en tórax", "Silencio auscultatorio sin respiración"],"answer":1},
-  {"question":"Cuál es el método diagnóstico de elección para confirmar luxación de cadera en un lactante mayor de 4 meses?","options":["Ecografía de cadera en neonatos y hasta ~6 meses","Radiografía de cadera desde el nacimiento siempre","Resonancia magnética infantil de rutina","Exploración física únicamente"],"answer":0},
-  {"question":"La prueba de detección de pliegue cutáneo en recién nacido (calcáneo) se usa para:","options":["Evaluar la ictericia","Cribado de talasemia","Medir hidratación y grasa subcutánea no es método primario para cribado estándar","Diagnóstico de sepsis"],"answer":2},
-  {"question":"Cuál es la medida preventiva más efectiva para reducir la mortalidad por infecciones respiratorias en lactantes?","options":["Promover la lactancia materna y vacunación adecuada", "Uso rutinario de antibióticos profilácticos", "Aislamiento total siempre", "Administración de vitamina C"],"answer":0},
-  {"question":"Signo clínico más característico de crisis convulsiva febril simple en niños 6–60 meses:","options":["Convulsión generalizada breve (<15 minutos) sin foco neurológico persistente", "Convulsión focal prolongada >60 minutos", "Retraso neurológico previo siempre", "Convulsión asociada a coinfección bacteriana"],"answer":0},
-  {"question":"Qué maniobra es adecuada para la exploración de reflejos en un lactante?","options":["Reflejo de succión y reflejo de prensión palmar", "Reflejo de Babinski patológico siempre", "No explorar reflejos en lactantes", "Explorar reflejo de Hoffmann"],"answer":0},
-  {"question":"Cuál es el antibiótico de elección en otitis media bacteriana no complicada en la mayoría de guías (primera línea)?","options":["Amoxicilina oral según peso y dosis apropiada", "Clindamicina intravenosa", "Vancomicina oral", "Ceftriaxona tópica"],"answer":0},
-  {"question":"Cuál es la intervención más importante en prevención de muerte súbita del lactante (SMSL)?","options":["Dormir boca abajo","Practicar colecho con adultos fumadores","Dormir boca arriba y ambiente seguro para dormir", "Uso de almohadas y mantas mullidas"],"answer":2},
-  {"question":"Ante un niño con sospecha de fractura ósea abierta, la conducta inmediata es:","options":["Inmovilización, cubrir herida y traslado a urgencias", "Masajear para reducir el dolor", "Dar analgesia oral y enviar a casa", "Pedir pruebas de alergia"],"answer":0},
-  {"question":"Cuál es la prueba más útil para evaluar una infección urinaria recurrente en un niño?","options":["Urocultivo obtenido por método apropiado (p. ej., sonda o chupa) y análisis de orina", "Ecografía cerebral", "Hemograma rutinario", "Radiografía de tórax"],"answer":0},
-  {"question":"Qué hallazgo es característico de la enfermedad de Kawasaki que ayuda al diagnóstico?","options":["Fiebre prolongada >5 días, conjuntivitis bilateral no purulenta y cambios en mucosas", "Ictericia franca", "Convulsiones recurrentes", "Petequias difusas exclusivamente"],"answer":0},
-  {"question":"Cuál es la presentación más típica de déficit de hierro en un lactante?","options":["Irritabilidad, palidez mucocutánea y retraso en crecimiento en fases avanzadas", "Hiperactividad persistente sin palidez", "Cianosis periórica aislada", "Cefalea crónica"],"answer":0},
-  {"question":"En el manejo ambulatorio de varicela en niño sano, la recomendación principal es:","options":["Aislamiento, control sintomático y manejo de prurito; vigilar signos de complicación", "Hospitalizar a todos los casos", "Administrar antibióticos profilácticos", "Exponer al sol para curar"],"answer":0},
-  {"question":"Qué examen es más útil para evaluar displasia del desarrollo de cadera en neonatos de alto riesgo?","options":["Ecografía de cadera", "Radiografía AP de pelvis en neonatos de 1 semana", "Electroencefalograma", "TAC"],"answer":0},
-  {"question":"La causa más común de anemia microcítica en niños es:","options":["Deficiencia de hierro", "Talassemia mayor siempre", "Enfermedad renal crónica", "Infección viral aguda"],"answer":0},
-  {"question":"Cuál es la mejor medida para prevenir caries en niños?","options":["Higiene dental adecuada y uso de fluoruro según recomendaciones", "Evitar el cepillado y dar líquidos azucarados", "Uso rutinario de antibióticos", "Expresar lactancia a demanda durante la noche indefinidamente"],"answer":0},
-  {"question":"Ante un recién nacido con predisposición a hipoglucemia (madre diabética), la conducta inicial es:","options":["Monitorizar glucosa y promover alimentación precoz o perfusión si necesario", "Administrar glucosa oral sin monitorización", "Exposición al frío para estimular metabolismo", "Dar suplementos vitamínicos solamente"],"answer":0},
-  {"question":"Cuál es una causa frecuente de fiebre de origen desconocido en niños preescolares?","options":["Infecciones virales autolimitadas", "Cáncer en la mayoría de casos", "Envenenamiento alimentario crónico", "Hipotiroidismo"],"answer":0},
-  {"question":"En la valoración de un niño con sospecha de asma, cuál prueba es útil en mayores de 5 años?","options":["Espirometría con prueba broncodilatadora", "Electrocardiograma rutinario", "Radiografía de abdomen", "Test de sudor para fibrosis quística"],"answer":0},
-  {"question":"Cuál es la edad más frecuente para la aparición del primer diente (incisivo central inferior)?","options":["Alrededor de 6 meses", "Al nacer", "A los 3 años", "A los 10 años"],"answer":0},
-  {"question":"Cuál de las siguientes es una causa común de hematuria microscópica transitoria en niños?","options":["Infección del tracto urinario", "Cáncer renal en la mayoría", "Traumatismo crónico del cuero cabelludo", "Hipoglucemia"],"answer":0},
-  {"question":"Qué indicación justifica derivación urgente a neurología pediátrica?","options":["Convulsiones afebriles recurrentes o convulsión focal de inicio reciente", "Dolor abdominal crónico ocasional", "Rinorrea ocasional", "Cortes menores de la piel"],"answer":0},
-  {"question":"Cuál es la causa más frecuente de dolor abdominal agudo quirúrgico en la infancia?","options":["Apendicitis aguda", "Hernia inguinal crónica", "Otitis media", "Asma"],"answer":0},
-  {"question":"Cuál es la aproximación inicial ante sospecha de intoxicación accidental en niño?","options":["Contactar a servicio de toxicología y servicio de urgencias, seguir recomendaciones específicas", "Inducir el vómito inmediatamente en casa", "Administrar leche y esperar 48 horas", "Dar antipirético y alta domiciliaria"],"answer":0},
-  {"question":"Qué característica clínica orienta hacia una bronquiolitis más que a asma en un lactante?","options":["Edad menor de 2 años con infección viral previa y sibilancias generalizadas", "Edad escolar con antecedente atópico", "Mejora con antihistamínicos", "Inicio progresivo y crónico"],"answer":0},
-  {"question":"Qué medida preventiva es recomendada contra tétanos en niños?","options":["Completar esquema de vacuna DTP según calendario", "Administrar inmunoglobulina a todos por rutina", "Evitar vacunas", "Dar antibióticos profilácticos"],"answer":0},
-  {"question":"En lactantes con reflujo gastroesofágico fisiológico, la recomendación habitual es:","options":["Cambios posturales y seguimiento, evitar tratamiento farmacológico rutinario si no hay signos de alarma", "Realizar cirugía inmediata", "Administrar antibióticos", "Suspender la leche materna inmediatamente"],"answer":0},
-  {"question":"Cuál es la definición práctica de fiebre en pediatría según la temperatura corporal?","options":["Temperatura axilar ≥37.5–38.0 °C según la técnica; muchas guías usan ≥38.0 °C como fiebre" ,"Siempre temperatura >40 °C","Temperatura menor a 36 °C","Cualquier temperatura medida por oído"],"answer":0},
-  {"question":"Qué hallazgo en examen físico sugiere hipertensión arterial en un adolescente?","options":["Presión arterial repetidamente por encima del percentil 95 para edad/talla/sexo", "Pulso bajo en reposo solo", "Hiperreflexia aislada", "Manchas en la piel normales"],"answer":0},
-  {"question":"Cuál es la conducta ante sospecha de infección por estreptococo del grupo A (faringitis) en niño?","options":["Realizar test rápido de detección o cultivo antes de tratamiento antibiótico según guías", "Administrar corticoides sistémicos inicialmente", "No tratar nunca", "Dar vacuna antiestrptocócica"],"answer":0},
-  {"question":"Qué concepto describe mejor la inmunidad pasiva en neonatos?","options":["Transferencia de anticuerpos maternos a través de la placenta y leche materna", "Producción inmediata de anticuerpos del neonato", "Vacunación activa del feto", "Transmisión de bacterias beneficiosas"],"answer":0},
-  {"question":"Cuál es la recomendación ante sospecha de desnutrición grave en un niño?","options":["Derivar a tratamiento nutricional especializado y evaluación urgente", "Aumentar calorías sin evaluación médica", "Iniciar antibióticos de amplio espectro rutinariamente", "Retirar la comida"],"answer":0},
-  {"question":"En vacunación, qué principio es cierto?","options":["Las vacunas vivas atenuadas están contraindicadas en inmunodeprimidos severos", "Todas las vacunas son vivas", "Vacunas no necesitan registros", "No existen contraindicaciones"],"answer":0},
-  {"question":"Qué hallazgo neurológico en un recién nacido sugiere hemorragia intracraneal?","options":["Fontanela muy tensa y signos de irritabilidad/prolapso en severidad", "Llanto normal sin otros signos", "Aumento de peso normal", "Pérdida de reflejo de succión exclusivamente"],"answer":0},
-  {"question":"Cuál es la definición de fiebre recurrente periódica en pediatría?","options":["Episodios de fiebre separados por intervalos de salud sin explicación infecciosa persistente", "Fiebre constante por semanas", "Fiebre solo una vez en la vida", "Fiebre asociada siempre a alergia"],"answer":0},
-  {"question":"Qué maniobra es apropiada para valorar escoliosis en niños en edad escolar?","options":["Prueba de inclinación hacia adelante (Adam) para detectar gibosidad costal", "Medir glucosa capilar", "Exploración otológica", "Ecografía abdominal"],"answer":0},
-  {"question":"En un lactante que no sube de peso adecuadamente, cuál es una causa frecuente a valorar?","options":["Problemas en técnica de lactancia/mala sujeción y frecuencia de tomas", "Exceso de actividad física", "Hipertiroidismo materno exclusivamente", "Exposición al frío"],"answer":0},
-  {"question":"Qué factor empeora el pronóstico en meningitis bacteriana pediátrica?","options":["Retraso en el inicio de antibióticos apropiados", "Edad escolar avanzada únicamente", "Vacunación completa", "Higiene adecuada"],"answer":0},
-  {"question":"Cuál es la acción para prevenir la transmisión vertical del VIH en madre positiva?","options":["Terapia antirretroviral materna y profilaxis neonatal según protocolos", "No hacer pruebas prenatales", "Dar leche materna sin tratamiento", "Evitar todas las vacunas"],"answer":0},
-  {"question":"Cuál es la causa más frecuente de vómitos biliosos en el recién nacido?","options":["Obstrucción intestinal alta como malrotación con vólvulo", "Intolerancia a proteínas de la leche", "Reflujo gastroesofágico fisiológico", "Otitis"],"answer":0},
-  {"question":"En la sospecha de abuso infantil, cuál es la conducta prioritaria?","options":["Garantizar la seguridad del niño y notificar a las autoridades según la normativa local", "Mantener silencio para no interferir", "Administrar medicación sedante", "Pedir al niño que explique sin apoyo"],"answer":0},
-  {"question":"Cuál es la indicación de cirugía urgente en apendicitis pediátrica?","options":["Perforación o peritonitis clínica", "Dolor abdominal leve sin datos inflamatorios", "Tos persistente", "Malformación cutánea benigna"],"answer":0},
-  {"question":"Qué marcador es útil en el cribado de fibrosis quística?","options":["Test del tamizaje neonatal con tripsina inmunorreactiva (IRT) y confirmación con test de sudor", "Glucosa capilar", "Hemograma completo", "Radiografía de tórax rutinaria"],"answer":0},
-  {"question":"Cuál es la edad típica para realizar el test de tamizaje neonatal (cribado metabólico)?","options":["Entre 24–72 horas de vida", "A las 2 semanas exclusivamente", "A los 6 meses", "Al año"],"answer":0},
-  {"question":"Qué medida reduce la transmisión de virus respiratorios en guarderías?","options":["Higiene de manos y prácticas de control de infecciones", "No ventilar las aulas", "Uso rutinario de antibióticos", "Evitar contacto social siempre"],"answer":0}
+    {
+        "id": 1,
+        "tema": "Pediátrico - Arritmias/TSV",
+        "caso_clínico": "Niño de 4 años (18 kg) estable con Taquicardia Supraventricular (TSV) a 240 lpm. Fallan las maniobras vagales. Se requiere Adenosina.",
+        "pregunta": "¿Cuál es la dosis inicial de Adenosina IV a administrar (0.1 mg/kg)?",
+        "opciones": {
+            "opcion a": "1.8 mg",
+            "opcion b": "3.6 mg",
+            "opcion c": "0.18 mg",
+            "opcion d": "0.5 mg"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 2,
+        "tema": "Pediátrico - Cálculo de Medicación/Sepsis",
+        "caso_clínico": "Niño de 20 kg en shock séptico 'frío'. Se inicia infusión de Norepinefrina a 0.1 μg/kg/min. Concentración: 4 mg en 250 ml.",
+        "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+        "opciones": {
+            "opcion a": "7.5 ml/h",
+            "opcion b": "9.375 ml/h",
+            "opcion c": "3.75 ml/h",
+            "opcion d": "1.5 ml/h"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 3,
+        "tema": "Pediátrico - Reanimación",
+        "caso_clínico": "Lactante (7 kg) en asistolia. Se inicia RCP avanzada.",
+        "pregunta": "¿Cuál es la dosis de Epinefrina (Adrenalina) IV/IO que debe administrarse?",
+        "opciones": {
+            "opcion a": "0.007 mg",
+            "opcion b": "0.07 mg",
+            "opcion c": "0.7 mg",
+            "opcion d": "1 mg"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 4,
+        "tema": "Pediátrico - Shock Cardiogénico",
+        "caso_clínico": "Niño con Miocarditis y disfunción ventricular severa. Presenta bajo gasto cardíaco y RVS alta.",
+        "pregunta": "¿Qué inodilatador se prefiere para reducir la RVS y mejorar la contractilidad en este tipo de shock?",
+        "opciones": {
+            "opcion a": "Dopamina",
+            "opcion b": "Milrinona",
+            "opcion c": "Norepinefrina",
+            "opcion d": "Epinefrina"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 5,
+        "tema": "Neonatal - Cardiopatía Ductus-Dependiente",
+        "caso_clínico": "Neonato a término con atresia pulmonar (cardiopatía ductus-dependiente). Cae en desaturación severa.",
+        "pregunta": "¿Qué fármaco es esencial para mantener la vida hasta la corrección quirúrgica?",
+        "opciones": {
+            "opcion a": "Indometacina",
+            "opcion b": "Prostaglandina E1 (Alprostadil)",
+            "opcion c": "Sildenafil",
+            "opcion d": "Furosemida"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 6,
+        "tema": "Neonatal - Cálculo de Medicación/Fluidoterapia",
+        "caso_clínico": "Neonato de 2.8 kg en shock hipovolémico. Se requiere un bolo de Solución Salina 0.9% a 20 ml/kg.",
+        "pregunta": "¿Cuál es el volumen total de bolo a administrar?",
+        "opciones": {
+            "opcion a": "28 ml",
+            "opcion b": "56 ml",
+            "opcion c": "14 ml",
+            "opcion d": "20 ml"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 7,
+        "tema": "Neonatal - Hipertensión Pulmonar",
+        "caso_clínico": "Neonato con Hipertensión Pulmonar Persistente (HPPRN).",
+        "pregunta": "¿Cuál es el agente vasodilatador pulmonar de primera línea que debe usarse?",
+        "opciones": {
+            "opcion a": "Sildenafil oral",
+            "opcion b": "Óxido Nítrico Inhalado (iNO)",
+            "opcion c": "Dopamina IV",
+            "opcion d": "Oxígeno al 40%"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 8,
+        "tema": "Pediátrico - Cálculo de Medicación/Hipoglucemia",
+        "caso_clínico": "Niño de 15 kg con hipoglucemia sintomática. Se requiere bolo de Dextrosa 10% (D10) a 5 ml/kg.",
+        "pregunta": "¿Cuántos gramos de glucosa se administran?",
+        "opciones": {
+            "opcion a": "7.5 gramos",
+            "opcion b": "0.75 gramos",
+            "opcion c": "15 gramos",
+            "opcion d": "1.5 gramos"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 9,
+        "tema": "Pediátrico - Cálculo de Medicación/Sedación",
+        "caso_clínico": "Niño de 35 kg requiere intubación. Se utiliza Midazolam IV a 0.2 mg/kg. Concentración: 5 mg/ml.",
+        "pregunta": "¿Cuántos ml de Midazolam debe administrar?",
+        "opciones": {
+            "opcion a": "1.4 ml",
+            "opcion b": "0.7 ml",
+            "opcion c": "3.5 ml",
+            "opcion d": "7.0 ml"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 10,
+        "tema": "Neonatal - Reanimación",
+        "pregunta": "En la reanimación neonatal, si la FC permanece < 60 lpm a pesar de VPP efectiva y compresiones torácicas coordinadas (relación 3:1), ¿cuál es el siguiente paso crucial?",
+        "opciones": {
+            "opcion a": "Intubación orotraqueal (si no se hizo) y administración de Epinefrina IV/IO.",
+            "opcion b": "Administrar un bolo de fluidos.",
+            "opcion c": "Aumentar la FiO2 al 100%.",
+            "opcion d": "Suspender compresiones y reevaluar."
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 11,
+        "tema": "Pediátrico - Shock Séptico",
+        "pregunta": "¿Cuál es el principal objetivo en el manejo inicial del shock séptico pediátrico dentro de la primera hora?",
+        "opciones": {
+            "opcion a": "Descenso de la PA media en un 25%.",
+            "opcion b": "Obtener acceso venoso central.",
+            "opcion c": "Administración rápida de fluidos (60 ml/kg) y antibióticos de amplio espectro.",
+            "opcion d": "Iniciar ventilación de alta frecuencia."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 12,
+        "tema": "Pediátrico - Crisis Hipercyanótica (Fallot)",
+        "caso_clínico": "Lactante con Tetralogía de Fallot que presenta una crisis de hipercyanosis ('Hechizo Azul').",
+        "pregunta": "¿Cuál es la intervención terapéutica prioritaria, además de la posición rodilla-pecho y el oxígeno?",
+        "opciones": {
+            "opcion a": "Administrar Prostaglandina E1.",
+            "opcion b": "Administrar Dextrosa 10%.",
+            "opcion c": "Administrar un bolo de Fenilefrina o Morfina.",
+            "opcion d": "Administrar Furosemida."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 13,
+        "tema": "Neonatal - Cálculo de Medicación/Epinefrina",
+        "caso_clínico": "Neonato de 3 kg en paro. Se requiere Epinefrina IV a 0.01 mg/kg. Concentración: 0.1 mg/ml (1:10,000).",
+        "pregunta": "¿Cuántos ml de Epinefrina debe administrar?",
+        "opciones": {
+            "opcion a": "0.03 ml",
+            "opcion b": "0.3 ml",
+            "opcion c": "3.0 ml",
+            "opcion d": "0.1 ml"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 14,
+        "tema": "Pediátrico - Reanimación",
+        "pregunta": "¿Cuál es la relación compresión:ventilación recomendada para un rescatador único en RCP pediátrica (niño/lactante)?",
+        "opciones": {
+            "opcion a": "3:1",
+            "opcion b": "15:2",
+            "opcion c": "30:2",
+            "opcion d": "5:1"
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 15,
+        "tema": "Neonatal - Ductus Arterioso Persistente (DAP)",
+        "caso_clínico": "Neonato prematuro de 30 semanas con DAP hemodinámicamente significativo.",
+        "pregunta": "¿Qué clase de fármacos se utilizan para el cierre médico del DAP?",
+        "opciones": {
+            "opcion a": "Antagonistas de la Prostaglandina E1 (p. ej., Indometacina).",
+            "opcion b": "Agonistas de la Prostaglandina E1.",
+            "opcion c": "Vasopresores.",
+            "opcion d": "Inhibidores de la ECA."
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 16,
+        "tema": "Pediátrico - Cálculo de Medicación/Anticonvulsivantes",
+        "caso_clínico": "Niño de 10 kg con convulsión tónico-clónica. Se requiere Lorazepam IV a 0.1 mg/kg. Concentración: 2 mg/ml.",
+        "pregunta": "¿Cuántos ml de Lorazepam debe administrar?",
+        "opciones": {
+            "opcion a": "0.5 ml",
+            "opcion b": "0.05 ml",
+            "opcion c": "1.0 ml",
+            "opcion d": "0.1 ml"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 17,
+        "tema": "Pediátrico - Shock Hipovolémico",
+        "pregunta": "¿Cuál es el volumen total máximo de bolos de cristaloides recomendado para la reanimación inicial del shock hipovolémico pediátrico antes de pasar a sangre o vasopresores?",
+        "opciones": {
+            "opcion a": "20 ml/kg",
+            "opcion b": "40 ml/kg",
+            "opcion c": "60 ml/kg",
+            "opcion d": "80 ml/kg"
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 18,
+        "tema": "Neonatal - Cálculo de Medicación/Infusión de Dopamina",
+        "caso_clínico": "Neonato de 1.5 kg con hipotensión persistente. Se inicia infusión de Dopamina a 10 μg/kg/min. Concentración: 60 mg en 100 ml.",
+        "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+        "opciones": {
+            "opcion a": "0.9 ml/h",
+            "opcion b": "1.5 ml/h",
+            "opcion c": "3.0 ml/h",
+            "opcion d": "0.3 ml/h"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 19,
+        "tema": "Pediátrico - Inotrópicos",
+        "pregunta": "¿Cuál es la acción principal de la Dopamina a dosis bajas/medias (5-10 μg/kg/min) en pacientes pediátricos?",
+        "opciones": {
+            "opcion a": "Vasodilatación renal y esplácnica.",
+            "opcion b": "Aumento del gasto cardíaco y vasoconstricción.",
+            "opcion c": "Vasoconstricción pulmonar.",
+            "opcion d": "Bloqueo beta."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 20,
+        "tema": "Pediátrico - Vía de Acceso",
+        "caso_clínico": "Niño de 2 años en paro cardíaco, sin acceso venoso periférico tras dos intentos.",
+        "pregunta": "¿Cuál es la vía de acceso de fluidos y fármacos de elección para la reanimación inmediata en este escenario?",
+        "opciones": {
+            "opcion a": "Vía Central por subclavia.",
+            "opcion b": "Vía Intramedular/Intraósea (IO).",
+            "opcion c": "Vía Endotraqueal.",
+            "opcion d": "Vía Venosa Periférica (tercer intento)."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 21,
+        "tema": "Neonatal - Hipotensión",
+        "pregunta": "¿Cuál es la regla práctica para la Presión Arterial Media (PAM) mínima aceptable en un recién nacido prematuro?",
+        "opciones": {
+            "opcion a": "PAM mínima de 60 mmHg.",
+            "opcion b": "PAM igual a la edad gestacional en semanas (ej. 28 mmHg para 28 sem).",
+            "opcion c": "PAM mínima de 40 mmHg.",
+            "opcion d": "PAM superior a la presión arterial sistólica."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 22,
+        "tema": "Pediátrico - Cálculo de Medicación/Antiarrítmicos",
+        "caso_clínico": "Niño de 25 kg con taquicardia ventricular. Se requiere Amiodarona en bolo a 5 mg/kg. Concentración: 50 mg/ml.",
+        "pregunta": "¿Cuántos ml de Amiodarona debe administrar?",
+        "opciones": {
+            "opcion a": "5.0 ml",
+            "opcion b": "2.5 ml",
+            "opcion c": "1.5 ml",
+            "opcion d": "1.0 ml"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 23,
+        "tema": "Neonatal - Cardiopatía",
+        "caso_clínico": "Neonato cianótico con patrón 'Huevo en una cuerda' en la radiografía de tórax.",
+        "pregunta": "¿Cuál es el diagnóstico más probable?",
+        "opciones": {
+            "opcion a": "Tetralogía de Fallot",
+            "opcion b": "Atresia Pulmonar",
+            "opcion c": "Transposición de Grandes Arterias (TGA)",
+            "opcion d": "Truncus Arteriosus"
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 24,
+        "tema": "Pediátrico - Cálculo de Medicación/Diuréticos",
+        "caso_clínico": "Niño de 12 kg con Insuficiencia Cardíaca Congestiva (ICC). Se requiere Furosemida IV a 1 mg/kg. Concentración: 10 mg/ml.",
+        "pregunta": "¿Cuántos ml de Furosemida se administran?",
+        "opciones": {
+            "opcion a": "1.2 ml",
+            "opcion b": "0.12 ml",
+            "opcion c": "1.0 ml",
+            "opcion d": "2.4 ml"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 25,
+        "tema": "Pediátrico - Monitorización",
+        "pregunta": "¿Cuál es el principal signo de descompensación hemodinámica en el niño/lactante, antes de la caída de la Presión Arterial?",
+        "opciones": {
+            "opcion a": "Bradicardia extrema.",
+            "opcion b": "Aumento del relleno capilar y Taquicardia compensatoria.",
+            "opcion c": "Hipotensión ortostática.",
+            "opcion d": "Oliguria leve."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 26,
+        "tema": "Neonatal - Cálculo de Medicación/Infusión de Prostaglandina E1",
+        "caso_clínico": "Neonato de 4 kg con ductus-dependencia. Se requiere PGE1 a 0.05 μg/kg/min. Concentración: 30 μg en 50 ml.",
+        "pregunta": "¿Cuál es la velocidad de infusión en ml/hora?",
+        "opciones": {
+            "opcion a": "2.0 ml/h",
+            "opcion b": "0.2 ml/h",
+            "opcion c": "4.0 ml/h",
+            "opcion d": "0.4 ml/h"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 27,
+        "tema": "Pediátrico - Hipoglucemia Crítica",
+        "pregunta": "En un niño con coma por hipoglucemia, ¿cuál es el bolo inicial de Dextrosa recomendado?",
+        "opciones": {
+            "opcion a": "10 ml/kg de D5W.",
+            "opcion b": "2-4 ml/kg de D10 (Glucosa 10%).",
+            "opcion c": "1 ml/kg de Glucagón.",
+            "opcion d": "5 ml/kg de D50W."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 28,
+        "tema": "Pediátrico - Cálculo de Medicación/Fentanilo",
+        "caso_clínico": "Niño de 30 kg en ventilación mecánica. Se requiere bolo de Fentanilo a 1 μg/kg. Concentración: 50 μg/ml.",
+        "pregunta": "¿Cuántos ml de Fentanilo se administran?",
+        "opciones": {
+            "opcion a": "0.6 ml",
+            "opcion b": "0.3 ml",
+            "opcion c": "0.15 ml",
+            "opcion d": "0.9 ml"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 29,
+        "tema": "Neonatal - Sepsis",
+        "pregunta": "¿Cuál es el signo de inestabilidad hemodinámica más sensible y temprano en el neonato con sepsis?",
+        "opciones": {
+            "opcion a": "Hipotensión marcada.",
+            "opcion b": "Disminución del gasto urinario.",
+            "opcion c": "Taquicardia persistente e inestabilidad de la temperatura.",
+            "opcion d": "Acidosis respiratoria."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 30,
+        "tema": "Neonatal - Hiperbilirrubinemia",
+        "caso_clínico": "Neonato con ictericia severa y signos de encefalopatía aguda (Kernícterus).",
+        "pregunta": "¿Cuál es el tratamiento de rescate definitivo para la hiperbilirrubinemia crítica?",
+        "opciones": {
+            "opcion a": "Fototerapia intensiva sola.",
+            "opcion b": "Administración de Fenobarbital.",
+            "opcion c": "Exanguinotransfusión.",
+            "opcion d": "Hidratación con bolos de suero."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 31,
+        "tema": "Pediátrico - Cálculo de Medicación/Infusión de Epinefrina",
+        "caso_clínico": "Lactante de 5 kg en shock cardiogénico. Se inicia infusión de Epinefrina a 0.05 μg/kg/min. Concentración: 1 mg en 100 ml.",
+        "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+        "opciones": {
+            "opcion a": "0.3 ml/h",
+            "opcion b": "1.5 ml/h",
+            "opcion c": "3.0 ml/h",
+            "opcion d": "0.5 ml/h"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 32,
+        "tema": "Pediátrico - Reanimación",
+        "pregunta": "¿Cuál es la energía inicial recomendada para la desfibrilación en Taquicardia Ventricular sin pulso o Fibrilación Ventricular pediátrica (monofásica o bifásica)?",
+        "opciones": {
+            "opcion a": "1 J/kg",
+            "opcion b": "2 J/kg",
+            "opcion c": "4 J/kg",
+            "opcion d": "10 J/kg"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 33,
+        "tema": "Neonatal - Cálculo de Medicación/Bicarbonato",
+        "caso_clínico": "Neonato de 4 kg con acidosis metabólica severa y refractaria. Se requiere Bicarbonato de Sodio 4.2% a 1 mEq/kg (0.5 mEq/ml).",
+        "pregunta": "¿Cuántos ml de Bicarbonato 4.2% se administran?",
+        "opciones": {
+            "opcion a": "2.0 ml",
+            "opcion b": "4.0 ml",
+            "opcion c": "8.0 ml",
+            "opcion d": "1.0 ml"
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 34,
+        "tema": "Pediátrico - Laringotraqueítis",
+        "caso_clínico": "Niño de 2 años con estridor inspiratorio, tos 'perruna' y dificultad respiratoria leve.",
+        "pregunta": "¿Cuál es el tratamiento farmacológico de elección para el crup leve a moderado?",
+        "opciones": {
+            "opcion a": "Antibióticos y Salbutamol nebulizado.",
+            "opcion b": "Epinefrina racémica nebulizada y bolos de fluidos.",
+            "opcion c": "Dexametasona oral/IM o Budesonida nebulizada.",
+            "opcion d": "Intubación inmediata."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 35,
+        "tema": "Neonatal - Asfixia Perinatal",
+        "pregunta": "En la encefalopatía hipóxico-isquémica (EHI) moderada a severa, ¿cuál es el tratamiento neuroprotector que se debe iniciar en las primeras 6 horas de vida?",
+        "opciones": {
+            "opcion a": "Administración de altas dosis de esteroides.",
+            "opcion b": "Hipotermia terapéutica controlada (enfriamiento).",
+            "opcion c": "Ventilación de alta frecuencia.",
+            "opcion d": "Exanguinotransfusión."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 36,
+        "tema": "Pediátrico - Cálculo de Medicación/Infusión de Milrinona",
+        "caso_clínico": "Niño de 40 kg en shock cardiogénico. Se inicia Milrinona a 0.5 μg/kg/min. Concentración: 10 mg en 100 ml.",
+        "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+        "opciones": {
+            "opcion a": "6.0 ml/h",
+            "opcion b": "12.0 ml/h",
+            "opcion c": "1.5 ml/h",
+            "opcion d": "2.5 ml/h"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 37,
+        "tema": "Pediátrico - Hipercalemia",
+        "caso_clínico": "Paciente pediátrico con insuficiencia renal y cambios electrocardiográficos de hipercalemia (ondas T picudas).",
+        "pregunta": "¿Cuál es el fármaco de primera línea para estabilizar la membrana celular miocárdica?",
+        "opciones": {
+            "opcion a": "Insulina y Dextrosa.",
+            "opcion b": "Bicarbonato de Sodio.",
+            "opcion c": "Gluconato de Calcio IV.",
+            "opcion d": "Salbutamol nebulizado."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 38,
+        "tema": "Neonatal - Cálculo de Medicación/Sedación",
+        "caso_clínico": "Neonato de 2.5 kg requiere un bolo de Morfina a 0.05 mg/kg. Concentración diluida: 1 mg/ml.",
+        "pregunta": "¿Cuántos ml de la solución diluida se administran?",
+        "opciones": {
+            "opcion a": "0.125 ml",
+            "opcion b": "1.25 ml",
+            "opcion c": "0.25 ml",
+            "opcion d": "0.05 ml"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 39,
+        "tema": "Pediátrico - Ventilación",
+        "pregunta": "En un niño con lesión pulmonar aguda (SDRA), ¿cuál es la estrategia ventilatoria preferida para evitar el barotrauma?",
+        "opciones": {
+            "opcion a": "Volúmenes corrientes altos (> 10 ml/kg).",
+            "opcion b": "Presiones pico altas.",
+            "opcion c": "Ventilación con volúmenes corrientes bajos (4-6 ml/kg) y PEEP adecuada.",
+            "opcion d": "Hiperventilación para reducir el CO2."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 40,
+        "tema": "Pediátrico - Hipotensión",
+        "pregunta": "¿Cuál es la causa más frecuente de Paro Cardíaco en la población pediátrica?",
+        "opciones": {
+            "opcion a": "Cardiopatía isquémica primaria.",
+            "opcion b": "Asfixia o falla respiratoria/shock progresivo.",
+            "opcion c": "Arritmias ventriculares primarias.",
+            "opcion d": "Taponamiento cardíaco."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 41,
+        "tema": "Neonatal - Sepsis",
+        "pregunta": "¿Cuál es el antibiótico empírico de primera línea para la sepsis de inicio temprano en el neonato?",
+        "opciones": {
+            "opcion a": "Ceftriaxona y Vancomicina.",
+            "opcion b": "Ampicilina y Gentamicina (o Amikacina).",
+            "opcion c": "Meropenem y Anfotericina.",
+            "opcion d": "Clindamicina y Azitromicina."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 42,
+        "tema": "Pediátrico - Cálculo de Medicación/Infusión de Dopamina",
+        "caso_clínico": "Niño de 15 kg en shock. Se inicia Dopamina a 10 μg/kg/min. Concentración: 200 mg en 250 ml.",
+        "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+        "opciones": {
+            "opcion a": "28.125 ml/h",
+            "opcion b": "11.25 ml/h",
+            "opcion c": "15.0 ml/h",
+            "opcion d": "18.75 ml/h"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 43,
+        "tema": "Pediátrico - Trauma",
+        "caso_clínico": "Adolescente con trauma cerrado de tórax, hipotensión y desviación traqueal. Murmullo vesicular abolido en un hemitórax.",
+        "pregunta": "¿Cuál es el diagnóstico de emergencia más probable y el tratamiento inmediato?",
+        "opciones": {
+            "opcion a": "Hemotórax masivo; Toracotomía.",
+            "opcion b": "Contusión pulmonar; Ventilación.",
+            "opcion c": "Neumotórax a tensión; Descompresión con aguja.",
+            "opcion d": "Taponamiento cardíaco; Pericardiocentesis."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 44,
+        "tema": "Neonatal - Cálculo de Medicación/Diuréticos",
+        "caso_clínico": "Neonato de 3 kg con sobrecarga de volumen. Se requiere Furosemida IV a 1 mg/kg. Concentración: 10 mg/ml.",
+        "pregunta": "¿Cuántos ml de Furosemida debe administrar?",
+        "opciones": {
+            "opcion a": "0.3 ml",
+            "opcion b": "0.1 ml",
+            "opcion c": "3.0 ml",
+            "opcion d": "1.0 ml"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 45,
+        "tema": "Pediátrico - Crisis Hipertensiva",
+        "caso_clínico": "Niño de 10 años con dolor de cabeza, convulsiones y PA de 180/120 mmHg (emergencia hipertensiva).",
+        "pregunta": "¿Cuál es el objetivo inicial del descenso de la Presión Arterial Media (PAM) en la primera hora?",
+        "opciones": {
+            "opcion a": "Reducir la PA sistólica a 100 mmHg.",
+            "opcion b": "Descenso del 50% de la PA.",
+            "opcion c": "Descenso gradual del 25% de la PAM.",
+            "opcion d": "Mantener la PA estable."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 46,
+        "tema": "Pediátrico - Cálculo de Medicación/Sedación",
+        "caso_clínico": "Niño de 20 kg requiere Quetamina IV para un procedimiento a 1 mg/kg. Concentración: 50 mg/ml.",
+        "pregunta": "¿Cuántos ml de Quetamina debe administrar?",
+        "opciones": {
+            "opcion a": "0.4 ml",
+            "opcion b": "0.2 ml",
+            "opcion c": "1.0 ml",
+            "opcion d": "2.0 ml"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 47,
+        "tema": "Neonatal - Reanimación",
+        "pregunta": "¿Cuál es el principal indicador de la efectividad de la ventilación a presión positiva (VPP) en el neonato de sala de partos?",
+        "opciones": {
+            "opcion a": "Aumento del pulso (FC > 100 lpm).",
+            "opcion b": "Aumento del color de la piel.",
+            "opcion c": "Movimiento de la pared torácica.",
+            "opcion d": "Gasto urinario adecuado."
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 48,
+        "tema": "Pediátrico - Vía Aérea",
+        "pregunta": "¿Cuál es la principal ventaja de la intubación con tubo sin balón en niños menores de 8 años?",
+        "opciones": {
+            "opcion a": "Menor riesgo de trauma traqueal y subglótico (el cricoides actúa como el sello natural).",
+            "opcion b": "Se reduce el espacio muerto.",
+            "opcion c": "Es más fácil de insertar.",
+            "opcion d": "Permite ventilación de alta frecuencia."
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 49,
+        "tema": "Neonatal - Cardiopatía",
+        "pregunta": "¿Qué cardiopatía cianótica es la más común en el período neonatal y requiere PGE1?",
+        "opciones": {
+            "opcion a": "Comunicación Interventricular (CIV)",
+            "opcion b": "Transposición de Grandes Arterias (TGA)",
+            "opcion c": "Ductus Arterioso Persistente (DAP)",
+            "opcion d": "Coartación Aórtica"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 50,
+        "tema": "Neonatal - Cálculo de Medicación/Infusión de Dobutamina",
+        "caso_clínico": "Neonato de 2 kg en shock cardiogénico. Se inicia infusión de Dobutamina a 5 μg/kg/min. Concentración: 125 mg en 100 ml.",
+        "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+        "opciones": {
+            "opcion a": "1.0 ml/h",
+            "opcion b": "0.48 ml/h",
+            "opcion c": "0.24 ml/h",
+            "opcion d": "2.0 ml/h"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 51,
+        "tema": "Pediátrico - Hipertensión Pulmonar",
+        "caso_clínico": "Niño con crisis de hipertensión pulmonar severa con desaturación.",
+        "pregunta": "¿Qué agente se puede utilizar para la vasodilatación pulmonar aguda?",
+        "opciones": {
+            "opcion a": "Labetalol IV.",
+            "opcion b": "Óxido Nítrico Inhalado (iNO).",
+            "opcion c": "Amiodarona.",
+            "opcion d": "Furosemida IV."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 52,
+        "tema": "Pediátrico - Cálculo de Medicación/Sedación",
+        "caso_clínico": "Niño de 40 kg requiere un bolo de Propofol para sedación a 1.5 mg/kg. Concentración: 10 mg/ml.",
+        "pregunta": "¿Cuántos ml de Propofol debe administrar?",
+        "opciones": {
+            "opcion a": "3 ml",
+            "opcion b": "6 ml",
+            "opcion c": "9 ml",
+            "opcion d": "12 ml"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 53,
+        "tema": "Neonatal - Prematuridad",
+        "pregunta": "¿Cuál es el principal factor de riesgo para el desarrollo de la Enfermedad de Membrana Hialina (EMH) en el neonato?",
+        "opciones": {
+            "opcion a": "Policitemia.",
+            "opcion b": "Prematuridad (déficit de surfactante).",
+            "opcion c": "Macrosomía.",
+            "opcion d": "Infección por CMV."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 54,
+        "tema": "Pediátrico - Cálculo de Medicación/Inotrópicos",
+        "caso_clínico": "Niño de 8 kg. Se requiere un bolo de Dobutamina a 2 μg/kg para test de respuesta. Concentración: 12.5 mg/ml (sin diluir).",
+        "pregunta": "¿Cuántos mg se administran?",
+        "opciones": {
+            "opcion a": "0.016 mg",
+            "opcion b": "0.16 mg",
+            "opcion c": "1.6 mg",
+            "opcion d": "0.0016 mg"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 55,
+        "tema": "Neonatal - Reanimación",
+        "pregunta": "¿Cuál es la duración máxima recomendada para el primer ciclo de VPP antes de reevaluar al recién nacido en sala de partos?",
+        "opciones": {
+            "opcion a": "10 segundos.",
+            "opcion b": "30 segundos.",
+            "opcion c": "1 minuto.",
+            "opcion d": "5 minutos."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 56,
+        "tema": "Pediátrico - Shock Séptico",
+        "pregunta": "¿Cuál es la definición de 'shock refractario a fluidos' en pediatría?",
+        "opciones": {
+            "opcion a": "Persistencia de la hipotensión después de 10 ml/kg de bolo.",
+            "opcion b": "Persistencia de la inestabilidad hemodinámica después de 20 ml/kg de bolo.",
+            "opcion c": "Persistencia de la inestabilidad hemodinámica después de 60 ml/kg de bolo.",
+            "opcion d": "Necesidad de iniciar antibióticos."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 57,
+        "tema": "Neonatal - Cardiopatía",
+        "caso_clínico": "Neonato con pulsos femorales débiles o ausentes y gradiente de presión entre extremidades superiores e inferiores.",
+        "pregunta": "¿Cuál es el diagnóstico probable?",
+        "opciones": {
+            "opcion a": "Ductus Arterioso Persistente (DAP).",
+            "opcion b": "Coartación Aórtica (CoAo).",
+            "opcion c": "Atresia Pulmonar.",
+            "opcion d": "Comunicación Interventricular (CIV)."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 58,
+        "tema": "Pediátrico - Cálculo de Medicación/Heparina",
+        "caso_clínico": "Niño de 40 kg. Se requiere bolo de Heparina No Fraccionada para TEP a 75 UI/kg. Concentración: 1000 UI/ml.",
+        "pregunta": "¿Cuántos ml de Heparina se administran?",
+        "opciones": {
+            "opcion a": "3.0 ml",
+            "opcion b": "30.0 ml",
+            "opcion c": "0.3 ml",
+            "opcion d": "7.5 ml"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 59,
+        "tema": "Pediátrico - Vía Aérea",
+        "pregunta": "¿Cuál es el método más rápido y confiable para confirmar la colocación correcta de un tubo endotraqueal en Pediatría?",
+        "opciones": {
+            "opcion a": "Auscultación de ruidos respiratorios.",
+            "opcion b": "Visualización directa del paso del tubo.",
+            "opcion c": "Capnografía (detección de CO2 espirado).",
+            "opcion d": "Radiografía de tórax."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 60,
+        "tema": "Neonatal - Cálculo de Medicación/Infusión de Epinefrina",
+        "caso_clínico": "Neonato de 3.5 kg con shock distributivo. Se inicia infusión de Epinefrina a 0.1 μg/kg/min. Concentración: 1 mg en 100 ml.",
+        "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+        "opciones": {
+            "opcion a": "2.1 ml/h",
+            "opcion b": "0.21 ml/h",
+            "opcion c": "4.2 ml/h",
+            "opcion d": "0.7 ml/h"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 61,
+        "tema": "Pediátrico - Cetoacidosis Diabética (CAD)",
+        "pregunta": "¿Cuál es el principal riesgo potencial de la corrección rápida de la hiperglucemia en la Cetoacidosis Diabética (CAD) pediátrica?",
+        "opciones": {
+            "opcion a": "Hipocalemia.",
+            "opcion b": "Hipoglucemia severa.",
+            "opcion c": "Edema cerebral.",
+            "opcion d": "Trombosis venosa."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 62,
+        "tema": "Neonatal - Infección",
+        "caso_clínico": "Neonato con fiebre, letargo y abombamiento de la fontanela.",
+        "pregunta": "¿Cuál es el procedimiento diagnóstico de elección para confirmar Meningitis Bacteriana Neonatal?",
+        "opciones": {
+            "opcion a": "Hemocultivo.",
+            "opcion b": "Punción Lumbar (PL).",
+            "opcion c": "TAC cerebral.",
+            "opcion d": "PCR para virus."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 63,
+        "tema": "Pediátrico - Arritmias/Bradicardia",
+        "caso_clínico": "Niño de 5 años con bradicardia sintomática (FC 50 lpm, hipotensión).",
+        "pregunta": "¿Cuál es el tratamiento de primera línea para la bradicardia sintomática en pediatría?",
+        "opciones": {
+            "opcion a": "Marcapasos transcutáneo o Atropina IV.",
+            "opcion b": "Adenosina IV.",
+            "opcion c": "Cardioversión eléctrica.",
+            "opcion d": "Bolo de Furosemida."
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 64,
+        "tema": "Pediátrico - Cálculo de Medicación/Infusión de Norepinefrina",
+        "caso_clínico": "Niño de 50 kg. Se titula Norepinefrina a 0.2 μg/kg/min. Concentración: 8 mg en 250 ml.",
+        "pregunta": "¿Cuál es la velocidad de infusión en ml/hora?",
+        "opciones": {
+            "opcion a": "28.125 ml/h",
+            "opcion b": "18.75 ml/h",
+            "opcion c": "22.5 ml/h",
+            "opcion d": "37.5 ml/h"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 65,
+        "tema": "Neonatal - Cálculo de Medicación/Infusión de Dopamina",
+        "caso_clínico": "Neonato de 3 kg requiere Dopamina a 20 μg/kg/min. Concentración: 60 mg en 100 ml.",
+        "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+        "opciones": {
+            "opcion a": "3.0 ml/h",
+            "opcion b": "6.0 ml/h",
+            "opcion c": "1.8 ml/h",
+            "opcion d": "12.0 ml/h"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 66,
+        "tema": "Pediátrico - Crisis Asmática",
+        "pregunta": "¿Cuál es el tratamiento adyuvante más efectivo para una crisis asmática severa que no responde a beta-agonistas y esteroides?",
+        "opciones": {
+            "opcion a": "Bolo de Furosemida.",
+            "opcion b": "Bolo de Glucosa.",
+            "opcion c": "Sulfato de Magnesio IV.",
+            "opcion d": "Adrenalina IM."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 67,
+        "tema": "Neonatal - Prematuridad",
+        "pregunta": "¿Cuál es la principal complicación de la hemorragia de la matriz germinal/intraventricular (HMG/HIV) en el recién nacido prematuro?",
+        "opciones": {
+            "opcion a": "Enfermedad Pulmonar Crónica.",
+            "opcion b": "Hidrocefalia y daño neurológico permanente.",
+            "opcion c": "Enterocolitis Necrotizante.",
+            "opcion d": "Persistencia del DAP."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 68,
+        "tema": "Pediátrico - Hipocalcemia",
+        "caso_clínico": "Lactante con espasmo carpopedal, irritabilidad y QT prolongado en el ECG.",
+        "pregunta": "¿Cuál es el tratamiento de urgencia?",
+        "opciones": {
+            "opcion a": "Bolo de Furosemida.",
+            "opcion b": "Cloruro de Potasio IV.",
+            "opcion c": "Gluconato de Calcio IV.",
+            "opcion d": "Bicarbonato de Sodio."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 69,
+        "tema": "Pediátrico - Cálculo de Medicación/Anticonvulsivantes",
+        "caso_clínico": "Niño de 25 kg con Status Epiléptico. Se requiere Fosfenitoína en bolo a 20 mg/kg. Concentración: 50 mg/ml.",
+        "pregunta": "¿Cuántos mg de Fosfenitoína se administran?",
+        "opciones": {
+            "opcion a": "200 mg",
+            "opcion b": "500 mg",
+            "opcion c": "100 mg",
+            "opcion d": "400 mg"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 70,
+        "tema": "Neonatal - Cálculo de Medicación/Infusión de Milrinona",
+        "caso_clínico": "Neonato de 1 kg. Se inicia infusión de Milrinona a 0.3 μg/kg/min. Concentración: 10 mg en 100 ml.",
+        "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+        "opciones": {
+            "opcion a": "0.18 ml/h",
+            "opcion b": "1.8 ml/h",
+            "opcion c": "0.03 ml/h",
+            "opcion d": "0.3 ml/h"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 71,
+        "tema": "Pediátrico - Reanimación",
+        "pregunta": "¿Cuál es la relación compresión:ventilación recomendada para RCP pediátrica con dos rescatadores?",
+        "opciones": {
+            "opcion a": "30:2",
+            "opcion b": "15:2",
+            "opcion c": "5:1",
+            "opcion d": "3:1"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 72,
+        "tema": "Pediátrico - Cálculo de Medicación/Paralizante",
+        "caso_clínico": "Niño de 10 kg requiere intubación. Se administra Succinilcolina a 2 mg/kg. Concentración: 20 mg/ml.",
+        "pregunta": "¿Cuántos ml de Succinilcolina se administran?",
+        "opciones": {
+            "opcion a": "2.0 ml",
+            "opcion b": "1.0 ml",
+            "opcion c": "0.1 ml",
+            "opcion d": "0.5 ml"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 73,
+        "tema": "Neonatal - Ictericia",
+        "pregunta": "¿Qué es el 'síndrome del bebé bronceado' (Bronze Baby Syndrome) que se puede observar en la fototerapia intensiva?",
+        "opciones": {
+            "opcion a": "Una complicación del Kernícterus.",
+            "opcion b": "Coloración gris-marrón de la piel asociada a colestasis y fotoisómeros.",
+            "opcion c": "Una forma de ictericia fisiológica.",
+            "opcion d": "Una reacción alérgica."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 74,
+        "tema": "Pediátrico - Fármacos",
+        "pregunta": "¿Qué fármaco se debe evitar en la Taquicardia Supraventricular (TSV) en niños con shock cardiogénico secundario, debido a su efecto inotrópico negativo?",
+        "opciones": {
+            "opcion a": "Adenosina.",
+            "opcion b": "Digoxina.",
+            "opcion c": "Bloqueadores de los canales de calcio (Verapamilo).",
+            "opcion d": "Amiodarona."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 75,
+        "tema": "Neonatal - Cálculo de Medicación/Infusión de Dopamina",
+        "caso_clínico": "Neonato de 3 kg requiere Dopamina a 5 μg/kg/min. Concentración: 60 mg en 100 ml.",
+        "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+        "opciones": {
+            "opcion a": "0.9 ml/h",
+            "opcion b": "1.5 ml/h",
+            "opcion c": "3.0 ml/h",
+            "opcion d": "0.6 ml/h"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 76,
+        "tema": "Pediátrico - Trauma",
+        "pregunta": "¿Cuál es la principal causa de shock en un niño politraumatizado (excepto en trauma craneal severo)?",
+        "opciones": {
+            "opcion a": "Shock cardiogénico.",
+            "opcion b": "Shock distributivo.",
+            "opcion c": "Shock hipovolémico hemorrágico.",
+            "opcion d": "Shock obstructivo."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 77,
+        "tema": "Pediátrico - Cálculo de Medicación/Atropina",
+        "caso_clínico": "Niño de 20 kg. Se requiere Atropina para bradicardia sintomática a 0.02 mg/kg. Concentración: 0.1 mg/ml.",
+        "pregunta": "¿Cuántos ml de Atropina se administran?",
+        "opciones": {
+            "opcion a": "4.0 ml",
+            "opcion b": "2.0 ml",
+            "opcion c": "0.4 ml",
+            "opcion d": "0.2 ml"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 78,
+        "tema": "Neonatal - Vía de Acceso",
+        "caso_clínico": "Neonato en sala de partos con necesidad urgente de Epinefrina y fluidos IV, sin acceso periférico.",
+        "pregunta": "¿Cuál es la vía de acceso de emergencia de elección según el NRP?",
+        "opciones": {
+            "opcion a": "Intraósea (IO).",
+            "opcion b": "Vena umbilical (VU).",
+            "opcion c": "Vena yugular.",
+            "opcion d": "Endotraqueal (ET)."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 79,
+        "tema": "Pediátrico - Sepsis",
+        "pregunta": "¿Cuál es el vasopresor de primera línea recomendado en el shock séptico 'caliente' pediátrico (RVS baja)?",
+        "opciones": {
+            "opcion a": "Dobutamina.",
+            "opcion b": "Norepinefrina (Noradrenalina).",
+            "opcion c": "Milrinona.",
+            "opcion d": "Dopamina."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 80,
+        "tema": "Pediátrico - Cálculo de Medicación/Antiarrítmicos",
+        "caso_clínico": "Niño de 15 kg con TSV refractaria. Se requiere bolo de Amiodarona a 5 mg/kg. Concentración: 50 mg/ml.",
+        "pregunta": "¿Cuántos ml de Amiodarona se administran?",
+        "opciones": {
+            "opcion a": "1.5 ml",
+            "opcion b": "0.75 ml",
+            "opcion c": "3.0 ml",
+            "opcion d": "0.15 ml"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 81,
+        "tema": "Neonatal - Sepsis",
+        "pregunta": "¿Cuál es el hallazgo de laboratorio más específico de sepsis neonatal temprana?",
+        "opciones": {
+            "opcion a": "Plaquetas bajas.",
+            "opcion b": "PCR y Procalcitonina elevadas.",
+            "opcion c": "Leucocitosis.",
+            "opcion d": "Hiperglucemia."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 82,
+        "tema": "Pediátrico - Cálculo de Medicación/Glucagón",
+        "caso_clínico": "Niño de 10 kg con sobredosis de Beta-bloqueadores. Se requiere bolo de Glucagón a 0.1 mg/kg. Concentración: 1 mg/ml.",
+        "pregunta": "¿Cuántos ml de Glucagón se administran?",
+        "opciones": {
+            "opcion a": "1.0 ml",
+            "opcion b": "0.1 ml",
+            "opcion c": "10.0 ml",
+            "opcion d": "0.5 ml"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 83,
+        "tema": "Pediátrico - Hipocalemia",
+        "pregunta": "El tratamiento de la hipocalemia severa y sintomática (p. ej., arritmias) en pediatría requiere:",
+        "opciones": {
+            "opcion a": "Administración de Bicarbonato de Sodio.",
+            "opcion b": "Repleción de potasio IV a una velocidad máxima de 0.5 mEq/kg/hora.",
+            "opcion c": "Repleción de potasio IV a una velocidad máxima de 2 mEq/kg/hora.",
+            "opcion d": "Bolo rápido de Cloruro de Potasio IV."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 84,
+        "tema": "Neonatal - Cálculo de Medicación/Infusión de Fentanilo",
+        "caso_clínico": "Neonato de 2.5 kg en ventilación mecánica. Se inicia infusión de Fentanilo a 1 μg/kg/hora. Concentración: 50 μg en 50 ml.",
+        "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+        "opciones": {
+            "opcion a": "5.0 ml/h",
+            "opcion b": "2.5 ml/h",
+            "opcion c": "0.5 ml/h",
+            "opcion d": "1.25 ml/h"
+        },
+        "respuesta_correcta": "opchion b"
+    },
+    {
+        "id": 85,
+        "tema": "Pediátrico - Neumonía/Derrames",
+        "caso_clínico": "Niño con neumonía severa y derrame pleural grande que causa dificultad respiratoria.",
+        "pregunta": "¿Cuál es el procedimiento diagnóstico y terapéutico urgente para el derrame?",
+        "opciones": {
+            "opcion a": "Toracotomía de emergencia.",
+            "opcion b": "Drenaje quirúrgico.",
+            "opcion c": "Toracocentesis o colocación de tubo torácico (Tubo de tórax).",
+            "opcion d": "Antibióticos IV por 7 días."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 86,
+        "tema": "Pediátrico - Cálculo de Medicación/Paralizante",
+        "caso_clínico": "Niño de 30 kg requiere intubación. Se utiliza Rocuronio a 1 mg/kg. Concentración: 10 mg/ml.",
+        "pregunta": "¿Cuántos ml de Rocuronio debe administrar?",
+        "opciones": {
+            "opcion a": "0.3 ml",
+            "opcion b": "3.0 ml",
+            "opcion c": "6.0 ml",
+            "opcion d": "1.5 ml"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 87,
+        "tema": "Neonatal - Prematuridad",
+        "pregunta": "¿Cuál es la complicación gastrointestinal más grave asociada a la prematuridad y al uso de alimentaciones enterales tempranas?",
+        "opciones": {
+            "opcion a": "Ileo paralítico.",
+            "opcion b": "Enterocolitis Necrotizante (NEC).",
+            "opcion c": "Estenosis pilórica.",
+            "opcion d": "Reflujo gastroesofágico."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 88,
+        "tema": "Pediátrico - TSV Inestable",
+        "caso_clínico": "Lactante (6 kg) con TSV (FC 280 lpm) que presenta hipotensión y falla respiratoria (inestable).",
+        "pregunta": "¿Cuál es la intervención de primera línea en este paciente inestable?",
+        "opciones": {
+            "opcion a": "Bolo de Adenosina.",
+            "opcion b": "Cardioversión eléctrica sincronizada (0.5-1 J/kg).",
+            "opcion c": "Administrar Digoxina oral.",
+            "opcion d": "Maniobras vagales."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 89,
+        "tema": "Pediátrico - Cardiopatía",
+        "pregunta": "¿Qué cardiopatía congénita es la más frecuente en el Síndrome de Down?",
+        "opciones": {
+            "opcion a": "Comunicación Interauricular (CIA).",
+            "opcion b": "Tetralogía de Fallot.",
+            "opcion c": "Canal Auriculoventricular Completo (CAVC).",
+            "opcion d": "Transposición de Grandes Arterias (TGA)."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 90,
+        "tema": "Pediátrico - Cálculo de Medicación/Infusión de Dobutamina",
+        "caso_clínico": "Niño de 50 kg con ICC descompensada. Se inicia Dobutamina a 5 μg/kg/min. Concentración: 250 mg en 250 ml.",
+        "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+        "opciones": {
+            "opcion a": "30.0 ml/h",
+            "opcion b": "15.0 ml/h",
+            "opcion c": "7.5 ml/h",
+            "opcion d": "10.0 ml/h"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 91,
+        "tema": "Neonatal - Ventilación",
+        "pregunta": "¿Cuál es la principal indicación para la administración de Surfactante exógeno en el neonato?",
+        "opciones": {
+            "opcion a": "Neumonía congénita.",
+            "opcion b": "Síndrome de Aspiración de Meconio (SAM).",
+            "opcion c": "Enfermedad de Membrana Hialina (EMH) o Profilaxis en prematuros de alto riesgo.",
+            "opcion d": "Hipertensión Pulmonar Persistente."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 92,
+        "tema": "Pediátrico - Shock",
+        "pregunta": "¿Qué tipo de shock se caracteriza por RVS baja (vasodilatación) y Gasto Cardíaco alto (o normal) en la fase inicial, pero con mala utilización periférica de oxígeno?",
+        "opciones": {
+            "opcion a": "Shock cardiogénico.",
+            "opcion b": "Shock hipovolémico.",
+            "opcion c": "Shock obstructivo.",
+            "opcion d": "Shock distributivo (séptico caliente)."
+        },
+        "respuesta_correcta": "opcion d"
+    },
+    {
+        "id": 93,
+        "tema": "Pediátrico - Cálculo de Medicación/Sedación",
+        "caso_clínico": "Niño de 12 kg. Se requiere un bolo de Lorazepam a 0.1 mg/kg. Concentración: 2 mg/ml.",
+        "pregunta": "¿Cuántos mg se administran?",
+        "opciones": {
+            "opcion a": "0.12 mg",
+            "opcion b": "1.2 mg",
+            "opcion c": "2.4 mg",
+            "opcion d": "0.6 mg"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 94,
+        "tema": "Neonatal - HPN",
+        "pregunta": "¿Cuál es la dosis inicial de Norepinefrina para el soporte de la presión arterial en el neonato críticamente enfermo?",
+        "opciones": {
+            "opcion a": "1-2 μg/kg/min",
+            "opcion b": "0.5-1 μg/kg/min",
+            "opcion c": "0.05-0.1 μg/kg/min",
+            "opcion d": "0.01-0.05 μg/kg/min"
+        },
+        "respuesta_correcta": "opcion d"
+    },
+    {
+        "id": 95,
+        "tema": "Pediátrico - Trauma",
+        "caso_clínico": "Niño politraumatizado que permanece hipotenso a pesar de 60 ml/kg de cristaloides y transfusión de sangre. Presenta bradicardia.",
+        "pregunta": "¿Cuál es la principal causa reversible (5H y 5T) a sospechar, además de la hipovolemia persistente?",
+        "opciones": {
+            "opcion a": "Taponamiento cardíaco (T).",
+            "opcion b": "Toxinas (T).",
+            "opcion c": "Hipercalemia (H).",
+            "opcion d": "Hipoxia/Acidosis (H)."
+        },
+        "respuesta_correcta": "opcion d"
+    },
+    {
+        "id": 96,
+        "tema": "Pediátrico - Cálculo de Medicación/Antiarrítmicos",
+        "caso_clínico": "Niño de 30 kg con FV refractaria. Se requiere Lidocaína en bolo a 1 mg/kg. Concentración: 20 mg/ml.",
+        "pregunta": "¿Cuántos ml de Lidocaína se administran?",
+        "opciones": {
+            "opcion a": "1.5 ml",
+            "opcion b": "3.0 ml",
+            "opcion c": "6.0 ml",
+            "opcion d": "0.5 ml"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 97,
+        "tema": "Neonatal - Cirugía",
+        "pregunta": "En un neonato con Gastrosquisis, ¿cuál es la prioridad inmediata después del nacimiento?",
+        "opciones": {
+            "opcion a": "Inicio de la alimentación enteral.",
+            "opcion b": "Reducción quirúrgica inmediata.",
+            "opcion c": "Protección de las vísceras, control de la temperatura y accesos vasculares.",
+            "opcion d": "Administración de antibióticos por 48 horas."
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 98,
+        "tema": "Pediátrico - Cálculo de Medicación/TSV",
+        "caso_clínico": "Lactante de 6 kg con TSV. Segundo bolo de Adenosina a 0.2 mg/kg. Concentración: 3 mg/ml.",
+        "pregunta": "¿Cuántos ml se administran en el segundo bolo?",
+        "opciones": {
+            "opcion a": "0.4 ml",
+            "opcion b": "1.2 ml",
+            "opcion c": "0.24 ml",
+            "opcion d": "1.6 ml"
+        },
+        "respuesta_correcta": "opcion a"
+    },
+    {
+        "id": 99,
+        "tema": "Pediátrico - Monitorización",
+        "pregunta": "¿Qué valor de Gasto Urinario por hora indica un fracaso de la perfusión renal en el paciente pediátrico críticamente enfermo?",
+        "opciones": {
+            "opcion a": "Mayor a 2 ml/kg/hora.",
+            "opcion b": "Menor a 1 ml/kg/hora.",
+            "opcion c": "Entre 1 y 2 ml/kg/hora.",
+            "opcion d": "Depende solo de la PA."
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 100,
+        "tema": "Neonatal - Infección",
+        "pregunta": "¿Cuál es la principal vía de transmisión de la Sepsis Neonatal de inicio tardío?",
+        "opciones": {
+            "opcion a": "Vía Transplacentaria.",
+            "opcion b": "Colonización vaginal materna (Streptococcus agalactiae).",
+            "opcion c": "Vía nosocomial (catéteres, ventilación) o comunitaria.",
+            "opcion d": "Vía Enteral."
+        },
+        "respuesta_correcta": "opcion c"
+    }
 ]
