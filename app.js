@@ -242,21 +242,27 @@ async function iniciarExamen() {
 
     console.log(`${especialidadActual}: ${preguntasActuales.length} preguntas cargadas`);
 
-    // Eliminar duplicados siempre
-    preguntasActuales = eliminarDuplicados(preguntasActuales);
-    console.log(`${especialidadActual}: ${preguntasActuales.length} preguntas únicas después de eliminar duplicados`);
+    // Si el archivo ya contiene exactamente 100 preguntas, usarlas tal cual (mantener orden original)
+    if (preguntasActuales.length === 100) {
+        // No modificar: conservar preguntas tal como están en data_final
+        console.log(`${especialidadActual}: 100 preguntas - usando orden original del archivo`);
+    } else {
+        // Si hay más de 100, eliminar duplicados y limitar a 100
+        if (preguntasActuales.length > 100) {
+            preguntasActuales = eliminarDuplicados(preguntasActuales);
+            preguntasActuales = preguntasActuales.slice(0, 100);
+            console.log(`${especialidadActual}: reducido a ${preguntasActuales.length} preguntas tras eliminar duplicados`);
+        }
 
-    // Mezclar las preguntas para variar el orden
-    preguntasActuales = mezclarArray(preguntasActuales);
+        // Si hay menos de 100, completar con preguntas de otras especialidades
+        if (preguntasActuales.length < 100) {
+            console.warn(`Se encontraron ${preguntasActuales.length} preguntas. Completando con preguntas de otras especialidades...`);
+            preguntasActuales = await completarPreguntasConPalabrasClaves(preguntasActuales, especialidadActual);
+        }
 
-    // Si hay menos de 100, completar con preguntas de otras especialidades
-    if (preguntasActuales.length < 100) {
-        console.warn(`Se encontraron ${preguntasActuales.length} preguntas. Completando con preguntas de otras especialidades...`);
-        preguntasActuales = await completarPreguntasConPalabrasClaves(preguntasActuales, especialidadActual);
+        // Finalmente, asegurar que no superen 100
+        preguntasActuales = preguntasActuales.slice(0, 100);
     }
-
-    // Limitar a 100 preguntas
-    preguntasActuales = preguntasActuales.slice(0, 100);
 
     respuestasUsuario = {};
     preguntaIdx = 0;
