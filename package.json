@@ -1,0 +1,24 @@
+{
+  "name": "examen-medico",
+  "version": "1.0.0",
+  "description": "Sistema de examen médico con 13 especialidades, 100 preguntas cada una, cronómetro de 4 horas y análisis de resultados",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "generate": "node scripts/generate_questions.js",
+    "dev": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "examen",
+    "médico",
+    "especialidades",
+    "educación",
+    "quiz"
+  ],
+  "author": "Sistema de Examen Médico",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/celinabord/DeepwebExamen"
+  }
+}

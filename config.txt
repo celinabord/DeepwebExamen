@@ -1,0 +1,88 @@
+# Configuración del Sistema de Examen Médico
+
+# ===================== CRONÓMETRO =====================
+TIEMPO_EXAMEN_HORAS = 4
+TIEMPO_EXAMEN_SEGUNDOS = 14400  # 4 * 60 * 60
+
+# ===================== CREDENCIALES =====================
+ADMIN_KEY = "admin123"
+CLAVE_EXPIRA_HORAS = 48
+CLAVE_LONGITUD = 8
+
+# ===================== CRITERIOS DE CALIFICACIÓN =====================
+PORCENTAJE_APROBACION = 70
+TOTAL_PREGUNTAS = 100
+OPCIONES_POR_PREGUNTA = 4
+
+# ===================== ESPECIALIDADES =====================
+ESPECIALIDADES = [
+    "Anestesiología",
+    "Cardiología",
+    "Dermatología",
+    "Diagnóstico por Imágenes",
+    "Hematología",
+    "Neumonología",
+    "Neurología",
+    "Ortopedia",
+    "Otorrinolaringología",
+    "Pediatría",
+    "Psiquiatría",
+    "Tocoginecología",
+    "Urología"
+]
+
+# ===================== RUTAS DE ARCHIVOS =====================
+DATA_PATH = "./data_final"
+JSON_EXTENSION = ".json"
+SCRIPTS_PATH = "./scripts"
+
+# ===================== CONFIGURACIÓN UI =====================
+# Colores
+COLOR_PRIMARY = "#2563eb"
+COLOR_PRIMARY_DARK = "#1e40af"
+COLOR_PRIMARY_LIGHT = "#3b82f6"
+COLOR_SUCCESS = "#10b981"
+COLOR_DANGER = "#ef4444"
+COLOR_WARNING = "#f59e0b"
+
+# Estilos
+BORDER_RADIUS = "10px"
+SHADOW = "0 4px 6px rgba(0, 0, 0, 0.1)"
+TRANSITION_TIME = "0.3s"
+
+# ===================== ALMACENAMIENTO LOCAL =====================
+STORAGE_KEY_CLAVE = "claveAlumnos"
+STORAGE_KEY_EXPIRA = "claveExpira"
+STORAGE_KEY_USUARIO = "usuarioActual"
+
+# ===================== MENSAJES =====================
+MENSAJE_APROBADO = "¡APROBADO!"
+MENSAJE_NO_APROBADO = "NO APROBADO"
+MENSAJE_CLAVE_INCORRECTA = "Clave incorrecta. Intenta nuevamente."
+MENSAJE_EXAMEN_FINALIZADO = "El examen ha finalizado"
+MENSAJE_TIEMPO_AGOTADO = "Se agotó el tiempo del examen"
+
+# ===================== VALIDACIONES =====================
+VALIDAR_COMPLETES_RESPUESTAS = false  # Si false, permite enviar sin responder todo
+PERMITIR_VOLVER_ATRAS = true
+PERMITIR_NAVEGAR_LIBREMENTE = true
+PREVENIR_CIERRE_EXAMEN = true
+
+# ===================== DESPLIEGUE =====================
+# Para desarrollo local
+DEV_SERVER_PORT = 8000
+DEV_SERVER_HOST = "127.0.0.1"
+
+# Para producción
+PRODUCTION_URL = "https://tu-dominio.com"
+USE_HTTPS = true
+CACHE_TIEMPO = 31536000  # 1 año
+
+# ===================== DEBUG =====================
+DEBUG_MODE = false
+MOSTRAR_CONSOLA = false
+VERBOSE_LOGS = false
+
+# ===================== ANALYTICS (Opcional) =====================
+GOOGLE_ANALYTICS_ID = ""
+USAR_ANALYTICS = false

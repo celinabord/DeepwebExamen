@@ -1,0 +1,221 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                  SISTEMA DE EXAMEN MÉDICO - GUÍA RÁPIDA                      ║
+║                                                                              ║
+║                              Versión 1.0.0 Final                             ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🚀 INICIO RÁPIDO
+
+1. Abre terminal en /workspaces/DeepwebExamen
+
+2. Ejecuta:
+   bash start.sh
+   (O: python3 -m http.server 8000)
+
+3. Abre navegador:
+   http://localhost:8000
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🔐 ACCEDER COMO ADMINISTRADOR
+
+1. En la pantalla inicial, selecciona "Administrador"
+2. Ingresa clave: Teamopi91
+3. En el panel admin:
+   - Ves la clave actual para alumnos
+   - Haz clic en "Regenerar Clave" para generar una nueva
+   - Copia la clave para compartir con alumnos
+   - La clave es válida por 48 horas
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📝 ACCEDER COMO ALUMNO
+
+1. En la pantalla inicial, selecciona "Alumno"
+2. Ingresa la clave (proporcionada por admin)
+3. Se carga automáticamente la pantalla de selección de especialidades
+4. Selecciona una especialidad médica
+5. El examen inicia automáticamente:
+   - 100 preguntas (múltiple opción)
+   - 4 horas límite
+   - Cronómetro visible arriba a la derecha
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📚 DURANTE EL EXAMEN
+
+Panel Izquierdo (Menú):
+┌─────────────────────────┐
+│ Especialidad: [Nombre]  │
+│                         │
+│ ┌───────────────────┐   │
+│ │ Cambiar           │   │
+│ │ Especialidad      │   │
+│ └───────────────────┘   │
+│                         │
+│ Tiempo: HH:MM:SS        │
+│ Pregunta: X / 100       │
+└─────────────────────────┘
+
+Funcionalidades:
+✓ Responde las preguntas haciendo clic en una opción
+✓ El programa guarda automáticamente tu respuesta
+✓ Ve tu progreso en el contador de preguntas
+✓ Usa "Cambiar Especialidad" para elegir otra
+✓ El cronómetro cuenta hacia atrás
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🎯 AL TERMINAR
+
+Opción 1: Terminar después de responder todas las preguntas
+Opción 2: Hacer clic en "Finalizar Examen" cuando termine el tiempo
+
+Resultado:
+✓ Número de respuestas correctas
+✓ Número de respuestas incorrectas
+✓ Número de preguntas sin responder
+✓ Porcentaje final (70% = aprobado)
+✓ Estado: APROBADO / DESAPROBADO
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🔄 VOLVER AL INICIO
+
+Haz clic en el botón "Volver al Inicio" en la pantalla de resultados:
+- Se limpia todo el progreso
+- El timer se detiene
+- Vuelves a la pantalla de selección de rol
+- Puedes empezar un nuevo examen
+
+═══════════════════════════════════════════════════════════════════════════════
+
+💡 INFORMACIÓN IMPORTANTE
+
+Sobre las Claves:
+- La clave de admin es: Teamopi91
+- Cada clave de alumno se genera aleatoriamente (8 caracteres)
+- Las claves son válidas por 48 horas
+- Se guardan automáticamente en el navegador (localStorage)
+- Regenerar clave desactiva las claves previas
+
+Sobre el Examen:
+- Cada especialidad tiene 100 preguntas únicas
+- Si una especialidad < 100 preguntas, se completa automáticamente
+  con preguntas de otras especialidades que tengan palabras clave relacionadas
+- No hay preguntas repetidas en el mismo examen
+- Puedes cambiar de especialidad durante el examen
+- El progreso se reinicia al cambiar de especialidad
+
+Sobre Resultados:
+- 70% es la nota mínima para aprobar
+- Los resultados se calculan automáticamente
+- Puedes ver: Correctas, Incorrectas, No respondidas
+
+═══════════════════════════════════════════════════════════════════════════════
+
+✨ ESPECIALIDADES DISPONIBLES
+
+1.  Anestesiología
+2.  Cardiología
+3.  Dermatología
+4.  Diagnóstico por Imágenes
+5.  Hematología
+6.  Neumonología
+7.  Neurología
+8.  Ortopedia
+9.  Otorrinolaringología
+10. Pediatría
+11. Psiquiatría
+12. Tocoginecología
+13. Urología
+
+Cada una con 100 preguntas (total 1,300 preguntas)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🛠️ SOLUCIÓN DE PROBLEMAS
+
+Problema: "No aparece el examen"
+Solución: Recarga la página (F5 o Cmd+R)
+
+Problema: "No tengo clave de alumno"
+Solución: Contacta al administrador para que regenere una clave
+
+Problema: "La clave expiró"
+Solución: Contacta al administrador para obtener una nueva clave
+
+Problema: "Cronómetro no funciona"
+Solución: Verifica que no hayas pausado el navegador
+         Recarga la página si es necesario
+
+Problema: "Perdí mis respuestas"
+Solución: Las respuestas se guardan automáticamente
+         Cambia de especialidad sin cerrar el navegador
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📞 CONTACTO / SOPORTE
+
+Para reportar problemas o sugerencias:
+- Abre la consola del navegador (F12)
+- Verifica si hay mensajes de error
+- Nota el contenido del error
+- Contacta al administrador del sistema
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📱 COMPATIBILIDAD
+
+✓ Chrome / Chromium (recomendado)
+✓ Firefox
+✓ Safari
+✓ Edge
+✓ Navegadores móviles (iOS/Android)
+
+Requisitos:
+- JavaScript activado
+- localStorage activado
+- Conexión a internet (para cargar iconos CDN)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🔒 SEGURIDAD
+
+- Las claves se guardan localmente (localStorage)
+- No se envía información a servidores externos
+- El examen es completamente privado
+- Los datos se borran al limpiar cache/cookies
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📄 ARCHIVOS IMPORTANTES
+
+app.js          - Lógica de la aplicación
+index.html      - Interfaz principal
+style.css       - Estilos CSS
+data_final/     - Base de datos de preguntas (1,300)
+start.sh        - Script para iniciar (Linux/Mac)
+start.bat       - Script para iniciar (Windows)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+✅ VERIFICACIÓN PREVIA
+
+Antes de usar, verifica:
+□ Servidor HTTP iniciado (http://localhost:8000)
+□ Navegador abierto y página cargada
+□ JavaScript habilitado (F12 > Console sin errores rojos)
+□ localStorage habilitado
+□ Conexión a internet para CDN de iconos
+
+═══════════════════════════════════════════════════════════════════════════════
+
+¡LISTO PARA USAR!
+
+Sistema de Examen Médico v1.0.0 - Noviembre 2025
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
