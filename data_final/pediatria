@@ -1,81 +1,959 @@
-[
-  {"question":"Edad en la que normalmente aparece la pinza pincer (pinza fina) en el desarrollo motor fino del lactante?","options":["2-3 meses","6-9 meses","9-12 meses","15-18 meses"],"answer":2},
-  {"question":"Vacuna que está contraindicada en niños con historia de reacción anafiláctica previa a polietilenglicol (PEG)?","options":["Vacuna inactivada contra la influenza","Vacuna MMR (sarampión, paperas, rubéola)","Vacuna mRNA contra SARS-CoV-2","Vacuna oral contra rotavirus"],"answer":2},
-  {"question":"Cuál es la conducta inicial más apropiada ante un recién nacido con ictericia en las primeras 24 horas de vida?","options":["Observación ambulatoria","Fototerapia inmediata según niveles de bilirrubina","Inicio de fenobarbital","Extracción de sangre para tipificación cruzada"],"answer":1},
-  {"question":"En lactantes, cuál hallazgo sugiere deshidratación moderada?","options":["Ojos hundidos, fontanela deprimida, llanto sin lágrimas","Llanto vigoroso y mucosas húmedas","Aumento de peso de 200 g en una semana","Orina clara y frecuente"],"answer":0},
-  {"question":"Fuente materna recomendada para alimentar a un lactante menor de 6 meses?","options":["Leche de vaca entera","Lactancia materna exclusiva","Leche de almendras","Alimentos sólidos"],"answer":1},
-  {"question":"Qué examen es fundamental para el cribado neonatal de hipotiroidismo congénito?","options":["Medición de TSH en sangre seca (tira de Guthrie)","Medición de T4 libre en orina","Ecografía de tiroides","Perfil lipídico"],"answer":0},
-  {"question":"Cuál es la causa más frecuente de bronquiolitis en lactantes?","options":["Rinovirus","Virus respiratorio sincitial (VRS)","Adenovirus","Mycoplasma pneumoniae"],"answer":1},
-  {"question":"Signo clínico que sugiere posible sepsis neonatal temprana?","options":["Hiperactividad", "Letargia y mala perfusión", "Aumento de peso brusco", "Llanto inconsolable con postura antálgica"],"answer":1},
-  {"question":"En pediatría, el rango normal de frecuencia respiratoria para un lactante (1–12 meses) en reposo es aproximadamente:","options":["10-20 rpm","30-60 rpm","60-90 rpm","5-10 rpm"],"answer":1},
-  {"question":"Cuál de estas lesiones cutáneas en neonatos se recomienda observar y suele resolverse espontáneamente:","options":["Manchas en vino de Oporto (nevus flammeus)","Eritema tóxico neonatal","Melanoma congénito","Pápulas hemorrágicas"],"answer":1},
-  {"question":"Cuál es la vacuna de administración oral en el calendario que protege contra gastroenteritis por rotavirus?","options":["Vacuna oral contra rotavirus","Vacuna inactivada contra polio","Vacuna MMR","Vacuna contra hepatitis A"],"answer":0},
-  {"question":"Cuál es la recomendación sobre la introducción de alimentos sólidos?","options":["Antes de los 3 meses","Alrededor de los 6 meses, según señales de desarrollo","Al año de vida exclusivamente","Cuando el niño pesa más de 15 kg"],"answer":1},
-  {"question":"Cuál es la maniobra inicial recomendada para una obstrucción completa de la vía aérea por cuerpo extraño en un lactante?","options":["Compresiones abdominales tipo Heimlich","Golpes interescapulares y compresiones torácicas (de lactante)","Administrar agua y azúcar","Intentar extraer con un dedo sin visión"],"answer":1},
-  {"question":"Signo clínico que sugiere fibrosis quística en un lactante?","options":["Ictericia prolongada exclusivamente","Meconio ileal o retraso en la evacuación del meconio","Llanto agudo persistente","Cianosis que mejora con oxígeno"],"answer":1},
-  {"question":"En niños, la escala de Glasgow pediátrica se utiliza para evaluar:","options":["Estado nutricional","Desarrollo psicomotor","Nivel de conciencia y respuesta neurológica","Presión arterial"],"answer":2},
-  {"question":"Tratamiento inicial para una crisis asmática moderada en un niño:","options":["Beta bloqueadores","SABA (salbutamol) inhalado con cámara espaciadora","Antibióticos de amplio espectro","Antihistamínicos orales"],"answer":1},
-  {"question":"Cuál de los siguientes hallazgos es más indicativo de otitis media aguda en un niño?","options":["Tímpano móvil y traslúcido","Tímpano abombado y eritematoso con pérdida de transparencia", "Otalgia sin signos en el tímpano","Hipoacusia súbita sin otalgia"],"answer":1},
-  {"question":"En un recién nacido a término con bajo peso para la edad gestacional, la intervención prioritaria es:","options":["Iniciar alimentación por sonda inmediatamente sin valorar","Evaluación y monitoreo térmico y de glucosa, promover lactancia", "Administrar antibióticos profilácticos siempre","Dar fórmula de inicio de forma rutinaria"],"answer":1},
-  {"question":"Cuál es la conducta ante un niño con fiebre y rigidez de nuca?","options":["Observación en casa","Evaluación urgente en urgencias y posible punción lumbar según sospecha","Administrar antipiréticos y alta","Derivar a odontología"],"answer":1},
-  {"question":"Qué criterio sugiere un retraso del crecimiento global (estatura) en pediatría?","options":["Crecimiento dentro del percentil 50","Descenso persistente de percentil al compararlo con curvas estándares", "Peso al nacer elevado", "Circunferencia cefálica en percentil 75"],"answer":1},
-  {"question":"La test de Apgar valora al minuto y a los cinco minutos del nacimiento; cuál de estas variables NO forma parte del Apgar?","options":["Color (apariencia)","Frecuencia respiratoria/irritabilidad","Tono muscular","Nivel de glucosa"],"answer":3},
-  {"question":"Cuál es la causa más frecuente de diarrea aguda no complicada en pediatría comunitaria?","options":["Bacterias invasoras como Shigella","Virus (ej. rotavirus, norovirus)","Parásitos intestinales siempre","Alergia alimentaria exclusiva"],"answer":1},
-  {"question":"Recomendación para el manejo ambulatorio de la diarrea aguda en niños sin signos de deshidratación severa:","options":["Suspender líquidos hasta 24 horas","Rehidratación oral con solución de rehidratación oral (SRO) y alimentación habitual", "Administrar antibióticos empíricos", "Iniciar ayuno prolongado"],"answer":1},
-  {"question":"Cuál es la edad recomendada para el cribado universal de anemia por hierro en lactantes según muchas guías?","options":["1–2 meses","9–12 meses","5 años","12 años"],"answer":1},
-  {"question":"Qué hallazgo en la exploración sugiere cardiopatía congénita con derivación izquierda-derecha?","options":["Cianosis profunda precoz","Soplo sistólico continuo o holosistólico y crecimiento excesivo por sobrecarga pulmonar","Ausencia de soplos siempre","Pulsos femorales ausentes"],"answer":1},
-  {"question":"Cuál es el antecedente de mayor riesgo para desarrollo de síndrome de aspiración por meconio?","options":["Parto prematuro sin meconio","Presencia de meconio espeso y sufrimiento fetal" ,"Madre con asma controlada","Uso de antibióticos intraparto"],"answer":1},
-  {"question":"Qué dato indica que un recién nacido está adaptándose bien tras el nacimiento?","options":["Frecuencia cardiaca < 100 lpm","Tono muscular rígido","Respiración regular, llanto vigoroso y temperatura adecuada","Gasto urinario nulo las primeras 48 horas"],"answer":2},
-  {"question":"Cuál es el signo más frecuente de alergia alimentaria IgE mediada en la infancia temprana?","options":["Reacción cutánea aguda (urticaria) y/o angioedema tras ingestión", "Desarrollo de cetosis", "Pica intensa", "Retraso en el crecimiento sin síntomas agudos"],"answer":0},
-  {"question":"En la evaluación del desarrollo psicomotor, a los 12 meses se espera habitualmente:","options":["Caminar sin apoyo y decir palabras sueltas", "Uso de tijeras con destreza", "Lectura de palabras simples", "Coordinación mano-ojo avanzada como escribir"],"answer":0},
-  {"question":"Para prevenir la enfermedad neumocócica invasiva en niños, ¿qué vacuna es recomendada según calendarios?","options":["Vacuna polisacárida 23-valente en lactantes", "Vacuna conjugada neumocócica (PCV) según esquema infantil", "Vacuna BCG", "No existe vacuna"],"answer":1},
-  {"question":"Qué signo de alarma respiratoria en un niño requiere valoración inmediata?","options":["Tos ocasional nocturna","Retracción intercostal y cianosis central", "Secreción nasal ligera", "Estornudos"],"answer":1},
-  {"question":"Cuál es la causa más común de ictericia prolongada en el recién nacido a término?","options":["Atresia biliar", "Ictericia fisiológica o lactancia materna relacionada", "Incompatibilidad Rh siempre", "Hipotiroidismo exclusivamente"],"answer":1},
-  {"question":"En pediatría, la obesidad infantil se define comúnmente como:","options":["IMC por encima del percentil 85 para edad y sexo","IMC por debajo del percentil 5","IMC por encima del percentil 95 para edad y sexo","Peso absoluto mayor de 30 kg"],"answer":2},
-  {"question":"Cuál es la conducta ante un lactante con vómitos persistentes y signos de deshidratación?","options":["Inicio de dieta sólida inmediatamente","Rehidratación con SRO y valoración hospitalaria si empeora", "Aislamiento y observación ambulatoria sola", "Administrar antiemético sin consultar"],"answer":1},
-  {"question":"Qué hallazgo en una auscultación pulmonar sugiere sibilancias (wheezing)?","options":["Ruidos respiratorios finos y crepitantes", "Sonido adventicio musical expiratorio o inspiratorio", "Sonidos cardiacos audibles en tórax", "Silencio auscultatorio sin respiración"],"answer":1},
-  {"question":"Cuál es el método diagnóstico de elección para confirmar luxación de cadera en un lactante mayor de 4 meses?","options":["Ecografía de cadera en neonatos y hasta ~6 meses","Radiografía de cadera desde el nacimiento siempre","Resonancia magnética infantil de rutina","Exploración física únicamente"],"answer":0},
-  {"question":"La prueba de detección de pliegue cutáneo en recién nacido (calcáneo) se usa para:","options":["Evaluar la ictericia","Cribado de talasemia","Medir hidratación y grasa subcutánea no es método primario para cribado estándar","Diagnóstico de sepsis"],"answer":2},
-  {"question":"Cuál es la medida preventiva más efectiva para reducir la mortalidad por infecciones respiratorias en lactantes?","options":["Promover la lactancia materna y vacunación adecuada", "Uso rutinario de antibióticos profilácticos", "Aislamiento total siempre", "Administración de vitamina C"],"answer":0},
-  {"question":"Signo clínico más característico de crisis convulsiva febril simple en niños 6–60 meses:","options":["Convulsión generalizada breve (<15 minutos) sin foco neurológico persistente", "Convulsión focal prolongada >60 minutos", "Retraso neurológico previo siempre", "Convulsión asociada a coinfección bacteriana"],"answer":0},
-  {"question":"Qué maniobra es adecuada para la exploración de reflejos en un lactante?","options":["Reflejo de succión y reflejo de prensión palmar", "Reflejo de Babinski patológico siempre", "No explorar reflejos en lactantes", "Explorar reflejo de Hoffmann"],"answer":0},
-  {"question":"Cuál es el antibiótico de elección en otitis media bacteriana no complicada en la mayoría de guías (primera línea)?","options":["Amoxicilina oral según peso y dosis apropiada", "Clindamicina intravenosa", "Vancomicina oral", "Ceftriaxona tópica"],"answer":0},
-  {"question":"Cuál es la intervención más importante en prevención de muerte súbita del lactante (SMSL)?","options":["Dormir boca abajo","Practicar colecho con adultos fumadores","Dormir boca arriba y ambiente seguro para dormir", "Uso de almohadas y mantas mullidas"],"answer":2},
-  {"question":"Ante un niño con sospecha de fractura ósea abierta, la conducta inmediata es:","options":["Inmovilización, cubrir herida y traslado a urgencias", "Masajear para reducir el dolor", "Dar analgesia oral y enviar a casa", "Pedir pruebas de alergia"],"answer":0},
-  {"question":"Cuál es la prueba más útil para evaluar una infección urinaria recurrente en un niño?","options":["Urocultivo obtenido por método apropiado (p. ej., sonda o chupa) y análisis de orina", "Ecografía cerebral", "Hemograma rutinario", "Radiografía de tórax"],"answer":0},
-  {"question":"Qué hallazgo es característico de la enfermedad de Kawasaki que ayuda al diagnóstico?","options":["Fiebre prolongada >5 días, conjuntivitis bilateral no purulenta y cambios en mucosas", "Ictericia franca", "Convulsiones recurrentes", "Petequias difusas exclusivamente"],"answer":0},
-  {"question":"Cuál es la presentación más típica de déficit de hierro en un lactante?","options":["Irritabilidad, palidez mucocutánea y retraso en crecimiento en fases avanzadas", "Hiperactividad persistente sin palidez", "Cianosis periórica aislada", "Cefalea crónica"],"answer":0},
-  {"question":"En el manejo ambulatorio de varicela en niño sano, la recomendación principal es:","options":["Aislamiento, control sintomático y manejo de prurito; vigilar signos de complicación", "Hospitalizar a todos los casos", "Administrar antibióticos profilácticos", "Exponer al sol para curar"],"answer":0},
-  {"question":"Qué examen es más útil para evaluar displasia del desarrollo de cadera en neonatos de alto riesgo?","options":["Ecografía de cadera", "Radiografía AP de pelvis en neonatos de 1 semana", "Electroencefalograma", "TAC"],"answer":0},
-  {"question":"La causa más común de anemia microcítica en niños es:","options":["Deficiencia de hierro", "Talassemia mayor siempre", "Enfermedad renal crónica", "Infección viral aguda"],"answer":0},
-  {"question":"Cuál es la mejor medida para prevenir caries en niños?","options":["Higiene dental adecuada y uso de fluoruro según recomendaciones", "Evitar el cepillado y dar líquidos azucarados", "Uso rutinario de antibióticos", "Expresar lactancia a demanda durante la noche indefinidamente"],"answer":0},
-  {"question":"Ante un recién nacido con predisposición a hipoglucemia (madre diabética), la conducta inicial es:","options":["Monitorizar glucosa y promover alimentación precoz o perfusión si necesario", "Administrar glucosa oral sin monitorización", "Exposición al frío para estimular metabolismo", "Dar suplementos vitamínicos solamente"],"answer":0},
-  {"question":"Cuál es una causa frecuente de fiebre de origen desconocido en niños preescolares?","options":["Infecciones virales autolimitadas", "Cáncer en la mayoría de casos", "Envenenamiento alimentario crónico", "Hipotiroidismo"],"answer":0},
-  {"question":"En la valoración de un niño con sospecha de asma, cuál prueba es útil en mayores de 5 años?","options":["Espirometría con prueba broncodilatadora", "Electrocardiograma rutinario", "Radiografía de abdomen", "Test de sudor para fibrosis quística"],"answer":0},
-  {"question":"Cuál es la edad más frecuente para la aparición del primer diente (incisivo central inferior)?","options":["Alrededor de 6 meses", "Al nacer", "A los 3 años", "A los 10 años"],"answer":0},
-  {"question":"Cuál de las siguientes es una causa común de hematuria microscópica transitoria en niños?","options":["Infección del tracto urinario", "Cáncer renal en la mayoría", "Traumatismo crónico del cuero cabelludo", "Hipoglucemia"],"answer":0},
-  {"question":"Qué indicación justifica derivación urgente a neurología pediátrica?","options":["Convulsiones afebriles recurrentes o convulsión focal de inicio reciente", "Dolor abdominal crónico ocasional", "Rinorrea ocasional", "Cortes menores de la piel"],"answer":0},
-  {"question":"Cuál es la causa más frecuente de dolor abdominal agudo quirúrgico en la infancia?","options":["Apendicitis aguda", "Hernia inguinal crónica", "Otitis media", "Asma"],"answer":0},
-  {"question":"Cuál es la aproximación inicial ante sospecha de intoxicación accidental en niño?","options":["Contactar a servicio de toxicología y servicio de urgencias, seguir recomendaciones específicas", "Inducir el vómito inmediatamente en casa", "Administrar leche y esperar 48 horas", "Dar antipirético y alta domiciliaria"],"answer":0},
-  {"question":"Qué característica clínica orienta hacia una bronquiolitis más que a asma en un lactante?","options":["Edad menor de 2 años con infección viral previa y sibilancias generalizadas", "Edad escolar con antecedente atópico", "Mejora con antihistamínicos", "Inicio progresivo y crónico"],"answer":0},
-  {"question":"Qué medida preventiva es recomendada contra tétanos en niños?","options":["Completar esquema de vacuna DTP según calendario", "Administrar inmunoglobulina a todos por rutina", "Evitar vacunas", "Dar antibióticos profilácticos"],"answer":0},
-  {"question":"En lactantes con reflujo gastroesofágico fisiológico, la recomendación habitual es:","options":["Cambios posturales y seguimiento, evitar tratamiento farmacológico rutinario si no hay signos de alarma", "Realizar cirugía inmediata", "Administrar antibióticos", "Suspender la leche materna inmediatamente"],"answer":0},
-  {"question":"Cuál es la definición práctica de fiebre en pediatría según la temperatura corporal?","options":["Temperatura axilar ≥37.5–38.0 °C según la técnica; muchas guías usan ≥38.0 °C como fiebre" ,"Siempre temperatura >40 °C","Temperatura menor a 36 °C","Cualquier temperatura medida por oído"],"answer":0},
-  {"question":"Qué hallazgo en examen físico sugiere hipertensión arterial en un adolescente?","options":["Presión arterial repetidamente por encima del percentil 95 para edad/talla/sexo", "Pulso bajo en reposo solo", "Hiperreflexia aislada", "Manchas en la piel normales"],"answer":0},
-  {"question":"Cuál es la conducta ante sospecha de infección por estreptococo del grupo A (faringitis) en niño?","options":["Realizar test rápido de detección o cultivo antes de tratamiento antibiótico según guías", "Administrar corticoides sistémicos inicialmente", "No tratar nunca", "Dar vacuna antiestrptocócica"],"answer":0},
-  {"question":"Qué concepto describe mejor la inmunidad pasiva en neonatos?","options":["Transferencia de anticuerpos maternos a través de la placenta y leche materna", "Producción inmediata de anticuerpos del neonato", "Vacunación activa del feto", "Transmisión de bacterias beneficiosas"],"answer":0},
-  {"question":"Cuál es la recomendación ante sospecha de desnutrición grave en un niño?","options":["Derivar a tratamiento nutricional especializado y evaluación urgente", "Aumentar calorías sin evaluación médica", "Iniciar antibióticos de amplio espectro rutinariamente", "Retirar la comida"],"answer":0},
-  {"question":"En vacunación, qué principio es cierto?","options":["Las vacunas vivas atenuadas están contraindicadas en inmunodeprimidos severos", "Todas las vacunas son vivas", "Vacunas no necesitan registros", "No existen contraindicaciones"],"answer":0},
-  {"question":"Qué hallazgo neurológico en un recién nacido sugiere hemorragia intracraneal?","options":["Fontanela muy tensa y signos de irritabilidad/prolapso en severidad", "Llanto normal sin otros signos", "Aumento de peso normal", "Pérdida de reflejo de succión exclusivamente"],"answer":0},
-  {"question":"Cuál es la definición de fiebre recurrente periódica en pediatría?","options":["Episodios de fiebre separados por intervalos de salud sin explicación infecciosa persistente", "Fiebre constante por semanas", "Fiebre solo una vez en la vida", "Fiebre asociada siempre a alergia"],"answer":0},
-  {"question":"Qué maniobra es apropiada para valorar escoliosis en niños en edad escolar?","options":["Prueba de inclinación hacia adelante (Adam) para detectar gibosidad costal", "Medir glucosa capilar", "Exploración otológica", "Ecografía abdominal"],"answer":0},
-  {"question":"En un lactante que no sube de peso adecuadamente, cuál es una causa frecuente a valorar?","options":["Problemas en técnica de lactancia/mala sujeción y frecuencia de tomas", "Exceso de actividad física", "Hipertiroidismo materno exclusivamente", "Exposición al frío"],"answer":0},
-  {"question":"Qué factor empeora el pronóstico en meningitis bacteriana pediátrica?","options":["Retraso en el inicio de antibióticos apropiados", "Edad escolar avanzada únicamente", "Vacunación completa", "Higiene adecuada"],"answer":0},
-  {"question":"Cuál es la acción para prevenir la transmisión vertical del VIH en madre positiva?","options":["Terapia antirretroviral materna y profilaxis neonatal según protocolos", "No hacer pruebas prenatales", "Dar leche materna sin tratamiento", "Evitar todas las vacunas"],"answer":0},
-  {"question":"Cuál es la causa más frecuente de vómitos biliosos en el recién nacido?","options":["Obstrucción intestinal alta como malrotación con vólvulo", "Intolerancia a proteínas de la leche", "Reflujo gastroesofágico fisiológico", "Otitis"],"answer":0},
-  {"question":"En la sospecha de abuso infantil, cuál es la conducta prioritaria?","options":["Garantizar la seguridad del niño y notificar a las autoridades según la normativa local", "Mantener silencio para no interferir", "Administrar medicación sedante", "Pedir al niño que explique sin apoyo"],"answer":0},
-  {"question":"Cuál es la indicación de cirugía urgente en apendicitis pediátrica?","options":["Perforación o peritonitis clínica", "Dolor abdominal leve sin datos inflamatorios", "Tos persistente", "Malformación cutánea benigna"],"answer":0},
-  {"question":"Qué marcador es útil en el cribado de fibrosis quística?","options":["Test del tamizaje neonatal con tripsina inmunorreactiva (IRT) y confirmación con test de sudor", "Glucosa capilar", "Hemograma completo", "Radiografía de tórax rutinaria"],"answer":0},
-  {"question":"Cuál es la edad típica para realizar el test de tamizaje neonatal (cribado metabólico)?","options":["Entre 24–72 horas de vida", "A las 2 semanas exclusivamente", "A los 6 meses", "Al año"],"answer":0},
-  {"question":"Qué medida reduce la transmisión de virus respiratorios en guarderías?","options":["Higiene de manos y prácticas de control de infecciones", "No ventilar las aulas", "Uso rutinario de antibióticos", "Evitar contacto social siempre"],"answer":0}
-]
+ {
+  "titulo_examen": "Examen de Pediatría y Desarrollo Infantil",
+  "instrucciones": "Seleccione la única opción correcta. Las justificaciones se encuentran al final del examen.",
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Edad en la que normalmente aparece la pinza pincer (pinza fina) en el desarrollo motor fino del lactante?",
+      "opciones": {
+        "a": "Opción A: 2-3 meses",
+        "b": "Opción B: 6-9 meses",
+        "c": "Opción C: 9-12 meses",
+        "d": "Opción D: 15-18 meses"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Vacuna que está contraindicada en niños con historia de reacción anafiláctica previa a polietilenglicol (PEG)?",
+      "opciones": {
+        "a": "Opción A: Vacuna inactivada contra la influenza",
+        "b": "Opción B: Vacuna MMR (sarampión, paperas, rubéola)",
+        "c": "Opción C: Vacuna mRNA contra SARS-CoV-2",
+        "d": "Opción D: Vacuna oral contra rotavirus"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cuál es la conducta inicial más apropiada ante un recién nacido con ictericia en las primeras 24 horas de vida?",
+      "opciones": {
+        "a": "Opción A: Observación ambulatoria",
+        "b": "Opción B: Fototerapia inmediata según niveles de bilirrubina",
+        "c": "Opción C: Inicio de fenobarbital",
+        "d": "Opción D: Extracción de sangre para tipificación cruzada"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 4,
+      "pregunta": "En lactantes, ¿cuál hallazgo sugiere deshidratación moderada?",
+      "opciones": {
+        "a": "Opción A: Ojos hundidos, fontanela deprimida, llanto sin lágrimas",
+        "b": "Opción B: Llanto vigoroso y mucosas húmedas",
+        "c": "Opción C: Aumento de peso de 200 g en una semana",
+        "d": "Opción D: Orina clara y frecuente"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Fuente materna recomendada para alimentar a un lactante menor de 6 meses?",
+      "opciones": {
+        "a": "Opción A: Leche de vaca entera",
+        "b": "Opción B: Lactancia materna exclusiva",
+        "c": "Opción C: Leche de almendras",
+        "d": "Opción D: Alimentos sólidos"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Qué examen es fundamental para el cribado neonatal de hipotiroidismo congénito?",
+      "opciones": {
+        "a": "Opción A: Medición de TSH en sangre seca (tira de Guthrie)",
+        "b": "Opción B: Medición de T4 libre en orina",
+        "c": "Opción C: Ecografía de tiroides",
+        "d": "Opción D: Perfil lipídico"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Cuál es la causa más frecuente de bronquiolitis en lactantes?",
+      "opciones": {
+        "a": "Opción A: Rinovirus",
+        "b": "Opción B: Virus respiratorio sincitial (VRS)",
+        "c": "Opción C: Adenovirus",
+        "d": "Opción D: Mycoplasma pneumoniae"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 8,
+      "pregunta": "Signo clínico que sugiere posible sepsis neonatal temprana?",
+      "opciones": {
+        "a": "Opción A: Hiperactividad",
+        "b": "Opción B: Letargia y mala perfusión",
+        "c": "Opción C: Aumento de peso brusco",
+        "d": "Opción D: Llanto inconsolable con postura antálgica"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 9,
+      "pregunta": "En pediatría, el rango normal de frecuencia respiratoria para un lactante (1–12 meses) en reposo es aproximadamente:",
+      "opciones": {
+        "a": "Opción A: 10-20 rpm",
+        "b": "Opción B: 30-60 rpm",
+        "c": "Opción C: 60-90 rpm",
+        "d": "Opción D: 5-10 rpm"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Cuál de estas lesiones cutáneas en neonatos se recomienda observar y suele resolverse espontáneamente?",
+      "opciones": {
+        "a": "Opción A: Manchas en vino de Oporto (nevus flammeus)",
+        "b": "Opción B: Eritema tóxico neonatal",
+        "c": "Opción C: Melanoma congénito",
+        "d": "Opción D: Pápulas hemorrágicas"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 11,
+      "pregunta": "¿Cuál es la vacuna de administración oral en el calendario que protege contra gastroenteritis por rotavirus?",
+      "opciones": {
+        "a": "Opción A: Vacuna oral contra rotavirus",
+        "b": "Opción B: Vacuna inactivada contra polio",
+        "c": "Opción C: Vacuna MMR",
+        "d": "Opción D: Vacuna contra hepatitis A"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 12,
+      "pregunta": "¿Cuál es la recomendación sobre la introducción de alimentos sólidos?",
+      "opciones": {
+        "a": "Opción A: Antes de los 3 meses",
+        "b": "Opción B: Alrededor de los 6 meses, según señales de desarrollo",
+        "c": "Opción C: Al año de vida exclusivamente",
+        "d": "Opción D: Cuando el niño pesa más de 15 kg"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Cuál es la maniobra inicial recomendada para una obstrucción completa de la vía aérea por cuerpo extraño en un lactante?",
+      "opciones": {
+        "a": "Opción A: Compresiones abdominales tipo Heimlich",
+        "b": "Opción B: Golpes interescapulares y compresiones torácicas (de lactante)",
+        "c": "Opción C: Administrar agua y azúcar",
+        "d": "Opción D: Intentar extraer con un dedo sin visión"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 14,
+      "pregunta": "Signo clínico que sugiere fibrosis quística en un lactante?",
+      "opciones": {
+        "a": "Opción A: Ictericia prolongada exclusivamente",
+        "b": "Opción B: Meconio ileal o retraso en la evacuación del meconio",
+        "c": "Opción C: Llanto agudo persistente",
+        "d": "Opción D: Cianosis que mejora con oxígeno"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 15,
+      "pregunta": "En niños, la escala de Glasgow pediátrica se utiliza para evaluar:",
+      "opciones": {
+        "a": "Opción A: Estado nutricional",
+        "b": "Opción B: Desarrollo psicomotor",
+        "c": "Opción C: Nivel de conciencia y respuesta neurológica",
+        "d": "Opción D: Presión arterial"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 16,
+      "pregunta": "Tratamiento inicial para una crisis asmática moderada en un niño:",
+      "opciones": {
+        "a": "Opción A: Beta bloqueadores",
+        "b": "Opción B: SABA (salbutamol) inhalado con cámara espaciadora",
+        "c": "Opción C: Antibióticos de amplio espectro",
+        "d": "Opción D: Antihistamínicos orales"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Cuál de los siguientes hallazgos es más indicativo de otitis media aguda en un niño?",
+      "opciones": {
+        "a": "Opción A: Tímpano móvil y traslúcido",
+        "b": "Opción B: Tímpano abombado y eritematoso con pérdida de transparencia",
+        "c": "Opción C: Otalgia sin signos en el tímpano",
+        "d": "Opción D: Hipoacusia súbita sin otalgia"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 18,
+      "pregunta": "En un recién nacido a término con bajo peso para la edad gestacional, la intervención prioritaria es:",
+      "opciones": {
+        "a": "Opción A: Iniciar alimentación por sonda inmediatamente sin valorar",
+        "b": "Opción B: Evaluación y monitoreo térmico y de glucosa, promover lactancia",
+        "c": "Opción C: Administrar antibióticos profilácticos siempre",
+        "d": "Opción D: Dar fórmula de inicio de forma rutinaria"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 19,
+      "pregunta": "¿Cuál es la conducta ante un niño con fiebre y rigidez de nuca?",
+      "opciones": {
+        "a": "Opción A: Observación en casa",
+        "b": "Opción B: Evaluación urgente en urgencias y posible punción lumbar según sospecha",
+        "c": "Opción C: Administrar antipiréticos y alta",
+        "d": "Opción D: Derivar a odontología"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 20,
+      "pregunta": "¿Qué criterio sugiere un retraso del crecimiento global (estatura) en pediatría?",
+      "opciones": {
+        "a": "Opción A: Crecimiento dentro del percentil 50",
+        "b": "Opción B: Descenso persistente de percentil al compararlo con curvas estándares",
+        "c": "Opción C: Peso al nacer elevado",
+        "d": "Opción D: Circunferencia cefálica en percentil 75"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 21,
+      "pregunta": "La test de Apgar valora al minuto y a los cinco minutos del nacimiento; ¿cuál de estas variables NO forma parte del Apgar?",
+      "opciones": {
+        "a": "Opción A: Color (apariencia)",
+        "b": "Opción B: Frecuencia respiratoria/irritabilidad",
+        "c": "Opción C: Tono muscular",
+        "d": "Opción D: Nivel de glucosa"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 22,
+      "pregunta": "¿Cuál es la causa más frecuente de diarrea aguda no complicada en pediatría comunitaria?",
+      "opciones": {
+        "a": "Opción A: Bacterias invasoras como Shigella",
+        "b": "Opción B: Virus (ej. rotavirus, norovirus)",
+        "c": "Opción C: Parásitos intestinales siempre",
+        "d": "Opción D: Alergia alimentaria exclusiva"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 23,
+      "pregunta": "Recomendación para el manejo ambulatorio de la diarrea aguda en niños sin signos de deshidratación severa:",
+      "opciones": {
+        "a": "Opción A: Suspender líquidos hasta 24 horas",
+        "b": "Opción B: Rehidratación oral con solución de rehidratación oral (SRO) y alimentación habitual",
+        "c": "Opción C: Administrar antibióticos empíricos",
+        "d": "Opción D: Iniciar ayuno prolongado"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 24,
+      "pregunta": "¿Cuál es la edad recomendada para el cribado universal de anemia por hierro en lactantes según muchas guías?",
+      "opciones": {
+        "a": "Opción A: 1–2 meses",
+        "b": "Opción B: 9–12 meses",
+        "c": "Opción C: 5 años",
+        "d": "Opción D: 12 años"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 25,
+      "pregunta": "¿Qué hallazgo en la exploración sugiere cardiopatía congénita con derivación izquierda-derecha?",
+      "opciones": {
+        "a": "Opción A: Cianosis profunda precoz",
+        "b": "Opción B: Soplo sistólico continuo o holosistólico y crecimiento excesivo por sobrecarga pulmonar",
+        "c": "Opción C: Ausencia de soplos siempre",
+        "d": "Opción D: Pulsos femorales ausentes"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 26,
+      "pregunta": "¿Cuál es el antecedente de mayor riesgo para desarrollo de síndrome de aspiración por meconio?",
+      "opciones": {
+        "a": "Opción A: Parto prematuro sin meconio",
+        "b": "Opción B: Presencia de meconio espeso y sufrimiento fetal",
+        "c": "Opción C: Madre con asma controlada",
+        "d": "Opción D: Uso de antibióticos intraparto"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 27,
+      "pregunta": "¿Qué dato indica que un recién nacido está adaptándose bien tras el nacimiento?",
+      "opciones": {
+        "a": "Opción A: Frecuencia cardiaca < 100 lpm",
+        "b": "Opción B: Tono muscular rígido",
+        "c": "Opción C: Respiración regular, llanto vigoroso y temperatura adecuada",
+        "d": "Opción D: Gasto urinario nulo las primeras 48 horas"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 28,
+      "pregunta": "¿Cuál es el signo más frecuente de alergia alimentaria IgE mediada en la infancia temprana?",
+      "opciones": {
+        "a": "Opción A: Reacción cutánea aguda (urticaria) y/o angioedema tras ingestión",
+        "b": "Opción B: Desarrollo de cetosis",
+        "c": "Opción C: Pica intensa",
+        "d": "Opción D: Retraso en el crecimiento sin síntomas agudos"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 29,
+      "pregunta": "En la evaluación del desarrollo psicomotor, a los 12 meses se espera habitualmente:",
+      "opciones": {
+        "a": "Opción A: Caminar sin apoyo y decir palabras sueltas",
+        "b": "Opción B: Uso de tijeras con destreza",
+        "c": "Opción C: Lectura de palabras simples",
+        "d": "Opción D: Coordinación mano-ojo avanzada como escribir"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 30,
+      "pregunta": "Para prevenir la enfermedad neumocócica invasiva en niños, ¿qué vacuna es recomendada según calendarios?",
+      "opciones": {
+        "a": "Opción A: Vacuna polisacárida 23-valente en lactantes",
+        "b": "Opción B: Vacuna conjugada neumocócica (PCV) según esquema infantil",
+        "c": "Opción C: Vacuna BCG",
+        "d": "Opción D: No existe vacuna"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 31,
+      "pregunta": "¿Qué signo de alarma respiratoria en un niño requiere valoración inmediata?",
+      "opciones": {
+        "a": "Opción A: Tos ocasional nocturna",
+        "b": "Opción B: Retracción intercostal y cianosis central",
+        "c": "Opción C: Secreción nasal ligera",
+        "d": "Opción D: Estornudos"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 32,
+      "pregunta": "¿Cuál es la causa más común de ictericia prolongada en el recién nacido a término?",
+      "opciones": {
+        "a": "Opción A: Atresia biliar",
+        "b": "Opción B: Ictericia fisiológica o lactancia materna relacionada",
+        "c": "Opción C: Incompatibilidad Rh siempre",
+        "d": "Opción D: Hipotiroidismo exclusivamente"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 33,
+      "pregunta": "En pediatría, la obesidad infantil se define comúnmente como:",
+      "opciones": {
+        "a": "Opción A: IMC por encima del percentil 85 para edad y sexo",
+        "b": "Opción B: IMC por debajo del percentil 5",
+        "c": "Opción C: IMC por encima del percentil 95 para edad y sexo",
+        "d": "Opción D: Peso absoluto mayor de 30 kg"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 34,
+      "pregunta": "¿Cuál es la conducta ante un lactante con vómitos persistentes y signos de deshidratación?",
+      "opciones": {
+        "a": "Opción A: Inicio de dieta sólida inmediatamente",
+        "b": "Opción B: Rehidratación con SRO y valoración hospitalaria si empeora",
+        "c": "Opción C: Aislamiento y observación ambulatoria sola",
+        "d": "Opción D: Administrar antiemético sin consultar"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 35,
+      "pregunta": "¿Qué hallazgo en una auscultación pulmonar sugiere sibilancias (wheezing)?",
+      "opciones": {
+        "a": "Opción A: Ruidos respiratorios finos y crepitantes",
+        "b": "Opción B: Sonido adventicio musical expiratorio o inspiratorio",
+        "c": "Opción C: Sonidos cardiacos audibles en tórax",
+        "d": "Opción D: Silencio auscultatorio sin respiración"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 36,
+      "pregunta": "¿Cuál es el método diagnóstico de elección para confirmar luxación de cadera en un lactante mayor de 4 meses?",
+      "opciones": {
+        "a": "Opción A: Ecografía de cadera en neonatos y hasta ~6 meses",
+        "b": "Opción B: Radiografía de cadera desde el nacimiento siempre",
+        "c": "Opción C: Resonancia magnética infantil de rutina",
+        "d": "Opción D: Exploración física únicamente"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 37,
+      "pregunta": "La prueba de detección de pliegue cutáneo en recién nacido (calcáneo) se usa para:",
+      "opciones": {
+        "a": "Opción A: Evaluar la ictericia",
+        "b": "Opción B: Cribado de talasemia",
+        "c": "Opción C: Medir hidratación y grasa subcutánea no es método primario para cribado estándar",
+        "d": "Opción D: Diagnóstico de sepsis"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 38,
+      "pregunta": "¿Cuál es la medida preventiva más efectiva para reducir la mortalidad por infecciones respiratorias en lactantes?",
+      "opciones": {
+        "a": "Opción A: Promover la lactancia materna y vacunación adecuada",
+        "b": "Opción B: Uso rutinario de antibióticos profilácticos",
+        "c": "Opción C: Aislamiento total siempre",
+        "d": "Opción D: Administración de vitamina C"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 39,
+      "pregunta": "Signo clínico más característico de crisis convulsiva febril simple en niños 6–60 meses:",
+      "opciones": {
+        "a": "Opción A: Convulsión generalizada breve (<15 minutos) sin foco neurológico persistente",
+        "b": "Opción B: Convulsión focal prolongada >60 minutos",
+        "c": "Opción C: Retraso neurológico previo siempre",
+        "d": "Opción D: Convulsión asociada a coinfección bacteriana"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 40,
+      "pregunta": "¿Qué maniobra es adecuada para la exploración de reflejos en un lactante?",
+      "opciones": {
+        "a": "Opción A: Reflejo de succión y reflejo de prensión palmar",
+        "b": "Opción B: Reflejo de Babinski patológico siempre",
+        "c": "Opción C: No explorar reflejos en lactantes",
+        "d": "Opción D: Explorar reflejo de Hoffmann"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 41,
+      "pregunta": "¿Cuál es el antibiótico de elección en otitis media bacteriana no complicada en la mayoría de guías (primera línea)?",
+      "opciones": {
+        "a": "Opción A: Amoxicilina oral según peso y dosis apropiada",
+        "b": "Opción B: Clindamicina intravenosa",
+        "c": "Opción C: Vancomicina oral",
+        "d": "Opción D: Ceftriaxona tópica"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 42,
+      "pregunta": "¿Cuál es la intervención más importante en prevención de muerte súbita del lactante (SMSL)?",
+      "opciones": {
+        "a": "Opción A: Dormir boca abajo",
+        "b": "Opción B: Practicar colecho con adultos fumadores",
+        "c": "Opción C: Dormir boca arriba y ambiente seguro para dormir",
+        "d": "Opción D: Uso de almohadas y mantas mullidas"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 43,
+      "pregunta": "Ante un niño con sospecha de fractura ósea abierta, la conducta inmediata es:",
+      "opciones": {
+        "a": "Opción A: Inmovilización, cubrir herida y traslado a urgencias",
+        "b": "Opción B: Masajear para reducir el dolor",
+        "c": "Opción C: Dar analgesia oral y enviar a casa",
+        "d": "Opción D: Pedir pruebas de alergia"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 44,
+      "pregunta": "¿Cuál es la prueba más útil para evaluar una infección urinaria recurrente en un niño?",
+      "opciones": {
+        "a": "Opción A: Urocultivo obtenido por método apropiado (p. ej., sonda o chupa) y análisis de orina",
+        "b": "Opción B: Ecografía cerebral",
+        "c": "Opción C: Hemograma rutinario",
+        "d": "Opción D: Radiografía de tórax"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 45,
+      "pregunta": "¿Qué hallazgo es característico de la enfermedad de Kawasaki que ayuda al diagnóstico?",
+      "opciones": {
+        "a": "Opción A: Fiebre prolongada >5 días, conjuntivitis bilateral no purulenta y cambios en mucosas",
+        "b": "Opción B: Ictericia franca",
+        "c": "Opción C: Convulsiones recurrentes",
+        "d": "Opción D: Petequias difusas exclusivamente"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 46,
+      "pregunta": "¿Cuál es la presentación más típica de déficit de hierro en un lactante?",
+      "opciones": {
+        "a": "Opción A: Irritabilidad, palidez mucocutánea y retraso en crecimiento en fases avanzadas",
+        "b": "Opción B: Hiperactividad persistente sin palidez",
+        "c": "Opción C: Cianosis periórica aislada",
+        "d": "Opción D: Cefalea crónica"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 47,
+      "pregunta": "En el manejo ambulatorio de varicela en niño sano, la recomendación principal es:",
+      "opciones": {
+        "a": "Opción A: Aislamiento, control sintomático y manejo de prurito; vigilar signos de complicación",
+        "b": "Opción B: Hospitalizar a todos los casos",
+        "c": "Opción C: Administrar antibióticos profilácticos",
+        "d": "Opción D: Exponer al sol para curar"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 48,
+      "pregunta": "¿Qué examen es más útil para evaluar displasia del desarrollo de cadera en neonatos de alto riesgo?",
+      "opciones": {
+        "a": "Opción A: Ecografía de cadera",
+        "b": "Opción B: Radiografía AP de pelvis en neonatos de 1 semana",
+        "c": "Opción C: Electroencefalograma",
+        "d": "Opción D: TAC"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 49,
+      "pregunta": "La causa más común de anemia microcítica en niños es:",
+      "opciones": {
+        "a": "Opción A: Deficiencia de hierro",
+        "b": "Opción B: Talasemia mayor siempre",
+        "c": "Opción C: Enfermedad renal crónica",
+        "d": "Opción D: Infección viral aguda"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 50,
+      "pregunta": "¿Cuál es la mejor medida para prevenir caries en niños?",
+      "opciones": {
+        "a": "Opción A: Higiene dental adecuada y uso de fluoruro según recomendaciones",
+        "b": "Opción B: Evitar el cepillado y dar líquidos azucarados",
+        "c": "Opción C: Uso rutinario de antibióticos",
+        "d": "Opción D: Expresar lactancia a demanda durante la noche indefinidamente"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 51,
+      "pregunta": "Ante un recién nacido con predisposición a hipoglucemia (madre diabética), la conducta inicial es:",
+      "opciones": {
+        "a": "Opción A: Monitorizar glucosa y promover alimentación precoz o perfusión si necesario",
+        "b": "Opción B: Administrar glucosa oral sin monitorización",
+        "c": "Opción C: Exposición al frío para estimular metabolismo",
+        "d": "Opción D: Dar suplementos vitamínicos solamente"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 52,
+      "pregunta": "¿Cuál es una causa frecuente de fiebre de origen desconocido en niños preescolares?",
+      "opciones": {
+        "a": "Opción A: Infecciones virales autolimitadas",
+        "b": "Opción B: Cáncer en la mayoría de casos",
+        "c": "Opción C: Envenenamiento alimentario crónico",
+        "d": "Opción D: Hipotiroidismo"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 53,
+      "pregunta": "En la valoración de un niño con sospecha de asma, ¿cuál prueba es útil en mayores de 5 años?",
+      "opciones": {
+        "a": "Opción A: Espirometría con prueba broncodilatadora",
+        "b": "Opción B: Electrocardiograma rutinario",
+        "c": "Opción C: Radiografía de abdomen",
+        "d": "Opción D: Test de sudor para fibrosis quística"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 54,
+      "pregunta": "¿Cuál es la edad más frecuente para la aparición del primer diente (incisivo central inferior)?",
+      "opciones": {
+        "a": "Opción A: Alrededor de 6 meses",
+        "b": "Opción B: Al nacer",
+        "c": "Opción C: A los 3 años",
+        "d": "Opción D: A los 10 años"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 55,
+      "pregunta": "¿Cuál de las siguientes es una causa común de hematuria microscópica transitoria en niños?",
+      "opciones": {
+        "a": "Opción A: Infección del tracto urinario",
+        "b": "Opción B: Cáncer renal en la mayoría",
+        "c": "Opción C: Traumatismo crónico del cuero cabelludo",
+        "d": "Opción D: Hipoglucemia"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 56,
+      "pregunta": "¿Qué indicación justifica derivación urgente a neurología pediátrica?",
+      "opciones": {
+        "a": "Opción A: Convulsiones afebriles recurrentes o convulsión focal de inicio reciente",
+        "b": "Opción B: Dolor abdominal crónico ocasional",
+        "c": "Opción C: Rinorrea ocasional",
+        "d": "Opción D: Cortes menores de la piel"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 57,
+      "pregunta": "¿Cuál es la causa más frecuente de dolor abdominal agudo quirúrgico en la infancia?",
+      "opciones": {
+        "a": "Opción A: Apendicitis aguda",
+        "b": "Opción B: Hernia inguinal crónica",
+        "c": "Opción C: Otitis media",
+        "d": "Opción D: Asma"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 58,
+      "pregunta": "¿Cuál es la aproximación inicial ante sospecha de intoxicación accidental en niño?",
+      "opciones": {
+        "a": "Opción A: Contactar a servicio de toxicología y servicio de urgencias, seguir recomendaciones específicas",
+        "b": "Opción B: Inducir el vómito inmediatamente en casa",
+        "c": "Opción C: Administrar leche y esperar 48 horas",
+        "d": "Opción D: Dar antipirético y alta domiciliaria"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 59,
+      "pregunta": "¿Qué característica clínica orienta hacia una bronquiolitis más que a asma en un lactante?",
+      "opciones": {
+        "a": "Opción A: Edad menor de 2 años con infección viral previa y sibilancias generalizadas",
+        "b": "Opción B: Edad escolar con antecedente atópico",
+        "c": "Opción C: Mejora con antihistamínicos",
+        "d": "Opción D: Inicio progresivo y crónico"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 60,
+      "pregunta": "¿Qué medida preventiva es recomendada contra tétanos en niños?",
+      "opciones": {
+        "a": "Opción A: Completar esquema de vacuna DTP según calendario",
+        "b": "Opción B: Administrar inmunoglobulina a todos por rutina",
+        "c": "Opción C: Evitar vacunas",
+        "d": "Opción D: Dar antibióticos profilácticos"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 61,
+      "pregunta": "En lactantes con reflujo gastroesofágico fisiológico, la recomendación habitual es:",
+      "opciones": {
+        "a": "Opción A: Cambios posturales y seguimiento, evitar tratamiento farmacológico rutinario si no hay signos de alarma",
+        "b": "Opción B: Realizar cirugía inmediata",
+        "c": "Opción C: Administrar antibióticos",
+        "d": "Opción D: Suspender la leche materna inmediatamente"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 62,
+      "pregunta": "¿Cuál es la definición práctica de fiebre en pediatría según la temperatura corporal?",
+      "opciones": {
+        "a": "Opción A: Temperatura axilar ≥37.5–38.0 °C según la técnica; muchas guías usan ≥38.0 °C como fiebre",
+        "b": "Opción B: Siempre temperatura >40 °C",
+        "c": "Opción C: Temperatura menor a 36 °C",
+        "d": "Opción D: Cualquier temperatura medida por oído"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 63,
+      "pregunta": "¿Qué hallazgo en examen físico sugiere hipertensión arterial en un adolescente?",
+      "opciones": {
+        "a": "Opción A: Presión arterial repetidamente por encima del percentil 95 para edad/talla/sexo",
+        "b": "Opción B: Pulso bajo en reposo solo",
+        "c": "Opción C: Hiperreflexia aislada",
+        "d": "Opción D: Manchas en la piel normales"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 64,
+      "pregunta": "¿Cuál es la conducta ante sospecha de infección por estreptococo del grupo A (faringitis) en niño?",
+      "opciones": {
+        "a": "Opción A: Realizar test rápido de detección o cultivo antes de tratamiento antibiótico según guías",
+        "b": "Opción B: Administrar corticoides sistémicos inicialmente",
+        "c": "Opción C: No tratar nunca",
+        "d": "Opción D: Dar vacuna antiestrptocócica"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 65,
+      "pregunta": "¿Qué concepto describe mejor la inmunidad pasiva en neonatos?",
+      "opciones": {
+        "a": "Opción A: Transferencia de anticuerpos maternos a través de la placenta y leche materna",
+        "b": "Opción B: Producción inmediata de anticuerpos del neonato",
+        "c": "Opción C: Vacunación activa del feto",
+        "d": "Opción D: Transmisión de bacterias beneficiosas"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 66,
+      "pregunta": "¿Cuál es la recomendación ante sospecha de desnutrición grave en un niño?",
+      "opciones": {
+        "a": "Opción A: Derivar a tratamiento nutricional especializado y evaluación urgente",
+        "b": "Opción B: Aumentar calorías sin evaluación médica",
+        "c": "Opción C: Iniciar antibióticos de amplio espectro rutinariamente",
+        "d": "Opción D: Retirar la comida"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 67,
+      "pregunta": "En vacunación, ¿qué principio es cierto?",
+      "opciones": {
+        "a": "Opción A: Las vacunas vivas atenuadas están contraindicadas en inmunodeprimidos severos",
+        "b": "Opción B: Todas las vacunas son vivas",
+        "c": "Opción C: Vacunas no necesitan registros",
+        "d": "Opción D: No existen contraindicaciones"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 68,
+      "pregunta": "¿Qué hallazgo neurológico en un recién nacido sugiere hemorragia intracraneal?",
+      "opciones": {
+        "a": "Opción A: Fontanela muy tensa y signos de irritabilidad/prolapso en severidad",
+        "b": "Opción B: Llanto normal sin otros signos",
+        "c": "Opción C: Aumento de peso normal",
+        "d": "Opción D: Pérdida de reflejo de succión exclusivamente"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 69,
+      "pregunta": "¿Cuál es la definición de fiebre recurrente periódica en pediatría?",
+      "opciones": {
+        "a": "Opción A: Episodios de fiebre separados por intervalos de salud sin explicación infecciosa persistente",
+        "b": "Opción B: Fiebre constante por semanas",
+        "c": "Opción C: Fiebre solo una vez en la vida",
+        "d": "Opción D: Fiebre asociada siempre a alergia"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 70,
+      "pregunta": "¿Qué maniobra es apropiada para valorar escoliosis en niños en edad escolar?",
+      "opciones": {
+        "a": "Opción A: Prueba de inclinación hacia adelante (Adam) para detectar gibosidad costal",
+        "b": "Opción B: Medir glucosa capilar",
+        "c": "Opción C: Exploración otológica",
+        "d": "Opción D: Ecografía abdominal"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 71,
+      "pregunta": "En un lactante que no sube de peso adecuadamente, ¿cuál es una causa frecuente a valorar?",
+      "opciones": {
+        "a": "Opción A: Problemas en técnica de lactancia/mala sujeción y frecuencia de tomas",
+        "b": "Opción B: Exceso de actividad física",
+        "c": "Opción C: Hipertiroidismo materno exclusivamente",
+        "d": "Opción D: Exposición al frío"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 72,
+      "pregunta": "¿Qué factor empeora el pronóstico en meningitis bacteriana pediátrica?",
+      "opciones": {
+        "a": "Opción A: Retraso en el inicio de antibióticos apropiados",
+        "b": "Opción B: Edad escolar avanzada únicamente",
+        "c": "Opción C: Vacunación completa",
+        "d": "Opción D: Higiene adecuada"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 73,
+      "pregunta": "¿Cuál es la acción para prevenir la transmisión vertical del VIH en madre positiva?",
+      "opciones": {
+        "a": "Opción A: Terapia antirretroviral materna y profilaxis neonatal según protocolos",
+        "b": "Opción B: No hacer pruebas prenatales",
+        "c": "Opción C: Dar leche materna sin tratamiento",
+        "d": "Opción D: Evitar todas las vacunas"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 74,
+      "pregunta": "¿Cuál es la causa más frecuente de vómitos biliosos en el recién nacido?",
+      "opciones": {
+        "a": "Opción A: Obstrucción intestinal alta como malrotación con vólvulo",
+        "b": "Opción B: Intolerancia a proteínas de la leche",
+        "c": "Opción C: Reflujo gastroesofágico fisiológico",
+        "d": "Opción D: Otitis"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 75,
+      "pregunta": "En la sospecha de abuso infantil, ¿cuál es la conducta prioritaria?",
+      "opciones": {
+        "a": "Opción A: Garantizar la seguridad del niño y notificar a las autoridades según la normativa local",
+        "b": "Opción B: Mantener silencio para no interferir",
+        "c": "Opción C: Administrar medicación sedante",
+        "d": "Opción D: Pedir al niño que explique sin apoyo"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 76,
+      "pregunta": "¿Cuál es la indicación de cirugía urgente en apendicitis pediátrica?",
+      "opciones": {
+        "a": "Opción A: Perforación o peritonitis clínica",
+        "b": "Opción B: Dolor abdominal leve sin datos inflamatorios",
+        "c": "Opción C: Tos persistente",
+        "d": "Opción D: Malformación cutánea benigna"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 77,
+      "pregunta": "¿Qué marcador es útil en el cribado de fibrosis quística?",
+      "opciones": {
+        "a": "Opción A: Test del tamizaje neonatal con tripsina inmunorreactiva (IRT) y confirmación con test de sudor",
+        "b": "Opción B: Glucosa capilar",
+        "c": "Opción C: Hemograma completo",
+        "d": "Opción D: Radiografía de tórax rutinaria"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 78,
+      "pregunta": "¿Cuál es la edad típica para realizar el test de tamizaje neonatal (cribado metabólico)?",
+      "opciones": {
+        "a": "Opción A: Entre 24–72 horas de vida",
+        "b": "Opción B: A las 2 semanas exclusivamente",
+        "c": "Opción C: A los 6 meses",
+        "d": "Opción D: Al año"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 79,
+      "pregunta": "¿Qué medida reduce la transmisión de virus respiratorios en guarderías?",
+      "opciones": {
+        "a": "Opción A: Higiene de manos y prácticas de control de infecciones",
+        "b": "Opción B: No ventilar las aulas",
+        "c": "Opción C: Uso rutinario de antibióticos",
+        "d": "Opción D: Evitar contacto social siempre"
+      },
+      "respuesta_correcta": "a"
+    }
+  ],
+  "justificaciones": {
+    "1": "La **pinza fina (pincer grasp)**, que involucra el pulgar y el índice, se desarrolla generalmente entre los **9 y 12 meses** de edad, lo que permite al lactante tomar objetos pequeños con precisión. 
+
+[Image of pincer grasp in infant]
+",
+    "2": "Las **vacunas de ARN mensajero (mRNA)**, como las usadas contra el SARS-CoV-2 (COVID-19), pueden contener **polietilenglicol (PEG)** como estabilizador. Una reacción alérgica grave previa al PEG es una contraindicación para estas vacunas.",
+    "3": "La **ictericia que aparece en las primeras 24 horas** de vida es siempre **patológica** (nunca fisiológica) y requiere evaluación urgente de niveles de bilirrubina y, a menudo, **fototerapia inmediata** para prevenir la neurotoxicidad (kernícterus).",
+    "4": "Los signos clásicos de **deshidratación moderada** incluyen ojos hundidos, **fontanela anterior deprimida** y la **ausencia de lágrimas** al llorar, indicando una pérdida de peso de alrededor del 5-10% del peso corporal.",
+    "5": "La **lactancia materna exclusiva** es la recomendación estándar de oro de la $\text{OMS}$ y $\text{AAP}$ para la alimentación del lactante durante los primeros **6 meses** de vida.",
+    "6": "El **cribado neonatal** (prueba del talón o tira de Guthrie) es fundamental para detectar el **hipotiroidismo congénito** mediante la medición de la **TSH** (hormona estimulante de la tiroides) en sangre seca.",
+    "7": "El **Virus Respiratorio Sincitial ($\text{VRS}$)** es, con diferencia, el agente etiológico más común de la **bronquiolitis** en lactantes y niños pequeños.",
+    "8": "La **sepsis neonatal temprana** se manifiesta a menudo con signos inespecíficos de **deterioro**, como **letargia**, dificultad respiratoria, **mala perfusión** y rechazo del alimento.",
+    "9": "La frecuencia respiratoria normal disminuye con la edad. En un lactante (1-12 meses) en reposo, el rango normal oscila aproximadamente entre **30 y 60 respiraciones por minuto (rpm)**.",
+    "10": "El **eritema tóxico neonatal** es una erupción benigna y **transitoria** que aparece en los primeros días de vida y se resuelve espontáneamente sin necesidad de tratamiento.",
+    "11": "La **vacuna oral contra el rotavirus** está incluida en los calendarios de inmunización para prevenir la **gastroenteritis** grave por rotavirus, una causa común de deshidratación en lactantes.",
+    "12": "La $\text{OMS}$ y la $\text{AAP}$ recomiendan la introducción de **alimentos sólidos** complementarios a la lactancia materna **alrededor de los 6 meses** de edad, cuando el niño muestra señales de desarrollo como sostener la cabeza y pérdida del reflejo de extrusión.",
+    "13": "En lactantes (menores de 1 año) con obstrucción completa de la vía aérea, se utiliza una secuencia de **5 golpes interescapulares seguidos de 5 compresiones torácicas**.",
+    "14": "El **íleo meconial**, que causa obstrucción intestinal y **retraso en la evacuación del meconio**, es una manifestación frecuente (aunque no exclusiva) de la **fibrosis quística** en el periodo neonatal.",
+    "15": "La **Escala de Coma de Glasgow Pediátrica** (modificada para niños) es una herramienta estándar para la evaluación y monitorización del **nivel de conciencia y la respuesta neurológica** tras un traumatismo o enfermedad sistémica.",
+    "16": "Los **Agonistas $\text{\beta}$-2 de Acción Corta ($\text{SABA}$)**, como el salbutamol, son el tratamiento de **primera línea** para aliviar el broncoespasmo en una crisis asmática, preferiblemente administrados con una **cámara espaciadora**.",
+    "17": "La **otitis media aguda** se caracteriza por un **tímpano abombado, rojo (eritematoso)**, con **pérdida de la transparencia** y a menudo con limitación de la movilidad.",
+    "18": "Los recién nacidos con **bajo peso para la edad gestacional** tienen un alto riesgo de **hipotermia e hipoglucemia**. La intervención prioritaria es el **monitoreo estricto de temperatura y glucosa** y fomentar la alimentación precoz (lactancia).",
+    "19": "La **fiebre con rigidez de nuca** es un signo de alarma grave que sugiere **meningitis** o meningoencefalitis. Requiere **evaluación urgente** en urgencias y a menudo una **punción lumbar** para el diagnóstico.",
+    "20": "Un **retraso del crecimiento** se diagnostica cuando el niño muestra un **descenso persistente o cruce de dos o más percentiles** en las curvas de crecimiento (o está por debajo del percentil 3/5) para la edad y sexo.",
+    "21": "El test de $\text{Apgar}$ valora la Apariencia (Color), Pulso (Frecuencia cardíaca), Gesto (Irritabilidad), Actividad (Tono muscular) y Respiración (Esfuerzo respiratorio). El **nivel de glucosa NO** forma parte de esta puntuación.",
+    "22": "La causa más frecuente de **diarrea aguda no complicada** en la población pediátrica, especialmente en la comunidad, son los **virus** (Rotavirus, Norovirus, Adenovirus, etc.).",
+    "23": "La recomendación actual es la **rehidratación oral** con **Solución de Rehidratación Oral ($\text{SRO}$)** de baja osmolaridad y la **alimentación habitual** tan pronto como el niño la tolere, evitando el ayuno prolongado.",
+    "24": "La mayoría de las guías de pediatría recomiendan el **cribado universal de anemia** por deficiencia de hierro entre los **9 y 12 meses** de edad, que es el momento de mayor riesgo nutricional.",
+    "25": "Una **derivación izquierda-derecha** (como en $\text{CIV}$ o $\text{PCA}$) produce **sobrecarga de volumen y presión** en la circulación pulmonar, lo que genera **soplos** característicos y puede llevar a **crecimiento excesivo** por el aumento del gasto cardíaco y la insuficiencia cardíaca.",
+    "26": "El **síndrome de aspiración de meconio** ocurre cuando el recién nacido inhala **meconio espeso** presente en el líquido amniótico, generalmente como resultado de un **sufrimiento fetal** agudo o crónico.",
+    "27": "La **buena adaptación neonatal** se caracteriza por un $\text{Apgar}$ adecuado, **respiración regular**, **llanto vigoroso** (buen tono) y la capacidad de mantener la **temperatura corporal**.",
+    "28": "La presentación más común de la **alergia alimentaria IgE mediada** es la **reacción cutánea aguda** (urticaria, angioedema) que aparece a los pocos minutos o hasta dos horas después de la ingestión del alérgeno.",
+    "29": "A los **12 meses**, el niño ya puede dar sus **primeros pasos sin apoyo** o con mínima ayuda y es capaz de decir la **primera palabra suelta** ('mamá', 'papá').",
+    "30": "La **vacuna conjugada neumocócica ($\text{PCV}$)** es la recomendada en el **esquema infantil** para proteger contra la enfermedad neumocócica invasiva, ya que es la que genera una respuesta de memoria adecuada en lactantes.",
+    "31": "La **retracción intercostal** (uso de músculos accesorios) y la **cianosis central** son signos inequívocos de **insuficiencia respiratoria grave** que requieren atención y soporte vital inmediato.",
+    "32": "La causa más común de **ictericia prolongada** (más de 14 días en el recién nacido a término) son las relacionadas con el metabolismo de la bilirrubina, siendo la **ictericia fisiológica exagerada** o la **ictericia por lactancia materna** las más frecuentes.",
+    "33": "La **obesidad infantil** se define en la mayoría de las guías como un **IMC por encima del percentil 95** para la edad, sexo y talla. El sobrepeso es $\text{P}85$ a $\text{P}95$.",
+    "34": "Los **vómitos persistentes con deshidratación** en un lactante requieren **rehidratación oral con $\text{SRO}$** (si es posible) y una **valoración hospitalaria** urgente debido al riesgo de desequilibrio hidroelectrolítico y progresión a deshidratación grave.",
+    "35": "Las **sibilancias ($\text{wheezing}$)** son un **sonido adventicio musical**, típicamente **expiratorio**, producido por el paso forzado del aire a través de vías aéreas estrechadas (ej. broncoespasmo).",
+    "36": "En neonatos y lactantes **menores de 4-6 meses**, la **ecografía de cadera** es el método de elección para evaluar la displasia del desarrollo de cadera, ya que el cartílago es predominante y la radiografía es menos informativa. ",
+    "37": "Los **pliegues cutáneos** se utilizan para una evaluación **rápida y subjetiva de la hidratación** y el tejido adiposo subcutáneo, aunque no es el método primario de cribado para enfermedades específicas.",
+    "38": "La **lactancia materna** (protección inmunológica) y la **vacunación completa** (contra $\text{VRS}$ y neumococo) son las medidas preventivas más importantes y efectivas para reducir la morbilidad y mortalidad por infecciones respiratorias en lactantes.",
+    "39": "Una **convulsión febril simple** es **generalizada**, **breve** (dura menos de 15 minutos) y no se asocia a signos neurológicos persistentes, ocurriendo en el contexto de **fiebre** en un niño sano entre 6 meses y 5 años.",
+    "40": "El **reflejo de succión** y el **reflejo de prensión palmar** son ejemplos de **reflejos primarios** que son parte rutinaria de la exploración neurológica de un lactante sano.",
+    "41": "La **Amoxicilina oral** es el antibiótico de **primera línea** para el tratamiento empírico de la otitis media aguda bacteriana no complicada en niños, por su eficacia, seguridad y espectro.",
+    "42": "La medida más efectiva para prevenir el **Síndrome de Muerte Súbita del Lactante ($\text{SMSL}$)** es colocar al bebé **boca arriba** (supino) para dormir, en un **ambiente seguro** (sin almohadas ni mantas sueltas).",
+    "43": "Una **fractura abierta** es una emergencia quirúrgica. La atención inicial se centra en la **inmovilización**, **cubrir la herida** (limpieza suave) y el **traslado inmediato** a urgencias para desbridamiento y tratamiento.",
+    "44": "El **urocultivo** (obtenido por método apropiado, como sondeo o punción suprapúbica en lactantes) y el **análisis de orina** son fundamentales para el diagnóstico de **infección urinaria**.",
+    "45": "La **enfermedad de Kawasaki** es una vasculitis sistémica infantil. Su diagnóstico requiere **fiebre prolongada ( $\text{> } 5 \text{ días}$)**, acompañada de al menos 4 de 5 criterios: inyección conjuntival bilateral, cambios en labios/boca, eritema/edema en extremidades, exantema, y adenopatía cervical. ",
+    "46": "La **deficiencia de hierro** (anemia ferropénica) se presenta en lactantes con síntomas inespecíficos como **irritabilidad**, **palidez mucocutánea**, y en casos avanzados, **retraso en el desarrollo** o crecimiento.",
+    "47": "El manejo de la **varicela** en un niño sano es **ambulatorio** y se centra en el **aislamiento** (hasta que todas las lesiones estén en costra), el **control sintomático** (fiebre, prurito) y la vigilancia de signos de infección bacteriana secundaria.",
+    "48": "La **ecografía de cadera** es el método de elección para el **cribado** y el diagnóstico de la **Displasia del Desarrollo de Cadera ($\text{DDC}$)** en el periodo neonatal y hasta los 6 meses de edad, ya que el núcleo óseo no está bien desarrollado.",
+    "49": "La **deficiencia de hierro** es, con mucho, la **causa más frecuente** de anemia microcítica (VCM bajo) en la población pediátrica a nivel mundial.",
+    "50": "La combinación de **higiene dental adecuada** (cepillado con pasta fluorada) y el **uso de fluoruro** (barnices, agua fluorada) según las guías pediátricas es la medida más efectiva para la prevención de **caries**.",
+    "51": "Los recién nacidos con **predisposición a hipoglucemia** (ej. hijos de madre diabética) deben ser monitorizados con **glucosa capilar** y se debe promover la **alimentación precoz** para mantener los niveles estables, reservando la perfusión de glucosa para hipoglucemias persistentes o graves.",
+    "52": "La causa más común de la mayoría de los cuadros de **fiebre de origen desconocido** en niños, especialmente preescolares, son las **infecciones virales autolimitadas** o los cuadros comunes que se resuelven antes de la identificación del agente.",
+    "53": "La **espirometría** (medición de volúmenes y flujos pulmonares) con la **prueba broncodilatadora** es la prueba funcional de elección para el diagnóstico de asma en **niños cooperadores (generalmente $\text{> } 5 \text{ años}$)**.",
+    "54": "El **primer diente** en erupcionar suele ser el **incisivo central inferior** alrededor de los **6 meses** de vida, aunque la variabilidad es grande (4 a 12 meses).",
+    "55": "La **hematuria microscópica transitoria** en niños suele ser causada por procesos benignos y comunes, siendo la **infección del tracto urinario ($\text{ITU}$)** (cistitis o pielonefritis) una de las causas infecciosas más frecuentes.",
+    "56": "Las **convulsiones afebriles recurrentes** (epilepsia) o una **convulsión focal** de inicio reciente (que sugiere una lesión cerebral focal) son indicativos de patología neurológica que requiere **evaluación urgente** por neurología pediátrica.",
+    "57": "La **apendicitis aguda** es la **causa más frecuente** de **dolor abdominal agudo quirúrgico** en la infancia, siendo rara en lactantes y más común en niños mayores de 5 años y adolescentes.",
+    "58": "Ante una **intoxicación accidental**, la prioridad es la seguridad y el manejo basado en la sustancia. La conducta inicial es **contactar a un servicio de toxicología** o urgencias para obtener recomendaciones específicas (nunca inducir el vómito sin indicación médica).",
+    "59": "La **bronquiolitis** se presenta típicamente en **menores de 2 años** tras una **infección viral** de vías altas, caracterizándose por **sibilancias generalizadas** (inflamación de bronquiolos) y respuesta limitada a broncodilatadores, a diferencia del asma (que suele tener antecedente atópico y mejor respuesta a $\text{SABA}$).",
+    "60": "La **vacunación DTP** (Difteria, Tétanos y Pertussis) administrada según el **calendario** es la medida preventiva más importante para conferir **inmunidad activa** contra el tétanos en la infancia.",
+    "61": "El **reflujo gastroesofágico fisiológico** es común y se resuelve solo. El manejo se limita a **cambios posturales** (elevar cabecera, evitar excesos) y el **seguimiento**, reservando el tratamiento farmacológico solo para casos con signos de alarma (esofagitis, fallo de medro).",
+    "62": "Aunque puede variar ligeramente según la técnica de medición, la definición práctica de **fiebre** en pediatría es una temperatura corporal central o rectal $\mathbf{\ge 38.0 \degree C}$ o axilar $\mathbf{\ge 37.5 \degree C}$.",
+    "63": "La **hipertensión arterial** en pediatría se define como la **presión arterial sistólica o diastólica (o ambas)** que se encuentra de forma **repetida por encima del percentil 95** para la edad, sexo y talla del adolescente.",
+    "64": "Para la **faringitis estreptocócica**, es crucial **confirmar la infección** (mediante test rápido o cultivo) **antes de iniciar antibióticos** para evitar el uso innecesario y el desarrollo de resistencias, salvo alta sospecha o en protocolos específicos.",
+    "65": "La **inmunidad pasiva** es la transferencia de **anticuerpos preformados** (inmunoglobulinas) de la madre al feto a través de la **placenta** y, después del nacimiento, a través de la **leche materna** (principalmente $\text{IgA}$ secretora).",
+    "66": "La **desnutrición grave** (ej. marasmo, kwashiorkor) es una emergencia médica que requiere **evaluación urgente** y un **tratamiento nutricional especializado** (fases de estabilización y rehabilitación) en un centro hospitalario.",
+    "67": "Las **vacunas vivas atenuadas** (ej. $\text{MMR}$, varicela, rotavirus) **están contraindicadas** en pacientes con **inmunodeficiencia severa** (VIH avanzado, quimioterapia), ya que existe riesgo de que el virus vacunal cause la enfermedad.",
+    "68": "La **fontanela tensa o abombada**, junto con signos de irritabilidad, letargia o prolapso neurológico, son signos de **aumento de la presión intracraneal**, lo que puede ser causado por una **hemorragia intracraneal** en el neonato.",
+    "69": "La **fiebre recurrente periódica** se caracteriza por **episodios de fiebre** que se presentan de forma **cíclica y separada por intervalos de salud** sin que se encuentre una causa infecciosa o autoinmune persistente (ej. $\text{PFAPA}$ síndrome).",
+    "70": "La **prueba de inclinación hacia adelante (Adam)** es la maniobra de exploración física más apropiada para detectar la **gibosidad costal** (joroba) que sugiere la presencia de **escoliosis** en la columna vertebral.",
+    "71": "El **fallo de medro** (no subir de peso adecuadamente) en un lactante es muy frecuente y la causa más común a valorar es un **problema funcional** relacionado con la **técnica de lactancia**, la **frecuencia de tomas** o el **volumen de alimentación**.",
+    "72": "El **retraso en el inicio de la terapia antibiótica apropiada** es el factor que más consistentemente se asocia con un **empeoramiento del pronóstico** y aumento de la morbilidad y mortalidad en la meningitis bacteriana pediátrica.",
+    "73": "La prevención de la **transmisión vertical del VIH** es altamente efectiva y se basa en la **terapia antirretroviral (TARV)** combinada durante el **embarazo** y el parto, junto con la **profilaxis antirretroviral al recién nacido**.",
+    "74": "Los **vómitos biliosos** (de color verde) en el recién nacido son un **signo de alarma** que indica una **obstrucción intestinal por debajo de la ampolla de Vater**. La **malrotación intestinal con vólvulo** es una causa común y una emergencia quirúrgica.",
+    "75": "La **seguridad del niño** es la prioridad absoluta ante la sospecha de **abuso infantil**. Esto implica la **notificación obligatoria** a las autoridades de protección (o servicios sociales) para garantizar su protección.",
+    "76": "La **apendicitis aguda** es la indicación de **cirugía urgente** más común en el abdomen pediátrico. Los signos de **perforación o peritonitis** (dolor a la descompresión, defensa) indican una necesidad de intervención inmediata.",
+    "77": "El **tamizaje neonatal** para **fibrosis quística ($\text{FQ}$)** se realiza midiendo la **tripsina inmunorreactiva ($\text{IRT}$)**. El diagnóstico se confirma posteriormente con el **test del sudor** (cloro en sudor elevado) y/o el estudio genético.",
+    "78": "El **test de tamizaje neonatal** o cribado metabólico se realiza típicamente entre las $\mathbf{24 \text{ y } 72 \text{ horas de vida}}$ para asegurar que el metabolismo se ha iniciado tras la alimentación y obtener resultados fiables.",
+    "79": "La medida más efectiva y básica para controlar la propagación de **virus respiratorios** en cualquier entorno (incluidas guarderías) es la **higiene de manos** rigurosa y las prácticas de control de infecciones (limpieza de superficies, ventilación).",
+  }
+}
