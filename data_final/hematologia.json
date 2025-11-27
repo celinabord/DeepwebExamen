@@ -15,7 +15,7 @@
   {
     "id": 2,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita infundir $15 \, \text{mEq}$ de $\text{KCl}$ en $60$ minutos. Si la ampolla contiene $20 \, \text{mEq/10 \, mL}$, ¿cuál es el volumen del medicamento puro en $\text{mL}$ que se debe cargar?",
+    "pregunta": "Se necesita infundir 15, mEq de KCl en 60 minutos. Si la ampolla contiene 20 , mEq/10 , mL, ¿cuál es el volumen del medicamento puro en mL que se debe cargar?",
     "opciones": {
       "a": "15 mL.",
       "b": "7.5 mL.",
@@ -23,7 +23,7 @@
       "d": "20 mL."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Cálculo: $(15 \, \text{mEq} \times 10 \, \text{mL}) / 20 \, \text{mEq} = 7.5 \, \text{mL}$."
+    "justificacion": "Cálculo: 15 , mEq times 10 , mL 20 , mEq = 7.5, mL."
   },
   {
     "id": 3,
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se administra una infusión de Norepinefrina a $0.05 \, \mu\text{g/kg/min}$ a un paciente de $70 \, \text{kg}$. ¿Cuál es la dosis total por hora en $\text{mg/h}$?",
+    "pregunta": "Se administra una infusión de Norepinefrina a 0.05 ,g/kg/min a un paciente de 70, kg. ¿Cuál es la dosis total por hora en mg/h?",
     "opciones": {
       "a": "0.105 mg/h.",
       "b": "2.1 mg/h.",
@@ -62,7 +62,7 @@
       "d": "0.21 mg/h."
     },
     "respuesta_correcta": "d",
-    "justificacion": "Dosis total por minuto: $0.05 \, \mu\text{g/kg/min} \times 70 \, \text{kg} = 3.5 \, \mu\text{g/min}$. Dosis total por hora: $3.5 \, \mu\text{g/min} \times 60 \, \text{min/h} = 210 \, \mu\text{g/h}$. Convertido a $\text{mg/h}$: $210 \, \mu\text{g/h} / 1000 \, \mu\text{g/mg} = 0.21 \, \text{mg/h}$."
+    "justificacion": "Dosis total por minuto: 0.05,  g/kg/min times 70, kg = 3.5 , g/min. Dosis total por hora: 3.5, g/min times 60, min/h = 210 , g/h. Convertido a mg/h: 210 ,g/h 1000 , g/mg}= 0.21 , mg/h."
   },
   {
     "id": 6,
@@ -93,15 +93,14 @@
   {
     "id": 8,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente requiere $500 \, \text{mL}$ de Solución Fisiológica a pasar en $4$ horas. ¿A cuántas **gotas por minuto** se debe programar el goteo si se utiliza un equipo de macrogoteo (constante $20$ gotas/mL)?",
+    "pregunta": "Un paciente requiere 500 , mL de Solución Fisiológica a pasar en 4 horas. ¿A cuántas **gotas por minuto** se debe programar el goteo si se utiliza un equipo de macrogoteo constante 20 gotas/mL?",
     "opciones": {
       "a": "42 gotas/min.",
       "b": "63 gotas/min.",
       "c": "125 gotas/min.",
       "d": "50 gotas/min."
     },
-    "respuesta_correcta": "a",
-    "justificacion": "Fórmula: Volumen total $\times$ Constante / (Tiempo en minutos). $500 \, \text{mL} \times 20 \, \text{gotas/mL} / (4 \, \text{h} \times 60 \, \text{min/h}) = 10000 / 240 \approx 41.66 \, \text{gotas/min}$. Se redondea a 42 gotas/min."
+    
   },
   {
     "id": 9,
@@ -132,7 +131,7 @@
   {
     "id": 11,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente de $60 \, \text{kg}$ necesita una dosis de $1 \, \text{mg/kg}$ de Propofol. La concentración del vial es de $10 \, \text{mg/mL}$. ¿Cuántos $\text{mL}$ de Propofol se deben administrar en bolo?",
+    "pregunta": "Un paciente de 60 , kg necesita una dosis de 1 , mg/kg de Propofol. La concentración del vial es de 10 , mg/mL. ¿Cuántos mL de Propofol se deben administrar en bolo?",
     "opciones": {
       "a": "6 mL.",
       "b": "10 mL.",
@@ -140,15 +139,14 @@
       "d": "15 mL."
     },
     "respuesta_correcta": "a",
-    "justificacion": "Dosis total requerida: $1 \, \text{mg/kg} \times 60 \, \text{kg} = 60 \, \text{mg}$. Volumen a administrar: $60 \, \text{mg} / 10 \, \text{mg/mL} = 6 \, \text{mL}$."
-  },
+    
   {
     "id": 12,
     "tema": "Leyes de Trasplante / Donante Vivo",
     "pregunta": "Para la **Donación de Órgano en Vida** (ej. un riñón), además del consentimiento informado, el requisito legal y ético fundamental es:",
     "opciones": {
       "a": "Ser de la misma edad que el receptor.",
-      "b": "Ser compatible genéticamente al $100\%$.",
+      "b": "Ser compatible genéticamente al 100%.",
       "c": "Que el donante no sufra ningún riesgo para su vida o salud y que exista una relación de parentesco o judicial.",
       "d": "Tener un grupo sanguíneo ABO idéntico."
     },
@@ -171,7 +169,7 @@
   {
     "id": 14,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Una infusión de Amiodarona ($900 \, \text{mg}$ en $500 \, \text{mL}$) debe pasarse a una velocidad de $0.5 \, \text{mg/min}$. ¿A qué velocidad se debe programar la bomba en $\text{mL/h}$?",
+    "pregunta": "Una infusión de Amiodarona (900 , mg en 500 , mL) debe pasarse a una velocidad de 0.5 , mg/min. ¿A qué velocidad se debe programar la bomba en mL/h?",
     "opciones": {
       "a": "16.7 mL/h.",
       "b": "25.5 mL/h.",
@@ -179,7 +177,7 @@
       "d": "50 mL/h."
     },
     "respuesta_correcta": "a",
-    "justificacion": "Concentración de la dilución: $900 \, \text{mg} / 500 \, \text{mL} = 1.8 \, \text{mg/mL}$. Dosis por hora: $0.5 \, \text{mg/min} \times 60 \, \text{min/h} = 30 \, \text{mg/h}$. Velocidad en $\text{mL/h}$: $30 \, \text{mg/h} / 1.8 \, \text{mg/mL} \approx 16.66 \, \text{mL/h}$."
+    "justificacion": "Concentración de la dilución: 900 , mg 500 , mL = 1.8 , mg/mL. Dosis por hora: 0.5 , mg/min times 60 , {min/h} = 30 ,mg/h. Velocidad en mL/h: 30 , mg/h 1.8 , mg/mL approx 16.66 , mL/h."
   },
   {
     "id": 15,
@@ -210,7 +208,7 @@
   {
     "id": 17,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita pasar $100 \, \text{mL}$ de medicación en $30$ minutos. ¿A qué velocidad se programa la bomba en $\text{mL/h}$?",
+    "pregunta": "Se necesita pasar 100 , mL de medicación en 30 minutos. ¿A qué velocidad se programa la bomba en mL/h?",
     "opciones": {
       "a": "100 mL/h.",
       "b": "150 mL/h.",
@@ -218,7 +216,7 @@
       "d": "300 mL/h."
     },
     "respuesta_correcta": "c",
-    "justificacion": "Velocidad: Volumen total / Tiempo en horas. $100 \, \text{mL} / 0.5 \, \text{h} = 200 \, \text{mL/h}$."
+    "justificacion": "Velocidad: Volumen total / Tiempo en horas. 100 , mL 0.5 , h = 200 , mL/h."
   },
   {
     "id": 18,
@@ -249,7 +247,7 @@
   {
     "id": 20,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se desea preparar una infusión de $500 \, \text{mL}$ de Solución Fisiológica para pasar en $8$ horas. Si el factor de goteo es de $60 \, \text{microgotas/mL}$, ¿cuál es la velocidad de infusión en **microgotas/min**?",
+    "pregunta": "Se desea preparar una infusión de 500, mL de Solución Fisiológica para pasar en 8 horas. Si el factor de goteo es de 60 , microgotas/mL, ¿cuál es la velocidad de infusión en **microgotas/min**?",
     "opciones": {
       "a": "31 microgotas/min.",
       "b": "62.5 microgotas/min.",
@@ -257,8 +255,7 @@
       "d": "100 microgotas/min."
     },
     "respuesta_correcta": "b",
-    "justificacion": "En microgoteo, la velocidad en microgotas/min es igual a la velocidad en $\text{mL/h}$. $500 \, \text{mL} / 8 \, \text{h} = 62.5 \, \text{mL/h} = 62.5 \, \text{microgotas/min}$."
-  },
+    
   {
     "id": 21,
     "tema": "Hematología Crítica / Sangrado",
@@ -301,7 +298,7 @@
   {
     "id": 24,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se ordena administrar $1000 \, \text{mg}$ de un antibiótico. Si el frasco es de $1 \, \text{g}$ y se reconstituye en $10 \, \text{mL}$ de agua destilada, ¿cuántos $\text{mL}$ del vial contendrán la dosis total?",
+    "pregunta": "Se ordena administrar 1000 , mg de un antibiótico. Si el frasco es de 1 , g y se reconstituye en 10 , mL de agua destilada, ¿cuántos mL del vial contendrán la dosis total?",
     "opciones": {
       "a": "1 mL.",
       "b": "5 mL.",
@@ -309,8 +306,7 @@
       "d": "20 mL."
     },
     "respuesta_correcta": "c",
-    "justificacion": "La dosis ordenada ($1000 \, \text{mg}$) es igual a la cantidad en el frasco ($1 \, \text{g}$). Por lo tanto, se utiliza todo el volumen de reconstitución: $10 \, \text{mL}$."
-  },
+  
   {
     "id": 25,
     "tema": "Hematología Crítica / Fibrinógeno",
@@ -329,7 +325,7 @@
   {
     "id": 51,
     "tema": "Hematología Maligna / Urgencia",
-    "pregunta": "¿Cuál es la emergencia hematológica en cuidados críticos caracterizada por **hiperleucocitosis extrema** (generalmente $>100,000/\mu\text{L}$) con riesgo de leucostasis, especialmente en Leucemia Mieloide Aguda?",
+    "pregunta": "¿Cuál es la emergencia hematológica en cuidados críticos caracterizada por **hiperleucocitosis extrema** (generalmente >100,000/L) con riesgo de leucostasis, especialmente en Leucemia Mieloide Aguda?",
     "opciones": {
       "a": "Síndrome de Lisis Tumoral (SLT).",
       "b": "Neutropenia febril.",
@@ -342,7 +338,7 @@
   {
     "id": 52,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita preparar una dilución de Dobutamina para administrar a $10 \, \mu\text{g/kg/min}$. Si el paciente pesa $80 \, \text{kg}$ y la Dobutamina viene en $250 \, \text{mg/20 \, mL}$, ¿cuál es la dosis total a administrar por hora en $\text{mg/h}$?",
+    "pregunta": "Se necesita preparar una dilución de Dobutamina para administrar a 10 , g/kg/min. Si el paciente pesa 80, kg y la Dobutamina viene en 250 , mg/20 , mL, ¿cuál es la dosis total a administrar por hora en $\text{mg/h}$?",
     "opciones": {
       "a": "48 mg/h.",
       "b": "10 mg/h.",
@@ -350,9 +346,7 @@
       "d": "120 mg/h."
     },
     "respuesta_correcta": "a",
-    "justificacion": "Dosis por minuto: $10 \, \mu\text{g/kg/min} \times 80 \, \text{kg} = 800 \, \mu\text{g/min}$. Dosis por hora: $800 \, \mu\text{g/min} \times 60 \, \text{min/h} = 48000 \, \mu\text{g/h}$. Convertido a $\text{mg/h}$: $48000 \, \mu\text{g/h} / 1000 \, \mu\text{g/mg} = 48 \, \text{mg/h}$."
-  },
-  {
+    
     "id": 53,
     "tema": "Leyes de Trasplante / Bioética",
     "pregunta": "La **Confidencialidad y Anonimato** en la donación de órganos (excluyendo el donante vivo) se establece legalmente para proteger:",
@@ -381,7 +375,7 @@
   {
     "id": 55,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se indican $400 \, \text{mg}$ de un fármaco endovenoso en $250 \, \text{mL}$ de $\text{Dextrosa al } 5\%$. La concentración final de la dilución es de:",
+    "pregunta": "Se indican 400 , mg de un fármaco endovenoso en 250, mL de Dextrosa al 5%. La concentración final de la dilución es de:",
     "opciones": {
       "a": "1.6 mg/mL.",
       "b": "0.4 mg/mL.",
@@ -389,7 +383,7 @@
       "d": "1.6 g/mL."
     },
     "respuesta_correcta": "a",
-    "justificacion": "Cálculo: $400 \, \text{mg} / 250 \, \text{mL} = 1.6 \, \text{mg/mL}$."
+    "justificacion": "Cálculo: 400 , mg 250 , mL = 1.6 ,mg/mL}."
   },
   {
     "id": 56,
@@ -420,7 +414,7 @@
   {
     "id": 58,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita administrar una dosis de $1 \, \text{g}$ de Vancomicina diluida en $200 \, \text{mL}$ de solución para pasar en $120$ minutos. ¿Cuál es la velocidad de infusión en $\text{mL/h}$?",
+    "pregunta": "Se necesita administrar una dosis de 1 , g de Vancomicina diluida en 200 , mL de solución para pasar en 120 minutos. ¿Cuál es la velocidad de infusión en mL/h?",
     "opciones": {
       "a": "60 mL/h.",
       "b": "100 mL/h.",
@@ -428,7 +422,7 @@
       "d": "200 mL/h."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Tiempo en horas: $120 \, \text{min} / 60 \, \text{min/h} = 2 \, \text{h}$. Velocidad: $200 \, \text{mL} / 2 \, \text{h} = 100 \, \text{mL/h}$."
+    "justificacion": "Tiempo en horas: 120 , min / 60 , min/h = 2 , h. Velocidad: 200, mL / 2 , h = 100 , mL/h."
   },
   {
     "id": 59,
@@ -446,7 +440,7 @@
   {
     "id": 60,
     "tema": "Hematología Crítica / Anticoagulación",
-    "pregunta": "En un paciente con insuficiencia renal grave ($ \text{CrCl} < 30 \, \text{mL/min}$) que requiere anticoagulación por Fibrilación Auricular, ¿cuál anticoagulante oral de acción directa (DOAC) requiere ajuste o está contraindicado?",
+    "pregunta": "En un paciente con insuficiencia renal grave (CrCl < 30 , mL/min) que requiere anticoagulación por Fibrilación Auricular, ¿cuál anticoagulante oral de acción directa (DOAC) requiere ajuste o está contraindicado?",
     "opciones": {
       "a": "Warfarina.",
       "b": "Dabigatrán y Rivaroxabán.",
@@ -459,7 +453,7 @@
   {
     "id": 61,
     "tema": "Cálculo de Medicación",
-    "pregunta": "La dosis de carga de un fármaco es $10 \, \text{mg/kg}$. El vial viene en $500 \, \text{mg}$ diluidos en $20 \, \text{mL}$. Si el paciente pesa $50 \, \text{kg}$, ¿cuántos $\text{mL}$ se deben administrar?",
+    "pregunta": "La dosis de carga de un fármaco es 10 , mg/kg. El vial viene en 500 , mg diluidos en 20 , mL. Si el paciente pesa 50 ,kg, ¿cuántos mL se deben administrar?",
     "opciones": {
       "a": "10 mL.",
       "b": "20 mL.",
@@ -467,8 +461,7 @@
       "d": "15 mL."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Dosis total requerida: $10 \, \text{mg/kg} \times 50 \, \text{kg} = 500 \, \text{mg}$. El vial tiene $500 \, \text{mg}$ en $20 \, \text{mL}$. Por lo tanto, se administran $20 \, \text{mL}$."
-  },
+
   {
     "id": 62,
     "tema": "Hematología Maligna / SLT",
@@ -506,15 +499,13 @@
       "d": "Albúmina al 20%."
     },
     "respuesta_correcta": "c",
-    "justificacion": "Los GRC son el tratamiento estándar para corregir la anemia y mejorar la capacidad de transporte de oxígeno, lo cual es crucial en el shock hemorrágico. 
+    
 
-[Image of bags of blood products]
-"
   },
   {
     "id": 65,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Una bomba de infusión está programada a $125 \, \text{mL/h}$. Si la concentración de la droga es de $4 \, \text{mg/mL}$, ¿cuántos $\text{mg}$ de droga recibirá el paciente en $2$ horas?",
+    "pregunta": "Una bomba de infusión está programada a 125 , mL/h. Si la concentración de la droga es de 4 , mg/mL, ¿cuántos mg de droga recibirá el paciente en 2 horas?",
     "opciones": {
       "a": "250 mg.",
       "b": "500 mg.",
@@ -522,8 +513,7 @@
       "d": "125 mg."
     },
     "respuesta_correcta": "c",
-    "justificacion": "Volumen total: $125 \, \text{mL/h} \times 2 \, \text{h} = 250 \, \text{mL}$. Dosis total: $250 \, \text{mL} \times 4 \, \text{mg/mL} = 1000 \, \text{mg}$."
-  },
+    
   {
     "id": 66,
     "tema": "Leyes de Trasplante / Mantenimiento",
@@ -542,7 +532,7 @@
     "tema": "Hematología Crítica / TALP",
     "pregunta": "La principal indicación de la transfusión de plaquetas en un paciente con **Púrpura Trombocitopénica Trombótica (PTT)** es:",
     "opciones": {
-      "a": "Recuento de plaquetas $<100,000/\mu\text{L}$ de rutina.",
+      "a": "Recuento de plaquetas <100,000/L de rutina.",
       "b": "Como tratamiento de primera línea.",
       "c": "Está contraindicada, excepto en caso de hemorragia cerebral o potencialmente mortal.",
       "d": "Solo si la ADAMTS13 es normal."
@@ -553,7 +543,7 @@
   {
     "id": 68,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Una enfermera debe administrar $150 \, \text{mg}$ de un antibiótico. La concentración de la solución es de $50 \, \text{mg/mL}$. ¿Qué volumen en $\text{mL}$ debe extraer?",
+    "pregunta": "Una enfermera debe administrar 150 , mg de un antibiótico. La concentración de la solución es de 50 , mg/mL. ¿Qué volumen en mL debe extraer?",
     "opciones": {
       "a": "1.5 mL.",
       "b": "3 mL.",
@@ -561,7 +551,7 @@
       "d": "10 mL."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Cálculo: $150 \, \text{mg} / 50 \, \text{mg/mL} = 3 \, \text{mL}$."
+    "justificacion": "Cálculo: 150 , mg / 50 , mg/mL = 3 , {mL}."
   },
   {
     "id": 69,
@@ -592,7 +582,7 @@
   {
     "id": 71,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se infunde Clindamicina $600 \, \text{mg}$ en $100 \, \text{mL}$ a $50 \, \text{mL/h}$. ¿Cuánto tiempo tardará en pasar la dosis total?",
+    "pregunta": "Se infunde Clindamicina 600 , mg en 100 , mL a 50 , mL/h. ¿Cuánto tiempo tardará en pasar la dosis total?",
     "opciones": {
       "a": "60 minutos (1 hora).",
       "b": "120 minutos (2 horas).",
@@ -600,7 +590,7 @@
       "d": "45 minutos (0.75 horas)."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Tiempo: Volumen total / Velocidad de infusión. $100 \, \text{mL} / 50 \, \text{mL/h} = 2 \, \text{horas}$ o $120 \, \text{minutos}$."
+    "justificacion": "Tiempo: Volumen total / Velocidad de infusión. 100 , mL/ 50 , mL/h = 2 , horas o 120 , minutos."
   },
   {
     "id": 72,
@@ -631,7 +621,7 @@
   {
     "id": 74,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se indica $20 \, \text{mEq}$ de $\text{Bicarbonato de Sodio}$ en bolo. Si la ampolla contiene $1 \, \text{mEq/mL}$ y tiene $50 \, \text{mL}$, ¿qué volumen se debe administrar?",
+    "pregunta": "Se indica 20 , mEq de Bicarbonato de Sodio en bolo. Si la ampolla contiene 1 , mEq/mL y tiene 50 , {mL}, ¿qué volumen se debe administrar?",
     "opciones": {
       "a": "2 mL.",
       "b": "20 mL.",
@@ -639,7 +629,7 @@
       "d": "50 mL."
     },
     "respuesta_correcta": "b",
-    "justificacion": "El paciente necesita $20 \, \text{mEq}$. La ampolla tiene una concentración de $1 \, \text{mEq/mL}$. Por lo tanto, se administran $20 \, \text{mEq} / 1 \, \text{mEq/mL} = 20 \, \text{mL}$."
+    "justificacion": "El paciente necesita 20 , mEq. La ampolla tiene una concentración de 1 , mEq/mL. Por lo tanto, se administran 20 , mEq / 1, mEq/mL = 20 , mL."
   },
   {
     "id": 75,
@@ -672,7 +662,7 @@
   {
     "id": 77,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita administrar $0.1 \, \text{mg/kg}$ de un relajante muscular. El paciente pesa $90 \, \text{kg}$ y la ampolla contiene $10 \, \text{mg/mL}$. ¿Qué volumen en $\text{mL}$ se debe administrar?",
+    "pregunta": "Se necesita administrar 0.1 , mg/kg de un relajante muscular. El paciente pesa 90, kg y la ampolla contiene 10 , mg/mL. ¿Qué volumen en mL se debe administrar?",
     "opciones": {
       "a": "0.9 mL.",
       "b": "9 mL.",
@@ -680,8 +670,7 @@
       "d": "0.09 mL."
     },
     "respuesta_correcta": "a",
-    "justificacion": "Dosis total requerida: $0.1 \, \text{mg/kg} \times 90 \, \text{kg} = 9 \, \text{mg}$. Volumen a administrar: $9 \, \text{mg} / 10 \, \text{mg/mL} = 0.9 \, \text{mL}$."
-  },
+  
   {
     "id": 78,
     "tema": "Leyes de Trasplante / Rechazo",
@@ -711,7 +700,7 @@
   {
     "id": 80,
     "tema": "Cálculo de Medicación",
-    "pregunta": "La dosis de infusión de Heparina Sódica es de $2000 \, \text{unidades/h}$. La concentración de la dilución es de $25000 \, \text{unidades}$ en $250 \, \text{mL}$. ¿A qué velocidad se programa la bomba en $\text{mL/h}$?",
+    "pregunta": "La dosis de infusión de Heparina Sódica es de 2000 , unidades/h. La concentración de la dilución es de 25000 , unidades en 250 , mL. ¿A qué velocidad se programa la bomba en mL/h?",
     "opciones": {
       "a": "10 mL/h.",
       "b": "20 mL/h.",
@@ -719,7 +708,7 @@
       "d": "15 mL/h."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Concentración: $25000 \, \text{unidades} / 250 \, \text{mL} = 100 \, \text{unidades/mL}$. Velocidad: $2000 \, \text{unidades/h} / 100 \, \text{unidades/mL} = 20 \, \text{mL/h}$."
+    "justificacion": "Concentración: 25000 ,unidades/ 250 , mL = 100 , unidades/mL. Velocidad: 2000 , unidades/h/ 100 , unidades/mL = 20 , mL/h."
   },
   {
     "id": 81,
@@ -750,7 +739,7 @@
   {
     "id": 83,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se deben pasar $100 \, \text{mL}$ de un antibiótico en $45$ minutos. ¿Cuál es la velocidad de infusión en $\text{mL/h}$?",
+    "pregunta": "Se deben pasar 100 , mL de un antibiótico en 45 minutos. ¿Cuál es la velocidad de infusión en mL/h?",
     "opciones": {
       "a": "100 mL/h.",
       "b": "133 mL/h.",
@@ -758,8 +747,7 @@
       "d": "150 mL/h."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Tiempo en horas: $45 \, \text{min} / 60 \, \text{min/h} = 0.75 \, \text{h}$. Velocidad: $100 \, \text{mL} / 0.75 \, \text{h} \approx 133.33 \, \text{mL/h}$."
-  },
+    
   {
     "id": 84,
     "tema": "Leyes de Trasplante / Donación Pediátrica",
@@ -789,7 +777,7 @@
   {
     "id": 86,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se diluyen $2 \, \text{g}$ de una droga en $100 \, \text{mL}$ de $\text{Dextrosa al } 5\%$. ¿Cuántos $\text{mg/mL}$ tiene la dilución?",
+    "pregunta": "Se diluyen 2 , g de una droga en 100 , mL de Dextrosa a 5%. ¿Cuántos mg/mL tiene la dilución?",
     "opciones": {
       "a": "2 mg/mL.",
       "b": "20 mg/mL.",
@@ -797,8 +785,7 @@
       "d": "10 mg/mL."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Cálculo: $2 \, \text{g} = 2000 \, \text{mg}$. Concentración: $2000 \, \text{mg} / 100 \, \text{mL} = 20 \, \text{mg/mL}$."
-  },
+
   {
     "id": 87,
     "tema": "Leyes de Trasplante / Tráfico",
@@ -823,15 +810,12 @@
       "d": "Inhibidores directos de la trombina."
     },
     "respuesta_correcta": "c",
-    "justificacion": "La hemólisis autoinmune se trata suprimiendo la respuesta inmune que destruye los glóbulos rojos. Los glucocorticoides son la base del tratamiento, a menudo combinados con IgIV en casos graves. 
-
-[Image of Coombs test result]
-"
+  
   },
   {
     "id": 89,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente de $100 \, \text{kg}$ requiere $5 \, \mu\text{g/kg/min}$ de Dopamina. La dilución es de $400 \, \text{mg}$ en $250 \, \text{mL}$. ¿A qué velocidad en $\text{mL/h}$ se debe programar la bomba?",
+    "pregunta": "Un paciente de 100 , kg requiere 5 , g/kg/min de Dopamina. La dilución es de 400 , mg en 250 , mL. ¿A qué velocidad en mL/h se debe programar la bomba?",
     "opciones": {
       "a": "18.75 mL/h.",
       "b": "25 mL/h.",
@@ -839,7 +823,6 @@
       "d": "50 mL/h."
     },
     "respuesta_correcta": "a",
-    "justificacion": "1. Concentración: $400 \, \text{mg} / 250 \, \text{mL} = 1.6 \, \text{mg/mL} = 1600 \, \mu\text{g/mL}$. 2. Dosis por minuto: $5 \, \mu\text{g/kg/min} \times 100 \, \text{kg} = 500 \, \mu\text{g/min}$. 3. Dosis por hora: $500 \, \mu\text{g/min} \times 60 \, \text{min/h} = 30000 \, \mu\text{g/h}$. 4. Velocidad: $30000 \, \mu\text{g/h} / 1600 \, \mu\text{g/mL} = 18.75 \, \text{mL/h}$."
   },
   {
     "id": 90,
@@ -878,8 +861,7 @@
       "d": "240 mL."
     },
     "respuesta_correcta": "a",
-    "justificacion": "Gotas totales: $10 \, \text{gotas/min} \times 60 \, \text{min/h} \times 3 \, \text{h} = 1800 \, \text{gotas}$. Volumen total: $1800 \, \text{gotas} / 20 \, \text{gotas/mL} = 90 \, \text{mL}$."
-  },
+},
   {
     "id": 93,
     "tema": "Leyes de Trasplante / Cuidado Post-Ablación",
@@ -909,7 +891,7 @@
   {
     "id": 95,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se administra Meropenem $1 \, \text{g}$ en $100 \, \text{mL}$ a pasar en $30$ minutos. ¿Cuántos $\text{mg}$ de droga se están pasando por minuto?",
+    "pregunta": "Se administra Meropenem 1 , g en 100 , mL a pasar en 30 minutos. ¿Cuántos mg de droga se están pasando por minuto?",
     "opciones": {
       "a": "16.6 mg/min.",
       "b": "33.3 mg/min.",
@@ -917,8 +899,7 @@
       "d": "25 mg/min."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Dosis total: $1 \, \text{g} = 1000 \, \text{mg}$. Tiempo: $30 \, \text{min}$. Dosis por minuto: $1000 \, \text{mg} / 30 \, \text{min} \approx 33.33 \, \text{mg/min}$."
-  },
+ },
   {
     "id": 96,
     "tema": "Leyes de Trasplante / Lista de Espera",
@@ -937,21 +918,18 @@
     "tema": "Hematología Crítica / Transfusión",
     "pregunta": "El objetivo de hemoglobina (Hb) típicamente buscado en un paciente crítico hemodinámicamente estable sin enfermedad coronaria activa es:",
     "opciones": {
-      "a": "Hb $>10 \, \text{g/dL}$.",
-      "b": "Hb de 7 a 8 \, \text{g/dL}.",
-      "c": "Hb $>12 \, \text{g/dL}$.",
-      "d": "Hb $<6 \, \text{g/dL}$. "
+      "a": "Hb >10 , g/dL.",
+      "b": "Hb de 7 a 8 , g/dL.",
+      "c": "Hb $>12 , g/dL.",
+      "d": "Hb <6 , g/dL. "
     },
     "respuesta_correcta": "b",
-    "justificacion": "Múltiples estudios (TRICC, FOCUS) han demostrado que una estrategia transfusional restrictiva (Hb objetivo 7-8 g/dL) es tan o más segura que una liberal en pacientes críticos estables, reduciendo el riesgo de complicaciones asociadas a la transfusión. 
 
-[Image of blood transfusion bag]
-"
   },
   {
     "id": 98,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se deben administrar $20 \, \text{unidades}$ de insulina. Si la jeringa tiene una capacidad de $100 \, \text{unidades/mL}$, ¿qué volumen en $\text{mL}$ se debe cargar?",
+    "pregunta": "Se deben administrar 20 , unidades de insulina. Si la jeringa tiene una capacidad de 100 , unidades/mL, ¿qué volumen en mL se debe cargar?",
     "opciones": {
       "a": "0.1 mL.",
       "b": "0.2 mL.",
@@ -959,7 +937,6 @@
       "d": "1.0 mL."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La concentración es de $100 \, \text{unidades/mL}$. Volumen: $20 \, \text{unidades} / 100 \, \text{unidades/mL} = 0.2 \, \text{mL}$."
   },
   {
     "id": 99,
