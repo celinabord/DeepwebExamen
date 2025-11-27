@@ -1,7 +1,1211 @@
-[
-  {"question":"Cuál es la presentación clínica clásica de fractura de clavícula neonatal?","options":["Falta de movimiento del miembro superior, crepitación y tumoración local","Pérdida auditiva","Ictericia persistente","Convulsiones"],"answer":0},
-  {"question":"En traumatismo infantil con sospecha de fractura inguinal o femoral, la conducta inicial es:","options":["Inmovilización y analgesia, evaluación por ortopedia", "Administrar antibióticos y alta", "Dar masaje vigoroso", "Continuar actividad normal"],"answer":0},
-  {"question":"Cuál es la causa más frecuente de dolor de rodilla en adolescentes atletas?","options":["Síndrome de dolor patelofemoral (sobreuso)","Fractura abierta siempre","Infección sistémica exclusiva","Tumor óseo frecuente"],"answer":0},
-  {"question":"La luxación de cadera en lactantes se detecta mejor con:","options":["Ecografía de cadera en neonatos y hasta ~6 meses","Radiografía en recién nacidos de 1 día de vida", "Resonancia magnética de rutina","Test genético"],"answer":0},
-  {"question":"La causa más frecuente de pie plano flexible en niños es:","options":["Desarrollo anatómico normal y laxitud ligamentosas", "Lesión aguda con edema significativo", "Malformación congénita grave", "Infección"],"answer":0}
-]
+ {
+  "titulo_examen": "Examen Integral de Ortopedia y Traumatología en Cuidados Críticos (Neonatal, Pediátrico y Adulto)",
+  "instrucciones": "Seleccione la única opción correcta. Las justificaciones y cálculos detallados se encuentran al final del examen.",
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "Paciente adulto de 45 años ingresa a la UCI con $\\text{Shock}$ grado $\\text{III}$ secundario a fractura abierta de pelvis $\\text{Tile C}$. Se confirma sangrado activo venoso. La medida de control de daños más inmediata y efectiva, posterior a la estabilización inicial, es:",
+      "opciones": {
+        "a": "Opción A: Embolización arterial selectiva urgente",
+        "b": "Opción B: Fijación externa de pelvis",
+        "c": "Opción C: Laparotomía exploradora",
+        "d": "Opción D: Colocación de un balón de oclusión aórtica de reanimación ($\text{REBOA}$)"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 2,
+      "pregunta": "Llega a urgencias un niño de 6 años con trauma de alta energía en rodilla y signos de isquemia distal (dolor, palidez, pulso ausente). Se diagnostica luxación de rodilla con posible lesión de la arteria poplítea. ¿Cuál es el paso más urgente?",
+      "opciones": {
+        "a": "Opción A: Angiografía urgente para evaluar la lesión",
+        "b": "Opción B: Reducción cerrada inmediata de la luxación",
+        "c": "Opción C: Inicio de anticoagulación sistémica",
+        "d": "Opción D: Medición de presiones compartimentales"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 3,
+      "pregunta": "Neonato de 2 días de vida presenta fractura de clavícula no desplazada tras parto distócico. ¿Cuál es el manejo inicial apropiado?",
+      "opciones": {
+        "a": "Opción A: Inmovilización con vendaje en ocho",
+        "b": "Opción B: Cabestrillo por $\\text{4}$ semanas",
+        "c": "Opción C: Inmovilización simple (manga de camisa/fijación al pecho) y manejo del dolor",
+        "d": "Opción D: Reducción abierta y osteosíntesis"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 4,
+      "pregunta": "Paciente adulto de $\\text{70 kg}$ con $\\text{Shock}$ séptico requiere infusión de Norepinefrina a $\\text{0.1 mcg/kg/min}$. Si la presentación de la Norepinefrina es de $\\text{4 mg}$ en $\\text{250 mL}$ de suero salino, ¿a qué velocidad de infusión ($\text{mL/h}$) debe programarse la bomba?",
+      "opciones": {
+        "a": "Opción A: $\\text{2.625 mL/h}$",
+        "b": "Opción B: $\\text{10.5 mL/h}$",
+        "c": "Opción C: $\\text{4.2 mL/h}$",
+        "d": "Opción D: $\\text{6.85 mL/h}$"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 5,
+      "pregunta": "Un paciente con traumatismo craneoencefálico grave y $\\text{Glasgow 4}$ es candidato potencial a donación de órganos si fallece. Según la legislación general de trasplantes, ¿qué principio bioético rige el proceso de obtención de órganos?",
+      "opciones": {
+        "a": "Opción A: Principio de beneficencia sin considerar autonomía",
+        "b": "Opción B: Consentimiento presunto (si la ley lo permite) y gratuidad",
+        "c": "Opción C: Venta y distribución al mejor postor",
+        "d": "Opción D: Prioridad absoluta al estatus social del receptor"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 6,
+      "pregunta": "Paciente politraumatizado $\\text{AO}$ con $\\text{TISS 4}$ y fractura de fémur (Gustilo $\\text{IIIb}$) presenta $\\text{TETANUS}$ como parte de su profilaxis. Si el paciente pesa $\\text{80 kg}$, ¿qué dosis de $\\text{Inmunoglobulina Antitetánica}$ se debe administrar ($\text{UI}$)?",
+      "opciones": {
+        "a": "Opción A: $\\text{250 UI}$ independiente del peso",
+        "b": "Opción B: $\\text{500 UI}$ independiente del peso",
+        "c": "Opción C: $\\text{100 UI/kg}$",
+        "d": "Opción D: $\\text{50 UI/kg}$"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 7,
+      "pregunta": "Un paciente pediátrico de 8 años ingresa a la $\\text{UCI}$ con sospecha de $\\text{Síndrome Compartimental Agudo}$ en la pierna. El diagnóstico se confirma midiendo una $\\text{Presión Compartimental}$ de $\\text{45 mmHg}$ y una $\\text{Presión Diastólica}$ de $\\text{60 mmHg}$. ¿Cuál es el tratamiento quirúrgico urgente de elección?",
+      "opciones": {
+        "a": "Opción A: Reducción abierta y fijación interna de la fractura",
+        "b": "Opción B: Aplicación de hielo y elevación de la extremidad",
+        "c": "Opción C: Fasciectomía de urgencia",
+        "d": "Opción D: Amputación distal"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 8,
+      "pregunta": "Durante la reanimación de un paciente traumatizado con $\\text{Shock}$ hipovolémico masivo, ¿qué proporción de hemoderivados $(\\text{GR:Plasma:Plaquetas})$ es recomendada en la fase inicial del $\\text{Damage Control Resuscitation}$?",
+      "opciones": {
+        "a": "Opción A: $\\text{1:1:1}$",
+        "b": "Opción B: $\\text{2:1:1}$",
+        "c": "Opción C: $\\text{4:2:1}$",
+        "d": "Opción D: $\\text{1:0:0}$ (Solo Glóbulos Rojos)"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 9,
+      "pregunta": "Paciente politraumatizado $\\text{AO}$ ingresa con fractura de fémur, $\\text{TCE}$ moderado y $\\text{Shock}$ hemorrágico. Se opta por $\\text{Control de Daños}$ ortopédico. ¿Cuál es la principal indicación de la $\\text{Fijación Externa}$ en este contexto?",
+      "opciones": {
+        "a": "Opción A: Permitir la deambulación temprana",
+        "b": "Opción B: Reducir la pérdida de sangre, el dolor y la embolia grasa",
+        "c": "Opción C: Lograr una reducción anatómica definitiva",
+        "d": "Opción D: Disminuir el riesgo de infección de la herida"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 10,
+      "pregunta": "Neonatal de $\\text{3 kg}$ requiere $\\text{Fentanilo}$ para sedación a $\\text{1 mcg/kg/h}$. La presentación es de $\\text{50 mcg/mL}$. Para infundir $\\text{1 mcg/kg/h}$, ¿cuántos $\\text{mL/h}$ de la presentación pura se deben administrar?",
+      "opciones": {
+        "a": "Opción A: $\\text{0.03 mL/h}$",
+        "b": "Opción B: $\\text{0.06 mL/h}$",
+        "c": "Opción C: $\\text{0.15 mL/h}$",
+        "d": "Opción D: $\\text{0.01 mL/h}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 11,
+      "pregunta": "La muerte cerebral, necesaria para la donación de órganos, se define por:",
+      "opciones": {
+        "a": "Opción A: $\\text{Glasgow}$ de $\\text{3}$ y $\\text{EEG}$ plano por $\\text{30}$ minutos",
+        "b": "Opción B: Cese irreversible de todas las funciones del $\\text{tronco encefálico}$ y $\\text{hemisferios}$ cerebrales, confirmado por protocolo",
+        "c": "Opción C: Ausencia de $\\text{reflejo pupilar}$ y $\\text{apnea}$ prolongada",
+        "d": "Opción D: $\\text{Shock}$ refractario a vasopresores y $\\text{oliguria}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 12,
+      "pregunta": "En un paciente con fractura de cadera y $\\text{TEC}$ grave, el manejo prioritario en la $\\text{UCI}$ es la prevención del $\\text{Síndrome de Embolia Grasa}$ ($\text{SEG}$). ¿Cuál es la medida preventiva más efectiva para reducir el riesgo de $\\text{SEG}$ por la fractura?",
+      "opciones": {
+        "a": "Opción A: Uso de heparina de bajo peso molecular",
+        "b": "Opción B: Fluidoterapia agresiva con cristaloides",
+        "c": "Opción C: Inmovilización temprana y estable de la fractura",
+        "d": "Opción D: Administración de corticoides a dosis altas"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 13,
+      "pregunta": "Paciente pediátrico de $\\text{12}$ años ingresa por $\\text{TEC}$ grave y se le diagnostica fractura-luxación cervical $\\text{C5-C6}$. El $\\text{Shock}$ asociado a esta lesión medular aguda se denomina:",
+      "opciones": {
+        "a": "Opción A: Shock obstructivo",
+        "b": "Opción B: Shock cardiogénico",
+        "c": "Opción C: Shock neurógeno",
+        "d": "Opción D: Shock séptico"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 14,
+      "pregunta": "Paciente en $\\text{Shock}$ hipovolémico por fracturas pélvicas masivas requiere $\\text{Ácido Tranexámico}$ ($\text{ATX}$). Si la dosis inicial es de $\\text{1 gramo}$ en bolo en $\\text{10}$ minutos, seguido de $\\text{1 gramo}$ en infusión en $\\text{8}$ horas. ¿Cuál es el beneficio primario del $\\text{ATX}$ en este escenario?",
+      "opciones": {
+        "a": "Opción A: Activar la vía extrínseca de la coagulación",
+        "b": "Opción B: Estabilizar el coágulo previniendo la fibrinólisis",
+        "c": "Opción C: Revertir los efectos de los anticoagulantes orales",
+        "d": "Opción D: Aumentar la presión arterial media"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 15,
+      "pregunta": "Según las guías de $\\text{ATLS}$, ¿cuál es el diagnóstico que se debe descartar inmediatamente en un paciente politraumatizado con disnea, $\\text{Shock}$ y $\\text{Trauma Torácico}$ cerrado?",
+      "opciones": {
+        "a": "Opción A: Contusión pulmonar",
+        "b": "Opción B: Neumotórax a tensión",
+        "c": "Opción C: Fractura de costillas no desplazada",
+        "d": "Opción D: Hernia diafragmática"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 16,
+      "pregunta": "Paciente con $\\text{TCE}$ grave en $\\text{UCI}$ es valorado para posible donación de órganos. ¿Cuál es una contraindicación absoluta para la donación?",
+      "opciones": {
+        "a": "Opción A: Edad superior a $\\text{65}$ años",
+        "b": "Opción B: $\\text{Hipertensión Arterial}$ crónica",
+        "c": "Opción C: Sepsis no controlada con bacterias resistentes",
+        "d": "Opción D: Trasplante previo de riñón"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 17,
+      "pregunta": "En el tratamiento de una fractura abierta $\\text{Gustilo IIIc}$ (con lesión vascular) en un paciente $\\text{crítico}$, ¿qué factor es el principal determinante para la decisión entre $\\text{Salvamento}$ de la extremidad o $\\text{Amputación}$?",
+      "opciones": {
+        "a": "Opción A: Presencia de un nervio funcional distal",
+        "b": "Opción B: Nivel de la fractura",
+        "c": "Opción C: Tiempo de isquemia cálida ( $>6$ horas es crítico)",
+        "d": "Opción D: Costo del procedimiento de salvamento"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 18,
+      "pregunta": "Paciente pediátrico de $\\text{15 kg}$ con quemaduras requiere sedación con $\\text{Midazolam}$ a $\\text{50 mcg/kg/h}$. Si la dilución es $\\text{5 mg}$ en $\\text{100 mL}$ de $\\text{Dextrosa 5%}$, ¿a qué velocidad de infusión ($\text{mL/h}$) debe programarse la bomba?",
+      "opciones": {
+        "a": "Opción A: $\\text{1.5 mL/h}$",
+        "b": "Opción B: $\\text{7.5 mL/h}$",
+        "c": "Opción C: $\\text{15 mL/h}$",
+        "d": "Opción D: $\\text{30 mL/h}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 19,
+      "pregunta": "Una fractura de $\\text{Hueso Largo}$ en un niño de $\\text{4}$ años, cuando está indicada la $\\text{Fijación Externa}$ temporal en $\\text{UCI}$ para $\\text{Control de Daños}$, ¿cuál es la principal ventaja sobre la $\\text{Fijación Interna}$ inmediata?",
+      "opciones": {
+        "a": "Opción A: Evitar la contaminación de la herida",
+        "b": "Opción B: Disminuir el tiempo operatorio y la agresión fisiológica ('second hit')",
+        "c": "Opción C: Ser el tratamiento definitivo para el cartílago de crecimiento",
+        "d": "Opción D: Menor costo del implante"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 20,
+      "pregunta": "Paciente adulto de $\\text{90 kg}$ con $\\text{TEC}$ y trauma torácico requiere un goteo de $\\text{Propofol}$. La dilución es $\\text{1000 mg}$ en $\\text{100 mL}$. Si la dosis deseada es de $\\text{50 mcg/kg/min}$, ¿cuántos $\\text{mL/h}$ se deben infundir?",
+      "opciones": {
+        "a": "Opción A: $\\text{13.5 mL/h}$",
+        "b": "Opción B: $\\text{27 mL/h}$",
+        "c": "Opción C: $\\text{54 mL/h}$",
+        "d": "Opción D: $\\text{8.1 mL/h}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 21,
+      "pregunta": "La fractura de $\\text{vértebra}$ por $\\text{flexión-distracción}$ (ej. por accidente de coche con cinturón de seguridad de dos puntos) se clasifica en el $\\text{AO-Spine}$ como:",
+      "opciones": {
+        "a": "Opción A: Lesión tipo $\\text{A}$ (compresión)",
+        "b": "Opción B: Lesión tipo $\\text{B}$ (distracción)",
+        "c": "Opción C: Lesión tipo $\\text{C}$ (rotacional)",
+        "d": "Opción D: Lesión tipo $\\text{D}$ (shear)"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 22,
+      "pregunta": "En el marco de la donación post-muerte, ¿qué ley establece la $\\text{irreversibilidad}$ de la muerte cerebral como requisito legal y ético para la extracción de órganos?",
+      "opciones": {
+        "a": "Opción A: Ley de Maternidad Subrogada",
+        "b": "Opción B: Ley General de Salud y Bioética (o equivalente local de trasplantes)",
+        "c": "Opción C: Ley de Inmunización Obligatoria",
+        "d": "Opción D: Ley de Derechos del Consumidor"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 23,
+      "pregunta": "La complicación $\\text{más}$ temida y $\\text{mortal}$ en las primeras $\\text{48-72}$ horas tras un $\\text{politraumatismo grave}$ con múltiples fracturas de huesos largos es:",
+      "opciones": {
+        "a": "Opción A: Osteomielitis crónica",
+        "b": "Opción B: Fallo orgánico múltiple ($\text{MODS}$)",
+        "c": "Opción C: Retardo de consolidación",
+        "d": "Opción D: Distrofia simpático refleja"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 24,
+      "pregunta": "Paciente pediátrico de $\\text{5 kg}$ con fractura supracondílea de húmero requiere $\\text{Morfina}$ para $\\text{PCA}$ a $\\text{10 mcg/kg/h}$. La Morfina se diluye a $\\text{1 mg/mL}$. ¿Cuál es la velocidad de infusión en $\\text{mL/h}$?",
+      "opciones": {
+        "a": "Opción A: $\\text{0.05 mL/h}$",
+        "b": "Opción B: $\\text{0.5 mL/h}$",
+        "c": "Opción C: $\\text{1.0 mL/h}$",
+        "d": "Opción D: $\\text{0.1 mL/h}$"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 25,
+      "pregunta": "La $\\text{Fijación Externa}$ de una fractura de pelvis en $\\text{UCI}$ debe ser colocada idealmente en la región más anterior del anillo. ¿Qué zona anatómica es la que proporciona mayor $\\text{estabilidad}$ inmediata al anillo posterior?",
+      "opciones": {
+        "a": "Opción A: Sacro",
+        "b": "Opción B: Cresta ilíaca (anterior)",
+        "c": "Opción C: Rama iliopúbica",
+        "d": "Opción D: Cóccix"
+      },
+      "respuesta_correcta": "b"
+    }
+  ],
+{
+  "titulo_examen": "Examen Integral de Ortopedia y Traumatología en Cuidados Críticos - Continuación",
+  "instrucciones": "Seleccione la única opción correcta. Las justificaciones y cálculos detallados se encuentran al final del examen.",
+  "preguntas_continuacion": [
+    {
+      "id": 26,
+      "pregunta": "Paciente adulto de 55 años con $\\text{Shock}$ neurogénico por trauma cervical $\\text{C4-C5}$. Se requiere infundir $\\text{Dopamina}$ para soporte de la perfusión renal a $\\text{3 mcg/kg/min}$. Si el paciente pesa $\\text{75 kg}$ y la dilución es $\\text{400 mg}$ en $\\text{250 mL}$, ¿cuántos $\\text{mL/h}$ se deben infundir?",
+      "opciones": {
+        "a": "Opción A: $\\text{42.2 mL/h}$",
+        "b": "Opción B: $\\text{84.4 mL/h}$",
+        "c": "Opción C: $\\text{21.1 mL/h}$",
+        "d": "Opción D: $\\text{10.5 mL/h}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 27,
+      "pregunta": "El principio ético fundamental que dicta que el cirujano debe buscar el mayor beneficio y el menor daño al paciente crítico (por ejemplo, al aplicar la cirugía de Control de Daños) es:",
+      "opciones": {
+        "a": "Opción A: Autonomía",
+        "b": "Opción B: Justicia",
+        "c": "Opción C: No maleficencia y Beneficencia",
+        "d": "Opción D: Fidelidad"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 28,
+      "pregunta": "Un paciente de 68 años con múltiples fracturas costales, hemotórax y fractura de diáfisis femoral bilateral es evaluado para manejo de Control de Daños. ¿Cuál es la indicación principal para retrasar la fijación definitiva de la fractura de fémur?",
+      "opciones": {
+        "a": "Opción A: $\\text{Sepsis}$ de origen urinario",
+        "b": "Opción B: $\\text{TCE}$ grave inestable y compromiso pulmonar severo ($\text{FMO}$ potencial)",
+        "c": "Opción C: $\\text{Diabetes Mellitus}$ no controlada",
+        "d": "Opción D: Edad avanzada del paciente"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 29,
+      "pregunta": "En un paciente con $\\text{Shock}$ refractario a vasopresores y que ha sido declarado $\\text{Muerte Cerebral}$, la principal prioridad en el mantenimiento del donante es:",
+      "opciones": {
+        "a": "Opción A: Mantener la $\\text{Presión Arterial Media}$ ($\text{PAM}$) y la perfusión de órganos",
+        "b": "Opción B: Disminuir la temperatura corporal",
+        "c": "Opción C: Reducir la ventilación mecánica",
+        "d": "Opción D: Suspender toda medicación intravenosa"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 30,
+      "pregunta": "Un lactante de 10 kg con diagnóstico de $\\text{Osteomielitis Aguda}$ en el fémur requiere $\\text{Clindamicina}$ a dosis de $\\text{40 mg/kg/día}$ dividida cada $\\text{8}$ horas. ¿Cuántos $\\text{mg}$ de Clindamicina debe recibir el lactante en cada dosis?",
+      "opciones": {
+        "a": "Opción A: $\\text{133 mg}$",
+        "b": "Opción B: $\\text{400 mg}$",
+        "c": "Opción C: $\\text{100 mg}$",
+        "d": "Opción D: $\\text{80 mg}$"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 31,
+      "pregunta": "¿Qué índice pronóstico, específico para fracturas pélvicas y abdominales, se utiliza para evaluar el riesgo de muerte en un paciente politraumatizado?",
+      "opciones": {
+        "a": "Opción A: $\\text{ISS}$ (Injury Severity Score)",
+        "b": "Opción B: $\\text{MAS}$ (Mangled Extremity Severity Score)",
+        "c": "Opción C: $\\text{W&H}$ (Wang and Hou score)",
+        "d": "Opción D: $\\text{TS}$ (Trauma Score)"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 32,
+      "pregunta": "La complicación $\\text{más}$ frecuente y $\\text{grave}$ a largo plazo después de una fractura de $\\text{pilón tibial}$ severa (fractura intraarticular de la tibia distal) es:",
+      "opciones": {
+        "a": "Opción A: Neuropatía del nervio peroneo",
+        "b": "Opción B: Artrosis postraumática",
+        "c": "Opción C: Pseudoartrosis no infectada",
+        "d": "Opción D: Rigidez de la articulación $\\text{subastragalina}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 33,
+      "pregunta": "Paciente adulto con fractura inestable de $\\text{Columna Toracolumbar}$ sin déficit neurológico completo. Se ha estabilizado $\\text{hemodinámicamente}$. ¿Cuál es el momento óptimo para la fijación interna definitiva en el manejo de $\\text{Control de Daños}$?",
+      "opciones": {
+        "a": "Opción A: Inmediatamente ( $<6$ horas)",
+        "b": "Opción B: Cuando el paciente ha superado la 'ventana de la muerte' ($\text{2-5}$ días)",
+        "c": "Opción C: A los 3 meses",
+        "d": "Opción D: La fijación externa es siempre preferible"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 34,
+      "pregunta": "Según la Ley de Trasplantes, ¿quién tiene la autoridad legal final para revocar la decisión de donación de órganos de un paciente declarado en muerte cerebral, si este no dejó su voluntad por escrito?",
+      "opciones": {
+        "a": "Opción A: El equipo médico tratante",
+        "b": "Opción B: El coordinador de trasplantes",
+        "c": "Opción C: Los familiares directos y legalmente reconocidos",
+        "d": "Opción D: Un juez de guardia"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 35,
+      "pregunta": "Un niño de $\\text{20 kg}$ con $\\text{TCE}$ requiere $\\text{Manitol}$ al $\\text{20%}$ a dosis de $\\text{0.5 g/kg}$. Si la presentación del $\\text{Manitol}$ es de $\\text{20 g}$ por $\\text{100 mL}$, ¿cuántos $\\text{mililitros}$ de solución deben administrarse en total?",
+      "opciones": {
+        "a": "Opción A: $\\text{50 mL}$",
+        "b": "Opción B: $\\text{25 mL}$",
+        "c": "Opción C: $\\text{100 mL}$",
+        "d": "Opción D: $\\text{10 mL}$"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 36,
+      "pregunta": "La escala de clasificación de fracturas óseas abiertas más utilizada en el entorno de cuidados críticos es:",
+      "opciones": {
+        "a": "Opción A: Clasificación de $\\text{Salter-Harris}$",
+        "b": "Opción B: Clasificación de $\\text{Gustilo-Anderson}$",
+        "c": "Opción C: Clasificación de $\\text{Denis}$",
+        "d": "Opción D: Clasificación de $\\text{AO}$ (Arbeitsgemeinschaft für Osteosynthesefragen)"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 37,
+      "pregunta": "En un paciente con $\\text{Shock}$ grave y $\\text{Fractura Abierta}$ de $\\text{Tibia}$ con alto riesgo de amputación, el uso de la escala $\\text{MESS}$ (Mangled Extremity Severity Score) ayuda al clínico a tomar la decisión final. ¿Qué puntuación en la $\\text{MESS}$ sugiere un alto riesgo de fracaso del salvamento?",
+      "opciones": {
+        "a": "Opción A: $\\text{MESS} < 3$",
+        "b": "Opción B: $\\text{MESS} \geq 7$",
+        "c": "Opción C: $\\text{MESS} = 5$",
+        "d": "Opción D: $\\text{MESS} = 0$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 38,
+      "pregunta": "En un lactante de 5 meses con sospecha de $\\text{Maltrato Infantil}$ y múltiples fracturas. Las fracturas $\\text{metafisarias en esquina}$ o $\\text{en cubo}$ son $\\text{altamente}$ específicas de:",
+      "opciones": {
+        "a": "Opción A: $\\text{Osteogénesis Imperfecta}$",
+        "b": "Opción B: $\\text{Lesión por Cizallamiento y Tracción}$",
+        "c": "Opción C: Caída de altura",
+        "d": "Opción D: Déficit de Vitamina D"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 39,
+      "pregunta": "La causa más común de $\\text{Muerte Cerebral}$ en niños y adultos jóvenes, que es la principal fuente de órganos para trasplante, es:",
+      "opciones": {
+        "a": "Opción A: Accidentes cerebrovasculares hemorrágicos",
+        "b": "Opción B: $\\text{TCE}$ (Traumatismo Craneoencefálico) grave",
+        "c": "Opción C: $\\text{Tumores cerebrales}$ primarios",
+        "d": "Opción D: $\\text{Infecciones}$ del $\\text{SNC}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 40,
+      "pregunta": "Paciente adulto politraumatizado de $\\text{60 kg}$ requiere una dosis de carga de $\\text{Fenitoína}$ para profilaxis anticonvulsiva a $\\text{15 mg/kg}$. La presentación es $\\text{50 mg/mL}$. ¿Qué volumen $(\\text{mL})$ debe infundirse en el bolo?",
+      "opciones": {
+        "a": "Opción A: $\\text{18 mL}$",
+        "b": "Opción B: $\\text{36 mL}$",
+        "c": "Opción C: $\\text{9 mL}$",
+        "d": "Opción D: $\\text{45 mL}$"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 41,
+      "pregunta": "Un paciente $\\text{crítico}$ con fracturas abiertas $\\text{Gustilo II}$ requiere la administración de antibióticos de amplio espectro. El antibiótico de elección para la $\\text{profilaxis}$ en este tipo de fractura es:",
+      "opciones": {
+        "a": "Opción A: $\\text{Vancomicina}$",
+        "b": "Opción B: $\\text{Cefalosporina de primera generación}$ (ej. $\\text{Cefazolina}$)",
+        "c": "Opción C: $\\text{Metronidazol}$",
+        "d": "Opción D: $\\text{Gentamicina}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 42,
+      "pregunta": "La lesión más comúnmente asociada a las fracturas-luxaciones de la columna cervical $\\text{subaxial}$ es:",
+      "opciones": {
+        "a": "Opción A: $\\text{Lesión del plexo braquial}$",
+        "b": "Opción B: $\\text{Lesión de la arteria carótida}$",
+        "c": "Opción C: $\\text{Lesión de la médula espinal}$",
+        "d": "Opción D: $\\text{Fractura del húmero}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 43,
+      "pregunta": "Una complicación temprana y grave de la $\\text{cirugía de Control de Daños}$ por fracturas pélvicas es la reaparición de $\\text{Shock}$ por hemorragia continua. ¿Cuál es la $\\text{fuente de sangrado}$ más común que requiere $\\text{Embolización Arterial}$?",
+      "opciones": {
+        "a": "Opción A: $\\text{Arteria femoral}$",
+        "b": "Opción B: $\\text{Arteria ilíaca interna}$",
+        "c": "Opción C: $\\text{Venas pélvicas y plexos óseos}$",
+        "d": "Opción D: $\\text{Arteria sacra media}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 44,
+      "pregunta": "La **Necrosis Avascular de la Cabeza Femoral** es una complicación temida en fracturas intracapsulares de cadera en niños. ¿Cuál es el factor más importante que determina el riesgo de $\\text{NAV}$?",
+      "opciones": {
+        "a": "Opción A: El $\\text{sexo}$ del paciente",
+        "b": "Opción B: El $\\text{grado de desplazamiento}$ de la fractura",
+        "c": "Opción C: La $\\text{velocidad}$ de la consolidación ósea",
+        "d": "Opción D: $\\text{La presencia de fiebre}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 45,
+      "pregunta": "En el contexto de la $\\text{donación en asistolia}$ ($\text{DCD}$), ¿qué requerimiento $\\text{legal y ético}$ es $\\text{fundamental}$ para la extracción de órganos?",
+      "opciones": {
+        "a": "Opción A: El paciente debe estar en $\\text{muerte cerebral}$",
+        "b": "Opción B: Debe transcurrir un $\\text{periodo mínimo}$ sin $\\text{latido cardíaco}$ y $\\text{respiración}$ ($\text{5}$ minutos típicamente)",
+        "c": "Opción C: El paciente debe ser menor de $\\text{18}$ años",
+        "d": "Opción D: Se puede iniciar la extracción antes del cese cardíaco"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 46,
+      "pregunta": "Paciente pediátrico de 8 años con $\\text{Shock}$ requiere **$\text{Dobutamina}$** a $\\text{10 mcg/kg/min}$. Si el paciente pesa $\\text{25 kg}$ y la dilución es $\\text{250 mg}$ en $\\text{250 mL}$, ¿cuántos $\\text{mL/h}$ se deben infundir?",
+      "opciones": {
+        "a": "Opción A: $\\text{75 mL/h}$",
+        "b": "Opción B: $\\text{15 mL/h}$",
+        "c": "Opción C: $\\text{37.5 mL/h}$",
+        "d": "Opción D: $\\text{30 mL/h}$"
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 47,
+      "pregunta": "La lesión del **$\text{anillo pélvico}$** que se considera $\\text{más inestable}$ y de $\\text{peor pronóstico}$ según la clasificación de $\\text{Tile}$ es:",
+      "opciones": {
+        "a": "Opción A: $\\text{Tipo A}$ (Estable)",
+        "b": "Opción B: $\\text{Tipo B}$ (Rotacionalmente inestable)",
+        "c": "Opción C: $\\text{Tipo C}$ (Rotacional y Verticalmente inestable)",
+        "d": "Opción D: $\\text{Tipo A2}$ (Fractura aislada no desplazada)"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 48,
+      "pregunta": "En la evaluación inicial de un paciente $\\text{crítico}$ por $\\text{ATLS}$, ¿cuál es el propósito de la **radiografía de pelvis**?",
+      "opciones": {
+        "a": "Opción A: Descartar fractura de cadera",
+        "b": "Opción B: Evaluar la $\\text{integridad}$ del anillo pélvico como $\\text{fuente potencial de hemorragia masiva}$",
+        "c": "Opción C: Evaluar la longitud de las extremidades",
+        "d": "Opción D: Confirmar la colocación de catéteres"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 49,
+      "pregunta": "El $\\text{principio ético}$ de **Justicia** en el contexto de la donación de órganos se relaciona con:",
+      "opciones": {
+        "a": "Opción A: La asignación de órganos basada en la capacidad económica del receptor",
+        "b": "Opción B: El derecho de los familiares a elegir al receptor",
+        "c": "Opción C: La $\\text{distribución equitativa}$ y transparente de órganos basada en criterios médicos y urgencia",
+        "d": "Opción D: Priorizar al donante vivo sobre el donante cadavérico"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 50,
+      "pregunta": "La complicación $\\text{ortopédica}$ más grave y común en un paciente con $\\text{quemaduras profundas}$ y $\\text{extensas}$ es:",
+      "opciones": {
+        "a": "Opción A: Osteoporosis",
+        "b": "Opción B: $\\text{Artrosis precoz}$",
+        "c": "Opción C: $\\text{Calcificación heterotópica}$ periarticular",
+        "d": "Opción D: Deformidades por contracturas musculares y fibrosis"
+      },
+      "respuesta_correcta": "d"
+    }
+  {
+  "titulo_examen": "Examen Integral de Ortopedia y Traumatología en Cuidados Críticos - Sección III (ID 51-75)",
+  "instrucciones": "Seleccione la única opción correcta. Las justificaciones y cálculos detallados se encuentran al final del examen.",
+  "preguntas_seccion_III": [
+    {
+      "id": 51,
+      "pregunta": "Paciente adulto de 40 años, $\\text{Shock}$ inestable, fractura $\\text{Gustilo IIIb}$ de tibia. El tratamiento inicial de control de daños $\\text{más}$ efectivo para prevenir infección y necrosis es:",
+      "opciones": {
+        "a": "Opción A: Iniciar antibióticos y fijación interna con clavo",
+        "b": "Opción B: Desbridamiento urgente, irrigación, y estabilización con fijador externo",
+        "c": "Opción C: Aplicar sólo un vendaje compresivo estéril",
+        "d": "Opción D: Cierre primario de la herida sin desbridamiento"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 52,
+      "pregunta": "Un paciente pediátrico de 7 años presenta una fractura supracondílea de húmero $\\text{Gartland III}$ con $\\text{ausencia de pulsos}$ radial y cubital. ¿Cuál es el tratamiento quirúrgico urgente y prioritario, considerando el manejo de la extremidad isquémica?",
+      "opciones": {
+        "a": "Opción A: Exploración vascular abierta inmediata",
+        "b": "Opción B: Reducción cerrada, comprobación de pulsos, si persisten ausentes, reducción abierta/fijación percutánea y exploración vascular",
+        "c": "Opción C: Angiografía y luego reducción",
+        "d": "Opción D: Fijación interna rígida con placa y tornillos"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 53,
+      "pregunta": "En un paciente con $\\text{Muerte Cerebral}$, la principal causa de **inestabilidad hemodinámica** que dificulta el mantenimiento del donante es la disfunción hipotálamo-hipofisaria que provoca:",
+      "opciones": {
+        "a": "Opción A: Hipertermia maligna",
+        "b": "Opción B: $\\text{Diabetes Insípida}$ central",
+        "c": "Opción C: $\\text{Crisis hipertensiva}$ aguda",
+        "d": "Opción D: Insuficiencia renal aguda"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 54,
+      "pregunta": "Paciente adulto de $\\text{85 kg}$ con $\\text{ARDS}$ asociado a politraumatismo requiere $\\text{Vecuronio}$ para parálisis. Dosis inicial $\\text{0.1 mg/kg}$ en bolo. Si la presentación es $\\text{10 mg}$ por $\\text{5 mL}$, ¿cuántos $\\text{mL}$ se deben administrar en el bolo?",
+      "opciones": {
+        "a": "Opción A: $\\text{0.425 mL}$",
+        "b": "Opción B: $\\text{4.25 mL}$",
+        "c": "Opción C: $\\text{0.85 mL}$",
+        "d": "Opción D: $\\text{8.5 mL}$"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 55,
+      "pregunta": "La fractura de $\\text{Calcáneo}$ que requiere manejo en $\\text{UCI}$ (usualmente por trauma de alta energía) es aquella que tiene la $\\text{mayor}$ complicación a largo plazo de:",
+      "opciones": {
+        "a": "Opción A: Lesión del tendón de Aquiles",
+        "b": "Opción B: $\\text{Artrosis Subastragalina}$ y pérdida de la altura del talón",
+        "c": "Opción C: Neuropatía del nervio tibial",
+        "d": "Opción D: Síndrome compartimental tardío"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 56,
+      "pregunta": "La $\\text{Fijación Externa}$ temporal en el $\\text{Control de Daños}$ ortopédico de fracturas complejas se debe convertir a fijación definitiva $\\text{generalmente}$ dentro del periodo de:",
+      "opciones": {
+        "a": "Opción A: $\\text{18-24}$ horas",
+        "b": "Opción B: $\\text{1-2}$ semanas",
+        "c": "Opción C: $\\text{4}$ meses",
+        "d": "Opción D: $\\text{6}$ semanas"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 57,
+      "pregunta": "La **triada fatal** del paciente $\\text{politraumatizado}$ que el $\\text{Control de Daños}$ busca evitar es:",
+      "opciones": {
+        "a": "Opción A: $\\text{Hipoxia, Hipotensión y Acidosis}$",
+        "b": "Opción B: $\\text{Hipotermia, Acidosis y Coagulopatía}$",
+        "c": "Opción C: $\\text{Septicemia, Coagulopatía y Daño Renal}$",
+        "d": "Opción D: $\\text{Hipotermia, Hiperglucemia y Alcalosis}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 58,
+      "pregunta": "Paciente de 15 años ingresa a $\\text{UCI}$ con $\\text{Shock}$ traumático. Se diagnostica fractura $\\text{Salter-Harris Tipo V}$ de tibia distal. ¿Cuál es el riesgo $\\text{más}$ grave de este tipo de fractura $\\text{fisiaria}$?",
+      "opciones": {
+        "a": "Opción A: $\\text{Pseudoartrosis}$",
+        "b": "Opción B: $\\text{Necrosis avascular}$",
+        "c": "Opción C: $\\text{Cierre prematuro de la fisis}$ y acortamiento",
+        "d": "Opción D: $\\text{Síndrome compartimental}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 59,
+      "pregunta": "Un paciente $\\text{crítico}$ con fractura de $\\text{Columna Torácica}$ $\\text{T12}$ con déficit neurológico completo requiere $\\text{Criterios de Irreversibilidad}$. ¿Cuál es el nivel $\\text{médico}$ de $\\text{invalidez}$ que $\\text{no}$ contraindica la donación de órganos?",
+      "opciones": {
+        "a": "Opción A: $\\text{Ceguera}$",
+        "b": "Opción B: $\\text{Sordera}$",
+        "c": "Opción C: $\\text{Paraplejia}$ (déficit medular completo)",
+        "d": "Opción D: $\\text{Ninguno}$ de los anteriores"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 60,
+      "pregunta": "Neonato de $\\text{4 kg}$ requiere $\\text{Prostaglandina E1}$ para mantener la $\\text{permeabilidad}$ del $\\text{ductus arteriosus}$ a $\\text{0.05 mcg/kg/min}$. La concentración es $\\text{500 mcg}$ en $\\text{50 mL}$. ¿A qué velocidad de infusión ($\text{mL/h}$) se debe programar la bomba?",
+      "opciones": {
+        "a": "Opción A: $\\text{0.12 mL/h}$",
+        "b": "Opción B: $\\text{1.2 mL/h}$",
+        "c": "Opción C: $\\text{0.24 mL/h}$",
+        "d": "Opción D: $\\text{2.4 mL/h}$"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 61,
+      "pregunta": "La clasificación de $\\text{Judet y Letournel}$ se utiliza para describir las fracturas de:",
+      "opciones": {
+        "a": "Opción A: $\\text{Meseta tibial}$",
+        "b": "Opción B: $\\text{Columna vertebral}$",
+        "c": "Opción C: $\\text{Acetábulo}$",
+        "d": "Opción D: $\\text{Húmero proximal}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 62,
+      "pregunta": "El signo radiológico de $\\text{hemartrosis}$ (líquido en la articulación) asociado a una fractura de $\\text{Meseta Tibial}$ se conoce como:",
+      "opciones": {
+        "a": "Opción A: $\\text{Signo del doble contorno}$",
+        "b": "Opción B: $\\text{Signo del nivel graso-líquido}$ ($\text{Lipohaemarthrosis}$)",
+        "c": "Opción C: $\\text{Signo del pulgar}$",
+        "d": "Opción D: $\\text{Signo del sol naciente}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 63,
+      "pregunta": "¿Cuál es la principal diferencia entre $\\text{Shock Neurogénico}$ y $\\text{Shock Espinal}$ en la lesión medular aguda?",
+      "opciones": {
+        "a": "Opción A: El $\\text{Shock Neurogénico}$ es transitorio",
+        "b": "Opción B: El $\\text{Shock Espinal}$ se refiere a la $\\text{parálisis y pérdida de reflejos}$ por debajo de la lesión",
+        "c": "Opción C: El $\\text{Shock Espinal}$ siempre causa $\\text{bradicardia}$",
+        "d": "Opción D: El $\\text{Shock Neurogénico}$ siempre causa $\\text{priapismo}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 64,
+      "pregunta": "Paciente adulto de $\\text{80 kg}$ requiere infusión de $\\text{Propofol}$ a $\\text{3 mg/kg/h}$. La presentación es $\\text{10 mg/mL}$. ¿A qué velocidad de infusión ($\text{mL/h}$) se debe programar la bomba?",
+      "opciones": {
+        "a": "Opción A: $\\text{8 mL/h}$",
+        "b": "Opción B: $\\text{12 mL/h}$",
+        "c": "Opción C: $\\text{24 mL/h}$",
+        "d": "Opción D: $\\text{18 mL/h}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 65,
+      "pregunta": "El principio ético de **Autonomía** en el contexto del trasplante de órganos se aplica directamente a la necesidad de:",
+      "opciones": {
+        "a": "Opción A: Garantizar la $\\text{confidencialidad}$ del donante",
+        "b": "Opción B: $\\text{Respetar la decisión}$ (o la ausencia de objeción) del donante o su familia",
+        "c": "Opción C: Asegurar que el receptor no rechace el órgano",
+        "d": "Opción D: Determinar la $\\text{compatibilidad genética}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 66,
+      "pregunta": "La $\\text{lesión de la aorta}$ torácica se sospecha frecuentemente en traumas de $\\text{alta energía}$. ¿Qué tipo de fractura ortopédica está $\\text{altamente}$ asociada a esta lesión vascular mortal?",
+      "opciones": {
+        "a": "Opción A: Fractura aislada de $\\text{peroné}$",
+        "b": "Opción B: Fractura de $\\text{cadera}$ por caída simple",
+        "c": "Opción C: $\\text{Fracturas costales altas}$ ($\text{1a}$ y $\\text{2a}$ costilla) y fractura de $\\text{escápula}$",
+        "d": "Opción D: Fractura de $\\text{mano}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 67,
+      "pregunta": "El **tiempo óptimo** para el $\\text{desbridamiento}$ de una $\\text{fractura abierta}$ (el 'time zero') es crucial para prevenir la infección. Este tiempo es generalmente:",
+      "opciones": {
+        "a": "Opción A: Dentro de las $\\text{12}$ horas",
+        "b": "Opción B: Dentro de las $\\text{6}$ horas",
+        "c": "Opción C: Dentro de las $\\text{24}$ horas",
+        "d": "Opción D: Dentro de las $\\text{72}$ horas"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 68,
+      "pregunta": "En el $\\text{Control de Daños}$ de una fractura de $\\text{meseta tibial}$ $\\text{Schatzker VI}$ en un paciente $\\text{inestable}$, la $\\text{Fijación Externa}$ debe ser colocada de forma $\\text{transarticular}$ o $\\text{supraarticular}$ para:",
+      "opciones": {
+        "a": "Opción A: Permitir $\\text{movimiento}$ inmediato",
+        "b": "Opción B: $\\text{Distraer}$ la articulación y $\\text{proteger}$ los tejidos blandos",
+        "c": "Opción C: $\\text{Corregir}$ definitivamente la depresión articular",
+        "d": "Opción D: $\\text{Evitar}$ el $\\text{Síndrome Compartimental}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 69,
+      "pregunta": "Paciente pediátrico de $\\text{12 kg}$ con $\\text{Shock}$ cardiogénico requiere infusión de $\\text{Milrinone}$ a $\\text{0.5 mcg/kg/min}$. Si la presentación es $\\text{20 mg}$ en $\\text{100 mL}$, ¿a qué velocidad de infusión ($\text{mL/h}$) se debe programar la bomba?",
+      "opciones": {
+        "a": "Opción A: $\\text{0.18 mL/h}$",
+        "b": "Opción B: $\\text{1.8 mL/h}$",
+        "c": "Opción C: $\\text{3.6 mL/h}$",
+        "d": "Opción D: $\\text{0.36 mL/h}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 70,
+      "pregunta": "¿Qué tipo de fractura de fémur proximal en el anciano tiene el $\\text{mayor riesgo}$ de $\\text{Necrosis Avascular}$ ($\text{NAV}$)?",
+      "opciones": {
+        "a": "Opción A: $\\text{Fractura intertrocantérea}$ estable",
+        "b": "Opción B: $\\text{Fractura subtrocantérea}$",
+        "c": "Opción C: $\\text{Fractura subcapital desplazada}$ (intracapsular)",
+        "d": "Opción D: $\\text{Fractura de trocánter menor}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 71,
+      "pregunta": "El $\\text{tiempo de isquemia fría}$ (desde la perfusión del órgano hasta el trasplante) es un criterio $\\text{crítico}$ para la $\\text{viabilidad}$ del injerto. ¿Cuál de estos órganos tolera el $\\text{menor}$ tiempo de isquemia fría?",
+      "opciones": {
+        "a": "Opción A: Riñón",
+        "b": "Opción B: Páncreas",
+        "c": "Opción C: Corazón",
+        "d": "Opción D: Hueso"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 72,
+      "pregunta": "En un paciente con $\\text{Síndrome Compartimental Agudo}$, el signo clínico $\\text{más}$ fiable y temprano es:",
+      "opciones": {
+        "a": "Opción A: $\\text{Ausencia de pulso distal}$",
+        "b": "Opción B: $\\text{Parestesias}$ en los dedos",
+        "c": "Opción C: $\\text{Dolor desproporcionado}$ al examen o a la $\\text{movilización pasiva}$",
+        "d": "Opción D: $\\text{Palidez y frialdad}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 73,
+      "pregunta": "Paciente adulto de $\\text{65 kg}$ con $\\text{Shock}$ requiere $\\text{Cefepime}$ a $\\text{2 gramos}$ cada $\\text{8}$ horas. ¿Cuál es la dosis $\\text{ponderal}$ aproximada en $\\text{mg/kg/dosis}$?",
+      "opciones": {
+        "a": "Opción A: $\\text{10 mg/kg/dosis}$",
+        "b": "Opción B: $\\text{30.7 mg/kg/dosis}$",
+        "c": "Opción C: $\\text{50 mg/kg/dosis}$",
+        "d": "Opción D: $\\text{15 mg/kg/dosis}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 74,
+      "pregunta": "La complicación $\\text{ortopédica}$ más común en el paciente $\\text{gran quemado}$ con necesidad de $\\text{inmovilización}$ prolongada es:",
+      "opciones": {
+        "a": "Opción A: $\\text{Artrosis séptica}$",
+        "b": "Opción B: $\\text{Osteomielitis}$",
+        "c": "Opción C: $\\text{Contracturas articulares}$ y $\\text{Heterotopia Ósea}$",
+        "d": "Opción D: $\\text{Luxación}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 75,
+      "pregunta": "¿Qué tipo de $\\text{lesión de la columna}$ vertebral se asocia con un $\\text{alto}$ riesgo de $\\text{paraplejia}$ completa?",
+      "opciones": {
+        "a": "Opción A: Fractura por $\\text{compresión}$ $\\text{anterior}$ (cuña)",
+        "b": "Opción B: Fractura de $\\text{Odontoides}$ $\\text{Tipo I}$",
+        "c": "Opción C: $\\text{Fractura-luxación}$ con $\\text{translación}$",
+        "d": "Opción D: Fractura de $\\text{apófisis espinosa}$"
+      },
+      "respuesta_correcta": "c"
+    }
+  ],
+    {
+  "titulo_examen": "Examen Integral de Ortopedia y Traumatología en Cuidados Críticos - Sección IV (ID 76-100)",
+  "instrucciones": "Seleccione la única opción correcta. Las justificaciones y cálculos detallados se encuentran al final del examen.",
+  "preguntas_seccion_IV": [
+    {
+      "id": 76,
+      "pregunta": "La $\\text{Insuficiencia Renal Aguda}$ en un paciente $\\text{politraumatizado}$ con $\\text{múltiples fracturas}$ $\\text{musculares}$ se debe principalmente a la liberación de:",
+      "opciones": {
+        "a": "Opción A: $\\text{Calcio}$",
+        "b": "Opción B: $\\text{Mioglobina}$ y $\\text{potasio}$",
+        "c": "Opción C: $\\text{Glucosa}$",
+        "d": "Opción D: $\\text{Factores de crecimiento}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 77,
+      "pregunta": "Un paciente con fractura-luxación de cadera presenta $\\text{isquemia}$ aguda de la extremidad. El cuadro clínico que $\\text{simula}$ un $\\text{síndrome de Leriche}$ (oclusión aórtica terminal) es la lesión de la $\\text{arteria ilíaca}$ por fractura $\\text{pélvica}$ o $\\text{luxación}$ $\\text{simultánea}$ de $\\text{ambas}$ $\\text{caderas}$. ¿Qué nervio tiene $\\text{más}$ riesgo de $\\text{lesionarse}$ en una $\\text{luxación posterior}$ de cadera?",
+      "opciones": {
+        "a": "Opción A: $\\text{Nervio obturador}$",
+        "b": "Opción B: $\\text{Nervio femoral}$",
+        "c": "Opción C: $\\text{Nervio ciático}$",
+        "d": "Opción D: $\\text{Nervio pudendo}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 78,
+      "pregunta": "Para el manejo de la $\\text{Diabetes Insípida}$ en el donante con $\\text{Muerte Cerebral}$, la terapia de elección es:",
+      "opciones": {
+        "a": "Opción A: $\\text{Insulina}$ intravenosa",
+        "b": "Opción B: $\\text{Desmopresina}$ (DDAVP)",
+        "c": "Opción C: $\\text{Diuréticos de asa}$",
+        "d": "Opción D: $\\text{Manitol}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 79,
+      "pregunta": "Lactante de $\\text{6 kg}$ con post-operatorio $\\text{crítico}$ requiere un bolo $\\text{inicial}$ de $\\text{Morfina}$ a $\\text{0.1 mg/kg}$. Si la Morfina es $\\text{1 mg/mL}$ diluida, ¿qué volumen $(\\text{mL})$ debe administrarse?",
+      "opciones": {
+        "a": "Opción A: $\\text{6 mL}$",
+        "b": "Opción B: $\\text{0.6 mL}$",
+        "c": "Opción C: $\\text{0.06 mL}$",
+        "d": "Opción D: $\\text{1.2 mL}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 80,
+      "pregunta": "La luxación de hombro que $\\text{más}$ se asocia con convulsiones o $\\text{electrocución}$ y es $\\text{fácilmente omitida}$ en el diagnóstico inicial es:",
+      "opciones": {
+        "a": "Opción A: $\\text{Anterior}$",
+        "b": "Opción B: $\\text{Posterior}$",
+        "c": "Opción C: $\\text{Inferior}$",
+        "d": "Opción D: $\\text{Superior}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 81,
+      "pregunta": "La $\\text{fractura abierta}$ $\\text{Gustilo IIIc}$ se diferencia de la $\\text{IIIb}$ por la presencia de:",
+      "opciones": {
+        "a": "Opción A: $\\text{Contaminación severa}$",
+        "b": "Opción B: $\\text{Pérdida de cobertura cutánea}$",
+        "c": "Opción C: $\\text{Lesión arterial mayor}$ que requiere $\\text{reparación}$",
+        "d": "Opción D: $\\text{Fractura segmentaria}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 82,
+      "pregunta": "¿Cuál de las siguientes $\\text{deformidades}$ $\\text{espinales}$ es $\\text{más}$ frecuente en el $\\text{paciente pediátrico}$ y $\\text{no}$ se relaciona con un $\\text{trauma agudo}$?",
+      "opciones": {
+        "a": "Opción A: $\\text{Fractura de Chance}$",
+        "b": "Opción B: $\\text{Espondilolistesis traumática}$",
+        "c": "Opción C: $\\text{Escoliosis idiopática del adolescente}$",
+        "d": "Opción D: $\\text{Fractura por estallido}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 83,
+      "pregunta": "En el paciente con $\\text{TCE}$ y $\\text{politraumatismo}$, la $\\text{Presión de Perfu-sión Cerebral}$ ($\text{PPC}$) se calcula mediante la fórmula:",
+      "opciones": {
+        "a": "Opción A: $\\text{PPC} = \text{PAM} + \text{PVC}$",
+        "b": "Opción B: $\\text{PPC} = \text{PIC} - \text{PAM}$",
+        "c": "Opción C: $\\text{PPC} = \text{PAM} - \text{PIC}$",
+        "d": "Opción D: $\\text{PPC} = \text{PVC} - \text{PIC}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 84,
+      "pregunta": "Neonato de $\\text{8 kg}$ con $\\text{edema}$ severo requiere $\\text{Furosemida}$ a $\\text{0.5 mg/kg}$ en bolo $\\text{IV}$. Si la concentración es $\\text{10 mg/mL}$, ¿cuántos $\\text{mL}$ se deben administrar?",
+      "opciones": {
+        "a": "Opción A: $\\text{0.4 mL}$",
+        "b": "Opción B: $\\text{4 mL}$",
+        "c": "Opción C: $\\text{0.8 mL}$",
+        "d": "Opción D: $\\text{1.6 mL}$"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 85,
+      "pregunta": "El principio ético de **No Maleficencia** se vulnera en el trasplante de órganos si:",
+      "opciones": {
+        "a": "Opción A: Se prioriza a un paciente más $\\text{joven}$ en la lista",
+        "b": "Opción B: Se $\\text{oculta información}$ sobre $\\text{infecciones}$ o $\\text{cáncer}$ $\\text{activo}$ del $\\text{donante}$ al $\\text{receptor}$",
+        "c": "Opción C: El $\\text{donante}$ es de $\\text{otra raza}$",
+        "d": "Opción D: El $\\text{donante}$ es $\\text{mayor}$ de $\\text{60}$ años"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 86,
+      "pregunta": "El concepto de 'second hit' en el paciente $\\text{politraumatizado}$ se refiere principalmente a:",
+      "opciones": {
+        "a": "Opción A: $\\text{Una segunda fractura}$ ocurrida después de la $\\text{primera}$",
+        "b": "Opción B: La $\\text{respuesta inflamatoria}$ $\\text{sistémica}$ $\\text{exacerbada}$ por la $\\text{cirugía}$ $\\text{agresiva}$ y $\\text{prolongada}$ en un $\\text{paciente inestable}$",
+        "c": "Opción C: Una $\\text{nueva hemorragia}$ después de $\\text{transfundir}$",
+        "d": "Opción D: $\\text{La embolia grasa}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 87,
+      "pregunta": "La $\\text{fractura vertebral}$ que presenta $\\text{mayor}$ $\\text{inestabilidad}$ y $\\text{retropulsión}$ de $\\text{fragmentos}$ óseos al $\\text{canal espinal}$ es:",
+      "opciones": {
+        "a": "Opción A: $\\text{Fractura por cizallamiento}$",
+        "b": "Opción B: $\\text{Fractura por estallido}$ ($\text{Burst}$)",
+        "c": "Opción C: $\\text{Fractura de cuña}$ ($\text{Wedge}$)",
+        "d": "Opción D: $\\text{Fractura de Chance}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 88,
+      "pregunta": "El tratamiento de elección para la $\\text{inestabilidad rotacional}$ ($\text{Tile B}$) de $\\text{pelvis}$ es la $\\text{fijación}$ del $\\text{anillo posterior}$ y del $\\text{anillo anterior}$. ¿Cuál es el $\\text{principal}$ objetivo de la $\\text{fijación}$ $\\text{del anillo}$ $\\text{posterior}$?",
+      "opciones": {
+        "a": "Opción A: $\\text{Prevenir}$ la $\\text{infección}$",
+        "b": "Opción B: $\\text{Mejorar}$ la $\\text{deambulación}$",
+        "c": "Opción C: $\\text{Restaurar}$ la $\\text{carga}$ axial y $\\text{estabilizar}$ la $\\text{articulación sacroilíaca}$",
+        "d": "Opción D: $\\text{Asegurar}$ los $\\text{vasos ilíacos}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 89,
+      "pregunta": "Las maniobras de $\\text{Ortolani}$ y $\\text{Barlow}$ en el neonato se utilizan para evaluar:",
+      "opciones": {
+        "a": "Opción A: $\\text{Fractura de clavícula}$",
+        "b": "Opción B: $\\text{Pie equinovaro}$",
+        "c": "Opción C: $\\text{Displasia del desarrollo de cadera}$ ($\text{DDC}$)",
+        "d": "Opción D: $\\text{Parálisis de Erb}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 90,
+      "pregunta": "Paciente adulto de $\\text{90 kg}$ con $\\text{crisis hipertensiva}$ $\\text{post-TCE}$ requiere $\\text{Nitroprusiato de Sodio}$ a $\\text{1 mcg/kg/min}$. Si la dilución es $\\text{50 mg}$ en $\\text{250 mL}$, ¿a qué velocidad de infusión ($\text{mL/h}$) se debe programar la bomba?",
+      "opciones": {
+        "a": "Opción A: $\\text{27 mL/h}$",
+        "b": "Opción B: $\\text{5.4 mL/h}$",
+        "c": "Opción C: $\\text{10.8 mL/h}$",
+        "d": "Opción D: $\\text{13.5 mL/h}$"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 91,
+      "pregunta": "La $\\text{Osteomielitis Aguda}$ en $\\text{niños}$ ocurre $\\text{más}$ $\\text{frecuentemente}$ en qué parte del hueso largo:",
+      "opciones": {
+        "a": "Opción A: $\\text{Diáfisis}$",
+        "b": "Opción B: $\\text{Epífisis}$",
+        "c": "Opción C: $\\text{Metáfisis}$",
+        "d": "Opción D: $\\text{Placa de crecimiento}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 92,
+      "pregunta": "¿Qué $\\text{especialista}$ debe $\\text{dirigir}$ la $\\text{toma de decisiones}$ y el $\\text{manejo}$ $\\text{quirúrgico}$ $\\text{inicial}$ de un $\\text{politraumatizado}$ con $\\text{Shock}$ y $\\text{fracturas}$ $\\text{complejas}$?",
+      "opciones": {
+        "a": "Opción A: $\\text{Cirujano General}$",
+        "b": "Opción B: $\\text{Médico Internista}$",
+        "c": "Opción C: $\\text{Traumatólogo}$ con $\\text{experiencia}$ en $\\text{Control de Daños}$",
+        "d": "Opción D: $\\text{Anestesiólogo}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 93,
+      "pregunta": "Según las $\\text{leyes de trasplante}$, el $\\text{equipo}$ que $\\text{declara}$ la $\\text{muerte}$ $\\text{cerebral}$ del $\\text{paciente}$ $\\text{donante}$ $\\text{debe}$ ser:",
+      "opciones": {
+        "a": "Opción A: $\\text{El mismo equipo}$ $\\text{que realiza}$ el $\\text{trasplante}$",
+        "b": "Opción B: $\\text{Totalmente}$ $\\text{independiente}$ del $\\text{equipo}$ de $\\text{extracción}$ $\\text{y trasplante}$",
+        "c": "Opción C: $\\text{Cualquier}$ $\\text{médico}$ $\\text{con}$ $\\text{más}$ de $\\text{10}$ $\\text{años}$ $\\text{de experiencia}$",
+        "d": "Opción D: $\\text{Solo}$ un $\\text{Neurólogo}$ $\\text{y}$ un $\\text{Neurocirujano}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 94,
+      "pregunta": "Paciente pediátrico de $\\text{15 kg}$ en $\\text{Shock}$ $\\text{séptico}$ requiere $\\text{Vancomicina}$ a $\\text{15 mg/kg}$ en dosis $\\text{IV}$. Si la presentación es $\\text{500 mg}$ en $\\text{10 mL}$, ¿cuántos $\\text{mL}$ se deben $\\text{extraer}$ para $\\text{diluir}$ y $\\text{administrar}$?",
+      "opciones": {
+        "a": "Opción A: $\\text{0.45 mL}$",
+        "b": "Opción B: $\\text{4.5 mL}$",
+        "c": "Opción C: $\\text{1.5 mL}$",
+        "d": "Opción D: $\\text{0.9 mL}$"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 95,
+      "pregunta": "La complicación $\\text{infecciosa}$ $\\text{tardía}$ $\\text{más}$ $\\text{frecuente}$ de una $\\text{fractura abierta}$ $\\text{Gustilo III}$ es:",
+      "opciones": {
+        "a": "Opción A: $\\text{Tétanos}$",
+        "b": "Opción B: $\\text{Fascitis necrotizante}$",
+        "c": "Opción C: $\\text{Osteomielitis crónica}$",
+        "d": "Opción D: $\\text{Endocarditis}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 96,
+      "pregunta": "La $\\text{Clasificación de AO}$ para $\\text{fracturas}$ se basa $\\text{principalmente}$ en:",
+      "opciones": {
+        "a": "Opción A: $\\text{El grado de lesión de partes blandas}$",
+        "b": "Opción B: $\\text{El mecanismo del trauma}$",
+        "c": "Opción C: $\\text{La estabilidad y la anatomía}$ de la $\\text{fractura}$",
+        "d": "Opción D: $\\text{El pronóstico funcional}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 97,
+      "pregunta": "¿Qué $\\text{parámetro fisiológico}$ es $\\text{más}$ $\\text{importante}$ mantener $\\text{dentro}$ de la $\\text{normalidad}$ en el $\\text{paciente}$ con $\\text{TCE}$ $\\text{crítico}$ y $\\text{fracturas}$?",
+      "opciones": {
+        "a": "Opción A: $\\text{Presión Venosa Central}$ ($\text{PVC}$)",
+        "b": "Opción B: $\\text{Presión Arterial Media}$ ($\text{PAM}$)",
+        "c": "Opción C: $\\text{Frecuencia Cardíaca}$ ($\text{FC}$)",
+        "d": "Opción D: $\\text{Gasto Urinario}$ ($\text{GU}$)"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 98,
+      "pregunta": "La **$\text{Fractura de Fémur}$** en un $\\text{niño}$ $\\text{menor}$ de $\\text{2}$ $\\text{años}$ $\\text{sin}$ $\\text{evidencia}$ de $\\text{trauma}$ $\\text{adecuado}$ $\\text{es}$ $\\text{sospechosa}$ de:",
+      "opciones": {
+        "a": "Opción A: $\\text{Artritis Séptica}$",
+        "b": "Opción B: $\\text{Osteogénesis Imperfecta}$ ($\text{OI}$)",
+        "c": "Opción C: $\\text{Maltrato Infantil}$",
+        "d": "Opción D: $\\text{Enfermedad de Perthes}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 99,
+      "pregunta": "En el $\\text{cálculo}$ del $\\text{déficit de base}$ para el $\\text{manejo}$ $\\text{transfusional}$ de $\\text{un Shock}$ $\\text{hemorrágico}$, un $\\text{déficit}$ $\\text{muy}$ $\\text{negativo}$ ($\text{DB} < -6$) sugiere $\\text{Shock}$ grave y $\\text{acidosis}$. ¿Qué $\\text{tipo}$ de $\\text{solución}$ $\\text{se utiliza}$ en la $\\text{reanimación}$ $\\text{inicial}$ del $\\text{traumatizado}$?",
+      "opciones": {
+        "a": "Opción A: $\\text{Coloides}$ ($\text{Albúmina}$)",
+        "b": "Opción B: $\\text{Soluciones}$ $\\text{hipertónicas}$ ($\text{Dextrosa}$ $\\text{al 50%}$)",
+        "c": "Opción C: $\\text{Cristaloides}$ $\\text{isotónicos}$ ($\text{Ringer Lactato}$ $\\text{o Salino}$)",
+        "d": "Opción D: $\\text{Bicarbonato de Sodio}$"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 100,
+      "pregunta": "La $\\text{ley}$ que $\\text{prohíbe}$ la $\\text{compra}$ y $\\text{venta}$ de $\\text{órganos}$ $\\text{humanos}$ y $\\text{asegura}$ la $\\text{gratuidad}$ de la $\\text{donación}$ se basa en el $\\text{principio}$ ético de:",
+      "opciones": {
+        "a": "Opción A: $\\text{Autonomía}$",
+        "b": "Opción B: $\\text{Confidencialidad}$",
+        "c": "Opción C: $\\text{Beneficencia}$",
+        "d": "Opción D: $\\text{Justicia}$ y $\\text{Dignidad}$ $\\text{Humana}$"
+      },
+      "respuesta_correcta": "d"
+    }
+  ],
+ {
+  "1": "En las fracturas pélvicas inestables ($\text{Tile C}$), la **Fijación Externa de pelvis** es la medida de control de daños que **reduce el volumen pélvico** y **estabiliza el anillo**, lo cual disminuye el sangrado venoso y óseo (el más frecuente). La embolización es para sangrado arterial.",
+  "2": "La **reducción cerrada inmediata** de una luxación de rodilla es obligatoria antes de cualquier estudio de imagen (incluida la angiografía) para **restablecer el flujo vascular** y evitar la isquemia irreversible. Esto es una emergencia $\\text{tiempo-dependiente}$ y se conoce como la regla de 'Reducir primero, estudiar después'.",
+  "3": "Las fracturas de clavícula en neonatos tienen una **consolidación rápida** (7-10 días). El manejo es simple: **inmovilización suave** (p.ej., fijar la manga al tórax o solo un cabestrillo) y **analgesia**. El vendaje en ocho no se utiliza por el riesgo de compromiso respiratorio y por ser innecesariamente complejo.",
+  "4": "Cálculo de Norepinefrina:\\* Paso 1: Dosis requerida ($\text{mcg/min}$) = $\\text{0.1 mcg/kg/min} \\times 70 \text{ kg} = 7 \text{ mcg/min}$.\\* Paso 2: Concentración ($\text{mcg/mL}$) = $\\text{4000 mcg} / 250 \text{ mL} = 16 \text{ mcg/mL}$.\\* Paso 3: Velocidad ($\text{mL/min}$) = $\\text{7 mcg/min} / 16 \text{ mcg/mL} = 0.4375 \text{ mL/min}$.\\* Paso 4: Velocidad ($\text{mL/h}$) = $\\text{0.4375 mL/min} \\times 60 \text{ min/h} = \\mathbf{2.625 \text{ mL/h}}$",
+  "5": "La legislación moderna de trasplantes se basa en la **gratuidad** (no comercialización) y, en muchos países, el **consentimiento presunto** (toda persona es donante a menos que se manifieste lo contrario en vida). La **autonomía** (respeto a la voluntad) es clave, pero el modelo de consentimiento varía.",
+  "6": "La dosis profiláctica estándar de **Inmunoglobulina Antitetánica** para heridas de alto riesgo es de **$\\text{250 UI}$** por vía $\\text{IM}$ en el sitio contralateral al $\\text{toxoide}$ (vacuna), y es independiente del peso corporal del adulto.",
+  "7": "El **Síndrome Compartimental Agudo** es una emergencia quirúrgica. El diagnóstico se confirma por la $\\text{diferencia}$ entre la **Presión Diastólica** ($\text{60 mmHg}$) y la **Presión Compartimental** ($\text{45 mmHg}$), que es $\\text{15 mmHg}$ (un $\\text{\\Delta P} \\leq 30 \text{ mmHg}$ es indicación absoluta). El tratamiento es la **Fasciectomía de urgencia** para liberar la presión.",
+  "8": "La estrategia de **$\text{Damage Control Resuscitation}$** recomienda la transfusión en proporción $\\mathbf{1:1:1}$ (Glóbulos Rojos, Plasma y Plaquetas) para imitar la sangre total y corregir la $\\text{coagulopatía}$ inducida por el $\\text{Shock}$ y la $\\text{dilución}$.",
+  "9": "La $\\text{Fijación Externa}$ en $\\text{Control de Daños}$ ortopédico busca la **estabilización rápida** de la fractura para **reducir la hemorragia**, el dolor, el riesgo de $\\text{embolia grasa}$ y el $\\text{estrés fisiológico}$ sistémico (previniendo el 'second hit').",
+  "10": "Cálculo de Fentanilo:\\* Paso 1: Dosis requerida ($\text{mcg/h}$) = $\\text{1 mcg/kg/h} \\times 3 \text{ kg} = 3 \text{ mcg/h}$.\\* Paso 2: Concentración ($\text{mcg/mL}$) = $\\text{50 mcg/mL}$.\\* Paso 3: Velocidad ($\text{mL/h}$) = $\\text{3 mcg/h} / 50 \text{ mcg/mL} = \\mathbf{0.06 \text{ mL/h}}$",
+  "11": "La **Muerte Cerebral** (o Muerte Encefálica) es el **cese irreversible** y permanente de todas las funciones del **Tronco Encefálico** y los **Hemisferios Cerebrales}$, que debe ser diagnosticado siguiendo un protocolo clínico y $\\text{EEG}$/pruebas confirmatorias rigurosas, de acuerdo a la ley de trasplantes.",
+  "12": "El **Síndrome de Embolia Grasa ($\text{SEG}$)** se previene al evitar la movilización del foco de fractura. La **inmovilización temprana y estable** de las fracturas de huesos largos (especialmente fémur) disminuye la liberación de $\\text{embolias grasas}$ a la circulación sistémica, siendo la medida ortopédica más importante.",
+  "13": "El **Shock neurógeno** es la consecuencia de la pérdida de la inervación simpática $\\text{por debajo}$ de la lesión medular (frecuentemente $\\text{T6}$ o superior), resultando en **vasodilatación periférica** y **bradicardia** (pérdida del tono simpático), llevando a hipotensión sin $\\text{taquicardia}$ compensatoria.",
+  "14": "El **Ácido Tranexámico ($\text{ATX}$)** es un agente **antifibrinolítico**. Su mecanismo principal es **estabilizar el coágulo** al inhibir la $\\text{activación del plasminógeno a plasmina}$ y evitar así la $\\text{fibrinólisis}$ prematura del coágulo formado.",
+  "15": "El **Neumotórax a Tensión** es una condición inmediatamente mortal que causa $\\text{Shock}$ obstructivo. Es una de las 'Lesiones Asesinas' del $\\text{ABC}$ del $\\text{ATLS}$ y su diagnóstico es $\\text{clínico}$ para proceder con $\\text{descompresión}$ inmediata (toracostomía con aguja).",
+  "11": "La **Muerte Cerebral** (o Muerte Encefálica) es el **cese irreversible** y permanente de todas las funciones del **Tronco Encefálico** y los **Hemisferios Cerebrales**, que debe ser diagnosticado siguiendo un protocolo clínico y $\\text{EEG}$/pruebas confirmatorias rigurosas, de acuerdo a la ley de trasplantes.",
+  "16": "La **Sepsis no controlada** o la presencia de una **infección sistémica activa** (ej. $\\text{VIH}$ con alta carga viral, $\\text{Hepatitis B}$ o $\\text{C}$ activa) son contraindicaciones absolutas para la donación de órganos por el alto riesgo de transmitir la infección al receptor inmunosuprimido.",
+  "17": "El **tiempo de isquemia cálida** (tiempo transcurrido desde la lesión vascular hasta que se $\\text{restablece}$ el flujo) es el factor pronóstico más importante. $\\text{Isquemias mayores}$ a $\\text{6}$ horas conllevan un riesgo muy alto de $\\text{necrosis muscular}$ y fracaso del salvamento, orientando hacia la amputación.",
+  "18": "Cálculo de Midazolam:\\* Paso 1: Dosis requerida ($\text{mcg/h}$) = $\\text{50 mcg/kg/h} \\times 15 \text{ kg} = 750 \text{ mcg/h}$.\\* Paso 2: Concentración ($\text{mcg/mL}$) = $\\text{5000 mcg} / 100 \text{ mL} = 50 \text{ mcg/mL}$.\\* Paso 3: Velocidad ($\text{mL/h}$) = $\\text{750 mcg/h} / 50 \text{ mcg/mL} = \\mathbf{15 \text{ mL/h}}$",
+  "19": "La principal ventaja de la $\\text{Fijación Externa}$ es que es un procedimiento **rápido, mínimamente invasivo** y se puede realizar con el paciente inestable, **disminuyendo el tiempo operatorio** y la $\\text{respuesta inflamatoria}$ sistémica ('second hit') en un paciente $\\text{crítico}$.",
+  "20": "Cálculo de Propofol:\\* Paso 1: Dosis requerida ($\text{mcg/min}$) = $\\text{50 mcg/kg/min} \\times 90 \text{ kg} = 4500 \text{ mcg/min}$.\\* Paso 2: Concentración ($\text{mg/mL}$) = $\\text{1000 mg} / 100 \text{ mL} = 10 \text{ mg/mL} = 10,000 \text{ mcg/mL}$.\\* Paso 3: Velocidad ($\text{mL/min}$) = $\\text{4500 mcg/min} / 10,000 \text{ mcg/mL} = 0.45 \text{ mL/min}$.\\* Paso 4: Velocidad ($\text{mL/h}$) = $\\text{0.45 mL/min} \\times 60 \text{ min/h} = \\mathbf{27 \text{ mL/h}}$",
+  "21": "Las fracturas por $\\text{flexión-distracción}$ o **lesiones del complejo ligamentario posterior** se clasifican como **Lesiones tipo $\\text{B}$** en la clasificación $\\text{AO-Spine}$. Estas",
+  "51": "En una fractura $\\text{Gustilo IIIb}$ (pérdida de cobertura de partes blandas), el objetivo primordial del $\\text{Control de Daños}$ es prevenir la infección. Esto se logra mediante **desbridamiento urgente, irrigación** abundante para eliminar tejido necrótico y contaminantes, y **estabilización temporal con un fijador externo** para proteger el lecho de la herida.",
+  "52": "La **isquemia de la extremidad** por fractura supracondílea es una emergencia. El paso prioritario es la **reducción cerrada inmediata** para liberar la compresión sobre la arteria braquial. Si los pulsos $\\text{no}$ regresan, se procede a la fijación y a la **exploración vascular abierta** urgente.",
+  "53": "La $\\text{Muerte Cerebral}$ causa la **interrupción de la señal hipotalámica de $\\text{ADH}$** (hormona antidiurética), lo que resulta en **Diabetes Insípida central$. Esto provoca una $\\text{diuresis masiva}$ (poliuria) que lleva a la $\\text{hipovolemia}$ y la inestabilidad hemodinámica.",
+  "54": "Cálculo de Vecuronio:\\* Dosis total de fármaco ($\text{mg}$) = $\\text{0.1 mg/kg} \\times 85 \text{ kg} = 8.5 \text{ mg}$.\\* Concentración ($\text{mg/mL}$) = $\\text{10 mg} / 5 \text{ mL} = 2 \text{ mg/mL}$.\\* Volumen ($\text{mL}$) = $\\text{8.5 mg} / 2 \text{ mg/mL} = \\mathbf{4.25 \text{ mL}}$",
+  "55": "Las fracturas intraarticulares severas de **Calcáneo** (generalmente $\\text{Sanders III}$ o $\\text{IV}$) causan la **pérdida de la altura del talón** y la $\\text{deformidad}$ del seno del tarso. La complicación a largo plazo más común es la **Artrosis Subastragalina**, que produce dolor crónico.",
+  "56": "La **Fijación Externa** debe ser convertida a $\\text{fijación definitiva}$ (clavo o placa) tan pronto como el paciente esté $\\text{fisiológicamente estable}$, típicamente dentro de **$\\mathbf{1-2}$ semanas** (periodo de conversión), debido al riesgo creciente de $\\text{infección}$ de los pines y $\\text{retardo de consolidación}$ si se mantiene más tiempo.",
+  "57": "La **triada fatal** que lleva al $\\text{Fallo Multiorgánico}$ en el paciente $\\text{politraumatizado}$ es la combinación de **Hipotermia**, **Acidosis Metabólica** (por hipoperfusión) y **Coagulopatía** (por consumo, dilución y $\\text{acidosis}$).",
+  "58": "La fractura $\\text{Salter-Harris Tipo V}$ es una **lesión por aplastamiento de la fisis**. Su riesgo $\\text{más grave}$ es el **cierre prematuro de la placa de crecimiento**, lo que resulta en $\\text{discrepancia}$ de longitud o $\\text{deformidad angular}$ de la extremidad a medida que el niño crece.",
+  "59": "La **Paraplejia** (déficit neurológico causado por lesión medular) no contraindica la $\\text{donación de órganos}$ (riñones, hígado, pulmones, corazón) siempre y cuando el paciente sea declarado en $\\text{Muerte Cerebral}$ y los órganos estén $\\text{funcionales}$.",
+  "60": "Cálculo de $\\text{Prostaglandina E1}$:\\* Paso 1: Dosis requerida ($\text{mcg/min}$) = $\\text{0.05 mcg/kg/min} \\times 4 \text{ kg} = 0.2 \text{ mcg/min}$.\\* Paso 2: Concentración ($\text{mcg/mL}$) = $\\text{500 mcg} / 50 \text{ mL} = 10 \text{ mcg/mL}$.\\* Paso 3: Velocidad ($\text{mL/min}$) = $\\text{0.2 mcg/min} / 10 \text{ mcg/mL} = 0.02 \text{ mL/min}$.\\* Paso 4: Velocidad ($\text{mL/h}$) = $\\text{0.02 mL/min} \\times 60 \text{ min/h} = \\mathbf{1.2 \text{ mL/h}}$",
+  "61": "La clasificación de **$\text{Judet y Letournel}$** es la más utilizada para describir la $\\text{anatomía}$ y el $\\text{patrón}$ de las **fracturas de Acetábulo**, dividiéndolas en cinco elementales y cinco asociadas.",
+  "62": "El **Signo del nivel graso-líquido (Lipohaemarthrosis)** es un hallazgo radiológico $\\text{típico}$ en la rodilla, donde la $\\text{grasa}$ de la $\\text{médula ósea}$ liberada por la fractura forma un $\\text{nivel}$ visible sobre el $\\text{líquido hemático}$ dentro de la articulación (hemartrosis). ",
+  "63": "El **Shock Espinal** es la **pérdida transitoria de la función neurológica** ($\text{parálisis, anestesia y arreflexia}$) por debajo del nivel de la lesión. El **Shock Neurogénico** es el $\\text{Shock}$ circulatorio (hipotensión y bradicardia) resultante de la $\\text{disrupción simpática}$ (frecuente en lesiones $\\text{T6}$ o superiores).",
+  "64": "Cálculo de Propofol:\\* Dosis requerida ($\text{mg/h}$) = $\\text{3 mg/kg/h} \\times 80 \text{ kg} = 240 \text{ mg/h}$.\\* Concentración ($\text{mg/mL}$) = $\\text{10 mg/mL}$.\\* Velocidad ($\text{mL/h}$) = $\\text{240 mg/h} / 10 \text{ mg/mL} = \\mathbf{24 \text{ mL/h}}$",
+  "65": "El principio de **Autonomía** se refiere al derecho del individuo a tomar decisiones informadas sobre su cuerpo y vida. En trasplantes, esto se traduce en **respetar la voluntad** del donante $\\text{expresada en vida}$ o, en su ausencia, la $\\text{decisión de la familia}$ legalmente responsable.",
+  "66": "Las **Fracturas de las costillas $\\mathbf{1^{a}}$ y $\\mathbf{2^{a}}$ y la fractura de Escápula** son indicativas de $\\text{trauma de altísima energía}$ en el $\\text{tórax}$ y están $\\text{altamente}$ asociadas a $\\text{lesiones graves}$ de $\\text{estructuras mediastinales}$, incluyendo la **Aorta Torácica** y los $\\text{vasos subclavios}$ mayores.",
+  "67": "El desbridamiento y la $\\text{irrigación}$ de la fractura abierta deben realizarse **dentro de las $\\mathbf{6}$ horas** del trauma para reducir drásticamente la $\\text{tasa de infección}$. Este periodo de $\\text{6}$ horas es el **tiempo de oro** para la profilaxis de la infección.",
+  "68": "En las fracturas complejas de $\\text{Meseta Tibial}$ en $\\text{Control de Daños}$, la $\\text{Fijación Externa}$ se coloca de forma **supraarticular o transarticular** para **distraer** y $\\text{neutralizar}$ la articulación. Esto $\\text{descarga}$ la presión en la rodilla y $\\text{protege}$ el $\\text{lecho de partes blandas}$ hinchado, facilitando el $\\text{manejo}$ de las heridas y la $\\text{disminución}$ del riesgo de $\\text{complicaciones}$.",
+  "69": "Cálculo de Milrinone:\\* Paso 1: Dosis requerida ($\text{mcg/min}$) = $\\text{0.5 mcg/kg/min} \\times 12 \text{ kg} = 6 \text{ mcg/min}$.\\* Paso 2: Concentración ($\text{mcg/mL}$) = $\\text{20,000 mcg} / 100 \text{ mL} = 200 \text{ mcg/mL}$.\\* Paso 3: Velocidad ($\text{mL/min}$) = $\\text{6 mcg/min} / 200 \text{ mcg/mL} = 0.03 \text{ mL/min}$.\\* Paso 4: Velocidad ($\text{mL/h}$) = $\\text{0.03 mL/min} \\times 60 \text{ min/h} = \\mathbf{1.8 \text{ mL/h}}$",
+  "70": "Las fracturas **subcapitales desplazadas** (Tipo $\\text{III}$ o $\\text{IV}$ de $\\text{Garden}$) son $\\text{intracapsulares}$. La línea de fractura interrumpe el $\\text{riego sanguíneo principal}$ de la cabeza femoral, que proviene de los $\\text{vasos retinaculares}$. Por ello, tienen el **mayor riesgo de $\\text{Necrosis Avascular}$ ($\text{NAV}$)**.",
+  "71": "El **Corazón** tolera el $\\text{menor}$ tiempo de $\\text{isquemia fría}$ ($\text{4-6}$ horas) debido a su $\\text{alta demanda metabólica}$ y $\\text{sensibilidad}$ a la lesión por isquemia-reperfusión. Le siguen los $\\text{pulmones}$ y luego el $\\text{hígado}$ y $\\text{páncreas}$. El $\\text{riñón}$ y el $\\text{hueso}$ toleran tiempos $\\text{mucho mayores}$ ($\text{24}$ horas o más).",
+  "72": "El $\\text{Dolor Desproporcionado}$ al examen o el dolor con la **movilización $\\text{pasiva}$** de los dedos/dedos del pie (lo que estira los músculos dentro del compartimento) es el signo $\\text{más sensible}$ y $\\text{confiable}$ del **Síndrome Compartimental Agudo**. La $\\text{ausencia de pulso}$ es un signo $\\text{tardío}$ e ominoso.",
+  "73": "Cálculo de Cefepime:\\* Dosis por dosis ($\text{mg}$) = $\\text{2000 mg}$.\\* Dosis ponderal ($\text{mg/kg/dosis}$) = $\\text{2000 mg} / 65 \text{ kg} = \\mathbf{30.76 \text{ mg/kg/dosis}}$",
+  "74": "En el paciente $\\text{gran quemado}$, el proceso de curación y la $\\text{inmovilización}$ prolongada llevan a **Contracturas articulares** y, de forma significativa, a **$\text{Heterotopia Ósea}$** (formación de hueso nuevo en tejidos blandos periarticulares) alrededor de las articulaciones, que limita el movimiento.",
+  "75": "Las lesiones de **$\text{Fractura-luxación}$ con $\\text{translación}$** (desplazamiento de una vértebra sobre otra) son $\\text{extremadamente inestables}$ y se asocian a una **disrupción completa** de la $\\text{médula espinal}$, lo que resulta en un $\\text{alto riesgo}$ de $\\text{paraplejia}$ (o tetraplejia, si es cervical) $\\text{completa}$.",
+  "76": "El $\\text{trauma}$ $\\text{muscular}$ $\\text{masivo}$ o $\\text{el}$ $\\text{Síndrome}$ $\\text{Compartimental}$ $\\text{libera}$ grandes cantidades de **Mioglobina** y **potasio** (hipercalemia) a la circulación. La $\\text{mioglobina}$ es $\\text{nefrotóxica}$ y $\\text{precipita}$ en los $\\text{túbulos}$ $\\text{renales}$, causando $\\text{necrosis}$ $\\text{tubular}$ $\\text{aguda}$ ($\text{NTA}$) e $\\text{insuficiencia}$ $\\text{renal}$ $\\text{aguda}$.",
+  "76": "El $\\text{daño renal}$ es una complicación frecuente del $\\text{politraumatismo}$ masivo debido a la $\\text{hipotensión}$ y la $\\text{rabdomiólisis}$. La **mioglobina** liberada en la $\\text{rabdomiólisis}$ ($\text{secondary hit}$ de la fractura) es $\\text{tóxica}$ para los $\\text{túbulos renales}$ en $\\text{ambientes ácidos}$ e $\\text{hipovolémicos}$.",
+  "77": "La **Luxación Posterior de Cadera** es la $\\text{más}$ $\\text{común}$ y ejerce $\\text{tensión}$ y $\\text{compresión}$ sobre el $\\text{Nervio Ciático}$ (principalmente el componente $\\text{peroneo}$), lo que puede $\\text{causar}$ $\\text{parálisis}$ $\\text{del}$ $\\text{pie}$ ($\text{pie}$ $\\text{caído}$). La $\\text{reducción}$ $\\text{urgente}$ es $\\text{clave}$.",
+  "77": "El **Síndrome de Leriche** es la oclusión de la $\\text{aorta terminal}$ o las $\\text{ilíacas}$ (causando $\\text{claudicación}$ bilateral, $\\text{impotencia}$ y $\\text{ausencia de pulsos}$ femorales). La **luxación de cadera** puede dañar la $\\text{arteria femoral}$ y causar $\\text{isquemia unilateral}$ o $\\text{bilateral}$ aguda, simulando o complicando un $\\text{Leriche}$.",
+  "78": "La $\\text{Diabetes Insípida}$ central $\\text{es}$ $\\text{la}$ $\\text{incapacidad}$ $\\text{de}$ $\\text{producir}$ $\\text{ADH}$. La **Desmopresina** ($\text{DDAVP}$) es $\\text{el}$ $\\text{análogo}$ $\\text{sintético}$ $\\text{de}$ $\\text{ADH}$ $\\text{de}$ $\\text{elección}$ para $\\text{controlar}$ la $\\text{poliuria}$ y $\\text{prevenir}$ la $\\text{deshidratación}$ en $\\text{el}$ $\\text{donante}$.",
+  "78": "La $\\text{Diabetes Insípida}$ central en el donante con $\\text{Muerte Cerebral}$ se trata reemplazando la $\\text{ADH}$ faltante. La **Desmopresina** (análogo de $\\text{ADH}$) es el fármaco de elección para $\\text{disminuir}$ la $\\text{diuresis}$ y $\\text{estabilizar}$ el volumen circulante.",
+  "79": "Cálculo de Morfina (Bolo):\\* Dosis total de fármaco ($\text{mg}$) = $\\text{0.1 mg/kg} \\times 6 \text{ kg} = 0.6 \text{ mg}$.\\* Concentración ($\text{mg/mL}$) = $\\text{1 mg/mL}$.\\* Volumen ($\text{mL}$) = $\\text{0.6 mg} / 1 \text{ mg/mL} = \\mathbf{0.6 \text{ mL}}$",
+  "79": "Cálculo de Morfina (Bolo):\\* Dosis total de fármaco ($\text{mg}$) = $\\text{0.1 mg/kg} \\times 6 \text{ kg} = 0.6 \text{ mg}$.\\* Concentración ($\text{mg/mL}$) = $\\text{1 mg/mL}$.\\* Volumen ($\text{mL}$) = $\\text{0.6 mg} / 1 \text{ mg/mL} = \\mathbf{0.6 \text{ mL}}$",
+  "80": "La **Luxación Posterior de Hombro** es $\\text{rara}$, pero se $\\text{asocia}$ $\\text{fuertemente}$ $\\text{con}$ $\\text{eventos}$ $\\text{convulsivos}$ (epilepsia, $\\text{eclampsia}$) $\\text{o descargas}$ $\\text{eléctricas}$ ($\text{electrocución}$) $\\text{por}$ la $\\text{fuerza}$ $\\text{de rotación}$ $\\text{interna}$ $\\text{forzada}$.",
+  "80": "La luxación de hombro $\\text{anterior}$ es la $\\text{más común}$. Sin embargo, la **Luxación $\\text{Posterior}$** (a menudo por convulsiones o $\\text{electrocución}$) es la $\\text{más frecuentemente omitida}$ en el diagnóstico inicial. El signo $\\text{clínico}$ clave es la $\\text{limitación}$ de la $\\text{rotación externa}$.",
+  "81": "La clasificación $\\text{Gustilo III}$ se $\\text{divide}$: $\\text{IIIa}$ (cobertura $\\text{posible}$), $\\text{IIIb}$ ($\text{pérdida}$ $\\text{severa}$ de $\\text{cobertura}$ $\\text{que}$ $\\text{requiere}$ $\\text{colgajo}$), y $\\mathbf{IIIc}$ ($\text{lesión}$ $\\text{arterial}$ $\\text{mayor}$ $\\text{que}$ $\\text{requiere}$ $\\text{reparación}$ $\\text{vascular}$ $\\text{independientemente}$ $\\text{de}$ $\\text{la}$ $\\text{cobertura}$).",
+  "81": "La **fractura $\\text{Gustilo IIIc}$** implica una $\\text{lesión arterial mayor}$ que requiere $\\text{reparación vascular}$ además de la $\\text{fijación ósea}$. La $\\text{IIIb}$ implica $\\text{pérdida}$ de $\\text{cobertura}$ con $\\text{contaminación severa}$ pero $\\text{sin}$ lesión arterial mayor.",
+  "82": "La **Escoliosis Idiopática del Adolescente** ($\text{EIA}$) es $\\text{la}$ $\\text{deformidad}$ $\\text{espinal}$ $\\text{más}$ $\\text{común}$ en $\\text{adolescentes}$ y $\\text{su}$ $\\text{origen}$ $\\text{es}$ $\\text{desconocido}$ ($\text{no}$ $\\text{traumático}$).",
+  "82": "La **$\text{escoliosis idiopática}$ del adolescente** (EIA) es la forma $\\text{más común}$ de $\\text{deformidad espinal}$ en $\\text{niños}$ y $\\text{adolescentes}$, y generalmente $\\text{no}$ se asocia a un trauma agudo $\\text{o}$ $\\text{neurológico}$ en su forma idiopática.",
+  "83": "La **Presión de Perfu-sión Cerebral** ($\text{PPC}$) $\\text{es}$ $\\text{el}$ $\\text{gradiente}$ $\\text{de}$ $\\text{presión}$ $\\text{que}$ $\\text{impulsa}$ $\\text{el}$ $\\text{flujo}$ $\\text{sanguíneo}$ al $\\text{cerebro}$. Se $\\text{calcula}$ como: $\\mathbf{\\text{PAM} - \text{PIC}}$ (Presión Arterial Media - Presión Intracraneal).",
+  "83": "El $\\text{Cálculo de la $\\text{Presión de Perfu-sión Cerebral}$ ($\text{PPC}$)}$ es crucial en el paciente $\\text{TCE}$ $\\text{crítico}$. Se calcula como: $\\mathbf{\\text{PAM} - \text{PIC}}$ (Presión Intracraneal). Mantener la $\\text{PPC} > 60 \text{ mmHg}$ es el objetivo.",
+  "84": "Cálculo de $\\text{Furosemida}$:\\* Dosis total de fármaco ($\text{mg}$) = $\\text{0.5 mg/kg} \\times 8 \text{ kg} = 4 \text{ mg}$.\\* Concentración ($\text{mg/mL}$) = $\\text{10 mg/mL}$.\\* Volumen ($\text{mL}$) = $\\text{4 mg} / 10 \text{ mg/mL} = \\mathbf{0.4 \text{ mL}}$",
+  "84": "Cálculo de $\\text{Furosemida}$:\\* Dosis total de fármaco ($\text{mg}$) = $\\text{0.5 mg/kg} \\times 8 \text{ kg} = 4 \text{ mg}$.\\* Concentración ($\text{mg/mL}$) = $\\text{10 mg/mL}$.\\* Volumen ($\text{mL}$) = $\\text{4 mg} / 10 \text{ mg/mL} = \\mathbf{0.4 \text{ mL}}$",
+  "85": "El principio de **No Maleficencia** $\\text{obliga}$ $\\text{a}$ $\\text{no}$ $\\text{causar}$ $\\text{daño}$. $\\text{Ocultar}$ $\\text{información}$ $\\text{clave}$ $\\text{sobre}$ $\\text{riesgos}$ $\\text{de}$ $\\text{transmisión}$ $\\text{de}$ $\\text{enfermedades}$ $\\text{graves}$ $\\text{viola}$ $\\text{este}$ $\\text{principio}$ al $\\text{poner}$ en $\\text{peligro}$ $\\text{la}$ $\\text{salud}$ $\\text{del}$ $\\text{receptor}$.",
+  "85": "El principio ético de **No Maleficencia** se viola directamente si se $\\text{miente}$ al $\\text{receptor}$ sobre la $\\text{calidad}$ del órgano o $\\text{se ocultan}$ $\\text{contraindicaciones}$ $\\text{médicas}$ $\\text{conocidas}$ del donante (ej. $\\text{infecciones}$ activas).",
+  "86": "El 'second hit' $\\text{describe}$ la $\\text{cascada}$ $\\text{inflamatoria}$ $\\text{exacerbada}$ $\\text{que}$ $\\text{sigue}$ a $\\text{un}$ $\\text{segundo}$ $\\text{evento}$ $\\text{agresivo}$ ($\text{cirugía}$ $\\text{prolongada}$ $\\text{o}$ $\\text{infección}$) $\\text{en}$ $\\text{un}$ $\\text{paciente}$ $\\text{que}$ $\\text{ya}$ $\\text{ha}$ $\\text{sufrido}$ $\\text{un}$ $\\text{primer}$ $\\text{trauma}$ $\\text{severo}$, $\\text{llevando}$ al $\\text{MODS}$.",
+  "86": "La $\\text{fijación inmediata}$ de la fractura de $\\text{Columna}$ en un $\\text{politraumatizado}$ inestable puede $\\text{aumentar}$ la $\\text{respuesta inflamatoria}$ sistémica ($\text{SIRS}$) y precipitar el $\\text{Fallo Multiorgánico}$ ($\text{MODS}$), conocido como el $\\text{segundo golpe}$ o 'second hit'.",
+  "87": "La **Fractura por Estallido ($\text{Burst}$)** $\\text{implica}$ $\\text{fuerzas}$ $\\text{axiales}$ $\\text{y}$ $\\text{de}$ $\\text{compresión}$ $\\text{que}$ $\\text{rompen}$ $\\text{el}$ $\\text{cuerpo}$ $\\text{vertebral}$ $\\text{en}$ $\\text{fragmentos}$. $\\text{Los}$ $\\text{fragmentos}$ $\\text{suelen}$ $\\text{ser}$ $\\text{retropulsados}$ $\\text{hacia}$ $\\text{el}$ $\\text{canal}$ $\\text{espinal}$, $\\text{causando}$ $\\text{daño}$ $\\text{medular}$.",
+  "87": "La **lesión $\\text{por estallido}$ de $\\text{cuerpo vertebral}$** es la $\\text{más inestable}$ de las $\\text{lesiones por compresión}$. $\\text{Implica}$ la $\\text{rotura}$ del $\\text{cuerpo}$ en $\\text{fragmentos}$ que pueden $\\text{retropulsarse}$ hacia el $\\text{canal espinal}$, causando $\\text{compresión}$ medular $\\text{significativa}$.",
+  "88": "El $\\text{anillo}$ $\\text{posterior}$ $\\text{de}$ $\\text{la}$ $\\text{pelvis}$ $\\text{es}$ $\\text{la}$ $\\text{estructura}$ $\\text{de}$ $\\text{carga}$ $\\text{principal}$. $\\text{La}$ $\\text{fijación}$ $\\text{del}$ $\\text{anillo}$ $\\text{posterior}$ $\\text{busca}$ $\\mathbf{\\text{restaurar la carga axial y estabilizar la articulación sacroilíaca}}$ $\\text{para}$ $\\text{lograr}$ $\\text{estabilidad}$ $\\text{mecánica}$.",
+  "88": "El tratamiento de elección para la $\\text{inestabilidad rotacional}$ ($\text{Tile B}$) es la **fijación abierta y osteosíntesis** de las $\\text{ramas iliopúbicas}$ (si están fracturadas) y la **fijación percutánea** o $\\text{abierta}$ del $\\text{anillo posterior}$ ($\text{sacroilíaca}$).",
+  "89": "Las $\\text{maniobras}$ $\\text{de}$ **$\text{Ortolani}$ y $\\text{Barlow}$** son $\\text{pruebas}$ $\\text{clínicas}$ $\\text{de}$ $\\text{detección}$ $\\text{temprana}$ $\\text{para}$ la **Displasia del Desarrollo de Cadera ($\text{DDC}$)** en $\\text{neonatos}$.",
+  "89": "La $\\text{luxación congénita de cadera}$ ($\text{DDC}$) en $\\text{neonatos}$ se evalúa mediante la $\\text{maniobra de $\\text{Ortolani}$}$ (reducción) y $\\text{Barlow}$ (luxación). .",
+  "90": "Cálculo de $\\text{Nitroprusiato}$ $\\text{de}$ $\\text{Sodio}$:\\* Paso 1: Dosis requerida ($\text{mcg/min}$) = $\\text{1 mcg/kg/min} \\times 90 \text{ kg} = 90 \text{ mcg/min}$.\\* Paso 2: Concentración ($\text{mcg/mL}$) = $\\text{50,000 mcg} / 250 \text{ mL} = 200 \text{ mcg/mL}$.\\* Paso 3: Velocidad ($\text{mL/min}$) = $\\text{90 mcg/min} / 200 \text{ mcg/mL} = 0.45 \text{ mL/min}$.\\* Paso 4: Velocidad ($\text{mL/h}$) = $\\text{0.45 mL/min} \\times 60 \text{ min/h} = \\mathbf{27 \text{ mL/h}}$",
+  "90": "Cálculo de $\\text{Nitroprusiato}$:\\* Paso 1: Dosis requerida ($\text{mcg/min}$) = $\\text{1 mcg/kg/min} \\times 90 \text{ kg} = 90 \text{ mcg/min}$.\\* Paso 2: Concentración ($\text{mcg/mL}$) = $\\text{50,000 mcg} / 250 \text{ mL} = 200 \text{ mcg/mL}$.\\* Paso 3: Velocidad ($\text{mL/min}$) = $\\text{90 mcg/min} / 200 \text{ mcg/mL} = 0.45 \text{ mL/min}$.\\* Paso 4: Velocidad ($\text{mL/h}$) = $\\text{0.45 mL/min} \\times 60 \text{ min/h} = \\mathbf{27 \text{ mL/h}}$",
+  "91": "La **Metáfisis** $\\text{es}$ $\\text{la}$ $\\text{zona}$ $\\text{más}$ $\\text{frecuente}$ $\\text{de}$ $\\text{infección}$ $\\text{en}$ $\\text{la}$ $\\text{osteomielitis}$ $\\text{hematógena}$ $\\text{infantil}$ $\\text{debido}$ $\\text{a}$ $\\text{su}$ $\\text{vascularización}$ $\\text{terminal}$ $\\text{lenta}$ $\\text{y}$ $\\text{tortuosa}$ $\\text{en}$ $\\text{esta}$ $\\text{región}$ $\\text{del}$ $\\text{hueso}$.",
+  "91": "La $\\text{osteomielitis}$ es la $\\text{infección bacteriana}$ del hueso, generalmente $\\text{hematógena}$ en $\\text{niños}$ (frecuentemente en la $\\text{metáfisis}$) y $\\text{postraumática}$ en $\\text{adultos}$.",
+  "92": "El $\\text{manejo}$ $\\text{de}$ $\\text{la}$ $\\text{Traumatología}$ $\\text{en}$ $\\text{Control}$ $\\text{de}$ $\\text{Daños}$ $\\text{requiere}$ $\\text{la}$ $\\text{experiencia}$ $\\text{de}$ $\\text{un}$ **Traumatólogo (Cirujano Ortopeda)** $\\text{con}$ $\\text{formación}$ $\\text{específica}$ $\\text{en}$ $\\text{el}$ $\\text{paciente}$ $\\text{politraumatizado}$ $\\text{crítico}$.",
+  "92": "El $\\text{manejo}$ $\\text{ortopédico}$ de un $\\text{paciente crítico}$ $\\text{debe}$ ser realizado por un $\\text{cirujano ortopeda}$ con experiencia en $\\text{traumatología}$ $\\text{compleja}$ y $\\text{manejo}$ de $\\text{Control de Daños}$.",
+  "93": "Para $\\text{garantizar}$ la **objetividad** y **ética** $\\text{en}$ $\\text{el}$ $\\text{proceso}$ $\\text{de}$ $\\text{donación}$, $\\text{el}$ $\\text{equipo}$ $\\text{médico}$ $\\text{que}$ $\\text{declara}$ $\\text{la}$ $\\text{muerte}$ $\\text{cerebral}$ $\\text{debe}$ $\\text{ser}$ **totalmente independiente** del $\\text{equipo}$ $\\text{que}$ $\\text{participa}$ $\\text{en}$ $\\text{la}$ $\\text{extracción}$ $\\text{o}$ $\\text{el}$ $\\text{trasplante}$.",
+  "93": "La $\\text{ley de trasplantes}$ $\\text{asegura}$ que la $\\text{muerte}$ del $\\text{donante}$ debe $\\text{ser}$ $\\text{declarada}$ por un $\\text{equipo médico}$ $\\text{totalmente}$ $\\text{independiente}$ del $\\text{equipo de trasplantes}$ para $\\text{evitar}$ $\\text{conflictos}$ de $\\text{interés}$ $\\text{y garantizar}$ la $\\text{objetividad}$.",
+  "94": "Cálculo de $\\text{Vancomicina}$:\\* Dosis total de fármaco ($\text{mg}$) = $\\text{15 mg/kg} \\times 15 \text{ kg} = 225 \text{ mg}$.\\* Concentración ($\text{mg/mL}$) = $\\text{500 mg} / 10 \text{ mL} = 50 \text{ mg/mL}$.\\* Volumen ($\text{mL}$) = $\\text{225 mg} / 50 \text{ mg/mL} = \\mathbf{4.5 \text{ mL}}$",
+  "95": "La $\\text{complicación}$ $\\text{infecciosa}$ $\\text{más}$ $\\text{temida}$ $\\text{y}$ $\\text{frecuente}$ $\\text{a}$ $\\text{largo}$ $\\text{plazo}$ $\\text{en}$ $\\text{las}$ $\\text{fracturas}$ $\\text{abiertas}$ $\\text{de}$ $\\text{alto}$ $\\text{grado}$ $\\text{es}$ la **Osteomielitis Crónica**, $\\text{la}$ $\\text{infección}$ $\\text{persistente}$ $\\text{del}$ $\\text{hueso}$.",
+  "96": "La **Clasificación $\\text{AO}$** $\\text{se}$ $\\text{basa}$ $\\text{en}$ $\\text{principios}$ $\\text{biomecánicos}$ $\\text{y}$ $\\text{morfológicos}$ $\\text{para}$ $\\text{describir}$ $\\text{la}$ $\\text{fractura}$, $\\text{utilizando}$ $\\mathbf{\\text{la estabilidad y la anatomía de la fractura}}$ $\\text{para}$ $\\text{guiar}$ $\\text{el}$ $\\text{tratamiento}$.",
+  "97": "La **Presión Arterial Media ($\text{PAM}$)** $\\text{es}$ $\\text{el}$ $\\text{parámetro}$ $\\text{más}$ $\\text{crítico}$ $\\text{para}$ $\\text{mantener}$ la $\\text{perfusión}$ $\\text{cerebral}$ ($\text{PAM} - \text{PIC}$) $\\text{y}$ la $\\text{perfusión}$ $\\text{de}$ $\\text{los}$ $\\text{órganos}$ $\\text{vitales}$ ($\text{riñón}$, $\\text{corazón}$) $\\text{en}$ $\\text{el}$ $\\text{paciente}$ $\\text{en}$ $\\text{Shock}$.",
+  "98": "La **Fractura de Fémur** en $\\text{niños}$ $\\text{menores}$ $\\text{de}$ $\\text{2}$ $\\text{años}$ $\\text{es}$ $\\text{muy}$ $\\text{rara}$ $\\text{por}$ $\\text{accidentes}$ $\\text{domésticos}$ $\\text{menores}$. $\\text{Una}$ $\\text{fractura}$ $\\text{sin}$ $\\text{un}$ $\\text{mecanismo}$ $\\text{de}$ $\\text{trauma}$ $\\text{claro}$ $\\text{y}$ $\\text{adecuado}$ $\\text{es}$ **altamente sospechosa de $\\text{Maltrato Infantil}$** ($\text{Abuso}$ $\\text{Físico}$).",
+  "99": "Las $\\text{guías}$ $\\text{modernas}$ $\\text{de}$ $\\text{reanimación}$ $\\text{por}$ $\\text{trauma}$ $\\text{recomiendan}$ $\\text{el}$ $\\text{uso}$ $\\text{inicial}$ $\\text{de}$ **Cristaloides isotónicos** ($\text{Ringer Lactato}$ $\\text{o Salino}$) $\\text{mientras}$ $\\text{se}$ $\\text{esperan}$ $\\text{los}$ $\\text{hemoderivados}$, $\\text{aunque}$ $\\text{con}$ $\\text{un}$ $\\text{volumen}$ $\\text{más}$ $\\text{restringido}$ ($\text{Permissive}$ $\\text{Hypotension}$) $\\text{en}$ $\\text{sangrados}$ $\\text{no}$ $\\text{controlados}$.",
+  "100": "La $\\text{prohibición}$ $\\text{de}$ $\\text{la}$ $\\text{comercialización}$ $\\text{de}$ $\\text{órganos}$ $\\text{y}$ $\\text{la}$ $\\text{gratuidad}$ $\\text{de}$ $\\text{la}$ $\\text{donación}$ $\\text{se}$ $\\text{basa}$ $\\text{en}$ $\\text{el}$ $\\text{principio}$ $\\text{ético}$ $\\text{de}$ **Justicia** $\\text{y}$ $\\text{el}$ $\\text{valor}$ $\\text{de}$ $\\text{la}$ **Dignidad Humana** $\\text{para}$ $\\text{evitar}$ $\\text{la}$ $\\text{explotación}$ $\\text{y}$ $\\text{asegurar}$ $\\text{el}$ $\\text{acceso}$ $\\text{equitativo}$ $\\text{a}$ $\\text{los}$ $\\text{trasplantes}$. "
+}
