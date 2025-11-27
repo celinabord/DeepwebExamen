@@ -368,7 +368,7 @@
     },
     {
       "id": 29,
-      "caso_clinico": "Neonato de 2 kg con PCA y Falla Cardíaca. Requiere infusión de Milrinone a dosis de $0.25\\text{ mcg/kg/min}$. Dilución: $10\\text{ mg}$ en $100\\text{ mL}$.",
+      "caso_clinico": "Neonato de 2 kg con PCA y Falla Cardíaca. Requiere infusión de Milrinone a dosis de 0.25 mcg/kg/min. Dilución: 10 mg en 100 mL.",
       "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Milrinone?",
       "opciones": {
         "a": "0.3 mL/h.",
@@ -386,7 +386,7 @@
       "opciones": {
         "a": "Se permite la venta si se acredita una necesidad económica extrema.",
         "b": "Se permite una compensación limitada por gastos directos.",
-        "c": "La donación de órganos es un acto $\\mathbf{\\text{a} \\text{ título} \\text{ gratuito}}$.",
+        "c": "La donación de órganos es un acto a título gratuito.",
         "d": "Se permite el intercambio de órganos entre hospitales privados a costo de recuperación. "
       },
       "respuesta_correcta": "c",
@@ -426,7 +426,7 @@
         "a": "Mantener una PEEP alta para evitar el colapso pulmonar.",
         "b": "Lograr la normotermia y normovolemia.",
         "c": "Administrar antibióticos de amplio espectro de forma profiláctica.",
-        "d": "Mantener la Presión Intracraneal (PIC) por debajo de $10\\text{ mmHg}$."
+        "d": "Mantener la Presión Intracraneal (PIC) por debajo de 10 mmHg."
       },
       "respuesta_correcta": "b",
       "tema": "Legislación - Manejo del Donador"
@@ -498,7 +498,7 @@
     },
     {
       "id": 39,
-      "caso_clinico": "Adulto de 60 kg en shock séptico. Se decide iniciar infusión de Dopamina a $10\\text{ mcg/kg/min}$. Dilución estándar: $400\\text{ mg}$ en $250\\text{ mL}$.",
+      "caso_clinico": "Adulto de 60 kg en shock séptico. Se decide iniciar infusión de Dopamina a 10 mcg/kg/min. Dilución estándar: 400 mg en 250 mL.",
       "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión de Dopamina?",
       "opciones": {
         "a": "22.5 mL/h.",
@@ -563,7 +563,7 @@
     },
     {
       "id": 44,
-      "caso_clinico": "Neonato (1.5 kg) en ventilación mecánica. Se requiere un bolo de Morfina a $100\\text{ mcg/kg}$. La concentración es $1\\text{ mg/mL}$.",
+      "caso_clinico": "Neonato (1.5 kg) en ventilación mecánica. Se requiere un bolo de Morfina a 100 mcg/kg. La concentración es 1 mg/mL.",
       "pregunta": "¿Cuántos mililitros (mL) de Morfina deben administrarse en bolo?",
       "opciones": {
         "a": "0.15 mL.",
@@ -693,7 +693,7 @@
     },
     {
       "id": 54,
-      "caso_clinico": "Adulto de 100 kg en $\\text{Shock}$ Cardiógeno. Se requiere infusión de Dobutamina a $5\\text{ mcg/kg/min}$. Dilución: $250\\text{ mg}$ en $250\\text{ mL}$.",
+      "caso_clinico": "Adulto de 100 kg en Shock Cardiógeno. Se requiere infusión de Dobutamina a 5 mcg/kg/min. Dilución: 250 mg en 250 mL.",
       "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión de Dobutamina?",
       "opciones": {
         "a": "30.0 mL/h.",
@@ -813,18 +813,18 @@
       "caso_clinico": "Adulto con traqueostomía. Se requiere una cánula con balón (cuff) para iniciar la ventilación mecánica. El balón se infla hasta que se detiene la fuga de aire.",
       "pregunta": "¿Cuál es la presión máxima recomendada para el manguito (cuff pressure) que se considera segura para prevenir la isquemia traqueal?",
       "opciones": {
-        "a": "Menos de $10\\text{ cmH}_2\\text{O}$.",
-        "b": "Entre $20\\text{ y } 30\\text{ cmH}_2\\text{O}$.",
-        "c": "Entre $30\\text{ y } 40\\text{ cmH}_2\\text{O}$.",
-        "d": "Más de $40\\text{ cmH}_2\\text{O}$ si es necesario para evitar fuga."
+        "a": "Menos de 10  cmH_2O.",
+        "b": "Entre 20 y 30 cmH_2O.",
+        "c": "Entre 30 y 40 cmH_2O.",
+        "d": "Más de 40 cmH_2O si es necesario para evitar fuga."
       },
       "respuesta_correcta": "b",
       "tema": "Adulto - Cuidados de Vía Aérea Artificial"
     },
     {
       "id": 64,
-      "caso_clinico": "Neonato (3 kg) con hipoglucemia refractaria. Se requiere infusión de Glucosa $10\\%$ para mantener un aporte de glucosa de $6\\text{ mg/kg/min}$.",
-      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Glucosa $10\\%$ (asumiendo que $10\\%$ Glucosa son $100\\text{ mg/mL}$)?",
+      "caso_clinico": "Neonato (3 kg) con hipoglucemia refractaria. Se requiere infusión de Glucosa 10 para mantener un aporte de glucosa de 6 mg/kg/min.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Glucosa 10 (asumiendo que 10 Glucosa son 100 mg/mL)?",
       "opciones": {
         "a": "10.8 mL/h.",
         "b": "1.08 mL/h.",
@@ -1005,8 +1005,8 @@
     },
     {
       "id": 78,
-      "caso_clinico": "Neonato (4 kg) con encefalopatía hipóxico-isquémica. Se requiere infusión de Fenobarbital para control de crisis a $5\\text{ mg/kg/día}$ en infusión continua.",
-      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Fenobarbital si se diluyen $50\\text{ mg}$ en $50\\text{ mL}$ y se administra en $24$ horas?",
+      "caso_clinico": "Neonato (4 kg) con encefalopatía hipóxico-isquémica. Se requiere infusión de Fenobarbital para control de crisis a 5 mg/kg/día en infusión continua.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Fenobarbital si se diluyen 50  mg en 50  mL y se administra en 24 horas?",
       "opciones": {
         "a": "0.1 mL/h.",
         "b": "0.2 mL/h.",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": 83,
-      "caso_clinico": "Paciente pediátrico (8 kg) con hipertensión arterial. Se requiere infusión de Nicardipino a $1\\text{ mcg/kg/min}$. Dilución: $10\\text{ mg}$ en $100\\text{ mL}$.",
+      "caso_clinico": "Paciente pediátrico (8 kg) con hipertensión arterial. Se requiere infusión de Nicardipino a 1 mcg/kg/min}$. Dilución: 10 mg en 100 mL.",
       "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión de Nicardipino?",
       "opciones": {
         "a": "0.48 mL/h.",
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 88,
-      "caso_clinico": "Adulto de 65 kg con $\\text{Shock}$ Séptico. Se requiere infusión de Vasopresina a $0.02\\text{ U/min}$. Dilución: $20\\text{ U}$ en $100\\text{ mL}$.",
+      "caso_clinico": "Adulto de 65 kg con Shock Séptico. Se requiere infusión de Vasopresina a 0.02 U/min. Dilución: 20 U en 100  mL.",
       "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión de Vasopresina?",
       "opciones": {
         "a": "3.0 mL/h.",
@@ -1187,7 +1187,7 @@
     },
     {
       "id": 92,
-      "caso_clinico": "Adulto con Otitis Media Necrotizante Externa (Maligna) por *Pseudomonas aeruginosa*. Se encuentra en UCI por $\\text{Shock}$ Séptico y requiere antibiótico IV.",
+      "caso_clinico": "Adulto con Otitis Media Necrotizante Externa (Maligna) por *Pseudomonas aeruginosa*. Se encuentra en UCI por Shock Séptico y requiere antibiótico IV.",
       "pregunta": "¿Cuál es el antibiótico de elección para el tratamiento de la Otitis Externa Maligna?",
       "opciones": {
         "a": "Amoxicilina-Clavulánico.",
@@ -1200,7 +1200,7 @@
     },
     {
       "id": 93,
-      "caso_clinico": "Paciente pediátrico (12 kg) con $\\text{Shock}$ Séptico. Se requiere infusión de Solución Fisiológica a $20\\text{ mL/kg}$ en bolo rápido.",
+      "caso_clinico": "Paciente pediátrico (12 kg) con Shock Séptico. Se requiere infusión de Solución Fisiológica a $20\\text{ mL/kg}$ en bolo rápido.",
       "pregunta": "¿Cuántos mililitros (mL) de Solución Fisiológica deben administrarse en el bolo inicial?",
       "opciones": {
         "a": "120 mL.",
@@ -1265,7 +1265,7 @@
     },
     {
       "id": 98,
-      "caso_clinico": "Adulto de 90 kg con hipertensión grave. Se requiere infusión de Nitroprusiato de Sodio a $0.5\\text{ mcg/kg/min}$. Dilución: $50\\text{ mg}$ en $250\\text{ mL}$.",
+      "caso_clinico": "Adulto de 90 kg con hipertensión grave. Se requiere infusión de Nitroprusiato de Sodio a 0.5 mcg/kg/min. Dilución: 50 mg en 250 mL.",
       "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión de Nitroprusiato de Sodio?",
       "opciones": {
         "a": "13.5 mL/h.",
