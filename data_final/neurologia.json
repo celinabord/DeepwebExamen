@@ -1,107 +1,248 @@
-[
-  {"question":"¿Cuál es el abordaje quirúrgico más habitual para resección de un tumor pineal sintomático en adulto?","options":["Craniectomía frontal media","Abordaje occipital transtentorial (infratentorial-supracerebeloso)","Abordaje transnasal endoscópico","Laminectomía cervical"],"answer":1},
-  {"question":"En el manejo agudo de una convulsión tónico-clónica prolongada (>5 minutos), el tratamiento de primera línea intravenoso es:","options":["Fenitoína","Midazolam o lorazepam (benzodiacepinas)","Vancomicina","Prednisona"],"answer":1},
-  {"question":"Señale la prueba de imagen más sensible para detectar isquemia cerebral aguda en las primeras horas:","options":["Radiografía simple de cráneo","TC sin contraste","RM con difusión (DWI)","Ecografía Doppler carotídea"],"answer":2},
-  {"question":"Cuál maniobra se utiliza para evaluar la integridad del nervio facial (VII) a nivel periférico?","options":["Pedir al paciente que cierre los ojos y sonría (parálisis de la frente afectada)","Exploración del reflejo rotuliano","Test de Romberg","Prueba de Weber"],"answer":0},
-  {"question":"Signo de alarma que sugiere hipertensión intracraneal aguda:","options":["Pupilas isocóricas y reactivas","Vómitos en proyectil y bradicardia","Mejora de cefalea al acostarse","Aumento de apetito"],"answer":1},
-  {"question":"Prueba diagnóstica de elección para sospecha de meningitis bacteriana en paciente estable:","options":["Punción lumbar con análisis de LCR","Radiografía de tórax","Electrocardiograma","Ecografía abdominal"],"answer":0},
-  {"question":"Un Babinski positivo indica lesión en:","options":["Vía corticoespinal (tracto piramidal)","Nervio periférico motor","Sistema vestibular","Nervio óptico"],"answer":0},
-  {"question":"Cuál es el manejo de elección inicial para el síndrome de Guillain-Barré con progresión rápida y compromiso respiratorio?","options":["Observación domiciliaria","Inmunoglobulina intravenosa (IVIG) o plasmaféresis y soporte ventilatorio" ,"Antibióticos orales","Terapia física exclusiva"],"answer":1},
-  {"question":"La prueba más útil para distinguir entre neuropatía axonal y desmielinizante es:","options":["Electromiografía y estudios de conducción nerviosa (ENMG)","TC de cráneo","Hemograma completo","Gasometría"],"answer":0},
-  {"question":"Medida inicial en hipertensión intracraneal aguda antes de intervención quirúrgica:","options":["Elevar cabecera, hiperventilación controlada y soluciones hipertónicas intermitentes","Administrar anticoagulación","Reposo absoluto sin monitorización","Iniciar antibióticos de amplio espectro"],"answer":0},
-  {"question":"Pregunta 12 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 13 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 14 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 15 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 16 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 17 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 18 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 19 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 20 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 21 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 22 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 23 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 24 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 25 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 26 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 27 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 28 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 29 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 30 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 31 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 32 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 33 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 34 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 35 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 36 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 37 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 38 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 39 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 40 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 41 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 42 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 43 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 44 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 45 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 46 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 47 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 48 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 49 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 50 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 51 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 52 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 53 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 54 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 55 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 56 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 57 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 58 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 59 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 60 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 61 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 62 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 63 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 64 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 65 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 66 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 67 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 68 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 69 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 70 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 71 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 72 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 73 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 74 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 75 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 76 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 77 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 78 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 79 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 80 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 81 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 82 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 83 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 84 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 85 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 86 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 87 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 88 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 89 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 90 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 91 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 92 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 93 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 94 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 95 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 96 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0},
-  {"question":"Pregunta 97 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":1},
-  {"question":"Pregunta 98 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":2},
-  {"question":"Pregunta 99 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":3},
-  {"question":"Pregunta 100 — Neurología: Seleccione la opción correcta.","options":["Opción A","Opción B","Opción C","Opción D"],"answer":0}
-,
-  {"question":"La convulsión febril simple se caracteriza por:","options":["Convulsión generalizada breve (<15 min) y sin foco neurológico persistente","Convulsión focal prolongada","Convulsión asociada a tumor cerebral","Crisis epiléptica crónica"],"answer":0},
-  {"question":"Signo que sugiere hipertensión intracraneal en un niño es:","options":["Vómitos en proyectil y fontanela abultada en lactantes","Pérdida de peso","Tos leve","Ictericia"],"answer":0},
-  {"question":"Prueba de elección para hemorragia intracraneal aguda es:","options":["Tomografía computarizada (TC) sin contraste", "RMN inmediatamente en todos los casos", "Radiografía de cráneo", "Ecografía abdominal"],"answer":0},
-  {"question":"En parálisis cerebral, una característica típica es:","options":["Trastorno motor no progresivo originado en el cerebro en desarrollo","Enfermedad neuromuscular progresiva primaria", "Problema renal", "Infección cutánea"],"answer":0},
-  {"question":"Prueba útil en diagnóstico de trastornos del sueño en pediatría: ","options":["Polisomnografía", "Radiografía de tórax", "Ecografía renal", "Electromiografía en todos los casos"],"answer":0}
-]
+ {
+  "titulo_examen": "Examen de Neurología y Neurocirugía",
+  "instrucciones": "Seleccione la única opción correcta. Las justificaciones se encuentran al final del examen.",
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es el abordaje quirúrgico más habitual para resección de un tumor pineal sintomático en adulto?",
+      "opciones": {
+        "a": "Opción A: Craniectomía frontal media",
+        "b": "Opción B: Abordaje occipital transtentorial (infratentorial-supracerebeloso)",
+        "c": "Opción C: Abordaje transnasal endoscópico",
+        "d": "Opción D: Laminectomía cervical"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 2,
+      "pregunta": "En el manejo agudo de una convulsión tónico-clónica prolongada (>5 minutos), el tratamiento de primera línea intravenoso es:",
+      "opciones": {
+        "a": "Opción A: Fenitoína",
+        "b": "Opción B: Midazolam o lorazepam (benzodiacepinas)",
+        "c": "Opción C: Vancomicina",
+        "d": "Opción D: Prednisona"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 3,
+      "pregunta": "Señale la prueba de imagen más sensible para detectar isquemia cerebral aguda en las primeras horas:",
+      "opciones": {
+        "a": "Opción A: Radiografía simple de cráneo",
+        "b": "Opción B: TC sin contraste",
+        "c": "Opción C: RM con difusión ($\text{DWI}$)",
+        "d": "Opción D: Ecografía Doppler carotídea"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 4,
+      "pregunta": "Cuál maniobra se utiliza para evaluar la integridad del nervio facial ($\text{VII}$) a nivel periférico?",
+      "opciones": {
+        "a": "Opción A: Pedir al paciente que cierre los ojos y sonría (parálisis de la frente afectada)",
+        "b": "Opción B: Exploración del reflejo rotuliano",
+        "c": "Opción C: Test de Romberg",
+        "d": "Opción D: Prueba de Weber"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 5,
+      "pregunta": "Signo de alarma que sugiere hipertensión intracraneal aguda:",
+      "opciones": {
+        "a": "Opción A: Pupilas isocóricas y reactivas",
+        "b": "Opción B: Vómitos en proyectil y bradicardia",
+        "c": "Opción C: Mejora de cefalea al acostarse",
+        "d": "Opción D: Aumento de apetito"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 6,
+      "pregunta": "Prueba diagnóstica de elección para sospecha de meningitis bacteriana en paciente estable:",
+      "opciones": {
+        "a": "Opción A: Punción lumbar con análisis de $\text{LCR}$",
+        "b": "Opción B: Radiografía de tórax",
+        "c": "Opción C: Electrocardiograma",
+        "d": "Opción D: Ecografía abdominal"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 7,
+      "pregunta": "Un Babinski positivo indica lesión en:",
+      "opciones": {
+        "a": "Opción A: Vía corticoespinal (tracto piramidal)",
+        "b": "Opción B: Nervio periférico motor",
+        "c": "Opción C: Sistema vestibular",
+        "d": "Opción D: Nervio óptico"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 8,
+      "pregunta": "Cuál es el manejo de elección inicial para el síndrome de Guillain-Barré con progresión rápida y compromiso respiratorio?",
+      "opciones": {
+        "a": "Opción A: Observación domiciliaria",
+        "b": "Opción B: Inmunoglobulina intravenosa ($\text{IVIG}$) o plasmaféresis y soporte ventilatorio",
+        "c": "Opción C: Antibióticos orales",
+        "d": "Opción D: Terapia física exclusiva"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 9,
+      "pregunta": "La prueba más útil para distinguir entre neuropatía axonal y desmielinizante es:",
+      "opciones": {
+        "a": "Opción A: Electromiografía y estudios de conducción nerviosa ($\text{ENMG}$)",
+        "b": "Opción B: TC de cráneo",
+        "c": "Opción C: Hemograma completo",
+        "d": "Opción D: Gasometría"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 10,
+      "pregunta": "Medida inicial en hipertensión intracraneal aguda antes de intervención quirúrgica:",
+      "opciones": {
+        "a": "Opción A: Elevar cabecera, hiperventilación controlada y soluciones hipertónicas intermitentes",
+        "b": "Opción B: Administrar anticoagulación",
+        "c": "Opción C: Reposo absoluto sin monitorización",
+        "d": "Opción D: Iniciar antibióticos de amplio espectro"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 11,
+      "pregunta": "La convulsión febril simple se caracteriza por:",
+      "opciones": {
+        "a": "Opción A: Convulsión generalizada breve ($<15 \text{ min}$) y sin foco neurológico persistente",
+        "b": "Opción B: Convulsión focal prolongada",
+        "c": "Opción C: Convulsión asociada a tumor cerebral",
+        "d": "Opción D: Crisis epiléptica crónica"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 12,
+      "pregunta": "Signo que sugiere hipertensión intracraneal en un niño es:",
+      "opciones": {
+        "a": "Opción A: Vómitos en proyectil y fontanela abultada en lactantes",
+        "b": "Opción B: Pérdida de peso",
+        "c": "Opción C: Tos leve",
+        "d": "Opción D: Ictericia"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 13,
+      "pregunta": "Prueba de elección para hemorragia intracraneal aguda es:",
+      "opciones": {
+        "a": "Opción A: Tomografía computarizada ($\text{TC}$) sin contraste",
+        "b": "Opción B: RMN inmediatamente en todos los casos",
+        "c": "Opción C: Radiografía de cráneo",
+        "d": "Opción D: Ecografía abdominal"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 14,
+      "pregunta": "En parálisis cerebral, una característica típica es:",
+      "opciones": {
+        "a": "Opción A: Trastorno motor no progresivo originado en el cerebro en desarrollo",
+        "b": "Opción B: Enfermedad neuromuscular progresiva primaria",
+        "c": "Opción C: Problema renal",
+        "d": "Opción D: Infección cutánea"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 15,
+      "pregunta": "Prueba útil en diagnóstico de trastornos del sueño en pediatría:",
+      "opciones": {
+        "a": "Opción A: Polisomnografía",
+        "b": "Opción B: Radiografía de tórax",
+        "c": "Opción C: Ecografía renal",
+        "d": "Opción D: Electromiografía en todos los casos"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 16,
+      "pregunta": "Patógeno más frecuente en absceso cerebral.",
+      "opciones": {
+        "a": "Opción A: Virus de la Inmunodeficiencia Humana ($\text{VIH}$)",
+        "b": "Opción B: Bacterias piógenas (ej. $Streptococcus$, $Staphylococcus$)",
+        "c": "Opción C: Parásitos como $Plasmodium$",
+        "d": "Opción D: Hongos de la familia $Candida$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 17,
+      "pregunta": "Tratamiento de primera línea para la neuralgia del trigémino:",
+      "opciones": {
+        "a": "Opción A: Cirugía inmediata",
+        "b": "Opción B: Carbamazepina",
+        "c": "Opción C: Antibióticos",
+        "d": "Opción D: Terapia con vitaminas"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 18,
+      "pregunta": "La demencia con cuerpos de Lewy se distingue por la presencia de:",
+      "opciones": {
+        "a": "Opción A: Ovillos neurofibrilares",
+        "b": "Opción B: Fluctuaciones cognitivas, alucinaciones visuales y parkinsonismo",
+        "c": "Opción C: Infartos lacunares múltiples",
+        "d": "Opción D: Acumulación de placas $\text{\beta}$-amiloides"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 19,
+      "pregunta": "¿Cuál es el tratamiento de elección en la esclerosis múltiple con brotes (forma remitente-recurrente)?",
+      "opciones": {
+        "a": "Opción A: Reposo absoluto",
+        "b": "Opción B: Inmunosupresores o inmunomoduladores ($\text{DMT}$)",
+        "c": "Opción C: Dieta cetogénica estricta",
+        "d": "Opción D: Analgésicos $\text{OTC}$"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 20,
+      "pregunta": "¿Qué tipo de parálisis facial se caracteriza por preservar la función de la frente (parálisis sólo de la parte inferior de la cara)?",
+      "opciones": {
+        "a": "Opción A: Parálisis Facial Central (Vía Motora Superior)",
+        "b": "Opción B: Parálisis Facial Periférica (Vía Motora Inferior)",
+        "c": "Opción C: Parálisis del $\text{VI}$ par",
+        "d": "Opción D: Síndrome de Guillain-Barré"
+      },
+      "respuesta_correcta": "a"
+    }
+  ],
+  "justificaciones": {
+    "1": "El abordaje más habitual para los tumores pineales sintomáticos es el **occipital transtentorial** (o infratentorial-supracerebeloso), ya que proporciona la mejor exposición a la región posterior del tercer ventrículo.",
+    "2": "Las **benzodiacepinas** (como lorazepam o midazolam) son el tratamiento de **primera línea** para interrumpir una convulsión tónico-clónica prolongada o el estado epiléptico debido a su rápida acción y alta eficacia.",
+    "3": "La secuencia de **Resonancia Magnética con difusión ($\text{DWI}$)** es la prueba de imagen más sensible y específica para detectar la **restricción a la difusión** que ocurre con la isquemia cerebral aguda en las primeras horas del $\text{ictus}$.",
+    "4": "La **parálisis facial periférica** (lesión del $\text{VII}$ par) afecta tanto los músculos superiores (frente y cierre de ojo) como los inferiores, mientras que una lesión central **respeta la frente** (Opción A evalúa ambos niveles).",
+    "5": "Los **vómitos en proyectil** (sin náuseas), la **bradicardia** y la hipertensión arterial son componentes de la **Tríada de Cushing**, la cual es un signo tardío de **hipertensión intracraneal ($\text{HIC}$) aguda**.",
+    "6": "La **punción lumbar** con el subsiguiente análisis del líquido cefalorraquídeo ($\text{LCR}$) es el estándar de oro para confirmar el diagnóstico de **meningitis bacteriana** y determinar el agente causal en pacientes estables.",
+    "7": "Un **reflejo de Babinski positivo** (extensión del primer dedo y abanico de los otros) en un adulto o niño mayor indica una lesión en el **tracto corticoespinal** (vía motora superior o tracto piramidal).",
+    "8": "El tratamiento de elección para el **síndrome de Guillain-Barré** con progresión rápida es la **inmunoglobulina intravenosa ($\text{IVIG}$) o la plasmaféresis** para modular la respuesta inmune, y el **soporte ventilatorio** es crucial si hay compromiso respiratorio.",
+    "9": "Los **Estudios de Conducción Nerviosa ($\text{ENMG}$)** miden velocidades y amplitudes; una **velocidad de conducción lenta** sugiere desmielinización, mientras que una **amplitud reducida** sugiere daño axonal.",
+    "10": "Las medidas iniciales para reducir la $\text{HIC}$ son la **elevación de la cabecera** ($\text{30}\degree$), la **hiperventilación** temporal y la administración de **soluciones hipertónicas** (manitol o salino hipertónico).",
+    "11": "Una **convulsión febril simple** es tónico-clónica generalizada, dura menos de 15 minutos y ocurre una sola vez en un periodo de 24 horas, sin signos de afectación neurológica focal posterior.",
+    "12": "En lactantes con fontanela abierta, el aumento de la presión intracraneal ($\text{HIC}$) causa el **abultamiento de la fontanela** y a menudo se acompaña de **vómitos en proyectil**, signos de alarma neurológica.",
+    "13": "La **Tomografía Computarizada ($\text{TC}$) sin contraste** es la prueba de imagen de elección en urgencias para descartar o confirmar una **hemorragia intracraneal aguda** debido a su rapidez y alta sensibilidad para la sangre fresca.",
+    "14": "La **parálisis cerebral** se define como un grupo de trastornos del desarrollo motor y postural, que son **no progresivos** y se originan por una lesión en el cerebro fetal o infantil.",
+    "15": "La **polisomnografía** es el estudio de elección para el diagnóstico y la caracterización de los trastornos del sueño, como la apnea obstructiva del sueño o los movimientos periódicos de las extremidades.",
+    "16": "Los abscesos cerebrales suelen ser causados por una infección bacteriana (piógena) polimicrobiana, siendo los **estreptococos** ($\text{Streptococcus}$ aerobios y anaerobios) y $Staphylococcus$ aureus los más frecuentes.",
+    "17": "El tratamiento farmacológico inicial de elección para la **neuralgia del trigémino** es un anticonvulsivante como la **carbamazepina** o la oxcarbazepina.",
+    "18": "La **demencia con cuerpos de $\text{Lewy}$** se caracteriza por una triada distintiva: **fluctuaciones cognitivas**, **alucinaciones visuales** recurrentes y signos de **parkinsonismo** de inicio precoz.",
+    "19": "El tratamiento modificador de la enfermedad ($\text{DMT}$) con **inmunomoduladores o inmunosupresores** es el estándar para reducir la frecuencia y la gravedad de los brotes en la **esclerosis múltiple recurrente-remitente**.",
+    "20": "La **parálisis facial central** (lesión de la neurona motora superior) respeta la porción superior de la cara (frente y cierre de ojos) debido a que recibe **inervación bilateral** desde la corteza."
+  }
+}
