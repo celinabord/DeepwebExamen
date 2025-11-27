@@ -1153,7 +1153,7 @@
       "opciones": {
         "a": "Intubación orotraqueal a ciegas.",
         "b": "Maniobra de tracción mandibular.",
-        "c": "Procedimiento $\\text{EXIT}$ (Ex $\\text{Utero}$ $\\text{Intrapartum}$ $\\text{Treatment}$).",
+        "c": "Procedimiento en Utero Intrapartum Treatment.",
         "d": "Cricotiroidotomía con aguja."
       },
       "respuesta_correcta": "c",
@@ -1294,10 +1294,10 @@
       "caso_clinico": "Un médico de UCI retira los órganos a un paciente en Muerte Cerebral sin el consentimiento de la familia, alegando que es donación tácita.",
       "pregunta": "¿Qué ley establece que, a pesar de la donación tácita, en el caso de la donación cadavérica la última decisión de los órganos recae en la familia?",
       "opciones": {
-        "a": "El Reglamento de la $\\text{LGS}$ en materia de investigación.",
-        "b": "El $\\text{Código}$ $\\text{Civil}$ $\\text{Federal}$.",
-        "c": "La $\\mathbf{\\text{Ley} \\text{ General} \\text{ de} \\text{ Salud}}$ ($\\text{LGS}$) $\\mathbf{\\text{y} \\text{ su} \\text{ reglamento}}$.",
-        "d": "El $\\text{Protocolo}$ $\\text{de}$ $\\text{Donación}$ $\\text{del}$ $\\text{Hospital}$."
+        "a": "El Reglamento de la LGS en materia de investigación.",
+        "b": "El Código Civil  Federal .",
+        "c": "La Ley General de  Salud LGS y su  reglamento.",
+        "d": "El Protocolo de Donación del Hospital ."
       },
       "respuesta_correcta": "c",
       "tema": "Legislación - Donación Tácita"
