@@ -30,7 +30,7 @@
     {
       "id": 3,
       "categoria": "Cálculo de Medicación - Infusión",
-      "enunciado": "Un paciente de 80 kg necesita una infusión de **Norepinefrina** a 0.1 $\mu g/kg/min$. La presentación es de 4 mg en 250 mL de Solución Dextrosa al 5%. ¿A qué velocidad de infusión (mL/hora) debe ajustarse la bomba?",
+      "enunciado": "Un paciente de 80 kg necesita una infusión de **Norepinefrina** a 0.1  g/kg/min$. La presentación es de 4 mg en 250 mL de Solución Dextrosa al 5%. ¿A qué velocidad de infusión (mL/hora) debe ajustarse la bomba?",
       "opciones": {
         "a": "2.4 mL/hora.",
         "b": "3.0 mL/hora.",
@@ -116,10 +116,10 @@
       "categoria": "Farmacología en UCI",
       "enunciado": "En la monitorización de Vancomicina en un paciente crítico, el objetivo de la **Concentración Valle (Cmin)** en la mayoría de las infecciones graves (incluida la urosepsis por MRSA) es mantenerla entre:",
       "opciones": {
-        "a": "5-10 $\mu g/mL$.",
-        "b": "15-20 $\mu g/mL$.",
-        "c": "25-30 $\mu g/mL$.",
-        "d": "10-15 $\mu g/mL$.",
+        "a": "5-10 g/mL.",
+        "b": "15-20  g/mL$.",
+        "c": "25-30  g/mL.",
+        "d": "10-15  g/mL.",
       },
       "respuesta_correcta": "b"
     },
@@ -234,7 +234,7 @@
     {
       "id": 20,
       "categoria": "Farmacología en Shock",
-      "enunciado": "Un paciente séptico de 60 kg requiere aumentar la infusión de **Dopamina** a 10 $\mu g/kg/min$. Si la concentración es de 400 mg en 250 mL, ¿cuál es la velocidad de infusión en mL/hora?",
+      "enunciado": "Un paciente séptico de 60 kg requiere aumentar la infusión de **Dopamina** a 10 g/kg/min. Si la concentración es de 400 mg en 250 mL, ¿cuál es la velocidad de infusión en mL/hora?",
       "opciones": {
         "a": "18 mL/hora.",
         "b": "22.5 mL/hora.",
@@ -385,7 +385,7 @@
     {
       "id": 32,
       "categoria": "Cálculo Pediátrico - Infusión",
-      "enunciado": "Lactante de 6 kg necesita una infusión de **Dopamina** a 5 $\mu g/kg/min$. La preparación es de 60 mg en 100 mL. ¿Cuál es la velocidad de infusión en mL/hora?",
+      "enunciado": "Lactante de 6 kg necesita una infusión de **Dopamina** a 5  g/kg/min. La preparación es de 60 mg en 100 mL. ¿Cuál es la velocidad de infusión en mL/hora?",
       "opciones": {
         "a": "3.0 mL/hora.",
         "b": "0.3 mL/hora.",
@@ -565,7 +565,7 @@
     {
       "id": 47,
       "categoria": "Cálculo Pediátrico - Infusión",
-      "enunciado": "Niño de 10 kg en shock. Se inicia infusión de **Norepinefrina** a 0.05 $\mu g/kg/min$. La preparación es 4 mg en 100 mL. ¿Cuál es la velocidad de infusión en mL/hora?",
+      "enunciado": "Niño de 10 kg en shock. Se inicia infusión de **Norepinefrina** a 0.05  g/kg/min. La preparación es 4 mg en 100 mL. ¿Cuál es la velocidad de infusión en mL/hora?",
       "opciones": {
         "a": "1.5 mL/hora.",
         "b": "0.75 mL/hora.",
@@ -692,7 +692,7 @@
     {
       "id": 57,
       "categoria": "Cálculo de Medicación Pediátrica",
-      "enunciado": "Niño de 12 kg. Se indica una infusión de **Midazolam** a 0.1 $\mu g/kg/min$. La preparación es de 50 mg en 50 mL. ¿Cuál es la velocidad de infusión en mL/hora?",
+      "enunciado": "Niño de 12 kg. Se indica una infusión de **Midazolam** a 0.1 g/kg/min. La preparación es de 50 mg en 50 mL. ¿Cuál es la velocidad de infusión en mL/hora?",
       "opciones": {
         "a": "0.72 mL/hora.",
         "b": "1.0 mL/hora.",
@@ -788,12 +788,12 @@
     {
       "id": 65,
       "categoria": "Cálculo de Medicación - Conversión",
-      "enunciado": "Un paciente de 60 kg con oliguria recibe una infusión continua de **Dopamina** a 12 mL/hora. Si la concentración es de 200 mg en 250 mL, ¿cuál es la dosis en $\mu g/kg/min$?",
+      "enunciado": "Un paciente de 60 kg con oliguria recibe una infusión continua de **Dopamina** a 12 mL/hora. Si la concentración es de 200 mg en 250 mL, ¿cuál es la dosis en g/kg/min?",
       "opciones": {
-        "a": "2.0 $\mu g/kg/min$.",
-        "b": "1.6 $\mu g/kg/min$.",
-        "c": "3.3 $\mu g/kg/min$.",
-        "d": "4.5 $\mu g/kg/min$.",
+        "a": "2.0  g/kg/min.",
+        "b": "1.6  g/kg/min.",
+        "c": "3.3  g/kg/min.",
+        "d": "4.5  g/kg/min.",
       },
       "respuesta_correcta": "b"
     },
@@ -999,7 +999,7 @@
     {
       "id": 82,
       "categoria": "Cálculo de Medicación Pediátrica - Infusión",
-      "enunciado": "Lactante de 5 kg requiere infusión de **Epinefrina** a 0.08 $\mu g/kg/min$. La dilución es de 1 mg en 100 mL. ¿A cuántos mL/hora debe infundirse?",
+      "enunciado": "Lactante de 5 kg requiere infusión de **Epinefrina** a 0.08  g/kg/min. La dilución es de 1 mg en 100 mL. ¿A cuántos mL/hora debe infundirse?",
       "opciones": {
         "a": "0.24 mL/hora.",
         "b": "2.4 mL/hora.",
