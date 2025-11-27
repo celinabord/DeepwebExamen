@@ -1,12 +1,1315 @@
+{
+  "bloque": 1,
+  "rango_preguntas": "1 - 25",
+  "preguntas": [
+    {
+      "id": 1,
+      "tema": "Adulto Crítico: Hemorragia Postparto (HPP) y Cálculo",
+      "caso_clinico": "Paciente puérpera de 32 años, 4 horas postparto vaginal, presenta una HPP refractaria a uterotónicos de primera línea. Se decide iniciar una infusión de **Oxitocina** a dosis de **40 mUI/min**. La dilución utilizada es de **10 UI de Oxitocina en 500 ml de Solución Salina**.",
+      "pregunta": "¿A qué velocidad de infusión (en ml/h) debe programarse la bomba para alcanzar la dosis indicada?",
+      "opciones": [
+        "A) 60 ml/h",
+        "B) 80 ml/h",
+        "C) 120 ml/h",
+        "D) 240 ml/h"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 2,
+      "tema": "Adulto Crítico: Preeclampsia Severa y Manejo",
+      "caso_clinico": "Gestante de 34 semanas ingresa a UCI con diagnóstico de Preeclampsia con Signos de Severidad (presión arterial 170/110 mmHg, plaquetas 80.000 / microL, y cefalea persistente). Se inicia sulfato de magnesio.",
+      "pregunta": "¿Cuál es el criterio clínico que indica toxicidad por Sulfato de Magnesio y requiere la administración de gluconato de calcio?",
+      "opciones": [
+        "A) Diuresis menor a 30 ml/h",
+        "B) Ausencia de reflejos patelares",
+        "C) Frecuencia respiratoria de 16 respiraciones por minuto",
+        "D) Presión arterial media mayor a 105 mmHg"
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 3,
+      "tema": "Neonatología Crítica: Asfixia Perinatal",
+      "caso_clinico": "Recién nacido de término con Apgar 3/5, presenta encefalopatía hipóxico-isquémica moderada. Tras la reanimación inicial, se confirma la necesidad de tratamiento neuroprotector.",
+      "pregunta": "¿Cuál es el tratamiento de neuroprotección estándar indicado para esta condición, según las guías clínicas?",
+      "opciones": [
+        "A) Ventilación de alta frecuencia",
+        "B) Administración de eritropoyetina de alta dosis",
+        "C) Hipotermia terapéutica controlada",
+        "D) Uso de corticoesteroides endovenosos"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 4,
+      "tema": "Pediatría Crítica: Shock Séptico",
+      "caso_clinico": "Adolescente de 16 años, 5 días post-aborto séptico, en estado de shock refractario. Se inicia la reanimación con fluidos y vasopresores.",
+      "pregunta": "¿Cuál es el vasopresor de primera línea recomendado en el manejo inicial del shock séptico pediátrico/adolescente?",
+      "opciones": [
+        "A) Vasopresina",
+        "B) Dopamina",
+        "C) Noradrenalina",
+        "D) Adrenalina"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 5,
+      "tema": "Legal: Ley de Género y Atención Crítica (Ley 26.743)",
+      "caso_clinico": "Paciente que se identifica como **hombre trans** y posee DNI rectificado, cursa un embarazo ectópico roto que requiere cirugía de urgencia. Solicita ser llamado por su nombre autopercibido.",
+      "pregunta": "Según la Ley 26.743 de Identidad de Género de Argentina, ¿cómo debe registrarse al paciente en la historia clínica?",
+      "opciones": [
+        "A) Con el nombre y sexo asignado al nacer.",
+        "B) Con el nombre de pila y el género autopercibido (hombre), según su DNI rectificado.",
+        "C) Con el nombre de pila, especificando 'Mujer Trans' para el registro biológico.",
+        "D) Solo con iniciales para proteger su identidad."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 6,
+      "tema": "Legal: Interrupción Voluntaria del Embarazo (IVE) - Ley 27.610",
+      "caso_clinico": "Una gestante de 15 semanas solicita una IVE producto de una violación. El equipo de guardia plantea objeción de conciencia.",
+      "pregunta": "Según la Ley 27.610 (IVE), ¿cuál es el plazo máximo de demora que el sistema de salud tiene para garantizar la prestación una vez que la solicitante consiente?",
+      "opciones": [
+        "A) 24 horas hábiles.",
+        "B) 72 horas corridas.",
+        "C) 10 días corridos.",
+        "D) No existe un plazo máximo, debe ser inmediato."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 7,
+      "tema": "Adulto Crítico: Trombosis de Seno Venoso Cerebral",
+      "caso_clinico": "Puérpera de 7 días, con antecedente de hiperémesis gravídica grave, ingresa a UCI con convulsiones tónico-clónicas y déficit neurológico focal. Se diagnostica trombosis de seno venoso cerebral (TSVC).",
+      "pregunta": "¿Cuál es la intervención terapéutica de primera línea para el manejo agudo de la TSVC en la puérpera, una vez controlado el estado convulsivo?",
+      "opciones": [
+        "A) Trombólisis sistémica inmediata.",
+        "B) Anticoagulación con heparina de bajo peso molecular (HBPM).",
+        "C) Administrar ácido tranexámico para prevenir hemorragia.",
+        "D) Cirugía descompresiva inmediata."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 8,
+      "tema": "Cálculo y Neonatología Crítica: Dopamina",
+      "caso_clinico": "Recién nacido pretérmino de 1.5 kg con shock séptico y mala perfusión periférica. Se decide iniciar **Dopamina** a una dosis de **10 microgramos/kg/min**. La dilución disponible es de **60 mg de Dopamina en 100 ml de Solución Glucosada**.",
+      "pregunta": "¿A qué velocidad de infusión (en ml/h) debe programarse la bomba?",
+      "opciones": [
+        "A) 0,6 ml/h",
+        "B) 0,9 ml/h",
+        "C) 1,5 ml/h",
+        "D) 1,2 ml/h"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 9,
+      "tema": "Legal: Ley de Trasplante (Ley 27.447) y Gestación",
+      "caso_clinico": "Una gestante de 20 semanas en UCI es diagnosticada con Muerte Encefálica. La familia es abordada por el equipo de procuración para la donación de órganos.",
+      "pregunta": "Según la Ley 27.447 de Trasplante de Órganos de Argentina, ¿es legal realizar la ablación de órganos de la madre mientras la gestación continúa in situ?",
+      "opciones": [
+        "A) Sí, es legal, con consentimiento expreso de la pareja.",
+        "B) Sí, pero solo si el feto tiene pronóstico de viabilidad.",
+        "C) No, la Ley prohíbe la ablación de órganos en personas gestantes hasta la interrupción de la gestación.",
+        "D) Solo es posible si se realiza una cesárea de emergencia simultáneamente."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 10,
+      "tema": "Adulto Crítico: Sepsis Puerperal y Falla Renal",
+      "caso_clinico": "Paciente de 30 años con sepsis puerperal grave y oliguria persistente (menos de 0.5 ml/kg/h), lo que indica injuria renal aguda (IRA).",
+      "pregunta": "¿Cuál es la indicación más apropiada para evaluar la necesidad de terapia de reemplazo renal (TRR)?",
+      "opciones": [
+        "A) Iniciar de inmediato la Hemodiálisis intermitente (HDI).",
+        "B) Medir la presión venosa central (PVC) y realizar un desafío de fluidos con diuréticos de asa.",
+        "C) Evaluar uremia y creatininemia, y ante Potasio > 6.5 mEq/L o acidosis metabólica refractaria, indicar TRR.",
+        "D) Esperar 48 horas de anuria total antes de considerar la TRR."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 11,
+      "tema": "Adulto Crítico: Síndrome de HELLP",
+      "caso_clinico": "Gestante con 36 semanas diagnosticada con Síndrome de HELLP. Presenta plaquetas en 40.000 / microL, LDH elevada y síntomas de malestar general. La UCI evalúa la estabilización.",
+      "pregunta": "¿Cuál es la conducta definitiva y prioritaria en el manejo del Síndrome de HELLP, una vez lograda la estabilización inicial de la madre?",
+      "opciones": [
+        "A) Transfusión inmediata de plaquetas y plasma fresco congelado.",
+        "B) Administración de corticoides para maduración pulmonar fetal.",
+        "C) Finalización del embarazo (parto o cesárea).",
+        "D) Antihipertensivos agresivos para controlar la presión arterial."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 12,
+      "tema": "Cálculo y Pediatría Crítica: Midazolam",
+      "caso_clinico": "Niño de 4 años, peso 18 kg, requiere sedación continua en UCI. Se indica infusión de Midazolam a **1 microgramo/kg/min**. La dilución es de **50 mg de Midazolam en 100 ml de Solución Salina**.",
+      "pregunta": "¿Cuál es la velocidad de infusión (en ml/h) requerida para la dosis indicada?",
+      "opciones": [
+        "A) 2,16 ml/h",
+        "B) 1,5 ml/h",
+        "C) 3,6 ml/h",
+        "D) 0,9 ml/h"
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 13,
+      "tema": "Neonatología Crítica: Cardiopatías Congénitas",
+      "caso_clinico": "Recién nacido con diagnóstico de transposición de grandes arterias (TGA) que presenta cianosis severa y ductus arterioso dependiente. Se traslada a UCIN para estabilización prequirúrgica.",
+      "pregunta": "¿Cuál es el manejo farmacológico inicial más urgente para mantener la oxigenación y la estabilidad hemodinámica en esta condición?",
+      "opciones": [
+        "A) Iniciar Digoxina para mejorar la contractilidad.",
+        "B) Infusión de Prostaglandina E1 (Alprostadil).",
+        "C) Administrar Sulfato de Magnesio para reducir la resistencia pulmonar.",
+        "D) Iniciar Fenilefrina para aumentar la presión arterial sistémica."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 14,
+      "tema": "Legal: Ley de Trasplante y Donación Menor de Edad (Ley 27.447)",
+      "caso_clinico": "Un niño de 8 años con diagnóstico de Muerte Encefálica es evaluado para donación. Los padres desean donar, pero la ley requiere confirmación de la voluntad.",
+      "pregunta": "Según la Ley 27.447 (Ley Justina), ¿cuál es el requisito legal indispensable para la ablación de órganos de un menor de 18 años?",
+      "opciones": [
+        "A) Asentimiento presunto por parte del Estado.",
+        "B) Autorización escrita de al menos un progenitor.",
+        "C) Consentimiento expreso de ambos progenitores o representantes legales.",
+        "D) La donación post-mortem está prohibida para menores."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 15,
+      "tema": "Adulto Crítico: Shock Anafiláctico por Antibiótico",
+      "caso_clinico": "Puérpera en UCI recibe Ampicilina y desarrolla súbitamente hipotensión, broncoespasmo y urticaria generalizada (shock anafiláctico).",
+      "pregunta": "¿Cuál es el fármaco de primera línea y la vía de administración ideal para el tratamiento inicial del shock anafiláctico?",
+      "opciones": [
+        "A) Dexametasona intravenosa.",
+        "B) Adrenalina intramuscular (IM).",
+        "C) Dopamina en infusión continua.",
+        "D) Hidrocortisona intravenosa."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 16,
+      "tema": "Adulto Crítico: Manejo de la Cetoacidosis Diabética (CAD) en Gestante",
+      "caso_clinico": "Gestante de 28 semanas con CAD. Glicemia en 450 mg/dL, pH 7.18. Se inicia protocolo de insulina en infusión.",
+      "pregunta": "¿Cuál es el electrolito que requiere una monitorización estricta y reemplazo prioritario antes y durante la infusión de insulina en CAD?",
+      "opciones": [
+        "A) Sodio (Na+)",
+        "B) Calcio (Ca++)",
+        "C) Potasio (K+)",
+        "D) Cloro (Cl-)"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 17,
+      "tema": "Neonatología Crítica: Síndrome de Aspiración Meconial (SAM)",
+      "caso_clinico": "Recién nacido de término con líquido amniótico meconial espeso, que evoluciona con dificultad respiratoria severa e hipoxemia a pesar de ventilación mecánica.",
+      "pregunta": "¿Cuál es la complicación más grave y frecuente asociada al SAM que requiere manejo intensivo específico?",
+      "opciones": [
+        "A) Persistencia de la circulación fetal (PCF).",
+        "B) Enterocolitis necrotizante (ECN).",
+        "C) Hipoglucemia refractaria.",
+        "D) Ictericia patológica."
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 18,
+      "tema": "Cálculo y Adulto Crítico: Epinefrina (Adrenalina) en Paro",
+      "caso_clinico": "Paciente puérpera en Paro Cardiorrespiratorio (PCR). Se requiere administrar la primera dosis de Epinefrina (Adrenalina).",
+      "pregunta": "¿Cuál es la dosis estándar de Epinefrina (Adrenalina) intravenosa o intraósea que debe administrarse en cada ciclo de RCP en el adulto?",
+      "opciones": [
+        "A) 0,1 mg (1 ml de 1:10.000)",
+        "B) 0,5 mg (5 ml de 1:10.000)",
+        "C) 1,0 mg (10 ml de 1:10.000)",
+        "D) 2,0 mg (20 ml de 1:10.000)"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 19,
+      "tema": "Legal: Aborto - Causales Legales (Ley 27.610)",
+      "caso_clinico": "Gestante de 18 semanas solicita la Interrupción Legal del Embarazo (ILE). El médico argumenta que, al superar la semana 14, solo procede si la vida está en peligro.",
+      "pregunta": "Según la Ley 27.610 y el Art. 86 del Código Penal (previa Ley IVE), ¿cuál de las siguientes es una causal que permite el acceso a la ILE sin límite de semanas de gestación?",
+      "opciones": [
+        "A) Riesgo para la salud integral (física o mental) de la persona gestante.",
+        "B) Pobreza o vulnerabilidad social de la persona gestante.",
+        "C) Edad avanzada del feto (más de 22 semanas).",
+        "D) Imposibilidad económica para mantener al niño."
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 20,
+      "tema": "Pediatría Crítica: Crisis Asmática",
+      "caso_clinico": "Niña de 7 años con bronquiolitis severa que presenta sibilancias intensas y saturación del 88% a pesar de nebulizaciones con Salbutamol.",
+      "pregunta": "¿Cuál es el manejo farmacológico de segunda línea que debe indicarse inmediatamente ante la falta de respuesta al beta-agonista en una crisis asmática severa pediátrica?",
+      "opciones": [
+        "A) Nebulización con Budesonida.",
+        "B) Iniciar infusión de Midazolam.",
+        "C) Corticoesteroides sistémicos (ej. Dexametasona o Metilprednisolona).",
+        "D) Antibióticos de amplio espectro."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 21,
+      "tema": "Adulto Crítico: Embolia de Líquido Amniótico (ELA)",
+      "caso_clinico": "Puérpera inmediata que súbitamente presenta disnea severa, cianosis, colapso hemodinámico y coagulopatía de consumo.",
+      "pregunta": "¿Cuál es la prioridad crítica de manejo en el Síndrome de Embolia de Líquido Amniótico (ELA)?",
+      "opciones": [
+        "A) Trombólisis sistémica.",
+        "B) Reanimación cardiopulmonar con soporte ventilatorio y circulatorio precoz y agresivo.",
+        "C) Transfusión masiva de glóbulos rojos.",
+        "D) Administración de factor VIIa recombinante."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 22,
+      "tema": "Neonatología Crítica: Hipertensión Pulmonar Persistente (HPPN)",
+      "caso_clinico": "Recién nacido de término con insuficiencia respiratoria y cianosis, con un gradiente de oxígeno pre y postductal significativo, compatible con HPPN.",
+      "pregunta": "¿Cuál es el tratamiento vasodilatador pulmonar de elección para la HPPN?",
+      "opciones": [
+        "A) Sildenafil oral.",
+        "B) Óxido Nítrico inhalado.",
+        "C) Dinitrato de Isosorbide.",
+        "D) Prostaglandina E1 intravenosa."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 23,
+      "tema": "Legal: Donación de Células Progenitoras Hematopoyéticas (CPH) en Menores",
+      "caso_clinico": "Un niño de 5 años requiere un trasplante de CPH. Su hermana de 10 años resulta ser HLA idéntica y los padres desean que sea la donante.",
+      "pregunta": "Según la normativa argentina (Ley 27.447), ¿cuál es la condición legal primordial para que la niña de 10 años pueda ser donante de CPH?",
+      "opciones": [
+        "A) La donación está prohibida para menores de 18 años, incluso con compatibilidad.",
+        "B) Se requiere autorización judicial, además del consentimiento de ambos progenitores.",
+        "C) Basta con la voluntad positiva de los padres.",
+        "D) Solo es necesaria la voluntad expresa de la niña."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 24,
+      "tema": "Adulto Crítico: Uso de Antifibrinolíticos en HPP",
+      "caso_clinico": "Paciente con HPP por atonía uterina con shock hipovolémico a pesar de medidas iniciales. Se decide administrar Ácido Tranexámico.",
+      "pregunta": "¿Cuál es el tiempo máximo desde el parto en el cual la administración de Ácido Tranexámico ha demostrado mayor eficacia para reducir la mortalidad por HPP?",
+      "opciones": [
+        "A) Dentro de las primeras 6 horas postparto.",
+        "B) Dentro de la primera hora postparto.",
+        "C) Dentro de los primeros 30 minutos postparto.",
+        "D) Dentro de las primeras 3 horas postparto."
+      ],
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 25,
+      "tema": "Pediatría Crítica: Manejo de Crisis Convulsiva",
+      "caso_clinico": "Niño de 3 años, peso 15 kg, en UCI por sepsis, presenta una crisis convulsiva tónico-clónica generalizada de 5 minutos de duración.",
+      "pregunta": "¿Cuál es la dosis y el fármaco de primera línea más recomendado para interrumpir una crisis convulsiva prolongada en el ámbito pediátrico de cuidados críticos?",
+      "opciones": [
+        "A) Fenitoína 20 mg/kg IV.",
+        "B) Midazolam 0,2 mg/kg IV (o 0,5 mg/kg vía intranasal).",
+        "C) Fenobarbital 15 mg/kg IV.",
+        "D) Dexametasona 0,5 mg/kg IV."
+      ],
+      "respuesta_correcta": "B"
+    }
+  ],
+}
+{ [
+    {
+      "id": 26,
+      "tema": "Adulto Crítico: Acretismo Placentario",
+      "caso_clinico": "Puérpera en quirófano post-cesárea presenta placenta increta confirmada, con sangrado masivo incontrolable a pesar de histerectomía. Se requiere manejo avanzado de la coagulopatía y hemostasia.",
+      "pregunta": "¿Cuál es la intervención quirúrgica de control de daños que se realiza frecuentemente en casos de acretismo placentario masivo e incontrolable?",
+      "opciones": [
+        "A) Ligadura de las arterias uterinas (O'Leary).",
+        "B) Embolización selectiva de las arterias hipogástricas.",
+        "C) Taponamiento uterino con balón de Bakri.",
+        "D) Histerectomía obstétrica total y empaquetamiento pélvico."
+      ],
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 27,
+      "tema": "Cálculo y Adulto Crítico: Insulina en Cetoacidosis",
+      "caso_clinico": "Gestante de 30 semanas con Cetoacidosis Diabética (CAD). Se indica iniciar una infusión de Insulina R a 0.1 U/kg/h. La paciente pesa **75 kg**. La dilución utilizada es de **50 UI de Insulina en 250 ml de Solución Salina**.",
+      "pregunta": "¿A qué velocidad de infusión (en ml/h) debe programarse la bomba?",
+      "opciones": [
+        "A) 7,5 ml/h",
+        "B) 12,5 ml/h",
+        "C) 18,75 ml/h",
+        "D) 37,5 ml/h"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 28,
+      "tema": "Neonatología Crítica: Enterocolitis Necrotizante (ECN)",
+      "caso_clinico": "Recién nacido pretérmino de 33 semanas, alimentado con fórmula, desarrolla distensión abdominal, vómitos biliosos y sangre en heces, sugiriendo ECN (Estadio II de Bell).",
+      "pregunta": "¿Cuál es el manejo inicial y urgente en la UCIN para el tratamiento de la ECN confirmada?",
+      "opciones": [
+        "A) Iniciar de inmediato la alimentación parenteral total (APT).",
+        "B) Sonda orogástrica a drenaje, ayuno oral e inicio de antibióticos de amplio espectro.",
+        "C) Terapia con inmunoglobulinas y corticoesteroides.",
+        "D) Preparación quirúrgica inmediata para resección intestinal."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 29,
+      "tema": "Legal: Ley de Trasplante - Proceso de Procuración (Ley 27.447)",
+      "caso_clinico": "Se declara la muerte encefálica de una paciente no gestante. La familia consulta sobre el momento en que se debe contactar al INCUCAI (o CUCAI jurisdiccional).",
+      "pregunta": "Según la Ley 27.447, ¿cuál es el momento adecuado para la obligatoriedad de notificar al organismo de procuración sobre un potencial donante?",
+      "opciones": [
+        "A) Antes de la certificación de muerte encefálica.",
+        "B) Inmediatamente después de la certificación de muerte encefálica.",
+        "C) Una vez que la familia ha firmado el consentimiento para la donación.",
+        "D) Cuando el equipo de terapia intensiva ha determinado que es un donante viable."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 30,
+      "tema": "Pediatría Crítica: Hiperplasia Suprarrenal Congénita (HSC)",
+      "caso_clinico": "Recién nacido con genitales ambiguos presenta vómitos, letargo e hiponatremia severa en la UCIN, sugiriendo HSC perdedora de sal.",
+      "pregunta": "¿Cuál es el tratamiento de urgencia vital para prevenir el colapso circulatorio en la crisis suprarrenal asociada a HSC?",
+      "opciones": [
+        "A) Solución salina hipertónica y Furosemida.",
+        "B) Dosis de estrés de Hidrocortisona y reanimación con fluidos isotónicos.",
+        "C) Administración de Mineralocorticoides de mantenimiento.",
+        "D) Infusión continua de Dopamina."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 31,
+      "tema": "Adulto Crítico: Tromboembolismo Pulmonar (TEP) en el Puerperio",
+      "caso_clinico": "Puérpera de 3 días con antecedente de cesárea, que presenta disnea súbita, taquicardia y desaturación. Se sospecha TEP masivo.",
+      "pregunta": "¿Cuál es la indicación de tratamiento de emergencia más apropiada en un TEP con inestabilidad hemodinámica (Shock) en la puérpera?",
+      "opciones": [
+        "A) Anticoagulación terapéutica con Heparina no fraccionada (HNF) sola.",
+        "B) Trombólisis sistémica inmediata.",
+        "C) Colocación de filtro de vena cava inferior (VCI).",
+        "D) Embolectomía quirúrgica primaria."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 32,
+      "tema": "Cálculo y Neonatología Crítica: Prostaglandina E1",
+      "caso_clinico": "Recién nacido de 3 kg con ductus dependiente requiere Prostaglandina E1 a 0.05 microgramos/kg/min. La dilución es de **300 microgramos en 50 ml de Solución Salina**.",
+      "pregunta": "¿A qué velocidad de infusión (en ml/h) debe programarse la bomba?",
+      "opciones": [
+        "A) 0,15 ml/h",
+        "B) 0,30 ml/h",
+        "C) 0,45 ml/h",
+        "D) 0,60 ml/h"
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 33,
+      "tema": "Legal: Ley de Género - Acceso a Hormonización (Ley 26.743)",
+      "caso_clinico": "Paciente hombre trans de 18 años, internado en UCI por trauma no relacionado, que está en tratamiento de hormonización (testosterona) y consulta sobre la cobertura de este tratamiento.",
+      "pregunta": "Según la Ley 26.743, ¿cómo debe ser cubierta la hormonización para adecuar el cuerpo a la identidad de género autopercibida?",
+      "opciones": [
+        "A) Solo es cubierta por el paciente, ya que no es un tratamiento de emergencia.",
+        "B) Es un derecho de cobertura total y obligatoria, incluida en el Programa Médico Obligatorio (PMO).",
+        "C) Es cubierta solo si existe una disforia de género psiquiátrica grave.",
+        "D) Depende de la aprobación de un comité de ética hospitalario."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 34,
+      "tema": "Adulto Crítico: Manejo de la Hipertensión en Eclampsia",
+      "caso_clinico": "Paciente en UCI post-parto que presenta una crisis hipertensiva (PA 180/120 mmHg) y convulsión eclámptica ya controlada con Magnesio.",
+      "pregunta": "¿Cuál es el objetivo de presión arterial diastólica (PAD) que se busca alcanzar en el manejo agudo de la crisis hipertensiva puerperal?",
+      "opciones": [
+        "A) Mantener la PAD entre 80 y 90 mmHg.",
+        "B) Reducir la PAD a menos de 70 mmHg.",
+        "C) Mantener la PAD entre 100 y 110 mmHg.",
+        "D) Reducir la PA media en no más de 50% en la primera hora."
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 35,
+      "tema": "Pediatría Crítica: Manejo de la Hipoglucemia Neonatal",
+      "caso_clinico": "Recién nacido de madre diabética presenta letargo y glucemia de 30 mg/dL. Se requiere tratamiento de urgencia.",
+      "pregunta": "¿Cuál es la dosis de bolo de Dextrosa al 10% (D10%) recomendada para el tratamiento inicial de la hipoglucemia sintomática en un neonato?",
+      "opciones": [
+        "A) 0.5 ml/kg IV",
+        "B) 1 a 2 ml/kg IV",
+        "C) 5 a 10 ml/kg IV",
+        "D) 20 ml/kg IV"
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 36,
+      "tema": "Adulto Crítico: Infección por COVID-19 en Gestación",
+      "caso_clinico": "Gestante de 32 semanas en UCI con neumonía grave por COVID-19 y requerimiento de ventilación mecánica. Se requiere tromboprofilaxis.",
+      "pregunta": "¿Cuál es la recomendación de tromboprofilaxis en la gestante crítica con COVID-19 que no presenta sangrado activo?",
+      "opciones": [
+        "A) Heparina No Fraccionada (HNF) a dosis profiláctica.",
+        "B) Heparina de Bajo Peso Molecular (HBPM) a dosis terapéutica.",
+        "C) HBPM a dosis profiláctica o intermedia, dependiendo del riesgo.",
+        "D) No se recomienda tromboprofilaxis debido al riesgo de sangrado asociado a COVID-19."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 37,
+      "tema": "Cálculo y Pediatría Crítica: Furosemida en Edema Pulmonar",
+      "caso_clinico": "Niño de 20 kg con insuficiencia cardíaca descompensada y edema agudo de pulmón. Se requiere Furosemida IV a 1 mg/kg. La presentación es de **10 mg/ml**.",
+      "pregunta": "¿Cuál es el volumen total (en ml) de Furosemida que debe administrarse?",
+      "opciones": [
+        "A) 1 ml",
+        "B) 2 ml",
+        "C) 5 ml",
+        "D) 10 ml"
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 38,
+      "tema": "Neonatología Crítica: Ductus Arterioso Persistente (DAP) Sintomático",
+      "caso_clinico": "Recién nacido pretérmino de 28 semanas con DAP hemodinámicamente significativo, que causa insuficiencia respiratoria e intolerancia a la alimentación.",
+      "pregunta": "¿Cuál es el fármaco de primera línea más utilizado para el cierre farmacológico del DAP en el prematuro?",
+      "opciones": [
+        "A) Paracetamol IV.",
+        "B) Indometacina IV.",
+        "C) Ibuprofeno IV.",
+        "D) B y C son correctas."
+      ],
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 39,
+      "tema": "Legal: Ley de Género - Prohibición de Patologización (Ley 26.743)",
+      "caso_clinico": "Un médico de UCI se refiere a la identidad de género de un paciente trans como un 'trastorno mental' que debe ser tratado antes de la cirugía ginecológica.",
+      "pregunta": "Según la Ley 26.743, ¿cuál es el principio que establece la relación entre la identidad de género y el acceso a la salud en Argentina?",
+      "opciones": [
+        "A) Principio de Necesidad: Solo se realizan tratamientos que corrijan el problema biológico.",
+        "B) Principio de Patologización: La identidad debe ser validada por psiquiatría.",
+        "C) Principio de Despatologización: La identidad de género no requiere diagnóstico médico o psicológico.",
+        "D) Principio de Interés Superior: El médico tiene la última palabra sobre el tratamiento."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 40,
+      "tema": "Adulto Crítico: Insuficiencia Cardíaca Periparto (ICPP)",
+      "caso_clinico": "Puérpera de 3 semanas ingresa a UCI con disnea, fatiga y fracción de eyección del ventrículo izquierdo (FEVI) del 30%. Se diagnostica ICPP.",
+      "pregunta": "¿Cuál es el tratamiento farmacológico crónico de primera línea que debe iniciarse, una vez estabilizada la paciente, para la ICPP?",
+      "opciones": [
+        "A) Inhibidores de la enzima convertidora de angiotensina (IECA) o ARA II.",
+        "B) Digoxina y Diuréticos de asa.",
+        "C) Bloqueantes beta-adrenérgicos y Sulfato de Magnesio.",
+        "D) Solo restricción de fluidos y dieta hiposódica."
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 41,
+      "tema": "Cálculo y Adulto Crítico: Noradrenalina en Shock Séptico",
+      "caso_clinico": "Paciente puérpera de 80 kg con shock séptico que requiere Noradrenalina a 0.1 microgramos/kg/min. La dilución es de **8 mg de Noradrenalina en 250 ml de Solución Salina**.",
+      "pregunta": "¿A qué velocidad de infusión (en ml/h) debe programarse la bomba?",
+      "opciones": [
+        "A) 15 ml/h",
+        "B) 10 ml/h",
+        "C) 7,5 ml/h",
+        "D) 5 ml/h"
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 42,
+      "tema": "Neonatología Crítica: Manejo de la Hiperbilirrubinemia Extrema",
+      "caso_clinico": "Recién nacido con ictericia severa y signos de encefalopatía aguda por hiperbilirrubinemia (kernicterus). El nivel de bilirrubina total es 30 mg/dL.",
+      "pregunta": "¿Cuál es el tratamiento de emergencia indicado ante la amenaza inminente de kernicterus?",
+      "opciones": [
+        "A) Fototerapia intensiva triple.",
+        "B) Exanguinotransfusión.",
+        "C) Administración de Fenobarbital.",
+        "D) Hidratación forzada con suero glucosado."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 43,
+      "tema": "Legal: Trasplante - Criterios de Muerte Encefálica (Ley 27.447)",
+      "caso_clinico": "Se evalúa a una paciente con lesión cerebral catastrófica para determinar Muerte Encefálica. El equipo de UCI realiza las pruebas clínicas y complementarias.",
+      "pregunta": "Según la Ley 27.447 de Argentina, ¿cuál de los siguientes es un criterio clínico indispensable para la certificación de Muerte Encefálica?",
+      "opciones": [
+        "A) Ausencia de actividad cortical en el EEG.",
+        "B) Ausencia de reflejos del tronco encefálico y apnea (Test de Apnea positivo).",
+        "C) Temperatura central menor a 35 grados Celsius.",
+        "D) Persistencia de reflejos medulares."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 44,
+      "tema": "Adulto Crítico: Manejo de la Hiperpotasemia",
+      "caso_clinico": "Paciente crítica con Insuficiencia Renal Aguda, oliguria y Potasio (K+) de 6.8 mEq/L con cambios en el ECG (ondas T picudas).",
+      "pregunta": "¿Cuál es el tratamiento de urgencia de primera línea para estabilizar la membrana miocárdica en este escenario?",
+      "opciones": [
+        "A) Insulina y Dextrosa.",
+        "B) Resinas de intercambio iónico.",
+        "C) Gluconato de Calcio IV.",
+        "D) Bicarbonato de Sodio IV."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 45,
+      "tema": "Pediatría Crítica: Criterios de Choque Séptico",
+      "caso_clinico": "Niña de 10 años con foco infeccioso abdominal, taquicardia, llenado capilar de 4 segundos y pulsos débiles.",
+      "pregunta": "¿Cuál de las siguientes es una definición clave para clasificar el estado de Choque Séptico 'caliente' o compensado en pediatría?",
+      "opciones": [
+        "A) Hipotensión persistente a pesar de reanimación con fluidos.",
+        "B) Taquicardia y pulsos periféricos saltones (bounding pulses).",
+        "C) Bradicardia e hipotermia.",
+        "D) Acidosis metabólica con lactato normal."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 46,
+      "tema": "Adulto Crítico: Inversión Uterina",
+      "caso_clinico": "Puérpera inmediata con sangrado masivo, dolor súbito y masa en la vagina. Se diagnostica Inversión Uterina.",
+      "pregunta": "¿Cuál es la medida de emergencia inicial para el manejo de la Inversión Uterina?",
+      "opciones": [
+        "A) Extracción manual inmediata del útero para revisión.",
+        "B) Reposición manual inmediata (maniobra de Johnson).",
+        "C) Infusión de Oxitocina a dosis altas.",
+        "D) Taponamiento uterino con gasas."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 47,
+      "tema": "Cálculo y Pediatría Crítica: Morfina en Dolor Severo",
+      "caso_clinico": "Niño de 5 años, peso 20 kg, con dolor post-quirúrgico severo. Se indica Morfina IV a dosis de 0.1 mg/kg. La presentación es de **10 mg/ml**.",
+      "pregunta": "¿Cuál es el volumen total (en ml) de Morfina que debe administrarse?",
+      "opciones": [
+        "A) 0,1 ml",
+        "B) 0,2 ml",
+        "C) 0,5 ml",
+        "D) 1,0 ml"
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 48,
+      "tema": "Neonatología Crítica: Displasia Broncopulmonar (DBP)",
+      "caso_clinico": "Recién nacido pretérmino de 30 semanas con requerimiento de oxígeno suplementario y ventilación mecánica prolongada a las 36 semanas de edad corregida.",
+      "pregunta": "¿Cuál es el factor de riesgo nutricional clave asociado al desarrollo y severidad de la DBP?",
+      "opciones": [
+        "A) Déficit de Vitamina D.",
+        "B) Restricción calórica y proteica (nutrición subóptima).",
+        "C) Exceso de Calcio.",
+        "D) Déficit de Vitamina C."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 49,
+      "tema": "Legal: Derechos del Paciente Crítico (Ley 26.529)",
+      "caso_clinico": "Paciente gestante con daño cerebral irreversible en UCI. La familia solicita el retiro del soporte vital (limitación del esfuerzo terapéutico).",
+      "pregunta": "Según la Ley 26.529 (Derechos del Paciente, modificada por la Ley 26.742), ¿cuál es el derecho que ampara al paciente para rechazar tratamientos extraordinarios o desproporcionados?",
+      "opciones": [
+        "A) Derecho al consentimiento informado.",
+        "B) Derecho a la intimidad.",
+        "C) Derecho a las Directivas Anticipadas (Voluntad Anticipada).",
+        "D) Derecho a la autonomía de la voluntad."
+      ],
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 50,
+      "tema": "Adulto Crítico: Manejo de la Tirotoxicosis en Gestación",
+      "caso_clinico": "Gestante con crisis tirotóxica (Tormenta Tiroidea) ingresa a UCI con fiebre, taquicardia severa y alteración del estado mental.",
+      "pregunta": "¿Cuál es el fármaco prioritario para inhibir la síntesis de nuevas hormonas tiroideas en la Tormenta Tiroidea?",
+      "opciones": [
+        "A) Yodo radioactivo.",
+        "B) Propiltiouracilo (PTU).",
+        "C) Levotiroxina.",
+        "D) Dexametasona."
+      ],
+      "respuesta_correcta": "B"
+    }
+{
+      "id": 51,
+      "tema": "Adulto Crítico: Insuficiencia Respiratoria Aguda (SDRA)",
+      "caso_clinico": "Puérpera en UCI con Sepsis grave por Endometritis, que desarrolla Síndrome de Dificultad Respiratoria Aguda (SDRA) con un índice PaO2/FiO2 de 120 mmHg (SDRA moderado).",
+      "pregunta": "¿Cuál es la estrategia de ventilación mecánica protectora recomendada en el SDRA grave?",
+      "opciones": [
+        "A) Volúmenes corrientes altos (10-12 ml/kg) para optimizar la oxigenación.",
+        "B) Presiones Pico altas (mayor a 35 cmH2O) para expandir los alvéolos.",
+        "C) Volúmenes corrientes bajos (4-6 ml/kg) y Presión Meseta (Pplat) menor a 30 cmH2O.",
+        "D) Uso exclusivo de ventilación con soporte de presión (PSV)."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 52,
+      "tema": "Cálculo y Adulto Crítico: Dopamina en Insuficiencia Renal",
+      "caso_clinico": "Paciente de 65 kg con oliguria e Insuficiencia Renal Aguda (IRA) no hipovolémica. Se decide probar una dosis 'renal' de Dopamina de 3 microgramos/kg/min. La dilución es de **200 mg de Dopamina en 250 ml de Solución Salina**.",
+      "pregunta": "¿A qué velocidad de infusión (en ml/h) debe programarse la bomba?",
+      "opciones": [
+        "A) 14,6 ml/h",
+        "B) 17,55 ml/h",
+        "C) 21,2 ml/h",
+        "D) 23,4 ml/h"
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 53,
+      "tema": "Neonatología Crítica: Retinopatía del Prematuro (ROP)",
+      "caso_clinico": "Recién nacido pretérmino de 26 semanas, con antecedente de ventilación mecánica prolongada y suplementación de oxígeno alta.",
+      "pregunta": "¿Cuál es el factor de riesgo ambiental de la UCIN más relevante y controlable asociado a la ROP severa?",
+      "opciones": [
+        "A) Luminosidad ambiental constante.",
+        "B) Nivel de ruido elevado en la incubadora.",
+        "C) Fluctuaciones en la concentración arterial de oxígeno (PaO2).",
+        "D) Uso de antibióticos de amplio espectro."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 54,
+      "tema": "Legal: IVE/ILE - Capacidad de Decisión en Adolescentes (Ley 27.610)",
+      "caso_clinico": "Adolescente de 15 años solicita una IVE. Consulta si necesita obligatoriamente el consentimiento de sus padres para acceder a la práctica.",
+      "pregunta": "Según la Ley 27.610 (IVE), ¿cuál es el requisito legal para que la adolescente de 15 años pueda dar su consentimiento informado sin la intervención de sus padres?",
+      "opciones": [
+        "A) Debe ser una emancipación legal validada por juez.",
+        "B) Se considera con autonomía suficiente (mayor de 13 años) para decidir, salvo riesgo grave.",
+        "C) Debe estar acompañada y autorizada por un adulto responsable obligatoriamente.",
+        "D) Solo requiere el consentimiento si el aborto es por causal salud."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 55,
+      "tema": "Adulto Crítico: Monitoreo Hemodinámico Invasivo",
+      "caso_clinico": "Paciente con shock cardiogénico secundario a cardiotoxicidad por quimioterapia previa. Se requiere monitoreo avanzado para guiar el uso de inotrópicos.",
+      "pregunta": "¿Cuál es el parámetro de monitoreo hemodinámico invasivo que mejor refleja la precarga del ventrículo izquierdo en pacientes críticos?",
+      "opciones": [
+        "A) Presión Venosa Central (PVC).",
+        "B) Gasto Cardíaco (GC).",
+        "C) Presión de Oclusión de la Arteria Pulmonar (POAP).",
+        "D) Presión Arterial Media (PAM)."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 56,
+      "tema": "Pediatría Crítica: Cáncer Ginecológico y Neutropenia Febril",
+      "caso_clinico": "Niña de 12 años, con cáncer ginecológico (sarcoma), que cursa con neutropenia febril posterior a quimioterapia. El foco es desconocido.",
+      "pregunta": "¿Cuál es la prioridad crítica de manejo en la Neutropenia Febril?",
+      "opciones": [
+        "A) Transfusión inmediata de plaquetas.",
+        "B) Hemocultivos y inicio urgente de antibióticos de amplio espectro.",
+        "C) Administración de factores estimulantes de colonias de granulocitos.",
+        "D) Tomografía computarizada urgente."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 57,
+      "tema": "Cálculo y Neonatología Crítica: Bicarbonato en Acidosis",
+      "caso_clinico": "Recién nacido de 2 kg con acidosis metabólica severa (pH 7.10, EB -15). Se calcula que requiere 2 mEq/kg de Bicarbonato de Sodio. La solución es Bicarbonato 1/6 Molar (1 mEq/ml).",
+      "pregunta": "¿Cuál es el volumen total (en ml) que debe administrarse de Bicarbonato de Sodio 1/6 Molar?",
+      "opciones": [
+        "A) 1 ml",
+        "B) 2 ml",
+        "C) 4 ml",
+        "D) 8 ml"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 58,
+      "tema": "Legal: Donación Post-Muerte (Ley 27.447)",
+      "caso_clinico": "Paciente crítica con Muerte Encefálica. No hay registro de voluntad expresa ni negativa en el INCUCAI. La familia no puede ser localizada.",
+      "pregunta": "Según el principio de **Donante Presunto** de la Ley 27.447, ¿cuál es el estado de la voluntad de donación en ausencia de manifestación expresa y sin localización familiar?",
+      "opciones": [
+        "A) Se asume una negativa a la donación.",
+        "B) Se asume una voluntad afirmativa de la donación.",
+        "C) La donación queda prohibida por falta de consentimiento familiar.",
+        "D) Se requiere la orden de un juez para proceder."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 59,
+      "tema": "Adulto Crítico: Rotura Uterina y Shock",
+      "caso_clinico": "Gestante con cicatriz de cesárea previa experimenta dolor abdominal súbito, hipotensión y ausencia de latidos fetales en la sala de partos.",
+      "pregunta": "¿Cuál es la medida de manejo inicial crítica y definitiva ante la sospecha de Rotura Uterina con colapso materno?",
+      "opciones": [
+        "A) Laparotomía exploradora de urgencia.",
+        "B) Intubación orotraqueal inmediata y ventilación.",
+        "C) Transfusión masiva de hemoderivados.",
+        "D) Infusión de uterotónicos para contraer el útero."
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 60,
+      "tema": "Adulto Crítico: Síndrome Antifosfolípido (SAF) Catastrófico",
+      "caso_clinico": "Puérpera con SAF diagnosticado previamente que ingresa a UCI con trombosis multiorgánica (renal, cerebral) y falla orgánica múltiple.",
+      "pregunta": "¿Cuál es el pilar terapéutico clave para el manejo del SAF Catastrófico en la Unidad de Cuidados Críticos?",
+      "opciones": [
+        "A) Heparina de bajo peso molecular (HBPM) sola.",
+        "B) Altas dosis de Corticoides, Plasmaféresis e Inmunoglobulinas intravenosas (IVIG).",
+        "C) Solo anticoagulación oral a largo plazo.",
+        "D) Antifúngicos y antibióticos de amplio espectro."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 61,
+      "tema": "Neonatología Crítica: Manejo de la Persistencia de Circulación Fetal (PCF)",
+      "caso_clinico": "Recién nacido con HPPN que no responde al Óxido Nítrico inhalado.",
+      "pregunta": "¿Cuál es la terapia de rescate avanzada que se considera cuando fallan las estrategias convencionales en la HPPN severa y refractaria?",
+      "opciones": [
+        "A) Hemodiálisis continua.",
+        "B) Oxigenación por Membrana Extracorpórea (ECMO).",
+        "C) Hipotermia profunda.",
+        "D) Trasplante pulmonar de urgencia."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 62,
+      "tema": "Cálculo y Adulto Crítico: Nitroprusiato de Sodio en Crisis Hipertensiva",
+      "caso_clinico": "Gestante de 70 kg con crisis hipertensiva que requiere reducción inmediata de PA con Nitroprusiato de Sodio a 0.5 microgramos/kg/min. Dilución: **50 mg en 250 ml de Dextrosa 5%**.",
+      "pregunta": "¿A qué velocidad de infusión (en ml/h) debe programarse la bomba?",
+      "opciones": [
+        "A) 10,5 ml/h",
+        "B) 5,25 ml/h",
+        "C) 3,15 ml/h",
+        "D) 2,1 ml/h"
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 63,
+      "tema": "Legal: Ley de Género - Acceso a Prestaciones Quirúrgicas (Ley 26.743)",
+      "caso_clinico": "Mujer trans con DNI rectificado solicita una vaginoplastia. Su obra social se niega argumentando que es una cirugía estética no cubierta por el PMO.",
+      "pregunta": "Según la Ley 26.743 de Identidad de Género, ¿cómo se clasifica la vaginoplastia o cualquier cirugía para adecuar el cuerpo a la identidad de género?",
+      "opciones": [
+        "A) Cirugía cosmética, solo cubierta parcialmente.",
+        "B) Es una prestación quirúrgica cubierta totalmente por el PMO, considerada no patológica.",
+        "C) Requiere un informe psiquiátrico favorable.",
+        "D) Es opcional para la cobertura si el paciente ya ha recibido hormonización."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 64,
+      "tema": "Adulto Crítico: Taponamiento Cardíaco",
+      "caso_clinico": "Paciente ginecológica post-cirugía que desarrolla hipotensión, ingurgitación yugular y ruidos cardíacos apagados (Triada de Beck).",
+      "pregunta": "¿Cuál es la intervención de emergencia más apropiada y potencialmente salvadora ante la sospecha de taponamiento cardíaco?",
+      "opciones": [
+        "A) Cardioversión eléctrica.",
+        "B) Colocación de Marcapasos transitorio.",
+        "C) Pericardiocentesis de urgencia.",
+        "D) Aumento de inotrópicos."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 65,
+      "tema": "Pediatría Crítica: Manejo de Choque Hipovolémico",
+      "caso_clinico": "Niña de 8 años con sangrado por trauma abdominal, en choque hipovolémico severo. Se inicia reanimación con fluidos.",
+      "pregunta": "¿Cuál es el volumen inicial de bolo de cristaloides (Solución Salina 0.9%) recomendado para la reanimación de choque en pediatría?",
+      "opciones": [
+        "A) 5 ml/kg.",
+        "B) 10 ml/kg.",
+        "C) 20 ml/kg.",
+        "D) 30 ml/kg."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 66,
+      "tema": "Neonatología Crítica: Hipotermia Terapéutica - Criterios de Exclusión",
+      "caso_clinico": "Recién nacido con Asfixia Perinatal. El equipo evalúa si es candidato a Hipotermia Terapéutica.",
+      "pregunta": "¿Cuál de las siguientes condiciones es una contraindicación absoluta para iniciar la Hipotermia Terapéutica?",
+      "opciones": [
+        "A) Peso al nacer menor a 2 kg.",
+        "B) Inicio de la terapia después de las 6 horas de vida.",
+        "C) Hemorragia pulmonar activa.",
+        "D) Gestación de 34 semanas."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 67,
+      "tema": "Legal: Ley de Trasplante - Prohibición de Incentivos (Ley 27.447)",
+      "caso_clinico": "La familia de un donante potencial pregunta si pueden recibir una compensación económica por la donación de órganos.",
+      "pregunta": "Según la Ley 27.447 de Argentina, ¿cuál es la posición legal respecto a la comercialización o compensación económica por la donación de órganos?",
+      "opciones": [
+        "A) Es legal recibir una compensación económica justa.",
+        "B) Está permitido, siempre y cuando se notifique al INCUCAI.",
+        "C) La ley establece que la donación es un acto voluntario, altruista y **prohíbe la comercialización**.",
+        "D) Es ilegal recibir dinero, pero se puede cubrir el gasto del funeral."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 68,
+      "tema": "Adulto Crítico: Falla Multiorgánica (FMO)",
+      "caso_clinico": "Puérpera con Sepsis que desarrolla Falla Renal, Falla Respiratoria y Coagulopatía (FMO).",
+      "pregunta": "¿Cuál es la causa subyacente más frecuente de FMO en el contexto obstétrico de la UCI?",
+      "opciones": [
+        "A) Preeclampsia y eclampsia.",
+        "B) Sepsis (infección) y shock séptico.",
+        "C) Cardiopatía periparto.",
+        "D) Embolia de líquido amniótico."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 69,
+      "tema": "Cálculo y Adulto Crítico: Labetalol en Crisis Hipertensiva",
+      "caso_clinico": "Paciente con crisis hipertensiva (PA 180/120 mmHg). Se indica Labetalol en bolo de 20 mg IV. El vial es de 100 mg/20 ml.",
+      "pregunta": "¿Cuál es el volumen total (en ml) de Labetalol que debe administrarse en el bolo inicial?",
+      "opciones": [
+        "A) 1 ml",
+        "B) 2 ml",
+        "C) 4 ml",
+        "D) 5 ml"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 70,
+      "tema": "Neonatología Crítica: Neumotórax a Tensión",
+      "caso_clinico": "Recién nacido intubado con deterioro respiratorio y hemodinámico súbito, bradicardia, e hipoxemia. El examen muestra disminución unilateral de ruidos respiratorios.",
+      "pregunta": "¿Cuál es el tratamiento de emergencia de primera línea que debe realizarse inmediatamente ante la sospecha de Neumotórax a Tensión?",
+      "opciones": [
+        "A) Aumentar la Presión Positiva al Final de la Espiración (PEEP).",
+        "B) Toracostomía con aguja (Descompresión con aguja).",
+        "C) Administrar Sulfato de Magnesio.",
+        "D) Cambio de modalidad ventilatoria."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 71,
+      "tema": "Legal: IVE/ILE - Confidencialidad y Acceso (Ley 27.610)",
+      "caso_clinico": "Mujer que solicita una IVE, pide expresamente que la información de la práctica no sea compartida con su pareja o familiares.",
+      "pregunta": "Según la Ley 27.610 y la Ley 26.529 (Derechos del Paciente), ¿cuál es el principio que debe regir el manejo de la información relativa a la IVE?",
+      "opciones": [
+        "A) Principio de Notificación: El médico debe informar al cónyuge.",
+        "B) Principio de Confidencialidad: La información debe ser resguardada y solo puede ser revelada con el consentimiento de la paciente.",
+        "C) Principio de Autoridad Sanitaria: El hospital debe registrarlo públicamente.",
+        "D) Principio de Intervención Judicial: Se requiere un juez para garantizar la confidencialidad."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 72,
+      "tema": "Adulto Crítico: Absceso Tubo-Ovárico Roto",
+      "caso_clinico": "Mujer con dolor abdominal pélvico crónico, ingresa a UCI con sepsis, peritonitis y shock séptico por la rotura de un Absceso Tubo-Ovárico (ATO).",
+      "pregunta": "¿Cuál es la piedra angular del tratamiento inicial en UCI para el ATO roto con shock séptico?",
+      "opciones": [
+        "A) Drenaje percutáneo o cirugía y antibióticos de amplio espectro.",
+        "B) Solamente manejo médico expectante con analgesia.",
+        "C) Observación y control seriado de hemograma.",
+        "D) Administración de corticoides de alta dosis."
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 73,
+      "tema": "Pediatría Crítica: Quemaduras en Niños",
+      "caso_clinico": "Niña de 3 años con quemaduras de segundo grado en el 20% de la superficie corporal, con riesgo de shock por quemaduras.",
+      "pregunta": "¿Cuál es el volumen de fluidos (cristaloides) que debe administrarse según la fórmula de Parkland modificada para las primeras 8 horas en pediatría?",
+      "opciones": [
+        "A) 2 ml/kg por %SCQ.",
+        "B) 4 ml/kg por %SCQ.",
+        "C) 3 ml/kg por %SCQ.",
+        "D) 6 ml/kg por %SCQ."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 74,
+      "tema": "Adulto Crítico: Monitoreo de Toxicidad por Sulfato de Magnesio",
+      "caso_clinico": "Puérpera con preeclampsia severa recibiendo Magnesio. Se evalúa continuamente la presencia de oliguria.",
+      "pregunta": "¿Cuál es el parámetro de excreción renal que, si es inferior a un valor límite, obliga a la reducción o suspensión de la infusión de Sulfato de Magnesio?",
+      "opciones": [
+        "A) Creatinina sérica > 1.5 mg/dL.",
+        "B) Diuresis horaria < 100 ml/4h.",
+        "C) Diuresis horaria < 30 ml/h o 100 ml/4h.",
+        "D) Concentración de Magnesio sérico."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 75,
+      "tema": "Cálculo y Pediatría Crítica: Fenobarbital en Convulsiones",
+      "caso_clinico": "Recién nacido de 3 kg con convulsiones. Se requiere una dosis de carga de Fenobarbital de 20 mg/kg IV. El vial es de **200 mg/ml**.",
+      "pregunta": "¿Cuál es el volumen total (en ml) que debe administrarse lentamente?",
+      "opciones": [
+        "A) 0,1 ml",
+        "B) 0,2 ml",
+        "C) 0,3 ml",
+        "D) 0,4 ml"
+      ],
+      "respuesta_correcta": "C"
+    }
+  ],
+}
 [
-  {"question":"¿Cuál es la causa más frecuente de hemorragia uterina anormal en edad reproductiva?","options":["Embarazo ectópico","Adenomiosis","Disfunción ovárica anovulatoria","Cáncer de endometrio"],"answer":2},
-  {"question":"La prueba de embarazo más temprana y específica es:","options":["Prueba de orina casera basada en hCG","Medición sérica cuantitativa de hCG","Ecografía transvaginal siempre","Niveles de progesterona"],"answer":1},
-  {"question":"Diagnóstico de preeclampsia requiere:","options":["Hipertensión y proteinuria o datos de daño orgánico después de 20 semanas", "Hipotensión sólo", "Sangrado vaginal sólo", "Infección urinaria"],"answer":0},
-  {"question":"La profilaxis para la infección postparto incluye generalmente:","options":["Antibiótico profiláctico en cesárea según protocolo", "No antibiótico en ninguna cirugía", "Uso rutinario de antivirales", "Administrar hormonas"],"answer":0},
-  {"question":"La intraparto, una indicación clásica para cesárea es:","options":["Sufrimiento fetal no reversible", "Deseo materno sin indicación", "Parto normal espontáneo sin complicaciones", "Trabajo de parto activo"],"answer":0},
-  {"question":"La vacunación recomendada en embarazadas incluye:","options":["Vacuna inactivada antigripal y Tdap (según pautas)","Vacuna MMR (viva)","Vacuna oral contra rotavirus","Vacuna BCG"],"answer":0},
-  {"question":"La prueba de Papanicolaou se utiliza para detectar:","options":["Infecciones gastrointestinales","Lesiones cervicales precancerosas y cáncer de cuello uterino","Embarazo ectópico","Trombosis venosa"],"answer":1},
-  {"question":"Una causa común de infertilidad femenina es:","options":["Síndrome de ovario poliquístico (SOP)","Fractura ósea","Infección respiratoria crónica","Hiperactividad mental"],"answer":0},
-  {"question":"Para el diagnóstico de embarazo ectópico, la combinación más útil es:","options":["hCG seriada y ecografía transvaginal", "Radiografía de pelvis", "Prueba de función hepática", "Hemocultivos"],"answer":0},
-  {"question":"El manejo de la metrorragia en la adolescente suele incluir:","options":["Evaluación inicial y manejo según causa; anticonceptivos hormonales si indicado", "Cirugía inmediata siempre", "Administrar hormona del crecimiento", "Descartar cualquier intervención"],"answer":0}
-]
+    {
+  [
+    {
+      "id": 76,
+      "tema": "Adulto Crítico: Transfusión Masiva y Coagulopatía",
+      "caso_clinico": "Puérpera con hemorragia masiva (pérdida de > 2.500 ml) en protocolo de transfusión masiva. Desarrolla hipotermia y coagulopatía de consumo.",
+      "pregunta": "¿Cuál es la proporción de hemoderivados (Glóbulos Rojos Concentrados : Plasma Fresco Congelado : Plaquetas) idealmente recomendada en el protocolo de transfusión masiva para el control de daños?",
+      "opciones": [
+        "A) 2:1:1",
+        "B) 1:1:1",
+        "C) 1:2:1",
+        "D) 4:2:1"
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 77,
+      "tema": "Cálculo y Neonatología Crítica: Bolo de Dextrosa en Hipoglucemia",
+      "caso_clinico": "Recién nacido de 2.5 kg con hipoglucemia sintomática. Se indica un bolo de 1 ml/kg de Dextrosa al 10% (D10%). La D10% tiene 0.1 g/ml de glucosa.",
+      "pregunta": "¿Cuál es la dosis de glucosa (en g/kg) que está recibiendo el recién nacido con este bolo?",
+      "opciones": [
+        "A) 0.05 g/kg",
+        "B) 0.1 g/kg",
+        "C) 0.5 g/kg",
+        "D) 1.0 g/kg"
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 78,
+      "tema": "Adulto Crítico: Nefropatía Post-Parto",
+      "caso_clinico": "Puérpera con microangiopatía trombótica (MAT) post-parto, falla renal aguda y anemia hemolítica microangiopática. Se sospecha Púrpura Trombótica Trombocitopénica (PTT) atípica.",
+      "pregunta": "¿Cuál es el pilar terapéutico fundamental para el manejo de la MAT atípica con falla renal, hasta el diagnóstico definitivo?",
+      "opciones": [
+        "A) Transfusión de plaquetas.",
+        "B) Plasmaféresis de urgencia (Intercambio Plasmático).",
+        "C) Infusión de Glóbulos Rojos concentrados.",
+        "D) Inmunoglobulina intravenosa (IVIG)."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 79,
+      "tema": "Legal: IVE/ILE - Objeción de Conciencia Institucional (Ley 27.610)",
+      "caso_clinico": "Un hospital privado católico declara que toda su institución se considera objetora de conciencia para la realización de la IVE.",
+      "pregunta": "Según la Ley 27.610, ¿es legal en Argentina la objeción de conciencia de carácter institucional, por parte de un centro de salud?",
+      "opciones": [
+        "A) Sí, la ley permite la objeción institucional basada en principios religiosos.",
+        "B) No, la objeción es siempre de carácter individual, pero la institución debe garantizar la derivación sin costo.",
+        "C) Sí, siempre que la objeción sea notificada al Ministerio de Salud.",
+        "D) La ley no aborda la objeción de conciencia institucional."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 80,
+      "tema": "Pediatría Crítica: Criterios de Choque Cardiogénico",
+      "caso_clinico": "Niño con sepsis grave y deterioro cardíaco que presenta hipotensión, taquicardia, pulsos débiles y tiempo de llenado capilar > 3 segundos, sin respuesta a bolos de fluidos.",
+      "pregunta": "¿Cuál es la indicación inmediata para el manejo del choque cardiogénico pediátrico?",
+      "opciones": [
+        "A) Restricción hídrica y Noradrenalina.",
+        "B) Iniciar infusión de Vasopresina.",
+        "C) Iniciar un inotrópico (ej. Dobutamina o Milrinona).",
+        "D) Administrar bolo de Furosemida."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 81,
+      "tema": "Neonatología Crítica: Hemorragia Intraventricular (HIV)",
+      "caso_clinico": "Recién nacido pretérmino de 28 semanas. Se realiza una ecografía cerebral de rutina que evidencia una HIV Grado III.",
+      "pregunta": "¿Cuál es el factor de riesgo controlable más importante en la UCIN para la prevención de la HIV?",
+      "opciones": [
+        "A) Control estricto de la temperatura corporal.",
+        "B) Evitar fluctuaciones rápidas en la presión arterial y la presión venosa central.",
+        "C) Administración rutinaria de Indometacina.",
+        "D) Nutrición parenteral precoz."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 82,
+      "tema": "Cálculo y Pediatría Crítica: Dopamina en Choque Frío",
+      "caso_clinico": "Niño de 10 kg en choque frío (extremidades frías, pulsos débiles) requiere Dopamina a 20 microgramos/kg/min. Dilución: **200 mg de Dopamina en 100 ml de Solución Salina**.",
+      "pregunta": "¿A qué velocidad de infusión (en ml/h) debe programarse la bomba?",
+      "opciones": [
+        "A) 1.2 ml/h",
+        "B) 3.6 ml/h",
+        "C) 6.0 ml/h",
+        "D) 9.0 ml/h"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 83,
+      "tema": "Legal: Ley de Género - Hormonización en Menores (Ley 26.743)",
+      "caso_clinico": "Adolescente de 14 años, identificada como varón trans, solicita iniciar el tratamiento de bloqueo hormonal para adecuar su cuerpo.",
+      "pregunta": "Según la Ley 26.743, ¿cuál es el requisito principal para que un adolescente menor de 16 años acceda a tratamientos hormonales para su transición de género?",
+      "opciones": [
+        "A) Autorización judicial obligatoria y dictamen psicológico.",
+        "B) Consentimiento de sus representantes legales y un equipo interdisciplinario.",
+        "C) Solo el consentimiento expreso del adolescente, sin intervención de terceros.",
+        "D) Esperar a cumplir los 18 años para iniciar el tratamiento."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 84,
+      "tema": "Adulto Crítico: Síndrome de HELLP - Criterios de Transfusión",
+      "caso_clinico": "Paciente con Síndrome de HELLP con plaquetas en 25.000 / microL que requiere una cesárea de urgencia. No presenta sangrado activo masivo.",
+      "pregunta": "¿Cuál es el umbral de plaquetas generalmente aceptado antes de realizar una cesárea en pacientes con HELLP, si no hay sangrado masivo?",
+      "opciones": [
+        "A) 5.000 / microL",
+        "B) 10.000 / microL",
+        "C) 20.000 / microL",
+        "D) 50.000 / microL"
+      ],
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 85,
+      "tema": "Pediatría Crítica: Dosis de Adrenalina en Paro Cardíaco",
+      "caso_clinico": "Niño de 5 años, peso 20 kg, en Paro Cardíaco (PCR) sin pulso. Se requiere administrar Adrenalina IV.",
+      "pregunta": "¿Cuál es la dosis inicial de Adrenalina IV (dilución 1:10.000) que debe administrarse según las guías pediátricas?",
+      "opciones": [
+        "A) 0.01 mg/kg (0.1 ml/kg)",
+        "B) 0.1 mg/kg (1 ml/kg)",
+        "C) 1.0 mg/kg (10 ml/kg)",
+        "D) 0.05 mg/kg (0.5 ml/kg)"
+      ],
+      "respuesta_correcta": "A"
+    },
+    {
+      "id": 86,
+      "tema": "Adulto Crítico: Hiperemesis Gravídica Severa",
+      "caso_clinico": "Gestante con hiperemesis que ingresa a UCI con alcalosis metabólica, hipopotasemia severa y encefalopatía (Sospecha de Encefalopatía de Wernicke).",
+      "pregunta": "¿Cuál es la intervención terapéutica que debe administrarse antes o inmediatamente con la infusión de dextrosa para prevenir el empeoramiento neurológico?",
+      "opciones": [
+        "A) Cloruro de Potasio IV.",
+        "B) Tiamina (Vitamina B1) IV.",
+        "C) Ondansetrón IV.",
+        "D) Ácido fólico."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 87,
+      "tema": "Cálculo y Adulto Crítico: Vasopresina en Shock",
+      "caso_clinico": "Paciente con shock séptico refractario a Noradrenalina. Se inicia Vasopresina a 0.03 U/min. Dilución: **20 UI de Vasopresina en 100 ml de Solución Salina**.",
+      "pregunta": "¿A qué velocidad de infusión (en ml/h) debe programarse la bomba?",
+      "opciones": [
+        "A) 6.0 ml/h",
+        "B) 9.0 ml/h",
+        "C) 12.0 ml/h",
+        "D) 15.0 ml/h"
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 88,
+      "tema": "Neonatología Crítica: Neumopatía por Deficiencia de Surfactante",
+      "caso_clinico": "Recién nacido pretérmino con Síndrome de Dificultad Respiratoria (SDR) por deficiencia de surfactante que requiere intubación y ventilación.",
+      "pregunta": "¿Cuál es el método ideal para la administración de surfactante exógeno en el pretérmino con SDR?",
+      "opciones": [
+        "A) Nebulización de surfactante.",
+        "B) Administración por vía venosa central.",
+        "C) Instilación endotraqueal directa.",
+        "D) Instilación orofaríngea antes del nacimiento."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 89,
+      "tema": "Legal: Trasplante - Mantenimiento del Potencial Donante (Ley 27.447)",
+      "caso_clinico": "Paciente declarada Muerte Encefálica y con voluntad de donación presunta. El equipo debe mantener su estabilidad para la procuración.",
+      "pregunta": "¿Quién asume los gastos de mantenimiento del potencial donante, desde la certificación de la muerte encefálica hasta la ablación, según la ley argentina?",
+      "opciones": [
+        "A) La familia del donante.",
+        "B) La obra social o prepaga del paciente.",
+        "C) El hospital público o privado.",
+        "D) El INCUCAI (o CUCAI jurisdiccional)."
+      ],
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 90,
+      "tema": "Adulto Crítico: Cuidado Post-Paro Cardíaco (PCP)",
+      "caso_clinico": "Puérpera recuperada de un PCR por TEP masivo. Se encuentra en coma post-reanimación.",
+      "pregunta": "¿Cuál es la meta de temperatura corporal que debe manejarse en el periodo post-PCR, según la estrategia de Control de Temperatura Dirigida (CTD)?",
+      "opciones": [
+        "A) Normotermia estricta (36.0 °C a 37.5 °C).",
+        "B) Hipotermia leve (33.0 °C a 34.0 °C) durante 24 horas.",
+        "C) Hipertermia terapéutica (38.0 °C).",
+        "D) Normotermia (evitar la fiebre, < 37.7 °C)."
+      ],
+      "respuesta_correcta": "D"
+    },
+    {
+      "id": 91,
+      "tema": "Pediatría Crítica: Intoxicación por Hierro",
+      "caso_clinico": "Niña de 2 años ingresa a UCI con vómitos, dolor abdominal y shock por intoxicación con comprimidos de hierro de su madre gestante.",
+      "pregunta": "¿Cuál es el antídoto específico y la indicación de primera línea para la intoxicación grave por hierro?",
+      "opciones": [
+        "A) Lavado gástrico y Acetilcisteína.",
+        "B) Carbón activado y Metilprednisolona.",
+        "C) Desferroxamina intravenosa y soporte vital.",
+        "D) Bicarbonato de Sodio y Furosemida."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 92,
+      "tema": "Cálculo y Adulto Crítico: Fenitoína en Eclampsia",
+      "caso_clinico": "Gestante de 70 kg con convulsiones eclámpticas, alérgica al Sulfato de Magnesio. Se decide utilizar Fenitoína en dosis de carga de 15 mg/kg IV.",
+      "pregunta": "¿Cuántos miligramos (mg) de Fenitoína deben administrarse como dosis de carga?",
+      "opciones": [
+        "A) 750 mg",
+        "B) 1050 mg",
+        "C) 1400 mg",
+        "D) 950 mg"
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 93,
+      "tema": "Legal: IVE/ILE - Consentimiento en Discapacidad (Ley 27.610)",
+      "caso_clinico": "Mujer con discapacidad intelectual y capacidad restringida por sentencia judicial solicita una IVE, su tutor legal se opone.",
+      "pregunta": "Según la Ley 27.610 y el Código Civil, ¿cuál es el procedimiento que debe seguirse para garantizar el acceso a la IVE en este caso?",
+      "opciones": [
+        "A) La decisión del tutor legal es definitiva y prevalece.",
+        "B) Se requiere la intervención judicial para suplantar el consentimiento.",
+        "C) Se debe buscar el asentimiento informado de la persona, junto con el apoyo de un equipo interdisciplinario.",
+        "D) El equipo médico debe rechazar la solicitud por conflicto de intereses."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 94,
+      "tema": "Adulto Crítico: Choque Neurogénico",
+      "caso_clinico": "Paciente con trauma medular alto (C4-C5) post-accidente ginecológico que presenta hipotensión, bradicardia y piel caliente y seca.",
+      "pregunta": "¿Cuál es la manifestación clínica que diferencia el Choque Neurogénico de otras formas de shock (ej. hipovolémico o séptico) en la fase inicial?",
+      "opciones": [
+        "A) Taquicardia compensatoria.",
+        "B) Hipertermia.",
+        "C) Bradicardia y vasodilatación periférica.",
+        "D) Presión de Pulso estrecha."
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 95,
+      "tema": "Neonatología Crítica: Criterios de Sepsis Neonatal Precoz",
+      "caso_clinico": "Recién nacido de 12 horas con hipotonía, apnea, y leucopenia. La madre tuvo una corioamnionitis confirmada.",
+      "pregunta": "¿Cuál es la indicación inicial crítica ante la sospecha de Sepsis Neonatal Precoz?",
+      "opciones": [
+        "A) Observación y control de la temperatura por 24 horas.",
+        "B) Inicio de antibióticos empíricos de amplio espectro, posterior a cultivos y punción lumbar.",
+        "C) Solo monitoreo y nutrición parenteral.",
+        "D) Transfusión de inmunoglobulina intravenosa."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 96,
+      "tema": "Adulto Crítico: Monitoreo de la Presión Intracraneal (PIC)",
+      "caso_clinico": "Paciente con eclampsia que cursa con edema cerebral severo y requiere intubación y ventilación. Se evalúa la necesidad de monitoreo invasivo de la PIC.",
+      "pregunta": "¿Cuál es el valor máximo aceptable para la Presión de Perfusión Cerebral (PPC) que debe mantenerse en el paciente crítico neurológico?",
+      "opciones": [
+        "A) Menor a 50 mmHg.",
+        "B) Entre 60 y 70 mmHg.",
+        "C) Mayor a 80 mmHg.",
+        "D) Entre 40 y 50 mmHg."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 97,
+      "tema": "Cálculo y Pediatría Crítica: Expansión de Volumen",
+      "caso_clinico": "Niño de 12 kg con deshidratación grave y shock hipovolémico. Se indica un bolo de 20 ml/kg de Solución Salina 0.9%.",
+      "pregunta": "¿Cuál es el volumen total (en ml) que debe administrarse en este bolo inicial?",
+      "opciones": [
+        "A) 120 ml",
+        "B) 180 ml",
+        "C) 240 ml",
+        "D) 300 ml"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "id": 98,
+      "tema": "Legal: Ley de Género - Proceso de Rectificación Registral (Ley 26.743)",
+      "caso_clinico": "Una persona trans está en el proceso de cambiar su DNI y género en el registro civil. Consulta si debe presentar un certificado médico o una evaluación psiquiátrica.",
+      "pregunta": "Según la Ley 26.743, ¿cuáles son los requisitos indispensables para solicitar la rectificación registral del sexo y cambio de nombre de pila en el DNI?",
+      "opciones": [
+        "A) Informe psiquiátrico de disforia de género y cirugía de reasignación.",
+        "B) Exclusivamente la solicitud personal y el consentimiento informado.",
+        "C) Autorización de un juez de familia y evaluación de un equipo de salud mental.",
+        "D) Prueba de hormonización durante al menos un año."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 99,
+      "tema": "Adulto Crítico: Manejo del Edema Pulmonar Cardiogénico",
+      "caso_clinico": "Puérpera con Cardiopatía Periparto que desarrolla Edema Agudo de Pulmón (EAP) con SaO2 del 85% e hipertensión.",
+      "pregunta": "¿Cuál es la intervención terapéutica de primera línea que combina reducción de la precarga y soporte ventilatorio no invasivo para el EAP cardiogénico?",
+      "opciones": [
+        "A) Furosemida IV y Oxígeno de alto flujo (HFNC).",
+        "B) Furosemida IV y Ventilación No Invasiva con Presión Positiva (VNI-CPAP).",
+        "C) Labetalol IV y ventilación invasiva (VM).",
+        "D) Nitroprusiato de Sodio y Dobutamina."
+      ],
+      "respuesta_correcta": "B"
+    },
+    {
+      "id": 100,
+      "tema": "Neonatología Crítica: Sepsis Neonatal por Streptococcus Agalactiae (GBS)",
+      "caso_clinico": "Recién nacido con Sepsis de inicio temprano por GBS. El tratamiento empírico inicial fue Ampicilina y Gentamicina.",
+      "pregunta": "¿Cuál es el antibiótico de elección para el tratamiento definitivo de la Sepsis Neonatal confirmada por Streptococcus agalactiae (GBS)?",
+      "opciones": [
+        "A) Ceftriaxona.",
+        "B) Vancomicina.",
+        "C) Penicilina G o Ampicilina.",
+        "D) Meropenem."
+      ],
+      "respuesta_correcta": "C"
+    }
+  ],
+  
+}
