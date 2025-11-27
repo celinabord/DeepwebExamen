@@ -1,7 +1,1306 @@
-[
-  {"question":"Qué signo sugiere otitis media aguda en la exploración?","options":["Tímpano eritematoso y abombado","Tímpano translúcido y móvil","Oídos que oyen mejor","Sin hallazgos"],"answer":0},
-  {"question":"Cuál es el tratamiento inicial para otitis media aguda bacteriana en niños?","options":["Amoxicilina oral según peso","Antiinflamatorios solo","Cirugía inmediata","Ceftriaxona tópica"],"answer":0},
-  {"question":"La causa más frecuente de obstrucción nasal crónica en niños es:","options":["Rinitis alérgica","Cuerpos extraños nasales","Tumores malignos","Fístula"],"answer":0},
-  {"question":"La amigdalitis estreptocócica se confirma con:","options":["Test rápido de detección de antígeno o cultivo de garganta","Radiografía de tórax","Prueba de función hepática","Punción lumbar"],"answer":0},
-  {"question":"Qué maniobra es útil en la extracción de cuerpo extraño nasal en niño consciente?","options":["Maniobra de presión positiva (tap and blow) o extracción con pinza visualizada por profesional","Inducir vómito","Administrar sedación en casa","Aspirar con jeringa grande"],"answer":0}
-]
+ {
+  "titulo": "Examen de Otorrinolaringología en Cuidados Críticos",
+  "instrucciones": "Seleccione la única opción correcta para cada pregunta.",
+  "preguntas": [
+    {
+      "id": 1,
+      "caso_clinico": "Adulto de 65 años, hipertenso, con epistaxis posterior masiva que no cede con taponamiento anterior ni con taponamiento posterior con balón. Presenta signos de shock hipovolémico. Se traslada a UCI.",
+      "pregunta": "¿Cuál es el paso terapéutico definitivo de elección para el control de la hemorragia en este paciente inestable, tras fallar el taponamiento posterior?",
+      "opciones": {
+        "a": "Ligadura de la arteria carótida externa en cuello.",
+        "b": "Embolización de las arterias Esfenopalatina y/o Etmoidales.",
+        "c": "Cauterización química del septo nasal con nitrato de plata.",
+        "d": "Aumento de la presión arterial media para mejorar la perfusión."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Epistaxis Masiva"
+    },
+    {
+      "id": 2,
+      "caso_clinico": "Neonato de 2 días de vida con diagnóstico de Atresia de Coanas unilateral. Desarrolla distrés respiratorio severo y cianosis al cerrar la boca, mejorando al llorar. Requiere apoyo ventilatorio inmediato.",
+      "pregunta": "¿Cuál es la medida inicial de manejo urgente para asegurar la vía aérea en este neonato mientras se prepara la intervención definitiva?",
+      "opciones": {
+        "a": "Intubación orotraqueal (IOT) inmediata.",
+        "b": "Colocación de sonda orofaríngea de McGovern.",
+        "c": "Traqueostomía de urgencia.",
+        "d": "Iniciar CPAP nasal para mejorar el reclutamiento alveolar."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Neonato - Atresia de Coanas"
+    },
+    {
+      "id": 3,
+      "caso_clinico": "Paciente pediátrico (3 años, 15 kg) con crup grave (Laringotraqueobronquitis) que no mejora con corticoides ni adrenalina nebulizada, con tiraje intercostal severo, bradicardia y alteración del estado de conciencia. Se decide intubación.",
+      "pregunta": "¿Cuál es la dosis de bolo intravenoso (IV) de Adrenalina 1:10,000 que se debe administrar en caso de que desarrolle asistolia durante la IOT?",
+      "opciones": {
+        "a": "0.15 mg IV (1.5 mL de la dilución).",
+        "b": "0.01 mg IV (0.1 mL de la dilución).",
+        "c": "0.1 mg IV (1.0 mL de la dilución).",
+        "d": "0.0015 mg IV (0.015 mL de la dilución)."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Pediátrico - Crup Grave y Cálculo de Fármaco"
+    },
+    {
+      "id": 4,
+      "caso_clinico": "Adulto de 40 años con un traumatismo facial severo (Lefort III) que compromete la vía aérea y requiere traqueostomía de urgencia. A las 4 horas post-procedimiento, presenta disnea súbita y crepitación en el cuello.",
+      "pregunta": "¿Cuál es la complicación temprana y urgente más probable que sugiere la crepitación cervical?",
+      "opciones": {
+        "a": "Hemorragia del estoma.",
+        "b": "Enfisema subcutáneo/mediastinal.",
+        "c": "Fístula traqueoesofágica.",
+        "d": "Neumonía asociada al ventilador."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Traqueostomía Urgente"
+    },
+    {
+      "id": 5,
+      "caso_clinico": "Se evalúa a un paciente en Muerte Cerebral como potencial donador. Su familiar pregunta sobre la ley de trasplantes y la posibilidad de que se revele la identidad del receptor.",
+      "pregunta": "De acuerdo con la legislación de trasplantes (Ley General de Salud), ¿qué principio rige la relación entre donador y receptor?",
+      "opciones": {
+        "a": "El consentimiento presunto.",
+        "b": "La trazabilidad legal.",
+        "c": "El anonimato recíproco.",
+        "d": "La prioridad de órganos."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Legislación - Ley de Trasplantes"
+    },
+    {
+      "id": 6,
+      "caso_clinico": "Paciente pediátrico (5 años, 20 kg) con un absceso periamigdalino drenado que evoluciona a sepsis grave con necesidad de ingreso a UCI. Se decide iniciar Vancomicina IV en dosis estándar cada 6 horas.",
+      "pregunta": "¿Cuál es la dosis de Vancomicina por bolo (mg) que debe recibir este paciente, si la dosis pediátrica es de 15 mg/kg por dosis?",
+      "opciones": {
+        "a": "150 mg.",
+        "b": "200 mg.",
+        "c": "300 mg.",
+        "d": "450 mg."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Pediátrico - Infección Profunda y Cálculo de Fármaco"
+    },
+    {
+      "id": 7,
+      "caso_clinico": "Adulto con antecedente de radioterapia cervical por cáncer de laringe, ingresa a UCI por estenosis subglótica severa y fallo respiratorio. Se necesita asegurar la vía aérea de forma definitiva en un contexto de alto riesgo de sangrado y dificultad para ventilar.",
+      "pregunta": "¿Cuál es el procedimiento más seguro y recomendado para asegurar la vía aérea en este escenario de vía aérea difícil conocida y de alto riesgo?",
+      "opciones": {
+        "a": "Intubación orotraqueal con fibroscopio flexible y posterior dilatación.",
+        "b": "Cricotiroidotomía con aguja, seguida de IOT.",
+        "c": "Traqueostomía electiva bajo anestesia local con el paciente despierto.",
+        "d": "Intubación orotraqueal de secuencia rápida con bloqueo neuromuscular."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Vía Aérea Difícil"
+    },
+    {
+      "id": 8,
+      "caso_clinico": "Neonato prematuro (1.5 kg) en UCI con Síndrome de Dificultad Respiratoria, requiere ventilación mecánica. Se ajusta la $\\text{FiO}_2$ a 0.8 para mantener una $\\text{SaO}_2 > 90\\%$.",
+      "pregunta": "¿Cuál es el riesgo a largo plazo asociado al uso prolongado de una $\\text{FiO}_2$ alta en neonatos?",
+      "opciones": {
+        "a": "Displasia broncopulmonar.",
+        "b": "Estenosis traqueal subglótica.",
+        "c": "Parálisis de cuerda vocal por IOT.",
+        "d": "Colesteatoma congénito."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Neonato - Ventilación y ORL"
+    },
+    {
+      "id": 9,
+      "caso_clinico": "Paciente adulto de 70 kg, sedado en UCI por trauma craneoencefálico, con ventilación mecánica. Se requiere un bolo de Fentanilo para procedimiento de aspiración traqueal, a dosis de $2\\text{ mcg/kg}$.",
+      "pregunta": "¿Cuántos mililitros (mL) de Fentanilo (presentación $50\\text{ mcg/mL}$) debe administrarse en bolo?",
+      "opciones": {
+        "a": "2.8 mL.",
+        "b": "2.1 mL.",
+        "c": "1.4 mL.",
+        "d": "0.7 mL."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Adulto - Cálculo de Fármaco"
+    },
+    {
+      "id": 10,
+      "caso_clinico": "Adulto en Muerte Cerebral, potencial donador multiorgánico. Los familiares han dado el consentimiento, pero el paciente en vida nunca dejó por escrito su voluntad. ",
+      "pregunta": "¿Bajo qué principio ético y legal se avala la decisión de donación, cuando no hay un documento expreso del paciente, pero sí de la familia?",
+      "opciones": {
+        "a": "Consentimiento Informado.",
+        "b": "Autonomía Subrogada.",
+        "c": "Gratuidad de la Donación.",
+        "d": "No Maleficencia."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Legislación - Principios Éticos"
+    },
+    {
+      "id": 11,
+      "caso_clinico": "Paciente pediátrico (8 años) ingresa a UCI por Mastoiditis Aguda que evoluciona a Absceso de Bezold (extracraneal) y Shock Séptico. Se inicia antibioterapia IV, pero requiere drenaje quirúrgico.",
+      "pregunta": "¿Cuál es el procedimiento quirúrgico de elección para el control de la fuente infecciosa y drenaje en este caso?",
+      "opciones": {
+        "a": "Timpanoplastia y colocación de tubo de ventilación.",
+        "b": "Miringotomía y aspiración con aguja del absceso.",
+        "c": "Mastoidectomía simple o radical y drenaje del absceso.",
+        "d": "Drenaje del absceso cervical por incisión sin acceso mastoideo."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Pediátrico - Infección ORL Crítica"
+    },
+    {
+      "id": 12,
+      "caso_clinico": "Neonato (3 kg) con Sd. Pierre Robin y macroglosia, que sufre episodios recurrentes de obstrucción de la vía aérea alta al dormir, con desaturaciones y bradicardia.",
+      "pregunta": "¿Cuál es el manejo quirúrgico definitivo ORL más frecuentemente indicado para estos casos de obstrucción severa en neonatos?",
+      "opciones": {
+        "a": "Intubación orotraqueal (IOT) prolongada.",
+        "b": "Sutura de la lengua al labio inferior (glosopexia).",
+        "c": "Traqueostomía.",
+        "d": "Maniobra de tracción mandibular y cánula nasofaríngea."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Neonato - Vía Aérea Difícil Sindrómica"
+    },
+    {
+      "id": 13,
+      "caso_clinico": "Paciente adulto, intubado por ARDS grave. Se decide realizar traqueostomía percutánea. En el postoperatorio inmediato, presenta sangrado abundante a través del estoma que no cede con presión local.",
+      "pregunta": "¿Cuál es la causa más temida y urgente de sangrado masivo días después de una traqueostomía?",
+      "opciones": {
+        "a": "Fístula traqueo-innominada.",
+        "b": "Granuloma del estoma.",
+        "c": "Abrasión de la mucosa traqueal.",
+        "d": "Hematoma cervical simple."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Adulto - Complicaciones de Traqueostomía"
+    },
+    {
+      "id": 14,
+      "caso_clinico": "Adulto de 80 kg con sepsis grave secundaria a fascitis cervical, requiere sedoanalgesia en infusión continua con Propofol. Dosis objetivo $50\\text{ mcg/kg/min}$. Concentración del Propofol: $10\\text{ mg/mL}$.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión para alcanzar la dosis objetivo?",
+      "opciones": {
+        "a": "16.0 mL/h.",
+        "b": "24.0 mL/h.",
+        "c": "30.0 mL/h.",
+        "d": "40.0 mL/h."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Cálculo de Fármaco"
+    },
+    {
+      "id": 15,
+      "caso_clinico": "Se evalúa la posibilidad de donación multiorgánica en un paciente con Muerte Cerebral. Se encuentra que el paciente era portador de un VIH no controlado con alta carga viral.",
+      "pregunta": "¿Cuál es la conclusión legal y médica respecto a la donación en este caso?",
+      "opciones": {
+        "a": "La donación de todos los órganos está absolutamente contraindicada.",
+        "b": "Solo se permite la donación de corazón y pulmón si la carga viral es menor a 1000 copias/mL.",
+        "c": "Se pueden donar riñones e hígado únicamente a receptores seropositivos (VIH).",
+        "d": "La donación es posible si el receptor acepta el riesgo tras ser debidamente informado."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Legislación - Contraindicaciones y VIH"
+    },
+    {
+      "id": 16,
+      "caso_clinico": "Paciente pediátrico (10 años, 35 kg) con trauma laríngeo cerrado con fractura cartilaginosa y enfisema subcutáneo. Presenta disnea severa que progresa rápidamente.",
+      "pregunta": "¿Cuál es la prioridad inmediata en el manejo de la vía aérea para prevenir el paro respiratorio?",
+      "opciones": {
+        "a": "Administración de corticoides en bolo IV.",
+        "b": "Intubación nasotraqueal a ciegas.",
+        "c": "Realización de una vía aérea quirúrgica inmediata (Traqueostomía).",
+        "d": "Ventilación con bolsa-mascarilla y presión positiva."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Pediátrico - Trauma Laríngeo"
+    },
+    {
+      "id": 17,
+      "caso_clinico": "Adulto intubado y ventilado mecánicamente en UCI por sepsis. A los 7 días de intubación se decide realizar traqueostomía. Posteriormente, al intentar cambiar la cánula por primera vez (día 5 post-traqueostomía), la nueva cánula no avanza.",
+      "pregunta": "¿Cuál es la recomendación principal sobre el primer cambio de cánula de traqueostomía en un paciente estable?",
+      "opciones": {
+        "a": "Realizarlo a partir de las 48 horas para evitar infección.",
+        "b": "Esperar $\\mathbf{5}$ a $\\mathbf{7}$ $\\mathbf{días}$ para permitir la maduración del tracto estomal.",
+        "c": "Cambiarla diariamente para prevenir la obstrucción.",
+        "d": "Solo cambiarla si hay signos de obstrucción o infección. "
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Cuidados de Traqueostomía"
+    },
+    {
+      "id": 18,
+      "caso_clinico": "Adulto con parálisis bilateral de cuerdas vocales tras tiroidectomía y compromiso respiratorio grave. Se decide ingresar a UCI para manejo definitivo de la vía aérea.",
+      "pregunta": "¿Cuál es la posición más frecuente de las cuerdas vocales en la parálisis bilateral que causa distrés respiratorio agudo?",
+      "opciones": {
+        "a": "En abducción (separadas).",
+        "b": "En aducción media (juntas) o paramediana.",
+        "c": "En posición lateralizada (asimétrica).",
+        "d": "En posición intermedia (cadavérica)."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Parálisis Laríngea Bilateral"
+    },
+    {
+      "id": 19,
+      "caso_clinico": "Paciente pediátrico (1 año, 10 kg) con traqueítis bacteriana grave e intubación orotraqueal. Se requiere una infusión de Midazolam para sedación a dosis de $0.1\\text{ mg/kg/h}$. La presentación es de $5\\text{ mg/mL}$. Se diluyen $\\mathbf{50\\text{ mg}}$ en $\\mathbf{50\\text{ mL}}$ de solución.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Midazolam?",
+      "opciones": {
+        "a": "0.5 mL/h.",
+        "b": "1.0 mL/h.",
+        "c": "2.0 mL/h.",
+        "d": "10.0 mL/h."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Pediátrico - Cálculo de Fármaco (Corregido)"
+    },
+    {
+      "id": 20,
+      "caso_clinico": "Adulto con cáncer de lengua con compromiso extenso y metástasis locorregionales. Se declara Muerte Cerebral tras una complicación neurológica.",
+      "pregunta": "¿Cuál de los siguientes órganos es el más probable de ser aceptado para donación en este paciente con antecedente oncológico?",
+      "opciones": {
+        "a": "Corazón.",
+        "b": "Hígado.",
+        "c": "Pulmón.",
+        "d": "Córneas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Legislación - Cáncer y Donación"
+    },
+    {
+      "id": 21,
+      "caso_clinico": "Neonato de 4 kg con Dificultad Respiratoria Aguda (DRA) secundaria a Bronquiolitis. Se inicia Ventilación Mecánica con modo controlado por Presión. Se ajusta la Presión Pico (PIP) a $20\\text{ cmH}_2\\text{O}$ y el PEEP a $6\\text{ cmH}_2\\text{O}$.",
+      "pregunta": "¿Qué parámetro de la ventilación controlada por presión indica la fuerza de insuflación efectiva sobre el alvéolo?",
+      "opciones": {
+        "a": "El PEEP (Presión Positiva al Final de la Espiración).",
+        "b": "El Volumen Tidal (VT) medido.",
+        "c": "El $\\mathbf{\\text{Driving} \\text{ Pressure}}$ (Presión de Conducción).",
+        "d": "La frecuencia respiratoria (FR)."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Neonato - Ventilación Mecánica"
+    },
+    {
+      "id": 22,
+      "caso_clinico": "Paciente pediátrico (6 años) con una herida cervical penetrante que lesiona el nervio laríngeo recurrente derecho. Presenta disfonía y episodios de aspiración silente documentados. Se encuentra intubado.",
+      "pregunta": "¿Cuál es el principal riesgo asociado a la parálisis unilateral de cuerda vocal en un paciente crítico extubado o con traqueostomía fenestrada?",
+      "opciones": {
+        "a": "Estenosis subglótica.",
+        "b": "Disnea severa.",
+        "c": "Neumonía por aspiración.",
+        "d": "Formación de granulomas en la tráquea."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Pediátrico - Parálisis de Cuerda Vocal"
+    },
+    {
+      "id": 23,
+      "caso_clinico": "Adulto en UCI con traqueostomía por ventilación prolongada. En la revisión se documenta una estenosis traqueal a nivel del manguito de la cánula.",
+      "pregunta": "¿Cuál es el mecanismo fisiopatológico más frecuente de la estenosis traqueal en pacientes con cánula con balón (cuff)?",
+      "opciones": {
+        "a": "Presión excesiva del balón sobre la pared traqueal.",
+        "b": "Trauma por la punta distal de la cánula.",
+        "c": "Infección crónica del estoma.",
+        "d": "Reacción alérgica al material de la cánula."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Adulto - Estenosis Traqueal"
+    },
+    {
+      "id": 24,
+      "caso_clinico": "Adulto de 90 kg en Shock Séptico. Requiere infusión de Norepinefrina a dosis de $0.2\\text{ mcg/kg/min}$. Dilución: $\\mathbf{60\\text{ mg}}$ en $\\mathbf{250\\text{ mL}}$.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Norepinefrina para alcanzar la dosis objetivo?",
+      "opciones": {
+        "a": "6.75 mL/h.",
+        "b": "3.38 mL/h.",
+        "c": "4.5 mL/h.",
+        "d": "8.5 mL/h."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Cálculo de Fármaco (Corregido)"
+    },
+    {
+      "id": 25,
+      "caso_clinico": "Se identifica un paciente con Muerte Cerebral con potencial de donación. Se sospecha que el equipo de trasplante está presionando a los familiares para obtener el consentimiento.",
+      "pregunta": "¿Qué principio ético fundamental se estaría violando al presionar a la familia durante el proceso de donación?",
+      "opciones": {
+        "a": "Justicia.",
+        "b": "Beneficencia.",
+        "c": "No Maleficencia.",
+        "d": "Autonomía."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Legislación - Principios Éticos"
+    },
+    {
+      "id": 26,
+      "caso_clinico": "Paciente pediátrico (2 años) con Otitis Media Aguda recurrente, ingresa con sospecha de Absceso Epidural y trombosis del seno sigmoideo secundario a Mastoiditis. Se confirma la trombosis.",
+      "pregunta": "¿Cuál es el manejo más importante en la fase aguda de la trombosis del seno sigmoideo secundaria a infección de oído?",
+      "opciones": {
+        "a": "Anticoagulación terapéutica inmediata.",
+        "b": "Trombectomía endovascular.",
+        "c": "Miringotomía y observación.",
+        "d": "Antibioterapia IV y Mastoidectomía con exploración del seno."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Pediátrico - Complicaciones de Oído"
+    },
+    {
+      "id": 27,
+      "caso_clinico": "Adulto en UCI intubado con tubo endotraqueal con el balón (cuff) inflado. Se realiza una medición de la presión del balón (cuff pressure) y se encuentra en $45\\text{ cmH}_2\\text{O}$.",
+      "pregunta": "¿Qué riesgo está aumentado en este paciente debido a esta presión del balón?",
+      "opciones": {
+        "a": "Aspiración traqueal silente.",
+        "b": "Barotrauma pulmonar.",
+        "c": "Lesión isquémica de la mucosa traqueal.",
+        "d": "Desplazamiento accidental del tubo."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Cuidados de Vía Aérea Artificial"
+    },
+    {
+      "id": 28,
+      "caso_clinico": "Adulto con fractura de nariz por trauma facial. Presenta dolor, edema y una masa azulada en el tabique nasal. Se encuentra en UCI por otras lesiones.",
+      "pregunta": "¿Cuál es el manejo de urgencia ORL prioritario para prevenir la complicación más grave asociada a esta lesión?",
+      "opciones": {
+        "a": "Reducción cerrada de la fractura nasal.",
+        "b": "Drenaje quirúrgico del hematoma septal.",
+        "c": "Taponamiento nasal anterior.",
+        "d": "Antibióticos IV de amplio espectro."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Trauma Nasal"
+    },
+    {
+      "id": 29,
+      "caso_clinico": "Neonato de 2 kg con PCA y Falla Cardíaca. Requiere infusión de Milrinone a dosis de $0.25\\text{ mcg/kg/min}$. Dilución: $10\\text{ mg}$ en $100\\text{ mL}$.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Milrinone?",
+      "opciones": {
+        "a": "0.3 mL/h.",
+        "b": "0.75 mL/h.",
+        "c": "1.5 mL/h.",
+        "d": "3.0 mL/h."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Neonato - Cálculo de Fármaco"
+    },
+    {
+      "id": 30,
+      "caso_clinico": "La familia de un paciente en Muerte Cerebral quiere vender los órganos para cubrir los gastos funerarios.",
+      "pregunta": "¿Qué estipula la Ley General de Salud (LGS) respecto a la comercialización de órganos en México?",
+      "opciones": {
+        "a": "Se permite la venta si se acredita una necesidad económica extrema.",
+        "b": "Se permite una compensación limitada por gastos directos.",
+        "c": "La donación de órganos es un acto $\\mathbf{\\text{a} \\text{ título} \\text{ gratuito}}$.",
+        "d": "Se permite el intercambio de órganos entre hospitales privados a costo de recuperación. "
+      },
+      "respuesta_correcta": "c",
+      "tema": "Legislación - Comercialización"
+    },
+    {
+      "id": 31,
+      "caso_clinico": "Paciente pediátrico (4 años) con intubación orotraqueal prolongada (15 días) por distrés respiratorio. Tras extubación, presenta estridor bifásico y disnea grave que requiere reintubación.",
+      "pregunta": "¿Cuál es la causa ORL más probable de la obstrucción de la vía aérea después de una intubación prolongada?",
+      "opciones": {
+        "a": "Parálisis recurrencial bilateral.",
+        "b": "Estenosis subglótica adquirida.",
+        "c": "Neumatoceles cervicales.",
+        "d": "Luxación del cartílago cricoides."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Pediátrico - Complicación de IOT"
+    },
+    {
+      "id": 32,
+      "caso_clinico": "Adulto con trauma facial severo (Lefort II y III) y necesidad de intubación. El manejo de la vía aérea es extremadamente difícil por el edema y el sangrado. Se decide realizar una vía aérea quirúrgica de urgencia.",
+      "pregunta": "¿Cuál es el procedimiento quirúrgico preferido para asegurar la vía aérea en un caso de emergencia con imposibilidad de intubación y ventilación?",
+      "opciones": {
+        "a": "Traqueostomía clásica.",
+        "b": "Cricotiroidotomía quirúrgica.",
+        "c": "Cricotiroidotomía con aguja.",
+        "d": "Intubación retrógrada."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Vía Aérea de Emergencia"
+    },
+    {
+      "id": 33,
+      "caso_clinico": "Adulto en Muerte Cerebral. Se ha confirmado la ausencia de reflejos de tronco y la apnea. El paciente permanece con soporte ventilatorio y hemodinámico. Se inicia protocolo de Donación.",
+      "pregunta": "¿Cuál es el objetivo principal del manejo del donador en Muerte Cerebral para maximizar la viabilidad de los órganos?",
+      "opciones": {
+        "a": "Mantener una PEEP alta para evitar el colapso pulmonar.",
+        "b": "Lograr la normotermia y normovolemia.",
+        "c": "Administrar antibióticos de amplio espectro de forma profiláctica.",
+        "d": "Mantener la Presión Intracraneal (PIC) por debajo de $10\\text{ mmHg}$."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Legislación - Manejo del Donador"
+    },
+    {
+      "id": 34,
+      "caso_clinico": "Neonato (4 kg) con laringomalacia severa (tipo III, colapso de epiglotis) que desarrolla apneas obstructivas y falla en el crecimiento. Se decide manejo quirúrgico.",
+      "pregunta": "¿Cuál es el procedimiento quirúrgico ORL de elección para el manejo de la laringomalacia severa sintomática?",
+      "opciones": {
+        "a": "Traqueostomía inmediata.",
+        "b": "Cricoidopexia.",
+        "c": "Supraglotoplastia con láser CO2.",
+        "d": "Dilatación endoscópica de la vía aérea."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Neonato - Laringomalacia"
+    },
+    {
+      "id": 35,
+      "caso_clinico": "Adulto con antecedentes de radioterapia cervical por cáncer de tiroides que ingresa a UCI por dificultad para intubar debido a rigidez de los tejidos y limitación de la apertura oral.",
+      "pregunta": "¿Qué clasificación de vía aérea difícil está alterada principalmente por la fibrosis post-radiación?",
+      "opciones": {
+        "a": "Clasificación de Cormack-Lehane.",
+        "b": "Clasificación de Mallampati.",
+        "c": "Distancia Tiromentoniana.",
+        "d": "Apertura Bucal."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Adulto - Vía Aérea Difícil"
+    },
+    {
+      "id": 36,
+      "caso_clinico": "Paciente pediátrico (7 años, 25 kg) con crup leve que es dado de alta de Urgencias con Dexametasona oral. Se requieren $0.6\\text{ mg/kg}$ en dosis única. La presentación es de $4\\text{ mg/mL}$.",
+      "pregunta": "¿Cuántos mililitros (mL) de Dexametasona deben administrarse en dosis única?",
+      "opciones": {
+        "a": "3.75 mL.",
+        "b": "1.5 mL.",
+        "c": "2.5 mL.",
+        "d": "5.0 mL."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Pediátrico - Cálculo de Fármaco"
+    },
+    {
+      "id": 37,
+      "caso_clinico": "Adulto en UCI con traqueostomía de larga evolución. Se sospecha una fístula traqueoesofágica (FTE) debido a la aparición de neumonía por aspiración de contenido gástrico y presencia de alimentos en la cánula.",
+      "pregunta": "¿Cuál es el manejo inicial y definitivo para el cierre de una FTE en un paciente con ventilación mecánica?",
+      "opciones": {
+        "a": "Aumento del volumen del cuff para sellar el defecto.",
+        "b": "Colocación de sonda de gastrostomía y nutrición parenteral.",
+        "c": "Reparación quirúrgica (cierre del defecto traqueal y esofágico) con interposición de músculo.",
+        "d": "Retiro inmediato de la cánula y extubación."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Complicaciones de Traqueostomía"
+    },
+    {
+      "id": 38,
+      "caso_clinico": "Neonato (2 kg) con una lesión ORL (teratoma cervical) que comprime la tráquea y requiere una intubación de secuencia rápida.",
+      "pregunta": "¿Qué característica hace que la laringe del neonato sea más susceptible a la obstrucción y al edema en comparación con el adulto?",
+      "opciones": {
+        "a": "La laringe neonatal es más caudal (baja).",
+        "b": "La porción más estrecha es la glotis.",
+        "c": "La porción más estrecha es el cricoides (subglotis).",
+        "d": "La epiglotis es corta y blanda."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Neonato - Anatomía de Vía Aérea"
+    },
+    {
+      "id": 39,
+      "caso_clinico": "Adulto de 60 kg en shock séptico. Se decide iniciar infusión de Dopamina a $10\\text{ mcg/kg/min}$. Dilución estándar: $400\\text{ mg}$ en $250\\text{ mL}$.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión de Dopamina?",
+      "opciones": {
+        "a": "22.5 mL/h.",
+        "b": "18.0 mL/h.",
+        "c": "15.0 mL/h.",
+        "d": "9.0 mL/h."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Adulto - Cálculo de Fármaco"
+    },
+    {
+      "id": 40,
+      "caso_clinico": "Se discute la reanimación de un paciente con paro cardíaco. Se considera la posibilidad de que el paciente sea donador. Los familiares preguntan si la donación compromete la calidad de la reanimación.",
+      "pregunta": "¿Cuál es el principio ético que establece que el manejo médico debe ser independiente del estatus de donador?",
+      "opciones": {
+        "a": "Principio de Confidencialidad.",
+        "b": "Principio de la 'Regla del Donador' (Donor Rule).",
+        "c": "Principio de Justicia Distributiva.",
+        "d": "Principio de Primacía Terapéutica."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Legislación - Principios Éticos"
+    },
+    {
+      "id": 41,
+      "caso_clinico": "Adulto con síndrome de Lemierre (tromboflebitis séptica de la vena yugular interna secundaria a infección orofaríngea por *Fusobacterium necrophorum*). Presenta émbolos sépticos pulmonares.",
+      "pregunta": "¿Cuál es el tratamiento antibiótico de elección para cubrir a *Fusobacterium necrophorum* en un paciente crítico?",
+      "opciones": {
+        "a": "Cefalexina.",
+        "b": "Amoxicilina clavulanato.",
+        "c": "Penicilina G sódica.",
+        "d": "Clindamicina o Metronidazol más un betalactámico (ej. Ampicilina/Sulbactam)."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Adulto - Infección ORL Crítica"
+    },
+    {
+      "id": 42,
+      "caso_clinico": "Paciente pediátrico (3 años) con Absceso Retrofaríngeo que provoca obstrucción severa y requiere ingreso a UCI. Se diagnostica mediante TAC y se planea drenaje quirúrgico.",
+      "pregunta": "¿Cuál es la complicación más grave y temida de un absceso retrofaríngeo que requiere manejo urgente en UCI?",
+      "opciones": {
+        "a": "Parálisis del nervio hipogloso.",
+        "b": "Rotura y aspiración del absceso.",
+        "c": "Sepsis secundaria a otitis media.",
+        "d": "Compresión carotídea."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Pediátrico - Infección Profunda"
+    },
+    {
+      "id": 43,
+      "caso_clinico": "Adulto con estenosis subglótica post-intubación. Se planea una traqueostomía en quirófano para decanulación. Se utiliza un fibroscopio para guiar la apertura de la tráquea.",
+      "pregunta": "¿Cuál es la complicación más importante de la traqueostomía que puede ocurrir al momento de la incisión en la tráquea, especialmente si la anatomía es compleja?",
+      "opciones": {
+        "a": "Lesión de la arteria carótida.",
+        "b": "Lesión del nervio recurrente laríngeo.",
+        "c": "Punción del esófago (fístula traqueoesofágica).",
+        "d": "Neumotórax a tensión."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Complicaciones Quirúrgicas"
+    },
+    {
+      "id": 44,
+      "caso_clinico": "Neonato (1.5 kg) en ventilación mecánica. Se requiere un bolo de Morfina a $100\\text{ mcg/kg}$. La concentración es $1\\text{ mg/mL}$.",
+      "pregunta": "¿Cuántos mililitros (mL) de Morfina deben administrarse en bolo?",
+      "opciones": {
+        "a": "0.15 mL.",
+        "b": "0.015 mL.",
+        "c": "0.1 mL.",
+        "d": "0.05 mL."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Neonato - Cálculo de Fármaco"
+    },
+    {
+      "id": 45,
+      "caso_clinico": "Adulto en Muerte Cerebral, potential donador. El equipo detecta que el paciente tiene antecedentes de consumo de drogas IV no controlado.",
+      "pregunta": "¿Qué órganos o tejidos quedan formalmente contraindicados para la donación en pacientes con antecedentes de consumo de drogas intravenosas no controlado?",
+      "opciones": {
+        "a": "Solo los tejidos avasculares (córneas, hueso).",
+        "b": "Únicamente el corazón y el pulmón.",
+        "c": "Todos los órganos sólidos y tejidos vasculares por alto riesgo de enfermedad infecciosa transmisible.",
+        "d": "Solo el hígado, por riesgo de hepatitis."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Legislación - Contraindicaciones Médicas"
+    },
+    {
+      "id": 46,
+      "caso_clinico": "Paciente pediátrico (12 años) con hemorragia masiva por ruptura de arteria carótida secundaria a osteoradionecrosis faríngea. Se encuentra en shock hipovolémico.",
+      "pregunta": "¿Cuál es la primera línea de manejo inmediato para controlar la hemorragia, antes del manejo quirúrgico o endovascular?",
+      "opciones": {
+        "a": "Administración de $\\text{Factor VII}$ activado recombinante.",
+        "b": "Taponamiento de la faringe con compresión directa o con balón de Foley.",
+        "c": "Ligadura de la arteria carótida interna en cuello.",
+        "d": "Transfusión de paquetes globulares solamente."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Pediátrico - Hemorragia ORL Masiva"
+    },
+    {
+      "id": 47,
+      "caso_clinico": "Adulto en ventilación mecánica con tubo endotraqueal. Se realiza una prueba para evaluar la posibilidad de extubación. El Leak Test (prueba de fuga del manguito) es positivo (gran fuga de aire).",
+      "pregunta": "¿Cuál es la complicación laríngea o traqueal que se sospecha cuando el Leak Test es negativo o hay una fuga mínima (alto riesgo de extubación fallida)?",
+      "opciones": {
+        "a": "Parálisis de cuerda vocal.",
+        "b": "Estenosis traqueal avanzada.",
+        "c": "Edema laríngeo o glótico post-intubación.",
+        "d": "Traqueomalacia."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Destete y Extubación"
+    },
+    {
+      "id": 48,
+      "caso_clinico": "Neonato con parálisis unilateral de cuerda vocal (PCVU) debido a una lesión del nervio laríngeo recurrente durante cirugía cardíaca. Presenta estridor y aspiración documentada.",
+      "pregunta": "¿Cuál es la principal indicación para la traqueostomía en un neonato con PCVU?",
+      "opciones": {
+        "a": "Estridor inspiratorio leve.",
+        "b": "Alteraciones de la voz (llanto débil).",
+        "c": "Falla respiratoria o aspiración crónica severa que compromete la nutrición y el desarrollo.",
+        "d": "Necesidad de rehabilitación vocal."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Neonato - Parálisis de Cuerda Vocal"
+    },
+    {
+      "id": 49,
+      "caso_clinico": "Adulto de 75 kg con insuficiencia renal aguda y fibrilación auricular. Requiere infusión de Amiodarona a $0.5\\text{ mg/min}$. Dilución: $300\\text{ mg}$ en $100\\text{ mL}$.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión de Amiodarona?",
+      "opciones": {
+        "a": "10.0 mL/h.",
+        "b": "6.0 mL/h.",
+        "c": "15.0 mL/h.",
+        "d": "20.0 mL/h."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Adulto - Cálculo de Fármaco"
+    },
+    {
+      "id": 50,
+      "caso_clinico": "Un médico de UCI realiza una traqueostomía en un paciente sin obtener un consentimiento informado adecuado, a pesar de que la situación no era de extrema urgencia vital.",
+      "pregunta": "¿Qué principio ético y legal se violó al realizar el procedimiento sin el consentimiento informado adecuado?",
+      "opciones": {
+        "a": "Principio de No Maleficencia.",
+        "b": "Principio de Autonomía.",
+        "c": "Principio de Beneficencia.",
+        "d": "Principio de Justicia."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Legislación - Ética Médica"
+    },
+    {
+      "id": 51,
+      "caso_clinico": "Paciente pediátrico (9 años) con Otitis Media Crónica Colesteatomatosa que desarrolla Meningitis y Absceso Cerebral. Requiere Mastoidectomía radical.",
+      "pregunta": "¿Cuál es la vía de diseminación intracraneal más frecuente de una infección crónica de oído (colesteatoma) a la fosa media?",
+      "opciones": {
+        "a": "A través del acueducto vestibular.",
+        "b": "Erosión ósea a través del tegmen tympani.",
+        "c": "Diseminación directa por la trompa de Eustaquio.",
+        "d": "Por el conducto auditivo interno."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Pediátrico - Complicaciones de Oído"
+    },
+    {
+      "id": 52,
+      "caso_clinico": "Adulto con quemaduras graves que incluyen la cara y el cuello. Se sospecha lesión de la vía aérea alta por inhalación de humo, con edema laríngeo progresivo.",
+      "pregunta": "¿Cuál es el método de elección para asegurar la vía aérea en un paciente con edema laríngeo por quemadura, antes de que se pierda la anatomía?",
+      "opciones": {
+        "a": "Cricotiroidotomía de urgencia.",
+        "b": "Traqueostomía inmediata.",
+        "c": "Intubación orotraqueal con fibroscopio flexible, si es posible.",
+        "d": "Esperar a la aparición de estridor."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Vía Aérea por Quemadura"
+    },
+    {
+      "id": 53,
+      "caso_clinico": "Neonato prematuro con Intubación Orotraqueal (IOT) prolongada. Se detecta una estenosis subglótica adquirida leve. Se decide tratamiento conservador.",
+      "pregunta": "¿Qué factor está más directamente relacionado con el desarrollo de estenosis subglótica post-IOT en neonatos?",
+      "opciones": {
+        "a": "El tipo de sedación utilizada.",
+        "b": "El tamaño inapropiado del tubo (demasiado grande).",
+        "c": "La duración de la ventilación mecánica.",
+        "d": "El uso de relajantes musculares."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Neonato - Complicación de IOT"
+    },
+    {
+      "id": 54,
+      "caso_clinico": "Adulto de 100 kg en $\\text{Shock}$ Cardiógeno. Se requiere infusión de Dobutamina a $5\\text{ mcg/kg/min}$. Dilución: $250\\text{ mg}$ en $250\\text{ mL}$.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión de Dobutamina?",
+      "opciones": {
+        "a": "30.0 mL/h.",
+        "b": "15.0 mL/h.",
+        "c": "40.0 mL/h.",
+        "d": "20.0 mL/h."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Adulto - Cálculo de Fármaco"
+    },
+    {
+      "id": 55,
+      "caso_clinico": "La Ley General de Salud de México establece la 'Donación Tácita' o 'Consentimiento Presunto' para órganos de donador cadavérico.",
+      "pregunta": "¿Qué implica la 'Donación Tácita' según la legislación mexicana (art. 320 de la LGS)?",
+      "opciones": {
+        "a": "Que todos los residentes son donadores universales, a menos que se manifieste lo contrario.",
+        "b": "Que la donación solo es válida si hay un documento firmado en vida.",
+        "c": "Que el consentimiento se presume si el donador no ha manifestado su negativa en vida, pero siempre se requiere el consentimiento de la familia.",
+        "d": "Que los órganos pueden ser retirados sin consultar a la familia si el paciente está en Muerte Cerebral."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Legislación - Donación Tácita"
+    },
+    {
+      "id": 56,
+      "caso_clinico": "Paciente pediátrico (6 años) con faringitis estreptocócica que desarrolla Fascitis Necrotizante cervical (Angina de Ludwig complicada). Presenta edema de piso de boca y obstrucción inminente de la vía aérea.",
+      "pregunta": "¿Cuál es la medida inicial más importante para prevenir el colapso de la vía aérea en esta infección cervical profunda?",
+      "opciones": {
+        "a": "Intubación nasotraqueal (IOTN).",
+        "b": "Drenaje quirúrgico de la infección y traqueostomía preventiva.",
+        "c": "Bolo de Penicilina G masiva.",
+        "d": "Observación estricta y corticoides IV."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Pediátrico - Infección Profunda"
+    },
+    {
+      "id": 57,
+      "caso_clinico": "Adulto con traqueostomía de varios años. Presenta una obstrucción de la cánula por impactación de secreciones y costras. El paciente está en distrés respiratorio agudo.",
+      "pregunta": "¿Cuál es la acción de urgencia prioritaria para manejar la obstrucción total de la cánula de traqueostomía?",
+      "opciones": {
+        "a": "Administrar un broncodilatador nebulizado.",
+        "b": "Retirar inmediatamente la cánula antigua e intentar reemplazarla con una nueva.",
+        "c": "Aspiración vigorosa con sonda rígida.",
+        "d": "Realizar una nueva traqueostomía debajo del estoma."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Urgencias de Traqueostomía"
+    },
+    {
+      "id": 58,
+      "caso_clinico": "Neonato (3.5 kg) en UCI con hipertensión pulmonar persistente. Se requiere infusión de Epoprostenol (Flolan) a $0.005\\text{ mcg/kg/min}$. Dilución: $5\\text{ mg}$ en $50\\text{ mL}$.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Epoprostenol?",
+      "opciones": {
+        "a": "0.0105 mL/h.",
+        "b": "0.021 mL/h.",
+        "c": "0.105 mL/h.",
+        "d": "1.05 mL/h."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Neonato - Cálculo de Fármaco"
+    },
+    {
+      "id": 59,
+      "caso_clinico": "Adulto con cáncer de laringe avanzado. Los familiares insisten en continuar con un tratamiento paliativo que ya ha fallado, a pesar de la recomendación de suspenderlo por el equipo médico.",
+      "pregunta": "¿Qué concepto ético describe la insistencia en aplicar terapias inútiles o desproporcionadas en un paciente terminal?",
+      "opciones": {
+        "a": "Eutanasia.",
+        "b": "Distansia (Encarnizamiento Terapéutico).",
+        "c": "Maleficencia.",
+        "d": "Ortotanasia."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Legislación - Principios Éticos"
+    },
+    {
+      "id": 60,
+      "caso_clinico": "Paciente pediátrico (15 kg) con trauma craneoencefálico. Requiere infusión de Manitol a $0.5\\text{ g/kg}$ en bolo IV. La presentación es de $20\\%$.",
+      "pregunta": "¿Cuántos mililitros (mL) de Manitol $20\\%$ deben administrarse en bolo?",
+      "opciones": {
+        "a": "7.5 mL.",
+        "b": "37.5 mL.",
+        "c": "50 mL.",
+        "d": "75 mL."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Pediátrico - Cálculo de Fármaco"
+    },
+    {
+      "id": 61,
+      "caso_clinico": "Adulto con trauma facial (fractura de hueso temporal) que desarrolla parálisis facial periférica completa y súbita, asociada a sangrado y edema en el canal de Falopio.",
+      "pregunta": "¿Cuál es el tratamiento inicial de elección para la parálisis facial postraumática con alta sospecha de lesión por compresión/edema?",
+      "opciones": {
+        "a": "Descompresión quirúrgica inmediata del nervio facial.",
+        "b": "Tratamiento conservador y observación.",
+        "c": "Altas dosis de corticoides IV (Metilprednisolona).",
+        "d": "Terapia antibiótica empírica."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Parálisis Facial"
+    },
+    {
+      "id": 62,
+      "caso_clinico": "Paciente pediátrico con estridor inspiratorio intermitente, que empeora al dormir y mejora al llorar. Se sospecha laringomalacia. Se encuentra intubado por otro motivo.",
+      "pregunta": "¿Cuál es el estudio Gold Standard para confirmar el diagnóstico de laringomalacia y evaluar su severidad?",
+      "opciones": {
+        "a": "Radiografía de cuello lateral.",
+        "b": "Resonancia Magnética (RM).",
+        "c": "Laringoscopia directa flexible o rígida (fibrobroncoscopia).",
+        "d": "TAC de cuello."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Pediátrico - Laringomalacia"
+    },
+    {
+      "id": 63,
+      "caso_clinico": "Adulto con traqueostomía. Se requiere una cánula con balón (cuff) para iniciar la ventilación mecánica. El balón se infla hasta que se detiene la fuga de aire.",
+      "pregunta": "¿Cuál es la presión máxima recomendada para el manguito (cuff pressure) que se considera segura para prevenir la isquemia traqueal?",
+      "opciones": {
+        "a": "Menos de $10\\text{ cmH}_2\\text{O}$.",
+        "b": "Entre $20\\text{ y } 30\\text{ cmH}_2\\text{O}$.",
+        "c": "Entre $30\\text{ y } 40\\text{ cmH}_2\\text{O}$.",
+        "d": "Más de $40\\text{ cmH}_2\\text{O}$ si es necesario para evitar fuga."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Cuidados de Vía Aérea Artificial"
+    },
+    {
+      "id": 64,
+      "caso_clinico": "Neonato (3 kg) con hipoglucemia refractaria. Se requiere infusión de Glucosa $10\\%$ para mantener un aporte de glucosa de $6\\text{ mg/kg/min}$.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Glucosa $10\\%$ (asumiendo que $10\\%$ Glucosa son $100\\text{ mg/mL}$)?",
+      "opciones": {
+        "a": "10.8 mL/h.",
+        "b": "1.08 mL/h.",
+        "c": "6.0 mL/h.",
+        "d": "3.6 mL/h."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Neonato - Cálculo de Fármaco"
+    },
+    {
+      "id": 65,
+      "caso_clinico": "Un paciente en Muerte Cerebral se mantiene con una adecuada perfusión de órganos para la donación. El equipo quirúrgico pregunta si la Ley permite el uso de órganos para fines de investigación médica.",
+      "pregunta": "¿Qué establece la LGS sobre la donación de órganos con fines de investigación?",
+      "opciones": {
+        "a": "Está prohibida la donación para fines de investigación.",
+        "b": "Es posible si hay consentimiento expreso del donador o de la familia.",
+        "c": "Es legalmente obligatorio donar cualquier órgano que no sea apto para trasplante a la investigación.",
+        "d": "Solo se permite en hospitales universitarios."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Legislación - Donación e Investigación"
+    },
+    {
+      "id": 66,
+      "caso_clinico": "Paciente pediátrico (5 años) ingresa a UCI por Epiglotitis Aguda grave, con babeo, voz apagada y estridor inspiratorio. La visualización directa con laringoscopio es Clase IV (no se ve nada).",
+      "pregunta": "¿Cuál es el procedimiento preferido para asegurar la vía aérea en Epiglotitis Aguda grave?",
+      "opciones": {
+        "a": "Cricotiroidotomía de urgencia.",
+        "b": "Intubación orotraqueal en quirófano, con la presencia de un cirujano experto y/o fibroscopio.",
+        "c": "Traqueostomía a la cabecera.",
+        "d": "Ventilación con bolsa-mascarilla bajo sedación."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Pediátrico - Epiglotitis"
+    },
+    {
+      "id": 67,
+      "caso_clinico": "Adulto post-traqueostomía. Se observa tejido de granulación exuberante alrededor del estoma, lo que dificulta el cambio de cánula y causa sangrado leve.",
+      "pregunta": "¿Cuál es el tratamiento de elección para el tejido de granulación persistente alrededor del estoma traqueal?",
+      "opciones": {
+        "a": "Cambios frecuentes de la cánula.",
+        "b": "Aplicación de nitrato de plata (cauterización química).",
+        "c": "Corticoides inhalados.",
+        "d": "Irrigación con solución salina caliente."
+      },
+      "respuesta_conducta": "b",
+      "tema": "Adulto - Cuidados de Traqueostomía"
+    },
+    {
+      "id": 68,
+      "caso_clinico": "Adulto de 80 kg con Sepsis por Neumonía, se decide iniciar Meropenem. La dosis de carga es de $20\\text{ mg/kg}$ en infusión prolongada.",
+      "pregunta": "¿Cuántos gramos (g) de Meropenem deben administrarse en la dosis de carga?",
+      "opciones": {
+        "a": "1.0 g.",
+        "b": "1.6 g.",
+        "c": "2.0 g.",
+        "d": "2.5 g."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Cálculo de Fármaco"
+    },
+    {
+      "id": 69,
+      "caso_clinico": "Neonato con Síndrome de Apnea Obstructiva del Sueño (SAOS) severa secundaria a hipertrofia adenoamigdalina. Se encuentra en UCI para monitorización.",
+      "pregunta": "¿Cuál es el estudio diagnóstico más preciso para cuantificar la severidad del SAOS en este neonato?",
+      "opciones": {
+        "a": "Oximetría nocturna.",
+        "b": "Radiografía de cavum.",
+        "c": "Endoscopia nasofaríngea flexible.",
+        "d": "Polisomnografía (PSG)."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Neonato - SAOS"
+    },
+    {
+      "id": 70,
+      "caso_clinico": "El equipo de trasplantes recibe una orden judicial que exige la revelación del nombre del donador a la familia del receptor.",
+      "pregunta": "¿Bajo qué excepción a la regla de Anonimato Recíproco (o Confidencialidad) podría ser legalmente exigible la revelación de datos del donador?",
+      "opciones": {
+        "a": "Solicitud explícita de ambas familias.",
+        "b": "Interés médico-legal o mandato judicial.",
+        "c": "Si el receptor es un menor de edad.",
+        "d": "Después de 5 años de la donación."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Legislación - Anonimato y Excepciones"
+    },
+    {
+      "id": 71,
+      "caso_clinico": "Paciente pediátrico (8 años) con fístula orocutánea (comunicación de la boca a la piel) secundaria a un drenaje quirúrgico de un absceso de cuello profundo.",
+      "pregunta": "¿Cuál es el manejo inicial ORL fundamental para intentar el cierre espontáneo de una fístula orocutánea simple?",
+      "opciones": {
+        "a": "Cirugía inmediata.",
+        "b": "Uso de un stent orofaríngeo.",
+        "c": "Nutrición enteral por sonda nasogástrica (reposo de la vía oral).",
+        "d": "Radioterapia local."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Pediátrico - Infección Profunda"
+    },
+    {
+      "id": 72,
+      "caso_clinico": "Adulto con traqueostomía permanente por laringectomía total. Sufre un accidente y es llevado a urgencias. Se requiere asegurar la vía aérea.",
+      "pregunta": "¿Cuál es la forma correcta de asegurar la vía aérea en un paciente con laringectomía total?",
+      "opciones": {
+        "a": "Intubación orotraqueal y sellado de la glotis.",
+        "b": "Intubación a través del estoma traqueal.",
+        "c": "Cricotiroidotomía en el sitio habitual.",
+        "d": "Ventilación con bolsa-mascarilla sobre la cara."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Vía Aérea en Laringectomía"
+    },
+    {
+      "id": 73,
+      "caso_clinico": "Paciente pediátrico (18 kg) con $\\text{Shock}$ Séptico. Se requiere infusión de Epinefrina a $0.1\\text{ mcg/kg/min}$. Dilución: $1\\text{ mg}$ en $100\\text{ mL}$.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión de Epinefrina?",
+      "opciones": {
+        "a": "10.8 mL/h.",
+        "b": "1.08 mL/h.",
+        "c": "6.0 mL/h.",
+        "d": "3.6 mL/h."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Pediátrico - Cálculo de Fármaco"
+    },
+    {
+      "id": 74,
+      "caso_clinico": "Adulto en UCI con hipoacusia neurosensorial súbita severa. Se sospecha una oclusión de la arteria laberíntica (infarto coclear).",
+      "pregunta": "¿Cuál es el tratamiento de urgencia de primera línea recomendado para la hipoacusia súbita idiopática o vascular?",
+      "opciones": {
+        "a": "Cirugía descompresiva del oído interno.",
+        "b": "Altas dosis de corticoides (intratimpánicos o sistémicos).",
+        "c": "Antibióticos IV de amplio espectro.",
+        "d": "Terapia con oxígeno hiperbárico como única opción."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Hipoacusia Súbita"
+    },
+    {
+      "id": 75,
+      "caso_clinico": "El comité de ética hospitalario debate el retiro del soporte vital (ventilación mecánica) en un paciente en estado vegetativo persistente (no Muerte Cerebral).",
+      "pregunta": "¿Qué principio ético es el más invocado para justificar el retiro del soporte vital en un paciente sin perspectivas de recuperación (futilidad terapéutica)?",
+      "opciones": {
+        "a": "Beneficencia.",
+        "b": "No Maleficencia.",
+        "c": "Justicia.",
+        "d": "Autonomía."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Legislación - Ética y Soporte Vital"
+    },
+    {
+      "id": 76,
+      "caso_clinico": "Paciente pediátrico (1 año) con dificultad para respirar de forma súbita. Se sospecha la aspiración de un cuerpo extraño a la vía aérea (cebolleta).",
+      "pregunta": "¿Cuál es la localización más frecuente de un cuerpo extraño aspirado en la vía aérea baja de un niño?",
+      "opciones": {
+        "a": "Laringe subglótica.",
+        "b": "Bronquio principal izquierdo.",
+        "c": "Bronquio principal derecho.",
+        "d": "Tráquea."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Pediátrico - Aspiración de Cuerpo Extraño"
+    },
+    {
+      "id": 77,
+      "caso_clinico": "Adulto con hemorragia nasal posterior masiva. Tras taponamiento posterior con balón, la PaCO2 aumenta y el paciente desarrolla hipoxemia.",
+      "pregunta": "¿Cuál es el mecanismo fisiopatológico principal de la hipoxemia y la hipercapnia en la epistaxis severa taponada?",
+      "opciones": {
+        "a": "Compresión del seno carotídeo.",
+        "b": "Pérdida de sangre que causa anemia.",
+        "c": "Obstrucción de la vía aérea oral y desplazamiento de la úvula/paladar.",
+        "d": "Reflejo nasopulmonar que causa broncoespasmo."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Complicaciones de Taponamiento"
+    },
+    {
+      "id": 78,
+      "caso_clinico": "Neonato (4 kg) con encefalopatía hipóxico-isquémica. Se requiere infusión de Fenobarbital para control de crisis a $5\\text{ mg/kg/día}$ en infusión continua.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Fenobarbital si se diluyen $50\\text{ mg}$ en $50\\text{ mL}$ y se administra en $24$ horas?",
+      "opciones": {
+        "a": "0.1 mL/h.",
+        "b": "0.2 mL/h.",
+        "c": "0.4 mL/h.",
+        "d": "1.0 mL/h."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Neonato - Cálculo de Fármaco"
+    },
+    {
+      "id": 79,
+      "caso_clinico": "Adulto en ventilación mecánica. Se requiere cambiar el tubo endotraqueal por riesgo de neumonía. La intubación se califica como 'Difícil' (Cormack III).",
+      "pregunta": "¿Qué dispositivo o técnica ORL se considera esencial para la reintubación o cambio de tubo en una vía aérea difícil conocida?",
+      "opciones": {
+        "a": "Tubo endotraqueal con balón más pequeño.",
+        "b": "Uso de un bougie o intercambiador de tubo (Tube Exchanger).",
+        "c": "Laringoscopia directa tradicional.",
+        "d": "Maniobra de Sellick."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Vía Aérea Difícil"
+    },
+    {
+      "id": 80,
+      "caso_clinico": "Un paciente es declarado Muerte Cerebral. El médico tratante aborda a la familia para solicitar la donación de órganos, utilizando un lenguaje coercitivo.",
+      "pregunta": "¿Quién debe llevar a cabo la entrevista de donación y solicitar el consentimiento a la familia, según el protocolo legal?",
+      "opciones": {
+        "a": "El médico tratante.",
+        "b": "El coordinador hospitalario de donación de órganos.",
+        "c": "El director del hospital.",
+        "d": "El equipo de trasplante directamente."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Legislación - Protocolo de Donación"
+    },
+    {
+      "id": 81,
+      "caso_clinico": "Paciente pediátrico (3 años) con sialorrea, dificultad para respirar y fiebre. Se sospecha una lesión en la vía aérea. En la endoscopia se observa una lesión a nivel de la laringe subglótica.",
+      "pregunta": "¿Cuál es la lesión subglótica benigna más frecuente en niños que puede causar obstrucción de la vía aérea que requiere traqueostomía?",
+      "opciones": {
+        "a": "Papilomatosis laríngea.",
+        "b": "Estenosis subglótica.",
+        "c": "Hemangioma subglótico.",
+        "d": "Quiste laríngeo."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Pediátrico - Lesiones Laríngeas"
+    },
+    {
+      "id": 82,
+      "caso_clinico": "Adulto con otalgia, parálisis facial, vértigo y vesículas en el pabellón auricular y conducto auditivo externo (Síndrome de Ramsay Hunt).",
+      "pregunta": "¿Cuál es el agente etiológico más frecuente del Síndrome de Ramsay Hunt?",
+      "opciones": {
+        "a": "*Streptococcus pneumoniae*.",
+        "b": "Virus del Herpes Simple (VHS).",
+        "c": "Virus Varicela Zóster (VVZ).",
+        "d": "*Pseudomonas aeruginosa*."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Infección ORL Crítica"
+    },
+    {
+      "id": 83,
+      "caso_clinico": "Paciente pediátrico (8 kg) con hipertensión arterial. Se requiere infusión de Nicardipino a $1\\text{ mcg/kg/min}$. Dilución: $10\\text{ mg}$ en $100\\text{ mL}$.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión de Nicardipino?",
+      "opciones": {
+        "a": "0.48 mL/h.",
+        "b": "4.8 mL/h.",
+        "c": "0.8 mL/h.",
+        "d": "48 mL/h."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Pediátrico - Cálculo de Fármaco"
+    },
+    {
+      "id": 84,
+      "caso_clinico": "Adulto con sangrado masivo posterior a la ligadura de la arteria carótida externa en el cuello por epistaxis refractaria. La hemorragia persiste.",
+      "pregunta": "¿Cuál es la causa más probable de la persistencia de la epistaxis a pesar de la ligadura de la arteria carótida externa?",
+      "opciones": {
+        "a": "Ligadura incompleta de la arteria.",
+        "b": "Irrigación colateral desde la arteria carótida interna (ej. arterias etmoidales).",
+        "c": "Coagulopatía de consumo.",
+        "d": "Sangrado del plexo de Kiesselbach."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Epistaxis Refractaria"
+    },
+    {
+      "id": 85,
+      "caso_clinico": "Se evalúa la donación de tejido (hueso) de un paciente que fue diagnosticado con Sepsis Grave por Neumonía.",
+      "pregunta": "¿Cuál de las siguientes condiciones infecciosas es una contraindicación absoluta para la donación de tejidos (como córneas, hueso y piel)?",
+      "opciones": {
+        "a": "Neumonía bacteriana controlada.",
+        "b": "Sepsis activa o choque séptico de cualquier etiología.",
+        "c": "Meningitis viral aséptica.",
+        "d": "VIH controlado con carga viral indetectable."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Legislación - Contraindicaciones de Tejidos"
+    },
+    {
+      "id": 86,
+      "caso_clinico": "Paciente pediátrico con estenosis subglótica severa. Se realiza una traqueostomía por la imposibilidad de decanulación.",
+      "pregunta": "¿Cuál es el tratamiento quirúrgico definitivo para la estenosis subglótica adquirida en niños, una vez que se estabiliza la condición?",
+      "opciones": {
+        "a": "Dilatación con balón de alta presión.",
+        "b": "Resección cricotraqueal o laringotraqueoplastia.",
+        "c": "Terapia con láser CO2.",
+        "d": "Uso de cánula con válvula fonatoria."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Pediátrico - Estenosis Subglótica"
+    },
+    {
+      "id": 87,
+      "caso_clinico": "Adulto con traqueostomía percutánea. En la valoración se observa una fístula traqueocutánea persistente después del retiro de la cánula (decanulación).",
+      "pregunta": "¿Cuál es el tiempo mínimo que debe pasar post-decanulación antes de considerar el cierre quirúrgico de una fístula traqueocutánea persistente?",
+      "opciones": {
+        "a": "24 horas.",
+        "b": "1 a 2 semanas.",
+        "c": "4 a 6 semanas.",
+        "d": "6 meses."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Cuidados de Traqueostomía"
+    },
+    {
+      "id": 88,
+      "caso_clinico": "Adulto de 65 kg con $\\text{Shock}$ Séptico. Se requiere infusión de Vasopresina a $0.02\\text{ U/min}$. Dilución: $20\\text{ U}$ en $100\\text{ mL}$.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión de Vasopresina?",
+      "opciones": {
+        "a": "3.0 mL/h.",
+        "b": "6.0 mL/h.",
+        "c": "12.0 mL/h.",
+        "d": "8.0 mL/h."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Adulto - Cálculo de Fármaco"
+    },
+    {
+      "id": 89,
+      "caso_clinico": "Neonato con Síndrome de Treacher Collins (malformaciones craneofaciales). Presenta micrognatia severa, dificultando la intubación y ventilación.",
+      "pregunta": "¿Qué técnica de manejo de vía aérea es la ideal para asegurar la vía aérea en el momento del nacimiento en un neonato con micrognatia severa?",
+      "opciones": {
+        "a": "Intubación orotraqueal a ciegas.",
+        "b": "Maniobra de tracción mandibular.",
+        "c": "Procedimiento $\\text{EXIT}$ (Ex $\\text{Utero}$ $\\text{Intrapartum}$ $\\text{Treatment}$).",
+        "d": "Cricotiroidotomía con aguja."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Neonato - Vía Aérea Difícil Sindrómica"
+    },
+    {
+      "id": 90,
+      "caso_clinico": "Un médico rechaza la solicitud de donación de órganos de un paciente que estaba en Muerte Cerebral, alegando que el proceso es demasiado complicado.",
+      "pregunta": "¿Qué establece el Art. 339 de la LGS respecto a los hospitales que realizan procuración de órganos?",
+      "opciones": {
+        "a": "Tienen la obligación de procurar órganos si el paciente cumple los requisitos y la familia consiente.",
+        "b": "Solo los hospitales públicos tienen la obligación de procuración.",
+        "c": "La procuración es optativa para todos los hospitales.",
+        "d": "La decisión final de procurar recae en el médico tratante."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Legislación - Obligación Hospitalaria"
+    },
+    {
+      "id": 91,
+      "caso_clinico": "Paciente pediátrico (5 años) con quemaduras. Presenta ronquera progresiva y estridor inspiratorio leve.",
+      "pregunta": "¿Cuál es el sitio más probable de la obstrucción de la vía aérea en el edema por inhalación de humo en el tracto respiratorio superior?",
+      "opciones": {
+        "a": "Bronquios principales.",
+        "b": "Tráquea subglótica.",
+        "c": "Laringe supraglótica y epiglotis.",
+        "d": "Cuerdas vocales verdaderas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Pediátrico - Vía Aérea por Quemadura"
+    },
+    {
+      "id": 92,
+      "caso_clinico": "Adulto con Otitis Media Necrotizante Externa (Maligna) por *Pseudomonas aeruginosa*. Se encuentra en UCI por $\\text{Shock}$ Séptico y requiere antibiótico IV.",
+      "pregunta": "¿Cuál es el antibiótico de elección para el tratamiento de la Otitis Externa Maligna?",
+      "opciones": {
+        "a": "Amoxicilina-Clavulánico.",
+        "b": "Ceftriaxona.",
+        "c": "Ciprofloxacino o Piperacilina/Tazobactam IV.",
+        "d": "Vancomicina IV."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Infección ORL Crítica"
+    },
+    {
+      "id": 93,
+      "caso_clinico": "Paciente pediátrico (12 kg) con $\\text{Shock}$ Séptico. Se requiere infusión de Solución Fisiológica a $20\\text{ mL/kg}$ en bolo rápido.",
+      "pregunta": "¿Cuántos mililitros (mL) de Solución Fisiológica deben administrarse en el bolo inicial?",
+      "opciones": {
+        "a": "120 mL.",
+        "b": "240 mL.",
+        "c": "300 mL.",
+        "d": "480 mL."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Pediátrico - Cálculo de Fármaco"
+    },
+    {
+      "id": 94,
+      "caso_clinico": "Adulto con cuerpo extraño alojado en el vestíbulo nasal que causa obstrucción y dolor severo. Se decide su extracción.",
+      "pregunta": "¿Cuál es la complicación local más temida de un cuerpo extraño nasal retenido de larga evolución?",
+      "opciones": {
+        "a": "Epistaxis masiva.",
+        "b": "Sinusitis crónica.",
+        "c": "Formación de rinolito o perforación septal.",
+        "d": "Parálisis facial."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Cuerpo Extraño Nasal"
+    },
+    {
+      "id": 95,
+      "caso_clinico": "El equipo de trasplantes está considerando donar el hígado de un donador cadavérico que estuvo hipotenso por más de 6 horas a pesar de las maniobras de reanimación.",
+      "pregunta": "¿Cuál es la causa de daño a los órganos donados más frecuentemente asociada con la Muerte Cerebral y el manejo posterior?",
+      "opciones": {
+        "a": "Infección bacteriana.",
+        "b": "Rechazo hiperagudo.",
+        "c": "Isquemia por inestabilidad hemodinámica e hipotensión.",
+        "d": "Disfunción hepática primaria."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Legislación - Viabilidad de Órganos"
+    },
+    {
+      "id": 96,
+      "caso_clinico": "Paciente pediátrico (4 años) con absceso retrofaríngeo drenado. A las 48 horas presenta estridor inspiratorio y disnea súbita.",
+      "pregunta": "¿Cuál es la causa más probable de obstrucción de la vía aérea posterior a un drenaje exitoso de un absceso retrofaríngeo?",
+      "opciones": {
+        "a": "Recurrencia del absceso.",
+        "b": "Edema laríngeo secundario a la manipulación.",
+        "c": "Estenosis subglótica.",
+        "d": "Faringitis estreptocócica."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Pediátrico - Infección Profunda"
+    },
+    {
+      "id": 97,
+      "caso_clinico": "Adulto en UCI con traqueostomía. Presenta disnea progresiva y se confirma un granuloma en la luz traqueal justo debajo del estoma.",
+      "pregunta": "¿Cuál es el tratamiento endoscópico de elección para el granuloma traqueal sintomático?",
+      "opciones": {
+        "a": "Observación y corticoides sistémicos.",
+        "b": "Cirugía abierta con resección del granuloma.",
+        "c": "Resección con láser o microdebridador por vía endoscópica.",
+        "d": "Cambio a cánula con balón más grande."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Complicaciones de Traqueostomía"
+    },
+    {
+      "id": 98,
+      "caso_clinico": "Adulto de 90 kg con hipertensión grave. Se requiere infusión de Nitroprusiato de Sodio a $0.5\\text{ mcg/kg/min}$. Dilución: $50\\text{ mg}$ en $250\\text{ mL}$.",
+      "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión de Nitroprusiato de Sodio?",
+      "opciones": {
+        "a": "13.5 mL/h.",
+        "b": "6.75 mL/h.",
+        "c": "27.0 mL/h.",
+        "d": "18.0 mL/h."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Adulto - Cálculo de Fármaco"
+    },
+    {
+      "id": 99,
+      "caso_clinico": "Neonato con Atresia de Coanas unilateral. Se detecta el problema a las pocas horas de vida. El paciente se mantiene estable respirando por la boca.",
+      "pregunta": "¿Cuál es la consecuencia a largo plazo más grave de no corregir una atresia de coanas unilateral en un neonato?",
+      "opciones": {
+        "a": "Distrés respiratorio agudo.",
+        "b": "Apnea central.",
+        "c": "Alteraciones del crecimiento facial y rinosinusitis crónica.",
+        "d": "Hipoacusia neurosensorial."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Neonato - Atresia de Coanas"
+    },
+    {
+      "id": 100,
+      "caso_clinico": "Un médico de UCI retira los órganos a un paciente en Muerte Cerebral sin el consentimiento de la familia, alegando que es donación tácita.",
+      "pregunta": "¿Qué ley establece que, a pesar de la donación tácita, en el caso de la donación cadavérica la última decisión de los órganos recae en la familia?",
+      "opciones": {
+        "a": "El Reglamento de la $\\text{LGS}$ en materia de investigación.",
+        "b": "El $\\text{Código}$ $\\text{Civil}$ $\\text{Federal}$.",
+        "c": "La $\\mathbf{\\text{Ley} \\text{ General} \\text{ de} \\text{ Salud}}$ ($\\text{LGS}$) $\\mathbf{\\text{y} \\text{ su} \\text{ reglamento}}$.",
+        "d": "El $\\text{Protocolo}$ $\\text{de}$ $\\text{Donación}$ $\\text{del}$ $\\text{Hospital}$."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Legislación - Donación Tácita"
+    }
+  ]
+}
