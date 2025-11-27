@@ -30,14 +30,14 @@
       "opciones": {
         "a": "Opción A: Radiografía simple de cráneo",
         "b": "Opción B: TC sin contraste",
-        "c": "Opción C: RM con difusión ($\text{DWI}$)",
+        "c": "Opción C: RM con difusión (DWI)",
         "d": "Opción D: Ecografía Doppler carotídea"
       },
       "respuesta_correcta": "c"
     },
     {
       "id": 4,
-      "pregunta": "Cuál maniobra se utiliza para evaluar la integridad del nervio facial ($\text{VII}$) a nivel periférico?",
+      "pregunta": "Cuál maniobra se utiliza para evaluar la integridad del nervio facial (VII) a nivel periférico?",
       "opciones": {
         "a": "Opción A: Pedir al paciente que cierre los ojos y sonría (parálisis de la frente afectada)",
         "b": "Opción B: Exploración del reflejo rotuliano",
@@ -171,7 +171,7 @@
       "id": 16,
       "pregunta": "Patógeno más frecuente en absceso cerebral.",
       "opciones": {
-        "a": "Opción A: Virus de la Inmunodeficiencia Humana ($\text{VIH}$)",
+        "a": "Opción A: Virus de la Inmunodeficiencia Humana (VIH)",
         "b": "Opción B: Bacterias piógenas (ej. $Streptococcus$, $Staphylococcus$)",
         "c": "Opción C: Parásitos como $Plasmodium$",
         "d": "Opción D: Hongos de la familia $Candida$"
@@ -196,7 +196,7 @@
         "a": "Opción A: Ovillos neurofibrilares",
         "b": "Opción B: Fluctuaciones cognitivas, alucinaciones visuales y parkinsonismo",
         "c": "Opción C: Infartos lacunares múltiples",
-        "d": "Opción D: Acumulación de placas $\text{\beta}$-amiloides"
+        "d": "Opción D: Acumulación de placas beta-amiloides"
       },
       "respuesta_correcta": "b"
     },
@@ -205,9 +205,9 @@
       "pregunta": "¿Cuál es el tratamiento de elección en la esclerosis múltiple con brotes (forma remitente-recurrente)?",
       "opciones": {
         "a": "Opción A: Reposo absoluto",
-        "b": "Opción B: Inmunosupresores o inmunomoduladores ($\text{DMT}$)",
+        "b": "Opción B: Inmunosupresores o inmunomoduladores (DMT)",
         "c": "Opción C: Dieta cetogénica estricta",
-        "d": "Opción D: Analgésicos $\text{OTC}$"
+        "d": "Opción D: Analgésicos OTC"
       },
       "respuesta_correcta": "b"
     },
@@ -217,32 +217,10 @@
       "opciones": {
         "a": "Opción A: Parálisis Facial Central (Vía Motora Superior)",
         "b": "Opción B: Parálisis Facial Periférica (Vía Motora Inferior)",
-        "c": "Opción C: Parálisis del $\text{VI}$ par",
+        "c": "Opción C: Parálisis del VI par",
         "d": "Opción D: Síndrome de Guillain-Barré"
       },
       "respuesta_correcta": "a"
     }
-  ],
-  "justificaciones": {
-    "1": "El abordaje más habitual para los tumores pineales sintomáticos es el **occipital transtentorial** (o infratentorial-supracerebeloso), ya que proporciona la mejor exposición a la región posterior del tercer ventrículo.",
-    "2": "Las **benzodiacepinas** (como lorazepam o midazolam) son el tratamiento de **primera línea** para interrumpir una convulsión tónico-clónica prolongada o el estado epiléptico debido a su rápida acción y alta eficacia.",
-    "3": "La secuencia de **Resonancia Magnética con difusión ($\text{DWI}$)** es la prueba de imagen más sensible y específica para detectar la **restricción a la difusión** que ocurre con la isquemia cerebral aguda en las primeras horas del $\text{ictus}$.",
-    "4": "La **parálisis facial periférica** (lesión del $\text{VII}$ par) afecta tanto los músculos superiores (frente y cierre de ojo) como los inferiores, mientras que una lesión central **respeta la frente** (Opción A evalúa ambos niveles).",
-    "5": "Los **vómitos en proyectil** (sin náuseas), la **bradicardia** y la hipertensión arterial son componentes de la **Tríada de Cushing**, la cual es un signo tardío de **hipertensión intracraneal ($\text{HIC}$) aguda**.",
-    "6": "La **punción lumbar** con el subsiguiente análisis del líquido cefalorraquídeo ($\text{LCR}$) es el estándar de oro para confirmar el diagnóstico de **meningitis bacteriana** y determinar el agente causal en pacientes estables.",
-    "7": "Un **reflejo de Babinski positivo** (extensión del primer dedo y abanico de los otros) en un adulto o niño mayor indica una lesión en el **tracto corticoespinal** (vía motora superior o tracto piramidal).",
-    "8": "El tratamiento de elección para el **síndrome de Guillain-Barré** con progresión rápida es la **inmunoglobulina intravenosa ($\text{IVIG}$) o la plasmaféresis** para modular la respuesta inmune, y el **soporte ventilatorio** es crucial si hay compromiso respiratorio.",
-    "9": "Los **Estudios de Conducción Nerviosa ($\text{ENMG}$)** miden velocidades y amplitudes; una **velocidad de conducción lenta** sugiere desmielinización, mientras que una **amplitud reducida** sugiere daño axonal.",
-    "10": "Las medidas iniciales para reducir la $\text{HIC}$ son la **elevación de la cabecera** ($\text{30}\degree$), la **hiperventilación** temporal y la administración de **soluciones hipertónicas** (manitol o salino hipertónico).",
-    "11": "Una **convulsión febril simple** es tónico-clónica generalizada, dura menos de 15 minutos y ocurre una sola vez en un periodo de 24 horas, sin signos de afectación neurológica focal posterior.",
-    "12": "En lactantes con fontanela abierta, el aumento de la presión intracraneal ($\text{HIC}$) causa el **abultamiento de la fontanela** y a menudo se acompaña de **vómitos en proyectil**, signos de alarma neurológica.",
-    "13": "La **Tomografía Computarizada ($\text{TC}$) sin contraste** es la prueba de imagen de elección en urgencias para descartar o confirmar una **hemorragia intracraneal aguda** debido a su rapidez y alta sensibilidad para la sangre fresca.",
-    "14": "La **parálisis cerebral** se define como un grupo de trastornos del desarrollo motor y postural, que son **no progresivos** y se originan por una lesión en el cerebro fetal o infantil.",
-    "15": "La **polisomnografía** es el estudio de elección para el diagnóstico y la caracterización de los trastornos del sueño, como la apnea obstructiva del sueño o los movimientos periódicos de las extremidades.",
-    "16": "Los abscesos cerebrales suelen ser causados por una infección bacteriana (piógena) polimicrobiana, siendo los **estreptococos** ($\text{Streptococcus}$ aerobios y anaerobios) y $Staphylococcus$ aureus los más frecuentes.",
-    "17": "El tratamiento farmacológico inicial de elección para la **neuralgia del trigémino** es un anticonvulsivante como la **carbamazepina** o la oxcarbazepina.",
-    "18": "La **demencia con cuerpos de $\text{Lewy}$** se caracteriza por una triada distintiva: **fluctuaciones cognitivas**, **alucinaciones visuales** recurrentes y signos de **parkinsonismo** de inicio precoz.",
-    "19": "El tratamiento modificador de la enfermedad ($\text{DMT}$) con **inmunomoduladores o inmunosupresores** es el estándar para reducir la frecuencia y la gravedad de los brotes en la **esclerosis múltiple recurrente-remitente**.",
-    "20": "La **parálisis facial central** (lesión de la neurona motora superior) respeta la porción superior de la cara (frente y cierre de ojos) debido a que recibe **inervación bilateral** desde la corteza."
-  }
+  
 }
