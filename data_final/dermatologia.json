@@ -23,8 +23,7 @@
       "d": "25 mL"
     },
     "respuesta_correcta": "b",
-    "justificacion": "Dosis total: $80 \, \text{kg} \times 25 \, \text{mg/kg} = 2000 \, \text{mg}$. Volumen: $2000 \, \text{mg} / 100 \, \text{mg/mL} = 20 \, \text{mL}$."
-  },
+},
   {
     "id": 3,
     "tema": "Leyes de Trasplante",
@@ -54,7 +53,7 @@
   {
     "id": 5,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente de 70 kg requiere una infusión de Dopamina a 5 $\mu\text{g/kg/min}$. La solución tiene una concentración de 1600 $\mu\text{g/mL}$. ¿Cuál es la velocidad de infusión en $\text{mL/h}$?",
+    "pregunta": "Un paciente de 70 kg requiere una infusión de Dopamina a 5 {g/kg/min. La solución tiene una concentración de 1600 g/mL. ¿Cuál es la velocidad de infusión en mL/h?",
     "opciones": {
       "a": "15.0 mL/h",
       "b": "10.5 mL/h",
@@ -62,8 +61,7 @@
       "d": "18.75 mL/h"
     },
     "respuesta_correcta": "c",
-    "justificacion": "Dosis requerida por hora: $5 \, \mu\text{g/kg/min} \times 70 \, \text{kg} \times 60 \, \text{min/h} = 21000 \, \mu\text{g/h}$. Velocidad: $21000 \, \mu\text{g/h} / 1600 \, \mu\text{g/mL} = 13.125 \, \text{mL/h}$."
-  },
+,
   {
     "id": 6,
     "tema": "Dermatología Infecciosa",
@@ -114,8 +112,7 @@
       "d": "1250 unidades/h"
     },
     "respuesta_correcta": "b",
-    "justificacion": "Concentración: $25000 \, \text{U} / 500 \, \text{mL} = 50 \, \text{U/mL}$. Dosis por hora: $50 \, \text{U/mL} \times 10 \, \text{mL/h} = 500 \, \text{U/h}$."
-  },
+},
   {
     "id": 10,
     "tema": "Dermatología / Infección",
@@ -145,7 +142,7 @@
   {
     "id": 12,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Un médico indica un bolo de $0.9 \, \text{mg}$ de Alteplase (tPA) para un paciente de $90 \, \text{kg}$ con accidente cerebrovascular isquémico. Si la concentración del vial reconstituido es de $1 \, \text{mg/mL}$, ¿cuántos $\text{mL}$ se deben administrar en el bolo inicial (que es el 10% de la dosis total)?",
+    "pregunta": "Un médico indica un bolo de 0.9 , mg de Alteplase (tPA) para un paciente de 90 , kg con accidente cerebrovascular isquémico. Si la concentración del vial reconstituido es de 1 ,mg/mL, ¿cuántos mL se deben administrar en el bolo inicial (que es el 10% de la dosis total)?",
     "opciones": {
       "a": "9.0 mL",
       "b": "8.1 mL",
@@ -153,8 +150,7 @@
       "d": "0.9 mL"
     },
     "respuesta_correcta": "c",
-    "justificacion": "Dosis total: $0.9 \, \text{mg/kg} \times 90 \, \text{kg} = 81 \, \text{mg}$. Bolo (10%): $81 \, \text{mg} \times 0.10 = 8.1 \, \text{mg}$. Volumen del bolo: $8.1 \, \text{mg} / 1 \, \text{mg/mL} = 8.1 \, \text{mL}$."
-  },
+ },
   {
     "id": 13,
     "tema": "Leyes de Trasplante",
@@ -184,7 +180,7 @@
   {
     "id": 15,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se ordena administrar 500 $\text{mL}$ de Solución Salina al $0.9\%$ en un período de 4 horas a través de un set de macro goteo (15 gotas/mL). ¿Cuál es la velocidad de infusión en **gotas por minuto**?",
+    "pregunta": "Se ordena administrar 500 mL de Solución Salina al 0.9 en un período de 4 horas a través de un set de macro goteo (15 gotas/mL). ¿Cuál es la velocidad de infusión en **gotas por minuto**?",
     "opciones": {
       "a": "21 gotas/min",
       "b": "31 gotas/min",
@@ -192,8 +188,7 @@
       "d": "52 gotas/min"
     },
     "respuesta_correcta": "b",
-    "justificacion": "Volumen total a infundir: $500 \, \text{mL}$. Tiempo total: $4 \, \text{h} \times 60 \, \text{min/h} = 240 \, \text{min}$. Frecuencia: $(500 \, \text{mL} \times 15 \, \text{gotas/mL}) / 240 \, \text{min} \approx 31.25 \, \text{gotas/min}$."
-  },
+    },
   {
     "id": 16,
     "tema": "Leyes de Trasplante",
@@ -223,7 +218,7 @@
   {
     "id": 18,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita preparar una dilución de $200 \, \text{mg}$ de Amiodarona en $100 \, \text{mL}$ de Dextrosa al $5\%$. Si la bomba se programa a $33 \, \text{mL/h}$, ¿cuál es la dosis de Amiodarona administrada por minuto en $\text{mg/min}$?",
+    "pregunta": "Se necesita preparar una dilución de 200 , mg de Amiodarona en 100 , mL de Dextrosa al $5. Si la bomba se programa a 33 , mL/h, ¿cuál es la dosis de Amiodarona administrada por minuto en mg/min?",
     "opciones": {
       "a": "1.1 mg/min",
       "b": "0.66 mg/min",
@@ -231,8 +226,7 @@
       "d": "3.3 mg/min"
     },
     "respuesta_correcta": "a",
-    "justificacion": "Concentración: $200 \, \text{mg} / 100 \, \text{mL} = 2 \, \text{mg/mL}$. Dosis por hora: $2 \, \text{mg/mL} \times 33 \, \text{mL/h} = 66 \, \text{mg/h}$. Dosis por minuto: $66 \, \text{mg/h} / 60 \, \text{min/h} = 1.1 \, \text{mg/min}$."
-  },
+      },
   {
     "id": 19,
     "tema": "Leyes de Trasplante / Ética",
@@ -262,7 +256,7 @@
   {
     "id": 21,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se debe pasar $250 \, \text{mL}$ de un medicamento a $100 \, \text{mL/h}$. ¿En cuánto tiempo (horas y minutos) terminará la infusión?",
+    "pregunta": "Se debe pasar 250 , mL de un medicamento a 100 , mL/h. ¿En cuánto tiempo (horas y minutos) terminará la infusión?",
     "opciones": {
       "a": "2 horas y 0 minutos",
       "b": "2 horas y 30 minutos",
@@ -270,8 +264,7 @@
       "d": "3 horas y 0 minutos"
     },
     "respuesta_correcta": "b",
-    "justificacion": "Tiempo = Volumen / Velocidad. $250 \, \text{mL} / 100 \, \text{mL/h} = 2.5 \, \text{h}$. $2.5$ horas es igual a 2 horas y $0.5 \times 60 = 30$ minutos."
-  },
+   },
   {
     "id": 22,
     "tema": "Dermatología / Quemaduras",
@@ -314,7 +307,7 @@
   {
     "id": 25,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se indica $1 \, \text{gramo}$ de Amoxicilina oral. La presentación disponible es una suspensión de $250 \, \text{mg/5 \, mL}$. ¿Cuántos $\text{mL}$ debe administrar el enfermero?",
+    "pregunta": "Se indica 1 , gramo de Amoxicilina oral. La presentación disponible es una suspensión de 250 , mg/5 , mL. ¿Cuántos mL debe administrar el enfermero?",
     "opciones": {
       "a": "10 mL",
       "b": "15 mL",
@@ -322,8 +315,7 @@
       "d": "25 mL"
     },
     "respuesta_correcta": "c",
-    "justificacion": "Dosis requerida: $1000 \, \text{mg}$. Concentración: $250 \, \text{mg} / 5 \, \text{mL} = 50 \, \text{mg/mL}$. Volumen: $1000 \, \text{mg} / 50 \, \text{mg/mL} = 20 \, \text{mL}$."
-  }
+    "
 ]
 [
   {
@@ -350,8 +342,7 @@
       "d": "1200 mL"
     },
     "respuesta_correcta": "a",
-    "justificacion": "Volumen total (24 h): $4 \, \text{mL} \times 60 \, \text{kg} \times 30 = 7200 \, \text{mL}$. Volumen en 8 h (50%): $7200 \, \text{mL} / 2 = 3600 \, \text{mL}$."
-  },
+ },
   {
     "id": 28,
     "tema": "Leyes de Trasplante",
@@ -381,7 +372,7 @@
   {
     "id": 30,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se indica Meropenem $500 \, \text{mg}$ IV cada 8 horas. El vial contiene $1000 \, \text{mg}$ y se reconstituye con $10 \, \text{mL}$ de agua estéril. ¿Cuántos $\text{mL}$ se deben tomar para la dosis de $500 \, \text{mg}$?",
+    "pregunta": "Se indica Meropenem 500 , mg IV cada 8 horas. El vial contiene 1000 , mg y se reconstituye con 10 ,mL de agua estéril. ¿Cuántos mL se deben tomar para la dosis de 500, mg?",
     "opciones": {
       "a": "5.0 mL",
       "b": "2.5 mL",
@@ -389,8 +380,7 @@
       "d": "10.0 mL"
     },
     "respuesta_correcta": "a",
-    "justificacion": "Concentración después de la reconstitución: $1000 \, \text{mg} / 10 \, \text{mL} = 100 \, \text{mg/mL}$. Volumen a extraer: $500 \, \text{mg} / 100 \, \text{mg/mL} = 5.0 \, \text{mL}$."
-  },
+},
   {
     "id": 31,
     "tema": "Leyes de Trasplante",
@@ -420,7 +410,7 @@
   {
     "id": 33,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita infundir $1500 \, \text{mL}$ de solución glucosada en $12 \, \text{horas}$. La velocidad de infusión en $\text{mL/h}$ es:",
+    "pregunta": "Se necesita infundir 1500 , mL de solución glucosada en 12 , horas. La velocidad de infusión en mL/h es:",
     "opciones": {
       "a": "100 mL/h",
       "b": "125 mL/h",
@@ -428,7 +418,6 @@
       "d": "175 mL/h"
     },
     "respuesta_correcta": "b",
-    "justificacion": "Velocidad = Volumen / Tiempo. $1500 \, \text{mL} / 12 \, \text{h} = 125 \, \text{mL/h}$."
   },
   {
     "id": 34,
@@ -459,7 +448,7 @@
   {
     "id": 36,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se indica una infusión de Propofol a $15 \, \mu\text{g/kg/min}$ para un paciente de $90 \, \text{kg}$. El Propofol viene en una solución de $10 \, \text{mg/mL}$. ¿Cuál es la velocidad de infusión en $\text{mL/h}$?",
+    "pregunta": "Se indica una infusión de Propofol a 15 , g/kg/min para un paciente de 90 , kg. El Propofol viene en una solución de 10 , mg/mL. ¿Cuál es la velocidad de infusión en mL/h?",
     "opciones": {
       "a": "7.1 mL/h",
       "b": "8.1 mL/h",
@@ -467,8 +456,7 @@
       "d": "10.1 mL/h"
     },
     "respuesta_correcta": "b",
-    "justificacion": "Dosis requerida por hora: $15 \, \mu\text{g/kg/min} \times 90 \, \text{kg} \times 60 \, \text{min/h} = 81000 \, \mu\text{g/h} = 81 \, \text{mg/h}$. Velocidad: $81 \, \text{mg/h} / 10 \, \text{mg/mL} = 8.1 \, \text{mL/h}$."
-  },
+      },
   {
     "id": 37,
     "tema": "Dermatología / Úlceras",
@@ -511,7 +499,7 @@
   {
     "id": 40,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Una infusión de Nitroprusiato de Sodio se prepara a $50 \, \text{mg}$ en $250 \, \text{mL}$. El objetivo es administrar $2 \, \mu\text{g/kg/min}$ a un paciente de $65 \, \text{kg}$. ¿A qué velocidad se debe programar la bomba en $\text{mL/h}$?",
+    "pregunta": "Una infusión de Nitroprusiato de Sodio se prepara a 50 , mg en 250 , mL. El objetivo es administrar 2 , g/kg/min a un paciente de 65 , kg. ¿A qué velocidad se debe programar la bomba en mL/h?",
     "opciones": {
       "a": "9.6 mL/h",
       "b": "10.4 mL/h",
@@ -519,8 +507,7 @@
       "d": "19.2 mL/h"
     },
     "respuesta_correcta": "b",
-    "justificacion": "Concentración: $50 \, \text{mg} / 250 \, \text{mL} = 0.2 \, \text{mg/mL} = 200 \, \mu\text{g/mL}$. Dosis requerida por hora: $2 \, \mu\text{g/kg/min} \times 65 \, \text{kg} \times 60 \, \text{min/h} = 7800 \, \mu\text{g/h}$. Velocidad: $7800 \, \mu\text{g/h} / 200 \, \mu\text{g/mL} = 39 \, \text{mL/h}$."
-  },
+      },
   {
     "id": 41,
     "tema": "Leyes de Trasplante",
@@ -550,7 +537,7 @@
   {
     "id": 43,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Un medicamento debe ser diluido para alcanzar una concentración de $2 \, \text{mg/mL}$. Si la dosis a administrar es de $200 \, \text{mg}$, ¿cuál es el volumen total de la dilución que debe infundirse?",
+    "pregunta": "Un medicamento debe ser diluido para alcanzar una concentración de 2 , mg/mL. Si la dosis a administrar es de 200 , mg, ¿cuál es el volumen total de la dilución que debe infundirse?",
     "opciones": {
       "a": "400 mL",
       "b": "100 mL",
@@ -558,8 +545,7 @@
       "d": "200 mL"
     },
     "respuesta_correcta": "b",
-    "justificacion": "Volumen = Dosis / Concentración. $200 \, \text{mg} / 2 \, \text{mg/mL} = 100 \, \text{mL}$."
-  },
+ },
   {
     "id": 44,
     "tema": "Dermatología / Shock Séptico",
@@ -589,7 +575,7 @@
   {
     "id": 46,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente de $50 \, \text{kg}$ necesita una dosis de mantenimiento de Midazolam a $0.05 \, \text{mg/kg/h}$. La presentación es $5 \, \text{mg/mL}$. ¿Cuántos $\text{mL}$ se administran por hora?",
+    "pregunta": "Un paciente de 50 , kg necesita una dosis de mantenimiento de Midazolam a 0.05 , mg/kg/h. La presentación es 5 , mg/mL. ¿Cuántos mL se administran por hora?",
     "opciones": {
       "a": "0.25 mL/h",
       "b": "0.5 mL/h",
@@ -597,7 +583,6 @@
       "d": "1.0 mL/h"
     },
     "respuesta_correcta": "b",
-    "justificacion": "Dosis total por hora: $0.05 \, \text{mg/kg/h} \times 50 \, \text{kg} = 2.5 \, \text{mg/h}$. Volumen: $2.5 \, \text{mg/h} / 5 \, \text{mg/mL} = 0.5 \, \text{mL/h}$."
   },
   {
     "id": 47,
@@ -615,7 +600,7 @@
   {
     "id": 48,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita administrar un total de $3 \, \text{gramos}$ de un antibiótico por día en dosis iguales cada $8 \, \text{horas}$. La dosis por toma debe ser de:",
+    "pregunta": "Se necesita administrar un total de 3 , gramos de un antibiótico por día en dosis iguales cada 8 , horas. La dosis por toma debe ser de:",
     "opciones": {
       "a": "500 mg",
       "b": "750 mg",
@@ -623,8 +608,7 @@
       "d": "1500 mg"
     },
     "respuesta_correcta": "c",
-    "justificacion": "Número de dosis al día: $24 \, \text{h} / 8 \, \text{h} = 3$ dosis. Dosis por toma: $3000 \, \text{mg} / 3 \, \text{dosis} = 1000 \, \text{mg}$."
-  },
+ },
   {
     "id": 49,
     "tema": "Leyes de Trasplante",
@@ -664,12 +648,11 @@
       "d": "Aplicar hielo y elevación de la extremidad."
     },
     "respuesta_correcta": "c",
-    "justificacion": "La extravasación de un vasoconstrictor se trata infiltrando el área con un vasodilatador $\alpha$-bloqueante (como la Fentolamina diluida), lo cual revierte la vasoconstricción local, minimizando la isquemia y necrosis tisular."
-  },
+   },
   {
     "id": 52,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente de $60 \, \text{kg}$ necesita una infusión de Sedante X a $5 \, \text{mg/h}$. El medicamento está diluido a una concentración de $2 \, \text{mg/mL}$. ¿Cuál es la velocidad de infusión en $\text{mL/min}$?",
+    "pregunta": "Un paciente de 60 , kg necesita una infusión de Sedante X a 5 , mg/h. El medicamento está diluido a una concentración de 2 , mg/mL. ¿Cuál es la velocidad de infusión en mL/min?",
     "opciones": {
       "a": "0.0416 mL/min",
       "b": "0.416 mL/min",
@@ -677,8 +660,7 @@
       "d": "0.0833 mL/min"
     },
     "respuesta_correcta": "a",
-    "justificacion": "Velocidad en $\text{mL/h}$: $5 \, \text{mg/h} / 2 \, \text{mg/mL} = 2.5 \, \text{mL/h}$. Velocidad en $\text{mL/min}$: $2.5 \, \text{mL/h} / 60 \, \text{min/h} \approx 0.0416 \, \text{mL/min}$."
-  },
+     },
   {
     "id": 53,
     "tema": "Leyes de Trasplante",
@@ -708,7 +690,7 @@
   {
     "id": 55,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se indica la administración de un medicamento a $1 \, \text{mg}$ por minuto. La dilución preparada contiene $1000 \, \text{mg}$ en $500 \, \text{mL}$. ¿A qué velocidad se debe programar la bomba en $\text{mL/h}$?",
+    "pregunta": "Se indica la administración de un medicamento a 1  mg por minuto. La dilución preparada contiene 1000 , mg en 500 , mL. ¿A qué velocidad se debe programar la bomba en mL/h?",
     "opciones": {
       "a": "10 mL/h",
       "b": "30 mL/h",
@@ -716,7 +698,6 @@
       "d": "90 mL/h"
     },
     "respuesta_correcta": "b",
-    "justificacion": "Concentración: $1000 \, \text{mg} / 500 \, \text{mL} = 2 \, \text{mg/mL}$. Dosis por hora: $1 \, \text{mg/min} \times 60 \, \text{min/h} = 60 \, \text{mg/h}$. Velocidad: $60 \, \text{mg/h} / 2 \, \text{mg/mL} = 30 \, \text{mL/h}$."
   },
   {
     "id": 56,
@@ -747,7 +728,7 @@
   {
     "id": 58,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente debe recibir $10 \, \text{mEq}$ de Cloruro de Potasio (KCl) disuelto en $100 \, \text{mL}$ de solución en $1$ hora. La ampolla tiene $20 \, \text{mEq/10 \, mL}$. ¿Cuántos $\text{mL}$ de $\text{KCl}$ se extraen para la dilución?",
+    "pregunta": "Un paciente debe recibir 10 mEq de Cloruro de Potasio (KCl) disuelto en 100 mL de solución en 1 hora. La ampolla tiene 20 , mEq/10 , mL. ¿Cuántos mL de KCl se extra en para la dilución?",
     "opciones": {
       "a": "2.5 mL",
       "b": "5.0 mL",
@@ -755,8 +736,7 @@
       "d": "20.0 mL"
     },
     "respuesta_correcta": "b",
-    "justificacion": "La concentración de la ampolla es $2 \, \text{mEq/mL}$. Para $10 \, \text{mEq}$, se necesita: $10 \, \text{mEq} / 2 \, \text{mEq/mL} = 5.0 \, \text{mL}$."
-  },
+ },
   {
     "id": 59,
     "tema": "Dermatología / Trasplante",
@@ -799,7 +779,7 @@
   {
     "id": 62,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente pediátrico de $10 \, \text{kg}$ recibe una dosis de $5 \, \text{mg}$ de un fármaco. Si la dosis máxima diaria es $0.75 \, \text{mg/kg/día}$, ¿la dosis administrada es segura en una toma única?",
+    "pregunta": "Un paciente pediátrico de 10 , kg recibe una dosis de 5 , mg de un fármaco. Si la dosis máxima diaria es 0.75 ,mg/kg/día, ¿la dosis administrada es segura en una toma única?",
     "opciones": {
       "a": "Sí, el límite es 7.5 mg.",
       "b": "No, excede el límite de 5 mg.",
@@ -807,8 +787,7 @@
       "d": "No, excede el límite de 10 mg."
     },
     "respuesta_correcta": "a",
-    "justificacion": "Dosis máxima diaria: $0.75 \, \text{mg/kg} \times 10 \, \text{kg} = 7.5 \, \text{mg}$. La dosis administrada ($5 \, \text{mg}$) es menor que la dosis máxima diaria ($7.5 \, \text{mg}$). Por lo tanto, es segura."
-  },
+    },
   {
     "id": 63,
     "tema": "Leyes de Trasplante",
@@ -838,7 +817,7 @@
   {
     "id": 65,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se debe administrar $1.5 \, \text{g}$ de Clindamicina por vía intravenosa en $30$ minutos. La dilución final es de $100 \, \text{mL}$. ¿Cuál es la velocidad de infusión en $\text{mL/h}$?",
+    "pregunta": "Se debe administrar 1.5  g de Clindamicina por vía intravenosa en 30 minutos. La dilución final es de 100 , mL. ¿Cuál es la velocidad de infusión en mL/h?",
     "opciones": {
       "a": "50 mL/h",
       "b": "100 mL/h",
@@ -846,8 +825,7 @@
       "d": "200 mL/h"
     },
     "respuesta_correcta": "d",
-    "justificacion": "Velocidad = Volumen / Tiempo. $100 \, \text{mL} / 0.5 \, \text{h} = 200 \, \text{mL/h}$."
-  },
+ },
   {
     "id": 66,
     "tema": "Dermatología / Shock",
@@ -877,7 +855,7 @@
   {
     "id": 68,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Un medicamento se prepara a $125 \, \text{mg}$ en $250 \, \text{mL}$. El paciente necesita $0.5 \, \text{mg/min}$. ¿Cuántas horas durará la infusión completa?",
+    "pregunta": "Un medicamento se prepara a 125 , mg en 250 , mL. El paciente necesita 0.5 , mg/min. ¿Cuántas horas durará la infusión completa?",
     "opciones": {
       "a": "6 horas",
       "b": "8 horas",
@@ -885,8 +863,7 @@
       "d": "12 horas"
     },
     "respuesta_correcta": "b",
-    "justificacion": "Dosis total: $125 \, \text{mg}$. Dosis por hora: $0.5 \, \text{mg/min} \times 60 \, \text{min/h} = 30 \, \text{mg/h}$. Tiempo: $125 \, \text{mg} / 30 \, \text{mg/h} \approx 4.16 \, \text{h}$. \n*Nota: Re-cálculo para una de las opciones: Si la infusión durara 8 horas, la dosis por hora sería $125 \, \text{mg}/8 \, \text{h} = 15.625 \, \text{mg/h} = 0.26 \, \text{mg/min}$. Si durara 4 horas la dosis por hora sería $125/4=31.25$ mg/h. Hay un error en el enunciado. Asumiendo que la respuesta 'b' es la correcta y la dosis es $15.625 \, \text{mg/h}$ (o $0.26 \, \text{mg/min}$). Dado el contexto, asumo que $0.5 \, \text{mg/min}$ es un error y la velocidad debe ser $31.25 \, \text{mg/h}$ (4 horas) o $15.625 \, \text{mg/h}$ (8 horas). **Corrigiendo el cálculo para que 8 horas sea la respuesta correcta:** Si la infusión dura 8 horas, la dosis por hora es $125 \, \text{mg} / 8 \, \text{h} = 15.625 \, \text{mg/h}$."
-  },
+   },
   {
     "id": 69,
     "tema": "Dermatología / Nutricional",
@@ -942,7 +919,7 @@
   {
     "id": 77,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se administra $40 \, \text{mg}$ de Furosemida (Lasix) IV. Si la ampolla es de $20 \, \text{mg/2 \, mL}$, y se diluye en $8 \, \text{mL}$ de solución salina. ¿Cuál es la concentración final en $\text{mg/mL}$ de la dilución total (vial + diluyente)?",
+    "pregunta": "Se administra 40 , mg de Furosemida (Lasix) IV. Si la ampolla es de 20 mg/2  mL, y se diluye en 8 , mL de solución salina. ¿Cuál es la concentración final en mg/mL de la dilución total (vial + diluyente)?",
     "opciones": {
       "a": "4 mg/mL",
       "b": "5 mg/mL",
@@ -950,8 +927,7 @@
       "d": "8 mg/mL"
     },
     "respuesta_correcta": "a",
-    "justificacion": "Volumen total: $4 \, \text{mL} (\text{Furosemida}) + 8 \, \text{mL} (\text{SSN}) = 12 \, \text{mL}$. Concentración final: $40 \, \text{mg} / 12 \, \text{mL} \approx 3.33 \, \text{mg/mL}$. *Corrección para que la respuesta 'a' sea correcta: Asumiendo que se administra Furosemida 40 mg, que son 4 mL. Si el volumen total final de la jeringa es 10 mL (4 mL de fármaco + 6 mL de diluyente), la concentración es $40 \, \text{mg} / 10 \, \text{mL} = 4 \, \text{mg/mL}$ (opción a)."
-  },
+ },
   {
     "id": 78,
     "tema": "Leyes de Trasplante",
@@ -981,7 +957,7 @@
   {
     "id": 80,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Una infusión de Cisatracurio (bloqueante neuromuscular) se requiere a $2 \, \mu\text{g/kg/min}$ en un paciente de $100 \, \text{kg}$. Si el medicamento está diluido a $0.5 \, \text{mg/mL}$, ¿cuál es la velocidad en $\text{mL/h}$?",
+    "pregunta": "Una infusión de Cisatracurio (bloqueante neuromuscular) se requiere a 2 g/kg/min en un paciente de 100 , kg. Si el medicamento está diluido a 0.5 , mg/mL, ¿cuál es la velocidad en mL/h?",
     "opciones": {
       "a": "24 mL/h",
       "b": "30 mL/h",
@@ -989,8 +965,7 @@
       "d": "12 mL/h"
     },
     "respuesta_correcta": "a",
-    "justificacion": "Dosis por hora: $2 \, \mu\text{g/kg/min} \times 100 \, \text{kg} \times 60 \, \text{min/h} = 12000 \, \mu\text{g/h} = 12 \, \text{mg/h}$. Velocidad: $12 \, \text{mg/h} / 0.5 \, \text{mg/mL} = 24 \, \text{mL/h}$."
-  },
+    },
   {
     "id": 81,
     "tema": "Leyes de Trasplante",
@@ -1020,7 +995,7 @@
   {
     "id": 83,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se pide infundir $120 \, \text{mL}$ de solución en $45$ minutos. ¿A qué velocidad de infusión se debe programar la bomba en $\text{mL/h}$?",
+    "pregunta": "Se pide infundir 120 , mL de solución en 45 minutos. ¿A qué velocidad de infusión se debe programar la bomba en mL/h?",
     "opciones": {
       "a": "160 mL/h",
       "b": "180 mL/h",
@@ -1028,8 +1003,7 @@
       "d": "240 mL/h"
     },
     "respuesta_correcta": "a",
-    "justificacion": "Tiempo en horas: $45 \, \text{min} / 60 \, \text{min/h} = 0.75 \, \text{h}$. Velocidad: $120 \, \text{mL} / 0.75 \, \text{h} = 160 \, \text{mL/h}$."
-  },
+    },
   {
     "id": 84,
     "tema": "Dermatología / NET/SJS",
@@ -1072,7 +1046,7 @@
   {
     "id": 87,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente necesita $1 \, \text{mg/kg/h}$ de un sedante. Pesa $75 \, \text{kg}$. El fármaco se presenta en viales de $100 \, \text{mg/10 \, mL}$. Si se diluyen $5 \, \text{viales}$ en $250 \, \text{mL}$, ¿cuál es la dosis total en $\text{mg/h}$ que recibirá el paciente?",
+    "pregunta": "Un paciente necesita 1 , mg/kg/h de un sedante. Pesa 75 kg. El fármaco se presenta en viales de 100 , mg/10 , mL. Si se diluyen 5 , viales en 250 , mL, ¿cuál es la dosis total en mg/h que recibirá el paciente?",
     "opciones": {
       "a": "75 mg/h",
       "b": "100 mg/h",
@@ -1080,8 +1054,7 @@
       "d": "50 mg/h"
     },
     "respuesta_correcta": "a",
-    "justificacion": "La dosis total por hora se calcula directamente: $1 \, \text{mg/kg/h} \times 75 \, \text{kg} = 75 \, \text{mg/h}$. La dilución es información distractora en este caso."
-  },
+     },
   {
     "id": 88,
     "tema": "Leyes de Trasplante",
@@ -1111,7 +1084,7 @@
   {
     "id": 90,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Un medicamento se infunde a $125 \, \text{mL/h}$ por una microbomba. Si la orden es pasar $3 \, \text{litros}$ en total, ¿cuántos días completos durará la infusión?",
+    "pregunta": "Un medicamento se infunde a 125 , mL/h por una microbomba. Si la orden es pasar 3 , litros en total, ¿cuántos días completos durará la infusión?",
     "opciones": {
       "a": "1 día",
       "b": "2 días",
@@ -1119,8 +1092,7 @@
       "d": "4 días"
     },
     "respuesta_correcta": "a",
-    "justificacion": "Volumen total: $3000 \, \text{mL}$. Tiempo total: $3000 \, \text{mL} / 125 \, \text{mL/h} = 24 \, \text{h}$. Lo que equivale exactamente a 1 día."
-  },
+   },
   {
     "id": 91,
     "tema": "Leyes de Trasplante",
@@ -1150,16 +1122,15 @@
   {
     "id": 93,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita preparar una dilución de Dobutamina para que 1 $\text{mL}$ contenga $40 \, \mu\text{g}$. Si el vial es de $250 \, \text{mg}$ y se quiere preparar un volumen final de $50 \, \text{mL}$, ¿la concentración final en $\mu\text{g/mL}$ será correcta?",
+    "pregunta": "Se necesita preparar una dilución de Dobutamina para que 1 mL contenga 40  g. Si el vial es de 250 , mg y se quiere preparar un volumen final de 50 , mL, ¿la concentración final en g/mL será correcta?",
     "opciones": {
-      "a": "Sí, la concentración será 5000 $\mu\text{g/mL}$.",
-      "b": "No, la concentración será 4000 $\mu\text{g/mL}$.",
-      "c": "No, la concentración será 500 $\mu\text{g/mL}$.",
-      "d": "Sí, la concentración será 40 $\mu\text{g/mL}$."
+      "a": "Sí, la concentración será 5000 g/mL.",
+      "b": "No, la concentración será 4000 g/mL.",
+      "c": "No, la concentración será 500 g/mL.",
+      "d": "Sí, la concentración será 40 g/mL."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Cálculo de la concentración final: $250 \, \text{mg} / 50 \, \text{mL} = 5 \, \text{mg/mL}$. Convertido a $\mu\text{g/mL}$: $5 \, \text{mg/mL} \times 1000 \, \mu\text{g/mg} = 5000 \, \mu\text{g/mL}$. La concentración de $40 \, \mu\text{g/mL}$ es incorrecta. La respuesta correcta es (b) asumiendo que el enunciado pregunta si **será** 40 $\mu\text{g/mL}$. La concentración es 5000 $\mu\text{g/mL}$. La opción (b) indica que **no** será 40 $\mu\text{g/mL}$."
-  },
+   },
   {
     "id": 94,
     "tema": "Dermatología / Manifestación Sistémica",
@@ -1202,7 +1173,7 @@
   {
     "id": 97,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se debe pasar una dosis de $500 \, \text{mg}$ de Ciprofloxacino en $60$ minutos. La concentración es de $2 \, \text{mg/mL}$. ¿Cuál es el volumen total de infusión y la velocidad en $\text{mL/h}$?",
+    "pregunta": "Se debe pasar una dosis de 500 , mg de Ciprofloxacino en 60 minutos. La concentración es de 2 mg/mL. ¿Cuál es el volumen total de infusión y la velocidad en mL/h?",
     "opciones": {
       "a": "Volumen: 250 mL; Velocidad: 250 mL/h",
       "b": "Volumen: 100 mL; Velocidad: 100 mL/h",
@@ -1210,8 +1181,7 @@
       "d": "Volumen: 200 mL; Velocidad: 200 mL/h"
     },
     "respuesta_correcta": "a",
-    "justificacion": "Volumen total: $500 \, \text{mg} / 2 \, \text{mg/mL} = 250 \, \text{mL}$. Velocidad: $250 \, \text{mL} / 1 \, \text{h} = 250 \, \text{mL/h}$."
-  },
+     },
   {
     "id": 98,
     "tema": "Leyes de Trasplante",
@@ -1241,7 +1211,7 @@
   {
     "id": 100,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se pide $15 \, \text{mg}$ de Morfina IV. La ampolla tiene $10 \, \text{mg/mL}$. Si se diluye la dosis en una jeringa de $10 \, \text{mL}$ de solución salina, ¿cuál es el volumen total de la dilución en $\text{mL}$ que se va a administrar?",
+    "pregunta": "Se pide 15 mg de Morfina IV. La ampolla tiene 10 mg/mL. Si se diluye la dosis en una jeringa de 10 mL de solución salina, ¿cuál es el volumen total de la dilución en mL que se va a administrar?",
     "opciones": {
       "a": "1.5 mL",
       "b": "10.0 mL",
@@ -1249,6 +1219,5 @@
       "d": "15.0 mL"
     },
     "respuesta_correcta": "c",
-    "justificacion": "Volumen de Morfina: $15 \, \text{mg} / 10 \, \text{mg/mL} = 1.5 \, \text{mL}$. Volumen total a administrar: $1.5 \, \text{mL} (\text{Morfina}) + 10 \, \text{mL} (\text{SSN}) = 11.5 \, \text{mL}$."
-  }
+    }
 ]
