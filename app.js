@@ -1,11 +1,28 @@
-// Configuración
-const ADMIN_KEY = "admin123";
+/ Configuración
+const ADMIN_KEY = "Teamopi91";
 let claveAlumnos = localStorage.getItem("claveAlumnos") || generarClave();
 let claveExpira = localStorage.getItem("claveExpira") || Date.now() + 48*60*60*1000;
 const especialidades = [
     ...Array.from({length: 20}, (_,i) => `Medicina - Especialidad ${i+1}`),
     ...Array.from({length: 20}, (_,i) => `Enfermería - Especialidad ${i+1}`)
 ];
+// Mapeo de especialidades a archivos JSON
+const specialtyToFile = {
+    "Medicina - Especialidad 1": "anestesiologia",
+    "Medicina - Especialidad 2": "cardiologia",
+    "Medicina - Especialidad 3": "dermatologia",
+    "Medicina - Especialidad 4": "diagnostico_imagenes",
+    "Medicina - Especialidad 5": "hematologia",
+    "Medicina - Especialidad 6": "neumonologia",
+    "Medicina - Especialidad 7": "neurologia",
+    "Medicina - Especialidad 8": "oncologia",
+    "Medicina - Especialidad 9": "ortopedia",
+    "Medicina - Especialidad 10": "otorrinolaringologia",
+    "Medicina - Especialidad 11": "pediatria",
+    "Medicina - Especialidad 12": "psiquiatria",
+    "Medicina - Especialidad 13": "tocoginecologia",
+    "Medicina - Especialidad 14": "urologia",
+};
 // Reemplazo: generar preguntas temáticas por especialidad (Medicina vs Enfermería)
 const preguntasPorEspecialidad = {};
 
@@ -132,9 +149,26 @@ function cargarEspecialidades() {
         sel.appendChild(opt);
     });
 }
-function iniciarExamen() {
+async function iniciarExamen() {
     especialidadActual = document.getElementById("especialidadSelect").value;
-    preguntasActuales = preguntasPorEspecialidad[especialidadActual];
+    const fileName = specialtyToFile[especialidadActual];
+    if (fileName) {
+        try {
+            const response = await fetch(`data_final/${fileName}.json`);
+            const data = await response.json();
+            preguntasActuales = data.map(item => ({
+                pregunta: item.question,
+                opciones: item.options,
+                correcta: item.answer - 1  // Convertir de 1-based a 0-based
+            }));
+        } catch (error) {
+            console.error("Error cargando preguntas:", error);
+            alert("Error cargando preguntas. Usando preguntas generadas.");
+            preguntasActuales = preguntasPorEspecialidad[especialidadActual];
+        }
+    } else {
+        preguntasActuales = preguntasPorEspecialidad[especialidadActual];
+    }
     respuestas = [];
     preguntaIdx = 0;
     tiempoRestante = 4 * 60 * 60;
