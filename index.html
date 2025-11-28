@@ -1,512 +1,40 @@
-<!DOCTYPE html>
+ !DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Examen Médico y de Enfermeria - Sistema de Evaluación</title>
-    <!-- Incluir Tailwind CSS para un estilo moderno y responsivo -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Íconos de Font Awesome -->
+    <title>Examen Médico y Enfermeria- Sistema de Evaluación</title>
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        /* Estilos generales */
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #f3f4f6;
-            color: #1f2937;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            margin: 0;
-        }
-        #app {
-            background: white;
-            border-radius: 1.5rem;
-            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-            width: 100%;
-            max-width: 1024px;
-            overflow: hidden;
-            min-height: 80vh;
-            display: flex;
-            flex-direction: column;
-            position: relative;
-        }
-        .screen {
-            padding: 2rem;
-            display: none;
-            width: 100%;
-            flex-grow: 1;
-        }
-        .screen.active {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-        }
-
-        /* Contenedores de Pantallas */
-        .selection-container, .login-container, .admin-container, .especialidad-container, .result-container {
-            max-width: 450px;
-            width: 100%;
-            padding: 2rem;
-            text-align: center;
-        }
-
-        /* Elementos de UI */
-        .logo, .logo-grande {
-            font-size: 3rem;
-            color: #10b981; /* Verde esmeralda */
-            margin-bottom: 1rem;
-        }
-        .logo-grande {
-            font-size: 5rem;
-        }
-        .input-field {
-            width: 100%;
-            padding: 0.75rem;
-            margin-bottom: 1rem;
-            border: 1px solid #d1d5db;
-            border-radius: 0.5rem;
-            transition: all 0.2s;
-        }
-        .input-field:focus {
-            border-color: #10b981;
-            box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.25);
-        }
-        
-        /* Estilo para el SELECT (Menú Desplegable) */
-        .select-field {
-            -webkit-appearance: none;
-            -moz-appearance: none;
-            appearance: none;
-            background-color: white;
-            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='none'%3e%3cpath d='M6 8l4 4 4-4' stroke='%234B5563' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3e%3c/svg%3e");
-            background-repeat: no-repeat;
-            background-position: right 0.75rem center;
-            background-size: 1.5em 1.5em;
-            cursor: pointer;
-        }
-
-        .btn {
-            padding: 0.75rem 1.5rem;
-            border-radius: 0.5rem;
-            font-weight: 600;
-            transition: background-color 0.2s;
-            cursor: pointer;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-        }
-        .btn-primary {
-            background-color: #10b981;
-            color: white;
-        }
-        .btn-primary:hover {
-            background-color: #059669;
-        }
-        .btn-secondary {
-            background-color: #e5e7eb;
-            color: #4b5563;
-        }
-        .btn-secondary:hover {
-            background-color: #d1d5db;
-        }
-        .btn-full {
-            width: 100%;
-        }
-        .error-msg {
-            color: #ef4444;
-            margin-top: -0.5rem;
-            margin-bottom: 1rem;
-        }
-
-        /* Selección de Rol */
-        .roles-grid {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 1rem;
-            margin-top: 2rem;
-        }
-        @media (min-width: 640px) {
-            .roles-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
-        .role-card {
-            padding: 1.5rem;
-            border: 2px solid #e5e7eb;
-            border-radius: 1rem;
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-        .role-card:hover {
-            border-color: #10b981;
-            box-shadow: 0 4px 6px -1px rgba(16, 185, 129, 0.1);
-        }
-
-        /* Pantalla de Administrador (mantenida de la versión anterior) */
-        .screen-header {
-            width: 100%;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 2rem;
-            max-width: 100%;
-        }
-        .clave-display {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background-color: #f9fafb;
-            padding: 0.75rem;
-            border-radius: 0.5rem;
-            margin-bottom: 1rem;
-        }
-        .clave-display code {
-            font-size: 1.25rem;
-            margin-right: 1rem;
-            font-weight: bold;
-            color: #4b5563;
-        }
-
-        /* Pantalla de Examen (mantenida de la versión anterior) */
-        #examenSection {
-            display: none;
-            flex-direction: column;
-            padding: 0;
-            width: 100%;
-            max-width: none;
-            min-height: 80vh;
-        }
-        #examenSection.active {
-            display: flex;
-        }
-        .exam-container {
-            display: flex;
-            width: 100%;
-            flex-grow: 1;
-        }
-        .exam-main {
-            flex-grow: 1;
-            display: flex;
-            flex-direction: column;
-            padding: 1.5rem;
-        }
-        .exam-top-bar {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 1.5rem;
-            padding-bottom: 0.5rem;
-            border-bottom: 1px solid #e5e7eb;
-        }
-        .timer-display {
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: #ef4444;
-            display: flex;
-            align-items: center;
-        }
-        .timer-display i {
-            margin-right: 0.5rem;
-        }
-        .progress-info {
-            flex-grow: 1;
-            margin-right: 1rem;
-        }
-        .progress-item {
-            font-size: 0.875rem;
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 0.25rem;
-        }
-        .progress-bar {
-            background-color: #e5e7eb;
-            height: 8px;
-            border-radius: 4px;
-            overflow: hidden;
-        }
-        .progress-fill {
-            height: 100%;
-            background-color: #10b981;
-            width: 0%;
-            transition: width 0.3s;
-        }
-
-        .question-section {
-            flex-grow: 1;
-            overflow-y: auto;
-            padding-bottom: 1rem;
-        }
-        .pregunta-text {
-            font-size: 1.125rem;
-            font-weight: 600;
-            margin-bottom: 1.5rem;
-        }
-        .opciones-container {
-            display: grid;
-            gap: 1rem;
-        }
-        .opcion-item {
-            padding: 1rem;
-            border: 2px solid #d1d5db;
-            border-radius: 0.75rem;
-            cursor: pointer;
-            transition: all 0.2s;
-            text-align: left;
-            user-select: none;
-        }
-        .opcion-item:hover {
-            border-color: #6b7280;
-        }
-        .opcion-item.selected-answer {
-            background-color: #bfdbfe; /* Azul claro para selección */
-            border-color: #3b82f6;
-        }
-
-        .exam-footer {
-            display: flex;
-            justify-content: space-between;
-            padding-top: 1rem;
-            border-top: 1px solid #e5e7eb;
-        }
-
-        /* Panel de Navegación */
-        .question-navigator {
-            width: 280px;
-            background-color: #f9fafb;
-            border-right: 1px solid #e5e7eb;
-            padding: 1.5rem;
-            display: flex;
-            flex-direction: column;
-            overflow-y: auto;
-        }
-        .nav-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 1rem;
-        }
-        .nav-menu {
-            margin-bottom: 1.5rem;
-        }
-        .questions-circles {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-        }
-        .question-circle {
-            width: 32px;
-            height: 32px;
-            border-radius: 50%;
-            background-color: #e5e7eb;
-            color: #4b5563;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-size: 0.875rem;
-            cursor: pointer;
-            transition: background-color 0.2s, color 0.2s;
-        }
-        .question-circle.current {
-            background-color: #10b981;
-            color: white;
-            font-weight: bold;
-        }
-        .question-circle.answered {
-            background-color: #3b82f6; /* Azul para respondida */
-            color: white;
-        }
-        .mobile-nav-btn {
-            display: none;
-        }
-
-        /* Responsive Examen */
-        @media (max-width: 1024px) {
-            .question-navigator {
-                position: absolute;
-                top: 0;
-                left: 0;
-                height: 100%;
-                z-index: 50;
-                transform: translateX(-100%);
-                transition: transform 0.3s ease-in-out;
-            }
-            .question-navigator.open {
-                transform: translateX(0);
-            }
-            .mobile-nav-btn {
-                display: block;
-            }
-        }
-        
-        /* Resultados */
-        .result-container {
-            max-width: 700px;
-        }
-        .result-cards {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 1rem;
-            margin-bottom: 2rem;
-        }
-        @media (min-width: 640px) {
-            .result-cards {
-                grid-template-columns: repeat(4, 1fr);
-            }
-        }
-        .result-card {
-            padding: 1.5rem;
-            border-radius: 1rem;
-            color: white;
-            text-align: center;
-            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-        }
-        .result-card.primary { background-color: #2563eb; }
-        .result-card.success { background-color: #10b981; }
-        .result-card.danger { background-color: #ef4444; }
-        .result-card.warning { background-color: #f97316; }
-        .result-value {
-            font-size: 2.5rem;
-            font-weight: 700;
-        }
-        .result-label {
-            font-size: 0.875rem;
-            opacity: 0.9;
-        }
-        .result-status {
-            margin-bottom: 2rem;
-            padding: 1.5rem;
-            border-radius: 1rem;
-        }
-        .result-status h2 {
-            font-size: 2rem;
-            font-weight: 700;
-            margin-bottom: 0.5rem;
-        }
-        .result-status.aprobado {
-            background-color: #d1fae5;
-            color: #065f46;
-            border: 2px solid #10b981;
-        }
-        .result-status.reprobado {
-            background-color: #fee2e2;
-            color: #991b1b;
-            border: 2px solid #ef4444;
-        }
-
-        /* Footer */
-        .app-footer {
-            width: 100%;
-            padding: 1.5rem 0;
-            background-color: #1f2937;
-            color: #f3f4f6;
-            text-align: center;
-            margin-top: auto; /* Empuja el footer hacia abajo */
-            border-top-left-radius: 0;
-            border-top-right-radius: 0;
-            border-bottom-left-radius: 1.5rem;
-            border-bottom-right-radius: 1.5rem;
-        }
-        .footer-content {
-            max-width: 1024px;
-            margin: 0 auto;
-            padding: 0 2rem;
-        }
-        .footer-content p, .footer-content a {
-            margin: 0.5rem 0;
-            font-size: 0.875rem;
-            display: block; /* Asegura que los enlaces y párrafos ocupen su propia línea si es necesario */
-        }
-        .footer-content a {
-            color: #10b981;
-            font-weight: 600;
-            text-decoration: none;
-        }
-        .footer-content a:hover {
-            text-decoration: underline;
-        }
-        .footer-content .colabora-btn {
-            background-color: #ff8c00; /* Naranja para el botón de colabora */
-            color: white;
-            padding: 0.5rem 1rem;
-            border-radius: 0.5rem;
-            margin-top: 1rem;
-            display: inline-flex;
-            align-items: center;
-        }
-        .footer-content .colabora-btn:hover {
-            background-color: #e57e00;
-        }
-
-        /* Loading Spinner */
-        .loading-overlay {
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background-color: rgba(255, 255, 255, 0.9);
-            display: none;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-            z-index: 60;
-            border-radius: 1.5rem;
-        }
-        .loading-overlay.active {
-            display: flex;
-        }
-        .spinner {
-            border: 4px solid rgba(0, 0, 0, 0.1);
-            border-left-color: #10b981;
-            border-radius: 50%;
-            width: 40px;
-            height: 40px;
-            animation: spin 1s linear infinite;
-            margin-bottom: 1rem;
-        }
-        @keyframes spin {
-            to { transform: rotate(360deg); }
-        }
-    </style>
 </head>
 <body>
     <div id="app">
-        
-        <!-- Indicador de Carga (Loading) -->
-        <div id="loadingOverlay" class="loading-overlay">
-            <div class="spinner"></div>
-            <p class="text-xl font-semibold text-gray-700">Cargando preguntas...</p>
-        </div>
-
         <!-- PANTALLA DE SELECCIÓN (Admin vs Alumno) -->
         <section id="seleccionSection" class="screen active">
             <div class="selection-container">
                 <div class="logo-grande">
                     <i class="fas fa-stethoscope"></i>
                 </div>
-                <h1 class="text-3xl font-bold mb-2">Sistema de Examen Médico</h1>
-                <p class="mb-8 text-gray-500">Selecciona tu rol para acceder</p>
+                <h1>Sistema de Examen Médico</h1>
+                <p>Selecciona tu rol para acceder</p>
                 
                 <div class="roles-grid">
                     <div class="role-card admin-card" onclick="mostrarLoginAdmin()">
                         <div class="role-icon">
                             <i class="fas fa-user-tie"></i>
                         </div>
-                        <h2 class="text-xl font-semibold mt-2">Administrador</h2>
-                        <p class="text-sm text-gray-400 mb-4">Gestiona claves y usuarios</p>
-                        <button class="btn btn-primary btn-full">Ingresar como Admin</button>
+                        <h2>Administrador</h2>
+                        <p>Gestiona claves y usuarios</p>
+                        <button class="btn btn-primary">Ingresar como Admin</button>
                     </div>
 
                     <div class="role-card alumno-card" onclick="mostrarLoginAlumno()">
                         <div class="role-icon">
                             <i class="fas fa-user-graduate"></i>
                         </div>
-                        <h2 class="text-xl font-semibold mt-2">Alumno</h2>
-                        <p class="text-sm text-gray-400 mb-4">Realiza tu examen médico</p>
-                        <button class="btn btn-primary btn-full">Ingresar como Alumno</button>
+                        <h2>Alumno</h2>
+                        <p>Realiza tu examen médico</p>
+                        <button class="btn btn-primary">Ingresar como Alumno</button>
                     </div>
                 </div>
             </div>
@@ -515,15 +43,15 @@
         <!-- PANTALLA DE LOGIN ADMINISTRADOR -->
         <section id="loginAdminSection" class="screen">
             <div class="login-container">
-                <button onclick="volverASeleccion()" class="btn btn-secondary btn-small absolute top-5 left-5">
+                <button onclick="volverASeleccion()" class="btn btn-small" style="position: absolute; top: 20px; left: 20px;">
                     <i class="fas fa-arrow-left"></i> Volver
                 </button>
                 
                 <div class="logo">
                     <i class="fas fa-lock"></i>
                 </div>
-                <h1 class="text-2xl font-bold mb-2">Acceso Administrador</h1>
-                <p class="mb-4 text-gray-500">Ingresa la clave de administrador</p>
+                <h1>Acceso Administrador</h1>
+                <p>Ingresa la clave de administrador</p>
                 
                 <div class="input-group">
                     <input type="password" id="claveAdminInput" placeholder="Clave de administrador" class="input-field">
@@ -533,7 +61,7 @@
                 </div>
                 <p id="loginAdminMsg" class="error-msg"></p>
                 
-                <div class="footer-info mt-4 text-sm text-gray-400">
+                <div class="footer-info">
                     <p><small>Clave por defecto: Teamopi91</small></p>
                 </div>
             </div>
@@ -542,15 +70,15 @@
         <!-- PANTALLA DE LOGIN ALUMNO -->
         <section id="loginAlumnoSection" class="screen">
             <div class="login-container">
-                <button onclick="volverASeleccion()" class="btn btn-secondary btn-small absolute top-5 left-5">
+                <button onclick="volverASeleccion()" class="btn btn-small" style="position: absolute; top: 20px; left: 20px;">
                     <i class="fas fa-arrow-left"></i> Volver
                 </button>
                 
                 <div class="logo">
                     <i class="fas fa-graduation-cap"></i>
                 </div>
-                <h1 class="text-2xl font-bold mb-2">Acceso Alumno</h1>
-                <p class="mb-4 text-gray-500">Ingresa tu clave para acceder al examen</p>
+                <h1>Acceso Alumno</h1>
+                <p>Ingresa tu clave para acceder al examen</p>
                 
                 <div class="input-group">
                     <input type="password" id="claveAlumnoInput" placeholder="Tu clave de acceso" class="input-field">
@@ -560,9 +88,9 @@
                 </div>
                 <p id="loginAlumnoMsg" class="error-msg"></p>
                 
-                <div class="footer-info mt-4 text-sm text-gray-400">
-                    <p>Duración del examen: 4 horas</p>
-                    <p>Solicita tu clave al administrador</p>
+                <div class="footer-info">
+                    <p><small>Solicita tu clave al administrador</small></p>
+                    <p><small>Duración del examen: 4 horas</small></p>
                 </div>
             </div>
         </section>
@@ -571,55 +99,48 @@
         <section id="adminSection" class="screen">
             <div class="admin-container">
                 <header class="screen-header">
-                    <h1 class="text-2xl font-bold"><i class="fas fa-lock text-yellow-500"></i> Panel Administrador</h1>
-                    <button onclick="logout()" class="btn btn-secondary">
+                    <h1><i class="fas fa-lock"></i> Panel Administrador</h1>
+                    <button onclick="logout()" class="btn btn-small">
                         <i class="fas fa-sign-out-alt"></i> Salir
                     </button>
                 </header>
                 
-                <div class="admin-content w-full">
-                    <div class="admin-card p-6 border border-gray-200 rounded-xl shadow-lg">
-                        <h2 class="text-xl font-semibold mb-3">Gestión de Claves</h2>
-                        <p class="mb-2 text-gray-600">Clave actual para alumnos:</p>
-                        <div class="clave-display mb-4">
-                            <code id="claveAlumnos" class="text-xl">****</code>
-                            <button onclick="copiarClave()" class="btn btn-secondary btn-small">
+                <div class="admin-content">
+                    <div class="admin-card">
+                        <h2>Gestión de Claves</h2>
+                        <p>Clave actual para alumnos:</p>
+                        <div class="clave-display">
+                            <code id="claveAlumnos">****</code>
+                            <button onclick="copiarClave()" class="btn btn-small">
                                 <i class="fas fa-copy"></i> Copiar
                             </button>
                         </div>
-                        <button onclick="regenerarClave()" class="btn btn-primary btn-full mb-3">
+                        <button onclick="regenerarClave()" class="btn btn-primary">
                             <i class="fas fa-refresh"></i> Regenerar Clave
                         </button>
-                        <p id="regenerarMsg" class="info-text text-sm text-green-600"></p>
-                        <p class="info-text text-xs text-gray-500 mt-2"><small>La clave expira en 48 horas (simulación)</small></p>
+                        <p class="info-text"><small>La clave expira en 48 horas</small></p>
                     </div>
                 </div>
             </div>
         </section>
 
-        <!-- PANTALLA DE SELECCIÓN DE ESPECIALIDAD CON SELECT -->
+        <!-- PANTALLA DE SELECCIÓN DE ESPECIALIDAD -->
         <section id="especialidadSection" class="screen">
             <div class="especialidad-container">
-                <header class="screen-header flex-col items-center">
-                    <h1 class="text-2xl font-bold mb-2"><i class="fas fa-book text-blue-500"></i> Selecciona tu Especialidad</h1>
-                    <p class="text-gray-600 mb-6">Tendrás 4 horas para completar las preguntas. ¡Asegúrate de estar listo!</p>
-                    <button onclick="logout()" class="btn btn-secondary absolute top-5 right-5">
+                <header class="screen-header">
+                    <h1><i class="fas fa-book"></i> Selecciona tu Especialidad</h1>
+                    <button onclick="logout()" class="btn btn-small">
                         <i class="fas fa-sign-out-alt"></i> Salir
                     </button>
                 </header>
 
-                <div class="input-group mb-8">
-                    <select id="selectEspecialidad" class="input-field select-field text-lg text-gray-700">
-                        <option value="" disabled selected>-- Elige una Especialidad --</option>
-                        <!-- Las opciones se cargan aquí por JS -->
-                    </select>
+                <div class="especialidades-grid">
+                    <div id="especialidadList"></div>
                 </div>
-                <p class="text-xs text-gray-500 mb-4">Nota: El sistema intentará cargar el archivo `datos_finales.json` de tu repositorio de GitHub para la especialidad seleccionada.</p>
 
-                <div class="action-buttons mt-8">
-                    <p id="especialidadMsg" class="error-msg mb-4"></p>
-                    <button onclick="iniciarExamen()" class="btn btn-primary btn-large w-full">
-                        <i class="fas fa-play"></i> Cargar y Comenzar Examen
+                <div class="action-buttons">
+                    <button onclick="iniciarExamen()" class="btn btn-primary btn-large">
+                        <i class="fas fa-play"></i> Comenzar Examen
                     </button>
                 </div>
             </div>
@@ -629,17 +150,16 @@
         <section id="examenSection" class="screen">
             <div class="exam-container">
                 <!-- Panel lateral de navegación -->
-                <aside class="question-navigator" id="questionNavigator">
+                <aside class="question-navigator">
                     <div class="nav-header">
-                        <h3 class="text-lg font-semibold">Navegador</h3>
-                        <button onclick="toggleNavigator()" class="btn btn-secondary btn-small text-lg block lg:hidden">
+                        <h3>Navegador</h3>
+                        <button onclick="toggleNavigator()" class="btn btn-small">
                             <i class="fas fa-times"></i>
                         </button>
                     </div>
                     <div class="nav-menu">
-                        <p class="text-sm font-medium mb-2 text-gray-600">Especialidad: <span id="currentEspecialidad" class="font-bold text-gray-800"></span></p>
-                        <button onclick="finalizarExamenModal()" class="btn bg-red-600 hover:bg-red-700 text-white btn-full mb-3">
-                            <i class="fas fa-flag-checkered"></i> Finalizar Examen
+                        <button onclick="cambiarEspecialidad()" class="btn btn-secondary btn-full">
+                            <i class="fas fa-exchange-alt"></i> Cambiar Especialidad
                         </button>
                     </div>
                     <div id="questionsNav" class="questions-circles"></div>
@@ -651,32 +171,32 @@
                     <div class="exam-top-bar">
                         <div class="progress-info">
                             <div class="progress-item">
-                                <span class="label font-medium text-gray-600">Pregunta:</span>
-                                <span id="questionCounter" class="value font-semibold text-gray-800">0/0</span>
+                                <span class="label">Pregunta:</span>
+                                <span id="questionCounter" class="value">1/100</span>
                             </div>
                             <div class="progress-bar">
                                 <div id="progressFill" class="progress-fill"></div>
                             </div>
                         </div>
                         
-                        <div class="timer-display ml-4">
-                            <i class="fas fa-clock text-red-500"></i>
+                        <div class="timer-display">
+                            <i class="fas fa-clock"></i>
                             <span id="timerDisplay">04:00:00</span>
                         </div>
 
-                        <button onclick="toggleNavigator()" class="btn btn-secondary btn-small mobile-nav-btn">
+                        <button onclick="toggleNavigator()" class="btn btn-small mobile-nav-btn">
                             <i class="fas fa-bars"></i>
                         </button>
                     </div>
 
                     <!-- Pregunta -->
                     <div class="question-section">
-                        <div id="preguntaContainer" class="pregunta-text p-4 bg-gray-50 rounded-lg border">
+                        <div id="preguntaContainer" class="pregunta-text">
                             <!-- Pregunta se inserta aquí -->
                         </div>
 
                         <!-- Opciones -->
-                        <div id="opcionesContainer" class="opciones-container mt-6">
+                        <div id="opcionesContainer" class="opciones-container">
                             <!-- Opciones se insertan aquí -->
                         </div>
                     </div>
@@ -698,28 +218,23 @@
         <section id="resultadoSection" class="screen">
             <div class="result-container">
                 <div class="result-header">
-                    <h1 class="text-4xl font-extrabold mb-6"><i class="fas fa-chart-pie text-indigo-500"></i> Resultados del Examen</h1>
-                </div>
-
-                <div class="result-status mb-8" id="statusBox">
-                    <h2 id="resultadoEstado" class="text-3xl"></h2>
-                    <p id="resultadoMensaje"></p>
+                    <h1><i class="fas fa-chart-pie"></i> Resultados del Examen</h1>
                 </div>
 
                 <div class="result-cards">
                     <div class="result-card primary">
                         <div class="result-value" id="resultadoporcentaje">0%</div>
-                        <div class="result-label">Porcentaje Correctas</div>
+                        <div class="result-label">Porcentaje</div>
                     </div>
 
                     <div class="result-card success">
                         <div class="result-value" id="resultadoCorrectas">0</div>
-                        <div class="result-label">Respuestas Correctas</div>
+                        <div class="result-label">Correctas</div>
                     </div>
 
                     <div class="result-card danger">
                         <div class="result-value" id="resultadoIncorrectas">0</div>
-                        <div class="result-label">Respuestas Incorrectas</div>
+                        <div class="result-label">Incorrectas</div>
                     </div>
 
                     <div class="result-card warning">
@@ -728,626 +243,25 @@
                     </div>
                 </div>
 
-                <div class="result-details p-4 bg-gray-100 rounded-lg mt-6">
-                    <h3 class="text-lg font-semibold mb-2">Especialidad Rendida: <span id="resultadoEspecialidad" class="font-bold text-indigo-600"></span></h3>
-                    <p class="text-gray-600">Tiempo utilizado: <span id="resultadoTiempo"></span></p>
-                    <p class="text-sm font-bold mt-2 text-green-700">Nota: El porcentaje de aprobación requerido es del 70%.</p>
+                <div class="result-status">
+                    <h2 id="resultadoEstado"></h2>
+                    <p id="resultadoMensaje"></p>
                 </div>
 
-                <div class="action-buttons mt-8">
+                <div class="result-details">
+                    <h3>Especialidad: <span id="resultadoEspecialidad"></span></h3>
+                    <p>Tiempo utilizado: <span id="resultadoTiempo"></span></p>
+                </div>
+
+                <div class="action-buttons">
                     <button onclick="volverAlInicio()" class="btn btn-primary btn-large">
                         <i class="fas fa-home"></i> Volver al Inicio
                     </button>
                 </div>
             </div>
         </section>
-
-        <!-- Modal de Confirmación -->
-        <div id="confirmModal" class="fixed inset-0 bg-gray-900 bg-opacity-75 hidden items-center justify-center z-50">
-            <div class="bg-white p-8 rounded-xl shadow-2xl max-w-sm w-full text-center">
-                <h3 class="text-xl font-bold mb-4" id="modalTitle"></h3>
-                <p class="mb-6 text-gray-600" id="modalMessage"></p>
-                <div class="flex justify-center space-x-4">
-                    <button id="modalCancelBtn" class="btn btn-secondary">Cancelar</button>
-                    <button id="modalConfirmBtn" class="btn bg-red-600 hover:bg-red-700 text-white">Confirmar</button>
-                </div>
-            </div>
-        </div>
-
-        <!-- FOOTER con información de contacto y colaboración -->
-        <footer class="app-footer">
-            <div class="footer-content">
-                <!-- Información de contacto solicitada -->
-                <p>Para dudas, comentarios u observaciones, escríbenos a: <a href="mailto:deepwebcb@gmail.com" class="font-bold">deepwebcb@gmail.com</a></p>
-                <p>Visita nuestro sitio: <a href="https://deepweb.com.ar/" target="_blank" class="font-bold">https://deepweb.com.ar/</a></p>
-                
-                <p>Tu colaboración es importante para mantener y mejorar el sistema:</p>
-                <a href="https://cafecito.app/celinabord9" target="_blank" class="colabora-btn">
-                    <i class="fas fa-heart mr-2"></i> Colabora en Cafecito
-                </a>
-            </div>
-        </footer>
     </div>
 
-    <script>
-        // --- CONFIGURACIÓN GLOBAL ---
-        const ADMIN_CLAVE = "Teamopi91";
-        let ALUMNO_CLAVE = "Medicina2024"; 
-        let currentUserId = null;
-        let selectedEspecialidad = null;
-        let examenTimer = null;
-        const EXAMEN_DURATION_MS = 4 * 60 * 60 * 1000; // 4 horas en milisegundos
-        const MIN_APPROVAL_PERCENTAGE = 70; // Porcentaje mínimo de aprobación
-        
-        // !!! IMPORTANTE: REEMPLAZA ESTAS VARIABLES CON TU REPOSITORIO DE GITHUB !!!
-        // Esta URL apunta a la rama 'main' donde deben estar tus archivos JSON.
-        // Ejemplo: https://raw.githubusercontent.com/deepwebcb/datos-examen-medico/main/datos_finales.json
-        const GITHUB_BASE_URL = "https://raw.githubusercontent.com/[TU_USUARIO_GITHUB]/[TU_REPOSITORIO]/main/";
-        // !!! FIN DE SECCIÓN IMPORTANTE !!!
-
-        // ESTRUCTURA DE ESPECIALIDADES (USADAS PARA CREAR LOS NOMBRES DE ARCHIVO)
-        const especialidades = [
-            "Anestesiología",
-            "Cardiología",
-            "Dermatología",
-            "Diagnóstico por Imágenes",
-            "Hematología",
-            "Neumonología",
-            "Neurología",
-            "Oncología",
-            "Ortopedia",
-            "Otorrinolaringología",
-            "Pediatría",
-            "Psiquiatría",
-            "Tocoginecología",
-            "Urología"
-        ];
-        
-        let examQuestions = [];
-        let currentQuestionIndex = 0;
-        let studentAnswers = {};
-        let startTime = null;
-        let totalTimeUsed = 0;
-
-        /**
-         * Muestra/oculta el indicador de carga.
-         * @param {boolean} isLoading - Si es true, muestra la superposición de carga.
-         */
-        function setLoading(isLoading) {
-            const loadingOverlay = document.getElementById('loadingOverlay');
-            if (isLoading) {
-                loadingOverlay.classList.add('active');
-            } else {
-                loadingOverlay.classList.remove('active');
-            }
-        }
-
-        /**
-         * Genera el nombre del archivo esperado en GitHub.
-         * Simplifica la especialidad para usarla como nombre de archivo.
-         * Ej: "Diagnóstico por Imágenes" -> "diagnostico_por_imagenes.json"
-         * @param {string} especialidad - La especialidad.
-         * @returns {string} El nombre de archivo esperado.
-         */
-        function getFilename(especialidad) {
-            // Convierte a minúsculas, reemplaza espacios por guiones bajos y elimina acentos/caracteres especiales.
-            const baseName = especialidad
-                .toLowerCase()
-                .replace(/ /g, '_')
-                .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
-                .replace(/[^a-z0-9_]/g, '');
-            
-            return `${baseName}.json`;
-        }
-
-
-        /**
-         * Función asíncrona para cargar las preguntas desde GitHub.
-         * EXPECTATIVA DE ESTRUCTURA DEL JSON:
-         * Debe ser un Array de objetos, donde cada objeto Question tiene:
-         * {
-         * "id": 1,
-         * "text": "¿Cuál es la causa más común de dolor abdominal agudo en el cuadrante inferior derecho?",
-         * "options": ["Apendicitis", "Colecistitis", "Pancreatitis", "Diverticulitis"],
-         * "answer": "Apendicitis"
-         * }
-         * * @param {string} especialidad - La especialidad seleccionada.
-         * @returns {Promise<Array<Object>>} Una promesa que resuelve con el array de preguntas.
-         */
-        async function fetchQuestions(especialidad) {
-            const fileName = getFilename(especialidad);
-            const url = `${GITHUB_BASE_URL}datos_finales/${fileName}`;
-
-            document.getElementById('especialidadMsg').textContent = `Cargando datos desde: ${url}`;
-            setLoading(true);
-
-            try {
-                const response = await fetch(url);
-
-                if (!response.ok) {
-                    throw new Error(`Error al cargar los datos: ${response.status} - ${response.statusText}. Asegúrate de que el archivo "${fileName}" exista en tu repositorio y que la URL base sea correcta.`);
-                }
-
-                const data = await response.json();
-
-                if (!Array.isArray(data) || data.length === 0) {
-                     throw new Error('El archivo JSON está vacío o no es un array válido. Asegúrate de que contenga preguntas.');
-                }
-
-                // Validar y filtrar preguntas válidas
-                const validQuestions = data.filter((q, index) => {
-                    if (!q || typeof q !== 'object') {
-                        console.warn(`Pregunta ${index + 1} es null o undefined, se omitirá.`);
-                        return false;
-                    }
-                    if (!q.text || typeof q.text !== 'string' || q.text.trim() === '') {
-                        console.warn(`Pregunta ${index + 1} no tiene texto válido, se omitirá.`);
-                        return false;
-                    }
-                    if (!Array.isArray(q.options) || q.options.length < 2) {
-                        console.warn(`Pregunta ${index + 1} no tiene opciones válidas (debe ser un array con al menos 2 elementos), se omitirá.`);
-                        return false;
-                    }
-                    if (!q.answer || typeof q.answer !== 'string' || q.answer.trim() === '') {
-                        console.warn(`Pregunta ${index + 1} no tiene respuesta válida, se omitirá.`);
-                        return false;
-                    }
-                    // Verificar que la respuesta esté entre las opciones
-                    if (!q.options.includes(q.answer)) {
-                        console.warn(`Pregunta ${index + 1}: la respuesta no está entre las opciones, se omitirá.`);
-                        return false;
-                    }
-                    return true;
-                });
-
-                if (validQuestions.length === 0) {
-                    throw new Error('No se encontraron preguntas válidas en el archivo JSON. Asegúrate de que cada pregunta tenga texto, opciones y respuesta válidas.');
-                }
-
-                if (validQuestions.length < data.length) {
-                    console.warn(`${data.length - validQuestions.length} preguntas inválidas fueron omitidas.`);
-                }
-
-                // Asegurar que las preguntas tengan un ID si no lo tienen
-                return validQuestions.map((q, index) => ({
-                    ...q,
-                    id: q.id || index + 1
-                }));
-            } catch (error) {
-                console.error("Error en la carga de preguntas:", error);
-                throw new Error(`Error de carga: ${error.message}`);
-            } finally {
-                setLoading(false);
-            }
-        }
-
-        // --- FUNCIONES DE NAVEGACIÓN DE PANTALLAS (MANTENIDAS) ---
-
-        function showScreen(screenId) {
-            document.querySelectorAll('.screen').forEach(screen => {
-                screen.classList.remove('active');
-            });
-            document.getElementById(screenId).classList.add('active');
-        }
-
-        function volverASeleccion() {
-            // Limpiar campos de login
-            document.getElementById('claveAdminInput').value = '';
-            document.getElementById('claveAlumnoInput').value = '';
-            document.getElementById('loginAdminMsg').textContent = '';
-            document.getElementById('loginAlumnoMsg').textContent = '';
-            currentUserId = null;
-            showScreen('seleccionSection');
-        }
-
-        function mostrarLoginAdmin() {
-            showScreen('loginAdminSection');
-        }
-
-        function mostrarLoginAlumno() {
-            showScreen('loginAlumnoSection');
-        }
-
-        function logout() {
-            currentUserId = null;
-            selectedEspecialidad = null;
-            clearInterval(examenTimer); // Detener el timer si está activo
-            showScreen('seleccionSection');
-        }
-
-        // --- FUNCIONES DE AUTENTICACIÓN (MANTENIDAS) ---
-
-        function loginAdmin() {
-            const input = document.getElementById('claveAdminInput').value;
-            const msg = document.getElementById('loginAdminMsg');
-            if (input === ADMIN_CLAVE) {
-                currentUserId = 'admin';
-                msg.textContent = '';
-                document.getElementById('claveAdminInput').value = '';
-                showScreen('adminSection');
-                document.getElementById('claveAlumnos').textContent = ALUMNO_CLAVE;
-            } else {
-                msg.textContent = 'Clave incorrecta.';
-            }
-        }
-
-        function loginAlumno() {
-            const input = document.getElementById('claveAlumnoInput').value;
-            const msg = document.getElementById('loginAlumnoMsg');
-            if (input === ALUMNO_CLAVE) {
-                currentUserId = 'alumno-' + Date.now(); // ID único para el alumno simulado
-                msg.textContent = '';
-                document.getElementById('claveAlumnoInput').value = '';
-                // Ir a selección de especialidad
-                loadEspecialidades(); // Carga las opciones del <select>
-                showScreen('especialidadSection');
-            } else {
-                msg.textContent = 'Clave de acceso incorrecta. Solicita una nueva clave al administrador.';
-            }
-        }
-
-        // --- FUNCIONES DE ADMINISTRADOR (MANTENIDAS) ---
-
-        function regenerarClave() {
-            // Simulación de regeneración de clave
-            const newKey = Math.random().toString(36).substring(2, 10).toUpperCase();
-            ALUMNO_CLAVE = newKey;
-            document.getElementById('claveAlumnos').textContent = '****';
-            document.getElementById('regenerarMsg').textContent = '¡Clave regenerada con éxito! (nueva clave: ' + newKey + ')';
-            setTimeout(() => {
-                document.getElementById('claveAlumnos').textContent = ALUMNO_CLAVE;
-                document.getElementById('regenerarMsg').textContent = '';
-            }, 1000);
-        }
-
-        function copiarClave() {
-            // Función para copiar texto
-            const claveElement = document.getElementById('claveAlumnos');
-            const claveText = claveElement.textContent;
-            
-            const tempInput = document.createElement('textarea');
-            tempInput.value = claveText;
-            document.body.appendChild(tempInput);
-            tempInput.select();
-            
-            try {
-                document.execCommand('copy');
-                console.log('Clave copiada al portapapeles: ' + claveText); 
-            } catch (err) {
-                console.error('No se pudo copiar: ', err);
-            }
-            document.body.removeChild(tempInput);
-        }
-
-        // --- FUNCIONES DE SELECCIÓN DE ESPECIALIDAD ---
-
-        function loadEspecialidades() {
-            const select = document.getElementById('selectEspecialidad');
-            // Limpiar opciones previas, manteniendo el placeholder
-            select.innerHTML = '<option value="" disabled selected>-- Elige una Especialidad --</option>';
-            
-            especialidades.forEach(esp => {
-                const option = document.createElement('option');
-                option.value = esp;
-                option.textContent = esp;
-                select.appendChild(option);
-            });
-            document.getElementById('especialidadMsg').textContent = '';
-        }
-
-        async function iniciarExamen() {
-            const select = document.getElementById('selectEspecialidad');
-            selectedEspecialidad = select.value;
-
-            const msg = document.getElementById('especialidadMsg');
-            msg.textContent = '';
-
-            if (!selectedEspecialidad) {
-                msg.textContent = 'Debes seleccionar una especialidad para comenzar.';
-                return;
-            }
-            
-            try {
-                // 1. Cargar las preguntas desde GitHub (asíncrono)
-                examQuestions = await fetchQuestions(selectedEspecialidad);
-
-                // 2. Si la carga es exitosa, inicializar el examen
-                if (examQuestions.length === 0) {
-                     msg.textContent = 'Error: El examen no contiene preguntas válidas para esta especialidad.';
-                     return;
-                }
-                
-                currentQuestionIndex = 0;
-                studentAnswers = {};
-                startTime = Date.now();
-                totalTimeUsed = 0;
-
-                document.getElementById('currentEspecialidad').textContent = selectedEspecialidad;
-                
-                showScreen('examenSection');
-                startTimer();
-                renderQuestion();
-                renderQuestionNavigator();
-                
-            } catch (error) {
-                // Manejar errores de fetch o JSON
-                msg.textContent = error.message;
-            }
-        }
-
-        // --- FUNCIONES DE EXAMEN Y TIEMPO (AJUSTADAS) ---
-
-        function startTimer() {
-            const timerDisplay = document.getElementById('timerDisplay');
-            let remainingTime = EXAMEN_DURATION_MS;
-
-            function updateTime() {
-                remainingTime -= 1000;
-                totalTimeUsed = EXAMEN_DURATION_MS - remainingTime;
-                
-                if (remainingTime <= 0) {
-                    clearInterval(examenTimer);
-                    endExamen(true); // El examen termina por tiempo
-                    return;
-                }
-
-                // Calcular horas, minutos y segundos
-                const hours = Math.floor(remainingTime / (1000 * 60 * 60));
-                const minutes = Math.floor((remainingTime % (1000 * 60 * 60)) / (1000 * 60));
-                const seconds = Math.floor((remainingTime % (1000 * 60)) / 1000);
-
-                // Formato HH:MM:SS
-                const timeString = 
-                    String(hours).padStart(2, '0') + ':' + 
-                    String(minutes).padStart(2, '0') + ':' + 
-                    String(seconds).padStart(2, '0');
-
-                timerDisplay.textContent = timeString;
-
-                // Alerta de tiempo restante (ej. últimos 5 minutos - solo en consola)
-                if (remainingTime < 5 * 60 * 1000 && remainingTime % (60 * 1000) === 0) {
-                    console.log(`¡Advertencia! Quedan ${Math.ceil(remainingTime / (60 * 1000))} minutos.`);
-                }
-            }
-
-            updateTime();
-            examenTimer = setInterval(updateTime, 1000);
-        }
-
-        function renderQuestion() {
-            if (examQuestions.length === 0) return;
-            
-            const question = examQuestions[currentQuestionIndex];
-            const totalQuestions = examQuestions.length;
-            
-            document.getElementById('preguntaContainer').textContent = `${currentQuestionIndex + 1}. ${question.text}`;
-            document.getElementById('questionCounter').textContent = `${currentQuestionIndex + 1}/${totalQuestions}`;
-            document.getElementById('progressFill').style.width = `${((currentQuestionIndex + 1) / totalQuestions) * 100}%`;
-
-            const opcionesContainer = document.getElementById('opcionesContainer');
-            opcionesContainer.innerHTML = '';
-
-            // Renderizado de las opciones (debe haber al menos 2)
-            if (Array.isArray(question.options) && question.options.length > 1) {
-                 question.options.forEach((option, index) => {
-                    const item = document.createElement('div');
-                    item.className = 'opcion-item';
-                    item.textContent = `${String.fromCharCode(65 + index)}. ${option}`;
-                    item.dataset.option = option;
-                    item.onclick = () => selectAnswer(option, item);
-                    
-                    // Marcar respuesta previamente seleccionada
-                    if (studentAnswers[question.id] === option) {
-                        item.classList.add('selected-answer');
-                    }
-                    
-                    opcionesContainer.appendChild(item);
-                });
-            } else {
-                 opcionesContainer.innerHTML = '<p class="text-red-500">Error: No hay opciones válidas para esta pregunta.</p>';
-            }
-
-            // Actualizar botones de navegación
-            document.getElementById('btnAnterior').disabled = currentQuestionIndex === 0;
-            const btnSiguiente = document.getElementById('btnSiguiente');
-            if (currentQuestionIndex === totalQuestions - 1) {
-                btnSiguiente.textContent = 'Finalizar Examen';
-                btnSiguiente.onclick = finalizarExamenModal; // Llama a la modal de confirmación
-                btnSiguiente.classList.remove('btn-primary');
-                btnSiguiente.classList.add('bg-red-600', 'hover:bg-red-700', 'text-white');
-            } else {
-                btnSiguiente.textContent = 'Siguiente';
-                btnSiguiente.onclick = preguntaSiguiente;
-                btnSiguiente.classList.add('btn-primary');
-                btnSiguiente.classList.remove('bg-red-600', 'hover:bg-red-700', 'text-white');
-            }
-
-            // Actualizar estado en el navegador
-            updateQuestionCircleStatus(question.id, studentAnswers[question.id] ? 'answered' : 'current');
-        }
-
-        function selectAnswer(answer, element) {
-            const question = examQuestions[currentQuestionIndex];
-            studentAnswers[question.id] = answer;
-            
-            // Actualizar UI
-            document.querySelectorAll('.opcion-item').forEach(item => {
-                item.classList.remove('selected-answer');
-            });
-            element.classList.add('selected-answer');
-
-            updateQuestionCircleStatus(question.id, 'answered');
-        }
-
-        function preguntaSiguiente() {
-            if (currentQuestionIndex < examQuestions.length - 1) {
-                currentQuestionIndex++;
-                renderQuestion();
-            }
-        }
-
-        function preguntaAnterior() {
-            if (currentQuestionIndex > 0) {
-                currentQuestionIndex--;
-                renderQuestion();
-            }
-        }
-
-        function renderQuestionNavigator() {
-            const navContainer = document.getElementById('questionsNav');
-            navContainer.innerHTML = '';
-            examQuestions.forEach((q, index) => {
-                const circle = document.createElement('div');
-                circle.className = 'question-circle';
-                circle.textContent = index + 1;
-                circle.dataset.questionId = q.id;
-                circle.onclick = () => {
-                    currentQuestionIndex = index;
-                    renderQuestion();
-                    // En móviles, cerrar el navegador después de seleccionar
-                    if (window.innerWidth < 1024) toggleNavigator();
-                };
-                navContainer.appendChild(circle);
-            });
-            // La pregunta actual siempre debe ser la última en marcarse como 'current'
-            if (examQuestions.length > 0) {
-                updateQuestionCircleStatus(examQuestions[currentQuestionIndex].id, studentAnswers[examQuestions[currentQuestionIndex].id] ? 'answered' : 'current');
-            }
-        }
-
-        function updateQuestionCircleStatus(questionId, status) {
-            document.querySelectorAll('.question-circle').forEach(circle => {
-                circle.classList.remove('current'); // Quitar 'current' de todos
-                if (studentAnswers[parseInt(circle.dataset.questionId)]) {
-                     circle.classList.add('answered'); // Mantener 'answered' si tiene respuesta
-                } else {
-                     circle.classList.remove('answered'); // Quitar 'answered' si no tiene respuesta
-                }
-                
-                if (parseInt(circle.dataset.questionId) === questionId) {
-                    circle.classList.add('current');
-                }
-            });
-        }
-
-        function toggleNavigator() {
-            document.getElementById('questionNavigator').classList.toggle('open');
-        }
-
-        // --- FUNCIÓN DE FINALIZAR EXAMEN (OPERATIVO) ---
-
-        function finalizarExamenModal() {
-            // Muestra el modal de confirmación antes de llamar a endExamen
-            showModal('Finalizar Examen', `¿Estás seguro de que deseas finalizar el examen de ${examQuestions.length} preguntas?`, endExamen);
-        }
-
-        function endExamen(timeUp = false) {
-            clearInterval(examenTimer);
-            
-            const totalQuestions = examQuestions.length;
-            let correctas = 0;
-            let incorrectas = 0;
-            let sinResponder = 0;
-
-            // 1. Calcular resultados
-            examQuestions.forEach(q => {
-                const studentAnswer = studentAnswers[q.id];
-                if (!studentAnswer) {
-                    sinResponder++;
-                } else if (studentAnswer === q.answer) {
-                    correctas++;
-                } else {
-                    incorrectas++;
-                }
-            });
-
-            // 2. Cálculo del porcentaje de aprobación
-            const porcentaje = (correctas / totalQuestions) * 100;
-            const isApproved = porcentaje >= MIN_APPROVAL_PERCENTAGE;
-
-            // 3. Mostrar resultados
-            document.getElementById('resultadoEspecialidad').textContent = selectedEspecialidad;
-            document.getElementById('resultadoCorrectas').textContent = correctas;
-            document.getElementById('resultadoIncorrectas').textContent = incorrectas;
-            document.getElementById('resultadoSinResponder').textContent = sinResponder;
-            document.getElementById('resultadoporcentaje').textContent = `${porcentaje.toFixed(1)}%`;
-
-            // 4. Calcular tiempo utilizado
-            const totalSeconds = Math.floor(totalTimeUsed / 1000);
-            const hrs = Math.floor(totalSeconds / 3600);
-            const mins = Math.floor((totalSeconds % 3600) / 60);
-            const secs = totalSeconds % 60;
-            const timeUsedString = `${String(hrs).padStart(2, '0')}:${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
-            document.getElementById('resultadoTiempo').textContent = timeUsedString;
-
-            // 5. Estado de aprobación
-            const statusBox = document.getElementById('statusBox');
-            statusBox.classList.remove('aprobado', 'reprobado');
-            if (isApproved) {
-                document.getElementById('resultadoEstado').textContent = '¡APROBADO!';
-                document.getElementById('resultadoMensaje').textContent = `¡Felicidades! Has superado el ${MIN_APPROVAL_PERCENTAGE}% requerido.`;
-                statusBox.classList.add('aprobado');
-            } else {
-                document.getElementById('resultadoEstado').textContent = 'REPROBADO';
-                document.getElementById('resultadoMensaje').textContent = `No has alcanzado el ${MIN_APPROVAL_PERCENTAGE}% requerido. Tu puntaje fue de ${porcentaje.toFixed(1)}%.`;
-                statusBox.classList.add('reprobado');
-            }
-            
-            // Mensaje final en caso de terminar por tiempo
-            if (timeUp) {
-                document.getElementById('resultadoMensaje').textContent += " El examen finalizó por límite de tiempo.";
-            }
-
-            // 6. Mostrar pantalla de resultados
-            showScreen('resultadoSection');
-        }
-
-        function volverAlInicio() {
-            logout();
-        }
-
-        // --- FUNCIÓN DE MODAL GENÉRICA (MANTENIDA) ---
-        let modalCallback = null;
-
-        /**
-         * Muestra un modal de confirmación antes de una acción crítica.
-         * @param {string} title - Título del modal.
-         * @param {string} message - Mensaje del modal.
-         * @param {function} onConfirm - Función a ejecutar si el usuario confirma.
-         */
-        function showModal(title, message, onConfirm) {
-            document.getElementById('modalTitle').textContent = title;
-            document.getElementById('modalMessage').textContent = message;
-            document.getElementById('confirmModal').classList.remove('hidden');
-            document.getElementById('confirmModal').classList.add('flex');
-            modalCallback = onConfirm;
-
-            document.getElementById('modalConfirmBtn').onclick = () => {
-                closeModal();
-                if (modalCallback) {
-                    modalCallback();
-                }
-            };
-            document.getElementById('modalCancelBtn').onclick = closeModal;
-        }
-
-        function closeModal() {
-            document.getElementById('confirmModal').classList.add('hidden');
-            document.getElementById('confirmModal').classList.remove('flex');
-            modalCallback = null;
-        }
-
-        // --- INICIALIZACIÓN ---
-        window.onload = function() {
-            showScreen('seleccionSection');
-
-            document.addEventListener('keydown', (e) => {
-                if (e.key === 'Escape') {
-                    closeModal();
-                }
-            });
-        };
-
-    </script>
+    <script src="app.js"></script>
 </body>
 </html>
