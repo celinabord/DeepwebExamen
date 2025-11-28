@@ -788,16 +788,16 @@
         // ESTRUCTURA DE ESPECIALIDADES (USADAS PARA CREAR LOS NOMBRES DE ARCHIVO)
         const especialidades = [
             "Anestesiología",
-            "Cardiología", 
-            "Dermatología", 
+            "Cardiología",
+            "Dermatología",
             "Diagnóstico por Imágenes",
-            "Hematología", 
-            "Neumonología", 
-            "Neurología", 
-            "Oncología", 
-            "Ortopedia", 
-            "Otorrinolaringología", 
-            "Pediatría", 
+            "Hematología",
+            "Neumonología",
+            "Neurología",
+            "Oncología",
+            "Ortopedia",
+            "Otorrinolaringología",
+            "Pediatría",
             "Psiquiatría",
             "Tocoginecología",
             "Urología"
@@ -846,10 +846,10 @@
          * EXPECTATIVA DE ESTRUCTURA DEL JSON:
          * Debe ser un Array de objetos, donde cada objeto Question tiene:
          * {
-         * "id": 1, 
+         * "id": 1,
          * "text": "¿Cuál es la causa más común de dolor abdominal agudo en el cuadrante inferior derecho?",
          * "options": ["Apendicitis", "Colecistitis", "Pancreatitis", "Diverticulitis"],
-         * "answer": "Apendicitis" 
+         * "answer": "Apendicitis"
          * }
          * * @param {string} especialidad - La especialidad seleccionada.
          * @returns {Promise<Array<Object>>} Una promesa que resuelve con el array de preguntas.
@@ -869,13 +869,47 @@
                 }
 
                 const data = await response.json();
-                
+
                 if (!Array.isArray(data) || data.length === 0) {
                      throw new Error('El archivo JSON está vacío o no es un array válido. Asegúrate de que contenga preguntas.');
                 }
-                
+
+                // Validar y filtrar preguntas válidas
+                const validQuestions = data.filter((q, index) => {
+                    if (!q || typeof q !== 'object') {
+                        console.warn(`Pregunta ${index + 1} es null o undefined, se omitirá.`);
+                        return false;
+                    }
+                    if (!q.text || typeof q.text !== 'string' || q.text.trim() === '') {
+                        console.warn(`Pregunta ${index + 1} no tiene texto válido, se omitirá.`);
+                        return false;
+                    }
+                    if (!Array.isArray(q.options) || q.options.length < 2) {
+                        console.warn(`Pregunta ${index + 1} no tiene opciones válidas (debe ser un array con al menos 2 elementos), se omitirá.`);
+                        return false;
+                    }
+                    if (!q.answer || typeof q.answer !== 'string' || q.answer.trim() === '') {
+                        console.warn(`Pregunta ${index + 1} no tiene respuesta válida, se omitirá.`);
+                        return false;
+                    }
+                    // Verificar que la respuesta esté entre las opciones
+                    if (!q.options.includes(q.answer)) {
+                        console.warn(`Pregunta ${index + 1}: la respuesta no está entre las opciones, se omitirá.`);
+                        return false;
+                    }
+                    return true;
+                });
+
+                if (validQuestions.length === 0) {
+                    throw new Error('No se encontraron preguntas válidas en el archivo JSON. Asegúrate de que cada pregunta tenga texto, opciones y respuesta válidas.');
+                }
+
+                if (validQuestions.length < data.length) {
+                    console.warn(`${data.length - validQuestions.length} preguntas inválidas fueron omitidas.`);
+                }
+
                 // Asegurar que las preguntas tengan un ID si no lo tienen
-                return data.map((q, index) => ({
+                return validQuestions.map((q, index) => ({
                     ...q,
                     id: q.id || index + 1
                 }));
