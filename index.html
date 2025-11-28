@@ -439,10 +439,48 @@
         .footer-content .colabora-btn:hover {
             background-color: #e57e00;
         }
+
+        /* Loading Spinner */
+        .loading-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(255, 255, 255, 0.9);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            z-index: 60;
+            border-radius: 1.5rem;
+        }
+        .loading-overlay.active {
+            display: flex;
+        }
+        .spinner {
+            border: 4px solid rgba(0, 0, 0, 0.1);
+            border-left-color: #10b981;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin-bottom: 1rem;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
     </style>
 </head>
 <body>
     <div id="app">
+        
+        <!-- Indicador de Carga (Loading) -->
+        <div id="loadingOverlay" class="loading-overlay">
+            <div class="spinner"></div>
+            <p class="text-xl font-semibold text-gray-700">Cargando preguntas...</p>
+        </div>
+
         <!-- PANTALLA DE SELECCIÓN (Admin vs Alumno) -->
         <section id="seleccionSection" class="screen active">
             <div class="selection-container">
@@ -564,7 +602,7 @@
             <div class="especialidad-container">
                 <header class="screen-header flex-col items-center">
                     <h1 class="text-2xl font-bold mb-2"><i class="fas fa-book text-blue-500"></i> Selecciona tu Especialidad</h1>
-                    <p class="text-gray-600 mb-6">Tendrás 4 horas para completar 100 preguntas. ¡Asegúrate de estar listo!</p>
+                    <p class="text-gray-600 mb-6">Tendrás 4 horas para completar las preguntas. ¡Asegúrate de estar listo!</p>
                     <button onclick="logout()" class="btn btn-secondary absolute top-5 right-5">
                         <i class="fas fa-sign-out-alt"></i> Salir
                     </button>
@@ -576,11 +614,12 @@
                         <!-- Las opciones se cargan aquí por JS -->
                     </select>
                 </div>
+                <p class="text-xs text-gray-500 mb-4">Nota: El sistema intentará cargar el archivo `datos_finales.json` de tu repositorio de GitHub para la especialidad seleccionada.</p>
 
                 <div class="action-buttons mt-8">
                     <p id="especialidadMsg" class="error-msg mb-4"></p>
                     <button onclick="iniciarExamen()" class="btn btn-primary btn-large w-full">
-                        <i class="fas fa-play"></i> Comenzar Examen (100 Preguntas)
+                        <i class="fas fa-play"></i> Cargar y Comenzar Examen
                     </button>
                 </div>
             </div>
@@ -613,7 +652,7 @@
                         <div class="progress-info">
                             <div class="progress-item">
                                 <span class="label font-medium text-gray-600">Pregunta:</span>
-                                <span id="questionCounter" class="value font-semibold text-gray-800">0/100</span>
+                                <span id="questionCounter" class="value font-semibold text-gray-800">0/0</span>
                             </div>
                             <div class="progress-bar">
                                 <div id="progressFill" class="progress-fill"></div>
@@ -718,7 +757,7 @@
         <!-- FOOTER con información de contacto y colaboración -->
         <footer class="app-footer">
             <div class="footer-content">
-                <!-- Se agrega el enlace solicitado -->
+                <!-- Información de contacto solicitada -->
                 <p>Para dudas, comentarios u observaciones, escríbenos a: <a href="mailto:deepwebcb@gmail.com" class="font-bold">deepwebcb@gmail.com</a></p>
                 <p>Visita nuestro sitio: <a href="https://deepweb.com.ar/" target="_blank" class="font-bold">https://deepweb.com.ar/</a></p>
                 
@@ -733,16 +772,20 @@
     <script>
         // --- CONFIGURACIÓN GLOBAL ---
         const ADMIN_CLAVE = "Teamopi91";
-        // Clave dinámica para el alumno (se regenera en la simulación)
         let ALUMNO_CLAVE = "Medicina2024"; 
         let currentUserId = null;
         let selectedEspecialidad = null;
         let examenTimer = null;
         const EXAMEN_DURATION_MS = 4 * 60 * 60 * 1000; // 4 horas en milisegundos
         const MIN_APPROVAL_PERCENTAGE = 70; // Porcentaje mínimo de aprobación
-        const TOTAL_QUESTIONS = 100; // Total de preguntas requeridas
+        
+        // !!! IMPORTANTE: REEMPLAZA ESTAS VARIABLES CON TU REPOSITORIO DE GITHUB !!!
+        // Esta URL apunta a la rama 'main' donde deben estar tus archivos JSON.
+        // Ejemplo: https://raw.githubusercontent.com/deepwebcb/datos-examen-medico/main/datos_finales.json
+        const GITHUB_BASE_URL = "https://raw.githubusercontent.com/[TU_USUARIO_GITHUB]/[TU_REPOSITORIO]/main/";
+        // !!! FIN DE SECCIÓN IMPORTANTE !!!
 
-        // ESTRUCTURA DE ESPECIALIDADES ACTUALIZADA SEGÚN LA SOLICITUD DEL USUARIO
+        // ESTRUCTURA DE ESPECIALIDADES (USADAS PARA CREAR LOS NOMBRES DE ARCHIVO)
         const especialidades = [
             "Anestesiología",
             "Cardiología", 
@@ -766,32 +809,82 @@
         let startTime = null;
         let totalTimeUsed = 0;
 
-        // --- FUNCIONES AUXILIARES DE GENERACIÓN DE EXAMEN ---
+        /**
+         * Muestra/oculta el indicador de carga.
+         * @param {boolean} isLoading - Si es true, muestra la superposición de carga.
+         */
+        function setLoading(isLoading) {
+            const loadingOverlay = document.getElementById('loadingOverlay');
+            if (isLoading) {
+                loadingOverlay.classList.add('active');
+            } else {
+                loadingOverlay.classList.remove('active');
+            }
+        }
 
         /**
-         * Genera un array de 100 preguntas simuladas para la especialidad seleccionada.
-         * Esto asegura que siempre tengamos 100 preguntas, incluso si los datos reales son pocos.
-         * @param {string} especialidad - La especialidad para la que se generan las preguntas.
-         * @returns {Array<Object>} Array con 100 objetos de pregunta.
+         * Genera el nombre del archivo esperado en GitHub.
+         * Simplifica la especialidad para usarla como nombre de archivo.
+         * Ej: "Diagnóstico por Imágenes" -> "diagnostico_por_imagenes.json"
+         * @param {string} especialidad - La especialidad.
+         * @returns {string} El nombre de archivo esperado.
          */
-        function generateQuestions(especialidad) {
-            const questions = [];
-            const baseQuestionText = `Pregunta de ${especialidad} N°`;
-            const options = ["Opción A", "Opción B", "Opción C", "Opción D"];
-            // Simulación: la respuesta correcta alterna entre A, B, C, D para simular variabilidad.
+        function getFilename(especialidad) {
+            // Convierte a minúsculas, reemplaza espacios por guiones bajos y elimina acentos/caracteres especiales.
+            const baseName = especialidad
+                .toLowerCase()
+                .replace(/ /g, '_')
+                .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+                .replace(/[^a-z0-9_]/g, '');
             
-            for (let i = 1; i <= TOTAL_QUESTIONS; i++) {
-                const correctAnswerIndex = i % 4; // 0, 1, 2, 3, 0...
-                const correctAnswer = options[correctAnswerIndex]; 
+            return `${baseName}.json`;
+        }
 
-                questions.push({
-                    id: i,
-                    text: `${baseQuestionText}${i}: ¿Cuál es el concepto clave de este tema? (Simulación)`,
-                    options: options,
-                    answer: correctAnswer 
-                });
+
+        /**
+         * Función asíncrona para cargar las preguntas desde GitHub.
+         * EXPECTATIVA DE ESTRUCTURA DEL JSON:
+         * Debe ser un Array de objetos, donde cada objeto Question tiene:
+         * {
+         * "id": 1, 
+         * "text": "¿Cuál es la causa más común de dolor abdominal agudo en el cuadrante inferior derecho?",
+         * "options": ["Apendicitis", "Colecistitis", "Pancreatitis", "Diverticulitis"],
+         * "answer": "Apendicitis" 
+         * }
+         * * @param {string} especialidad - La especialidad seleccionada.
+         * @returns {Promise<Array<Object>>} Una promesa que resuelve con el array de preguntas.
+         */
+        async function fetchQuestions(especialidad) {
+            const fileName = getFilename(especialidad);
+            const url = `${GITHUB_BASE_URL}datos_finales/${fileName}`;
+
+            document.getElementById('especialidadMsg').textContent = `Cargando datos desde: ${url}`;
+            setLoading(true);
+
+            try {
+                const response = await fetch(url);
+
+                if (!response.ok) {
+                    throw new Error(`Error al cargar los datos: ${response.status} - ${response.statusText}. Asegúrate de que el archivo "${fileName}" exista en tu repositorio y que la URL base sea correcta.`);
+                }
+
+                const data = await response.json();
+                
+                if (!Array.isArray(data) || data.length === 0) {
+                     throw new Error('El archivo JSON está vacío o no es un array válido. Asegúrate de que contenga preguntas.');
+                }
+                
+                // Asegurar que las preguntas tengan un ID si no lo tienen
+                return data.map((q, index) => ({
+                    ...q,
+                    id: q.id || index + 1
+                }));
+            } catch (error) {
+                console.error("Error en la carga de preguntas:", error);
+                throw new Error(`Error de carga: ${error.message}`);
+            } finally {
+                setLoading(false);
             }
-            return questions;
         }
 
         // --- FUNCIONES DE NAVEGACIÓN DE PANTALLAS (MANTENIDAS) ---
@@ -905,33 +998,50 @@
                 option.textContent = esp;
                 select.appendChild(option);
             });
+            document.getElementById('especialidadMsg').textContent = '';
         }
 
-        function iniciarExamen() {
+        async function iniciarExamen() {
             const select = document.getElementById('selectEspecialidad');
             selectedEspecialidad = select.value;
 
+            const msg = document.getElementById('especialidadMsg');
+            msg.textContent = '';
+
             if (!selectedEspecialidad) {
-                document.getElementById('especialidadMsg').textContent = 'Debes seleccionar una especialidad para comenzar.';
+                msg.textContent = 'Debes seleccionar una especialidad para comenzar.';
                 return;
             }
             
-            // 1. Generar las 100 preguntas para el examen
-            examQuestions = generateQuestions(selectedEspecialidad);
-            currentQuestionIndex = 0;
-            studentAnswers = {};
-            startTime = Date.now();
-            totalTimeUsed = 0;
+            try {
+                // 1. Cargar las preguntas desde GitHub (asíncrono)
+                examQuestions = await fetchQuestions(selectedEspecialidad);
 
-            document.getElementById('currentEspecialidad').textContent = selectedEspecialidad;
-            
-            showScreen('examenSection');
-            startTimer();
-            renderQuestion();
-            renderQuestionNavigator();
+                // 2. Si la carga es exitosa, inicializar el examen
+                if (examQuestions.length === 0) {
+                     msg.textContent = 'Error: El examen no contiene preguntas válidas para esta especialidad.';
+                     return;
+                }
+                
+                currentQuestionIndex = 0;
+                studentAnswers = {};
+                startTime = Date.now();
+                totalTimeUsed = 0;
+
+                document.getElementById('currentEspecialidad').textContent = selectedEspecialidad;
+                
+                showScreen('examenSection');
+                startTimer();
+                renderQuestion();
+                renderQuestionNavigator();
+                
+            } catch (error) {
+                // Manejar errores de fetch o JSON
+                msg.textContent = error.message;
+            }
         }
 
-        // --- FUNCIONES DE EXAMEN Y TIEMPO (AJUSTADAS PARA 100 PREGUNTAS) ---
+        // --- FUNCIONES DE EXAMEN Y TIEMPO (AJUSTADAS) ---
 
         function startTimer() {
             const timerDisplay = document.getElementById('timerDisplay');
@@ -971,6 +1081,8 @@
         }
 
         function renderQuestion() {
+            if (examQuestions.length === 0) return;
+            
             const question = examQuestions[currentQuestionIndex];
             const totalQuestions = examQuestions.length;
             
@@ -981,21 +1093,25 @@
             const opcionesContainer = document.getElementById('opcionesContainer');
             opcionesContainer.innerHTML = '';
 
-            // Renderizado de las 4 opciones
-            question.options.forEach((option, index) => {
-                const item = document.createElement('div');
-                item.className = 'opcion-item';
-                item.textContent = `${String.fromCharCode(65 + index)}. ${option}`;
-                item.dataset.option = option;
-                item.onclick = () => selectAnswer(option, item);
-                
-                // Marcar respuesta previamente seleccionada
-                if (studentAnswers[question.id] === option) {
-                    item.classList.add('selected-answer');
-                }
-                
-                opcionesContainer.appendChild(item);
-            });
+            // Renderizado de las opciones (debe haber al menos 2)
+            if (Array.isArray(question.options) && question.options.length > 1) {
+                 question.options.forEach((option, index) => {
+                    const item = document.createElement('div');
+                    item.className = 'opcion-item';
+                    item.textContent = `${String.fromCharCode(65 + index)}. ${option}`;
+                    item.dataset.option = option;
+                    item.onclick = () => selectAnswer(option, item);
+                    
+                    // Marcar respuesta previamente seleccionada
+                    if (studentAnswers[question.id] === option) {
+                        item.classList.add('selected-answer');
+                    }
+                    
+                    opcionesContainer.appendChild(item);
+                });
+            } else {
+                 opcionesContainer.innerHTML = '<p class="text-red-500">Error: No hay opciones válidas para esta pregunta.</p>';
+            }
 
             // Actualizar botones de navegación
             document.getElementById('btnAnterior').disabled = currentQuestionIndex === 0;
@@ -1059,15 +1175,21 @@
                 };
                 navContainer.appendChild(circle);
             });
-            updateQuestionCircleStatus(examQuestions[currentQuestionIndex].id, studentAnswers[examQuestions[currentQuestionIndex].id] ? 'answered' : 'current');
+            // La pregunta actual siempre debe ser la última en marcarse como 'current'
+            if (examQuestions.length > 0) {
+                updateQuestionCircleStatus(examQuestions[currentQuestionIndex].id, studentAnswers[examQuestions[currentQuestionIndex].id] ? 'answered' : 'current');
+            }
         }
 
         function updateQuestionCircleStatus(questionId, status) {
             document.querySelectorAll('.question-circle').forEach(circle => {
-                circle.classList.remove('current', 'answered');
+                circle.classList.remove('current'); // Quitar 'current' de todos
                 if (studentAnswers[parseInt(circle.dataset.questionId)]) {
-                     circle.classList.add('answered');
+                     circle.classList.add('answered'); // Mantener 'answered' si tiene respuesta
+                } else {
+                     circle.classList.remove('answered'); // Quitar 'answered' si no tiene respuesta
                 }
+                
                 if (parseInt(circle.dataset.questionId) === questionId) {
                     circle.classList.add('current');
                 }
@@ -1082,7 +1204,7 @@
 
         function finalizarExamenModal() {
             // Muestra el modal de confirmación antes de llamar a endExamen
-            showModal('Finalizar Examen', '¿Estás seguro de que deseas finalizar el examen de 100 preguntas? Una vez finalizado, se mostrarán tus resultados y no podrás volver a editar tus respuestas.', endExamen);
+            showModal('Finalizar Examen', `¿Estás seguro de que deseas finalizar el examen de ${examQuestions.length} preguntas?`, endExamen);
         }
 
         function endExamen(timeUp = false) {
