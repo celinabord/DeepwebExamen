@@ -1,0 +1,1330 @@
+{
+  "titulo_principal": "Examen de Oncología en Cuidados Críticos y Trasplante",
+  "descripcion": "100 preguntas de opción múltiple con casos clínicos y normativa argentina, organizadas en 4 bloques de 25.",
+  "bloques_de_preguntas": [
+    {
+      "rango_id": "1-25",
+      "tema_principal": "Emergencias Oncológicas y Criterios de Donación",
+      "preguntas": [
+        {
+          "id": 1,
+          "categoria": "Adulto - Oncología Crítica",
+          "caso_clinico": "Paciente con Linfoma de Burkitt que inicia quimioterapia. A las 24 horas, presenta hiperuricemia, hiperfosfatemia e hipocalcemia.",
+          "pregunta": "¿Cuál es la emergencia oncológica que mejor describe estos hallazgos y su manejo inicial crucial?",
+          "opciones": {
+            "a": "Opcion a: Síndrome de Secreción Inapropiada de ADH (SIADH); restricción hídrica.",
+            "b": "Opcion b: Síndrome de Lisis Tumoral (SLT); hidratación agresiva y Alopurinol/Rasburicasa.",
+            "c": "Opcion c: Neutropenia febril; antibióticos de amplio espectro.",
+            "d": "Opcion d: Hipercalcemia maligna; Bifosfonatos IV y Calcitonina."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 2,
+          "categoria": "Legislación - Donación Argentina",
+          "caso_clinico": "Se evalúa la posibilidad de donación en un paciente con Muerte Encefálica sin registro de voluntad previa.",
+          "pregunta": "Según la **Ley Nacional 27.447** (Ley Justina) en Argentina, ¿cuál es la condición legal de una persona fallecida respecto a la donación si no existe una negativa expresa?",
+          "opciones": {
+            "a": "Opcion a: Se requiere el consentimiento explícito de los familiares de primer grado.",
+            "b": "Opcion b: Se considera **donante presunto** (se presume la voluntad positiva).",
+            "c": "Opcion c: La decisión se delega al juez de turno.",
+            "d": "Opcion d: Solo se pueden donar tejidos, pero no órganos principales."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 3,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Paciente de 75 kg. Se prescribe un bolo de Dexametasona para prevención de náuseas a $10$ mg/m2 de superficie corporal (SC). SC: 1.8 m2. Presentación: 4 mg/mL.",
+          "pregunta": "¿Qué volumen (mL) de Dexametasona debe administrar?",
+          "opciones": {
+            "a": "Opcion a: 2.5 mL",
+            "b": "Opcion b: 4.5 mL",
+            "c": "Opcion c: 1.8 mL",
+            "d": "Opcion d: 3.0 mL"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 4,
+          "categoria": "Pediátrico - Oncología Crítica",
+          "caso_clinico": "Niño de 7 años en quimioterapia desarrolla neutropenia febril (temperatura 38.5 °C, Neutrófilos 400).",
+          "pregunta": "¿Cuál es la acción prioritaria de manejo inicial de la neutropenia febril en Cuidados Críticos Pediátricos?",
+          "opciones": {
+            "a": "Opcion a: Administrar antipiréticos y esperar el resultado del hemocultivo.",
+            "b": "Opcion b: Iniciar inmediatamente **antibióticos empíricos de amplio espectro** (ej. Ceftazidima/Piperacilina-Tazobactam).",
+            "c": "Opcion c: Transfusión urgente de plaquetas y glóbulos rojos.",
+            "d": "Opcion d: Dosis de factor estimulante de colonias de granulocitos (G-CSF)."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 5,
+          "categoria": "Adulto - Emergencias Oncológicas",
+          "caso_clinico": "Paciente con cáncer de pulmón presenta edema facial y en cuello, circulación colateral visible en tórax superior y cefalea. Está normotenso.",
+          "pregunta": "¿Cuál es la emergencia oncológica más probable y su primera línea de tratamiento no invasivo?",
+          "opciones": {
+            "a": "Opcion a: Taponamiento cardíaco; Pericardiocentesis.",
+            "b": "Opcion b: Hipercalcemia maligna; Hidratación y Bifosfonatos.",
+            "c": "Opcion c: Síndrome de Vena Cava Superior (SVCS); Elevación de cabecera y Corticoides.",
+            "d": "Opcion d: Invasión traqueal; Radioterapia urgente."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 6,
+          "categoria": "Legislación - Donación Cruzada",
+          "caso_clinico": "Dos parejas incompatibles desean realizar una donación renal cruzada entre sus miembros.",
+          "pregunta": "Según la legislación argentina, ¿qué condición es **esencial** para la validez de la donación cruzada de órganos?",
+          "opciones": {
+            "a": "Opcion a: Que los donantes reciban una compensación económica por el esfuerzo.",
+            "b": "Opcion b: Que la operación se realice de manera **anónima** y coordinada por el organismo central (INCUCAI).",
+            "c": "Opcion c: Que todos los participantes sean familiares de segundo grado o superior.",
+            "d": "Opcion d: Que ambos receptores tengan el mismo factor Rh."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 7,
+          "categoria": "Cálculo - Oncología (Pediátrico)",
+          "caso_clinico": "Niño de 25 kg requiere infusión de Mesna a 15 mg/kg/hora para uroprotección. Concentración: 100 mg/mL.",
+          "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
+          "opciones": {
+            "a": "Opcion a: 1.875 mL/hora}",
+            "b": "Opcion b: 3.75 mL/hora",
+            "c": "Opcion c: 2.5 mL/hora",
+            "d": "Opcion d: 5.0 mL/hora"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 8,
+          "categoria": "Neonatal - Oncología/Síndromes",
+          "caso_clinico": "Neonato con diagnóstico de Leucemia Mieloide Aguda (LMA) que presenta hiperleucocitosis extrema ($>100.000/\text{mm}3$).",
+          "pregunta": "¿Cuál es la complicación crítica más inmediata y grave asociada a la hiperleucocitosis neonatal?",
+          "opciones": {
+            "a": "Opcion a: Hipernatremia severa.",
+            "b": "Opcion b: Hiperviscosidad con sangrado pulmonar y cerebral.",
+            "c": "Opcion c: Hipocalcemia refractaria a tratamiento.",
+            "d": "Opcion d: Síndrome de Lisis Tumoral tardío."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 9,
+          "categoria": "Adulto - Oncología Crítica",
+          "caso_clinico": "Paciente oncológico con sangrado activo. Presenta TP y KPTT prolongados, fibrinógeno bajo y dímero D muy elevado.",
+          "pregunta": "¿Qué coagulopatía de consumo, común en pacientes con leucemias y sepsis, es la más probable?",
+          "opciones": {
+            "a": "Opcion a: Coagulación Intravascular Diseminada (CID).",
+            "b": "Opcion b: Trombocitopenia inducida por heparina (TIH).",
+            "c": "Opcion c: Púrpura Trombótica Trombocitopénica (PTT).",
+            "d": "Opcion d: Déficit aislado de Factor VII."
+          },
+          "respuesta_correcta": "a"
+        },
+        {
+          "id": 10,
+          "categoria": "Legislación - Mantenimiento del Donante",
+          "caso_clinico": "Donante potencial con Muerte Encefálica presenta hipotensión severa y Diabetes Insípida Central (poliuria, hipernatremia).",
+          "pregunta": "¿Cuál es la hormona de reemplazo clave para manejar la Diabetes Insípida en el mantenimiento del donante multiorgánico?",
+          "opciones": {
+            "a": "Opcion a: Insulina de acción rápida.",
+            "b": "Opcion b: Hidrocortisona.",
+            "c": "Opcion c: **Desmopresina** (análogo de ADH).",
+            "d": "Opcion d: Tiroxina (T4)."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 11,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Se requiere infusión de Morfina para dolor oncológico a 5 mg/hora. La concentración de la dilución es 1 mg/mL.",
+          "pregunta": "¿A qué velocidad de infusión (mL/hora) se debe programar la bomba?",
+          "opciones": {
+            "a": "Opcion a: 0.5 mL/hora",
+            "b": "Opcion b: 1 mL/hora",
+            "c": "Opcion c: 5 mL/hora",
+            "d": "Opcion d: 10 mL/hora"
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 12,
+          "categoria": "Pediátrico - Oncología Crítica",
+          "caso_clinico": "Niño oncológico con SDRA y evidencia de infiltrado pulmonar difuso tras quimioterapia intensiva.",
+          "pregunta": "¿Cuál es la causa no infecciosa que debe sospecharse inmediatamente en el diagnóstico diferencial de distrés respiratorio en un niño oncológico?",
+          "opciones": {
+            "a": "Opcion a: Neumonía por Streptococcus pneumoniae.",
+            "b": "Opcion b: **Toxicidad pulmonar por fármacos** (ej. Bleomicina).",
+            "c": "Opcion c: Embolia grasa.",
+            "d": "Opcion d: Bronquiolitis por VRS."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 13,
+          "categoria": "Adulto - Emergencias Oncológicas",
+          "caso_clinico": "Paciente oncológico con compresión medular aguda por metástasis vertebral.",
+          "pregunta": "¿Cuál es el tratamiento de primera línea que debe iniciarse de **inmediato** para prevenir el daño neurológico irreversible?",
+          "opciones": {
+            "a": "Opcion a: Consulta urgente con cirugía para laminectomía.",
+            "b": "Opcion b: Radioterapia de emergencia.",
+            "c": "Opcion c: Dosis altas de **corticoides** (ej. Dexametasona IV).",
+            "d": "Opcion d: Inmovilización rígida de la columna."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 14,
+          "categoria": "Legislación - Criterios de Muerte",
+          "caso_clinico": "Se evalúa la certificación de Muerte Encefálica (ME). El paciente tiene un $\\text{EEG}$ isoeléctrico y reflejos de tronco abolidos.",
+          "pregunta": "Según la legislación argentina, ¿cuál es el requisito **complementario** al examen clínico neurológico para la certificación de ME?",
+          "opciones": {
+            "a": "Opcion a: Que el paciente tenga más de 18 años.",
+            "b": "Opcion b: El Test de Apnea **positivo** (ausencia de esfuerzo respiratorio).",
+            "c": "Opcion c: Documentación de la voluntad donante.",
+            "d": "Opcion d: La autorización familiar escrita."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 15,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Paciente de 60 kg con dolor irruptivo. Se prescribe un bolo de Fentanilo de 25 microgramos. La ampolla es de 500 microgramos en 10 mL.",
+          "pregunta": "¿Qué volumen (mL) de Fentanilo debe administrar?",
+          "opciones": {
+            "a": "Opcion a: 0.5 mL",
+            "b": "Opcion b: 0.25 mL",
+            "c": "Opcion c:0.1 mL",
+            "d": "Opcion d: 1.0 mL"
+          },
+          "respuesta_correcta": "a"
+        },
+        {
+          "id": 16,
+          "categoria": "Neonatal - Oncología Crítica",
+          "caso_clinico": "Neonato con diagnóstico de Neuroblastoma en UCI. Desarrolla hipertensión severa y taquicardia refractaria.",
+          "pregunta": "¿Qué síndrome paraneoplásico, asociado a la liberación de catecolaminas, debe considerarse de inmediato?",
+          "opciones": {
+            "a": "Opcion a: Síndrome de Cushing.",
+            "b": "Opcion b: Crisis adrenal.",
+            "c": "Opcion c: **Crisis Hipertensiva por liberación de catecolaminas** (similar a feocromocitoma).",
+            "d": "Opcion d: Hipotiroidismo central."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 17,
+          "categoria": "Adulto - Oncología Crítica",
+          "caso_clinico": "Paciente con carcinoma escamoso presenta Hipocalcemia (< 7.0 mg/dL) sintomática (Tétanos, Chvostek positivo).",
+          "pregunta": "¿Cuál es el tratamiento de emergencia para la hipocalcemia severa sintomática?",
+          "opciones": {
+            "a": "Opcion a: Administrar Magnesio IV.",
+            "b": "Opcion b: Bolo de **Gluconato de Calcio IV** lento.",
+            "c": "Opcion c: Fosfato de potasio IV.",
+            "d": "Opcion d: Aumentar la dosis de Vitamina D oral."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 18,
+          "categoria": "Legislación - Traslado",
+          "caso_clinico": "Se coordina el traslado de un órgano vital desde una provincia a otra para un receptor en Emergencia Nacional.",
+          "pregunta": "¿Qué institución tiene la facultad legal de intervenir y coordinar los medios de transporte necesarios (aéreo, terrestre) para la ablación y el implante?",
+          "opciones": {
+            "a": "Opcion a: El Ministerio de Seguridad.",
+            "b": "Opcion b: El Banco de Sangre local.",
+            "c": "Opcion c: El **INCUCAI** (Instituto Nacional Central Único Coordinador de Ablación e Implante).",
+            "d": "Opcion d: La Organización Panamericana de la Salud (OPS)."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 19,
+          "categoria": "Pediátrico - Oncología/VMI",
+          "caso_clinico": "Niño con Leucemia Linfoblástica Aguda intubado por insuficiencia respiratoria hipoxémica grave (SDRA).",
+          "pregunta": "¿Cuál es la estrategia ventilatoria clave en este contexto para prevenir la lesión pulmonar iatrogénica?",
+          "opciones": {
+            "a": "Opcion a: Uso de altas presiones y Volúmenes Tidales (VT) grandes.",
+            "b": "Opcion b: Estrategia de **ventilación protectora** (VT bajo y Driving Pressure limitada).",
+            "c": "Opcion c: Evitar la PEEP para no comprometer la hemodinamia.",
+            "d": "Opcion d: Sedación superficial para permitir el esfuerzo respiratorio."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 20,
+          "categoria": "Adulto - Toxicidad de Quimioterapia",
+          "caso_clinico": "Paciente en quimioterapia con un agente conocido por causar toxicidad cardíaca (ej. Antraciclinas). Presenta deterioro hemodinámico súbito y arritmias.",
+          "pregunta": "¿Qué tipo de complicación cardiovascular debe sospecharse prioritariamente?",
+          "opciones": {
+            "a": "Opcion a: Insuficiencia aórtica aguda.",
+            "b": "Opcion b: Cardiotoxicidad (Disfunción ventricular aguda o Cardiomiopatía).",
+            "c": "Opcion c: Embolismo pulmonar masivo.",
+            "d": "Opcion d: Infarto agudo de miocardio por espasmo coronario."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 21,
+          "categoria": "Cálculo - Oncología (Neonatal)",
+          "caso_clinico": "Neonato de 2.0 kg  con sepsis. Se requiere un bolo de Vancomicina a 15 mg/kg. Concentración: 10 mg/mL.",
+          "pregunta": "¿Qué volumen (mL) de Vancomicina debe administrar?",
+          "opciones": {
+            "a": "Opcion a: 2.0 mL",
+            "b": "Opcion b: 3.0 mL",
+            "c": "Opcion c: 1.5 mL",
+            "d": "Opcion d: 4.5 mL"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 22,
+          "categoria": "Legislación - Donante Vivo",
+          "caso_clinico": "Una persona desea donar un riñón en vida a un familiar de segundo grado.",
+          "pregunta": "Según la normativa argentina, además de la compatibilidad y el consentimiento informado, ¿qué requisito legal es indispensable para la ablación de órganos de un donante vivo?",
+          "opciones": {
+            "a": "Opcion a: Que el donante haya manifestado su voluntad en el registro del INCUCAI.",
+            "b": "Opcion b: La **autorización judicial** que asegure la libre expresión de voluntad.",
+            "c": "Opcion c: Que el receptor se encuentre en 'código rojo' de emergencia.",
+            "d": "Opcion d: Que el donante tenga seguro de salud privado."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 23,
+          "categoria": "Pediátrico - Oncología Crítica",
+          "caso_clinico": "Niño oncológico con Leucemia que desarrolla Trombocitopenia (Plaquetas $< 10.000/\text{mm}3$). Está asintomático.",
+          "pregunta": "¿Cuál es la intervención terapéutica recomendada en ausencia de sangrado activo?",
+          "opciones": {
+            "a": "Opcion a: Transfusión urgente de glóbulos rojos.",
+            "b": "Opcion b: Transfusión profiláctica de **plaquetas**.",
+            "c": "Opcion c: Bolo de Vitamina K.",
+            "d": "Opcion d: Infusión de Factor VII activado."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 24,
+          "categoria": "Adulto - Toxicidad de Quimioterapia",
+          "caso_clinico": "Paciente recibe quimioterapia con altas dosis de Ciclofosfamida. Desarrolla hematuria macroscópica y disuria.",
+          "pregunta": "¿Qué toxicidad del tracto urinario, prevenible con Mesna, debe sospecharse?",
+          "opciones": {
+            "a": "Opcion a: Nefritis intersticial alérgica.",
+            "b": "Opcion b: Obstrucción ureteral por coágulos.",
+            "c": "Opcion c: Cistitis hemorrágica.",
+            "d": "Opcion d: Síndrome nefrótico."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 25,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Paciente de 80 kg con dolor oncológico severo. Se requiere infusión de Remifentanilo a 0.05 microgramos/kg/min. Dilución: 2$ mg en 100 mL.",
+          "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
+          "opciones": {
+            "a": "Opcion a: 2.4 mL/hora",
+            "b": "Opcion b: 12.0 mL/hora",
+            "c": "Opcion c: 6.0 mL/hora",
+            "d": "Opcion d: 4.8 mL/hora"
+          },
+          "respuesta_correcta": "b"
+        }
+      ]
+    },
+    {
+      "rango_id": "26-50",
+      "tema_principal": "Manejo de Emergencias Hematológicas y Soporte del Donante",
+      "preguntas": [
+        {
+          "id": 26,
+          "categoria": "Adulto - Emergencias Hematológicas",
+          "caso_clinico": "Paciente con Leucemia Mieloide Aguda que presenta hiperleucocitosis ($>150.000/\text{mm}3$), hipoxemia, y disnea.",
+          "pregunta": "¿Cuál es la terapia de emergencia de primera línea para prevenir la Leucoestasis pulmonar o cerebral?",
+          "opciones": {
+            "a": "Opcion a: Transfusión de glóbulos rojos.",
+            "b": "Opcion b: Leucaferesis (remoción de glóbulos blancos).",
+            "c": "Opcion c: Dosis alta de G-CSF.",
+            "d": "Opcion d: Iniciar quimioterapia de inducción inmediatamente."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 27,
+          "categoria": "Legislación - Trasplante",
+          "caso_clinico": "Un niño de 10 años requiere un trasplante de corazón. Sus padres dan el consentimiento.",
+          "pregunta": "Según la normativa argentina, si el donante es menor de 18 años con Muerte Encefálica, ¿quién debe autorizar la ablación?",
+          "opciones": {
+            "a": "Opcion a: El consentimiento escrito de ambos padres o representantes legales.",
+            "b": "Opcion b: Solo el consentimiento verbal de un familiar directo.",
+            "c": "Opcion c: La decisión del equipo de trasplante.",
+            "d": "Opcion d: El menor si tenía más de 16 años."
+          },
+          "respuesta_correcta": "a"
+        },
+        {
+          "id": 28,
+          "categoria": "Cálculo - Oncología (Pediátrico)",
+          "caso_clinico": "Niño de 10 kg con neutropenia febril. Se indica Cefepime a 50 mg/kg/dosis IV. Presentación: 100 mg/mL.",
+          "pregunta": "¿Qué volumen (mL) debe administrarse en cada dosis?",
+          "opciones": {
+            "a": "Opcion a: 2.5 mL",
+            "b": "Opcion b: 5.0 mL",
+            "c": "Opcion c: 10.0 mL",
+            "d": "Opcion d: 7.5 mL"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 29,
+          "categoria": "Pediátrico - Oncología/Metabolismo",
+          "caso_clinico": "Niño con un Tumor de Wilms desarrolla Hipertensión Arterial y policitemia.",
+          "pregunta": "¿Cuál es el mecanismo de la hipertensión y policitemia que a menudo se asocia con el Tumor de Wilms?",
+          "opciones": {
+            "a": "Opcion a: Liberación de renina y eritropoyetina.",
+            "b": "Opcion b: Invasión tumoral del tronco encefálico.",
+            "c": "Opcion c: Hipocalcemia y lisis tumoral.",
+            "d": "Opcion d: Obstrucción de la vena cava superior."
+          },
+          "respuesta_correcta": "a"
+        },
+        {
+          "id": 30,
+          "categoria": "Adulto - Oncología Crítica",
+          "caso_clinico": "Paciente con Hipocalcemia 6.8 mg/dL secundaria a Lisis Tumoral, que ya recibió Gluconato de Calcio, pero persiste con calambres.",
+          "pregunta": "¿Qué electrolito debe chequearse y reponerse urgentemente, ya que su déficit inhibe la acción del calcio exógeno?",
+          "opciones": {
+            "a": "Opcion a: Sodio.",
+            "b": "Opcion b: Cloro.",
+            "c": "Opcion c: Magnesio.",
+            "d": "Opcion d: Bicarbonato."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 31,
+          "categoria": "Legislación - Criterios de Muerte",
+          "caso_clinico": "Se requiere la certificación de Muerte bajo criterios neurológicos.",
+          "pregunta": "Según la Ley 27.447, ¿cuántos médicos deben firmar el acta de diagnóstico de Muerte Encefálica y qué especialidad deben tener?",
+          "opciones": {
+            "a": "Opcion a: Dos médicos, incluyendo al menos un Neurólogo o Neurocirujano, y **ninguno** del equipo de trasplante.",
+            "b": "Opcion b: Un médico y una enfermera de UCI, sin necesidad de especialidad específica.",
+            "c": "Opcion c: Tres médicos, siendo el jefe de la UCI el responsable principal.",
+            "d": "Opcion d: Solo el médico tratante del paciente."
+          },
+          "respuesta_correcta": "a"
+        },
+        {
+          "id": 32,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Paciente de 70 kg  requiere 5 mg/hora de Midazolam para sedación. Concentracion 5 mg/mL.",
+          "pregunta": "¿A qué velocidad de infusión (mL/hora) se debe programar la bomba?",
+          "opciones": {
+            "a": "Opcion a: 5 mL/hora",
+            "b": "Opcion b: 1 mL/hora",
+            "c": "Opcion c: 2 mL/hora",
+            "d": "Opcion d: 10 mL/hora"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 33,
+          "categoria": "Neonatal - Oncología/VMI",
+          "caso_clinico": "Neonato con tumor abdominal masivo que presenta SDRA e inestabilidad hemodinámica post-resección.",
+          "pregunta": "¿Cuál es el modo de ventilación que minimiza el barotrauma y es preferible en el contexto de patología pulmonar neonatal grave?",
+          "opciones": {
+            "a": "Opcion a: Ventilación por Control de Volumen (VCV) con VT alto.",
+            "b": "Opcion b: Ventilación con soporte de presión (PSV).",
+            "c": "Opcion c: Ventilación con Control de Presión (PCV).",
+            "d": "Opcion d: Ventilación Mandatoria Intermitente (IMV)."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 34,
+          "categoria": "Adulto - Oncología Crítica",
+          "caso_clinico": "Paciente con metástasis cerebrales y deterioro del nivel de conciencia por Edema Perilesional.",
+          "pregunta": "¿Cuál es el tratamiento farmacológico inicial para reducir la presión intracraneal y el edema vasogénico en este contexto?",
+          "opciones": {
+            "a": "Opcion a: Hiperventilación controlada.",
+            "b": "Opcion b: Diuréticos de asa (Furosemida).",
+            "c": "Opcion c: **Corticoides a dosis altas** (Dexametasona).",
+            "d": "Opcion d: Sedación con Propofol."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 35,
+          "categoria": "Legislación - Asignación de Órganos",
+          "caso_clinico": "Dos pacientes, uno en Emergencia Nacional y otro en Lista de Espera Estándar, son compatibles con el mismo órgano.",
+          "pregunta": "¿Qué criterio de asignación de órganos tiene **prioridad absoluta** según la normativa argentina?",
+          "opciones": {
+            "a": "Opcion a: El tiempo de espera del receptor.",
+            "b": "Opcion b: La compatibilidad de grupo sanguíneo.",
+            "c": "Opcion c: El estado de **Emergencia Nacional o Urgencia Máxima**.",
+            "d": "Opcion d: La cercanía geográfica al hospital donante."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 36,
+          "categoria": "Cálculo - Oncología (Pediátrico)",
+          "caso_clinico": "Niño de 30 kg requiere un bolo de Ondansetrón a 0.15 mg/kg para náuseas. Presentación: 4 mg/2 mL.",
+          "pregunta": "¿Qué volumen (mL) de Ondansetrón debe administrar?",
+          "opciones": {
+            "a": "Opcion a: 2.25 mL",
+            "b": "Opcion b: 4.5 mL",
+            "c": "Opcion c: 3.0 mL",
+            "d": "Opcion d: 1.5 mL"
+          },
+          "respuesta_correcta": "a"
+        },
+        {
+          "id": 37,
+          "categoria": "Pediátrico - Oncología Crítica",
+          "caso_clinico": "Niño con Osteosarcoma presenta dolor óseo inmanejable. Se requiere ajuste de la sedación y analgesia en UCI.",
+          "pregunta": "¿Cuál es la herramienta de evaluación del dolor más adecuada para un paciente pediátrico no verbal en ventilación mecánica?",
+          "opciones": {
+            "a": "Opcion a: Escala Visual Analógica (EVA).",
+            "b": "Opcion b: Escala de Faces (FACES).",
+            "c": "Opcion c: Escala FLACC o COMFORT.",
+            "d": "Opcion d: Escala de Ramsay."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 38,
+          "categoria": "Adulto - Toxicidad de Quimioterapia",
+          "caso_clinico": "Paciente en quimioterapia desarrolla diarrea profusa de alto débito. Se aísla Clostridium difficile.",
+          "pregunta": "¿Cuál es la complicación hidroelectrolítica más peligrosa y común en este escenario?",
+          "opciones": {
+            "a": "Opcion a: Hiponatremia dilucional.",
+            "b": "Opcion b: Hiperpotasemia (potasio alto).",
+            "c": "Opcion c: Hipopotasemia (potasio bajo) y deshidratación severa.",
+            "d": "Opcion d: Hipercalcemia."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 39,
+          "categoria": "Legislación - Donante Vivo",
+          "caso_clinico": "Un donante vivo realiza su consentimiento en el hospital, pero horas antes de la cirugía, expresa dudas a su médico.",
+          "pregunta": "¿Qué ocurre legal y éticamente si un donante vivo **revoca** su consentimiento en cualquier momento antes de la ablación?",
+          "opciones": {
+            "a": "Opcion a: La cirugía se realiza si el receptor está en estado crítico.",
+            "b": "Opcion b: Se respeta **siempre** la revocación de la voluntad y el proceso se suspende.",
+            "c": "Opcion c: Se requiere una segunda opinión judicial para validar la revocación.",
+            "d": "Opcion d: Se inicia un proceso de compensación económica al receptor."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 40,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Se requiere infusión de Norepinefrina a 0.1 microgramos/kg/min en paciente de 90 kg . Dilución: 4 mg  en 250 ml.",
+          "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
+          "opciones": {
+            "a": "Opcion a: 13.5 mL/hora",
+            "b": "Opcion b: 33.75 mL/hora",
+            "c": "Opcion c: 27.0 mL/hora",
+            "d": "Opcion d: 6.75 mL/hora"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 41,
+          "categoria": "Neonatal - Oncología Crítica",
+          "caso_clinico": "Neonato con Leucemia Congénita. Desarrolla una coagulopatía grave con sangrado activo.",
+          "pregunta": "¿Qué producto sanguíneo es el de primera línea para corregir la trombocitopenia en neonatos con sangrado activo?",
+          "opciones": {
+            "a": "Opcion a: Plasma Fresco Congelado (PFC).",
+            "b": "Opcion b: Concentrado de Pro-trombina (CPT).",
+            "c": "Opcion c: Transfusión de Concentrado de Plaquetas.",
+            "d": "Opcion d: Crio-precipitado."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 42,
+          "categoria": "Adulto - Toxicidad de Quimioterapia",
+          "caso_clinico": "Paciente en quimioterapia desarrolla un cuadro de SDRA. El diagnóstico diferencial incluye toxicidad por fármacos.",
+          "pregunta": "¿Qué hallazgo es altamente sugestivo de Toxicidad Pulmonar por Bleomicina en la Tomografía de Tórax?",
+          "opciones": {
+            "a": "Opcion a: Neumonía lobar densa.",
+            "b": "Opcion b: Nódulos cavitados múltiples.",
+            "c": "Opcion c: Infiltrados pulmonares basales y periféricos, con fibrosis y panalización.",
+            "d": "Opcion d: Bronquiectasias por infección crónica."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 43,
+          "categoria": "Legislación - Muerte Encefálica",
+          "caso_clinico": "Se realiza el Test de Apnea para confirmar la ME. El paciente desarrolla hipotensión severa durante la prueba.",
+          "pregunta": "¿Cuál es la acción correcta según el protocolo legal y clínico ante la inestabilidad hemodinámica durante el Test de Apnea?",
+          "opciones": {
+            "a": "Opcion a: Continuar la prueba hasta el final (10 minutos o PaCO2 objetivo).",
+            "b": "Opcion b: **Suspender inmediatamente la prueba** y reconectar al ventilador.",
+            "c": "Opcion c: Administrar vasopresores y continuar la prueba.",
+            "d": "Opcion d: Reemplazar el Test de Apnea con un EEG."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 44,
+          "categoria": "Pediátrico - Oncología/Infección",
+          "caso_clinico": "Niño oncológico con neutropenia febril. A pesar de antibióticos de amplio espectro, la fiebre persiste por 5 días.",
+          "pregunta": "¿Cuál es el tratamiento antimicótico empírico que debe ser añadido ante una fiebre persistente en el paciente neutropénico?",
+          "opciones": {
+            "a": "Opcion a: Oseltamivir.",
+            "b": "Opcion b: Amfotericina B o Azoles.",
+            "c": "Opcion c: Ivermectina.",
+            "d": "Opcion d: Metronidazol."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 45,
+          "categoria": "Adulto - Oncología Crítica",
+          "caso_clinico": "Paciente con hipercalcemia maligna (14.5 mg/dL) con compromiso renal y deterioro de conciencia.",
+          "pregunta": "¿Cuál es el tratamiento **específico** y más potente para reducir los niveles de calcio sérico a largo plazo en la hipercalcemia maligna?",
+          "opciones": {
+            "a": "Opcion a: Calcitonina IV.",
+            "b": "Opcion b: Hidratación con Salino Isotónico.",
+            "c": "Opcion c: **Bifosfonatos IV** (ej. Zoledronato).",
+            "d": "Opcion d: Bolo de Furosemida."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 46,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Se requiere infusión de Propofol a 50 microgramos/kg/min en un paciente de 60 kg . Concentración: 10 mg/mL.",
+          "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
+          "opciones": {
+            "a": "Opcion a: 10.8 mL/hora",
+            "b": "Opcion b: 18.0 mL/hora",
+            "c": "Opcion c: 24.0 mL/hora",
+            "d": "Opcion d: 3.0 mL/hora"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 47,
+          "categoria": "Neonatal - Oncología/Soporte",
+          "caso_clinico": "Neonato con Leucemia Congénita requiere transfusión masiva debido a un sangrado intracraneal.",
+          "pregunta": "¿Cuál es el riesgo metabólico crítico que debe monitorizarse y tratarse durante la transfusión rápida de glóbulos rojos?",
+          "opciones": {
+            "a": "Opcion a: Hipernatremia.",
+            "b": "Opcion b: **Hipocalcemia** e **Hiperpotasemia**.",
+            "c": "Opcion c: Hipoglucemia.",
+            "d": "Opcion d: Alcalosis metabólica."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 48,
+          "categoria": "Pediátrico - Oncología Crítica",
+          "caso_clinico": "Niño oncológico con fiebre, exantema y dolor abdominal, 10 días post-trasplante de médula ósea.",
+          "pregunta": "¿Qué complicación inmunológica grave, asociada al trasplante de médula ósea, debe sospecharse?",
+          "opciones": {
+            "a": "Opcion a: Neumonía viral.",
+            "b": "Opcion b: Recaída de la enfermedad.",
+            "c": "Opcion c: Enfermedad de Injerto contra Huésped (EICH).",
+            "d": "Opcion d: Síndrome de Lisis Tumoral tardío."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 49,
+          "categoria": "Adulto - Toxicidad de Quimioterapia",
+          "caso_clinico": "Paciente con Mieloma Múltiple presenta una falla renal aguda de origen desconocido.",
+          "pregunta": "¿Cuál es la nefropatía más frecuente y específica del Mieloma Múltiple que causa falla renal?",
+          "opciones": {
+            "a": "Opcion a: Glomerulonefritis por IgA.",
+            "b": "Opcion b: Necrosis Tubular Aguda por contraste.",
+            "c": "Opcion c: **Riñón de Mieloma** (depósito de cadenas ligeras).",
+            "d": "Opcion d: Nefritis intersticial por antibióticos."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 50,
+          "categoria": "Legislación - Criterios de Exclusión",
+          "caso_clinico": "Una persona con enfermedad oncológica activa avanzada (metástasis múltiples) desea donar sus órganos post-mortem.",
+          "pregunta": "Según la normativa argentina, ¿es la presencia de **cáncer activo o metástasis** una contraindicación absoluta para la donación de órganos (excepto ciertos tumores primarios del SNC)?",
+          "opciones": {
+            "a": "Opcion a: No, la voluntad del donante prevalece sobre cualquier enfermedad.",
+            "b": "Opcion b: Sí, se considera una **contraindicación absoluta** para la mayoría de los órganos por riesgo de transmisión.",
+            "c": "Opcion c: Solo es una contraindicación si el cáncer es hematológico.",
+            "d": "Opcion d: Es una contraindicación relativa que depende de la gravedad del receptor."
+          },
+          "respuesta_correcta": "b"
+        }
+      ]
+    },
+    {
+      "rango_id": "51-75",
+      "tema_principal": "Falla Orgánica en Oncología, Dolor y Soporte Ventilatorio",
+      "preguntas": [
+        {
+          "id": 51,
+          "categoria": "Adulto - Falla Respiratoria",
+          "caso_clinico": "Paciente oncológico inmunosuprimido con hipoxemia severa. La broncoscopía detecta Pneumocystis jirovecii.",
+          "pregunta": "¿Cuál es el tratamiento antibiótico de elección para la Neumonía por Pneumocystis jirovecii (PJP)?",
+          "opciones": {
+            "a": "Opcion a: Amoxicilina/Ácido Clavulánico.",
+            "b": "Opcion b: Azitromicina.",
+            "c": "Opcion c: **Trimetoprima-Sulfametoxazol (TMP/SMX)** a dosis altas.",
+            "d": "Opcion d: Meropenem."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 52,
+          "categoria": "Legislación - Beneficencia",
+          "caso_clinico": "Se discute la asignación de recursos limitados (ej. cama de UCI) entre un paciente oncológico terminal y un politraumatizado recuperable.",
+          "pregunta": "¿Qué principio bioético, central en la Ley de Trasplante y en la medicina crítica, guía la decisión de maximizar el beneficio para el mayor número de personas?",
+          "opciones": {
+            "a": "Opcion a: Autonomía.",
+            "b": "Opcion b: No Maleficencia.",
+            "c": "Opcion c: **Beneficencia** (y Justicia).",
+            "d": "Opcion d: Veracidad."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 53,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Se requiere infusión de Dexmedetomidina (sedante) a 0.5 microgramos/kg/hora en un paciente de 70 kg. Concentración: 200 microgramos/50 mL.",
+          "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
+          "opciones": {
+            "a": "Opcion a: 8.75 mL/hora",
+            "b": "Opcion b: 17.5 mL/hora",
+            "c": "Opcion c: 4.375 mL/hora",
+            "d": "Opcion d: 2.5 mL/hora"
+          },
+          "respuesta_correcta": "a"
+        },
+        {
+          "id": 54,
+          "categoria": "Pediátrico - Oncología/Sepsis",
+          "caso_clinico": "Niño oncológico con shock séptico. No responde a la reanimación con fluidos y la Epinefrina. Persiste con Hipotensión.",
+          "pregunta": "¿Cuál es la dosis de **Hidrocortisona** de estrés recomendada en el manejo del shock refractario pediátrico?",
+          "opciones": {
+            "a": "Opcion a: 2 mg/kg en bolo único.",
+            "b": "Opcion b: 50 mg por dosis, independientemente del peso.",
+            "c": "Opcion c: 50 mg/m2 por dosis.",
+            "d": "Opcion d: 1 mg/kg en bolo, seguido de infusión continua."
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "id": 55,
+          "categoria": "Adulto - Oncología Crítica",
+          "caso_clinico": "Paciente con dolor oncológico severo. Recibe altas dosis de Opioides y desarrolla agitación y delirio hiperactivo.",
+          "pregunta": "¿Cuál es el principal efecto adverso neurológico que puede causar la Morfina y otros opioides en dosis altas?",
+          "opciones": {
+            "a": "Opcion a: Hipoglucemia.",
+            "b": "Opcion b: Toxicidad por **metabolitos activos** (ej. Morfina-3-Glucurónido).",
+            "c": "Opcion c: Hipotermia.",
+            "d": "Opcion d: Falla renal intrínseca."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 56,
+          "categoria": "Legislación - Criterios de Muerte",
+          "caso_clinico": "Se requiere determinar si el daño cerebral de un paciente es suficiente para la certificación de ME.",
+          "pregunta": "¿Cuál es la principal diferencia que distingue la **Muerte Encefálica** del **Coma Irreversible** según el diagnóstico legal?",
+          "opciones": {
+            "a": "Opcion a: La ME tiene hipotensión, el coma no.",
+            "b": "Opcion b: La ME es la ausencia completa e irreversible de **toda** función del tronco encefálico y cerebral.",
+            "c": "Opcion c: El coma irreversible no requiere Test de Apnea.",
+            "d": "Opcion d: La ME permite el mantenimiento hemodinámico, el coma no."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 57,
+          "categoria": "Cálculo - Oncología (Pediátrico)",
+          "caso_clinico": "Niño de 40 kg con dolor. Se inicia infusión de Morfina a 0.05 mg/kg/hora. Concentración: 1 mg/mL.",
+          "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
+          "opciones": {
+            "a": "Opcion a: 2.0 mL/hora",
+            "b": "Opcion b: 0.05 mL/hora",
+            "c": "Opcion c: 0.4 mL/hora",
+            "d": "Opcion d: 20.0 mL/hora"
+          },
+          "respuesta_correcta": "a"
+        },
+        {
+          "id": 58,
+          "categoria": "Neonatal - Oncología/Metabolismo",
+          "caso_clinico": "Neonato con Neuroblastoma presenta Síndrome de Horner (ptosis, miosis, anhidrosis) por tumoración cervical.",
+          "pregunta": "¿Qué estructura del sistema nervioso autónomo es afectada para producir el Síndrome de Horner?",
+          "opciones": {
+            "a": "Opcion a: Ganglio ciliar.",
+            "b": "Opcion b: Nervio facial.",
+            "c": "Opcion c: **Cadena simpática cervical**.",
+            "d": "Opcion d: Nervio óptico."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 59,
+          "categoria": "Adulto - Oncología Crítica",
+          "caso_clinico": "Paciente con Leucemia Linfoide Aguda. Presenta fiebre y shock. Se sospecha de un foco abdominal/catéter.",
+          "pregunta": "¿Cuál es el antibiótico con actividad antipseudomónica y antianaeróbica frecuentemente reservado como 'rescate' en neutropenia febril refractaria?",
+          "opciones": {
+            "a": "Opcion a: Ceftriaxona.",
+            "b": "Opcion b: Ciprofloxacina.",
+            "c": "Opcion c: Meropenem.",
+            "d": "Opcion d: Amikacina."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 60,
+          "categoria": "Legislación - Receptor",
+          "caso_clinico": "Se evalúa un paciente con hepatocarcinoma para trasplante hepático.",
+          "pregunta": "¿Cuál es el **criterio médico** primordial para ingresar a la lista de espera de un órgano, además del pronóstico vital limitado?",
+          "opciones": {
+            "a": "Opcion a: Estar libre de cualquier otra enfermedad.",
+            "b": "Opcion b: Tener **posibilidades razonables de sobrevivir** al trasplante y rehabilitarse.",
+            "c": "Opcion c: Haber pagado los costos del trasplante.",
+            "d": "Opcion d: Ser menor de 50 años."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 61,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Paciente de 75 kg requiere 15 mg de Vancomicina por dosis. Concentración de la dilución: 5 mg/mL.",
+          "pregunta": "¿Qué volumen (mL) de Vancomicina debe infundir?",
+          "opciones": {
+            "a": "Opcion a: 1.5 mL",
+            "b": "Opcion b:3.0 mL",
+            "c": "Opcion c: 2.0 mL",
+            "d": "Opcion d: 5.0 mL"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 62,
+          "categoria": "Pediátrico - Toxicidad de Quimioterapia",
+          "caso_clinico": "Niño en tratamiento con Metotrexato a dosis alta. Presenta mucositis severa y náuseas.",
+          "pregunta": "¿Cuál es la **terapia de rescate** obligatoria para prevenir la mielosupresión y toxicidad sistémica por Metotrexato a dosis altas?",
+          "opciones": {
+            "a": "Opcion a: Antieméticos IV de segunda línea.",
+            "b": "Opcion b: Leucovorina (Ácido Folínico).",
+            "c": "Opcion c: Transfusión de glóbulos blancos.",
+            "d": "Opcion d: Factor estimulante de colonias de granulocitos."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 63,
+          "categoria": "Adulto - Toxicidad de Quimioterapia",
+          "caso_clinico": "Paciente con Sarcoma en quimioterapia desarrolla un cuadro de Insuficiencia Cardíaca por Cardiotoxicidad acumulativa.",
+          "pregunta": "¿Cuál es la medida farmacológica que se utiliza para proteger el corazón durante la administración de Antraciclinas?",
+          "opciones": {
+            "a": "Opcion a: IECA y Betabloqueantes (antes de la quimio).",
+            "b": "Opcion b: Mesna.",
+            "c": "Opcion c: Dosis de **Dexrazoxano** (quelante de hierro).",
+            "d": "Opcion d: Manitol."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 64,
+          "categoria": "Legislación - Confidencialidad",
+          "caso_clinico": "Un médico coordinador de trasplante accede a la base de datos de donantes y receptores.",
+          "pregunta": "¿Qué principio legal es clave en la Ley de Trasplante en Argentina, que prohíbe revelar información que permita la identificación del donante o receptor?",
+          "opciones": {
+            "a": "Opcion a: Justicia.",
+            "b": "Opcion b: Equidad.",
+            "c": "Opcion c: **Confidencialidad y Anonimato**.",
+            "d": "Opcion d: Trazabilidad."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 65,
+          "categoria": "Cálculo - Oncología (Neonatal)",
+          "caso_clinico": "Neonato de 3.5 kg requiere Infusión de Dopamina a 5 microgramos/kg/min. Concentración: 200 mg en 100 mL.",
+          "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
+          "opciones": {
+            "a": "Opcion a: 3.15 mL/hora",
+            "b": "Opcion b: 1.05 mL/hora",
+            "c": "Opcion c: 2.1 mL/hora",
+            "d": "Opcion d: 0.525 mL/hora"
+          },
+          "respuesta_correcta": "d"
+        },
+        {
+          "id": 66,
+          "categoria": "Pediátrico - Oncología Crítica",
+          "caso_clinico": "Niño oncológico con diagnóstico de Hiponatremia (< 120 mEq/L) asintomática, secundaria a SIADH.",
+          "pregunta": "¿Cuál es el manejo inicial y seguro para la hiponatremia asintomática por SIADH?",
+          "opciones": {
+            "a": "Opcion a: Bolo de solución salina hipertónica al $3\\%$.",
+            "b": "Opcion b: Restricción hídrica estricta.",
+            "c": "Opcion c: Infusión de Manitol.",
+            "d": "Opcion d: Furosemida."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 67,
+          "categoria": "Adulto - Toxicidad de Quimioterapia",
+          "caso_clinico": "Paciente con Mieloma Múltiple presenta Hipercalcemia maligna. Se inician Bifosfonatos IV.",
+          "pregunta": "¿Cuál es la principal toxicidad que debe monitorizarse cuidadosamente tras la administración de Bifosfonatos IV?",
+          "opciones": {
+            "a": "Opcion a: Hiperpotasemia.",
+            "b": "Opcion b: Hipocalcemia y falla renal aguda.",
+            "c": "Opcion c: Hipernatremia.",
+            "d": "Opcion d: Edema agudo de pulmón."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 68,
+          "categoria": "Legislación - Definición de ME",
+          "caso_clinico": "Se revisan los documentos fundacionales de la Ley de Trasplante.",
+          "pregunta": "¿Cuál es la definición clínica de la **Muerte Encefálica** adoptada por la Ley Argentina?",
+          "opciones": {
+            "a": "Opcion a: Ausencia de flujo sanguíneo cerebral.",
+            "b": "Opcion b: Cese irreversible de la actividad cardiorrespiratoria **o** de las funciones encefálicas totales.",
+            "c": "Opcion c: Ausencia de ondas en el electroencefalograma.",
+            "d": "Opcion d: Coma profundo sin respuesta a estímulos verbales."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 69,
+          "categoria": "Pediátrico - Oncología Crítica",
+          "caso_clinico": "Niño oncológico con signos de HTP (Hipertensión Pulmonar) grave, sin cardiopatía congénita conocida.",
+          "pregunta": "¿Cuál es la causa subyacente de HTP que debe buscarse en un paciente oncológico post-tratamiento?",
+          "opciones": {
+            "a": "Opcion a: Hipertrofia septal.",
+            "b": "Opcion b: Toxicidad vascular pulmonar (ej. Mitomicina) o EICH crónico.",
+            "c": "Opcion c: Hipotiroidismo severo.",
+            "d": "Opcion d: Cardiopatía dilatada."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 70,
+          "categoria": "Adulto - Toxicidad de Quimioterapia",
+          "caso_clinico": "Paciente en quimioterapia con Hipocalcemia y Tétanos. Presenta también Hipomagnesemia.",
+          "pregunta": "¿Qué agente quimioterápico nefro-tóxico se asocia comúnmente con la pérdida renal de magnesio y calcio?",
+          "opciones": {
+            "a": "Opcion a: Bleomicina.",
+            "b": "Opcion b: Vincristina.",
+            "c": "Opcion c: Cisplatino.",
+            "d": "Opcion d: 5-Fluorouracilo."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 71,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Se requiere infusión de Heparina a 18  unidades/kg/hora en paciente de $70 kg. Concentración: 25.000 unidades en 250  mL.",
+          "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
+          "opciones": {
+            "a": "Opcion a: 6.3 mL/hora",
+            "b": "Opcion b: 12.6 mL/hora",
+            "c": "Opcion c: 3.15 mL/hora",
+            "d": "Opcion d: 9.45 mL/hora"
+          },
+          "respuesta_correcta": "a"
+        },
+        {
+          "id": 72,
+          "categoria": "Neonatal - Oncología/Soporte",
+          "caso_clinico": "Neonato con tumor requiere alimentación parenteral (NPT) por riesgo de Síndrome de Lisis Tumoral.",
+          "pregunta": "¿Cuál es la principal restricción electrolítica que se debe aplicar en la NPT para minimizar el riesgo de SLT?",
+          "opciones": {
+            "a": "Opcion a: Restricción de Sodio.",
+            "b": "Opcion b: Restricción de Cloro.",
+            "c": "Opcion c: Restricción de **Fosfato y Potasio**.",
+            "d": "Opcion d: Restricción de Calcio."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 73,
+          "categoria": "Adulto - Oncología Crítica",
+          "caso_clinico": "Paciente con dolor oncológico severo. Presenta depresión respiratoria por Morfina IV.",
+          "pregunta": "¿Cuál es el antídoto específico y de acción rápida para revertir la depresión respiratoria inducida por Opioides?",
+          "opciones": {
+            "a": "Opcion a: Flumazenil.",
+            "b": "Opcion b: Atropina.",
+            "c": "Opcion c: **Naloxona**.",
+            "d": "Opcion d: Bicarbonato de Sodio."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 74,
+          "categoria": "Legislación - Bioética",
+          "caso_clinico": "El equipo médico recibe una llamada para consultar sobre un potencial donante con Muerte Encefálica.",
+          "pregunta": "¿Cuál es el primer paso ético-legal que debe realizarse en Argentina antes de iniciar cualquier maniobra de mantenimiento del donante?",
+          "opciones": {
+            "a": "Opcion a: Coordinar el traslado del donante al centro de implante.",
+            "b": "Opcion b: Verificar la **negativa expresa** del paciente en el registro.",
+            "c": "Opcion c: Realizar una biopsia renal para ver si el órgano es viable.",
+            "d": "Opcion d: Obtener el consentimiento familiar."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 75,
+          "categoria": "Cálculo - Oncología (Pediátrico)",
+          "caso_clinico": "Niño de 5 kg con hipotensión. Se requiere Bolo de Adrenalina a 10 microgramos/kg. Presentación: 1 mg/mL (dilución 1:10.000).",
+          "pregunta": "¿Qué volumen (mL) de la dilución $1:10.000$ debe administrarse?",
+          "opciones": {
+            "a": "Opcion a: 0.5 mL",
+            "b": "Opcion b: 0.05 mL",
+            "c": "Opcion c: 1.0 mL",
+            "d": "Opcion d: 0.25 mL"
+          },
+          "respuesta_correcta": "a"
+        }
+      ]
+    },
+    {
+      "rango_id": "76-100",
+      "tema_principal": "Complicaciones Hematológicas, Infecciones y Criterios Terapéuticos",
+      "preguntas": [
+        {
+          "id": 76,
+          "categoria": "Adulto - Emergencias Hematológicas",
+          "caso_clinico": "Paciente con Mieloma Múltiple presenta Síndrome de Hiperviscosidad (confusión, visión borrosa).",
+          "pregunta": "¿Cuál es el tratamiento de emergencia para reducir rápidamente la viscosidad sérica en el Síndrome de Hiperviscosidad?",
+          "opciones": {
+            "a": "Opcion a: Transfusión de glóbulos rojos.",
+            "b": "Opcion b: Plasmaféresis.",
+            "c": "Opcion c: Hidratación con Dextrosa al 5%.",
+            "d": "Opcion d: Iniciar quimioterapia de inducción."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 77,
+          "categoria": "Legislación - Bioética",
+          "caso_clinico": "Se evalúa un donante potencial con VIH controlado.",
+          "pregunta": "Según las guías actuales del INCUCAI (siguiendo estándares internacionales), ¿es el VIH una contraindicación absoluta para la donación de órganos?",
+          "opciones": {
+            "a": "Opcion a: Sí, es una contraindicación absoluta para todos los órganos.",
+            "b": "Opcion b: No, se permite la donación a receptores **también VIH positivos**.",
+            "c": "Opcion c: Solo se permite la donación de órganos no vascularizados (ej. córnea).",
+            "d": "Opcion d: Es una contraindicación relativa que depende de la carga viral."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 78,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Paciente de 80kg requiere infusión de Remifentanilo a 0.08 microgramos/kg/min. Concentración: 2 mg en 100 mL.",
+          "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
+          "opciones": {
+            "a": "Opcion a: 19.2 mL/hora",
+            "b": "Opcion b: 9.6 mL/hora",
+            "c": "Opcion c: 14.4 mL/hora",
+            "d": "Opcion d: 4.8 mL/hora"
+          },
+          "respuesta_correcta": "a"
+        },
+        {
+          "id": 79,
+          "categoria": "Pediátrico - Oncología Crítica",
+          "caso_clinico": "Niño oncológico con neutropenia febril. Se aísla *Pseudomonas aeruginosa* en hemocultivo.",
+          "pregunta": "¿Cuál es el manejo antibiótico de elección para la infección por *Pseudomonas aeruginosa* en el paciente neutropénico?",
+          "opciones": {
+            "a": "Opcion a: Vancomicina monoterapia.",
+            "b": "Opcion b: Ceftriaxona monoterapia.",
+            "c": "Opcion c: **Doble cobertura anti-pseudomónica** (ej. Ceftazidima/Meropenem más Amikacina).",
+            "d": "Opcion d: Clindamicina."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 80,
+          "categoria": "Adulto - Toxicidad de Quimioterapia",
+          "caso_clinico": "Paciente recibe quimioterapia con Inhibidores de Tirosina Kinasa (ej. Sunitinib). Desarrolla disfunción ventricular izquierda y cardiomiopatía.",
+          "pregunta": "¿Qué tipo de Cardiotoxicidad es característico de estos nuevos agentes dirigidos (Targeted Therapies)?",
+          "opciones": {
+            "a": "Opcion a: Cardiotoxicidad tipo I (irreversible).",
+            "b": "Opcion b: Cardiotoxicidad tipo II (reversible o dosis-independiente).",
+            "c": "Opcion c: Pericarditis constrictiva.",
+            "d": "Opcion d: Falla renal intrínseca."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 81,
+          "categoria": "Legislación - Donante Vivo",
+          "caso_clinico": "Un donante vivo desea donar un lóbulo pulmonar.",
+          "pregunta": "¿Qué órganos **no** pueden ser donados por un donante vivo, según la ley argentina, por implicar un grave riesgo vital para el donante?",
+          "opciones": {
+            "a": "Opcion a: Riñón y piel.",
+            "b": "Opcion b: Pulmón, corazón e intestino.",
+            "c": "Opcion c: Segmento hepático y médula ósea.",
+            "d": "Opcion d: Páncreas y córnea."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 82,
+          "categoria": "Cálculo - Oncología (Pediátrico)",
+          "caso_clinico": "Niño de 20 kg con dolor. Se requiere bolo de Morfina a 0.1 mg/kg. Concentración: 1 mg/mL.",
+          "pregunta": "¿Qué volumen (mL) de Morfina debe administrar?",
+          "opciones": {
+            "a": "Opcion a: 0.2 mL",
+            "b": "Opcion b: 2.0 mL",
+            "c": "Opcion c: 0.02 mL",
+            "d": "Opcion d: 1.0 mL"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 83,
+          "categoria": "Neonatal - Oncología/Metabolismo",
+          "caso_clinico": "Neonato con Neuroblastoma inoperable presenta diarrea secretora y deshidratación grave.",
+          "pregunta": "¿Qué péptido vasoactivo, liberado por el tumor, puede causar un síndrome de diarrea secretora (Vasoactive Intestinal Peptide - VIP)?",
+          "opciones": {
+            "a": "Opcion a: Somatostatina.",
+            "b": "Opcion b: Polipéptido intestinal vasoactivo (VIP).",
+            "c": "Opcion c: Insulina.",
+            "d": "Opcion d: Glucagón."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 84,
+          "categoria": "Adulto - Oncología Crítica",
+          "caso_clinico": "Paciente neutropénico con dolor torácico, tos y hemoptisis. La TAC muestra lesiones nodulares con 'signo del halo' (opacidad central rodeada de vidrio esmerilado).",
+          "pregunta": "¿Qué infección fúngica invasiva debe sospecharse urgentemente?",
+          "opciones": {
+            "a": "Opcion a: Coccidioidomicosis.",
+            "b": "Opcion b: Histoplasmosis.",
+            "c": "Opcion c: Aspergilosis invasiva.",
+            "d": "Opcion d: Neumonía por Cándida."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 85,
+          "categoria": "Legislación - Criterios de Exclusión",
+          "caso_clinico": "Se evalúa un potencial donante con sepsis grave y choque refractario.",
+          "pregunta": "¿Es la **sepsis no controlada** (infección bacteriana grave) una contraindicación absoluta para la donación de órganos vitales?",
+          "opciones": {
+            "a": "Opcion a: No, siempre y cuando se administren antibióticos de amplio espectro.",
+            "b": "Opcion b: Sí, es una **contraindicación absoluta** por el riesgo de transmisión de la infección al receptor.",
+            "c": "Opcion c: Solo si la sepsis es de origen fúngico.",
+            "d": "Opcion d: Es una contraindicación solo para donantes pediátricos."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 86,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Paciente de 70 kg requiere infusión de Vasopresina a 0.04 unidades/min (dosis fija). Concentración: 20 unidades en 100 mL.",
+          "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
+          "opciones": {
+            "a": "Opcion a: 12.0 mL/hora",
+            "b": "Opcion b: 4.8 mL/hora",
+            "c": "Opcion c: 1.2 mL/hora",
+            "d": "Opcion d: 1.0 mL/hora"
+          },
+          "respuesta_correcta": "a"
+        },
+        {
+          "id": 87,
+          "categoria": "Pediátrico - Oncología/Toxicidad",
+          "caso_clinico": "Niño con un tumor cerebral. Recibe Vinblastina y desarrolla estreñimiento severo y disminución de reflejos tendinosos.",
+          "pregunta": "¿Cuál es la toxicidad de órgano blanco más común asociada a los alcaloides de la vinca (ej. Vincristina, Vinblastina)?",
+          "opciones": {
+            "a": "Opcion a: Cardiotoxicidad irreversible.",
+            "b": "Opcion b: Toxicidad gastrointestinal (diarrea secretora).",
+            "c": "Opcion c: **Neurotoxicidad periférica** (neuropatía).",
+            "d": "Opcion d: Falla renal aguda."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 88,
+          "categoria": "Adulto - Oncología Crítica",
+          "caso_clinico": "Paciente oncológico con choque séptico y falla adrenal relativa por uso crónico de corticoides.",
+          "pregunta": "¿Cuál es el tratamiento de primera línea para la insuficiencia adrenal relativa en el paciente crítico?",
+          "opciones": {
+            "a": "Opcion a: Fludrocortisona oral.",
+            "b": "Opcion b: Bolo y mantenimiento de **Hidrocortisona** IV.",
+            "c": "Opcion c: Bolo de Dexametasona IV.",
+            "d": "Opcion d: ACTH sintético."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 89,
+          "categoria": "Legislación - Consentimiento Informado",
+          "caso_clinico": "Un paciente despierto y competente en UCI es elegible para una técnica terapéutica invasiva.",
+          "pregunta": "¿Qué documento es legalmente indispensable para iniciar cualquier procedimiento de alto riesgo en un paciente consciente y competente, según la ley argentina?",
+          "opciones": {
+            "a": "Opcion a: La aprobación del Comité de Ética.",
+            "b": "Opcion b: El **Consentimiento Informado** firmado por el paciente.",
+            "c": "Opcion c: La opinión de un familiar directo.",
+            "d": "Opcion d: La solicitud judicial."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 90,
+          "categoria": "Cálculo - Oncología (Neonatal)",
+          "caso_clinico": "Neonato de 3.0 kg requiere infusión de Milrinona a 0.5microgramos/kg/min. Concentración: 1 mg en 50 mL.",
+          "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
+          "opciones": {
+            "a": "Opcion a: 4.5 mL/hora",
+            "b": "Opcion b: 9.0 mL/hora",
+            "c": "Opcion c: 2.25 mL/hora",
+            "d": "Opcion d: 1.5mL/hora"
+          },
+          "respuesta_correcta": "a"
+        },
+        {
+          "id": 91,
+          "categoria": "Pediátrico - Oncología Crítica",
+          "caso_clinico": "Niño con tumor sólido presenta hiperfosfatemia y Tétanos post-quimioterapia.",
+          "pregunta": "¿Qué medida terapéutica es esencial para prevenir el daño renal inducido por el SLT, además de la hidratación?",
+          "opciones": {
+            "a": "Opcion a: Administración de Calcio IV rápida.",
+            "b": "Opcion b: Uso de **Rasburicasa** (para la hiperuricemia).",
+            "c": "Opcion c: Bolo de Furosemida.",
+            "d": "Opcion d: Bicarbonato de Sodio."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 92,
+          "categoria": "Adulto - Toxicidad de Quimioterapia",
+          "caso_clinico": "Paciente con Hipoxemia severa. Recibe Gemcitabina. Desarrolla un microangiopatía trombótica (MAT) renal.",
+          "pregunta": "¿Qué terapia de soporte es clave para el manejo de la anemia hemolítica y la falla renal en la MAT inducida por fármacos oncológicos?",
+          "opciones": {
+            "a": "Opcion a: Transfusión de plaquetas.",
+            "b": "Opcion b: Plasmaféresis.",
+            "c": "Opcion c: Corticoides en dosis altas.",
+            "d": "Opcion d: Quimioterapia de rescate."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 93,
+          "categoria": "Legislación - Final de Vida",
+          "caso_clinico": "Un paciente oncológico terminal en UCI con VMI, cuya familia solicita la limitación del esfuerzo terapéutico (LET).",
+          "pregunta": "Según la Ley Argentina de Derechos del Paciente, ¿quién tiene la facultad de solicitar o autorizar la Limitación del Esfuerzo Terapéutico (LET) en un paciente incurable e irreversible?",
+          "opciones": {
+            "a": "Opcion a: El médico de la UCI y el Comité de Ética.",
+            "b": "Opcion b: El **paciente competente** o sus **representantes legales** (directivas anticipadas/familiares).",
+            "c": "Opcion c: Solo la autorización de un juez.",
+            "d": "Opcion d: El equipo de enfermería."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 94,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Paciente de 70 kg requiere Bolo de Atropina a 0.02 mg/kg. Concentración: 1 mg/mL.",
+          "pregunta": "¿Qué volumen (mL) de Atropina debe administrar?",
+          "opciones": {
+            "a": "Opcion a: 1.4 mL",
+            "b": "Opcion b: 0.14mL",
+            "c": "Opcion c: 0.7mL ",
+            "d": "Opcion d: 2.8 mL"
+          },
+          "respuesta_correcta": "a"
+        },
+        {
+          "id": 95,
+          "categoria": "Neonatal - Oncología Crítica",
+          "caso_clinico": "Neonato con Leucemia Congénita desarrolla Hemorragia Pulmonar Masiva y coagulopatía.",
+          "pregunta": "¿Cuál es la intervención ventilatoria crucial para intentar tamponar el sangrado en la hemorragia pulmonar neonatal?",
+          "opciones": {
+            "a": "Opcion a: Reducción de la PEEP a cero.",
+            "b": "Opcion b: Aumento de la PEEP y de la Presión Media en la Vía Aérea (MAP).",
+            "c": "Opcion c: Ventilación con volumen bajo.",
+            "d": "Opcion d: Uso de Óxido Nítrico Inhalado."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 96,
+          "categoria": "Pediátrico - Oncología/Sepsis",
+          "caso_clinico": "Niño oncológico con choque séptico. Los niveles de lactato son $> 4\\ \\text{mmol/L}$.",
+          "pregunta": "¿Qué medida de reanimación se utiliza como guía para la adecuación de la perfusión en el choque séptico pediátrico?",
+          "opciones": {
+            "a": "Opcion a: Medición de la PEEP intrínseca.",
+            "b": "Opcion b: Normalización de la Presión Arterial Diastólica.",
+            "c": "Opcion c: Normalización de los niveles de **Lactato**.",
+            "d": "Opcion d: Normalización de la Frecuencia Cardíaca."
+          },
+          "respuesta_correcta": "c"
+        },
+        {
+          "id": 97,
+          "categoria": "Adulto - Toxicidad de Quimioterapia",
+          "caso_clinico": "Paciente con diarrea por Cáncer Colorrectal (CRC) y tratamiento con Irinotecán.",
+          "pregunta": "¿Cuál es la complicación gastrointestinal más severa y potencialmente mortal asociada al Irinotecán?",
+          "opciones": {
+            "a": "Opcion a: Colitis ulcerosa.",
+            "b": "Opcion b: **Diarrea colinérgica aguda** (y tardía).",
+            "c": "Opcion c: Falla hepática fulminante.",
+            "d": "Opcion d: Obstrucción intestinal."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 98,
+          "categoria": "Legislación - Confidencialidad",
+          "caso_clinico": "Un periodista solicita al hospital el nombre de los donantes de órganos de la última semana.",
+          "pregunta": "¿Cuál es la respuesta legalmente correcta según el principio de confidencialidad de la Ley Argentina de Trasplante?",
+          "opciones": {
+            "a": "Opcion a: La información puede revelarse con fines estadísticos.",
+            "b": "Opcion b: **Está prohibida** la divulgación de cualquier información que identifique al donante o receptor.",
+            "c": "Opcion c: Solo se puede revelar el nombre del receptor, no el del donante.",
+            "d": "Opcion d: La información es pública si el receptor lo autoriza."
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 99,
+          "categoria": "Cálculo - Oncología (Adulto)",
+          "caso_clinico": "Paciente de 65kg requiere 150 mg de Ciclofosfamida por dosis. Presentación: 50mg/mL.",
+          "pregunta": "¿Qué volumen (mL) de Ciclofosfamida debe administrar?",
+          "opciones": {
+            "a": "Opcion a: 2mL",
+            "b": "Opcion b: 3mL",
+            "c": "Opcion c: 1mL",
+            "d": "Opcion d: 5mL"
+          },
+          "respuesta_correcta": "b"
+        },
+        {
+          "id": 100,
+          "categoria": "Adulto - Oncología Crítica",
+          "caso_clinico": "Paciente oncológico con neutropenia febril. A las 48 horas de antibióticos de amplio espectro, sigue febril y deteriorado.",
+          "pregunta": "¿Cuál es la siguiente medida terapéutica obligatoria si la fiebre y el deterioro persisten **después de 48-72 horas**?",
+          "opciones": {
+            "a": "Opcion a: Retiro inmediato de antibióticos.",
+            "b": "Opcion b: Inicio de **terapia antifúngica empírica**.",
+            "c": "Opcion c: Transfusión profiláctica de plaquetas.",
+            "d": "Opcion d: Colocación de una sonda nasogástrica."
+          },
+          "respuesta_correcta": "b"
+        }
+      ]
+    }
+  ]
+}
