@@ -1,6 +1,7 @@
 // ===== CONFIGURACIÓN Y CONSTANTES =====
 const ADMIN_PASSWORD = "Teamopi91";
 const DURACION_CLAVE_HORAS = 48;
+const URL_CLAVE_CONFIG = 'clave_config.json';
 
 // ===== VARIABLES GLOBALES =====
 let claveAlumno = null;
@@ -14,47 +15,55 @@ let tiempoRestante = 240 * 60; // 4 horas en segundos
 let intervaloCronometro = null;
 
 // ===== INICIALIZACIÓN =====
-document.addEventListener('DOMContentLoaded', () => {
-    inicializarClave();
+document.addEventListener('DOMContentLoaded', async () => {
+    await cargarClaveDesdeServidor();
     mostrarPantalla('seleccionRol');
 });
 
 // ===== GESTIÓN DE CLAVES =====
-function inicializarClave() {
-    const claveGuardada = localStorage.getItem('claveAlumno');
-    const fechaExpiracion = localStorage.getItem('fechaExpiracionClave');
-    
-    if (claveGuardada && fechaExpiracion) {
-        const ahora = new Date().getTime();
-        const expiracion = parseInt(fechaExpiracion);
-        
-        if (ahora < expiracion) {
-            claveAlumno = claveGuardada;
-            fechaExpiracionClave = expiracion;
-            console.log('Clave válida cargada:', claveAlumno);
-            return;
+async function cargarClaveDesdeServidor() {
+    try {
+        const response = await fetch(URL_CLAVE_CONFIG + '?t=' + new Date().getTime());
+        if (response.ok) {
+            const config = await response.json();
+            claveAlumno = config.claveAlumno;
+            fechaExpiracionClave = config.fechaExpiracion;
+            console.log('Clave cargada desde servidor:', claveAlumno);
+        } else {
+            console.error('Error al cargar configuración de clave');
+            generarClaveTemporal();
         }
+    } catch (error) {
+        console.error('Error al conectar con servidor:', error);
+        generarClaveTemporal();
     }
-    
-    generarClave();
 }
 
-function generarClave() {
-    claveAlumno = Math.random().toString(36).substring(2, 10).toUpperCase();
+function generarClaveTemporal() {
+    claveAlumno = 'DEMO2025';
     fechaExpiracionClave = new Date().getTime() + (DURACION_CLAVE_HORAS * 60 * 60 * 1000);
-    
-    localStorage.setItem('claveAlumno', claveAlumno);
-    localStorage.setItem('fechaExpiracionClave', fechaExpiracionClave);
-    
-    console.log('Nueva clave generada:', claveAlumno);
+    console.log('Usando clave temporal:', claveAlumno);
 }
 
-function generarNuevaClave() {
-    if (confirm('¿Está seguro de generar una nueva clave? La anterior dejará de funcionar.')) {
-        generarClave();
-        actualizarPanelAdmin();
-        alert('Nueva clave generada exitosamente.');
-    }
+async function generarNuevaClave() {
+    const nuevaClave = prompt('Ingrese la nueva clave para los alumnos (o deje vacío para generar una aleatoria):');
+    
+    if (nuevaClave === null) return; // Usuario canceló
+    
+    const clave = nuevaClave.trim() || Math.random().toString(36).substring(2, 10).toUpperCase();
+    const duracionHoras = prompt('¿Cuántas horas será válida esta clave?', '48');
+    
+    if (!duracionHoras) return;
+    
+    const horas = parseInt(duracionHoras);
+    const expiracion = new Date().getTime() + (horas * 60 * 60 * 1000);
+    
+    claveAlumno = clave;
+    fechaExpiracionClave = expiracion;
+    
+    actualizarPanelAdmin();
+    
+    alert(`⚠️ IMPORTANTE: Debes actualizar manualmente el archivo clave_config.json con:\n\n{\n  "claveAlumno": "${clave}",\n  "fechaExpiracion": ${expiracion},\n  "activo": true\n}\n\nLuego hacer commit y push a GitHub para que funcione en Netlify.`);
 }
 
 function copiarClave() {
