@@ -1,1228 +1,1302 @@
-{
-  "bloque": "Bloque 1 de 4",
-  "rango_preguntas": "1 - 25",
-  "temas": ["Urología Crítica Adulto", "Cálculo de Dosis", "Sepsis Urológica"],
-  "preguntas": [
-    {
-      "id": 1,
-      "categoria": "Urología Crítica Adulto - Caso Clínico",
-      "enunciado": "Paciente de 65 años con diabetes ingresa a UCI con **fascitis necrotizante de Fournier**. Se encuentra en shock séptico. La prioridad urológica e inmediata después de la reanimación inicial es:",
-      "opciones": {
-        "a": "Drenaje y desbridamiento quirúrgico extenso de urgencia.",
-        "b": "Colocación de catéter doble J profiláctico por riesgo de uropatía.",
-        "c": "Administración de inmunoglobulinas y curaciones con apósitos especiales.",
-        "d": "Esperar 24 horas para estabilización hemodinámica antes de la cirugía."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 2,
-      "categoria": "Urología Crítica Adulto - Trauma",
-      "enunciado": "En un paciente con politraumatismo y sospecha de rotura vesical, el método diagnóstico de elección para confirmar la lesión es:",
-      "opciones": {
-        "a": "Ecografía abdominal rápida (FAST).",
-        "b": "Cistoscopía de urgencia.",
-        "c": "Urografía intravenosa con contraste.",
-        "d": "**Cistografía** con contraste, idealmente retrógrada."
-      },
-      "respuesta_correcta": "d"
-    },
-    {
-      "id": 3,
-      "categoria": "Cálculo de Medicación - Infusión",
-      "enunciado": "Un paciente de 80 kg necesita una infusión de **Norepinefrina** a 0.1  g/kg/min$. La presentación es de 4 mg en 250 mL de Solución Dextrosa al 5%. ¿A qué velocidad de infusión (mL/hora) debe ajustarse la bomba?",
-      "opciones": {
-        "a": "2.4 mL/hora.",
-        "b": "3.0 mL/hora.",
-        "c": "4.8 mL/hora.",
-        "d": "6.0 mL/hora."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 4,
-      "categoria": "Urología Crítica Adulto - Manejo",
-      "enunciado": "La indicación de tratamiento quirúrgico **urgente** en un hematoma renal post-traumático (grado IV) es la siguiente, **excepto**:",
-      "opciones": {
-        "a": "Shock persistente a pesar de reanimación adecuada.",
-        "b": "Hematoma pulsátil o en expansión activa.",
-        "c": "Extravasación urinaria que no se controla con drenaje percutáneo.",
-        "d": "Pérdida de más del 50% de la función renal unilateral."
-      },
-      "respuesta_correcta": "d"
-    },
-    {
-      "id": 5,
-      "categoria": "Farmacología en IRA",
-      "enunciado": "Un paciente con urosepsis tiene un ClCr de 15 mL/min. Necesita **Piperacilina/Tazobactam (Pip/Tazo)**. Si la dosis estándar es 4.5 g cada 6 horas, ¿cuál es el ajuste de dosis/frecuencia más apropiado para esta IRA severa?",
-      "opciones": {
-        "a": "4.5 g cada 6 horas (sin ajuste).",
-        "b": "3.375 g cada 8 horas.",
-        "c": "2.25 g cada 12 horas.",
-        "d": "4.5 g cada 12 horas."
-      },
-      "respuesta_correcta": "d"
-    },
-    {
-      "id": 6,
-      "categoria": "Urología Crítica Adulto - Fisiopatología",
-      "enunciado": "El mecanismo principal por el cual la obstrucción urinaria bilateral aguda conduce a insuficiencia renal es:",
-      "opciones": {
-        "a": "Disminución de la resistencia vascular renal aferente.",
-        "b": "Aumento de la reabsorción tubular de sodio y agua.",
-        "c": "Aumento de la presión hidrostática en la cápsula de Bowman.",
-        "d": "Liberación de mediadores inflamatorios que causan necrosis tubular."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 7,
-      "categoria": "Cálculo de Medicación - Bolo",
-      "enunciado": "Se requiere un bolo de **Gentamicina** a 5 mg/kg. El paciente pesa 90 kg. La Gentamicina se presenta en ampollas de 80 mg/2 mL. ¿Cuántos mL debe extraer de la ampolla?",
-      "opciones": {
-        "a": "11.25 mL.",
-        "b": "8.5 mL.",
-        "c": "9.0 mL.",
-        "d": "10.0 mL."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 8,
-      "categoria": "Urología Crítica Adulto - Hematuria",
-      "enunciado": "Ante una hematuria masiva con coágulos que ocluyen la sonda vesical, el paso inicial de manejo en la UCI es:",
-      "opciones": {
-        "a": "Lavar la vejiga con solución salina fría para evacuar los coágulos.",
-        "b": "Realizar una tomografía de abdomen de urgencia.",
-        "c": "Iniciar transfusión masiva de hemoderivados.",
-        "d": "Administrar antifibrinolíticos como el Ácido Tranexámico."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 9,
-      "categoria": "Urología Crítica Adulto - Obstrucción",
-      "enunciado": "El principal riesgo metabólico asociado con la diuresis post-obstructiva (luego del drenaje de la retención urinaria crónica) es:",
-      "opciones": {
-        "a": "Hiponatremia y acidosis metabólica.",
-        "b": "Hipocalcemia y alcalosis respiratoria.",
-        "c": "Deshidratación, hipopotasemia e hiponatremia.",
-        "d": "Hiperpotasemia e hipercloremia."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 10,
-      "categoria": "Farmacología en UCI",
-      "enunciado": "En la monitorización de Vancomicina en un paciente crítico, el objetivo de la **Concentración Valle (Cmin)** en la mayoría de las infecciones graves (incluida la urosepsis por MRSA) es mantenerla entre:",
-      "opciones": {
-        "a": "5-10 g/mL.",
-        "b": "15-20  g/mL$.",
-        "c": "25-30  g/mL.",
-        "d": "10-15  g/mL.",
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 11,
-      "categoria": "Urología Crítica Adulto - Trauma",
-      "enunciado": "La lesión uretral más común en el varón adulto, típicamente asociada a una fractura de pelvis por trauma cerrado, es:",
-      "opciones": {
-        "a": "Desgarro de la uretra glandular.",
-        "b": "Avulsión de la uretra bulbar.",
-        "c": "Lesión de la uretra membranosa (porción posterior).",
-        "d": "Fístula vésico-cutánea."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 12,
-      "categoria": "Urología Crítica Adulto - Caso Clínico",
-      "enunciado": "Paciente masculino de 45 años con priapismo isquémico de 6 horas de duración. El tratamiento inicial más crucial para prevenir la disfunción eréctil permanente es:",
-      "opciones": {
-        "a": "Cuerpos cavernosos con inyección de PGE1.",
-        "b": "Observación y administración de analgésicos.",
-        "c": "Aspiración de sangre corporal y cavernosos con inyección de alfa-agonistas (Fenilefrina).",
-        "d": "Derivación venosa safena-cavernosa de urgencia."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 13,
-      "categoria": "Cálculo de Medicación - Carga",
-      "enunciado": "Se necesita una dosis de carga de **Amikacina** de 20 mg/kg en un paciente de 60 kg. La presentación es de 500 mg/2 mL. ¿Cuántos mL debe administrar?",
-      "opciones": {
-        "a": "4.8 mL.",
-        "b": "3.2 mL.",
-        "c": "6.0 mL.",
-        "d": "5.5 mL."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 14,
-      "categoria": "Urología Crítica Adulto - Infección",
-      "enunciado": "La causa más común de hematuria macroscópica con dolor en flanco en un paciente crítico con catéter de Foley de larga data es:",
-      "opciones": {
-        "a": "Carcinoma de células transicionales de alto grado.",
-        "b": "Infección fúngica (Cándida) con bolas fúngicas en la vejiga.",
-        "c": "Litiasis vesical incrustada o incrustación de la sonda.",
-        "d": "Glomerulonefritis aguda."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 15,
-      "categoria": "Farmacocinética en UCI",
-      "enunciado": "En pacientes con sepsis y gran volumen de distribución, los antibióticos $\beta$-lactámicos (como el Meropenem) se benefician más de una administración en infusión extendida o continua porque son antibióticos con efecto dependiente de:",
-      "opciones": {
-        "a": "La concentración máxima (Cmax).",
-        "b": "El área bajo la curva (AUC/CIM).",
-        "c": "El tiempo que la concentración supera la CIM (T>CIM).",
-        "d": "La vida media plasmática (T1/2)."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 16,
-      "categoria": "Urología Crítica Adulto - IRA",
-      "enunciado": "En el contexto de la necrosis cortical renal bilateral (complicación rara de sepsis o trauma grave), la característica distintiva en la ecografía es:",
-      "opciones": {
-        "a": "Pérdida de la diferenciación corticomedular con corteza ecogénica.",
-        "b": "Hidronefrosis severa con dilatación pieloureteral.",
-        "c": "Múltiples quistes corticales de pared fina.",
-        "d": "Presencia de gas en el sistema colector (pielonefritis enfisematosa)."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 17,
-      "categoria": "Cálculo de Medicación - Conversión",
-      "enunciado": "Se requiere administrar un diurético. El paciente recibe una infusión de **Furosemida** a 0.2 mg/kg/hora. Si el paciente pesa 75 kg, ¿cuántos mg recibe en 12 horas?",
-      "opciones": {
-        "a": "180 mg.",
-        "b": "100 mg.",
-        "c": "240 mg.",
-        "d": "200 mg."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 18,
-      "categoria": "Urología Crítica Adulto - Complicaciones",
-      "enunciado": "¿Cuál de las siguientes complicaciones es más común después de un manejo endoscópico de litiasis ureteral de larga data en un paciente séptico?",
-      "opciones": {
-        "a": "Estenosis uretral.",
-        "b": "Síndrome de respuesta inflamatoria sistémica (SIRS).",
-        "c": "Lesión de arterias renales accesorias.",
-        "d": "Retención aguda de orina."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 19,
-      "categoria": "Urología Crítica Adulto - Caso Clínico",
-      "enunciado": "Paciente con SIDA y Linfoma de Burkitt que inicia quimioterapia presenta IRA. El diagnóstico presuntivo es síndrome de lisis tumoral con **uropatía por ácido úrico**. ¿Cuál es la piedra angular del manejo inicial para prevenir la obstrucción tubular?",
-      "opciones": {
-        "a": "Alcalinización urinaria y reposición con volumen agresivo.",
-        "b": "Diálisis de urgencia.",
-        "c": "Administración de altas dosis de esteroides.",
-        "d": "Ureteroscopía para drenaje."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 20,
-      "categoria": "Farmacología en Shock",
-      "enunciado": "Un paciente séptico de 60 kg requiere aumentar la infusión de **Dopamina** a 10 g/kg/min. Si la concentración es de 400 mg en 250 mL, ¿cuál es la velocidad de infusión en mL/hora?",
-      "opciones": {
-        "a": "18 mL/hora.",
-        "b": "22.5 mL/hora.",
-        "c": "9.0 mL/hora.",
-        "d": "15 mL/hora."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 21,
-      "categoria": "Urología Crítica Adulto - Trauma",
-      "enunciado": "En la evaluación inicial de un traumatismo genitourinario en UCI, el hallazgo que tiene mayor valor predictivo para **traumatismo uretral** en un varón es:",
-      "opciones": {
-        "a": "Dolor en flanco.",
-        "b": "Hematuria macroscópica.",
-        "c": "Próstata 'flotante' o alta al tacto rectal.",
-        "d": "Fiebre persistente."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 22,
-      "categoria": "Urología Crítica Adulto - Hipertensión",
-      "enunciado": "La causa más frecuente de **hipertensión arterial maligna** de origen urológico en el paciente crítico es:",
-      "opciones": {
-        "a": "Feocromocitoma.",
-        "b": "Estenosis de la arteria renal.",
-        "c": "Síndrome nefrítico post-infeccioso.",
-        "d": "Tumor de Wilms en el adulto."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 23,
-      "categoria": "Cálculo de Medicación - Bolo",
-      "enunciado": "Un paciente de 110 kg requiere una dosis de carga de **Meropenem** de 1 gramo. La presentación del Meropenem es 1 g/10 mL. ¿Cuántos mL debe extraer para el bolo?",
-      "opciones": {
-        "a": "5 mL.",
-        "b": "10 mL.",
-        "c": "1 mL.",
-        "d": "20 mL."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 24,
-      "categoria": "Urología Crítica Adulto - Post-operatorio",
-      "enunciado": "Después de una nefrectomía por trauma grave, el paciente desarrolla hipotensión. La causa más probable, después de descartar hemorragia activa, es:",
-      "opciones": {
-        "a": "Sepsis tardía por infección de herida.",
-        "b": "Insuficiencia suprarrenal aguda por lesión/manipulación de la cápsula.",
-        "c": "Neumonía aspirativa.",
-        "d": "Trombosis venosa profunda."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 25,
-      "categoria": "Farmacología en UCI - Ajuste por función",
-      "enunciado": "El antibiótico de uso común en urosepsis cuya dosis **NO** requiere ajuste en caso de insuficiencia renal o hemodiálisis es:",
-      "opciones": {
-        "a": "Ceftriaxona.",
-        "b": "Ciprofloxacina.",
-        "c": "Meropenem.",
-        "d": "Vancomicina."
-      },
-      "respuesta_correcta": "a"
-    }
-  ]
-}
-{
-  "bloque": "Bloque 2 de 4",
-  "rango_preguntas": "26 - 50",
-  "temas": ["Urología Crítica Pediátrica/Neonatal", "Ley 27.447 Argentina", "Cálculo Pediátrico"],
-  "preguntas": [
-    {
-      "id": 26,
-      "categoria": "Ley 27.447 - Donación Presunta",
-      "enunciado": "Según la Ley 27.447 (Ley Justina) en Argentina, respecto al consentimiento para la donación de órganos en personas mayores de 18 años, se establece el concepto de **donación presunta**. ¿Qué significa esto?",
-      "opciones": {
-        "a": "La familia decide siempre, salvo testamento en contrario.",
-        "b": "Se presume la voluntad afirmativa, a menos que se haya dejado constancia expresa de la negativa.",
-        "c": "Se requiere un documento firmado ante escribano público para donar.",
-        "d": "Solo pueden donar aquellos que manifestaron su voluntad afirmativa en vida ante el INCUCAI."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 27,
-      "categoria": "Urología Crítica Neonatal - Caso Clínico",
-      "enunciado": "Neonato varón con oliguria y distensión vesical severa. La ecografía confirma hidronefrosis bilateral. El diagnóstico más probable que requiere drenaje vesical inmediato es:",
-      "opciones": {
-        "a": "Estenosis de la unión pieloureteral.",
-        "b": "Reflujo vésico-ureteral grado V.",
-        "c": "**Válvulas de Uretra Posterior (VUP).**",
-        "d": "Riñón poliquístico autosómico recesivo."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 28,
-      "categoria": "Cálculo de Medicación Pediátrica",
-      "enunciado": "Niño de 4 años (peso 18 kg) en sepsis. Se indica un bolo de Clindamicina a 10 mg/kg. La presentación es de 150 mg/mL. ¿Cuántos mL se deben administrar?",
-      "opciones": {
-        "a": "0.8 mL.",
-        "b": "1.2 mL.",
-        "c": "1.8 mL.",
-        "d": "2.4 mL."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 29,
-      "categoria": "Ley 27.447 - Muerte Encefálica",
-      "enunciado": "Según la normativa argentina, el diagnóstico de muerte de una persona a los fines de trasplante se basa exclusivamente en:",
-      "opciones": {
-        "a": "El cese irreversible de la función cardiorrespiratoria (muerte circulatoria).",
-        "b": "La confirmación de la **muerte encefálica** según protocolo establecido.",
-        "c": "El fallo de dos o más sistemas orgánicos principales.",
-        "d": "La decisión unánime de un comité de ética hospitalario."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 30,
-      "categoria": "Urología Crítica Pediátrica - Trauma",
-      "enunciado": "En un niño, el órgano urológico más susceptible de lesión por trauma abdominal cerrado debido a su ubicación más baja y desprotegida es:",
-      "opciones": {
-        "a": "Uréteres.",
-        "b": "Riñones.",
-        "c": "Vejiga llena.",
-        "d": "Uretra posterior."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 31,
-      "categoria": "Ley 27.447 - Menores de Edad",
-      "enunciado": "¿Quién debe autorizar la donación de órganos o tejidos de un menor de 18 años, según la Ley Argentina?",
-      "opciones": {
-        "a": "El menor con 16 años o más.",
-        "b": "El equipo médico tratante.",
-        "c": "Ambos progenitores o el representante legal.",
-        "d": "El Juez de menores de turno."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 32,
-      "categoria": "Cálculo Pediátrico - Infusión",
-      "enunciado": "Lactante de 6 kg necesita una infusión de **Dopamina** a 5  g/kg/min. La preparación es de 60 mg en 100 mL. ¿Cuál es la velocidad de infusión en mL/hora?",
-      "opciones": {
-        "a": "3.0 mL/hora.",
-        "b": "0.3 mL/hora.",
-        "c": "30 mL/hora.",
-        "d": "1.5 mL/hora."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 33,
-      "categoria": "Urología Crítica Pediátrica - IRA",
-      "enunciado": "La causa más común de IRA post-renal en niños hospitalizados es:",
-      "opciones": {
-        "a": "Síndrome urémico hemolítico.",
-        "b": "Obstrucción por cálculos renales.",
-        "c": "Obstrucción del catéter vesical (Foley).",
-        "d": "Nefritis intersticial aguda."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 34,
-      "categoria": "Ley 27.447 - INCUCAI",
-      "enunciado": "¿Qué organismo de contralor nacional es la autoridad de aplicación de la Ley 27.447 en Argentina?",
-      "opciones": {
-        "a": "Ministerio de Salud de la Nación.",
-        "b": "Sociedad Argentina de Trasplantes (SAT).",
-        "c": "**INCUCAI** (Instituto Nacional Central Único Coordinador de Ablación e Implante).",
-        "d": "Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT)."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 35,
-      "categoria": "Urología Crítica Neonatal - Manejo",
-      "enunciado": "En el manejo inicial de un neonato con VUP, el primer paso urológico es:",
-      "opciones": {
-        "a": "Ablación de válvulas por uretroscopía.",
-        "b": "Derivación urinaria alta (nefrostomía).",
-        "c": "**Sondaje vesical** para descompresión inmediata.",
-        "d": "Inicio de diálisis peritoneal."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 36,
-      "categoria": "Ley 27.447 - Donante Vivo",
-      "enunciado": "Para la donación de órganos entre personas vivas en Argentina, se exige que exista una relación de parentesco hasta el:",
-      "opciones": {
-        "a": "Segundo grado de consanguinidad o afinidad.",
-        "b": "Cuarto grado de consanguinidad o segundo de afinidad.",
-        "c": "Primer grado de consanguinidad.",
-        "d": "No existe requisito de parentesco si hay autorización judicial."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 37,
-      "categoria": "Urología Crítica Pediátrica - Emergencia",
-      "enunciado": "En un niño prepúber con **torsión testicular aguda** confirmada, ¿cuál es el tiempo de isquemia máximo aceptable para preservar la viabilidad del testículo?",
-      "opciones": {
-        "a": "12 a 24 horas.",
-        "b": "Menos de 6 horas.",
-        "c": "Más de 48 horas.",
-        "d": "El tiempo no es crucial, solo la intensidad del dolor."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 38,
-      "categoria": "Cálculo de Medicación Pediátrica",
-      "enunciado": "Niño de 25 kg. Dosis de **Amikacina** 15 mg/kg cada 24 horas. ¿Cuántos mg recibe el paciente por dosis?",
-      "opciones": {
-        "a": "250 mg.",
-        "b": "375 mg.",
-        "c": "300 mg.",
-        "d": "400 mg."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 39,
-      "categoria": "Ley 27.447 - Prohibiciones",
-      "enunciado": "La Ley 27.447 prohíbe taxativamente:",
-      "opciones": {
-        "a": "La publicidad de la necesidad de órganos.",
-        "b": "La donación de órganos entre personas que no son parientes.",
-        "c": "**El lucro y la comercialización** de órganos y tejidos.",
-        "d": "El acceso a la lista de espera por personas no residentes."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 40,
-      "categoria": "Urología Crítica Pediátrica - Caso Clínico",
-      "enunciado": "Niña de 7 años con fiebre alta y urocultivo positivo a *E. coli* resistente a ampicilina. Se diagnostica pielonefritis. ¿Cuál es el riesgo a largo plazo que justifica el manejo agresivo en UCI?",
-      "opciones": {
-        "a": "Uretritis por *Candida*.",
-        "b": "Estenosis de la unión ureterovesical.",
-        "c": "**Daño renal permanente** con cicatrices y riesgo de hipertensión.",
-        "d": "Incontinencia urinaria de esfuerzo."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 41,
-      "categoria": "Urología Crítica Neonatal - Trauma",
-      "enunciado": "El mecanismo más común de lesión renal en el neonato, que requiere manejo en la UCIN, es:",
-      "opciones": {
-        "a": "Traumatismo automovilístico.",
-        "b": "Caídas de altura.",
-        "c": "**Traumatismo obstétrico** durante el parto.",
-        "d": "Maltrato infantil."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 42,
-      "categoria": "Ley 27.447 - Consentimiento Presunto",
-      "enunciado": "Si una persona mayor de 18 años fallece y no dejó constancia de su voluntad negativa ante el INCUCAI, ¿quién debe ser consultado por el equipo de procuración?",
-      "opciones": {
-        "a": "El cónyuge, para ratificar la donación.",
-        "b": "El Juez de turno.",
-        "c": "**No se requiere la consulta familiar**; se procede a la ablación si es médicamente apto.",
-        "d": "Un Comité de Bioética."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 43,
-      "categoria": "Cálculo de Medicación Pediátrica",
-      "enunciado": "Lactante de 4 kg. Se indica un bolo de **Furosemida** a 1 mg/kg. La concentración es de 10 mg/mL. ¿Cuántos mL debe inyectar?",
-      "opciones": {
-        "a": "0.4 mL.",
-        "b": "0.04 mL.",
-        "c": "4.0 mL.",
-        "d": "0.1 mL."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 44,
-      "categoria": "Urología Crítica Pediátrica - Trauma",
-      "enunciado": "Ante una lesión genitourinaria pediátrica por trauma, ¿cuál es la principal diferencia en el manejo de una lesión vesical extraperitoneal versus una intraperitoneal?",
-      "opciones": {
-        "a": "La intraperitoneal siempre requiere nefrostomía.",
-        "b": "**La intraperitoneal siempre requiere reparación quirúrgica abierta**.",
-        "c": "La extraperitoneal se maneja siempre con derivación urinaria alta.",
-        "d": "Ambas se manejan siempre con cistostomía suprapúbica."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 45,
-      "categoria": "Ley 27.447 - Derechos",
-      "enunciado": "Según la ley, ¿cuál es el derecho principal del receptor de un órgano?",
-      "opciones": {
-        "a": "Elegir el tipo de órgano que desea recibir.",
-        "b": "Conocer la identidad del donante y su familia.",
-        "c": "**Confidencialidad** y acceso a la información sobre su estado en la lista de espera.",
-        "d": "Ser trasplantado en el centro de su elección sin importar la prioridad."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 46,
-      "categoria": "Urología Crítica Pediátrica - Post-operatorio",
-      "enunciado": "Complicación neurológica grave post-operatoria en niños sometidos a cirugía urológica prolongada en decúbito ventral (p.ej., pieloplastia):",
-      "opciones": {
-        "a": "Trombosis de la vena renal.",
-        "b": "**Neuropatía por compresión** (p.ej., ciático o peroneo).",
-        "c": "Hipertensión portal.",
-        "d": "Síndrome de secreción inadecuada de ADH (SIADH)."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 47,
-      "categoria": "Cálculo Pediátrico - Infusión",
-      "enunciado": "Niño de 10 kg en shock. Se inicia infusión de **Norepinefrina** a 0.05  g/kg/min. La preparación es 4 mg en 100 mL. ¿Cuál es la velocidad de infusión en mL/hora?",
-      "opciones": {
-        "a": "1.5 mL/hora.",
-        "b": "0.75 mL/hora.",
-        "c": "3.0 mL/hora.",
-        "d": "0.075 mL/hora."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 48,
-      "categoria": "Urología Crítica Neonatal - IRA",
-      "enunciado": "En la IRA neonatal, el riñón tiene una capacidad limitada para concentrar la orina debido a:",
-      "opciones": {
-        "a": "Baja tasa de filtración glomerular.",
-        "b": "Longitud corta del asa de Henle.",
-        "c": "Inmadurez de los túbulos colectores.",
-        "d": "**Inmadurez renal** global (tasa de filtración y asa corta de Henle).",
-      },
-      "respuesta_correcta": "d"
-    },
-    {
-      "id": 49,
-      "categoria": "Ley 27.447 - Tráfico",
-      "enunciado": "La normativa argentina establece que el tráfico de órganos y tejidos es considerado:",
-      "opciones": {
-        "a": "Un delito excarcelable.",
-        "b": "**Un delito grave** con penas de prisión de cumplimiento efectivo.",
-        "c": "Una falta administrativa menor.",
-        "d": "Una actividad permitida si es sin fines de lucro."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 50,
-      "categoria": "Urología Crítica Pediátrica - Caso Clínico",
-      "enunciado": "Adolescente con hematuria, dolor abdominal y masa palpable post-trauma cerrado. Se encuentra hipotenso. El diagnóstico más probable es:",
-      "opciones": {
-        "a": "Quiste renal simple roto.",
-        "b": "Rotura vesical extraperitoneal.",
-        "c": "**Lesión renal** (p.ej., laceración o avulsión de pedículo).",
-        "d": "Torsión testicular."
-      },
-      "respuesta_correcta": "c"
-    }
-  ]
-}
-{
-  "bloque": "Bloque 3 de 4",
-  "rango_preguntas": "51 - 75",
-  "temas": ["Urología Crítica Mixta (Adulto/Pediátrico)", "Sepsis Avanzada", "Cálculo de Dosis Avanzado"],
-  "preguntas": [
-    {
-      "id": 51,
-      "categoria": "Urología Crítica Adulto - Sepsis",
-      "enunciado": "En un paciente con urosepsis por *P. aeruginosa* en shock, la meta inicial para la Presión Arterial Media (PAM) después de la reanimación con fluidos es de, al menos:",
-      "opciones": {
-        "a": "60 mmHg.",
-        "b": "65 mmHg.",
-        "c": "75 mmHg.",
-        "d": "80 mmHg."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 52,
-      "categoria": "Cálculo de Medicación - Infusión",
-      "enunciado": "Un paciente de 90 kg requiere la infusión de un medicamento A a razón de 20 mg/hora. La concentración de la infusión es de 500 mg en 250 mL. ¿A qué velocidad (mL/hora) debe programarse la bomba?",
-      "opciones": {
-        "a": "10 mL/hora.",
-        "b": "8 mL/hora.",
-        "c": "15 mL/hora.",
-        "d": "6 mL/hora."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 53,
-      "categoria": "Urología Crítica Pediátrica - IRA",
-      "enunciado": "La indicación de iniciar **terapia de reemplazo renal (diálisis/hemofiltración)** en un paciente pediátrico con IRA incluye:",
-      "opciones": {
-        "a": "Proteinuria aislada.",
-        "b": "Hipertensión que responde a un solo fármaco.",
-        "c": "**Hiperpotasemia refractaria** al tratamiento médico.",
-        "d": "Urea sérica mayor a 100 mg/dL sin síntomas."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 54,
-      "categoria": "Urología Crítica Adulto - Retención",
-      "enunciado": "Paciente post-operatorio que desarrolla retención aguda de orina y se le coloca una sonda Foley. Presenta una diuresis inicial de 3.5 litros en 2 horas. El manejo inmediato debe incluir:",
-      "opciones": {
-        "a": "Pinzar la sonda para evitar el sangrado *ex vacuo*.",
-        "b": "Iniciar transfusión de concentrado de glóbulos rojos.",
-        "c": "**Monitorización estrecha de electrolitos** y reposición de fluidos y sales.",
-        "d": "Administrar antibióticos de amplio espectro profilácticos."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 55,
-      "categoria": "Ley 27.447 - Historial Clínico",
-      "enunciado": "Según la normativa argentina, ¿cuál es el requisito mínimo de tiempo que debe conservarse la historia clínica de un potencial donante?",
-      "opciones": {
-        "a": "1 año.",
-        "b": "5 años.",
-        "c": "10 años.",
-        "d": "30 años."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 56,
-      "categoria": "Urología Crítica Adulto - Post-trasplante",
-      "enunciado": "La complicación urológica más común en el post-operatorio inmediato de un trasplante renal es:",
-      "opciones": {
-        "a": "Estenosis de la arteria renal del injerto.",
-        "b": "**Obstrucción del uréter** (por coágulo o estenosis) o fuga urinaria.",
-        "c": "Rechazo hiperagudo.",
-        "d": "Trombosis de la vena cava."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 57,
-      "categoria": "Cálculo de Medicación Pediátrica",
-      "enunciado": "Niño de 12 kg. Se indica una infusión de **Midazolam** a 0.1 g/kg/min. La preparación es de 50 mg en 50 mL. ¿Cuál es la velocidad de infusión en mL/hora?",
-      "opciones": {
-        "a": "0.72 mL/hora.",
-        "b": "1.0 mL/hora.",
-        "c": "0.144 mL/hora.",
-        "d": "1.44 mL/hora."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 58,
-      "categoria": "Urología Crítica Neonatal - Caso Clínico",
-      "enunciado": "Neonato con hidronefrosis congénita severa y sepsis. El objetivo de la descompresión temprana de la vía urinaria es:",
-      "opciones": {
-        "a": "Mejorar la función pulmonar.",
-        "b": "Prevenir la litiasis por estasis.",
-        "c": "**Preservar el parénquima renal** del daño por presión e infección.",
-        "d": "Reducir el reflujo gastroesofágico."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 59,
-      "categoria": "Ley 27.447 - Criterios de Asignación",
-      "enunciado": "El factor primordial para la asignación de órganos en Argentina, después de la compatibilidad biológica, es:",
-      "opciones": {
-        "a": "La antigüedad en la lista de espera.",
-        "b": "La cercanía del centro de ablación al centro de implante.",
-        "c": "**La gravedad del receptor** y la urgencia médica.",
-        "d": "La edad del donante."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 60,
-      "categoria": "Urología Crítica Adulto - Farmacología",
-      "enunciado": "El ajuste de dosis de qué antibiótico en IRA grave está principalmente determinado por el **volumen de eflujo** en la diálisis peritoneal o hemofiltración continua:",
-      "opciones": {
-        "a": "Ceftriaxona.",
-        "b": "Ampicilina.",
-        "c": "**Vancomicina**.",
-        "d": "Azitromicina."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 61,
-      "categoria": "Cálculo de Medicación - Bolo",
-      "enunciado": "Se necesita administrar un bolo de **Acetaminofeno (Paracetamol)** IV a 15 mg/kg. El paciente pesa 70 kg. La presentación es 10 mg/mL. ¿Cuántos mL debe inyectar?",
-      "opciones": {
-        "a": "70 mL.",
-        "b": "105 mL.",
-        "c": "50 mL.",
-        "d": "35 mL."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 62,
-      "categoria": "Urología Crítica Pediátrica - Genitales Ambiguos",
-      "enunciado": "Ante un neonato con genitales ambiguos y shock, la emergencia endocrinológica que debe descartarse inmediatamente es:",
-      "opciones": {
-        "a": "Hiperplasia suprarrenal congénita (HSC) con crisis perdedora de sal.",
-        "b": "Insuficiencia renal crónica.",
-        "c": "Hipotiroidismo congénito.",
-        "d": "Diabetes insípida."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 63,
-      "categoria": "Urología Crítica Adulto - Trauma",
-      "enunciado": "El manejo de un pequeño traumatismo renal (Grado I-II) en UCI es primariamente:",
-      "opciones": {
-        "a": "Nefrectomía parcial urgente.",
-        "b": "Exploración quirúrgica inmediata.",
-        "c": "**Manejo conservador** con reposo en cama y observación.",
-        "d": "Colocación de catéter ureteral."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 64,
-      "categoria": "Ley 27.447 - Responsabilidades",
-      "enunciado": "¿Cuál es la principal responsabilidad legal del equipo médico de UCI ante un paciente con posible muerte encefálica?",
-      "opciones": {
-        "a": "Mantener al paciente artificialmente vivo por 72 horas.",
-        "b": "Comunicar inmediatamente el diagnóstico a la familia para el consentimiento.",
-        "c": "**Garantizar el protocolo de diagnóstico de muerte encefálica** e informar a la coordinación de procuración.",
-        "d": "Retirar el soporte vital de forma inmediata."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 65,
-      "categoria": "Cálculo de Medicación - Conversión",
-      "enunciado": "Un paciente de 60 kg con oliguria recibe una infusión continua de **Dopamina** a 12 mL/hora. Si la concentración es de 200 mg en 250 mL, ¿cuál es la dosis en g/kg/min?",
-      "opciones": {
-        "a": "2.0  g/kg/min.",
-        "b": "1.6  g/kg/min.",
-        "c": "3.3  g/kg/min.",
-        "d": "4.5  g/kg/min.",
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 66,
-      "categoria": "Urología Crítica Pediátrica - Post-trasplante",
-      "enunciado": "En el trasplante renal pediátrico, el lugar preferido para la anastomosis vesical del uréter donante es:",
-      "opciones": {
-        "a": "Intestino delgado.",
-        "b": "La vejiga nativa del receptor (técnica extravesical o intravesical).",
-        "c": "Un segmento ileal interpuesto.",
-        "d": "La piel (ureterostomía cutánea)."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 67,
-      "categoria": "Urología Crítica Adulto - Caso Clínico",
-      "enunciado": "Paciente masculino de 70 años con cateterización vesical prolongada presenta dolor lumbar, fiebre y gas en la pared vesical en la TC. El diagnóstico es:",
-      "opciones": {
-        "a": "Absceso perirrenal.",
-        "b": "Tuberculosis genitourinaria.",
-        "c": "**Cistitis enfisematosa**.",
-        "d": "Prostatitis aguda."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 68,
-      "categoria": "Farmacología en UCI - Ajuste por función",
-      "enunciado": "El antibiótico que presenta el mayor riesgo de toxicidad y debe ser dosificado estrictamente por niveles séricos (pico y valle) en pacientes con IRA o en diálisis es:",
-      "opciones": {
-        "a": "Cefepime.",
-        "b": "Meropenem.",
-        "c": "**Amikacina** (Aminoglucósido).",
-        "d": "Daptomicina."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 69,
-      "categoria": "Urología Crítica Pediátrica - Trauma",
-      "enunciado": "En el trauma testicular pediátrico, la indicación de exploración quirúrgica inmediata es:",
-      "opciones": {
-        "a": "Dolor leve y edema.",
-        "b": "Hidrocele post-traumático.",
-        "c": "**Rotura o disrupción de la túnica albugínea** confirmada por ecografía.",
-        "d": "Hematuria microscópica."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 70,
-      "categoria": "Ley 27.447 - Donante Vivo",
-      "enunciado": "En el caso de la donación de órganos entre vivos, ¿qué rol juega un Comité Hospitalario de Ética para la toma de decisión?",
-      "opciones": {
-        "a": "Determinar la compatibilidad HLA.",
-        "b": "**Evaluar el riesgo/beneficio** y el consentimiento informado del donante.",
-        "c": "Asignar el órgano según la lista de espera.",
-        "d": "Autorizar la intervención quirúrgica sin más trámite."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 71,
-      "categoria": "Cálculo de Medicación Pediátrica",
-      "enunciado": "Niño de 8 kg. Se necesita un bolo de **Ceftriaxona** a 50 mg/kg. La ampolla es de 1 g (1000 mg) reconstituido en 10 mL. ¿Cuántos mL debe administrar?",
-      "opciones": {
-        "a": "4.0 mL.",
-        "b": "0.4 mL.",
-        "c": "2.0 mL.",
-        "d": "2.5 mL."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 72,
-      "categoria": "Urología Crítica Adulto - Fístula",
-      "enunciado": "La fístula vésico-vaginal en la mujer, más frecuentemente vista en la UCI, se asocia a:",
-      "opciones": {
-        "a": "Litiasis vesical.",
-        "b": "Trauma penetrante en el abdomen.",
-        "c": "**Cirugía pélvica ginecológica o radioterapia**.",
-        "d": "Divertículo uretral."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 73,
-      "categoria": "Urología Crítica Pediátrica - Hematuria",
-      "enunciado": "La causa más común de hematuria macroscópica en niños, que debe ser manejada en UCI si hay inestabilidad, es:",
-      "opciones": {
-        "a": "Glomerulonefritis post-estreptocócica.",
-        "b": "Hidronefrosis.",
-        "c": "**Traumatismo** (ej. golpe por deportes).",
-        "d": "Cistitis hemorrágica por quimioterapia."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 74,
-      "categoria": "Ley 27.447 - Protocolo",
-      "enunciado": "En el marco de la procuración de órganos, el concepto de 'mantenimiento del potencial donante' implica:",
-      "opciones": {
-        "a": "Esperar la decisión familiar.",
-        "b": "**Mantener la perfusión y oxigenación orgánica** a pesar de la muerte encefálica.",
-        "c": "Administrar antibióticos de amplio espectro.",
-        "d": "Iniciar sedación profunda."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 75,
-      "categoria": "Urología Crítica Adulto - Complicaciones",
-      "enunciado": "La complicación más grave y potencialmente mortal de la colocación de una nefrostomía percutánea es:",
-      "opciones": {
-        "a": "Migración del catéter.",
-        "b": "Infección de la herida.",
-        "c": "Neumotórax.",
-        "d": "**Hemorragia severa** por lesión de vasos renales o intercostales."
-      },
-      "respuesta_correcta": "d"
-    }
-  ]
-}
-{
-  "bloque": "Bloque 4 de 4",
-  "rango_preguntas": "76 - 100",
-  "temas": ["Urología Crítica Avanzada", "Leyes de Trasplante", "Cálculo de Dosis Complejo"],
-  "preguntas": [
-    {
-      "id": 76,
-      "categoria": "Ley 27.447 - Definición",
-      "enunciado": "Según la Ley, la **ablación** es el proceso de:",
-      "opciones": {
-        "a": "Determinar la compatibilidad HLA.",
-        "b": "La extracción de órganos, tejidos y células del cuerpo humano, total o parcial, para fines terapéuticos.",
-        "c": "El implante del órgano en el receptor.",
-        "d": "La toma de la decisión final por parte del juez."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 77,
-      "categoria": "Urología Crítica Adulto - Obstrucción",
-      "enunciado": "La indicación de nefrostomía percutánea por sobre la colocación de catéter doble J en la sepsis obstructiva ocurre en el caso de:",
-      "opciones": {
-        "a": "Obstrucción por cálculo de menos de 5 mm.",
-        "b": "Pacientes con **coagulopatía severa**.",
-        "c": "Fallo en la instrumentación ureteral (catéter J).",
-        "d": "Embarazadas."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 78,
-      "categoria": "Cálculo de Medicación - Frecuencia",
-      "enunciado": "En un paciente con ClCr < 10 mL/min, ¿cuál es el ajuste de frecuencia de dosis típicamente requerido para el antibiótico **Cefepime** (dosis usual 2 g cada 8-12h)?",
-      "opciones": {
-        "a": "2 g cada 8 horas (sin cambio).",
-        "b": "1 g cada 12 horas.",
-        "c": "1 g cada 24 horas o 2 g cada 48 horas.",
-        "d": "500 mg cada 6 horas."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 79,
-      "categoria": "Urología Crítica Adulto - Fisiopatología",
-      "enunciado": "En la insuficiencia renal aguda secundaria a Rabdomiólisis (urológica crítica), el manejo prioritario es la expansión de volumen y la:",
-      "opciones": {
-        "a": "Administración de diuréticos de asa.",
-        "b": "**Alcalinización urinaria** para solubilizar la mioglobina.",
-        "c": "Uso de contrastes yodados.",
-        "d": "Diálisis profiláctica."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 80,
-      "categoria": "Ley 27.447 - Financiamiento",
-      "enunciado": "¿Quién es el responsable de costear los gastos de ablación e implante en Argentina?",
-      "opciones": {
-        "a": "El paciente receptor.",
-        "b": "El Hospital o Clínica.",
-        "c": "Los familiares del donante.",
-        "d": "**El Sistema Público de Salud, Obras Sociales y Entidades de Medicina Prepaga**.",
-      },
-      "respuesta_correcta": "d"
-    },
-    {
-      "id": 81,
-      "categoria": "Urología Crítica Pediátrica - Manejo",
-      "enunciado": "En un niño con hidronefrosis severa y sospecha de pielonefritis, el drenaje se logra idealmente mediante:",
-      "opciones": {
-        "a": "Sondaje nasogástrico.",
-        "b": "Colocación de catéter doble J bajo visión ecográfica.",
-        "c": "Cistostomía suprapúbica.",
-        "d": "**Tratamiento antibiótico** de amplio espectro inicial y drenaje si no hay mejoría o inestabilidad."
-      },
-      "respuesta_correcta": "d"
-    },
-    {
-      "id": 82,
-      "categoria": "Cálculo de Medicación Pediátrica - Infusión",
-      "enunciado": "Lactante de 5 kg requiere infusión de **Epinefrina** a 0.08  g/kg/min. La dilución es de 1 mg en 100 mL. ¿A cuántos mL/hora debe infundirse?",
-      "opciones": {
-        "a": "0.24 mL/hora.",
-        "b": "2.4 mL/hora.",
-        "c": "4.8 mL/hora.",
-        "d": "0.48 mL/hora."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 83,
-      "categoria": "Ley 27.447 - Extranjeros",
-      "enunciado": "Un paciente extranjero en Argentina, ¿puede ingresar a la lista de espera para trasplante de órganos?",
-      "opciones": {
-        "a": "Sí, si abona una tarifa especial.",
-        "b": "Sí, siempre que tenga residencia permanente en el país.",
-        "c": "No, está prohibido.",
-        "d": "Solo para donación de células madre."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 84,
-      "categoria": "Urología Crítica Adulto - Post-operatorio",
-      "enunciado": "La indicación de la colocación de un *stent* ureteral doble J después de la ureteroscopía por litiasis incluye:",
-      "opciones": {
-        "a": "Sólo cálculos grandes.",
-        "b": "Siempre en pacientes jóvenes.",
-        "c": "**Manipulación prolongada**, edema, perforación ureteral o riñón único.",
-        "d": "Dolor postoperatorio leve."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 85,
-      "categoria": "Urología Crítica Neonatal - Trauma",
-      "enunciado": "El signo de **distensión escrotal o inguinal** en un neonato post-parto que requiere manejo en UCIN puede ser un indicio de:",
-      "opciones": {
-        "a": "Vesicostomía fallida.",
-        "b": "Hernia umbilical estrangulada.",
-        "c": "**Hidrocele o hematoma testicular** por trauma obstétrico.",
-        "d": "Tumor de células germinales."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 86,
-      "categoria": "Ley 27.447 - Revocación",
-      "enunciado": "En Argentina, la manifestación de voluntad de no donar (negativa) puede ser revocada en cualquier momento:",
-      "opciones": {
-        "a": "No, una vez registrada es definitiva.",
-        "b": "**Sí**, mediante los mecanismos establecidos por el INCUCAI.",
-        "c": "Solo por orden judicial.",
-        "d": "Solo en el lecho de muerte y con testigos."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 87,
-      "categoria": "Cálculo de Medicación - Carga",
-      "enunciado": "Paciente de 85 kg con shock séptico requiere una dosis de carga de **Meropenem** de 2 gramos. El polvo se reconstituye en 20 mL de solución. ¿Cuántos mg/mL hay en la solución reconstituida?",
-      "opciones": {
-        "a": "50 mg/mL.",
-        "b": "100 mg/mL.",
-        "c": "150 mg/mL.",
-        "d": "200 mg/mL."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 88,
-      "categoria": "Urología Crítica Adulto - Infección",
-      "enunciado": "La Pielonefritis Enfisematosa se caracteriza por la producción de gas dentro del parénquima renal. Esta condición es una emergencia quirúrgica si hay:",
-      "opciones": {
-        "a": "Ausencia de síntomas.",
-        "b": "Hematuria microscópica.",
-        "c": "**Inestabilidad hemodinámica** o colecciones de gas/líquido grandes.",
-        "d": "Diabetes mellitus controlada."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 89,
-      "categoria": "Urología Crítica Pediátrica - Caso Clínico",
-      "enunciado": "Niña de 5 años ingresa a UCI con IRA y deshidratación severa por gastroenteritis. El principal objetivo de manejo en este caso de IRA **prerrenal** es:",
-      "opciones": {
-        "a": "Administrar diuréticos de asa.",
-        "b": "Iniciar hemodiálisis de urgencia.",
-        "c": "**Restaurar el volumen intravascular** (expansión volémica).",
-        "d": "Investigar reflujo vésico-ureteral."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 90,
-      "categoria": "Ley 27.447 - Publicidad",
-      "enunciado": "La Ley 27.447 permite la publicidad sobre donación de órganos, siempre que:",
-      "opciones": {
-        "a": "Sea con fines de lucro.",
-        "b": "Promueva el tráfico de órganos.",
-        "c": "**No se mencione ni solicite el nombre del donante** o receptor con fines de lucro.",
-        "d": "Esté organizada por una empresa privada."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 91,
-      "categoria": "Cálculo de Medicación - Dilución",
-      "enunciado": "Se necesita una dosis de **Ertapenem** de 500 mg. El vial es de 1 gramo. ¿Qué volumen de solución salina debe agregarse al vial para tener una concentración de 100 mg/mL?",
-      "opciones": {
-        "a": "2 mL.",
-        "b": "5 mL.",
-        "c": "10 mL.",
-        "d": "100 mL."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 92,
-      "categoria": "Urología Crítica Adulto - Fístula",
-      "enunciado": "La complicación más grave de la fístula aorto-entérica en el contexto de cirugía urológica previa que requiere manejo en UCI es:",
-      "opciones": {
-        "a": "Obstrucción intestinal.",
-        "b": "Absceso perianal.",
-        "c": "**Hemorragia gastrointestinal masiva** y exanguinación.",
-        "d": "Infección urinaria recurrente."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 93,
-      "categoria": "Urología Crítica Pediátrica - Post-operatorio",
-      "enunciado": "Después de la corrección quirúrgica de VUP en un niño, el principal problema a largo plazo que debe ser monitorizado de cerca en UCI y post-alta es:",
-      "opciones": {
-        "a": "Recurrencia de las válvulas.",
-        "b": "Cálculos ureterales.",
-        "c": "Desarrollo de cáncer de vejiga.",
-        "d": "**Disfunción vesical** y vejiga neurogénica secundaria."
-      },
-      "respuesta_correcta": "d"
-    },
-    {
-      "id": 94,
-      "categoria": "Ley 27.447 - Extracción",
-      "enunciado": "La extracción de órganos del donante fallecido solo puede ser realizada por:",
-      "opciones": {
-        "a": "Cualquier cirujano del hospital.",
-        "b": "**Equipos de ablación habilitados** y coordinados por el INCUCAI.",
-        "c": "El médico forense.",
-        "d": "El cirujano tratante del receptor."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 95,
-      "categoria": "Cálculo de Medicación - Dosis Máxima",
-      "enunciado": "La dosis máxima diaria de **Metronidazol** IV en un adulto de 60 kg (dosis usual 500 mg cada 8 horas) es generalmente:",
-      "opciones": {
-        "a": "500 mg/día.",
-        "b": "1000 mg/día.",
-        "c": "1500 mg/día.",
-        "d": "4000 mg/día."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 96,
-      "categoria": "Urología Crítica Adulto - Obstrucción",
-      "enunciado": "El riesgo más significativo de la descompresión vesical rápida en pacientes con retención urinaria crónica por obstrucción de larga data es:",
-      "opciones": {
-        "a": "Hipotensión ortostática.",
-        "b": "Síndrome de Lisis Tumoral.",
-        "c": "**Hematuria *ex vacuo*** (por sangrado de la mucosa vesical).",
-        "d": "Edema pulmonar agudo."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 97,
-      "categoria": "Urología Crítica Pediátrica - Sepsis",
-      "enunciado": "En la sepsis urológica pediátrica, el antibiótico de elección empírico para un niño gravemente enfermo debe cubrir principalmente:",
-      "opciones": {
-        "a": "Anaerobios.",
-        "b": "Hongos.",
-        "c": "**Bacilos Gram-negativos** (como *E. coli*).",
-        "d": "Cocos Gram-positivos resistentes."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 98,
-      "categoria": "Ley 27.447 - Excepciones",
-      "enunciado": "En situaciones excepcionales de urgencia, ¿puede un órgano ser implantado sin la perfecta compatibilidad HLA?",
-      "opciones": {
-        "a": "No, nunca.",
-        "b": "**Sí**, si el riesgo de muerte sin trasplante supera el riesgo de rechazo.",
-        "c": "Solo en caso de riñón.",
-        "d": "Solo si el paciente es menor de edad."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 99,
-      "categoria": "Urología Crítica Adulto - IRA",
-      "enunciado": "Un paciente en UCI con IRA y oliguria no responde a la expansión de volumen. ¿Cuál es el paso siguiente más adecuado en la valoración de la causa de IRA?",
-      "opciones": {
-        "a": "Iniciar vasopresores.",
-        "b": "Realizar biopsia renal.",
-        "c": "**Ecografía renal y vesical** (para descartar obstrucción post-renal).",
-        "d": "Administrar antibióticos de amplio espectro."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 100,
-      "categoria": "Ley 27.447 - Registro",
-      "enunciado": "¿Qué entidad argentina es responsable de llevar el registro nacional de las personas que han manifestado su voluntad de no donar?",
-      "opciones": {
-        "a": "Ministerio de Justicia.",
-        "b": "Registro Nacional de las Personas (RENAPER).",
-        "c": "**INCUCAI**.",
-        "d": "Cada centro hospitalario."
-      },
-      "respuesta_correcta": "c"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "tema": "Urología Crítica - Adultos",
+    "caso_clinico": "Paciente masculino de 68 años en UCI con sepsis urinaria severa. Temperatura 39.5°C, FC 120 lpm, PA 85/50 mmHg. Antecedente de hiperplasia prostática. Orina turbia y fétida.",
+    "pregunta": "¿Cuál es la primera intervención prioritaria?",
+    "opciones": {
+      "opcion a": "Antibióticos de amplio espectro IV inmediatos y reanimación con fluidos.",
+      "opcion b": "Esperar resultados de urocultivo antes de antibióticos.",
+      "opcion c": "Realizar prostatectomía urgente.",
+      "opcion d": "Administrar únicamente analgésicos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 2,
+    "tema": "Urología - Retención Urinaria Aguda",
+    "caso_clinico": "Hombre de 72 años ingresa con dolor suprapúbico intenso, incapacidad para orinar desde hace 12 horas. Distensión vesical palpable. Antecedente de HBP conocida.",
+    "pregunta": "¿Cuál es el manejo inmediato?",
+    "opciones": {
+      "opcion a": "Cateterización uretral o suprapúbica urgente para descomprimir la vejiga.",
+      "opcion b": "Administrar solo líquidos orales abundantes.",
+      "opcion c": "Observación sin intervención por 24 horas.",
+      "opcion d": "Diálisis inmediata."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 3,
+    "tema": "Litiasis Renal Complicada",
+    "caso_clinico": "Mujer de 45 años con cólico nefrítico severo, fiebre de 38.8°C, náuseas y vómitos. TAC muestra cálculo ureteral de 8mm con hidronefrosis moderada.",
+    "pregunta": "¿Cuál es el tratamiento más adecuado?",
+    "opciones": {
+      "opcion a": "Derivación urinaria urgente (catéter doble J o nefrostomía) y antibióticos.",
+      "opcion b": "Manejo ambulatorio con analgésicos orales solamente.",
+      "opcion c": "Litotricia extracorpórea inmediata sin estabilización.",
+      "opcion d": "Esperar expulsión espontánea sin intervención."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 4,
+    "tema": "Traumatismo Renal",
+    "caso_clinico": "Paciente de 28 años víctima de accidente de tráfico. Hematuria macroscópica, dolor en flanco derecho. TAC con contraste muestra laceración renal grado III con hematoma perirrenal.",
+    "pregunta": "¿Cuál es el manejo inicial apropiado?",
+    "opciones": {
+      "opcion a": "Manejo conservador con monitoreo hemodinámico estricto y reposo.",
+      "opcion b": "Nefrectomía inmediata profiláctica.",
+      "opcion c": "Alta hospitalaria inmediata.",
+      "opcion d": "Ignorar el hallazgo y dar analgésicos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 5,
+    "tema": "Pielonefritis Complicada",
+    "caso_clinico": "Mujer diabética de 58 años con fiebre alta (40°C), escalofríos, dolor lumbar bilateral. Leucocitosis de 22,000. Orina con piuria severa. Antecedente de litiasis renal.",
+    "pregunta": "¿Qué complicación debe sospecharse prioritariamente?",
+    "opciones": {
+      "opcion a": "Pionefrosis o absceso renal que requiere drenaje urgente.",
+      "opcion b": "Cistitis simple sin complicaciones.",
+      "opcion c": "Infección respiratoria viral.",
+      "opcion d": "Deshidratación leve."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 6,
+    "tema": "Hematuria Macroscópica",
+    "caso_clinico": "Hombre de 65 años fumador con hematuria macroscópica indolora de 3 días de evolución. Sin trauma reciente. Estable hemodinámicamente.",
+    "pregunta": "¿Cuál es la prioridad diagnóstica?",
+    "opciones": {
+      "opcion a": "Descartar neoplasia vesical mediante cistoscopia y estudios de imagen.",
+      "opcion b": "Atribuir a infección urinaria sin más estudios.",
+      "opcion c": "Dar alta sin seguimiento.",
+      "opcion d": "Realizar solo análisis de orina básico."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 7,
+    "tema": "Insuficiencia Renal Aguda Obstructiva",
+    "caso_clinico": "Paciente de 70 años con anuria de 24 horas, creatinina 6.5 mg/dL. Ecografía muestra hidronefrosis bilateral severa por obstrucción prostática.",
+    "pregunta": "¿Cuál es el manejo urgente?",
+    "opciones": {
+      "opcion a": "Descompresión urinaria bilateral urgente (sonda o nefrostomías).",
+      "opcion b": "Hemodiálisis sin descomprimir vía urinaria.",
+      "opcion c": "Observación domiciliaria.",
+      "opcion d": "Administrar solo diuréticos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 8,
+    "tema": "Priapismo",
+    "caso_clinico": "Hombre de 35 años acude con erección dolorosa persistente de 6 horas de duración. Sin respuesta a medicación oral previa. Cuerpos cavernosos rígidos y dolorosos.",
+    "pregunta": "¿Qué tipo de priapismo es más probable y su manejo?",
+    "opciones": {
+      "opcion a": "Priapismo isquémico que requiere aspiración y lavado de cuerpos cavernosos urgente.",
+      "opcion b": "Priapismo de alto flujo que se resuelve solo.",
+      "opcion c": "Condición benigna sin necesidad de tratamiento.",
+      "opcion d": "Aplicar compresas frías solamente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 9,
+    "tema": "Torsión Testicular",
+    "caso_clinico": "Adolescente de 16 años con dolor testicular izquierdo súbito e intenso de 3 horas. Testículo elevado, reflejo cremastérico ausente, náuseas.",
+    "pregunta": "¿Cuál es el diagnóstico más probable y manejo?",
+    "opciones": {
+      "opcion a": "Torsión testicular; exploración quirúrgica urgente en menos de 6 horas.",
+      "opcion b": "Epididimitis; tratamiento antibiótico ambulatorio.",
+      "opcion c": "Traumatismo leve; reposo domiciliario.",
+      "opcion d": "Hidrocele; observación sin cirugía."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 10,
+    "tema": "Gangrena de Fournier",
+    "caso_clinico": "Diabético de 62 años con dolor perineal severo, fiebre alta, crepitación en escroto y periné. Piel necrótica y olor fétido. Leucocitosis severa.",
+    "pregunta": "¿Cuál es la urgencia quirúrgica?",
+    "opciones": {
+      "opcion a": "Desbridamiento quirúrgico agresivo inmediato y antibióticos de amplio espectro.",
+      "opcion b": "Antibióticos orales y observación ambulatoria.",
+      "opcion c": "Compresas tibias locales solamente.",
+      "opcion d": "Esperar 48 horas para reevaluar."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 11,
+    "tema": "Infección Urinaria en Embarazo",
+    "caso_clinico": "Gestante de 28 semanas con fiebre, dolor lumbar derecho, náuseas. Leucocitosis, bacteriuria significativa. Estable hemodinámicamente pero taquicárdica.",
+    "pregunta": "¿Cuál es el manejo adecuado?",
+    "opciones": {
+      "opcion a": "Hospitalización, antibióticos IV seguros en embarazo y monitoreo fetal.",
+      "opcion b": "Antibióticos orales ambulatorios sin monitoreo.",
+      "opcion c": "Inducción del parto inmediata.",
+      "opcion d": "No dar tratamiento hasta el parto."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 12,
+    "tema": "Rabdomiólisis con Falla Renal",
+    "caso_clinico": "Paciente de 40 años post-trauma severo. Orina color marrón oscuro, CPK 85,000 U/L, creatinina 4.2 mg/dL, potasio 6.8 mEq/L. Oliguria.",
+    "pregunta": "¿Cuál es el tratamiento prioritario?",
+    "opciones": {
+      "opcion a": "Hidratación agresiva IV, alcalinización urinaria, monitoreo renal y electrolítico.",
+      "opcion b": "Restricción de líquidos y esperar.",
+      "opcion c": "Diálisis inmediata sin hidratación previa.",
+      "opcion d": "Alta hospitalaria con seguimiento ambulatorio."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 13,
+    "tema": "Vejiga Neurogénica",
+    "caso_clinico": "Paciente de 45 años con lesión medular completa T10. Retención urinaria crónica, múltiples infecciones urinarias. Reflujo vesicoureteral bilateral en estudios.",
+    "pregunta": "¿Cuál es el manejo a largo plazo?",
+    "opciones": {
+      "opcion a": "Cateterismo intermitente limpio y profilaxis antibiótica según protocolo.",
+      "opcion b": "Sonda permanente sin cambios regulares.",
+      "opcion c": "No realizar cateterismo y esperar micción espontánea.",
+      "opcion d": "Cirugía de vejiga inmediata sin intentar manejo conservador."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 14,
+    "tema": "Cáncer de Vejiga Hemorrágico",
+    "caso_clinico": "Hombre de 70 años con hematuria masiva y coágulos que obstruyen sonda vesical. Antecedente de cáncer vesical. Taquicárdico, PA 100/60 mmHg, palidez.",
+    "pregunta": "¿Cuál es el manejo urgente?",
+    "opciones": {
+      "opcion a": "Irrigación vesical continua, resucitación con fluidos/transfusión, cistoscopia urgente.",
+      "opcion b": "Observación sin intervención.",
+      "opcion c": "Alta hospitalaria con seguimiento ambulatorio.",
+      "opcion d": "Antibióticos orales solamente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 15,
+    "tema": "Rotura Vesical Traumática",
+    "caso_clinico": "Paciente de 32 años con trauma pélvico severo. Incapacidad para orinar, dolor suprapúbico intenso. Cistografía muestra extravasación de contraste a cavidad peritoneal.",
+    "pregunta": "¿Qué tipo de rotura es y su manejo?",
+    "opciones": {
+      "opcion a": "Rotura intraperitoneal que requiere exploración quirúrgica y reparación urgente.",
+      "opcion b": "Rotura extraperitoneal; manejo conservador con sonda.",
+      "opcion c": "No requiere tratamiento específico.",
+      "opcion d": "Observación domiciliaria."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 16,
+    "tema": "Síndrome de Lisis Tumoral",
+    "caso_clinico": "Paciente con linfoma en quimioterapia. Presenta oliguria, creatinina elevada 5.8 mg/dL, potasio 7.2 mEq/L, fósforo 8.5 mg/dL, ácido úrico 15 mg/dL.",
+    "pregunta": "¿Cuál es el diagnóstico y manejo inmediato?",
+    "opciones": {
+      "opcion a": "Síndrome de lisis tumoral; hidratación IV, alopurinol/rasburicasa, corrección electrolítica.",
+      "opcion b": "Infección urinaria simple; antibióticos orales.",
+      "opcion c": "Deshidratación leve; hidratación oral.",
+      "opcion d": "No requiere tratamiento urgente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 17,
+    "tema": "Pionefrosis",
+    "caso_clinico": "Mujer de 55 años diabética con fiebre alta, dolor en flanco, sepsis. Ecografía muestra riñón izquierdo con hidronefrosis y contenido ecogénico compatible con pus.",
+    "pregunta": "¿Cuál es el tratamiento urgente?",
+    "opciones": {
+      "opcion a": "Drenaje percutáneo urgente (nefrostomía) y antibióticos IV de amplio espectro.",
+      "opcion b": "Antibióticos orales y esperar 72 horas.",
+      "opcion c": "Alta hospitalaria inmediata.",
+      "opcion d": "Nefrectomía sin intentar drenaje."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 18,
+    "tema": "Estenosis Uretral Severa",
+    "caso_clinico": "Hombre de 50 años con retenciones urinarias recurrentes. Antecedente de uretritis gonocócica. Uroflujometría muestra patrón obstructivo severo. Imposibilidad de cateterización.",
+    "pregunta": "¿Cuál es el manejo inmediato si hay retención aguda?",
+    "opciones": {
+      "opcion a": "Cistostomía suprapúbica urgente para derivación temporal.",
+      "opcion b": "Forzar cateterización uretral con traumatismo.",
+      "opcion c": "Observación sin drenaje.",
+      "opcion d": "Dilatación uretral forzada sin guía."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 19,
+    "tema": "Cólico Renal con Obstrucción",
+    "caso_clinico": "Paciente de 38 años con dolor lumbar tipo cólico severo irradiado a genitales. Náuseas, vómitos. TAC muestra cálculo ureteral proximal de 6mm con hidronefrosis moderada.",
+    "pregunta": "¿Cuál es el manejo inicial?",
+    "opciones": {
+      "opcion a": "Analgesia IV (AINEs/opioides), antieméticos, hidratación y valorar necesidad de urología.",
+      "opcion b": "Cirugía abierta inmediata.",
+      "opcion c": "Alta sin analgesia.",
+      "opcion d": "Solo hidratación oral en casa."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 20,
+    "tema": "Cateterismo Vesical Complicado",
+    "caso_clinico": "Enfermera intenta cateterizar paciente masculino post-cirugía prostática. Resistencia al avance del catéter. Sangrado uretral leve tras varios intentos fallidos.",
+    "pregunta": "¿Cuál es la acción correcta?",
+    "opciones": {
+      "opcion a": "Suspender intentos, no forzar, solicitar valoración urológica para cateterización guiada.",
+      "opcion b": "Continuar forzando el catéter hasta lograr pasar.",
+      "opcion c": "Usar catéter de mayor calibre para forzar.",
+      "opcion d": "Dejar al paciente sin drenaje urinario."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 21,
+    "tema": "Urología Crítica - Adultos",
+    "caso_clinico": "Paciente masculino de 68 años en UCI con sepsis urinaria severa. Temperatura 39.5°C, FC 120 lpm, PA 85/50 mmHg. Antecedente de hiperplasia prostática. Orina turbia y fétida.",
+    "pregunta": "¿Cuál es la primera intervención prioritaria?",
+    "opciones": {
+      "opcion a": "Antibióticos de amplio espectro IV inmediatos y reanimación con fluidos.",
+      "opcion b": "Esperar resultados de urocultivo antes de antibióticos.",
+      "opcion c": "Realizar prostatectomía urgente.",
+      "opcion d": "Administrar únicamente analgésicos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 22,
+    "tema": "Urología - Retención Urinaria Aguda",
+    "caso_clinico": "Hombre de 72 años de edad ingresa con dolor suprapúbico intenso, incapacidad para orinar desde hace 12 horas. Distensión vesical palpable. Antecedente de HBP conocida.",
+    "pregunta": "¿Cuál es el manejo inmediato?",
+    "opciones": {
+      "opcion a": "Cateterización uretral o suprapúbica urgente para descomprimir la vejiga.",
+      "opcion b": "Administrar solo líquidos orales abundantes.",
+      "opcion c": "Observación sin intervención por 24 horas.",
+      "opcion d": "Diálisis inmediata."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 23,
+    "tema": "Litiasis Renal Complicada",
+    "caso_clinico": "Mujer de 45 años con cólico nefrítico severo, fiebre de 38.8°C, náuseas y vómitos. TAC muestra cálculo ureteral de 8mm con hidronefrosis moderada.",
+    "pregunta": "¿Cuál es el tratamiento más adecuado?",
+    "opciones": {
+      "opcion a": "Derivación urinaria urgente (catéter doble J o nefrostomía) y antibióticos.",
+      "opcion b": "Manejo ambulatorio con analgésicos orales solamente.",
+      "opcion c": "Litotricia extracorpórea inmediata sin estabilización.",
+      "opcion d": "Esperar expulsión espontánea sin intervención."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 24,
+    "tema": "Traumatismo Renal",
+    "caso_clinico": "Paciente ingresado de 28 años de edad víctima de accidente de tráfico. Hematuria macroscópica, dolor en flanco derecho. TAC con contraste muestra laceración renal grado III con hematoma perirrenal.",
+    "pregunta": "¿Cuál es el manejo inicial apropiado?",
+    "opciones": {
+      "opcion a": "Manejo conservador con monitoreo hemodinámico estricto y reposo.",
+      "opcion b": "Nefrectomía inmediata profiláctica.",
+      "opcion c": "Alta hospitalaria inmediata.",
+      "opcion d": "Ignorar el hallazgo y dar analgésicos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 25,
+    "tema": "Pielonefritis Complicada",
+    "caso_clinico": "Mujer diabética de 58 años con fiebre alta (40°C), escalofríos, dolor lumbar bilateral. Leucocitosis de 22,000. Orina con piuria severa. Antecedente de litiasis renal.",
+    "pregunta": "¿Qué complicación debe sospecharse prioritariamente?",
+    "opciones": {
+      "opcion a": "Pionefrosis o absceso renal que requiere drenaje urgente.",
+      "opcion b": "Cistitis simple sin complicaciones.",
+      "opcion c": "Infección respiratoria viral.",
+      "opcion d": "Deshidratación leve."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 26,
+    "tema": "Hematuria Macroscópica",
+    "caso_clinico": "Hombre de 65 años de edad fumador con hematuria macroscópica indolora de 3 días de evolución. Sin trauma reciente. Estable hemodinámicamente.",
+    "pregunta": "¿Cuál es la prioridad diagnóstica?",
+    "opciones": {
+      "opcion a": "Descartar neoplasia vesical mediante cistoscopia y estudios de imagen.",
+      "opcion b": "Atribuir a infección urinaria sin más estudios.",
+      "opcion c": "Dar alta sin seguimiento.",
+      "opcion d": "Realizar solo análisis de orina básico."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 27,
+    "tema": "Insuficiencia Renal Aguda Obstructiva",
+    "caso_clinico": "Paciente de 70 años con anuria de 24 horas, creatinina 6.5 mg/dL. Ecografía muestra hidronefrosis bilateral severa por obstrucción prostática.",
+    "pregunta": "¿Cuál es el manejo urgente?",
+    "opciones": {
+      "opcion a": "Descompresión urinaria bilateral urgente (sonda o nefrostomías).",
+      "opcion b": "Hemodiálisis sin descomprimir vía urinaria.",
+      "opcion c": "Observación domiciliaria.",
+      "opcion d": "Administrar solo diuréticos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 28,
+    "tema": "Priapismo",
+    "caso_clinico": "Hombre de 35 años de edad acude con erección dolorosa persistente de 6 horas de duración. Sin respuesta a medicación oral previa. Cuerpos cavernosos rígidos y dolorosos.",
+    "pregunta": "¿Qué tipo de priapismo es más probable y su manejo?",
+    "opciones": {
+      "opcion a": "Priapismo isquémico que requiere aspiración y lavado de cuerpos cavernosos urgente.",
+      "opcion b": "Priapismo de alto flujo que se resuelve solo.",
+      "opcion c": "Condición benigna sin necesidad de tratamiento.",
+      "opcion d": "Aplicar compresas frías solamente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 29,
+    "tema": "Torsión Testicular",
+    "caso_clinico": "Adolescente de 16 años con dolor testicular izquierdo súbito e intenso de 3 horas. Testículo elevado, reflejo cremastérico ausente, náuseas.",
+    "pregunta": "¿Cuál es el diagnóstico más probable y manejo?",
+    "opciones": {
+      "opcion a": "Torsión testicular; exploración quirúrgica urgente en menos de 6 horas.",
+      "opcion b": "Epididimitis; tratamiento antibiótico ambulatorio.",
+      "opcion c": "Traumatismo leve; reposo domiciliario.",
+      "opcion d": "Hidrocele; observación sin cirugía."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 30,
+    "tema": "Gangrena de Fournier",
+    "caso_clinico": "Diabético de 62 años de edad con dolor perineal severo, fiebre alta, crepitación en escroto y periné. Piel necrótica y olor fétido. Leucocitosis severa.",
+    "pregunta": "¿Cuál es la urgencia quirúrgica?",
+    "opciones": {
+      "opcion a": "Desbridamiento quirúrgico agresivo inmediato y antibióticos de amplio espectro.",
+      "opcion b": "Antibióticos orales y observación ambulatoria.",
+      "opcion c": "Compresas tibias locales solamente.",
+      "opcion d": "Esperar 48 horas para reevaluar."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 31,
+    "tema": "Infección Urinaria en Embarazo",
+    "caso_clinico": "Gestante de 28 semanas con fiebre, dolor lumbar derecho, náuseas. Leucocitosis, bacteriuria significativa. Estable hemodinámicamente pero taquicárdica.",
+    "pregunta": "¿Cuál es el manejo adecuado?",
+    "opciones": {
+      "opcion a": "Hospitalización, antibióticos IV seguros en embarazo y monitoreo fetal.",
+      "opcion b": "Antibióticos orales ambulatorios sin monitoreo.",
+      "opcion c": "Inducción del parto inmediata.",
+      "opcion d": "No dar tratamiento hasta el parto."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 32,
+    "tema": "Rabdomiólisis con Falla Renal",
+    "caso_clinico": "Paciente ingresado de 40 años de edad post-trauma severo. Orina color marrón oscuro, CPK 85,000 U/L, creatinina 4.2 mg/dL, potasio 6.8 mEq/L. Oliguria.",
+    "pregunta": "¿Cuál es el tratamiento prioritario?",
+    "opciones": {
+      "opcion a": "Hidratación agresiva IV, alcalinización urinaria, monitoreo renal y electrolítico.",
+      "opcion b": "Restricción de líquidos y esperar.",
+      "opcion c": "Diálisis inmediata sin hidratación previa.",
+      "opcion d": "Alta hospitalaria con seguimiento ambulatorio."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 33,
+    "tema": "Vejiga Neurogénica",
+    "caso_clinico": "Paciente de 45 años con lesión medular completa T10. Retención urinaria crónica, múltiples infecciones urinarias. Reflujo vesicoureteral bilateral en estudios.",
+    "pregunta": "¿Cuál es el manejo a largo plazo?",
+    "opciones": {
+      "opcion a": "Cateterismo intermitente limpio y profilaxis antibiótica según protocolo.",
+      "opcion b": "Sonda permanente sin cambios regulares.",
+      "opcion c": "No realizar cateterismo y esperar micción espontánea.",
+      "opcion d": "Cirugía de vejiga inmediata sin intentar manejo conservador."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 34,
+    "tema": "Cáncer de Vejiga Hemorrágico",
+    "caso_clinico": "Hombre de 70 años de edad con hematuria masiva y coágulos que obstruyen sonda vesical. Antecedente de cáncer vesical. Taquicárdico, PA 100/60 mmHg, palidez.",
+    "pregunta": "¿Cuál es el manejo urgente?",
+    "opciones": {
+      "opcion a": "Irrigación vesical continua, resucitación con fluidos/transfusión, cistoscopia urgente.",
+      "opcion b": "Observación sin intervención.",
+      "opcion c": "Alta hospitalaria con seguimiento ambulatorio.",
+      "opcion d": "Antibióticos orales solamente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 35,
+    "tema": "Rotura Vesical Traumática",
+    "caso_clinico": "Paciente de 32 años con trauma pélvico severo. Incapacidad para orinar, dolor suprapúbico intenso. Cistografía muestra extravasación de contraste a cavidad peritoneal.",
+    "pregunta": "¿Qué tipo de rotura es y su manejo?",
+    "opciones": {
+      "opcion a": "Rotura intraperitoneal que requiere exploración quirúrgica y reparación urgente.",
+      "opcion b": "Rotura extraperitoneal; manejo conservador con sonda.",
+      "opcion c": "No requiere tratamiento específico.",
+      "opcion d": "Observación domiciliaria."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 36,
+    "tema": "Síndrome de Lisis Tumoral",
+    "caso_clinico": "Paciente ingresado con linfoma en quimioterapia. Presenta oliguria, creatinina elevada 5.8 mg/dL, potasio 7.2 mEq/L, fósforo 8.5 mg/dL, ácido úrico 15 mg/dL.",
+    "pregunta": "¿Cuál es el diagnóstico y manejo inmediato?",
+    "opciones": {
+      "opcion a": "Síndrome de lisis tumoral; hidratación IV, alopurinol/rasburicasa, corrección electrolítica.",
+      "opcion b": "Infección urinaria simple; antibióticos orales.",
+      "opcion c": "Deshidratación leve; hidratación oral.",
+      "opcion d": "No requiere tratamiento urgente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 37,
+    "tema": "Pionefrosis",
+    "caso_clinico": "Mujer de 55 años diabética con fiebre alta, dolor en flanco, sepsis. Ecografía muestra riñón izquierdo con hidronefrosis y contenido ecogénico compatible con pus.",
+    "pregunta": "¿Cuál es el tratamiento urgente?",
+    "opciones": {
+      "opcion a": "Drenaje percutáneo urgente (nefrostomía) y antibióticos IV de amplio espectro.",
+      "opcion b": "Antibióticos orales y esperar 72 horas.",
+      "opcion c": "Alta hospitalaria inmediata.",
+      "opcion d": "Nefrectomía sin intentar drenaje."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 38,
+    "tema": "Estenosis Uretral Severa",
+    "caso_clinico": "Hombre de 50 años de edad con retenciones urinarias recurrentes. Antecedente de uretritis gonocócica. Uroflujometría muestra patrón obstructivo severo. Imposibilidad de cateterización.",
+    "pregunta": "¿Cuál es el manejo inmediato si hay retención aguda?",
+    "opciones": {
+      "opcion a": "Cistostomía suprapúbica urgente para derivación temporal.",
+      "opcion b": "Forzar cateterización uretral con traumatismo.",
+      "opcion c": "Observación sin drenaje.",
+      "opcion d": "Dilatación uretral forzada sin guía."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 39,
+    "tema": "Cólico Renal con Obstrucción",
+    "caso_clinico": "Paciente de 38 años con dolor lumbar tipo cólico severo irradiado a genitales. Náuseas, vómitos. TAC muestra cálculo ureteral proximal de 6mm con hidronefrosis moderada.",
+    "pregunta": "¿Cuál es el manejo inicial?",
+    "opciones": {
+      "opcion a": "Analgesia IV (AINEs/opioides), antieméticos, hidratación y valorar necesidad de urología.",
+      "opcion b": "Cirugía abierta inmediata.",
+      "opcion c": "Alta sin analgesia.",
+      "opcion d": "Solo hidratación oral en casa."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 40,
+    "tema": "Cateterismo Vesical Complicado",
+    "caso_clinico": "Enfermera intenta cateterizar paciente masculino post-cirugía prostática. Resistencia al avance del catéter. Sangrado uretral leve tras varios intentos fallidos.",
+    "pregunta": "¿Cuál es la acción correcta?",
+    "opciones": {
+      "opcion a": "Suspender intentos, no forzar, solicitar valoración urológica para cateterización guiada.",
+      "opcion b": "Continuar forzando el catéter hasta lograr pasar.",
+      "opcion c": "Usar catéter de mayor calibre para forzar.",
+      "opcion d": "Dejar al paciente sin drenaje urinario."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 41,
+    "tema": "Urología Crítica - Adultos",
+    "caso_clinico": "Paciente masculino de 68 años en UCI con sepsis urinaria severa. Temperatura 39.5°C, FC 120 lpm, PA 85/50 mmHg. Antecedente de hiperplasia prostática. Orina turbia y fétida.",
+    "pregunta": "¿Cuál es la primera intervención prioritaria?",
+    "opciones": {
+      "opcion a": "Antibióticos de amplio espectro IV inmediatos y reanimación con fluidos.",
+      "opcion b": "Esperar resultados de urocultivo antes de antibióticos.",
+      "opcion c": "Realizar prostatectomía urgente.",
+      "opcion d": "Administrar únicamente analgésicos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 42,
+    "tema": "Urología - Retención Urinaria Aguda",
+    "caso_clinico": "Hombre de 72 años de edad ingresa con dolor suprapúbico intenso, incapacidad para orinar desde hace 12 horas. Distensión vesical palpable. Antecedente de HBP conocida.",
+    "pregunta": "¿Cuál es el manejo inmediato?",
+    "opciones": {
+      "opcion a": "Cateterización uretral o suprapúbica urgente para descomprimir la vejiga.",
+      "opcion b": "Administrar solo líquidos orales abundantes.",
+      "opcion c": "Observación sin intervención por 24 horas.",
+      "opcion d": "Diálisis inmediata."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 43,
+    "tema": "Litiasis Renal Complicada",
+    "caso_clinico": "Mujer de 45 años con cólico nefrítico severo, fiebre de 38.8°C, náuseas y vómitos. TAC muestra cálculo ureteral de 8mm con hidronefrosis moderada.",
+    "pregunta": "¿Cuál es el tratamiento más adecuado?",
+    "opciones": {
+      "opcion a": "Derivación urinaria urgente (catéter doble J o nefrostomía) y antibióticos.",
+      "opcion b": "Manejo ambulatorio con analgésicos orales solamente.",
+      "opcion c": "Litotricia extracorpórea inmediata sin estabilización.",
+      "opcion d": "Esperar expulsión espontánea sin intervención."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 44,
+    "tema": "Traumatismo Renal",
+    "caso_clinico": "Paciente ingresado de 28 años de edad víctima de accidente de tráfico. Hematuria macroscópica, dolor en flanco derecho. TAC con contraste muestra laceración renal grado III con hematoma perirrenal.",
+    "pregunta": "¿Cuál es el manejo inicial apropiado?",
+    "opciones": {
+      "opcion a": "Manejo conservador con monitoreo hemodinámico estricto y reposo.",
+      "opcion b": "Nefrectomía inmediata profiláctica.",
+      "opcion c": "Alta hospitalaria inmediata.",
+      "opcion d": "Ignorar el hallazgo y dar analgésicos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 45,
+    "tema": "Pielonefritis Complicada",
+    "caso_clinico": "Mujer diabética de 58 años con fiebre alta (40°C), escalofríos, dolor lumbar bilateral. Leucocitosis de 22,000. Orina con piuria severa. Antecedente de litiasis renal.",
+    "pregunta": "¿Qué complicación debe sospecharse prioritariamente?",
+    "opciones": {
+      "opcion a": "Pionefrosis o absceso renal que requiere drenaje urgente.",
+      "opcion b": "Cistitis simple sin complicaciones.",
+      "opcion c": "Infección respiratoria viral.",
+      "opcion d": "Deshidratación leve."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 46,
+    "tema": "Hematuria Macroscópica",
+    "caso_clinico": "Hombre de 65 años de edad fumador con hematuria macroscópica indolora de 3 días de evolución. Sin trauma reciente. Estable hemodinámicamente.",
+    "pregunta": "¿Cuál es la prioridad diagnóstica?",
+    "opciones": {
+      "opcion a": "Descartar neoplasia vesical mediante cistoscopia y estudios de imagen.",
+      "opcion b": "Atribuir a infección urinaria sin más estudios.",
+      "opcion c": "Dar alta sin seguimiento.",
+      "opcion d": "Realizar solo análisis de orina básico."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 47,
+    "tema": "Insuficiencia Renal Aguda Obstructiva",
+    "caso_clinico": "Paciente de 70 años con anuria de 24 horas, creatinina 6.5 mg/dL. Ecografía muestra hidronefrosis bilateral severa por obstrucción prostática.",
+    "pregunta": "¿Cuál es el manejo urgente?",
+    "opciones": {
+      "opcion a": "Descompresión urinaria bilateral urgente (sonda o nefrostomías).",
+      "opcion b": "Hemodiálisis sin descomprimir vía urinaria.",
+      "opcion c": "Observación domiciliaria.",
+      "opcion d": "Administrar solo diuréticos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 48,
+    "tema": "Priapismo",
+    "caso_clinico": "Hombre de 35 años de edad acude con erección dolorosa persistente de 6 horas de duración. Sin respuesta a medicación oral previa. Cuerpos cavernosos rígidos y dolorosos.",
+    "pregunta": "¿Qué tipo de priapismo es más probable y su manejo?",
+    "opciones": {
+      "opcion a": "Priapismo isquémico que requiere aspiración y lavado de cuerpos cavernosos urgente.",
+      "opcion b": "Priapismo de alto flujo que se resuelve solo.",
+      "opcion c": "Condición benigna sin necesidad de tratamiento.",
+      "opcion d": "Aplicar compresas frías solamente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 49,
+    "tema": "Torsión Testicular",
+    "caso_clinico": "Adolescente de 16 años con dolor testicular izquierdo súbito e intenso de 3 horas. Testículo elevado, reflejo cremastérico ausente, náuseas.",
+    "pregunta": "¿Cuál es el diagnóstico más probable y manejo?",
+    "opciones": {
+      "opcion a": "Torsión testicular; exploración quirúrgica urgente en menos de 6 horas.",
+      "opcion b": "Epididimitis; tratamiento antibiótico ambulatorio.",
+      "opcion c": "Traumatismo leve; reposo domiciliario.",
+      "opcion d": "Hidrocele; observación sin cirugía."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 50,
+    "tema": "Gangrena de Fournier",
+    "caso_clinico": "Diabético de 62 años de edad con dolor perineal severo, fiebre alta, crepitación en escroto y periné. Piel necrótica y olor fétido. Leucocitosis severa.",
+    "pregunta": "¿Cuál es la urgencia quirúrgica?",
+    "opciones": {
+      "opcion a": "Desbridamiento quirúrgico agresivo inmediato y antibióticos de amplio espectro.",
+      "opcion b": "Antibióticos orales y observación ambulatoria.",
+      "opcion c": "Compresas tibias locales solamente.",
+      "opcion d": "Esperar 48 horas para reevaluar."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 51,
+    "tema": "Infección Urinaria en Embarazo",
+    "caso_clinico": "Gestante de 28 semanas con fiebre, dolor lumbar derecho, náuseas. Leucocitosis, bacteriuria significativa. Estable hemodinámicamente pero taquicárdica.",
+    "pregunta": "¿Cuál es el manejo adecuado?",
+    "opciones": {
+      "opcion a": "Hospitalización, antibióticos IV seguros en embarazo y monitoreo fetal.",
+      "opcion b": "Antibióticos orales ambulatorios sin monitoreo.",
+      "opcion c": "Inducción del parto inmediata.",
+      "opcion d": "No dar tratamiento hasta el parto."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 52,
+    "tema": "Rabdomiólisis con Falla Renal",
+    "caso_clinico": "Paciente ingresado de 40 años de edad post-trauma severo. Orina color marrón oscuro, CPK 85,000 U/L, creatinina 4.2 mg/dL, potasio 6.8 mEq/L. Oliguria.",
+    "pregunta": "¿Cuál es el tratamiento prioritario?",
+    "opciones": {
+      "opcion a": "Hidratación agresiva IV, alcalinización urinaria, monitoreo renal y electrolítico.",
+      "opcion b": "Restricción de líquidos y esperar.",
+      "opcion c": "Diálisis inmediata sin hidratación previa.",
+      "opcion d": "Alta hospitalaria con seguimiento ambulatorio."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 53,
+    "tema": "Vejiga Neurogénica",
+    "caso_clinico": "Paciente de 45 años con lesión medular completa T10. Retención urinaria crónica, múltiples infecciones urinarias. Reflujo vesicoureteral bilateral en estudios.",
+    "pregunta": "¿Cuál es el manejo a largo plazo?",
+    "opciones": {
+      "opcion a": "Cateterismo intermitente limpio y profilaxis antibiótica según protocolo.",
+      "opcion b": "Sonda permanente sin cambios regulares.",
+      "opcion c": "No realizar cateterismo y esperar micción espontánea.",
+      "opcion d": "Cirugía de vejiga inmediata sin intentar manejo conservador."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 54,
+    "tema": "Cáncer de Vejiga Hemorrágico",
+    "caso_clinico": "Hombre de 70 años de edad con hematuria masiva y coágulos que obstruyen sonda vesical. Antecedente de cáncer vesical. Taquicárdico, PA 100/60 mmHg, palidez.",
+    "pregunta": "¿Cuál es el manejo urgente?",
+    "opciones": {
+      "opcion a": "Irrigación vesical continua, resucitación con fluidos/transfusión, cistoscopia urgente.",
+      "opcion b": "Observación sin intervención.",
+      "opcion c": "Alta hospitalaria con seguimiento ambulatorio.",
+      "opcion d": "Antibióticos orales solamente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 55,
+    "tema": "Rotura Vesical Traumática",
+    "caso_clinico": "Paciente de 32 años con trauma pélvico severo. Incapacidad para orinar, dolor suprapúbico intenso. Cistografía muestra extravasación de contraste a cavidad peritoneal.",
+    "pregunta": "¿Qué tipo de rotura es y su manejo?",
+    "opciones": {
+      "opcion a": "Rotura intraperitoneal que requiere exploración quirúrgica y reparación urgente.",
+      "opcion b": "Rotura extraperitoneal; manejo conservador con sonda.",
+      "opcion c": "No requiere tratamiento específico.",
+      "opcion d": "Observación domiciliaria."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 56,
+    "tema": "Síndrome de Lisis Tumoral",
+    "caso_clinico": "Paciente ingresado con linfoma en quimioterapia. Presenta oliguria, creatinina elevada 5.8 mg/dL, potasio 7.2 mEq/L, fósforo 8.5 mg/dL, ácido úrico 15 mg/dL.",
+    "pregunta": "¿Cuál es el diagnóstico y manejo inmediato?",
+    "opciones": {
+      "opcion a": "Síndrome de lisis tumoral; hidratación IV, alopurinol/rasburicasa, corrección electrolítica.",
+      "opcion b": "Infección urinaria simple; antibióticos orales.",
+      "opcion c": "Deshidratación leve; hidratación oral.",
+      "opcion d": "No requiere tratamiento urgente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 57,
+    "tema": "Pionefrosis",
+    "caso_clinico": "Mujer de 55 años diabética con fiebre alta, dolor en flanco, sepsis. Ecografía muestra riñón izquierdo con hidronefrosis y contenido ecogénico compatible con pus.",
+    "pregunta": "¿Cuál es el tratamiento urgente?",
+    "opciones": {
+      "opcion a": "Drenaje percutáneo urgente (nefrostomía) y antibióticos IV de amplio espectro.",
+      "opcion b": "Antibióticos orales y esperar 72 horas.",
+      "opcion c": "Alta hospitalaria inmediata.",
+      "opcion d": "Nefrectomía sin intentar drenaje."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 58,
+    "tema": "Estenosis Uretral Severa",
+    "caso_clinico": "Hombre de 50 años de edad con retenciones urinarias recurrentes. Antecedente de uretritis gonocócica. Uroflujometría muestra patrón obstructivo severo. Imposibilidad de cateterización.",
+    "pregunta": "¿Cuál es el manejo inmediato si hay retención aguda?",
+    "opciones": {
+      "opcion a": "Cistostomía suprapúbica urgente para derivación temporal.",
+      "opcion b": "Forzar cateterización uretral con traumatismo.",
+      "opcion c": "Observación sin drenaje.",
+      "opcion d": "Dilatación uretral forzada sin guía."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 59,
+    "tema": "Cólico Renal con Obstrucción",
+    "caso_clinico": "Paciente de 38 años con dolor lumbar tipo cólico severo irradiado a genitales. Náuseas, vómitos. TAC muestra cálculo ureteral proximal de 6mm con hidronefrosis moderada.",
+    "pregunta": "¿Cuál es el manejo inicial?",
+    "opciones": {
+      "opcion a": "Analgesia IV (AINEs/opioides), antieméticos, hidratación y valorar necesidad de urología.",
+      "opcion b": "Cirugía abierta inmediata.",
+      "opcion c": "Alta sin analgesia.",
+      "opcion d": "Solo hidratación oral en casa."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 60,
+    "tema": "Cateterismo Vesical Complicado",
+    "caso_clinico": "Enfermera intenta cateterizar paciente masculino post-cirugía prostática. Resistencia al avance del catéter. Sangrado uretral leve tras varios intentos fallidos.",
+    "pregunta": "¿Cuál es la acción correcta?",
+    "opciones": {
+      "opcion a": "Suspender intentos, no forzar, solicitar valoración urológica para cateterización guiada.",
+      "opcion b": "Continuar forzando el catéter hasta lograr pasar.",
+      "opcion c": "Usar catéter de mayor calibre para forzar.",
+      "opcion d": "Dejar al paciente sin drenaje urinario."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 61,
+    "tema": "Urología Crítica - Adultos",
+    "caso_clinico": "Paciente masculino de 68 años en UCI con sepsis urinaria severa. Temperatura 39.5°C, FC 120 lpm, PA 85/50 mmHg. Antecedente de hiperplasia prostática. Orina turbia y fétida.",
+    "pregunta": "¿Cuál es la primera intervención prioritaria?",
+    "opciones": {
+      "opcion a": "Antibióticos de amplio espectro IV inmediatos y reanimación con fluidos.",
+      "opcion b": "Esperar resultados de urocultivo antes de antibióticos.",
+      "opcion c": "Realizar prostatectomía urgente.",
+      "opcion d": "Administrar únicamente analgésicos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 62,
+    "tema": "Urología - Retención Urinaria Aguda",
+    "caso_clinico": "Hombre de 72 años de edad ingresa con dolor suprapúbico intenso, incapacidad para orinar desde hace 12 horas. Distensión vesical palpable. Antecedente de HBP conocida.",
+    "pregunta": "¿Cuál es el manejo inmediato?",
+    "opciones": {
+      "opcion a": "Cateterización uretral o suprapúbica urgente para descomprimir la vejiga.",
+      "opcion b": "Administrar solo líquidos orales abundantes.",
+      "opcion c": "Observación sin intervención por 24 horas.",
+      "opcion d": "Diálisis inmediata."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 63,
+    "tema": "Litiasis Renal Complicada",
+    "caso_clinico": "Mujer de 45 años con cólico nefrítico severo, fiebre de 38.8°C, náuseas y vómitos. TAC muestra cálculo ureteral de 8mm con hidronefrosis moderada.",
+    "pregunta": "¿Cuál es el tratamiento más adecuado?",
+    "opciones": {
+      "opcion a": "Derivación urinaria urgente (catéter doble J o nefrostomía) y antibióticos.",
+      "opcion b": "Manejo ambulatorio con analgésicos orales solamente.",
+      "opcion c": "Litotricia extracorpórea inmediata sin estabilización.",
+      "opcion d": "Esperar expulsión espontánea sin intervención."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 64,
+    "tema": "Traumatismo Renal",
+    "caso_clinico": "Paciente ingresado de 28 años de edad víctima de accidente de tráfico. Hematuria macroscópica, dolor en flanco derecho. TAC con contraste muestra laceración renal grado III con hematoma perirrenal.",
+    "pregunta": "¿Cuál es el manejo inicial apropiado?",
+    "opciones": {
+      "opcion a": "Manejo conservador con monitoreo hemodinámico estricto y reposo.",
+      "opcion b": "Nefrectomía inmediata profiláctica.",
+      "opcion c": "Alta hospitalaria inmediata.",
+      "opcion d": "Ignorar el hallazgo y dar analgésicos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 65,
+    "tema": "Pielonefritis Complicada",
+    "caso_clinico": "Mujer diabética de 58 años con fiebre alta (40°C), escalofríos, dolor lumbar bilateral. Leucocitosis de 22,000. Orina con piuria severa. Antecedente de litiasis renal.",
+    "pregunta": "¿Qué complicación debe sospecharse prioritariamente?",
+    "opciones": {
+      "opcion a": "Pionefrosis o absceso renal que requiere drenaje urgente.",
+      "opcion b": "Cistitis simple sin complicaciones.",
+      "opcion c": "Infección respiratoria viral.",
+      "opcion d": "Deshidratación leve."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 66,
+    "tema": "Hematuria Macroscópica",
+    "caso_clinico": "Hombre de 65 años de edad fumador con hematuria macroscópica indolora de 3 días de evolución. Sin trauma reciente. Estable hemodinámicamente.",
+    "pregunta": "¿Cuál es la prioridad diagnóstica?",
+    "opciones": {
+      "opcion a": "Descartar neoplasia vesical mediante cistoscopia y estudios de imagen.",
+      "opcion b": "Atribuir a infección urinaria sin más estudios.",
+      "opcion c": "Dar alta sin seguimiento.",
+      "opcion d": "Realizar solo análisis de orina básico."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 67,
+    "tema": "Insuficiencia Renal Aguda Obstructiva",
+    "caso_clinico": "Paciente de 70 años con anuria de 24 horas, creatinina 6.5 mg/dL. Ecografía muestra hidronefrosis bilateral severa por obstrucción prostática.",
+    "pregunta": "¿Cuál es el manejo urgente?",
+    "opciones": {
+      "opcion a": "Descompresión urinaria bilateral urgente (sonda o nefrostomías).",
+      "opcion b": "Hemodiálisis sin descomprimir vía urinaria.",
+      "opcion c": "Observación domiciliaria.",
+      "opcion d": "Administrar solo diuréticos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 68,
+    "tema": "Priapismo",
+    "caso_clinico": "Hombre de 35 años de edad acude con erección dolorosa persistente de 6 horas de duración. Sin respuesta a medicación oral previa. Cuerpos cavernosos rígidos y dolorosos.",
+    "pregunta": "¿Qué tipo de priapismo es más probable y su manejo?",
+    "opciones": {
+      "opcion a": "Priapismo isquémico que requiere aspiración y lavado de cuerpos cavernosos urgente.",
+      "opcion b": "Priapismo de alto flujo que se resuelve solo.",
+      "opcion c": "Condición benigna sin necesidad de tratamiento.",
+      "opcion d": "Aplicar compresas frías solamente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 69,
+    "tema": "Torsión Testicular",
+    "caso_clinico": "Adolescente de 16 años con dolor testicular izquierdo súbito e intenso de 3 horas. Testículo elevado, reflejo cremastérico ausente, náuseas.",
+    "pregunta": "¿Cuál es el diagnóstico más probable y manejo?",
+    "opciones": {
+      "opcion a": "Torsión testicular; exploración quirúrgica urgente en menos de 6 horas.",
+      "opcion b": "Epididimitis; tratamiento antibiótico ambulatorio.",
+      "opcion c": "Traumatismo leve; reposo domiciliario.",
+      "opcion d": "Hidrocele; observación sin cirugía."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 70,
+    "tema": "Gangrena de Fournier",
+    "caso_clinico": "Diabético de 62 años de edad con dolor perineal severo, fiebre alta, crepitación en escroto y periné. Piel necrótica y olor fétido. Leucocitosis severa.",
+    "pregunta": "¿Cuál es la urgencia quirúrgica?",
+    "opciones": {
+      "opcion a": "Desbridamiento quirúrgico agresivo inmediato y antibióticos de amplio espectro.",
+      "opcion b": "Antibióticos orales y observación ambulatoria.",
+      "opcion c": "Compresas tibias locales solamente.",
+      "opcion d": "Esperar 48 horas para reevaluar."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 71,
+    "tema": "Infección Urinaria en Embarazo",
+    "caso_clinico": "Gestante de 28 semanas con fiebre, dolor lumbar derecho, náuseas. Leucocitosis, bacteriuria significativa. Estable hemodinámicamente pero taquicárdica.",
+    "pregunta": "¿Cuál es el manejo adecuado?",
+    "opciones": {
+      "opcion a": "Hospitalización, antibióticos IV seguros en embarazo y monitoreo fetal.",
+      "opcion b": "Antibióticos orales ambulatorios sin monitoreo.",
+      "opcion c": "Inducción del parto inmediata.",
+      "opcion d": "No dar tratamiento hasta el parto."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 72,
+    "tema": "Rabdomiólisis con Falla Renal",
+    "caso_clinico": "Paciente ingresado de 40 años de edad post-trauma severo. Orina color marrón oscuro, CPK 85,000 U/L, creatinina 4.2 mg/dL, potasio 6.8 mEq/L. Oliguria.",
+    "pregunta": "¿Cuál es el tratamiento prioritario?",
+    "opciones": {
+      "opcion a": "Hidratación agresiva IV, alcalinización urinaria, monitoreo renal y electrolítico.",
+      "opcion b": "Restricción de líquidos y esperar.",
+      "opcion c": "Diálisis inmediata sin hidratación previa.",
+      "opcion d": "Alta hospitalaria con seguimiento ambulatorio."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 73,
+    "tema": "Vejiga Neurogénica",
+    "caso_clinico": "Paciente de 45 años con lesión medular completa T10. Retención urinaria crónica, múltiples infecciones urinarias. Reflujo vesicoureteral bilateral en estudios.",
+    "pregunta": "¿Cuál es el manejo a largo plazo?",
+    "opciones": {
+      "opcion a": "Cateterismo intermitente limpio y profilaxis antibiótica según protocolo.",
+      "opcion b": "Sonda permanente sin cambios regulares.",
+      "opcion c": "No realizar cateterismo y esperar micción espontánea.",
+      "opcion d": "Cirugía de vejiga inmediata sin intentar manejo conservador."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 74,
+    "tema": "Cáncer de Vejiga Hemorrágico",
+    "caso_clinico": "Hombre de 70 años de edad con hematuria masiva y coágulos que obstruyen sonda vesical. Antecedente de cáncer vesical. Taquicárdico, PA 100/60 mmHg, palidez.",
+    "pregunta": "¿Cuál es el manejo urgente?",
+    "opciones": {
+      "opcion a": "Irrigación vesical continua, resucitación con fluidos/transfusión, cistoscopia urgente.",
+      "opcion b": "Observación sin intervención.",
+      "opcion c": "Alta hospitalaria con seguimiento ambulatorio.",
+      "opcion d": "Antibióticos orales solamente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 75,
+    "tema": "Rotura Vesical Traumática",
+    "caso_clinico": "Paciente de 32 años con trauma pélvico severo. Incapacidad para orinar, dolor suprapúbico intenso. Cistografía muestra extravasación de contraste a cavidad peritoneal.",
+    "pregunta": "¿Qué tipo de rotura es y su manejo?",
+    "opciones": {
+      "opcion a": "Rotura intraperitoneal que requiere exploración quirúrgica y reparación urgente.",
+      "opcion b": "Rotura extraperitoneal; manejo conservador con sonda.",
+      "opcion c": "No requiere tratamiento específico.",
+      "opcion d": "Observación domiciliaria."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 76,
+    "tema": "Síndrome de Lisis Tumoral",
+    "caso_clinico": "Paciente ingresado con linfoma en quimioterapia. Presenta oliguria, creatinina elevada 5.8 mg/dL, potasio 7.2 mEq/L, fósforo 8.5 mg/dL, ácido úrico 15 mg/dL.",
+    "pregunta": "¿Cuál es el diagnóstico y manejo inmediato?",
+    "opciones": {
+      "opcion a": "Síndrome de lisis tumoral; hidratación IV, alopurinol/rasburicasa, corrección electrolítica.",
+      "opcion b": "Infección urinaria simple; antibióticos orales.",
+      "opcion c": "Deshidratación leve; hidratación oral.",
+      "opcion d": "No requiere tratamiento urgente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 77,
+    "tema": "Pionefrosis",
+    "caso_clinico": "Mujer de 55 años diabética con fiebre alta, dolor en flanco, sepsis. Ecografía muestra riñón izquierdo con hidronefrosis y contenido ecogénico compatible con pus.",
+    "pregunta": "¿Cuál es el tratamiento urgente?",
+    "opciones": {
+      "opcion a": "Drenaje percutáneo urgente (nefrostomía) y antibióticos IV de amplio espectro.",
+      "opcion b": "Antibióticos orales y esperar 72 horas.",
+      "opcion c": "Alta hospitalaria inmediata.",
+      "opcion d": "Nefrectomía sin intentar drenaje."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 78,
+    "tema": "Estenosis Uretral Severa",
+    "caso_clinico": "Hombre de 50 años de edad con retenciones urinarias recurrentes. Antecedente de uretritis gonocócica. Uroflujometría muestra patrón obstructivo severo. Imposibilidad de cateterización.",
+    "pregunta": "¿Cuál es el manejo inmediato si hay retención aguda?",
+    "opciones": {
+      "opcion a": "Cistostomía suprapúbica urgente para derivación temporal.",
+      "opcion b": "Forzar cateterización uretral con traumatismo.",
+      "opcion c": "Observación sin drenaje.",
+      "opcion d": "Dilatación uretral forzada sin guía."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 79,
+    "tema": "Cólico Renal con Obstrucción",
+    "caso_clinico": "Paciente de 38 años con dolor lumbar tipo cólico severo irradiado a genitales. Náuseas, vómitos. TAC muestra cálculo ureteral proximal de 6mm con hidronefrosis moderada.",
+    "pregunta": "¿Cuál es el manejo inicial?",
+    "opciones": {
+      "opcion a": "Analgesia IV (AINEs/opioides), antieméticos, hidratación y valorar necesidad de urología.",
+      "opcion b": "Cirugía abierta inmediata.",
+      "opcion c": "Alta sin analgesia.",
+      "opcion d": "Solo hidratación oral en casa."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 80,
+    "tema": "Cateterismo Vesical Complicado",
+    "caso_clinico": "Enfermera intenta cateterizar paciente masculino post-cirugía prostática. Resistencia al avance del catéter. Sangrado uretral leve tras varios intentos fallidos.",
+    "pregunta": "¿Cuál es la acción correcta?",
+    "opciones": {
+      "opcion a": "Suspender intentos, no forzar, solicitar valoración urológica para cateterización guiada.",
+      "opcion b": "Continuar forzando el catéter hasta lograr pasar.",
+      "opcion c": "Usar catéter de mayor calibre para forzar.",
+      "opcion d": "Dejar al paciente sin drenaje urinario."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 81,
+    "tema": "Urología Crítica - Adultos",
+    "caso_clinico": "Paciente masculino de 68 años en UCI con sepsis urinaria severa. Temperatura 39.5°C, FC 120 lpm, PA 85/50 mmHg. Antecedente de hiperplasia prostática. Orina turbia y fétida.",
+    "pregunta": "¿Cuál es la primera intervención prioritaria?",
+    "opciones": {
+      "opcion a": "Antibióticos de amplio espectro IV inmediatos y reanimación con fluidos.",
+      "opcion b": "Esperar resultados de urocultivo antes de antibióticos.",
+      "opcion c": "Realizar prostatectomía urgente.",
+      "opcion d": "Administrar únicamente analgésicos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 82,
+    "tema": "Urología - Retención Urinaria Aguda",
+    "caso_clinico": "Hombre de 72 años de edad ingresa con dolor suprapúbico intenso, incapacidad para orinar desde hace 12 horas. Distensión vesical palpable. Antecedente de HBP conocida.",
+    "pregunta": "¿Cuál es el manejo inmediato?",
+    "opciones": {
+      "opcion a": "Cateterización uretral o suprapúbica urgente para descomprimir la vejiga.",
+      "opcion b": "Administrar solo líquidos orales abundantes.",
+      "opcion c": "Observación sin intervención por 24 horas.",
+      "opcion d": "Diálisis inmediata."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 83,
+    "tema": "Litiasis Renal Complicada",
+    "caso_clinico": "Mujer de 45 años con cólico nefrítico severo, fiebre de 38.8°C, náuseas y vómitos. TAC muestra cálculo ureteral de 8mm con hidronefrosis moderada.",
+    "pregunta": "¿Cuál es el tratamiento más adecuado?",
+    "opciones": {
+      "opcion a": "Derivación urinaria urgente (catéter doble J o nefrostomía) y antibióticos.",
+      "opcion b": "Manejo ambulatorio con analgésicos orales solamente.",
+      "opcion c": "Litotricia extracorpórea inmediata sin estabilización.",
+      "opcion d": "Esperar expulsión espontánea sin intervención."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 84,
+    "tema": "Traumatismo Renal",
+    "caso_clinico": "Paciente ingresado de 28 años de edad víctima de accidente de tráfico. Hematuria macroscópica, dolor en flanco derecho. TAC con contraste muestra laceración renal grado III con hematoma perirrenal.",
+    "pregunta": "¿Cuál es el manejo inicial apropiado?",
+    "opciones": {
+      "opcion a": "Manejo conservador con monitoreo hemodinámico estricto y reposo.",
+      "opcion b": "Nefrectomía inmediata profiláctica.",
+      "opcion c": "Alta hospitalaria inmediata.",
+      "opcion d": "Ignorar el hallazgo y dar analgésicos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 85,
+    "tema": "Pielonefritis Complicada",
+    "caso_clinico": "Mujer diabética de 58 años con fiebre alta (40°C), escalofríos, dolor lumbar bilateral. Leucocitosis de 22,000. Orina con piuria severa. Antecedente de litiasis renal.",
+    "pregunta": "¿Qué complicación debe sospecharse prioritariamente?",
+    "opciones": {
+      "opcion a": "Pionefrosis o absceso renal que requiere drenaje urgente.",
+      "opcion b": "Cistitis simple sin complicaciones.",
+      "opcion c": "Infección respiratoria viral.",
+      "opcion d": "Deshidratación leve."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 86,
+    "tema": "Hematuria Macroscópica",
+    "caso_clinico": "Hombre de 65 años de edad fumador con hematuria macroscópica indolora de 3 días de evolución. Sin trauma reciente. Estable hemodinámicamente.",
+    "pregunta": "¿Cuál es la prioridad diagnóstica?",
+    "opciones": {
+      "opcion a": "Descartar neoplasia vesical mediante cistoscopia y estudios de imagen.",
+      "opcion b": "Atribuir a infección urinaria sin más estudios.",
+      "opcion c": "Dar alta sin seguimiento.",
+      "opcion d": "Realizar solo análisis de orina básico."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 87,
+    "tema": "Insuficiencia Renal Aguda Obstructiva",
+    "caso_clinico": "Paciente de 70 años con anuria de 24 horas, creatinina 6.5 mg/dL. Ecografía muestra hidronefrosis bilateral severa por obstrucción prostática.",
+    "pregunta": "¿Cuál es el manejo urgente?",
+    "opciones": {
+      "opcion a": "Descompresión urinaria bilateral urgente (sonda o nefrostomías).",
+      "opcion b": "Hemodiálisis sin descomprimir vía urinaria.",
+      "opcion c": "Observación domiciliaria.",
+      "opcion d": "Administrar solo diuréticos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 88,
+    "tema": "Priapismo",
+    "caso_clinico": "Hombre de 35 años de edad acude con erección dolorosa persistente de 6 horas de duración. Sin respuesta a medicación oral previa. Cuerpos cavernosos rígidos y dolorosos.",
+    "pregunta": "¿Qué tipo de priapismo es más probable y su manejo?",
+    "opciones": {
+      "opcion a": "Priapismo isquémico que requiere aspiración y lavado de cuerpos cavernosos urgente.",
+      "opcion b": "Priapismo de alto flujo que se resuelve solo.",
+      "opcion c": "Condición benigna sin necesidad de tratamiento.",
+      "opcion d": "Aplicar compresas frías solamente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 89,
+    "tema": "Torsión Testicular",
+    "caso_clinico": "Adolescente de 16 años con dolor testicular izquierdo súbito e intenso de 3 horas. Testículo elevado, reflejo cremastérico ausente, náuseas.",
+    "pregunta": "¿Cuál es el diagnóstico más probable y manejo?",
+    "opciones": {
+      "opcion a": "Torsión testicular; exploración quirúrgica urgente en menos de 6 horas.",
+      "opcion b": "Epididimitis; tratamiento antibiótico ambulatorio.",
+      "opcion c": "Traumatismo leve; reposo domiciliario.",
+      "opcion d": "Hidrocele; observación sin cirugía."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 90,
+    "tema": "Gangrena de Fournier",
+    "caso_clinico": "Diabético de 62 años de edad con dolor perineal severo, fiebre alta, crepitación en escroto y periné. Piel necrótica y olor fétido. Leucocitosis severa.",
+    "pregunta": "¿Cuál es la urgencia quirúrgica?",
+    "opciones": {
+      "opcion a": "Desbridamiento quirúrgico agresivo inmediato y antibióticos de amplio espectro.",
+      "opcion b": "Antibióticos orales y observación ambulatoria.",
+      "opcion c": "Compresas tibias locales solamente.",
+      "opcion d": "Esperar 48 horas para reevaluar."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 91,
+    "tema": "Infección Urinaria en Embarazo",
+    "caso_clinico": "Gestante de 28 semanas con fiebre, dolor lumbar derecho, náuseas. Leucocitosis, bacteriuria significativa. Estable hemodinámicamente pero taquicárdica.",
+    "pregunta": "¿Cuál es el manejo adecuado?",
+    "opciones": {
+      "opcion a": "Hospitalización, antibióticos IV seguros en embarazo y monitoreo fetal.",
+      "opcion b": "Antibióticos orales ambulatorios sin monitoreo.",
+      "opcion c": "Inducción del parto inmediata.",
+      "opcion d": "No dar tratamiento hasta el parto."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 92,
+    "tema": "Rabdomiólisis con Falla Renal",
+    "caso_clinico": "Paciente ingresado de 40 años de edad post-trauma severo. Orina color marrón oscuro, CPK 85,000 U/L, creatinina 4.2 mg/dL, potasio 6.8 mEq/L. Oliguria.",
+    "pregunta": "¿Cuál es el tratamiento prioritario?",
+    "opciones": {
+      "opcion a": "Hidratación agresiva IV, alcalinización urinaria, monitoreo renal y electrolítico.",
+      "opcion b": "Restricción de líquidos y esperar.",
+      "opcion c": "Diálisis inmediata sin hidratación previa.",
+      "opcion d": "Alta hospitalaria con seguimiento ambulatorio."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 93,
+    "tema": "Vejiga Neurogénica",
+    "caso_clinico": "Paciente de 45 años con lesión medular completa T10. Retención urinaria crónica, múltiples infecciones urinarias. Reflujo vesicoureteral bilateral en estudios.",
+    "pregunta": "¿Cuál es el manejo a largo plazo?",
+    "opciones": {
+      "opcion a": "Cateterismo intermitente limpio y profilaxis antibiótica según protocolo.",
+      "opcion b": "Sonda permanente sin cambios regulares.",
+      "opcion c": "No realizar cateterismo y esperar micción espontánea.",
+      "opcion d": "Cirugía de vejiga inmediata sin intentar manejo conservador."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 94,
+    "tema": "Cáncer de Vejiga Hemorrágico",
+    "caso_clinico": "Hombre de 70 años de edad con hematuria masiva y coágulos que obstruyen sonda vesical. Antecedente de cáncer vesical. Taquicárdico, PA 100/60 mmHg, palidez.",
+    "pregunta": "¿Cuál es el manejo urgente?",
+    "opciones": {
+      "opcion a": "Irrigación vesical continua, resucitación con fluidos/transfusión, cistoscopia urgente.",
+      "opcion b": "Observación sin intervención.",
+      "opcion c": "Alta hospitalaria con seguimiento ambulatorio.",
+      "opcion d": "Antibióticos orales solamente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 95,
+    "tema": "Rotura Vesical Traumática",
+    "caso_clinico": "Paciente de 32 años con trauma pélvico severo. Incapacidad para orinar, dolor suprapúbico intenso. Cistografía muestra extravasación de contraste a cavidad peritoneal.",
+    "pregunta": "¿Qué tipo de rotura es y su manejo?",
+    "opciones": {
+      "opcion a": "Rotura intraperitoneal que requiere exploración quirúrgica y reparación urgente.",
+      "opcion b": "Rotura extraperitoneal; manejo conservador con sonda.",
+      "opcion c": "No requiere tratamiento específico.",
+      "opcion d": "Observación domiciliaria."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 96,
+    "tema": "Síndrome de Lisis Tumoral",
+    "caso_clinico": "Paciente ingresado con linfoma en quimioterapia. Presenta oliguria, creatinina elevada 5.8 mg/dL, potasio 7.2 mEq/L, fósforo 8.5 mg/dL, ácido úrico 15 mg/dL.",
+    "pregunta": "¿Cuál es el diagnóstico y manejo inmediato?",
+    "opciones": {
+      "opcion a": "Síndrome de lisis tumoral; hidratación IV, alopurinol/rasburicasa, corrección electrolítica.",
+      "opcion b": "Infección urinaria simple; antibióticos orales.",
+      "opcion c": "Deshidratación leve; hidratación oral.",
+      "opcion d": "No requiere tratamiento urgente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 97,
+    "tema": "Pionefrosis",
+    "caso_clinico": "Mujer de 55 años diabética con fiebre alta, dolor en flanco, sepsis. Ecografía muestra riñón izquierdo con hidronefrosis y contenido ecogénico compatible con pus.",
+    "pregunta": "¿Cuál es el tratamiento urgente?",
+    "opciones": {
+      "opcion a": "Drenaje percutáneo urgente (nefrostomía) y antibióticos IV de amplio espectro.",
+      "opcion b": "Antibióticos orales y esperar 72 horas.",
+      "opcion c": "Alta hospitalaria inmediata.",
+      "opcion d": "Nefrectomía sin intentar drenaje."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 98,
+    "tema": "Estenosis Uretral Severa",
+    "caso_clinico": "Hombre de 50 años de edad con retenciones urinarias recurrentes. Antecedente de uretritis gonocócica. Uroflujometría muestra patrón obstructivo severo. Imposibilidad de cateterización.",
+    "pregunta": "¿Cuál es el manejo inmediato si hay retención aguda?",
+    "opciones": {
+      "opcion a": "Cistostomía suprapúbica urgente para derivación temporal.",
+      "opcion b": "Forzar cateterización uretral con traumatismo.",
+      "opcion c": "Observación sin drenaje.",
+      "opcion d": "Dilatación uretral forzada sin guía."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 99,
+    "tema": "Cólico Renal con Obstrucción",
+    "caso_clinico": "Paciente de 38 años con dolor lumbar tipo cólico severo irradiado a genitales. Náuseas, vómitos. TAC muestra cálculo ureteral proximal de 6mm con hidronefrosis moderada.",
+    "pregunta": "¿Cuál es el manejo inicial?",
+    "opciones": {
+      "opcion a": "Analgesia IV (AINEs/opioides), antieméticos, hidratación y valorar necesidad de urología.",
+      "opcion b": "Cirugía abierta inmediata.",
+      "opcion c": "Alta sin analgesia.",
+      "opcion d": "Solo hidratación oral en casa."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 100,
+    "tema": "Cateterismo Vesical Complicado",
+    "caso_clinico": "Enfermera intenta cateterizar paciente masculino post-cirugía prostática. Resistencia al avance del catéter. Sangrado uretral leve tras varios intentos fallidos.",
+    "pregunta": "¿Cuál es la acción correcta?",
+    "opciones": {
+      "opcion a": "Suspender intentos, no forzar, solicitar valoración urológica para cateterización guiada.",
+      "opcion b": "Continuar forzando el catéter hasta lograr pasar.",
+      "opcion c": "Usar catéter de mayor calibre para forzar.",
+      "opcion d": "Dejar al paciente sin drenaje urinario."
+    },
+    "respuesta_correcta": "opcion a"
+  }
+]

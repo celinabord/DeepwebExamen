@@ -1,1325 +1,1263 @@
- {
-  "titulo_examen": "Examen de Neumonología en Cuidados Críticos y Legislación (Bloque 1 y 2 Consolidado)",
-  "instrucciones": "Seleccione la única opción correcta. Las justificaciones se encuentran al final del examen completo (Bloque 4).",
-  "preguntas": [
-    {
-      "id": 1,
-      "categoria": "Adulto - Cálculo de Medicación",
-      "caso_clinico": "Paciente adulto de 80 kg en shock séptico. Se requiere infusión de **Dopamina** a 5 mcg/kg/min. La ampolla tiene 200 mg/5 mL y se diluye en 250 mL de Solución Fisiológica.",
-      "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
-      "opciones": {
-        "a": "18.0 mL/hora",
-        "b": "9.0 mL/hora",
-        "c": "12.5 mL/hora",
-        "d": "15.0 mL/hora"
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 2,
-      "categoria": "Pediátrico - Ventilación Mecánica",
-      "caso_clinico": "Niño de 4 años, 16 kg, con status asmático intubado. Se detecta un **auto-PEEP** de 8 cmH2O. Los gases arteriales muestran hipercapnia.",
-      "pregunta": "¿Cuál es la estrategia ventilatoria más efectiva para reducir el auto-PEEP y mejorar la hipercapnia en este paciente?",
-      "opciones": {
-        "a": "Aumentar la PEEP externa a 10 cmH2O para 'abrir' los alvéolos.",
-        "b": "Disminuir la Frecuencia Respiratoria y aumentar el flujo inspiratorio (menor Ti).",
-        "c": "Aumentar el Vt para desplazar mejor el aire atrapado.",
-        "d": "Usar un Ti más largo para favorecer el vaciado pulmonar."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 3,
-      "categoria": "Neonatal - Patología Respiratoria",
-      "caso_clinico": "Neonato de 37 semanas con taquipnea transitoria. Presenta dificultad respiratoria que mejora rápidamente en las primeras 24-48 horas.",
-      "pregunta": "¿Cuál es el mecanismo fisiopatológico principal de la **Taquipnea Transitoria del Recién Nacido (TTRN)**?",
-      "opciones": {
-        "a": "Déficit primario de surfactante.",
-        "b": "Persistencia del conducto arterioso con shunt izquierda-derecha.",
-        "c": "Retraso en la reabsorción del líquido pulmonar fetal.",
-        "d": "Aspiración de meconio en el parto."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 4,
-      "categoria": "Adulto - SDRA",
-      "caso_clinico": "Paciente con SDRA moderado (PaO2/FiO2 = 150) en ventilación mecánica. Se requiere titular la PEEP y la FiO2 según la tabla PEEP/FiO2 (protocolo ARDSNet).",
-      "pregunta": "Si la FiO2 actual es del 0.6 (60%), ¿cuál es el rango de PEEP recomendado por la tabla de ARDSNet (high PEEP)?",
-      "opciones": {
-        "a": "5 - 8 cmH2O",
-        "b": "10 - 14 cmH2O",
-        "c": "14 - 18 cmH2O",
-        "d": "18 - 22 cmH2O"
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 5,
-      "categoria": "Legislación - Donación",
-      "caso_clinico": "Se evalúa a un paciente con Muerte Encefálica para la donación de órganos. La familia se opone rotundamente, aunque el paciente había manifestado verbalmente a un amigo su deseo de donar.",
-      "pregunta": "Según la **Ley 27.447**, ¿qué prevalece en el proceso de donación de órganos?",
-      "opciones": {
-        "a": "La manifestación verbal a un tercero.",
-        "b": "La oposición familiar, sin importar la voluntad previa no registrada.",
-        "c": "La voluntad expresa registrada del donante (positiva o negativa).",
-        "d": "La figura del donante presunto, invalidando la oposición familiar."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 6,
-      "categoria": "Pediátrico - Neumonía",
-      "caso_clinico": "Lactante de 6 meses con neumonía grave que requiere VMI. Presenta mala compliance pulmonar y volúmenes bajos.",
-      "pregunta": "En un paciente con pulmón 'duro' o baja compliance, ¿cuál es el riesgo principal al intentar alcanzar volúmenes tidales altos en la ventilación controlada por volumen?",
-      "opciones": {
-        "a": "Atrapamiento aéreo y auto-PEEP.",
-        "b": "Barotrauma (neumotórax) debido a altas presiones pico.",
-        "c": "Atelectasias y shunt intrapulmonar.",
-        "d": "Hipoxemia refractaria al FiO2."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 7,
-      "categoria": "Adulto - Destete de VMI",
-      "caso_clinico": "Paciente adulto en VMI por 5 días, con FiO2 = 0.4, PEEP = 5, hemodinámicamente estable. Se realiza un T-piece (tubo en T) para prueba de respiración espontánea (PRE).",
-      "pregunta": "¿Qué resultado del **Índice de Respiración Rápida y Superficial (IRRS o RSBI)** indica una alta probabilidad de éxito en el destete?",
-      "opciones": {
-        "a": "IRRS > 105 respiraciones/min/L",
-        "b": "IRRS < 105 respiraciones/min/L",
-        "c": "IRRS entre 105 y 130 respiraciones/min/L",
-        "d": "IRRS < 50 respiraciones/min/L"
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 8,
-      "categoria": "Neonatal - Cálculo de Medicación",
-      "caso_clinico": "Neonato de 1.5 kg con dificultad respiratoria. Se debe administrar **Surfactante Exógeno** a una dosis de 100 mg/kg por vía endotraqueal.",
-      "pregunta": "¿Cuántos miligramos de surfactante se deben administrar?",
-      "opciones": {
-        "a": "15 mg",
-        "b": "100 mg",
-        "c": "150 mg",
-        "d": "1500 mg"
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 9,
-      "categoria": "Legislación - Muerte Encefálica",
-      "caso_clinico": "Un paciente con traumatismo craneoencefálico grave ingresa a la UCI y cumple con todos los criterios clínicos para el diagnóstico de **Muerte Encefálica (ME)**.",
-      "pregunta": "Según la legislación de trasplante, ¿quiénes deben firmar el acta de ME para su certificación legal?",
-      "opciones": {
-        "a": "El médico tratante y el neurólogo tratante.",
-        "b": "El neurólogo o neurocirujano y el médico de la unidad de terapia intensiva.",
-        "c": "Dos médicos, uno de los cuales debe ser neurólogo o neurocirujano, y **ninguno** del equipo de trasplante.",
-        "d": "El director del hospital y el médico forense."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 10,
-      "categoria": "Pediátrico - SDRA",
-      "caso_clinico": "Niño de 10 años con SDRA grave post-sepsis. Está en VMI con PEEP alto (12 cmH2O).",
-      "pregunta": "¿Cuál es la complicación más frecuente del uso de PEEP elevado en la ventilación de un paciente pediátrico crítico?",
-      "opciones": {
-        "a": "Volutrauma (exceso de volumen).",
-        "b": "Hiponatremia dilucional.",
-        "c": "Compromiso hemodinámico (disminución del gasto cardíaco).",
-        "d": "Broncoespasmo refractario."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 11,
-      "categoria": "Adulto - Asma Crítico",
-      "caso_clinico": "Paciente adulto con crisis asmática grave intubado. La ventilación se realiza en modalidad VCV y presenta presiones pico muy altas (> 45 cmH2O).",
-      "pregunta": "¿Cuál es el objetivo principal al modificar los parámetros ventilatorios en este escenario?",
-      "opciones": {
-        "a": "Lograr la normocapnia rápidamente (PaCO2 < 40 mmHg).",
-        "b": "Reducir la Presión Pico a menos de 30 cmH2O.",
-        "c": "Permitir la **hipercapnia permisiva** para evitar el barotrauma y volutrauma.",
-        "d": "Aumentar la Frecuencia Respiratoria para evacuar el aire atrapado."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 12,
-      "categoria": "Legislación - INCUCAI",
-      "caso_clinico": "Un equipo médico de un hospital realiza el primer diagnóstico de Muerte Encefálica y lo notifica al organismo de procuración regional.",
-      "pregunta": "¿Cuál de las siguientes es una función **directa** del INCUCAI (o equivalente regional) en este proceso?",
-      "opciones": {
-        "a": "Trasladar el cuerpo del paciente a la morgue.",
-        "b": "**Asignar** el órgano (pulmón) al receptor compatible en lista de espera.",
-        "c": "Decidir si el diagnóstico de ME fue correcto.",
-        "d": "Obtener el consentimiento familiar para la donación."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 13,
-      "categoria": "Neonatal - Hipertensión Pulmonar",
-      "caso_clinico": "Neonato a término con HPPCN (Hipertensión Pulmonar Persistente). Está en VMI y requiere una terapia para inducir vasodilatación selectiva del lecho pulmonar.",
-      "pregunta": "¿Cuál es el tratamiento de elección para la HPPCN en un UCI Neonatal?",
-      "opciones": {
-        "a": "Prostaglandina E1 intravenosa.",
-        "b": "Sildenafil oral o IV como terapia inicial.",
-        "c": "**Óxido Nítrico Inhalado (ONi)**.",
-        "d": "Dobutamina en dosis altas."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 14,
-      "categoria": "Adulto - Cálculo de Medicación",
-      "caso_clinico": "Paciente de 60 kg en SDRA con necesidad de parálisis muscular para optimizar la VMI. Se decide usar **Vecuronio** en bolos. La dosis es 0.1 mg/kg.",
-      "pregunta": "Si la presentación es un vial de 10 mg liofilizado, y se reconstituye con 10 mL de solución, ¿cuántos mL debe administrar en bolo?",
-      "opciones": {
-        "a": "0.6 mL",
-        "b": "6.0 mL",
-        "c": "1.0 mL",
-        "d": "1.2 mL"
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 15,
-      "categoria": "Pediátrico - Ventilación",
-      "caso_clinico": "Niño de 2 años en VMI con PEEP de 6 cmH2O. Al realizar maniobras de aspiración de secreciones, se observa una caída brusca de la SpO2.",
-      "pregunta": "¿Cuál es la recomendación esencial de la AARC para prevenir la desaturación durante la aspiración en VMI?",
-      "opciones": {
-        "a": "Disminuir la PEEP antes de aspirar.",
-        "b": "**Pre-oxigenar** con FiO2 = 1.0 por al menos 30 segundos antes de la maniobra.",
-        "c": "Aspirar solo con técnica abierta para un mejor control visual.",
-        "d": "Usar un catéter de aspiración de un diámetro mayor al 50 del tubo endotraqueal."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 16,
-      "categoria": "Neonatal - EMH",
-      "caso_clinico": "Neonato pretérmino con EMH que recibe Surfactante Exógeno. Después de la administración, se espera una mejora en la oxigenación.",
-      "pregunta": "¿Cuál es el principal efecto inmediato del Surfactante Exógeno en el pulmón inmaduro?",
-      "opciones": {
-        "a": "Disminución de la resistencia vascular pulmonar.",
-        "b": "**Reducción de la tensión superficial alveolar**.",
-        "c": "Aumento de la síntesis endógena de proteínas.",
-        "d": "Bloqueo de la inflamación pulmonar."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 17,
-      "categoria": "Adulto - Neumonía Ventilador",
-      "caso_clinico": "Paciente adulto con 10 días de VMI. Presenta fiebre, leucocitosis y secreciones purulentas. Se sospecha de Neumonía Asociada al Ventilador NAV).",
-      "pregunta": "¿Cuál es una medida clave en el bundle de prevención de la NAV?",
-      "opciones": {
-        "a": "Sedación profunda continua.",
-        "b": "Intubación traqueal selectiva.",
-        "c": "**Elevación de la cabecera** entre 30 circ y 45 circ (si no hay contraindicación).",
-        "d": "Cambios posturales cada 6 horas."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 18,
-      "categoria": "Legislación - Donante Presunto",
-      "caso_clinico": "Se discute la aplicación del concepto de Donante Presunto en un paciente que ha fallecido por ME.",
-      "pregunta": "La figura del **Donante Presunto** establecida en la Ley de Trasplante implica que:",
-      "opciones": {
-        "a": "La donación solo procede si la persona lo manifestó en vida por escrito.",
-        "b": "Se requiere el consentimiento explícito de los familiares directos.",
-        "c": "**Toda persona mayor de 18 años es considerada donante**, a menos que haya manifestado su voluntad contraria.",
-        "d": "La donación es automática y obligatoria para todos los fallecidos por ME."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 19,
-      "categoria": "Pediátrico - Monitoreo",
-      "caso_clinico": "Niño en VMI. El monitoreo de la curva de flujo-volumen muestra una curva incompleta, que no retorna a la línea de base.",
-      "pregunta": "¿Qué fenómeno ventilatorio indica este hallazgo gráfico?",
-      "opciones": {
-        "a": "Fuga en el circuito.",
-        "b": "Aumento de la resistencia de la vía aérea.",
-        "c": "**Atrapamiento aéreo (auto-PEEP)**.",
-        "d": "Disminución de la compliance pulmonar."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 20,
-      "categoria": "Adulto - VMI",
-      "caso_clinico": "Paciente con SDRA en VMI con Vt bajo (6 mL/kg ideal). Presenta una Presión Plateau de 32 cmH2O.",
-      "pregunta": "¿Cuál es la acción prioritaria a realizar en este momento?",
-      "opciones": {
-        "a": "Aumentar el Vt para mejorar el PaCO2.",
-        "b": "Aumentar la PEEP para reclutar alvéolos.",
-        "c": "**Disminuir el Volumen Tidal (Vt)** para proteger el pulmón (mantener Pplat < 30 cmH2O).",
-        "d": "Administrar un broncodilatador de acción rápida."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 21,
-      "categoria": "Neonatal - Patología",
-      "caso_clinico": "Neonato de 30 semanas de gestación. Desarrolla un deterioro respiratorio súbito con desaturación e hipotensión, acompañado de asimetría en la entrada de aire.",
-      "pregunta": "¿Cuál es el diagnóstico más probable que requiere una intervención de emergencia en este neonato en VMI?",
-      "opciones": {
-        "a": "Ductus Arterioso Persistente con shunt significativo.",
-        "b": "Neumonía nosocomial de inicio súbito.",
-        "c": "**Neumotórax a tensión**.",
-        "d": "Obstrucción del tubo endotraqueal."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 22,
-      "categoria": "Legislación - Lista de Espera",
-      "caso_clinico": "Un paciente con Fibrosis Quística severa es incluido en la lista de espera para un trasplante bipulmonar.",
-      "pregunta": "¿Cuál es el criterio principal que rige la asignación de un órgano (pulmón) según el sistema nacional de trasplante?",
-      "opciones": {
-        "a": "El tiempo que el paciente lleva en la lista de espera.",
-        "b": "La edad del paciente y la proximidad geográfica.",
-        "c": "La **gravedad clínica (urgencia/emergencia)** y la compatibilidad biológica/tamaño.",
-        "d": "El estado socioeconómico del paciente."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 23,
-      "categoria": "Pediátrico - Cálculo de Medicación",
-      "caso_clinico": "Niño de 20 kg con estatus epiléptico. Se requiere un bolo IV de **Fenitoína** a 20 mg/kg. La ampolla es de 250 mg/5 mL.",
-      "pregunta": "¿Cuántos mg de Fenitoína se deben administrar y cuál es el volumen IV a infundir?",
-      "opciones": {
-        "a": "200 mg 4 mL",
-        "b": "300 mg; 6 mL",
-        "c": "400 mg; 8 mL",
-        "d": "500 mg; 10 mL"
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 24,
-      "categoria": "Adulto - Ventilación No Invasiva (VNI)",
-      "caso_clinico": "Paciente adulto con EPOC descompensada y Acidosis Respiratoria leve que cumple criterios para VNI.",
-      "pregunta": "¿Cuál es el parámetro primario de la VNI que debe ajustarse para mejorar la ventilación alveolar y reducir la PaCO2?",
-      "opciones": {
-        "a": "Aumentar la PEEP (EPAP).",
-        "b": "Aumentar la FiO2 (fracción inspirada de oxígeno).",
-        "c": "Aumentar la **Presión de Soporte (PS o IPAP)**.",
-        "d": "Disminuir la Frecuencia Respiratoria de soporte."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 25,
-      "categoria": "Legislación - Consentimiento",
-      "caso_clinico": "Se solicita la donación de órganos de un menor de edad (15 años) que falleció por ME.",
-      "pregunta": "En la legislación argentina de trasplante, en el caso de menores de 18 años, la donación de órganos solo puede realizarse si:",
-      "opciones": {
-        "a": "El menor lo manifestó en vida ante un juez.",
-        "b": "Los padres o representantes legales otorgan el **consentimiento expreso** para la ablación.",
-        "c": "El menor no se opuso expresamente a la donación.",
-        "d": "La ablación está prohibida en cualquier caso."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 26,
-      "categoria": "Adulto - VMI y PEEP",
-      "caso_clinico": "Paciente adulto con edema pulmonar cardiogénico que requiere VMI. Se observa una Pplat aceptable (< 28 cmH2O) pero persiste la hipoxemia grave (PaO2/ FiO2 = 80).",
-      "pregunta": "¿Qué estrategia ventilatoria, además de aumentar FiO2, es la más indicada para mejorar la oxigenación en este caso?",
-      "opciones": {
-        "a": "Aumentar el Volumen Tidal a 10 mL/kg ideal.",
-        "b": "Aumentar la Frecuencia Respiratoria a > 35 rpm.",
-        "c": "**Aumentar la PEEP progresivamente** para reclutar alvéolos colapsados.",
-        "d": "Cambiar a modo ASV (Adaptive Support Ventilation)."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 27,
-      "categoria": "Pediátrico - VMI y CPAP",
-      "caso_clinico": "Lactante de 1 año con bronquiolitis en CPAP (Continuous Positive Airway Pressure). El CPAP está a 7 cmH2O y el paciente presenta esfuerzo respiratorio moderado.",
-      "pregunta": "¿Cuál es el principal mecanismo por el que el CPAP mejora la oxigenación y reduce el trabajo respiratorio en esta patología?",
-      "opciones": {
-        "a": "Disminuye la producción de moco bronquial.",
-        "b": "Actúa como un broncodilatador farmacológico.",
-        "c": "**Disminuye el colapso de las vías aéreas distales** y reduce el auto-PEEP intrínseco.",
-        "d": "Aumenta la perfusión pulmonar."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 28,
-      "categoria": "Neonatal - Cálculo de Medicación",
-      "caso_clinico": "Neonato de 2.5 kg que requiere una dosis de Midazolam en bolo a 0.05 mg/kg para sedación pre-procedimiento. La presentación es 5 mg/mL.",
-      "pregunta": "¿Cuál es la dosis total en mg y el volumen en mL que se debe administrar?",
-      "opciones": {
-        "a": "0.125 mg; 0.025 mL",
-        "b": "0.5 mg; 0.1 mL",
-        "c": "1.25 mg; 0.25 mL",
-        "d": "2.5 mg; 0.5 mL"
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 29,
-      "categoria": "Adulto - EAC",
-      "caso_clinico": "Paciente adulto con exacerbación aguda de EPOC con PaCO2 = 70 mmHg y pH = 7.15. Se inicia VNI.",
-      "pregunta": "¿Qué parámetro debe observarse cuidadosamente durante la VNI en la primera hora para determinar el éxito o fracaso de la terapia?",
-      "opciones": {
-        "a": "La Frecuencia Cardiaca.",
-        "b": "La Presión Arterial Media.",
-        "c": "La **mejoría del pH y la PaCO2 y la disminución de la FR**.",
-        "d": "El volumen corriente espirado (Vt)."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 30,
-      "categoria": "Legislación - Tráfico de Órganos",
-      "caso_clinico": "Se investiga un caso de posible venta de un órgano en un país vecino.",
-      "pregunta": "Según la **Ley 27.447** y normativas internacionales, ¿cuál es el principio ético y legal fundamental que rige la donación y trasplante de órganos?",
-      "opciones": {
-        "a": "La compensación económica debe ser moderada.",
-        "b": "La ablación solo se permite en centros privados.",
-        "c": "El sistema debe ser **voluntario, altruista y sin fines de lucro**.",
-        "d": "El consentimiento puede ser tácito o implícito."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 31,
-      "categoria": "Pediátrico - Asma",
-      "caso_clinico": "Niño de 7 años con crisis asmática grave. Se inicia Salbutamol nebulizado y Corticoides IV. No mejora.",
-      "pregunta": "¿Cuál es la terapia IV de segunda línea más frecuentemente utilizada para el status asmático pediátrico refractario?",
-      "opciones": {
-        "a": "Furosemida.",
-        "b": "Dobutamina.",
-        "c": "**Sulfato de Magnesio**.",
-        "d": "Epinefrina IV en infusión."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 32,
-      "categoria": "Adulto - Plauteau",
-      "caso_clinico": "En VCV, un paciente presenta Presión Pico de 40 cmH2O y Presión Plateau de 22 cmH2O.",
-      "pregunta": "¿Qué indica la gran diferencia entre Presión Pico y Presión Plateau?",
-      "opciones": {
-        "a": "Baja Compliance pulmonar.",
-        "b": "Alta PEEP intrínseca.",
-        "c": "**Alta Resistencia de la vía aérea** (broncoespasmo, TET ocluido).",
-        "d": "Fuga en el circuito del ventilador."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 33,
-      "categoria": "Neonatal - Sepsis Respiratoria",
-      "caso_clinico": "Neonato pretérmino en VMI por EMH que desarrolla un nuevo infiltrado pulmonar con deterioro gasométrico a los 7 días de vida.",
-      "pregunta": "¿Cuál es el principal patógeno responsable de Neumonía nosocomial tardía en la UCIN?",
-      "opciones": {
-        "a": "Streptococcus del grupo B (EGB).",
-        "b": "Virus Sincicial Respiratorio (VRS).",
-        "c": "Chlamydia Trachomatis.",
-        "d": "**Gram negativos** (Klebsiella, Pseudomonas) o Staphylococcus Aureus."
-      },
-      "respuesta_correcta": "d"
-    },
-    {
-      "id": 34,
-      "categoria": "Legislación - Coordinación",
-      "caso_clinico": "Se requiere la coordinación de un trasplante de pulmón entre dos provincias argentinas.",
-      "pregunta": "¿Qué entidad nacional tiene la responsabilidad primaria de coordinar la logística y la distribución federal de órganos?",
-      "opciones": {
-        "a": "El Ministerio de Defensa.",
-        "b": "La Aeronáutica Nacional.",
-        "c": "La Sociedad Argentina de Trasplantes.",
-        "d": "El INCUCAI (o los organismos jurisdiccionales coordinados por él)."
-      },
-      "respuesta_correcta": "d"
-    },
-    {
-      "id": 35,
-      "categoria": "Pediátrico - Cálculo de Dosis",
-      "caso_clinico": "Niño de 30 kg con SDRA. Se requiere bolo de Propofol a 1 mg/kg para intubación. La ampolla es de 10 mg/mL.",
-      "pregunta": "¿Qué volumen de Propofol debe administrarse?",
-      "opciones": {
-        "a": "0.3 mL",
-        "b": "3.0 mL",
-        "c": "1.0 mL",
-        "d": "10.0 mL"
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 36,
-      "categoria": "Adulto - VMI Avanzada",
-      "caso_clinico": "Paciente con SDRA grave (PaO2/FiO2 = 70). Se evalúa la posición prono como estrategia.",
-      "pregunta": "¿Cuál es el principal mecanismo fisiológico por el cual la posición prono mejora la oxigenación en SDRA?",
-      "opciones": {
-        "a": "Aumenta la compliance de la caja torácica.",
-        "b": "Disminuye la postcarga del ventrículo derecho.",
-        "c": "**Mejora la relación Ventilación Perfusión (V/Q)** al redistribuir el peso pulmonar.",
-        "d": "Reduce la resistencia de la vía aérea."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 37,
-      "categoria": "Legislación - Habilitación",
-      "caso_clinico": "Un hospital decide abrir un nuevo programa de trasplante de pulmón.",
-      "pregunta": "¿Qué requisito es indispensable para que un establecimiento de salud pueda realizar trasplantes de órganos?",
-      "opciones": {
-        "a": "Estar acreditado por una sociedad científica internacional.",
-        "b": "Ser de carácter público y no privado.",
-        "c": "Contar con la **habilitación y fiscalización** del INCUCAI o su organismo jurisdiccional.",
-        "d": "Tener al menos 20 años de experiencia en cirugía torácica."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 38,
-      "categoria": "Neonatal - Displasia Broncopulmonar",
-      "caso_clinico": "Neonato prematuro con necesidad de oxígeno y VMI por EMH que persiste con dependencia de O2 y VMI a las 36 semanas de edad post-concepcional.",
-      "pregunta": "¿Cuál es el diagnóstico más probable que se establece en este punto?",
-      "opciones": {
-        "a": "Fibrosis quística.",
-        "b": "Neumonía intersticial persistente.",
-        "c": "**Displasia Broncopulmonar DBP**.",
-        "d": "Enfermedad Pulmonar Intersticial (EPI)."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 39,
-      "categoria": "Pediátrico - VMI Modo AVP",
-      "caso_clinico": "Niño con SDRA grave en ventilación controlada. Se cambia a APRV (Airway Pressure Release Ventilation).",
-      "pregunta": "¿Cuál es la principal ventaja del modo APRV en el contexto de SDRA?",
-      "opciones": {
-        "a": "Minimiza la Presión Meseta (Pplat).",
-        "b": "Permite mantener un PEEP extremadamente bajo.",
-        "c": "**Mejora el reclutamiento alveolar** con altos niveles de Presión Media en la Vía Aérea (Pmean).",
-        "d": "Asegura un Volumen Tidal fijo (Vt)."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 40,
-      "categoria": "Adulto - Fallo de Destete",
-      "caso_clinico": "Paciente adulto con 15 días de VMI. Después de una PRE fallida, se diagnostica Fallo de Destete.",
-      "pregunta": "¿Cuál es la causa más común de Fallo de Destete en UCI?",
-      "opciones": {
-        "a": "Obstrucción del TET.",
-        "b": "**Debilidad de los músculos respiratorios** y Disfunción Cardíaca (sobrecarga).",
-        "c": "Neumonía Nosocomial Refractaria.",
-        "d": "Hipertensión Pulmonar Crónica."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 41,
-      "categoria": "Legislación - Criterios de ME",
-      "caso_clinico": "Se aplica un test de apnea para certificar la Muerte Encefálica.",
-      "pregunta": "El test de Apnea es positivo si se cumple con el PaCO2 requerido y la ausencia de movimientos respiratorios. ¿Cuál es el nivel de PaCO2 requerido en adultos para un test concluyente?",
-      "opciones": {
-        "a": "PaCO2 < 35 mmHg",
-        "b": "PaCO2 > 60 mmHg (o aumento de > 20 mmHg respecto al basal)",
-        "c": "PaCO2 entre 40 y 50 mmHg",
-        "d": "PaCO2 > 70 mmHg"
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 42,
-      "categoria": "Neonatal - CPAP nasal",
-      "caso_clinico": "Neonato con dificultad respiratoria leve-moderada que se maneja con CPAP nasal.",
-      "pregunta": "¿Cuál es la complicación más frecuente y prevenible del CPAP nasal en la UCIN?",
-      "opciones": {
-        "a": "Hipotensión Sistémica.",
-        "b": "Neumotórax por barotrauma.",
-        "c": "Hipertensión Pulmonar.",
-        "d": "**Lesión** de la **piel** y septo **nasal**."
-      },
-      "respuesta_correcta": "d"
-    },
-    {
-      "id": 43,
-      "categoria": "Pediátrico - Insuficiencia Respiratoria",
-      "caso_clinico": "Lactante con Insuficiencia Respiratoria Tipo 2 (Hipoxemia e Hipercapnia).",
-      "pregunta": "¿Cuál de las siguientes condiciones es la causa más común de Insuficiencia Respiratoria Tipo 2 en lactantes?",
-      "opciones": {
-        "a": "Cortocircuito de izquierda a derecha.",
-        "b": "Cardiopatía congénita cianótica.",
-        "c": "**Bronquiolitis** (enfermedad obstructiva de vía aérea baja).",
-        "d": "Fiebre Tifoidea."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 44,
-      "categoria": "Adulto - Fístula Broncopleural",
-      "caso_clinico": "Paciente post-neumonectomía que desarrolla una gran fuga aérea persistente a través del drenaje torácico, con colapso pulmonar ipsilateral.",
-      "pregunta": "¿Cuál es el diagnóstico más probable que requiere un manejo ventilatorio particular?",
-      "opciones": {
-        "a": "Neumonía intersticial.",
-        "b": "**Fístula Broncopleural (FBP)**.",
-        "c": "Empiema tabicado.",
-        "d": "Quilotórax."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 45,
-      "categoria": "Legislación - Prohibiciones",
-      "caso_clinico": "Un paciente con trasplante pulmonar desarrolla rechazo crónico y requiere re-trasplante.",
-      "pregunta": "Según la Ley, ¿quién tiene **prohibido** integrar el equipo de profesionales que dictamina la Muerte Encefálica?",
-      "opciones": {
-        "a": "El médico neurólogo tratante.",
-        "b": "El médico de terapia intensiva tratante.",
-        "c": "El médico jefe del hospital.",
-        "d": "**Cualquier** médico del equipo de ablación o trasplante."
-      },
-      "respuesta_correcta": "d"
-    },
-    {
-      "id": 46,
-      "categoria": "Neonatal Reanimación Cardiopulmonar",
-      "caso_clinico": "Neonato con apnea persistente y bradicardia (FC < 60 lpm) a pesar de ventilación a presión positiva (VPP) y masaje cardíaco.",
-      "pregunta": "¿Cuál es el siguiente paso en la reanimación neonatal según las guías AHA/AAP?",
-      "opciones": {
-        "a": "Aumentar la FiO2 a 1.0.",
-        "b": "Intubar y administrar Surfactante Exógeno.",
-        "c": "**Administrar Epinefrina IV o endotraqueal**.",
-        "d": "Administrar Naloxona."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 47,
-      "categoria": "Pediátrico - Cálculo de Dosis",
-      "caso_clinico": "Niño de 12 kg con SDRA. Se inicia infusión de Fentanilo a 2 mcg/kg/hora. Se prepara una dilución de 100 mcg/mL.",
-      "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programarse la bomba?",
-      "opciones": {
-        "a": "0.24 mL/hora",
-        "b": "2.4 mL/hora",
-        "c": "1.2 mL/hora",
-        "d": "0.12 mL/hora"
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 48,
-      "categoria": "Adulto - Ventilación Protéctora",
-      "caso_clinico": "Paciente con SDRA en VMI. La Presión Impulsora (Driving Pressure) es de 18 cmH2O. (Pplat = 25, PEEP = 7).",
-      "pregunta": "¿Qué indica el valor de la Driving Pressure de 18 cmH2O en relación con la protección pulmonar?",
-      "opciones": {
-        "a": "Es excelente y debe mantenerse.",
-        "b": "Se encuentra en el límite superior de seguridad (< 15 cmH2O es ideal).",
-        "c": "Indica una baja complianza y requiere aumentar el Vt.",
-        "d": "Es inaceptable e indica que la PEEP debe disminuirse para reducir la Driving Pressure."
-      },
-      "respuesta_correcta": "b"
-    }
-  ]
-}
-{
-  "titulo_consolidado": "Examen de Neumonología en Cuidados Críticos y Legislación (Consolidado)",
-  "nota": "Preguntas ordenadas por ID original, renumeradas a partir del 48 y limpiadas de los términos 'text', '$' y 'mu'.",
-  "preguntas_ordenadas": [
-   
-    {
-      "id": 49,
-      "categoria": "Neonatal - Cálculo de Medicación",
-      "caso_clinico": "Neonato de 1.5 kg con síndrome de dificultad respiratoria grave. Se indica una dosis de Surfactante Pulmonar a 100 mg/kg. La presentación del Surfactante es de 80 mg/mL.",
-      "pregunta": "¿Qué volumen (mL) de Surfactante debe administrar al recién nacido?",
-      "opciones": {
-        "a": "Opcion a: 1.875 mL",
-        "b": "Opcion b: 1.5 mL",
-        "c": "Opcion c: 0.8 mL",
-        "d": "Opcion d: 1.25 mL"
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 50,
-      "categoria": "Pediátrico - Neumonía/Sepsis",
-      "caso_clinico": "Lactante de 9 meses con neumonía grave, ingresado a UCI con signos de shock. A pesar de reanimación con fluidos, persiste con signos de hipoperfusión.",
-      "pregunta": "¿Cuál es el vasopresor de primera línea recomendado en el manejo inicial del shock pediátrico frío (con resistencias periféricas altas)?",
-      "opciones": {
-        "a": "Opcion a: Vasopresina",
-        "b": "Opcion b: Norepinefrina",
-        "c": "Opcion c: Dopamina",
-        "d": "Opcion d: Epinefrina"
-      },
-      "respuesta_correcta": "d"
-    },
-    {
-      "id": 51,
-      "categoria": "Adulto - SDRA y Curva Presión-Volumen",
-      "caso_clinico": "Paciente con SDRA y curva de P-V (Presión-Volumen) con punto de inflexión inferior (LIP) a 10 cmH2O.",
-      "pregunta": "¿Cuál es la PEEP mínima que debe utilizarse según este hallazgo para evitar el colapso alveolar (atelectrauma)?",
-      "opciones": {
-        "a": "Opcion a: PEEP de 5 cmH2O (estrategia conservadora).",
-        "b": "Opcion b: PEEP de 8 cmH2O (inferior al LIP).",
-        "c": "Opcion c: PEEP de 12 cmH2O (LIP más 2 cmH2O).",
-        "d": "Opcion d: PEEP de 18 cmH2O (superior al PTP o UIP)."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 52,
-      "categoria": "Legislación - Mantenimiento del Donante",
-      "caso_clinico": "Un donante potencial con Muerte Encefálica presenta hipotensión arterial severa. Se requiere mantener la perfusión de los órganos hasta la ablación.",
-      "pregunta": "¿Cuál es el objetivo de Presión Arterial Media (PAM) típicamente recomendado para el mantenimiento del donante multiorgánico?",
-      "opciones": {
-        "a": "Opcion a: PAM > 95 mmHg",
-        "b": "Opcion b: PAM entre 65 y 85 mmHg",
-        "c": "Opcion c: PAM entre 40 y 60 mmHg",
-        "d": "Opcion d: PAM por encima de 100 mmHg"
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 53,
-      "categoria": "Adulto - EPOC y Ventilación No Invasiva (VNI)",
-      "caso_clinico": "Paciente con exacerbación grave de EPOC con acidosis respiratoria (pH: 7.20, pCO2: 85 mmHg). Está consciente y coopera.",
-      "pregunta": "¿Cuál es la indicación de primera línea y objetivo terapéutico de la VNI en este caso?",
-      "opciones": {
-        "a": "Opcion a: Evitar la intubación y corregir la hipoxemia exclusivamente.",
-        "b": "Opcion b: Evitar la intubación y mejorar la ventilación alveolar (pCO2).",
-        "c": "Opcion c: Proporcionar reposo a los músculos respiratorios y aumentar el FiO2 al 100%.",
-        "d": "Opcion d: Corregir la acidosis metabólica asociada al esfuerzo."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 54,
-      "categoria": "Pediátrico - VNI",
-      "caso_clinico": "Lactante con bronquiolitis grave en VNI (CPAP nasal). Presenta distensión abdominal progresiva.",
-      "pregunta": "¿Cuál es la causa más probable de esta distensión y qué medida debe tomarse inmediatamente?",
-      "opciones": {
-        "a": "Opcion a: Enterocolitis necrosante; suspender VNI.",
-        "b": "Opcion b: Retención gástrica; aumentar el nivel de CPAP.",
-        "c": "Opcion c: Aerofagia por CPAP; colocar sonda orogástrica.",
-        "d": "Opcion d: Íleo paralítico; iniciar proquinéticos."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 55,
-      "categoria": "Neonatal - Patología Respiratoria",
-      "caso_clinico": "Neonato pretérmino con SDR (Síndrome de Dificultad Respiratoria) que requiere VPP (Ventilación con Presión Positiva). Los requerimientos de FiO2 aumentan a 0.8 a pesar de CPAP adecuado.",
-      "pregunta": "¿Cuál es el siguiente paso terapéutico en la secuencia de tratamiento para el SDR neonatal?",
-      "opciones": {
-        "a": "Opcion a: Intentar VNI con BiPAP nasal.",
-        "b": "Opcion b: Administrar óxido nítrico inhalado.",
-        "c": "Opcion c: Intubación y administración de surfactante exógeno.",
-        "d": "Opcion d: Iniciar ECMO veno-venoso."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 56,
-      "categoria": "Adulto - Cálculo de Medicación",
-      "caso_clinico": "Paciente en SDRA requiere bloqueo neuromuscular con Rocuronio en infusión continua a 10 g/kg/min. Peso: 70 kg. Dilución: 100 mg en 100 mL.",
-      "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba de infusión?",
-      "opciones": {
-        "a": "Opcion a: 4.2 mL/hora",
-        "b": "Opcion b: 12.5 mL/hora",
-        "c": "Opcion c: 6.0 mL/hora",
-        "d": "Opcion d: 8.4 mL/hora"
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 57,
-      "categoria": "Legislación - Criterios de Muerte",
-      "caso_clinico": "Se discute la certificación de muerte en un paciente con daño cerebral catastrófico. No hay signos de función del tronco encefálico (apnea, reflejos abolidos).",
-      "pregunta": "Según la legislación de trasplante, ¿cuál es el criterio fundamental y obligatorio para la certificación de Muerte Encefálica (Muerte bajo criterios neurológicos)?",
-      "opciones": {
-        "a": "Opcion a: Ausencia de actividad eléctrica cerebral en EEG.",
-        "b": "Opcion b: Ausencia de flujo sanguíneo cerebral demostrado por Doppler Transcraneal.",
-        "c": "Opcion c: Coma irreversible y ausencia de reflejos del tronco encefálico y test de apnea positivo.",
-        "d": "Opcion d: PaCO2 menor de 60 mmHg durante el test de apnea."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 58,
-      "categoria": "Pediátrico - SDRA/Ventilación",
-      "caso_clinico": "Niño de 8 años con SDRA secundario a un ahogamiento. Está en VCV (Ventilación por Control de Volumen). La Pplateau (Presión Meseta) es de 32 cmH2O.",
-      "pregunta": "¿Qué parámetro ventilatorio debe modificarse inmediatamente para adherirse a la ventilación protectora?",
-      "opciones": {
-        "a": "Opcion a: Aumentar la Frecuencia Respiratoria para mejorar la PaO2.",
-        "b": "Opcion b: Disminuir el VT (Volumen Tidal) hasta lograr Pplateau < 30 cmH2O.",
-        "c": "Opcion c: Aumentar la PEEP para 'reclutar' alvéolos.",
-        "d": "Opcion d: Cambiar a modo PCV (Presión Control) sin modificar el VT."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 59,
-      "categoria": "Adulto - SDRA Severo",
-      "caso_clinico": "Paciente con SDRA severo (PaO2/FiO2 < 100) a pesar de VPP optimizada. No presenta contraindicaciones hemodinámicas o intracraneales.",
-      "pregunta": "¿Cuál es la siguiente estrategia de rescate recomendada para mejorar la oxigenación?",
-      "opciones": {
-        "a": "Opcion a: VNI con parámetros muy altos.",
-        "b": "Opcion b: Iniciar la posición de prono terapéutico.",
-        "c": "Opcion c: Administrar glucocorticoides en dosis altas.",
-        "d": "Opcion d: Aumentar la PEEP a más de 25 cmH2O."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 60,
-      "categoria": "Neonatal - Neumopatía",
-      "caso_clinico": "Neonato a término con SDR tras aspiración de meconio. Presenta HTPPN (Hipertensión Pulmonar Persistente Neonatal).",
-      "pregunta": "¿Cuál es el tratamiento específico para la HTPPN que actúa como un vasodilatador pulmonar selectivo?",
-      "opciones": {
-        "a": "Opcion a: Surfactante exógeno.",
-        "b": "Opcion b: Óxido nítrico inhalado (iNO).",
-        "c": "Opcion c: Dexametasona intravenosa.",
-        "d": "Opcion d: VAFO (Ventilación de Alta Frecuencia Oscilatoria)."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 61,
-      "categoria": "Adulto - Cálculo de Medicación",
-      "caso_clinico": "Paciente de 60 kg requiere infusión de Sedación con Fentanilo a 2 g/kg/h. La presentación es de 500 g/10 mL. Se diluye el contenido de 10 mL en 90 mL de SF para un volumen final de 100 mL.",
-      "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
-      "opciones": {
-        "a": "Opcion a: 24.0 mL/hora",
-        "b": "Opcion b: 4.8 mL/hora",
-        "c": "Opcion c: 2.4 mL/hora",
-        "d": "Opcion d: 12.0 mL/hora"
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 62,
-      "categoria": "Legislación - Donación Cruzada",
-      "caso_clinico": "Dos parejas A y B tienen un donante vivo no compatible en cada caso. Deciden realizar una donación cruzada de riñón.",
-      "pregunta": "¿Qué condición legal o ética es esencial en un programa de donación renal cruzada?",
-      "opciones": {
-        "a": "Opcion a: Que los donantes sean familiares de primer grado.",
-        "b": "Opcion b: Que el donante reciba una compensación económica.",
-        "c": "Opcion c: Que el intercambio se realice de forma anónima y coordinada.",
-        "d": "Opcion d: Que ambos receptores tengan el mismo grupo sanguíneo."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 63,
-      "categoria": "Adulto - Destete/Weaning",
-      "caso_clinico": "Paciente con traqueostomía por VPP prolongada. Se inicia prueba de T de pieza. Tras 30 minutos, desarrolla taquicardia, taquipnea y uso de musculatura accesoria.",
-      "pregunta": "¿Cuál es la acción más apropiada a seguir?",
-      "opciones": {
-        "a": "Opcion a: Esperar 30 minutos más, ya que es esperable al inicio.",
-        "b": "Opcion b: Reconectar inmediatamente al ventilador con los parámetros iniciales.",
-        "c": "Opcion c: Iniciar una infusión de broncodilatadores.",
-        "d": "Opcion d: Mantener la T de pieza, pero con asistencia de presión (PSV baja)."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 64,
-      "categoria": "Pediátrico - VAFO",
-      "caso_clinico": "Niño en VAFO (Ventilación de Alta Frecuencia Oscilatoria) para SDRA severo. El pCO2 se mantiene alto (pCO2 > 60 mmHg).",
-      "pregunta": "¿Cuál es la principal forma de disminuir el pCO2 (mejorar el ClO2) en VAFO?",
-      "opciones": {
-        "a": "Opcion a: Aumentar la MAP (Presión Media en la Vía Aérea).",
-        "b": "Opcion b: Disminuir la FiO2.",
-        "c": "Opcion c: Aumentar la amplitud (Delta P) o disminuir la Frecuencia (Hz).",
-        "d": "Opcion d: Cambiar el Ti al 50%. "
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 65,
-      "categoria": "Neonatal - Cálculo de Medicación",
-      "caso_clinico": "Neonato de 2.5 kg requiere infusión de Morfina a 10 g/kg/hora. La concentración de la dilución preparada es de 1 mg/10 mL.",
-      "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba de infusión?",
-      "opciones": {
-        "a": "Opcion a: 0.25 mL/hora",
-        "b": "Opcion b: 0.5 mL/hora",
-        "c": "Opcion c: 2.5 mL/hora",
-        "d": "Opcion d: 1.0 mL/hora"
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 66,
-      "categoria": "Adulto - Neumonía/Complicaciones",
-      "caso_clinico": "Paciente con neumonía por Klebsiella con evidencia de absceso pulmonar. Desarrolla esputo fétido con grandes volúmenes de secreciones.",
-      "pregunta": "¿Cuál es el principal riesgo al movilizar o intubar a este paciente con un absceso pulmonar?",
-      "opciones": {
-        "a": "Opcion a: Hemoptisis masiva.",
-        "b": "Opcion b: Obstrucción completa de la vía aérea.",
-        "c": "Opcion c: Contaminación del pulmón sano y neumonía bilateral por aspiración.",
-        "d": "Opcion d: Desarrollo de HTP (Hipertensión Pulmonar)."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 67,
-      "categoria": "Legislación - Cuidado del Donante",
-      "caso_clinico": "El equipo de trasplante detecta que el posible donante presenta un grave desequilibrio electrolítico (Na = 175 mEq/L) secundario a Diabetes Insípida Central.",
-      "pregunta": "¿Cuál es la hormona de reemplazo vital para corregir la Diabetes Insípida y prevenir el daño orgánico en el donante?",
-      "opciones": {
-        "a": "Opcion a: Insulina",
-        "b": "Opcion b: Hormona de crecimiento",
-        "c": "Opcion c: Desmopresina (análogo de ADH)",
-        "d": "Opcion d: Tiroxina"
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 68,
-      "categoria": "Pediátrico - Patología Pulmonar",
-      "caso_clinico": "Lactante con Neumonía por Staphylococcus aureus con un derrame pleural rápidamente progresivo, que se diagnostica como empiema.",
-      "pregunta": "¿Cuál es la intervención de primera línea para el manejo del empiema pediátrico que no responde a antibióticos?",
-      "opciones": {
-        "a": "Opcion a: Toracocentesis evacuadora simple y observación.",
-        "b": "Opcion b: Drenaje pleural con tubo de tórax y fibrinolíticos intrapleurales.",
-        "c": "Opcion c: VAFO para mejorar la oxigenación.",
-        "d": "Opcion d: Tratamiento exclusivo con antibióticos intravenosos prolongados."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 69,
-      "categoria": "Adulto - VPP Monitorización",
-      "caso_clinico": "Paciente en VCV con PEEP = 10 cmH2O. La Ppeak (Presión Pico) es 35 cmH2O y la P plateau es 20 cmH2O.",
-      "pregunta": "¿Cuál es el valor de la Resistencia de la Vía Aérea (Raw) y qué indica principalmente esta diferencia?",
-      "opciones": {
-        "a": "Opcion a: Raw = 15 cmH2O; Obstrucción de vía aérea proximal (ej. broncoespasmo).",
-        "b": "Opcion b: Raw = 25 cmH2O; Baja compliance pulmonar.",
-        "c": "Opcion c: Raw = 15 cmH2O; Distensibilidad disminuida.",
-        "d": "Opcion d: Raw = 5 cmH2O; Edema pulmonar."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 70,
-      "categoria": "Neonatal - Patología Congénita",
-      "caso_clinico": "Neonato con Hernia Diafragmática Congénita que presenta grave HTPPN e hipoplasia pulmonar. Se decide tratamiento con VAFO y iNO.",
-      "pregunta": "¿Cuál es el parámetro más importante a vigilar y evitar en la VPP de la HDC (Hernia Diafragmática Congénita)?",
-      "opciones": {
-        "a": "Opcion a: PaO2 mayor de 150 mmHg.",
-        "b": "Opcion b: PaCO2 menor de 30 mmHg.",
-        "c": "Opcion c: Ppeak alta (> 25 cmH2O) y barotrauma.",
-        "d": "Opcion d: PEEP de 5 cmH2O."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 71,
-      "categoria": "Pediátrico - Cálculo de Medicación",
-      "caso_clinico": "Niño de 20 kg con status convulsivo. Se requiere infusión de Midazolam a 10 g/kg/min. La ampolla es de 50 mg/10 mL. Se diluye en 90 mL de SF para un total de 100 mL.",
-      "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
-      "opciones": {
-        "a": "Opcion a: 2.4 mL/hora",
-        "b": "Opcion b: 4.8 mL/hora",
-        "c": "Opcion c: 12.0 mL/hora",
-        "d": "Opcion d: 1.2 mL/hora"
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 72,
-      "categoria": "Legislación - Consentimiento y ME",
-      "caso_clinico": "Un paciente con ME (Muerte Encefálica) tiene una credencial de donante, pero la familia se opone al proceso. La ley actual en su país establece la figura de 'Donante Presunto' a menos que haya una negación expresa en el registro.",
-      "pregunta": "En un sistema de 'Donante Presunto', si no hay negación expresa registrada, ¿cuál es el proceder legal respecto al consentimiento de la familia para la ablación?",
-      "opciones": {
-        "a": "Opcion a: La ley autoriza la ablación sin importar la objeción familiar.",
-        "b": "Opcion b: Se respeta la oposición familiar, suspendiendo la ablación.",
-        "c": "Opcion c: La decisión se delega a un juez de turno.",
-        "d": "Opcion d: Solo se donan órganos 'pares' como riñones, no el corazón."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 73,
-      "categoria": "Adulto - Ventilación Protéctora",
-      "caso_clinico": "Paciente con SDRA en VMI. La Presión Impulsora (Driving Pressure) es de 18 cmH2O. (Pplat = 25, PEEP = 7). ",
-      "pregunta": "¿Qué indica el valor de la Driving Pressure de 18 cmH2O en relación con la protección pulmonar?",
-      "opciones": {
-        "a": "Opcion a: Es excelente y debe mantenerse.",
-        "b": "Opcion b: Se encuentra en el límite superior de seguridad(< 15 cmH2O es ideal).",
-        "c": "Opcion c: Indica una baja complianza y requiere aumentar el Vt.",
-        "d": "Opcion d: Implica barotrauma seguro."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 74,
-      "categoria": "Legislación - Prioridad",
-      "caso_clinico": "Dos pacientes en lista de espera, uno en emergencia nacional (status prioritario) y otro en lista de espera estándar, son compatibles con un pulmón de donante. ",
-      "pregunta": "¿Qué criterio tiene **mayor** prioridad para la asignación del órgano?",
-      "opciones": {
-        "a": "Opcion a: El paciente en lista estándar con más tiempo de espera.",
-        "b": "Opcion b: El paciente con **emergencia nacional** o prioridad **máxima** por riesgo inminente de **muerte**.",
-        "c": "Opcion c: El paciente más joven.",
-        "d": "Opcion d: El paciente más cercano al hospital donante."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 75,
-      "categoria": "Pediátrico - Traqueostomía",
-      "caso_clinico": "Niño de 3 años con dependencia de VMI de largo plazo. Se decide realizar una traqueostomía electiva. ",
-      "pregunta": "¿Cuál es la principal complicación tardía de la traqueostomía en pacientes pediátricos?",
-      "opciones": {
-        "a": "Opcion a: Neumotórax recurrente.",
-        "b": "Opcion b: Dificultades en el lenguaje y el desarrollo.",
-        "c": "Opcion c: **Estenosis traqueal** subglótica o granuloma de cuerda vocal.",
-        "d": "Opcion d: Sangrado masivo."
-      },
-      "respuesta_correcta": "c"
-    }
-     {
-      "id": 76,
-      "categoria": "Adulto - Patología Pleural",
-      "caso_clinico": "Paciente adulto de 65 años, tabaquista pesado, con disnea súbita. La radiografía muestra un neumotórax que ocupa más del 50% del hemitórax, con desviación mediastinal. El paciente está hipotenso y taquicárdico.",
-      "pregunta": "¿Cuál es la intervención de emergencia prioritaria antes de la colocación de un tubo de tórax?",
-      "opciones": {
-        "a": "Opcion a: Iniciar ventilación no invasiva para mejorar la PaO2.",
-        "b": "Opcion b: Realizar una toracostomía con aguja (descompresión con aguja).",
-        "c": "Opcion c: Administrar un bolo de cristaloides para revertir la hipotensión.",
-        "d": "Opcion d: Sedación e intubación inmediata del paciente."
-      },
-      "respuesta_correcta": "b"
-    },
-  ]
-}
-{
-  "titulo_consolidado": "Examen de Neumonología y Trasplante (Preguntas 77-86)",
-  "nota": "Preguntas de Neumonología Crítica, Farmacología y Legislación Argentina (Ley 27.447), numeradas a partir del 77, sin los términos 'text', '$', 'mu' ni caracteres de escape LaTeX.",
-  "preguntas": [
-    {
-      "id": 77,
-      "categoria": "Legislación - Donación Argentina",
-      "caso_clinico": "Se evalúa la posibilidad de donación de órganos en un paciente con Muerte Encefálica que nunca expresó su voluntad formalmente en vida.",
-      "pregunta": "¿Cuál es la condición legal de una persona respecto a la donación de órganos post-mortem, según la **Ley Nacional 27.447** (Ley Justina) en Argentina, ante la **ausencia de una manifestación expresa** en vida?",
-      "opciones": {
-        "a": "Opcion a: Se presume que su voluntad es donar, salvo que haya dejado constancia expresa de su negativa.",
-        "b": "Opcion b: Se requiere el consentimiento familiar expreso para que la donación sea posible.",
-        "c": "Opcion c: Se considera que no es donante por defecto, priorizando la cautela.",
-        "d": "Opcion d: La decisión final queda delegada al equipo de salud tratante."
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 78,
-      "categoria": "Adulto - Ventilación Protectora",
-      "caso_clinico": "Paciente adulto con SDRA. Presión Meseta (**Pplateau**) 28 cmH2O y **PEEP** 14 cmH2O.",
-      "pregunta": "¿Cuál es el valor de la Presión Impulsora (**Driving Pressure**) y qué indica?",
-      "opciones": {
-        "a": "Opcion a: 42 cmH2O, sugiriendo una complianza pulmonar excelente.",
-        "b": "Opcion b: 14 cmH2O, indicando un riesgo bajo a intermedio de lesión pulmonar inducida por el ventilador.",
-        "c": "Opcion c: 14 cmH2O, lo que obliga a reducir inmediatamente la PEEP.",
-        "d": "Opcion d: 28 cmH2O, lo que requiere una reducción del Volumen Tidal."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 79,
-      "categoria": "Neonatal - Cálculo de Medicación",
-      "caso_clinico": "Neonato pretérmino de 1.25 kg. Se indica Surfactante Pulmonar a 100 mg/kg. Presentación: 80 mg/mL.",
-      "pregunta": "¿Cuál es el volumen total (mL) que debe administrar al recién nacido?",
-      "opciones": {
-        "a": "Opcion a: 1.56 mL",
-        "b": "Opcion b: 1.25 mL",
-        "c": "Opcion c: 0.8 mL",
-        "d": "Opcion d: 1.0 mL"
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 80,
-      "categoria": "Pediátrico - Shock Séptico",
-      "caso_clinico": "Lactante de 6 meses con shock séptico 'frío' refractario a la reanimación con fluidos y el uso de Epinefrina.",
-      "pregunta": "¿Cuál es la siguiente opción de vasopresor de segunda línea más indicada?",
-      "opciones": {
-        "a": "Opcion a: Fenilefrina",
-        "b": "Opcion b: Norepinefrina",
-        "c": "Opcion c: Dopamina en dosis alta (> 10 microgramos/kg/min)",
-        "d": "Opcion d: Vasopresina"
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 81,
-      "categoria": "Adulto - Cálculo de Medicación",
-      "caso_clinico": "Paciente de 80 kg requiere infusión de Midazolam a 5 microgramos/kg/min. Dilución: 100 mg en 100 mL.",
-      "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
-      "opciones": {
-        "a": "Opcion a: 12.0 mL/hora",
-        "b": "Opcion b: 48.0 mL/hora",
-        "c": "Opcion c: 24.0 mL/hora",
-        "d": "Opcion d: 10.0 mL/hora"
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 82,
-      "categoria": "Legislación - Donante Vivo",
-      "caso_clinico": "Se evalúa la posibilidad de ablación de órganos de un donante vivo relacionado para un trasplante renal.",
-      "pregunta": "De acuerdo con la normativa argentina, ¿qué documento o proceso es **obligatorio y fundamental** para que se pueda realizar la ablación de órganos a un donante vivo relacionado?",
-      "opciones": {
-        "a": "Opcion a: Un certificado médico refrendado por el Director del Hospital.",
-        "b": "Opcion b: El asentimiento por escrito del cónyuge o conviviente únicamente.",
-        "c": "Opcion c: La declaración jurada de parentesco y el **asentimiento ante el juez** con competencia civil.",
-        "d": "Opcion d: La certificación del INCUCAI de que el receptor está en Emergencia Nacional."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 83,
-      "categoria": "Pediátrico - Ventilación (Asma)",
-      "caso_clinico": "Niño de 10 años intubado por estatus asmático grave con auto-PEEP elevado (atrapamiento aéreo) y riesgo de barotrauma.",
-      "pregunta": "¿Cuál es el cambio en la programación del ventilador **más efectivo** para reducir el auto-PEEP?",
-      "opciones": {
-        "a": "Opcion a: Aumentar la PEEP extrínseca programada.",
-        "b": "Opcion b: Aumentar el Volumen Tidal (VT).",
-        "c": "Opcion c: Aumentar el tiempo espiratorio (reducir la relación I:E).",
-        "d": "Opcion d: Incrementar la Frecuencia Respiratoria."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 84,
-      "categoria": "Neonatal - HTPPN",
-      "caso_clinico": "Neonato con Hipertensión Pulmonar Persistente Neonatal (**HTPPN**) que requiere iNO.",
-      "pregunta": "¿Cuál es el **principal mecanismo de acción terapéutico** del Óxido Nítrico Inhalado (iNO) en el tratamiento de la HTPPN?",
-      "opciones": {
-        "a": "Opcion a: Inhibición de la cascada de coagulación pulmonar.",
-        "b": "Opcion b: Vasodilatación pulmonar selectiva **sin afectar** la tensión arterial sistémica.",
-        "c": "Opcion c: Aumento de la resistencia vascular pulmonar.",
-        "d": "Opcion d: Cierre del ductus arterioso persistente."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 85,
-      "categoria": "Adulto - Destete/Weaning",
-      "caso_clinico": "Paciente en ventilación mecánica próximo a iniciar una prueba de respiración espontánea.",
-      "pregunta": "¿Cuál de los siguientes parámetros es el **más predictivo de éxito** en una prueba de respiración espontánea (T-pieza o PSV baja) para el destete?",
-      "opciones": {
-        "a": "Opcion a: Capacidad vital mayor a 15 mL/kg.",
-        "b": "Opcion b: Índice de Respiración Rápida y Superficial (**IRRS** o RSBI) **menor a 105**.",
-        "c": "Opcion c: Presión inspiratoria negativa (Pi_máx) menor de -20 cmH2O (más positiva).",
-        "d": "Opcion d: Frecuencia respiratoria menor a 30 respiraciones por minuto."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 86,
-      "categoria": "Legislación - Mantenimiento del Donante",
-      "caso_clinico": "Paciente con Muerte Encefálica que es potencial donante. Se requiere optimizar el manejo para preservar los órganos.",
-      "pregunta": "¿Cuál es el rango objetivo de **temperatura corporal** (T°C) recomendado para mantener la estabilidad fisiológica y minimizar el daño orgánico en el donante?",
-      "opciones": {
-        "a": "Opcion a: Hipotermia leve (32.0 °C a 34.0 °C) para proteger el cerebro.",
-        "b": "Opcion b: Normotermia (36.0 °C a 37.5 °C).",
-        "c": "Opcion c: Hipertermia leve (38.0 °C a 39.0 °C) para aumentar el gasto cardíaco.",
-        "d": "Opcion d: No hay una meta específica de temperatura, solo se evita la fiebre."
-      },
-      "respuesta_correcta": "b"
-    }
-  ]
-}
-{
-  "titulo_consolidado": "Examen de Neumonología y Trasplante (Preguntas 87-100)",
-  "nota": "Continuación de las preguntas de Neumonología Crítica, Farmacología y Legislación Argentina. Numeración del 87 al 100, **limpio de los términos 'text', '$', 'mu'** y caracteres de escape LaTeX.",
-  "preguntas": [
-    {
-      "id": 87,
-      "categoria": "Adulto - Ventilación Mecánica",
-      "caso_clinico": "Paciente con SDRA severo en ventilación protectora. Se observa caída de la PaO2 a pesar de FiO2 alta y PEEP optimizada, sugiriendo colapso alveolar. Está hemodinámicamente estable.",
-      "pregunta": "¿Cuál es la maniobra de rescate más adecuada para reclutar alvéolos y mejorar la oxigenación en este paciente?",
-      "opciones": {
-        "a": "Opcion a: Aumentar la frecuencia respiratoria a más de 35 rpm.",
-        "b": "Opcion b: Realizar una maniobra de **reclutamiento alveolar** (aumento transitorio de la presión).",
-        "c": "Opcion c: Reducir el Volumen Tidal para disminuir la presión impulsora.",
-        "d": "Opcion d: Cambiar inmediatamente a Ventilación de Alta Frecuencia Oscilatoria (VAFO)."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 88,
-      "categoria": "Neonatal - Cálculo de Medicación",
-      "caso_clinico": "Neonato con cardiopatía ductus-dependiente. Se inicia infusión de Prostaglandina E1 (Alprostadil) a $0.05$ microgramos/kg/min. Peso: $3.0$ kg. Dilución: $500$ microgramos en $50$ mL.",
-      "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba de infusión?",
-      "opciones": {
-        "a": "Opcion a: 0.9 mL/hora",
-        "b": "Opcion b: 1.8 mL/hora",
-        "c": "Opcion c: 0.3 mL/hora",
-        "d": "Opcion d: 3.6 mL/hora"
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 89,
-      "categoria": "Legislación - Criterios de Muerte Encefálica",
-      "caso_clinico": "Se evalúa la Muerte Encefálica (ME). Se requiere la confirmación de la irreversibilidad del daño en el tronco encefálico.",
-      "pregunta": "Según la normativa argentina, ¿cuál es la prueba diagnóstica que confirma la ausencia de función del centro respiratorio, obligatoria para la certificación de ME?",
-      "opciones": {
-        "a": "Opcion a: Electroencefalograma isoeléctrico.",
-        "b": "Opcion b: El **Test de Apnea** (manteniendo PaCO2 mayor de 60 mmHg).",
-        "c": "Opcion c: Angiografía cerebral que muestre ausencia de flujo.",
-        "d": "Opcion d: Potenciales evocados auditivos de tronco cerebral abolidos."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 90,
-      "categoria": "Pediátrico - Neumonía/Complicaciones",
-      "caso_clinico": "Niño de 4 años con Neumonía grave. La radiografía muestra múltiples cavidades aéreas de pared fina (neumatoceles).",
-      "pregunta": "¿Cuál es la bacteria más frecuentemente asociada a esta complicación (formación de neumatoceles) en niños?",
-      "opciones": {
-        "a": "Opcion a: Mycoplasma pneumoniae",
-        "b": "Opcion b: Streptococcus pneumoniae",
-        "c": "Opcion c: **Staphylococcus aureus** (especialmente SARM)",
-        "d": "Opcion d: Haemophilus influenzae"
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 91,
-      "categoria": "Adulto - Ventilación No Invasiva (VNI)",
-      "caso_clinico": "Paciente adulto con exacerbación de EPOC grave. Se inicia VNI para reducir el trabajo respiratorio y mejorar la hipercapnia.",
-      "pregunta": "¿Cuáles son los valores iniciales típicos y recomendados de IPAP y EPAP para iniciar la VNI en esta situación?",
-      "opciones": {
-        "a": "Opcion a: IPAP 20 cmH2O, EPAP 10 cmH2O.",
-        "b": "Opcion b: IPAP 15 cmH2O, EPAP 5 cmH2O.",
-        "c": "Opcion c: IPAP 8 cmH2O, EPAP 4 cmH2O.",
-        "d": "Opcion d: IPAP 25 cmH2O, EPAP 15 cmH2O."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 92,
-      "categoria": "Adulto - Cálculo de Medicación",
-      "caso_clinico": "Paciente de $70$ kg en shock cardiogénico. Requiere infusión de Dobutamina a $10$ microgramos/kg/min. Se diluyen $250$ mg de Dobutamina en $250$ mL de SF.",
-      "pregunta": "¿A qué velocidad de infusión (mL/hora) debe programar la bomba?",
-      "opciones": {
-        "a": "Opcion a: 4.2 mL/hora",
-        "b": "Opcion b: 16.8 mL/hora",
-        "c": "Opcion c: 25.2 mL/hora",
-        "d": "Opcion d: 7.0 mL/hora"
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 93,
-      "categoria": "Neonatal - Neumopatía Crónica",
-      "caso_clinico": "Neonato pretérmino que requirió VPP prolongada y O2 suplementario. A las 28 días, persiste con dependencia de O2.",
-      "pregunta": "¿Cuál es el proceso fisiopatológico central en la Displasia Broncopulmonar (DBP) en el recién nacido prematuro, según la 'nueva' DBP?",
-      "opciones": {
-        "a": "Opcion a: Hipertrofia de músculo liso bronquial.",
-        "b": "Opcion b: Fibrosis pulmonar intersticial masiva.",
-        "c": "Opcion c: **Detención del desarrollo alveolar y microvascular**.",
-        "d": "Opcion d: Obstrucción completa de la vía aérea mayor."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 94,
-      "categoria": "Legislación - Coordinación de Trasplante",
-      "caso_clinico": "Se dispone de un hígado de donante. Hay receptores compatibles en distintos puntos del país, con diferente estado de gravedad.",
-      "pregunta": "En Argentina, ¿qué entidad tiene la responsabilidad de coordinar, priorizar y asignar los órganos y tejidos para trasplante a nivel nacional?",
-      "opciones": {
-        "a": "Opcion a: El Ministerio de Salud de la provincia donde se encuentra el donante.",
-        "b": "Opcion b: El Comité de Bioética de cada hospital.",
-        "c": "Opcion c: El **Instituto Nacional Central Único Coordinador de Ablación e Implante (INCUCAI)**.",
-        "d": "Opcion d: La Sociedad Argentina de Trasplantes (SAT)."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 95,
-      "categoria": "Adulto - Patología Pleural",
-      "caso_clinico": "Paciente con tubo de tórax por neumotórax traumático. El pulmón se ha reexpandido y el drenaje ha cesado. Se realiza una prueba de pinzamiento o clampaje.",
-      "pregunta": "¿Cuál es la indicación principal y segura para retirar un tubo de tórax tras la resolución de un neumotórax?",
-      "opciones": {
-        "a": "Opcion a: Drenaje menor de $500$ mL/día y radiografía que muestre pulmón reexpandido.",
-        "b": "Opcion b: Ausencia de **fuga aérea** por más de $24$ horas y pulmón reexpandido en radiografía.",
-        "c": "Opcion c: Presencia de burbujeo intermitente en el sello de agua.",
-        "d": "Opcion d: El dolor del paciente al respirar disminuye significativamente."
-      },
-      "respuesta_correcta": "b"
-    },
-    {
-      "id": 96,
-      "categoria": "Pediátrico - Vía Aérea",
-      "caso_clinico": "Niño post-extubación desarrolla un estridor inspiratorio severo persistente, compatible con estenosis subglótica.",
-      "pregunta": "¿Cuál es el tratamiento inicial de elección para la estenosis post-extubación que no responde a la adrenalina nebulizada?",
-      "opciones": {
-        "a": "Opcion a: Reiniciar VNI con IPAP alta.",
-        "b": "Opcion b: Intubación traqueal inmediata con un tubo más pequeño.",
-        "c": "Opcion c: Dosis de **corticoides sistémicos** (Dexametasona o Metilprednisolona).",
-        "d": "Opcion d: Observación y soporte con O2 de alto flujo."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 97,
-      "categoria": "Pediátrico - Cálculo de Medicación",
-      "caso_clinico": "Niño de 15 kg con sobrecarga de fluidos. Se indica un bolo de Furosemida a 1 mg/kg. La presentación es de $20$ mg/2 mL.",
-      "pregunta": "¿Qué volumen (mL) de Furosemida debe administrar al paciente?",
-      "opciones": {
-        "a": "Opcion a: $1.5 mL",
-        "b": "Opcion b: $0.75 mL",
-        "c": "Opcion c: $3.0 mL",
-        "d": "Opcion d: $1.0 mL"
-      },
-      "respuesta_correcta": "a"
-    },
-    {
-      "id": 98,
-      "categoria": "Legislación - Lista de Espera",
-      "caso_clinico": "Un paciente con insuficiencia respiratoria terminal es evaluado para ingresar a la lista de espera para trasplante pulmonar.",
-      "pregunta": "¿Cuál es el criterio legal **fundamental** para la inscripción de un paciente en la lista de espera nacional de trasplantes en Argentina?",
-      "opciones": {
-        "a": "Opcion a: Tener la capacidad económica para afrontar los costos del post-trasplante.",
-        "b": "Opcion b: Ser residente argentino por más de 5 años.",
-        "c": "Opcion c: Que exista una **indicación médica** y que el paciente o tutor dé el **consentimiento informado**.",
-        "d": "Opcion d: Que el paciente sea menor de 65 años."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 99,
-      "categoria": "Adulto - Ventilación Mecánica (Monitorización)",
-      "caso_clinico": "Paciente en modo Asistido/Controlado (A/C) en VMI. Se observa esfuerzo inspiratorio del paciente, pero el ventilador no inicia el ciclo a tiempo. Se sospecha de un problema de 'Trigger'.",
-      "pregunta": "¿Cuál es el ajuste que debe modificarse para mejorar la sensibilidad del ventilador al esfuerzo del paciente?",
-      "opciones": {
-        "a": "Opcion a: Disminuir la PEEP.",
-        "b": "Opcion b: Aumentar la Presión Meseta (Pplateau).",
-        "c": "Opcion c: **Disminuir el nivel de sensibilidad del trigger** (ajustar a un valor más bajo en flujo o presión).",
-        "d": "Opcion d: Aumentar el Flujo Pico (Peak Flow)."
-      },
-      "respuesta_correcta": "c"
-    },
-    {
-      "id": 100,
-      "categoria": "Neonatal - Patología Respiratoria",
-      "caso_clinico": "Neonato a término con dificultad respiratoria leve a moderada, que inicia horas después del nacimiento. La radiografía muestra hiperinsuflación y líquido en las cisuras.",
-      "pregunta": "¿Cuál es el diagnóstico más probable y cuál es el manejo inicial de soporte recomendado?",
-      "opciones": {
-        "a": "Opcion a: Síndrome de Aspiración de Meconio (SAM); intubación y surfactante.",
-        "b": "Opcion b: **Taquipnea Transitoria del Recién Nacido (TTRN)**; soporte con O2 y/o CPAP.",
-        "c": "Opcion c: Neumonía Congénita; antibióticos intravenosos de amplio espectro.",
-        "d": "Opcion d: Hipertensión Pulmonar Persistente (HTPPN); Óxido Nítrico Inhalado."
-      },
-      "respuesta_correcta": "b"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 4 años (18 kg) estable con Taquicardia Supraventricular (TSV) a 240 lpm. Fallan las maniobras vagales. Se requiere Adenosina.",
+    "pregunta": "¿Cuál es la dosis inicial de Adenosina IV a administrar (0.1 mg/kg)?",
+    "opciones": {
+      "opcion a": "1.8 mg",
+      "opcion b": "3.6 mg",
+      "opcion c": "0.18 mg",
+      "opcion d": "0.5 mg"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 2,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 20 kg en shock séptico 'frío'. Se inicia infusión de Norepinefrina a 0.1 μg/kg/min. Concentración: 4 mg en 250 ml.",
+    "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+    "opciones": {
+      "opcion a": "7.5 ml/h",
+      "opcion b": "9.375 ml/h",
+      "opcion c": "3.75 ml/h",
+      "opcion d": "1.5 ml/h"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 3,
+    "tema": "Neumonología",
+    "caso_clínico": "Lactante (7 kg) en asistolia. Se inicia RCP avanzada.",
+    "pregunta": "¿Cuál es la dosis de Epinefrina (Adrenalina) IV/IO que debe administrarse?",
+    "opciones": {
+      "opcion a": "0.007 mg",
+      "opcion b": "0.07 mg",
+      "opcion c": "0.7 mg",
+      "opcion d": "1 mg"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 4,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño con Miocarditis y disfunción ventricular severa. Presenta bajo gasto cardíaco y RVS alta.",
+    "pregunta": "¿Qué inodilatador se prefiere para reducir la RVS y mejorar la contractilidad en este tipo de shock?",
+    "opciones": {
+      "opcion a": "Dopamina",
+      "opcion b": "Milrinona",
+      "opcion c": "Norepinefrina",
+      "opcion d": "Epinefrina"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 5,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato a término con atresia pulmonar (cardiopatía ductus-dependiente). Cae en desaturación severa.",
+    "pregunta": "¿Qué fármaco es esencial para mantener la vida hasta la corrección quirúrgica?",
+    "opciones": {
+      "opcion a": "Indometacina",
+      "opcion b": "Prostaglandina E1 (Alprostadil)",
+      "opcion c": "Sildenafil",
+      "opcion d": "Furosemida"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 6,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato de 2.8 kg en shock hipovolémico. Se requiere un bolo de Solución Salina 0.9% a 20 ml/kg.",
+    "pregunta": "¿Cuál es el volumen total de bolo a administrar?",
+    "opciones": {
+      "opcion a": "28 ml",
+      "opcion b": "56 ml",
+      "opcion c": "14 ml",
+      "opcion d": "20 ml"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 7,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato con Hipertensión Pulmonar Persistente (HPPRN).",
+    "pregunta": "¿Cuál es el agente vasodilatador pulmonar de primera línea que debe usarse?",
+    "opciones": {
+      "opcion a": "Sildenafil oral",
+      "opcion b": "Óxido Nítrico Inhalado (iNO)",
+      "opcion c": "Dopamina IV",
+      "opcion d": "Oxígeno al 40%"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 8,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 15 kg con hipoglucemia sintomática. Se requiere bolo de Dextrosa 10% (D10) a 5 ml/kg.",
+    "pregunta": "¿Cuántos gramos de glucosa se administran?",
+    "opciones": {
+      "opcion a": "7.5 gramos",
+      "opcion b": "0.75 gramos",
+      "opcion c": "15 gramos",
+      "opcion d": "1.5 gramos"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 9,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 35 kg requiere intubación. Se utiliza Midazolam IV a 0.2 mg/kg. Concentración: 5 mg/ml.",
+    "pregunta": "¿Cuántos ml de Midazolam debe administrar?",
+    "opciones": {
+      "opcion a": "1.4 ml",
+      "opcion b": "0.7 ml",
+      "opcion c": "3.5 ml",
+      "opcion d": "7.0 ml"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 10,
+    "tema": "Neumonología",
+    "pregunta": "En la reanimación neonatal, si la FC permanece < 60 lpm a pesar de VPP efectiva y compresiones torácicas coordinadas (relación 3:1), ¿cuál es el siguiente paso crucial?",
+    "opciones": {
+      "opcion a": "Intubación orotraqueal (si no se hizo) y administración de Epinefrina IV/IO.",
+      "opcion b": "Administrar un bolo de fluidos.",
+      "opcion c": "Aumentar la FiO2 al 100%.",
+      "opcion d": "Suspender compresiones y reevaluar."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 11,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es el principal objetivo en el manejo inicial del shock séptico pediátrico dentro de la primera hora?",
+    "opciones": {
+      "opcion a": "Descenso de la PA media en un 25%.",
+      "opcion b": "Obtener acceso venoso central.",
+      "opcion c": "Administración rápida de fluidos (60 ml/kg) y antibióticos de amplio espectro.",
+      "opcion d": "Iniciar ventilación de alta frecuencia."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 12,
+    "tema": "Neumonología",
+    "caso_clínico": "Lactante con Tetralogía de Fallot que presenta una crisis de hipercyanosis ('Hechizo Azul').",
+    "pregunta": "¿Cuál es la intervención terapéutica prioritaria, además de la posición rodilla-pecho y el oxígeno?",
+    "opciones": {
+      "opcion a": "Administrar Prostaglandina E1.",
+      "opcion b": "Administrar Dextrosa 10%.",
+      "opcion c": "Administrar un bolo de Fenilefrina o Morfina.",
+      "opcion d": "Administrar Furosemida."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 13,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato de 3 kg en paro. Se requiere Epinefrina IV a 0.01 mg/kg. Concentración: 0.1 mg/ml (1:10,000).",
+    "pregunta": "¿Cuántos ml de Epinefrina debe administrar?",
+    "opciones": {
+      "opcion a": "0.03 ml",
+      "opcion b": "0.3 ml",
+      "opcion c": "3.0 ml",
+      "opcion d": "0.1 ml"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 14,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la relación compresión:ventilación recomendada para un rescatador único en RCP pediátrica (niño/lactante)?",
+    "opciones": {
+      "opcion a": "3:1",
+      "opcion b": "15:2",
+      "opcion c": "30:2",
+      "opcion d": "5:1"
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 15,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato prematuro de 30 semanas con DAP hemodinámicamente significativo.",
+    "pregunta": "¿Qué clase de fármacos se utilizan para el cierre médico del DAP?",
+    "opciones": {
+      "opcion a": "Antagonistas de la Prostaglandina E1 (p. ej., Indometacina).",
+      "opcion b": "Agonistas de la Prostaglandina E1.",
+      "opcion c": "Vasopresores.",
+      "opcion d": "Inhibidores de la ECA."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 16,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 10 kg con convulsión tónico-clónica. Se requiere Lorazepam IV a 0.1 mg/kg. Concentración: 2 mg/ml.",
+    "pregunta": "¿Cuántos ml de Lorazepam debe administrar?",
+    "opciones": {
+      "opcion a": "0.5 ml",
+      "opcion b": "0.05 ml",
+      "opcion c": "1.0 ml",
+      "opcion d": "0.1 ml"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 17,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es el volumen total máximo de bolos de cristaloides recomendado para la reanimación inicial del shock hipovolémico pediátrico antes de pasar a sangre o vasopresores?",
+    "opciones": {
+      "opcion a": "20 ml/kg",
+      "opcion b": "40 ml/kg",
+      "opcion c": "60 ml/kg",
+      "opcion d": "80 ml/kg"
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 18,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato de 1.5 kg con hipotensión persistente. Se inicia infusión de Dopamina a 10 μg/kg/min. Concentración: 60 mg en 100 ml.",
+    "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+    "opciones": {
+      "opcion a": "0.9 ml/h",
+      "opcion b": "1.5 ml/h",
+      "opcion c": "3.0 ml/h",
+      "opcion d": "0.3 ml/h"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 19,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la acción principal de la Dopamina a dosis bajas/medias (5-10 μg/kg/min) en pacientes pediátricos?",
+    "opciones": {
+      "opcion a": "Vasodilatación renal y esplácnica.",
+      "opcion b": "Aumento del gasto cardíaco y vasoconstricción.",
+      "opcion c": "Vasoconstricción pulmonar.",
+      "opcion d": "Bloqueo beta."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 20,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 2 años en paro cardíaco, sin acceso venoso periférico tras dos intentos.",
+    "pregunta": "¿Cuál es la vía de acceso de fluidos y fármacos de elección para la reanimación inmediata en este escenario?",
+    "opciones": {
+      "opcion a": "Vía Central por subclavia.",
+      "opcion b": "Vía Intramedular/Intraósea (IO).",
+      "opcion c": "Vía Endotraqueal.",
+      "opcion d": "Vía Venosa Periférica (tercer intento)."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 21,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la regla práctica para la Presión Arterial Media (PAM) mínima aceptable en un recién nacido prematuro?",
+    "opciones": {
+      "opcion a": "PAM mínima de 60 mmHg.",
+      "opcion b": "PAM igual a la edad gestacional en semanas (ej. 28 mmHg para 28 sem).",
+      "opcion c": "PAM mínima de 40 mmHg.",
+      "opcion d": "PAM superior a la presión arterial sistólica."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 22,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 25 kg con taquicardia ventricular. Se requiere Amiodarona en bolo a 5 mg/kg. Concentración: 50 mg/ml.",
+    "pregunta": "¿Cuántos ml de Amiodarona debe administrar?",
+    "opciones": {
+      "opcion a": "5.0 ml",
+      "opcion b": "2.5 ml",
+      "opcion c": "1.5 ml",
+      "opcion d": "1.0 ml"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 23,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato cianótico con patrón 'Huevo en una cuerda' en la radiografía de tórax.",
+    "pregunta": "¿Cuál es el diagnóstico más probable?",
+    "opciones": {
+      "opcion a": "Tetralogía de Fallot",
+      "opcion b": "Atresia Pulmonar",
+      "opcion c": "Transposición de Grandes Arterias (TGA)",
+      "opcion d": "Truncus Arteriosus"
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 24,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 12 kg con Insuficiencia Cardíaca Congestiva (ICC). Se requiere Furosemida IV a 1 mg/kg. Concentración: 10 mg/ml.",
+    "pregunta": "¿Cuántos ml de Furosemida se administran?",
+    "opciones": {
+      "opcion a": "1.2 ml",
+      "opcion b": "0.12 ml",
+      "opcion c": "1.0 ml",
+      "opcion d": "2.4 ml"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 25,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es el principal signo de descompensación hemodinámica en el niño/lactante, antes de la caída de la Presión Arterial?",
+    "opciones": {
+      "opcion a": "Bradicardia extrema.",
+      "opcion b": "Aumento del relleno capilar y Taquicardia compensatoria.",
+      "opcion c": "Hipotensión ortostática.",
+      "opcion d": "Oliguria leve."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 26,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato de 4 kg con ductus-dependencia. Se requiere PGE1 a 0.05 μg/kg/min. Concentración: 30 μg en 50 ml.",
+    "pregunta": "¿Cuál es la velocidad de infusión en ml/hora?",
+    "opciones": {
+      "opcion a": "2.0 ml/h",
+      "opcion b": "0.2 ml/h",
+      "opcion c": "4.0 ml/h",
+      "opcion d": "0.4 ml/h"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 27,
+    "tema": "Neumonología",
+    "pregunta": "En un niño con coma por hipoglucemia, ¿cuál es el bolo inicial de Dextrosa recomendado?",
+    "opciones": {
+      "opcion a": "10 ml/kg de D5W.",
+      "opcion b": "2-4 ml/kg de D10 (Glucosa 10%).",
+      "opcion c": "1 ml/kg de Glucagón.",
+      "opcion d": "5 ml/kg de D50W."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 28,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 30 kg en ventilación mecánica. Se requiere bolo de Fentanilo a 1 μg/kg. Concentración: 50 μg/ml.",
+    "pregunta": "¿Cuántos ml de Fentanilo se administran?",
+    "opciones": {
+      "opcion a": "0.6 ml",
+      "opcion b": "0.3 ml",
+      "opcion c": "0.15 ml",
+      "opcion d": "0.9 ml"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 29,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es el signo de inestabilidad hemodinámica más sensible y temprano en el neonato con sepsis?",
+    "opciones": {
+      "opcion a": "Hipotensión marcada.",
+      "opcion b": "Disminución del gasto urinario.",
+      "opcion c": "Taquicardia persistente e inestabilidad de la temperatura.",
+      "opcion d": "Acidosis respiratoria."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 30,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato con ictericia severa y signos de encefalopatía aguda (Kernícterus).",
+    "pregunta": "¿Cuál es el tratamiento de rescate definitivo para la hiperbilirrubinemia crítica?",
+    "opciones": {
+      "opcion a": "Fototerapia intensiva sola.",
+      "opcion b": "Administración de Fenobarbital.",
+      "opcion c": "Exanguinotransfusión.",
+      "opcion d": "Hidratación con bolos de suero."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 31,
+    "tema": "Neumonología",
+    "caso_clínico": "Lactante de 5 kg en shock cardiogénico. Se inicia infusión de Epinefrina a 0.05 μg/kg/min. Concentración: 1 mg en 100 ml.",
+    "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+    "opciones": {
+      "opcion a": "0.3 ml/h",
+      "opcion b": "1.5 ml/h",
+      "opcion c": "3.0 ml/h",
+      "opcion d": "0.5 ml/h"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 32,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la energía inicial recomendada para la desfibrilación en Taquicardia Ventricular sin pulso o Fibrilación Ventricular pediátrica (monofásica o bifásica)?",
+    "opciones": {
+      "opcion a": "1 J/kg",
+      "opcion b": "2 J/kg",
+      "opcion c": "4 J/kg",
+      "opcion d": "10 J/kg"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 33,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato de 4 kg con acidosis metabólica severa y refractaria. Se requiere Bicarbonato de Sodio 4.2% a 1 mEq/kg (0.5 mEq/ml).",
+    "pregunta": "¿Cuántos ml de Bicarbonato 4.2% se administran?",
+    "opciones": {
+      "opcion a": "2.0 ml",
+      "opcion b": "4.0 ml",
+      "opcion c": "8.0 ml",
+      "opcion d": "1.0 ml"
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 34,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 2 años con estridor inspiratorio, tos 'perruna' y dificultad respiratoria leve.",
+    "pregunta": "¿Cuál es el tratamiento farmacológico de elección para el crup leve a moderado?",
+    "opciones": {
+      "opcion a": "Antibióticos y Salbutamol nebulizado.",
+      "opcion b": "Epinefrina racémica nebulizada y bolos de fluidos.",
+      "opcion c": "Dexametasona oral/IM o Budesonida nebulizada.",
+      "opcion d": "Intubación inmediata."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 35,
+    "tema": "Neumonología",
+    "pregunta": "En la encefalopatía hipóxico-isquémica (EHI) moderada a severa, ¿cuál es el tratamiento neuroprotector que se debe iniciar en las primeras 6 horas de vida?",
+    "opciones": {
+      "opcion a": "Administración de altas dosis de esteroides.",
+      "opcion b": "Hipotermia terapéutica controlada (enfriamiento).",
+      "opcion c": "Ventilación de alta frecuencia.",
+      "opcion d": "Exanguinotransfusión."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 36,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 40 kg en shock cardiogénico. Se inicia Milrinona a 0.5 μg/kg/min. Concentración: 10 mg en 100 ml.",
+    "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+    "opciones": {
+      "opcion a": "6.0 ml/h",
+      "opcion b": "12.0 ml/h",
+      "opcion c": "1.5 ml/h",
+      "opcion d": "2.5 ml/h"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 37,
+    "tema": "Neumonología",
+    "caso_clínico": "Paciente pediátrico con insuficiencia renal y cambios electrocardiográficos de hipercalemia (ondas T picudas).",
+    "pregunta": "¿Cuál es el fármaco de primera línea para estabilizar la membrana celular miocárdica?",
+    "opciones": {
+      "opcion a": "Insulina y Dextrosa.",
+      "opcion b": "Bicarbonato de Sodio.",
+      "opcion c": "Gluconato de Calcio IV.",
+      "opcion d": "Salbutamol nebulizado."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 38,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato de 2.5 kg requiere un bolo de Morfina a 0.05 mg/kg. Concentración diluida: 1 mg/ml.",
+    "pregunta": "¿Cuántos ml de la solución diluida se administran?",
+    "opciones": {
+      "opcion a": "0.125 ml",
+      "opcion b": "1.25 ml",
+      "opcion c": "0.25 ml",
+      "opcion d": "0.05 ml"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 39,
+    "tema": "Neumonología",
+    "pregunta": "En un niño con lesión pulmonar aguda (SDRA), ¿cuál es la estrategia ventilatoria preferida para evitar el barotrauma?",
+    "opciones": {
+      "opcion a": "Volúmenes corrientes altos (> 10 ml/kg).",
+      "opcion b": "Presiones pico altas.",
+      "opcion c": "Ventilación con volúmenes corrientes bajos (4-6 ml/kg) y PEEP adecuada.",
+      "opcion d": "Hiperventilación para reducir el CO2."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 40,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la causa más frecuente de Paro Cardíaco en la población pediátrica?",
+    "opciones": {
+      "opcion a": "Cardiopatía isquémica primaria.",
+      "opcion b": "Asfixia o falla respiratoria/shock progresivo.",
+      "opcion c": "Arritmias ventriculares primarias.",
+      "opcion d": "Taponamiento cardíaco."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 41,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es el antibiótico empírico de primera línea para la sepsis de inicio temprano en el neonato?",
+    "opciones": {
+      "opcion a": "Ceftriaxona y Vancomicina.",
+      "opcion b": "Ampicilina y Gentamicina (o Amikacina).",
+      "opcion c": "Meropenem y Anfotericina.",
+      "opcion d": "Clindamicina y Azitromicina."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 42,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 15 kg en shock. Se inicia Dopamina a 10 μg/kg/min. Concentración: 200 mg en 250 ml.",
+    "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+    "opciones": {
+      "opcion a": "28.125 ml/h",
+      "opcion b": "11.25 ml/h",
+      "opcion c": "15.0 ml/h",
+      "opcion d": "18.75 ml/h"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 43,
+    "tema": "Neumonología",
+    "caso_clínico": "Adolescente con trauma cerrado de tórax, hipotensión y desviación traqueal. Murmullo vesicular abolido en un hemitórax.",
+    "pregunta": "¿Cuál es el diagnóstico de emergencia más probable y el tratamiento inmediato?",
+    "opciones": {
+      "opcion a": "Hemotórax masivo; Toracotomía.",
+      "opcion b": "Contusión pulmonar; Ventilación.",
+      "opcion c": "Neumotórax a tensión; Descompresión con aguja.",
+      "opcion d": "Taponamiento cardíaco; Pericardiocentesis."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 44,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato de 3 kg con sobrecarga de volumen. Se requiere Furosemida IV a 1 mg/kg. Concentración: 10 mg/ml.",
+    "pregunta": "¿Cuántos ml de Furosemida debe administrar?",
+    "opciones": {
+      "opcion a": "0.3 ml",
+      "opcion b": "0.1 ml",
+      "opcion c": "3.0 ml",
+      "opcion d": "1.0 ml"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 45,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 10 años con dolor de cabeza, convulsiones y PA de 180/120 mmHg (emergencia hipertensiva).",
+    "pregunta": "¿Cuál es el objetivo inicial del descenso de la Presión Arterial Media (PAM) en la primera hora?",
+    "opciones": {
+      "opcion a": "Reducir la PA sistólica a 100 mmHg.",
+      "opcion b": "Descenso del 50% de la PA.",
+      "opcion c": "Descenso gradual del 25% de la PAM.",
+      "opcion d": "Mantener la PA estable."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 46,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 20 kg requiere Quetamina IV para un procedimiento a 1 mg/kg. Concentración: 50 mg/ml.",
+    "pregunta": "¿Cuántos ml de Quetamina debe administrar?",
+    "opciones": {
+      "opcion a": "0.4 ml",
+      "opcion b": "0.2 ml",
+      "opcion c": "1.0 ml",
+      "opcion d": "2.0 ml"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 47,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es el principal indicador de la efectividad de la ventilación a presión positiva (VPP) en el neonato de sala de partos?",
+    "opciones": {
+      "opcion a": "Aumento del pulso (FC > 100 lpm).",
+      "opcion b": "Aumento del color de la piel.",
+      "opcion c": "Movimiento de la pared torácica.",
+      "opcion d": "Gasto urinario adecuado."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 48,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la principal ventaja de la intubación con tubo sin balón en niños menores de 8 años?",
+    "opciones": {
+      "opcion a": "Menor riesgo de trauma traqueal y subglótico (el cricoides actúa como el sello natural).",
+      "opcion b": "Se reduce el espacio muerto.",
+      "opcion c": "Es más fácil de insertar.",
+      "opcion d": "Permite ventilación de alta frecuencia."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 49,
+    "tema": "Neumonología",
+    "pregunta": "¿Qué cardiopatía cianótica es la más común en el período neonatal y requiere PGE1?",
+    "opciones": {
+      "opcion a": "Comunicación Interventricular (CIV)",
+      "opcion b": "Transposición de Grandes Arterias (TGA)",
+      "opcion c": "Ductus Arterioso Persistente (DAP)",
+      "opcion d": "Coartación Aórtica"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 50,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato de 2 kg en shock cardiogénico. Se inicia infusión de Dobutamina a 5 μg/kg/min. Concentración: 125 mg en 100 ml.",
+    "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+    "opciones": {
+      "opcion a": "1.0 ml/h",
+      "opcion b": "0.48 ml/h",
+      "opcion c": "0.24 ml/h",
+      "opcion d": "2.0 ml/h"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 51,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño con crisis de hipertensión pulmonar severa con desaturación.",
+    "pregunta": "¿Qué agente se puede utilizar para la vasodilatación pulmonar aguda?",
+    "opciones": {
+      "opcion a": "Labetalol IV.",
+      "opcion b": "Óxido Nítrico Inhalado (iNO).",
+      "opcion c": "Amiodarona.",
+      "opcion d": "Furosemida IV."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 52,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 40 kg requiere un bolo de Propofol para sedación a 1.5 mg/kg. Concentración: 10 mg/ml.",
+    "pregunta": "¿Cuántos ml de Propofol debe administrar?",
+    "opciones": {
+      "opcion a": "3 ml",
+      "opcion b": "6 ml",
+      "opcion c": "9 ml",
+      "opcion d": "12 ml"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 53,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es el principal factor de riesgo para el desarrollo de la Enfermedad de Membrana Hialina (EMH) en el neonato?",
+    "opciones": {
+      "opcion a": "Policitemia.",
+      "opcion b": "Prematuridad (déficit de surfactante).",
+      "opcion c": "Macrosomía.",
+      "opcion d": "Infección por CMV."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 54,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 8 kg. Se requiere un bolo de Dobutamina a 2 μg/kg para test de respuesta. Concentración: 12.5 mg/ml (sin diluir).",
+    "pregunta": "¿Cuántos mg se administran?",
+    "opciones": {
+      "opcion a": "0.016 mg",
+      "opcion b": "0.16 mg",
+      "opcion c": "1.6 mg",
+      "opcion d": "0.0016 mg"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 55,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la duración máxima recomendada para el primer ciclo de VPP antes de reevaluar al recién nacido en sala de partos?",
+    "opciones": {
+      "opcion a": "10 segundos.",
+      "opcion b": "30 segundos.",
+      "opcion c": "1 minuto.",
+      "opcion d": "5 minutos."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 56,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la definición de 'shock refractario a fluidos' en pediatría?",
+    "opciones": {
+      "opcion a": "Persistencia de la hipotensión después de 10 ml/kg de bolo.",
+      "opcion b": "Persistencia de la inestabilidad hemodinámica después de 20 ml/kg de bolo.",
+      "opcion c": "Persistencia de la inestabilidad hemodinámica después de 60 ml/kg de bolo.",
+      "opcion d": "Necesidad de iniciar antibióticos."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 57,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato con pulsos femorales débiles o ausentes y gradiente de presión entre extremidades superiores e inferiores.",
+    "pregunta": "¿Cuál es el diagnóstico probable?",
+    "opciones": {
+      "opcion a": "Ductus Arterioso Persistente (DAP).",
+      "opcion b": "Coartación Aórtica (CoAo).",
+      "opcion c": "Atresia Pulmonar.",
+      "opcion d": "Comunicación Interventricular (CIV)."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 58,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 40 kg. Se requiere bolo de Heparina No Fraccionada para TEP a 75 UI/kg. Concentración: 1000 UI/ml.",
+    "pregunta": "¿Cuántos ml de Heparina se administran?",
+    "opciones": {
+      "opcion a": "3.0 ml",
+      "opcion b": "30.0 ml",
+      "opcion c": "0.3 ml",
+      "opcion d": "7.5 ml"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 59,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es el método más rápido y confiable para confirmar la colocación correcta de un tubo endotraqueal en Pediatría?",
+    "opciones": {
+      "opcion a": "Auscultación de ruidos respiratorios.",
+      "opcion b": "Visualización directa del paso del tubo.",
+      "opcion c": "Capnografía (detección de CO2 espirado).",
+      "opcion d": "Radiografía de tórax."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 60,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato de 3.5 kg con shock distributivo. Se inicia infusión de Epinefrina a 0.1 μg/kg/min. Concentración: 1 mg en 100 ml.",
+    "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+    "opciones": {
+      "opcion a": "2.1 ml/h",
+      "opcion b": "0.21 ml/h",
+      "opcion c": "4.2 ml/h",
+      "opcion d": "0.7 ml/h"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 61,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es el principal riesgo potencial de la corrección rápida de la hiperglucemia en la Cetoacidosis Diabética (CAD) pediátrica?",
+    "opciones": {
+      "opcion a": "Hipocalemia.",
+      "opcion b": "Hipoglucemia severa.",
+      "opcion c": "Edema cerebral.",
+      "opcion d": "Trombosis venosa."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 62,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato con fiebre, letargo y abombamiento de la fontanela.",
+    "pregunta": "¿Cuál es el procedimiento diagnóstico de elección para confirmar Meningitis Bacteriana Neonatal?",
+    "opciones": {
+      "opcion a": "Hemocultivo.",
+      "opcion b": "Punción Lumbar (PL).",
+      "opcion c": "TAC cerebral.",
+      "opcion d": "PCR para virus."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 63,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 5 años con bradicardia sintomática (FC 50 lpm, hipotensión).",
+    "pregunta": "¿Cuál es el tratamiento de primera línea para la bradicardia sintomática en pediatría?",
+    "opciones": {
+      "opcion a": "Marcapasos transcutáneo o Atropina IV.",
+      "opcion b": "Adenosina IV.",
+      "opcion c": "Cardioversión eléctrica.",
+      "opcion d": "Bolo de Furosemida."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 64,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 50 kg. Se titula Norepinefrina a 0.2 μg/kg/min. Concentración: 8 mg en 250 ml.",
+    "pregunta": "¿Cuál es la velocidad de infusión en ml/hora?",
+    "opciones": {
+      "opcion a": "28.125 ml/h",
+      "opcion b": "18.75 ml/h",
+      "opcion c": "22.5 ml/h",
+      "opcion d": "37.5 ml/h"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 65,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato de 3 kg requiere Dopamina a 20 μg/kg/min. Concentración: 60 mg en 100 ml.",
+    "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+    "opciones": {
+      "opcion a": "3.0 ml/h",
+      "opcion b": "6.0 ml/h",
+      "opcion c": "1.8 ml/h",
+      "opcion d": "12.0 ml/h"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 66,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es el tratamiento adyuvante más efectivo para una crisis asmática severa que no responde a beta-agonistas y esteroides?",
+    "opciones": {
+      "opcion a": "Bolo de Furosemida.",
+      "opcion b": "Bolo de Glucosa.",
+      "opcion c": "Sulfato de Magnesio IV.",
+      "opcion d": "Adrenalina IM."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 67,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la principal complicación de la hemorragia de la matriz germinal/intraventricular (HMG/HIV) en el recién nacido prematuro?",
+    "opciones": {
+      "opcion a": "Enfermedad Pulmonar Crónica.",
+      "opcion b": "Hidrocefalia y daño neurológico permanente.",
+      "opcion c": "Enterocolitis Necrotizante.",
+      "opcion d": "Persistencia del DAP."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 68,
+    "tema": "Neumonología",
+    "caso_clínico": "Lactante con espasmo carpopedal, irritabilidad y QT prolongado en el ECG.",
+    "pregunta": "¿Cuál es el tratamiento de urgencia?",
+    "opciones": {
+      "opcion a": "Bolo de Furosemida.",
+      "opcion b": "Cloruro de Potasio IV.",
+      "opcion c": "Gluconato de Calcio IV.",
+      "opcion d": "Bicarbonato de Sodio."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 69,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 25 kg con Status Epiléptico. Se requiere Fosfenitoína en bolo a 20 mg/kg. Concentración: 50 mg/ml.",
+    "pregunta": "¿Cuántos mg de Fosfenitoína se administran?",
+    "opciones": {
+      "opcion a": "200 mg",
+      "opcion b": "500 mg",
+      "opcion c": "100 mg",
+      "opcion d": "400 mg"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 70,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato de 1 kg. Se inicia infusión de Milrinona a 0.3 μg/kg/min. Concentración: 10 mg en 100 ml.",
+    "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+    "opciones": {
+      "opcion a": "0.18 ml/h",
+      "opcion b": "1.8 ml/h",
+      "opcion c": "0.03 ml/h",
+      "opcion d": "0.3 ml/h"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 71,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la relación compresión:ventilación recomendada para RCP pediátrica con dos rescatadores?",
+    "opciones": {
+      "opcion a": "30:2",
+      "opcion b": "15:2",
+      "opcion c": "5:1",
+      "opcion d": "3:1"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 72,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 10 kg requiere intubación. Se administra Succinilcolina a 2 mg/kg. Concentración: 20 mg/ml.",
+    "pregunta": "¿Cuántos ml de Succinilcolina se administran?",
+    "opciones": {
+      "opcion a": "2.0 ml",
+      "opcion b": "1.0 ml",
+      "opcion c": "0.1 ml",
+      "opcion d": "0.5 ml"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 73,
+    "tema": "Neumonología",
+    "pregunta": "¿Qué es el 'síndrome del bebé bronceado' (Bronze Baby Syndrome) que se puede observar en la fototerapia intensiva?",
+    "opciones": {
+      "opcion a": "Una complicación del Kernícterus.",
+      "opcion b": "Coloración gris-marrón de la piel asociada a colestasis y fotoisómeros.",
+      "opcion c": "Una forma de ictericia fisiológica.",
+      "opcion d": "Una reacción alérgica."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 74,
+    "tema": "Neumonología",
+    "pregunta": "¿Qué fármaco se debe evitar en la Taquicardia Supraventricular (TSV) en niños con shock cardiogénico secundario, debido a su efecto inotrópico negativo?",
+    "opciones": {
+      "opcion a": "Adenosina.",
+      "opcion b": "Digoxina.",
+      "opcion c": "Bloqueadores de los canales de calcio (Verapamilo).",
+      "opcion d": "Amiodarona."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 75,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato de 3 kg requiere Dopamina a 5 μg/kg/min. Concentración: 60 mg en 100 ml.",
+    "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+    "opciones": {
+      "opcion a": "0.9 ml/h",
+      "opcion b": "1.5 ml/h",
+      "opcion c": "3.0 ml/h",
+      "opcion d": "0.6 ml/h"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 76,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la principal causa de shock en un niño politraumatizado (excepto en trauma craneal severo)?",
+    "opciones": {
+      "opcion a": "Shock cardiogénico.",
+      "opcion b": "Shock distributivo.",
+      "opcion c": "Shock hipovolémico hemorrágico.",
+      "opcion d": "Shock obstructivo."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 77,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 20 kg. Se requiere Atropina para bradicardia sintomática a 0.02 mg/kg. Concentración: 0.1 mg/ml.",
+    "pregunta": "¿Cuántos ml de Atropina se administran?",
+    "opciones": {
+      "opcion a": "4.0 ml",
+      "opcion b": "2.0 ml",
+      "opcion c": "0.4 ml",
+      "opcion d": "0.2 ml"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 78,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato en sala de partos con necesidad urgente de Epinefrina y fluidos IV, sin acceso periférico.",
+    "pregunta": "¿Cuál es la vía de acceso de emergencia de elección según el NRP?",
+    "opciones": {
+      "opcion a": "Intraósea (IO).",
+      "opcion b": "Vena umbilical (VU).",
+      "opcion c": "Vena yugular.",
+      "opcion d": "Endotraqueal (ET)."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 79,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es el vasopresor de primera línea recomendado en el shock séptico 'caliente' pediátrico (RVS baja)?",
+    "opciones": {
+      "opcion a": "Dobutamina.",
+      "opcion b": "Norepinefrina (Noradrenalina).",
+      "opcion c": "Milrinona.",
+      "opcion d": "Dopamina."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 80,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 15 kg con TSV refractaria. Se requiere bolo de Amiodarona a 5 mg/kg. Concentración: 50 mg/ml.",
+    "pregunta": "¿Cuántos ml de Amiodarona se administran?",
+    "opciones": {
+      "opcion a": "1.5 ml",
+      "opcion b": "0.75 ml",
+      "opcion c": "3.0 ml",
+      "opcion d": "0.15 ml"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 81,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es el hallazgo de laboratorio más específico de sepsis neonatal temprana?",
+    "opciones": {
+      "opcion a": "Plaquetas bajas.",
+      "opcion b": "PCR y Procalcitonina elevadas.",
+      "opcion c": "Leucocitosis.",
+      "opcion d": "Hiperglucemia."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 82,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 10 kg con sobredosis de Beta-bloqueadores. Se requiere bolo de Glucagón a 0.1 mg/kg. Concentración: 1 mg/ml.",
+    "pregunta": "¿Cuántos ml de Glucagón se administran?",
+    "opciones": {
+      "opcion a": "1.0 ml",
+      "opcion b": "0.1 ml",
+      "opcion c": "10.0 ml",
+      "opcion d": "0.5 ml"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 83,
+    "tema": "Neumonología",
+    "pregunta": "El tratamiento de la hipocalemia severa y sintomática (p. ej., arritmias) en pediatría requiere:",
+    "opciones": {
+      "opcion a": "Administración de Bicarbonato de Sodio.",
+      "opcion b": "Repleción de potasio IV a una velocidad máxima de 0.5 mEq/kg/hora.",
+      "opcion c": "Repleción de potasio IV a una velocidad máxima de 2 mEq/kg/hora.",
+      "opcion d": "Bolo rápido de Cloruro de Potasio IV."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 84,
+    "tema": "Neumonología",
+    "caso_clínico": "Neonato de 2.5 kg en ventilación mecánica. Se inicia infusión de Fentanilo a 1 μg/kg/hora. Concentración: 50 μg en 50 ml.",
+    "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+    "opciones": {
+      "opcion a": "5.0 ml/h",
+      "opcion b": "2.5 ml/h",
+      "opcion c": "0.5 ml/h",
+      "opcion d": "1.25 ml/h"
+    },
+    "respuesta_correcta": "opchion b"
+  },
+  {
+    "id": 85,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño con neumonía severa y derrame pleural grande que causa dificultad respiratoria.",
+    "pregunta": "¿Cuál es el procedimiento diagnóstico y terapéutico urgente para el derrame?",
+    "opciones": {
+      "opcion a": "Toracotomía de emergencia.",
+      "opcion b": "Drenaje quirúrgico.",
+      "opcion c": "Toracocentesis o colocación de tubo torácico (Tubo de tórax).",
+      "opcion d": "Antibióticos IV por 7 días."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 86,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 30 kg requiere intubación. Se utiliza Rocuronio a 1 mg/kg. Concentración: 10 mg/ml.",
+    "pregunta": "¿Cuántos ml de Rocuronio debe administrar?",
+    "opciones": {
+      "opcion a": "0.3 ml",
+      "opcion b": "3.0 ml",
+      "opcion c": "6.0 ml",
+      "opcion d": "1.5 ml"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 87,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la complicación gastrointestinal más grave asociada a la prematuridad y al uso de alimentaciones enterales tempranas?",
+    "opciones": {
+      "opcion a": "Ileo paralítico.",
+      "opcion b": "Enterocolitis Necrotizante (NEC).",
+      "opcion c": "Estenosis pilórica.",
+      "opcion d": "Reflujo gastroesofágico."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 88,
+    "tema": "Neumonología",
+    "caso_clínico": "Lactante (6 kg) con TSV (FC 280 lpm) que presenta hipotensión y falla respiratoria (inestable).",
+    "pregunta": "¿Cuál es la intervención de primera línea en este paciente inestable?",
+    "opciones": {
+      "opcion a": "Bolo de Adenosina.",
+      "opcion b": "Cardioversión eléctrica sincronizada (0.5-1 J/kg).",
+      "opcion c": "Administrar Digoxina oral.",
+      "opcion d": "Maniobras vagales."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 89,
+    "tema": "Neumonología",
+    "pregunta": "¿Qué cardiopatía congénita es la más frecuente en el Síndrome de Down?",
+    "opciones": {
+      "opcion a": "Comunicación Interauricular (CIA).",
+      "opcion b": "Tetralogía de Fallot.",
+      "opcion c": "Canal Auriculoventricular Completo (CAVC).",
+      "opcion d": "Transposición de Grandes Arterias (TGA)."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 90,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 50 kg con ICC descompensada. Se inicia Dobutamina a 5 μg/kg/min. Concentración: 250 mg en 250 ml.",
+    "pregunta": "¿A cuántos ml/hora debe programar la bomba de infusión?",
+    "opciones": {
+      "opcion a": "30.0 ml/h",
+      "opcion b": "15.0 ml/h",
+      "opcion c": "7.5 ml/h",
+      "opcion d": "10.0 ml/h"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 91,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la principal indicación para la administración de Surfactante exógeno en el neonato?",
+    "opciones": {
+      "opcion a": "Neumonía congénita.",
+      "opcion b": "Síndrome de Aspiración de Meconio (SAM).",
+      "opcion c": "Enfermedad de Membrana Hialina (EMH) o Profilaxis en prematuros de alto riesgo.",
+      "opcion d": "Hipertensión Pulmonar Persistente."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 92,
+    "tema": "Neumonología",
+    "pregunta": "¿Qué tipo de shock se caracteriza por RVS baja (vasodilatación) y Gasto Cardíaco alto (o normal) en la fase inicial, pero con mala utilización periférica de oxígeno?",
+    "opciones": {
+      "opcion a": "Shock cardiogénico.",
+      "opcion b": "Shock hipovolémico.",
+      "opcion c": "Shock obstructivo.",
+      "opcion d": "Shock distributivo (séptico caliente)."
+    },
+    "respuesta_correcta": "opcion d"
+  },
+  {
+    "id": 93,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 12 kg. Se requiere un bolo de Lorazepam a 0.1 mg/kg. Concentración: 2 mg/ml.",
+    "pregunta": "¿Cuántos mg se administran?",
+    "opciones": {
+      "opcion a": "0.12 mg",
+      "opcion b": "1.2 mg",
+      "opcion c": "2.4 mg",
+      "opcion d": "0.6 mg"
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 94,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la dosis inicial de Norepinefrina para el soporte de la presión arterial en el neonato críticamente enfermo?",
+    "opciones": {
+      "opcion a": "1-2 μg/kg/min",
+      "opcion b": "0.5-1 μg/kg/min",
+      "opcion c": "0.05-0.1 μg/kg/min",
+      "opcion d": "0.01-0.05 μg/kg/min"
+    },
+    "respuesta_correcta": "opcion d"
+  },
+  {
+    "id": 95,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño politraumatizado que permanece hipotenso a pesar de 60 ml/kg de cristaloides y transfusión de sangre. Presenta bradicardia.",
+    "pregunta": "¿Cuál es la principal causa reversible (5H y 5T) a sospechar, además de la hipovolemia persistente?",
+    "opciones": {
+      "opcion a": "Taponamiento cardíaco (T).",
+      "opcion b": "Toxinas (T).",
+      "opcion c": "Hipercalemia (H).",
+      "opcion d": "Hipoxia/Acidosis (H)."
+    },
+    "respuesta_correcta": "opcion d"
+  },
+  {
+    "id": 96,
+    "tema": "Neumonología",
+    "caso_clínico": "Niño de 30 kg con FV refractaria. Se requiere Lidocaína en bolo a 1 mg/kg. Concentración: 20 mg/ml.",
+    "pregunta": "¿Cuántos ml de Lidocaína se administran?",
+    "opciones": {
+      "opcion a": "1.5 ml",
+      "opcion b": "3.0 ml",
+      "opcion c": "6.0 ml",
+      "opcion d": "0.5 ml"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 97,
+    "tema": "Neumonología",
+    "pregunta": "En un neonato con Gastrosquisis, ¿cuál es la prioridad inmediata después del nacimiento?",
+    "opciones": {
+      "opcion a": "Inicio de la alimentación enteral.",
+      "opcion b": "Reducción quirúrgica inmediata.",
+      "opcion c": "Protección de las vísceras, control de la temperatura y accesos vasculares.",
+      "opcion d": "Administración de antibióticos por 48 horas."
+    },
+    "respuesta_correcta": "opcion c"
+  },
+  {
+    "id": 98,
+    "tema": "Neumonología",
+    "caso_clínico": "Lactante de 6 kg con TSV. Segundo bolo de Adenosina a 0.2 mg/kg. Concentración: 3 mg/ml.",
+    "pregunta": "¿Cuántos ml se administran en el segundo bolo?",
+    "opciones": {
+      "opcion a": "0.4 ml",
+      "opcion b": "1.2 ml",
+      "opcion c": "0.24 ml",
+      "opcion d": "1.6 ml"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 99,
+    "tema": "Neumonología",
+    "pregunta": "¿Qué valor de Gasto Urinario por hora indica un fracaso de la perfusión renal en el paciente pediátrico críticamente enfermo?",
+    "opciones": {
+      "opcion a": "Mayor a 2 ml/kg/hora.",
+      "opcion b": "Menor a 1 ml/kg/hora.",
+      "opcion c": "Entre 1 y 2 ml/kg/hora.",
+      "opcion d": "Depende solo de la PA."
+    },
+    "respuesta_correcta": "opcion b"
+  },
+  {
+    "id": 100,
+    "tema": "Neumonología",
+    "pregunta": "¿Cuál es la principal vía de transmisión de la Sepsis Neonatal de inicio tardío?",
+    "opciones": {
+      "opcion a": "Vía Transplacentaria.",
+      "opcion b": "Colonización vaginal materna (Streptococcus agalactiae).",
+      "opcion c": "Vía nosocomial (catéteres, ventilación) o comunitaria.",
+      "opcion d": "Vía Enteral."
+    },
+    "respuesta_correcta": "opcion c"
+  }
+]

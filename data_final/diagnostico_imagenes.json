@@ -323,9 +323,7 @@
     },
     "respuesta_correcta": "b",
     "justificacion": "La fase arterial requiere una adquisición muy rápida, típicamente entre 20 a 30 segundos, cuando el contraste está concentrado en las arterias antes de la distribución capilar."
-  }
-]
-[
+  },
   {
     "id": 26,
     "tema": "Abdomen / Ecografía",
@@ -432,669 +430,873 @@
   },
   {
     "id": 34,
-    "tema": "Abdomen / Hígado",
-    "pregunta": "En el estudio de un hígado cirrótico, la aparición de un nódulo con realce intenso en la fase arterial y lavado (washout) en la fase venosa portal es altamente sugestivo de:",
+    "tema": "Modalidad de Elección / Urgencias",
+    "pregunta": "¿Cuál es la modalidad de imagen de elección inicial para evaluar un dolor abdominal agudo en una mujer joven no embarazada con sospecha de apendicitis?",
     "opciones": {
-      "a": "Hemangioma hepático.",
-      "b": "Hiperplasia Nodular Focal (HNF).",
-      "c": "Carcinoma Hepatocelular (CHC).",
-      "d": "
-      },
-
-    [
-  {
-    "id": 51,
-    "tema": "Neuro-Imagen / RM",
-    "pregunta": "¿Qué característica de la señal de RM es típica de un **Lipoma**?",
-    "opciones": {
-      "a": "Baja señal en T1 y T2.",
-      "b": "Baja señal en T1 y alta señal en T2.",
-      "c": "Alta señal en T1 y T2 con supresión de señal en secuencias de supresión grasa.",
-      "d": "Alta señal en T1 y T2 sin supresión de señal."
+      "a": "Tomografía Computarizada (TC) abdominal con contraste IV.",
+      "b": "Radiografía simple de abdomen.",
+      "c": "Ecografía abdominal compresiva de fosa ilíaca derecha.",
+      "d": "Resonancia Magnética (RM) abdominal."
     },
     "respuesta_correcta": "c",
-    "justificacion": "El tejido graso (lipoma) se caracteriza por tener tiempos de relajación T1 cortos y T2 largos, lo que se traduce en alta señal en ambas secuencias. Sin embargo, lo definitorio es la pérdida de esta señal (oscuridad) al aplicar una secuencia de supresión grasa (ej., STIR o SPIR)."
+    "justificacion": "La Ecografía se prefiere inicialmente en mujeres jóvenes para evitar la radiación y es muy sensible para apendicitis y patología ginecológica aguda, reservando la TC para casos dudosos."
   },
   {
-    "id": 52,
-    "tema": "Sistema Urinario / TC",
-    "pregunta": "¿Cuál es la modalidad de elección inicial para evaluar un paciente con **hematuria** y sospecha de litiasis renal o ureteral aguda?",
+    "id": 35,
+    "tema": "Física y Seguridad",
+    "pregunta": "¿Cuál de las siguientes modalidades de imagen **no** utiliza radiación ionizante?",
     "opciones": {
-      "a": "Radiografía simple de abdomen.",
-      "b": "Ecografía renal.",
-      "c": "TC abdominal y pélvica sin contraste (Uro-TC sin contraste).",
-      "d": "Pielografía intravenosa."
-    },
-    "respuesta_correcta": "c",
-    "justificacion": "La TC helicoidal sin contraste es el estándar de oro para la litiasis urinaria, ya que detecta prácticamente todos los cálculos (incluidos los radiotransparentes como el ácido úrico) con alta sensibilidad y especificidad, además de descartar otras causas de dolor."
-  },
-  {
-    "id": 53,
-    "tema": "TC / Abdomen",
-    "pregunta": "La característica más específica de la **diverticulitis aguda** no complicada en la TC abdominal es:",
-    "opciones": {
-      "a": "Perforación con neumoperitoneo.",
-      "b": "Engrosamiento de la pared colónica segmentaria asociado a cambios inflamatorios (flemón) en la grasa pericólica.",
-      "c": "Ascitis generalizada.",
-      "d": "Dilatación de asas de intestino delgado."
-    },
-    "respuesta_correcta": "b",
-    "justificacion": "La diverticulitis se caracteriza por la inflamación de uno o más divertículos. En TC, el hallazgo típico es el engrosamiento focal de la pared del colon (generalmente sigmoides) con edema y estriación de la grasa circundante (flemón)."
-  },
-  {
-    "id": 54,
-    "tema": "Neuro-Imagen / RM",
-    "pregunta": "En el contexto de la **Esclerosis Múltiple**, las placas de desmielinización activas se ven en RM típicamente como lesiones:",
-    "opciones": {
-      "a": "Hipointensas en T1 e hiperintensas en T2/FLAIR.",
-      "b": "Hiperintensas en T1 e hipointensas en T2.",
-      "c": "Hipointensas en T1 e isointensas en T2.",
-      "d": "Con restricción de difusión (DWI)."
-    },
-    "respuesta_correcta": "a",
-    "justificacion": "Las lesiones desmielinizantes contienen edema y aumento de agua libre (T2 largo) y pérdida de mielina (T1 largo), lo que se traduce en hipointensidad en T1 e hiperintensidad en T2/FLAIR. Las lesiones activas además realzan con contraste."
-  },
-  {
-    "id": 55,
-    "tema": "Cabeza y Cuello / Ecografía",
-    "pregunta": "El nódulo tiroideo con bordes irregulares, microcalcificaciones, forma más alta que ancha y vascularización central en la ecografía es sospechoso de:",
-    "opciones": {
-      "a": "Bocio multinodular.",
-      "b": "Tiroiditis subaguda.",
-      "c": "Carcinoma papilar de tiroides.",
-      "d": "Quiste coloide simple."
-    },
-    "respuesta_correcta": "c",
-    "justificacion": "Estas son las características ecográficas más predictivas de malignidad para el Carcinoma Papilar, la neoplasia tiroidea más común."
-  },
-  {
-    "id": 56,
-    "tema": "TC / Física",
-    "pregunta": "En la Tomografía Computarizada, la resolución de contraste se mejora al aumentar:",
-    "opciones": {
-      "a": "El tamaño del voxel (pixel).",
-      "b": "La dosis de radiación (mAs).",
-      "c": "La velocidad de rotación del gantry.",
-      "d": "El pitch del helicoidal."
-    },
-    "respuesta_correcta": "b",
-    "justificacion": "El aumento de la corriente del tubo (mAs) aumenta el número de fotones de rayos X, lo que reduce el ruido de la imagen y mejora la resolución de contraste (la capacidad de distinguir estructuras con densidades similares)."
-  },
-  {
-    "id": 57,
-    "tema": "RX / Tórax",
-    "pregunta": "El signo del **broncograma aéreo** en la radiografía de tórax indica típicamente la presencia de:",
-    "opciones": {
-      "a": "Atelectasia obstructiva total.",
-      "b": "Consolidación alveolar (ej. neumonía o edema).",
-      "c": "Derrame pleural loculado.",
-      "d": "Neumotórax subpulmonar."
-    },
-    "respuesta_correcta": "b",
-    "justificacion": "El broncograma aéreo ocurre cuando el aire dentro de los bronquios (negro) es visible porque el tejido pulmonar circundante está ocupado por líquido (blanco) en el espacio alveolar, lo que es característico de la consolidación. 
-
-[Image of chest X-ray showing air bronchogram sign]
-"
-  },
-  {
-    "id": 58,
-    "tema": "RM / Secuencias",
-    "pregunta": "La secuencia de RM utilizada para suprimir la señal de la grasa, útil para caracterizar lesiones dentro de la médula ósea y el sistema musculoesquelético es:",
-    "opciones": {
-      "a": "Imágenes ponderadas por difusión (DWI).",
-      "b": "Secuencia T2 (corte fino).",
-      "c": "Secuencia con inversión y recuperación de tiempo corto (STIR).",
-      "d": "Secuencia T1 sin contraste."
-    },
-    "respuesta_correcta": "c",
-    "justificacion": "STIR (Short-Tau Inversion Recovery) es una técnica de supresión de grasa basada en la anulación de la señal T1 de la grasa, lo que permite que el edema (T2 largo) se destaque claramente, siendo ideal para lesiones musculoesqueléticas."
-  },
-  {
-    "id": 59,
-    "tema": "Sistema Urinario / TC",
-    "pregunta": "En la evaluación de una masa renal, la fase de imagen en TC que mejor demuestra el **lavado (washout)** del contraste es la fase:",
-    "opciones": {
-      "a": "Arterial.",
-      "b": "Corticomedular.",
-      "c": "Nefrográfica (parenquimatosa).",
-      "d": "Excretora (tardía)."
+      "a": "Tomografía Computarizada (TC).",
+      "b": "Radiografía simple de tórax.",
+      "c": "Tomografía por Emisión de Positrones (PET).",
+      "d": "Ecografía Doppler."
     },
     "respuesta_correcta": "d",
-    "justificacion": "La fase excretora (tardía, a partir de 5-15 minutos) permite evaluar el drenaje del contraste y es crítica para caracterizar masas renales, especialmente el Carcinoma de Células Renales, que a menudo muestra un lavado característico."
+    "justificacion": "La Ecografía utiliza ondas de sonido de alta frecuencia. La TC, la Radiografía y el PET utilizan radiación ionizante (rayos X o radiofármacos) y por lo tanto, no es una opción correcta."
   },
   {
-    "id": 60,
-    "tema": "Vascular / Angiografía",
-    "pregunta": "En la evaluación de un aneurisma de aorta abdominal (AAA), ¿qué parámetro en la TC con contraste es más crítico para la planificación quirúrgica?",
+    "id": 36,
+    "tema": "Contraste / RM",
+    "pregunta": "La complicación más grave y específica asociada al uso de contraste a base de Gadolinio en pacientes con insuficiencia renal grave es:",
     "opciones": {
-      "a": "El diámetro máximo transverso del saco aneurismático.",
-      "b": "La presencia de aneurismas cerebrales asociados.",
-      "c": "La relación del aneurisma con las arterias renales y mesentéricas (cuello).",
-      "d": "El grosor de la pared del aneurisma."
-    },
-    "respuesta_correcta": "c",
-    "justificacion": "Para la reparación endovascular (EVAR), es fundamental medir el 'cuello' del aneurisma (distancia y forma del segmento entre la aorta sana y el aneurisma) y su relación con los vasos viscerales para planificar la colocación del stent."
-  },
-  {
-    "id": 61,
-    "tema": "RX / Musculoesquelético",
-    "pregunta": "En la Radiografía de una fractura conminuta, el término **'conminuta'** se refiere a una fractura que presenta:",
-    "opciones": {
-      "a": "Mínimo desplazamiento.",
-      "b": "Múltiples fragmentos óseos (más de dos).",
-      "c": "Solo una línea de fractura simple.",
-      "d": "Afectación de la placa de crecimiento."
+      "a": "Nefropatía inducida por contraste (NIC).",
+      "b": "Fibrosis Sistémica Nefrogénica (FSN).",
+      "c": "Reacción anafilactoide leve.",
+      "d": "Encefalopatía espongiforme."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Una fractura conminuta es aquella en la que el hueso se rompe en tres o más fragmentos, indicando un traumatismo de alta energía."
+    "justificacion": "La Fibrosis Sistémica Nefrogénica (FSN) es una condición rara pero grave, similar a la esclerodermia, que se ha asociado fuertemente con la administración de ciertos agentes de Gadolinio en pacientes con filtración glomerular muy baja."
   },
   {
-    "id": 62,
-    "tema": "Neuro-Imagen / Pediatría",
-    "pregunta": "La técnica de imagen preferida para evaluar el cerebro de un niño con microcefalia o trastornos de la migración cortical, dada su excelente resolución de partes blandas, es:",
+    "id": 37,
+    "tema": "Neuro-Imagen / TC",
+    "pregunta": "En una TC de cráneo sin contraste, ¿cuál es el hallazgo más temprano (primeras horas) que sugiere un Accidente Cerebrovascular (ACV) isquémico en evolución?",
     "opciones": {
-      "a": "Radiografía de cráneo simple.",
+      "a": "Hematoma subdural crónico.",
+      "b": "Pérdida de diferenciación entre la sustancia gris y blanca.",
+      "c": "El signo de la arteria basilar densa.",
+      "d": "Calcificaciones de los ganglios basales."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La pérdida de diferenciación cortical (o borramiento de los surcos) y la hipodensidad del parénquima son signos sutiles de edema citotóxico que aparecen en las primeras horas de un ACV isquémico."
+  },
+  {
+    "id": 38,
+    "tema": "Vascular / Ecografía",
+    "pregunta": "La prueba de imagen inicial y más costo-efectiva para la confirmación diagnóstica de una Trombosis Venosa Profunda (TVP) en una extremidad inferior es:",
+    "opciones": {
+      "a": "Flebotomografía por TC.",
+      "b": "Angiografía venosa invasiva.",
+      "c": "Ecografía Doppler venosa de compresión.",
+      "d": "Resonancia Magnética Venosa (MRV)."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La Ecografía Doppler con maniobras de compresión es el estándar de oro no invasivo para la TVP, ya que permite ver la ausencia de colapso de la vena, el trombo y la ausencia de flujo."
+  },
+  {
+    "id": 39,
+    "tema": "TC",
+    "pregunta": "¿Qué valor de la atenuación radiológica se utiliza como referencia para el agua en las Unidades Hounsfield (HU) de la Tomografía Computarizada?",
+    "opciones": {
+      "a": "+1000 HU",
+      "b": "-1000 HU",
+      "c": "0 HU",
+      "d": "+500 HU"
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "Por convención, el agua pura tiene un valor de atenuación de $0$ HU. El aire es $-1000$ HU y el hueso compacto es aproximadamente $+1000$ HU."
+  },
+  {
+    "id": 40,
+    "tema": "Seguridad / Radiación",
+    "pregunta": "El principio fundamental de la protección radiológica que dicta que las exposiciones deben mantenerse tan bajas como sea razonablemente posible y compatible con la obtención de la imagen se conoce como:",
+    "opciones": {
+      "a": "Principio de Justificación.",
+      "b": "Principio de Limitación de Dosis.",
+      "c": "Principio ALARA (As Low As Reasonably Achievable).",
+      "d": "Principio de la Ley de Determinismo."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "El principio ALARA es el pilar de la optimización de dosis, asegurando que se utilice la mínima radiación necesaria para el diagnóstico."
+  },
+  {
+    "id": 41,
+    "tema": "Neuro-Imagen / RM",
+    "pregunta": "¿Cuál es la secuencia de Resonancia Magnética (RM) más sensible para detectar edema citotóxico en el contexto de un ACV hiperagudo?",
+    "opciones": {
+      "a": "T1 ponderado (T1W).",
+      "b": "T2 ponderado (T2W).",
+      "c": "Inversión-Recuperación con atenuación de líquido (FLAIR).",
+      "d": "Imágenes ponderadas por difusión (DWI)."
+    },
+    "respuesta_correcta": "d",
+    "justificacion": "La secuencia DWI es la más sensible en RM para el ACV isquémico temprano, mostrando restricción de la difusión del agua causada por el edema citotóxico."
+  },
+  {
+    "id": 42,
+    "tema": "Musculoesquelético",
+    "pregunta": "¿Cuál es la modalidad de elección para una evaluación detallada de lesiones en el manguito rotador o los meniscos de la rodilla?",
+    "opciones": {
+      "a": "Radiografía simple.",
       "b": "Tomografía Computarizada (TC).",
-      "c": "Ecografía transfontanelar.",
+      "c": "Ecografía de alta resolución.",
       "d": "Resonancia Magnética (RM)."
     },
     "respuesta_correcta": "d",
-    "justificacion": "La RM es superior a la TC y la Ecografía para la evaluación de la sustancia blanca, la mielinización y las anomalías sutiles de la migración cortical."
+    "justificacion": "La RM ofrece el mejor contraste de partes blandas, siendo la modalidad superior para evaluar tendones, ligamentos, meniscos y cartílago articular."
+  },
+  {
+    "id": 43,
+    "tema": "Oncología / Mamografía",
+    "pregunta": "En la Mamografía de cribado (screening) en mujeres asintomáticas, ¿cuál es el hallazgo más importante para la detección temprana de cáncer invasivo?",
+    "opciones": {
+      "a": "Adenopatías axilares.",
+      "b": "Calcificaciones macroscópicas benignas.",
+      "c": "Microcalcificaciones agrupadas, pleomórficas.",
+      "d": "Quistes simples con niveles líquido-líquido."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "Las microcalcificaciones agrupadas, especialmente si son pleomórficas o ramificadas, son el signo más sutil y temprano de carcinoma ductal in situ (CDIS) o cáncer invasivo en la Mamografía."
+  },
+  {
+    "id": 44,
+    "tema": "Medicina Nuclear",
+    "pregunta": "La gammagrafía ósea con Tecnecio-99m difosfonato se utiliza principalmente para la detección y evaluación de:",
+    "opciones": {
+      "a": "Osteoporosis.",
+      "b": "Fracturas ocultas y metástasis óseas.",
+      "c": "Enfermedad de Paget no activa.",
+      "d": "Hernias discales lumbares."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La gammagrafía ósea detecta el aumento del metabolismo óseo (captación del radiofármaco), siendo muy sensible para identificar metástasis óseas y fracturas por estrés o microtraumatismos ocultos."
+  },
+  {
+    "id": 45,
+    "tema": "Radiografía / Abdomen",
+    "pregunta": "El signo radiográfico de **aire libre subdiafragmático** es altamente indicativo de:",
+    "opciones": {
+      "a": "Obstrucción intestinal alta.",
+      "b": "Perforación de víscera hueca (neumoperitoneo).",
+      "c": "Ascitis severa.",
+      "d": "Íleo paralítico."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La presencia de aire entre el hígado y el hemidiafragma derecho (o en el hemidiafragma izquierdo) en una radiografía de tórax o abdomen en bipedestación es el signo más directo de una perforación gastrointestinal."
+  },
+  {
+    "id": 46,
+    "tema": "Contraste / Seguridad",
+    "pregunta": "¿Qué fármaco se recomienda infiltrar localmente para tratar una extravasación de contraste iodado sin signos de isquemia o necrosis inmediata?",
+    "opciones": {
+      "a": "Epinefrina.",
+      "b": "Sulfato de Protamina.",
+      "c": "Hialuronidasa.",
+      "d": "Norepinefrina."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La Hialuronidasa es una enzima que degrada el ácido hialurónico del tejido conectivo, facilitando la dispersión del contraste extravasado en el espacio intersticial y minimizando el daño tisular local."
+  },
+  {
+    "id": 47,
+    "tema": "TC",
+    "pregunta": "¿Cuál es la principal ventaja de la Tomografía Computarizada (TC) sobre la Resonancia Magnética (RM) en el contexto de urgencias neurológicas?",
+    "opciones": {
+      "a": "Mayor detalle de partes blandas.",
+      "b": "Ausencia de radiación ionizante.",
+      "c": "Detección rápida de hemorragia aguda y disponibilidad.",
+      "d": "Mejor visualización de cartílago y ligamentos."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La TC es rápida, accesible 24/7 y la mejor modalidad para identificar hemorragia intracraneal aguda (hiperdensa) en el entorno de urgencias."
+  },
+  {
+    "id": 48,
+    "tema": "Ecografía / Artefactos",
+    "pregunta": "En ecografía, el artefacto de 'sombra acústica' limpia que se proyecta detrás de una estructura (ej. un cálculo) es un indicador de:",
+    "opciones": {
+      "a": "Refuerzo acústico posterior.",
+      "b": "Reverberación.",
+      "c": "Transmisión incompleta o absorción total de la onda de ultrasonido.",
+      "d": "Artefacto de espejo."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La sombra acústica posterior ocurre cuando una estructura (cálculo, hueso) absorbe o refleja completamente las ondas de ultrasonido, impidiendo que el tejido posterior sea visualizado."
+  },
+  {
+    "id": 49,
+    "tema": "Neuro-Imagen / RM",
+    "pregunta": "La secuencia RM **FLAIR** (Fluid-Attenuated Inversion Recovery) es útil porque:",
+    "opciones": {
+      "a": "Muestra mejor la hemorragia crónica.",
+      "b": "Suprime la señal del líquido cefalorraquídeo (LCR).",
+      "c": "Es la más rápida para obtener imágenes en urgencias.",
+      "d": "Solo detecta calcio."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La secuencia FLAIR utiliza un pulso de inversión para anular selectivamente la señal del LCR, permitiendo que las lesiones periventriculares (ej. esclerosis múltiple) se vean mejor como hiperintensidades."
+  },
+  {
+    "id": 50,
+    "tema": "Urgencias / Trauma",
+    "pregunta": "En la evaluación inicial de un paciente con trauma abdominal cerrado hemodinámicamente inestable, la modalidad de imagen FAST (Focused Assessment with Sonography for Trauma) tiene como objetivo principal identificar:",
+    "opciones": {
+      "a": "Fracturas vertebrales.",
+      "b": "Lesiones ligamentarias de la rodilla.",
+      "c": "Líquido libre (hemoperitoneo) en la cavidad abdominal y pericárdica.",
+      "d": "Neumotórax a tensión."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "El FAST es un examen ecográfico rápido que busca colecciones de líquido (generalmente sangre) en los espacios pericárdico, perihepático y periesplénico, indicando sangrado interno."
+  },
+  {
+    "id": 51,
+    "tema": "Seguridad / Radiación",
+    "pregunta": "Para evaluar la exposición del personal a la radiación ionizante, se utiliza un dosímetro, y la dosis efectiva se mide en:",
+    "opciones": {
+      "a": "Curie (Ci).",
+      "b": "Gray (Gy).",
+      "c": "Becquerel (Bq).",
+      "d": "Sievert (Sv)."
+    },
+    "respuesta_correcta": "d",
+    "justificacion": "El Sievert (Sv) es la unidad de dosis efectiva y dosis equivalente, que representa los efectos biológicos y el riesgo de la radiación ionizante en el cuerpo humano."
+  },
+  {
+    "id": 52,
+    "tema": "Contraste / TC",
+    "pregunta": "En la Angio-TC pulmonar (CTPA) para descartar Tromboembolismo Pulmonar (TEP), la patología se detecta por la presencia de:",
+    "opciones": {
+      "a": "Realce homogéneo del parénquima pulmonar.",
+      "b": "Defectos de llenado hipodensos dentro de las arterias pulmonares.",
+      "c": "Atenuación grasa del mediastino.",
+      "d": "Bronquiectasias de tracción."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "El TEP se visualiza como un defecto de llenado (hipodenso) en la luz de la arteria pulmonar o sus ramas, ya que el contraste administrado llena el vaso, pero no penetra el émbolo."
+  },
+  {
+    "id": 53,
+    "tema": "Musculoesquelético",
+    "pregunta": "En la evaluación de un esguince de tobillo grave (grado 3), la RM se recomienda para:",
+    "opciones": {
+      "a": "Evaluar el grado de fractura de la tibia.",
+      "b": "Diagnosticar roturas completas de ligamentos (ej. ligamento peroneoastragalino anterior).",
+      "c": "Visualizar solo el derrame articular.",
+      "d": "Detectar osteomielitis crónica."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La RM es la mejor modalidad para evaluar y estadificar la lesión de partes blandas, incluyendo las roturas completas y parciales de los ligamentos, lo cual es crucial para planificar el tratamiento."
+  },
+  {
+    "id": 54,
+    "tema": "Pediatría / Neuro-Imagen",
+    "pregunta": "La modalidad de elección para la evaluación del cerebro en un recién nacido prematuro con sospecha de hemorragia intraventricular es:",
+    "opciones": {
+      "a": "Resonancia Magnética (RM) con sedación.",
+      "b": "Ecografía transfontanelar.",
+      "c": "Tomografía Computarizada (TC).",
+      "d": "Radiografía simple de cráneo."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La Ecografía transfontanelar es la modalidad de elección en neonatos debido a su portabilidad, bajo costo, no radiación y excelente visualización del parénquima y ventrículos a través de la fontanela abierta."
+  },
+  {
+    "id": 55,
+    "tema": "Ecografía / Limitaciones",
+    "pregunta": "¿Cuál es la principal limitación de la ecografía en la visualización de estructuras profundas del abdomen?",
+    "opciones": {
+      "a": "El movimiento del paciente.",
+      "b": "La presencia de aire o gas intestinal y la obesidad.",
+      "c": "El uso de campos magnéticos.",
+      "d": "La baja resolución espacial."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "Las ondas de ultrasonido son reflejadas y dispersadas por el gas y son absorbidas por el tejido adiposo, lo que reduce drásticamente la penetración y calidad de la imagen en pacientes obesos o con meteorismo."
+  },
+  {
+    "id": 56,
+    "tema": "Tórax / Radiografía",
+    "pregunta": "En la Radiografía de Tórax en bipedestación, el signo de 'surco profundo' (deep sulcus sign) en el hemidiafragma es altamente indicativo de:",
+    "opciones": {
+      "a": "Derrame pleural masivo.",
+      "b": "Neumonía basal derecha.",
+      "c": "Neumotórax.",
+      "d": "Atelectasia lobar."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "El signo del surco profundo se produce cuando el aire de un neumotórax se acumula en el receso costodiafragmático, extendiéndose hacia abajo y adelante, deprimiendo el hemidiafragma."
+  },
+  {
+    "id": 57,
+    "tema": "RM / Artefactos",
+    "pregunta": "El artefacto más común y significativo en la RM, causado por la presencia de implantes metálicos ferromagnéticos (ej. clips quirúrgicos, prótesis), es:",
+    "opciones": {
+      "a": "Artefacto de aliasing (solapamiento).",
+      "b": "Artefacto de movimiento respiratorio.",
+      "c": "Artefacto de susceptibilidad magnética.",
+      "d": "Artefacto de volumen parcial."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "Los objetos ferromagnéticos distorsionan el campo magnético local (susceptibilidad), lo que resulta en una gran distorsión geométrica y pérdida de señal (áreas negras) en la imagen de RM."
+  },
+  {
+    "id": 58,
+    "tema": "Abdomen / TC",
+    "pregunta": "Para la evaluación de la fase arterial hepática o renal en un estudio de TC con contraste, ¿cuál es el tiempo de retardo (delay) típico después de la inyección de contraste?",
+    "opciones": {
+      "a": "180 segundos.",
+      "b": "20-30 segundos.",
+      "c": "60-90 segundos.",
+      "d": "10-15 minutos."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La fase arterial requiere una adquisición muy rápida, típicamente entre 20 a 30 segundos, cuando el contraste está concentrado en las arterias antes de la distribución capilar."
+  },
+  {
+    "id": 59,
+    "tema": "Abdomen / Ecografía",
+    "pregunta": "¿Cuál es el criterio ecográfico principal para diagnosticar Colecistitis Aguda?",
+    "opciones": {
+      "a": "Presencia de múltiples cálculos pequeños.",
+      "b": "Pared vesicular fina (< 3 mm).",
+      "c": "Signo de Murphy ecográfico positivo y engrosamiento de la pared vesicular (> 3 mm).",
+      "d": "Vesícula biliar pequeña y escleroatrófica."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La Colecistitis Aguda se caracteriza por dolor localizado (Murphy positivo al transductor) y signos inflamatorios como el engrosamiento de la pared de la vesícula biliar y, a menudo, líquido perivesicular. "
+  },
+  {
+    "id": 60,
+    "tema": "Tórax / Radiografía",
+    "pregunta": "En una Radiografía de Tórax posteroanterior, la **silueta cardíaca agrandada** (cardiomegalia) se define cuando el índice cardiotorácico es:",
+    "opciones": {
+      "a": "Mayor al 40%.",
+      "b": "Mayor al 50%.",
+      "c": "Mayor al 60%.",
+      "d": "Menor al 50%."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "El índice cardiotorácico (relación entre el diámetro cardíaco máximo y el diámetro torácico máximo) normal es < 0.5 (50%) en adultos. Un valor > 0.5 sugiere cardiomegalia (agrandamiento cardíaco)."
+  },
+  {
+    "id": 61,
+    "tema": "Contraste / Seguridad",
+    "pregunta": "¿Cuál es la medida preventiva más importante para evitar la **Nefropatía Inducida por Contraste (NIC)** en un paciente de alto riesgo que requiere una TC con contraste iodado?",
+    "opciones": {
+      "a": "Administrar antibióticos profilácticos.",
+      "b": "Hidratación adecuada con solución salina antes y después del procedimiento.",
+      "c": "Uso de Gadolinio en lugar de contraste iodado.",
+      "d": "Administrar corticoides de rutina."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La hidratación intravenosa con solución salina es la medida más eficaz para prevenir la NIC, ya que promueve la diuresis y la dilución del contraste, reduciendo el tiempo de contacto tubular."
+  },
+  {
+    "id": 62,
+    "tema": "RM / Física",
+    "pregunta": "¿Qué determina el contraste de la imagen en una secuencia **T1** ponderada de Resonancia Magnética?",
+    "opciones": {
+      "a": "La atenuación del flujo sanguíneo.",
+      "b": "El tiempo de relajación longitudinal del tejido (T1).",
+      "c": "El tiempo de relajación transversal del tejido (T2).",
+      "d": "La densidad de protones."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "El contraste T1 está dominado por las diferencias en el tiempo que tarda la magnetización longitudinal de los protones en recuperarse. Los tejidos con T1 corto (como la grasa y el contraste) aparecen brillantes (hiperintensos)."
   },
   {
     "id": 63,
-    "tema": "Abdomen / Ecografía",
-    "pregunta": "En un paciente con Ictericia, la presencia de **dilatación de las vías biliares intrahepáticas y extrahepáticas con un colédoco terminal no dilatado** sugiere que la obstrucción es:",
+    "tema": "Abdomen / TC",
+    "pregunta": "En un paciente con Pancreatitis Aguda grave, ¿el hallazgo en TC que mejor correlaciona con la severidad y el pronóstico (criterios de Balthazar/MCTSI) es:",
     "opciones": {
-      "a": "Intrahepática (ej. hepatitis).",
-      "b": "A nivel del hilio hepático (ej. tumor de Klatskin).",
-      "c": "A nivel del colédoco distal (ej. cálculo o tumor pancreático).",
-      "d": "No hay obstrucción real."
+      "a": "Tamaño del páncreas.",
+      "b": "Grado de dilatación del conducto pancreático.",
+      "c": "Presencia y extensión de la necrosis pancreática y extrapancreática.",
+      "d": "Engrosamiento de la pared gástrica."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "La dilatación de la vía biliar proximal (intrahepática y colédoco común proximal) con un conducto biliar distal normal sugiere una lesión obstructiva a nivel del hilio hepático (bifurcación hepática o Klatskin)."
+    "respuesta_correcta": "c",
+    "justificacion": "La necrosis pancreática es el factor pronóstico más importante en la pancreatitis aguda. El score MCTSI (Modified CT Severity Index) se basa en la inflamación y la extensión de la necrosis."
   },
   {
     "id": 64,
-    "tema": "Contraste / Seguridad",
-    "pregunta": "Para la realización de una RM, ¿qué implante cardíaco es considerado una **contraindicación absoluta** (salvo que sea certificado como 'MR-Conditional')?",
+    "tema": "Tórax / TC",
+    "pregunta": "La característica más específica en la Tomografía Computarizada (TC) de alta resolución (TCAR) para el diagnóstico de **Enfisema Centrolobulillar** es:",
     "opciones": {
-      "a": "Stent coronario colocado hace 1 año.",
-      "b": "Prótesis valvular metálica.",
-      "c": "Marcapasos cardíaco o desfibrilador automático implantable (DAI).",
-      "d": "Cualquier prótesis de cadera."
+      "a": "Patrón en panal de abejas (honeycombing).",
+      "b": "Quistes subpleurales múltiples.",
+      "c": "Áreas de baja atenuación (destrucción) sin paredes visibles, predominantemente en lóbulos superiores.",
+      "d": "Engrosamiento liso del septo interlobulillar."
     },
     "respuesta_correcta": "c",
-    "justificacion": "Los marcapasos y DAI, debido a sus componentes ferromagnéticos y circuitos electrónicos, pueden fallar, calentarse o ser desplazados por el campo magnético, lo que representa un riesgo vital si no están certificados como MR-Conditional."
+    "justificacion": "El enfisema centrolobulillar, relacionado con el tabaquismo, se caracteriza por áreas de baja densidad (aire atrapado/destrucción de parénquima) que afectan la porción central del lóbulo secundario, sin una pared definible."
   },
   {
     "id": 65,
-    "tema": "Abdomen / Hígado",
-    "pregunta": "En una RM de abdomen, la lesión hepática focal más común que presenta una cicatriz central hipointensa en T2 y un realce arterial centrípeto es:",
+    "tema": "Ecografía / Doppler",
+    "pregunta": "¿Para qué se utiliza principalmente el **Doppler color** en la ecografía?",
     "opciones": {
-      "a": "Adenoma hepático.",
-      "b": "Carcinoma hepatocelular (CHC).",
-      "c": "Hemangioma hepático.",
-      "d": "Hiperplasia Nodular Focal (HNF)."
+      "a": "Visualizar estructuras óseas.",
+      "b": "Medir la velocidad y dirección del flujo sanguíneo.",
+      "c": "Evaluar la composición química de los cálculos.",
+      "d": "Mejorar el contraste entre grasa y músculo."
     },
-    "respuesta_correcta": "d",
-    "justificacion": "La HNF es una lesión benigna clásica caracterizada por la presencia de una cicatriz central que permanece hipointensa en T2 y T1, pero que no realza, mientras que el resto de la lesión realza intensamente en fase arterial."
+    "respuesta_correcta": "b",
+    "justificacion": "El Doppler color mapea el flujo sanguíneo, usando colores (rojo o azul) para indicar la dirección (hacia o lejos del transductor) y el brillo para indicar la velocidad."
   },
   {
     "id": 66,
-    "tema": "RX / Tórax",
-    "pregunta": "El signo radiológico de 'muñón' (stump sign) en un paciente con antecedente de cáncer de pulmón es un hallazgo que sugiere:",
+    "tema": "RM / Artefactos",
+    "pregunta": "Un paciente con implantes dentales metálicos puede generar grandes zonas de pérdida de señal y distorsión en la RM cerebral, conocido como:",
     "opciones": {
-      "a": "Fibrosis pulmonar avanzada.",
-      "b": "Bronquio cortado (obstrucción tumoral).",
-      "c": "Agrandamiento de la aurícula izquierda.",
-      "d": "Neumotórax por rotura de bulla."
+      "a": "Artefacto de Gibbs.",
+      "b": "Artefacto de susceptibilidad magnética.",
+      "c": "Artefacto de flujo.",
+      "d": "Artefacto de químico-shift (desplazamiento químico)."
     },
     "respuesta_correcta": "b",
-    "justificacion": "El 'muñón' se refiere a la terminación abrupta de un bronquio debido a la oclusión por una masa tumoral, lo que suele ir acompañado de atelectasia o consolidación distal."
+    "justificacion": "Los implantes metálicos crean campos magnéticos locales irregulares que distorsionan la señal de RM, resultando en áreas de vacío de señal (artefacto de susceptibilidad). "
   },
   {
     "id": 67,
-    "tema": "Neuro-Imagen / Vascular",
-    "pregunta": "En la evaluación por Angio-TC de la estenosis de la arteria carótida, ¿el parámetro que se utiliza para clasificar el grado de estenosis es:",
+    "tema": "Modalidad de Elección / Urgencias",
+    "pregunta": "¿Cuál es la modalidad de imagen de elección inicial para evaluar un dolor abdominal agudo en una mujer joven no embarazada con sospecha de apendicitis?",
     "opciones": {
-      "a": "El diámetro de la arteria vertebral.",
-      "b": "La velocidad del flujo pico.",
-      "c": "La reducción del diámetro luminal en el sitio más estrecho con respecto a la porción distal normal.",
-      "d": "El grosor de la pared arterial."
+      "a": "Tomografía Computarizada (TC) abdominal con contraste IV.",
+      "b": "Radiografía simple de abdomen.",
+      "c": "Ecografía abdominal compresiva de fosa ilíaca derecha.",
+      "d": "Resonancia Magnética (RM) abdominal."
     },
     "respuesta_correcta": "c",
-    "justificacion": "El grado de estenosis se calcula utilizando la fórmula de NASCET o ECST, que comparan el diámetro más estrecho con el diámetro de la arteria distal, lo que es crucial para la indicación de endarterectomía."
+    "justificacion": "La Ecografía se prefiere inicialmente en mujeres jóvenes para evitar la radiación y es muy sensible para apendicitis y patología ginecológica aguda, reservando la TC para casos dudosos."
   },
   {
     "id": 68,
-    "tema": "Ecografía / Ginecológica",
-    "pregunta": "En una mujer en edad fértil con dolor pélvico agudo, el hallazgo ecográfico de líquido libre en el fondo de saco de Douglas y una masa anexial compleja con niveles internos líquido-líquido es altamente sugestivo de:",
+    "tema": "Física y Seguridad",
+    "pregunta": "¿Cuál de las siguientes modalidades de imagen **no** utiliza radiación ionizante?",
     "opciones": {
-      "a": "Mioma uterino degenerado.",
-      "b": "Embarazo ectópico roto o inminente.",
-      "c": "Quiste folicular simple.",
-      "d": "Endometrioma."
+      "a": "Tomografía Computarizada (TC).",
+      "b": "Radiografía simple de tórax.",
+      "c": "Tomografía por Emisión de Positrones (PET).",
+      "d": "Ecografía Doppler."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "El embarazo ectópico roto es una emergencia. La masa anexial (saco gestacional o hematosalpinx) junto con líquido libre (sangre) en el fondo de saco es el signo ecográfico cardinal. "
+    "respuesta_correcta": "d",
+    "justificacion": "La Ecografía utiliza ondas de sonido de alta frecuencia. La TC, la Radiografía y el PET utilizan radiación ionizante (rayos X o radiofármacos) y por lo tanto, no es una opción correcta."
   },
   {
     "id": 69,
-    "tema": "RM / Columna",
-    "pregunta": "Para la evaluación de la médula espinal y el canal vertebral, la secuencia T2 de RM es la preferida porque:",
+    "tema": "Contraste / RM",
+    "pregunta": "La complicación más grave y específica asociada al uso de contraste a base de Gadolinio en pacientes con insuficiencia renal grave es:",
     "opciones": {
-      "a": "El LCR (líquido cefalorraquídeo) aparece brillante, creando contraste con la médula y los discos.",
-      "b": "La médula espinal aparece hiperintensa.",
-      "c": "Muestra el hueso cortical con gran detalle.",
-      "d": "La grasa epidural aparece negra."
+      "a": "Nefropatía inducida por contraste (NIC).",
+      "b": "Fibrosis Sistémica Nefrogénica (FSN).",
+      "c": "Reacción anafilactoide leve.",
+      "d": "Encefalopatía espongiforme."
     },
-    "respuesta_correcta": "a",
-    "justificacion": "En T2, el LCR es brillante, lo que actúa como un contraste natural, delineando claramente la médula espinal (gris) y las estructuras nerviosas dentro del saco tecal, facilitando la detección de compresión o tumores."
+    "respuesta_correcta": "b",
+    "justificacion": "La Fibrosis Sistémica Nefrogénica (FSN) es una condición rara pero grave, similar a la esclerodermia, que se ha asociado fuertemente con la administración de ciertos agentes de Gadolinio en pacientes con filtración glomerular muy baja."
   },
   {
     "id": 70,
-    "tema": "RX / Abdomen",
-    "pregunta": "El signo de **'granos de café'** o 'asa de omega' en la radiografía de abdomen se asocia a:",
+    "tema": "Neuro-Imagen / TC",
+    "pregunta": "En una TC de cráneo sin contraste, ¿cuál es el hallazgo más temprano (primeras horas) que sugiere un Accidente Cerebrovascular (ACV) isquémico en evolución?",
     "opciones": {
-      "a": "Vólvulo de ciego.",
-      "b": "Vólvulo de sigmoides.",
-      "c": "Obstrucción de intestino delgado.",
-      "d": "Perforación gástrica."
+      "a": "Hematoma subdural crónico.",
+      "b": "Pérdida de diferenciación entre la sustancia gris y blanca.",
+      "c": "El signo de la arteria basilar densa.",
+      "d": "Calcificaciones de los ganglios basales."
     },
     "respuesta_correcta": "b",
-    "justificacion": "El vólvulo de sigmoides, que es la torsión del intestino sobre su mesenterio, produce una gran asa de colon muy dilatada llena de gas que tiene una forma característica, comparada con un grano de café o un asa de omega invertida."
+    "justificacion": "La pérdida de diferenciación cortical (o borramiento de los surcos) y la hipodensidad del parénquima son signos sutiles de edema citotóxico que aparecen en las primeras horas de un ACV isquémico."
   },
   {
     "id": 71,
-    "tema": "TC / Tórax",
-    "pregunta": "En un paciente con un nódulo pulmonar solitario, la presencia de calcificaciones de tipo 'palomita de maíz' (popcorn calcification) en la TC es altamente predictiva de:",
+    "tema": "Vascular / Ecografía",
+    "pregunta": "La prueba de imagen inicial y más costo-efectiva para la confirmación diagnóstica de una Trombosis Venosa Profunda (TVP) en una extremidad inferior es:",
     "opciones": {
-      "a": "Carcinoma Broncogénico.",
-      "b": "Hamartoma (lesión benigna).",
-      "c": "Tuberculosis activa.",
-      "d": "Metástasis de sarcoma."
+      "a": "Flebotomografía por TC.",
+      "b": "Angiografía venosa invasiva.",
+      "c": "Ecografía Doppler venosa de compresión.",
+      "d": "Resonancia Magnética Venosa (MRV)."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "Las calcificaciones 'popcorn' son la firma radiológica del Hamartoma, el tumor pulmonar benigno más común."
+    "respuesta_correcta": "c",
+    "justificacion": "La Ecografía Doppler con maniobras de compresión es el estándar de oro no invasivo para la TVP, ya que permite ver la ausencia de colapso de la vena, el trombo y la ausencia de flujo."
   },
   {
     "id": 72,
-    "tema": "Ecografía / Abdomen",
-    "pregunta": "En el contexto de la ascitis, la ecografía permite diferenciar entre el líquido libre anecoico (simple) y el líquido tabicado o complejo (ej. por pus, hemorragia o malignidad) basándose en:",
+    "tema": "TC",
+    "pregunta": "¿Qué valor de la atenuación radiológica se utiliza como referencia para el agua en las Unidades Hounsfield (HU) de la Tomografía Computarizada?",
     "opciones": {
-      "a": "El tamaño del abdomen.",
-      "b": "La velocidad del Doppler color.",
-      "c": "La ecogenicidad interna y la presencia de septos.",
-      "d": "La atenuación del ultrasonido."
+      "a": "+1000 HU",
+      "b": "-1000 HU",
+      "c": "0 HU",
+      "d": "+500 HU"
     },
     "respuesta_correcta": "c",
-    "justificacion": "El líquido simple es anecoico (negro) y homogéneo. La presencia de ecos internos (partículas), detritos, o tabiques internos (septos) sugiere que el líquido es complejo o purulento/hemorrágico."
+    "justificacion": "Por convención, el agua pura tiene un valor de atenuación de $0$ HU. El aire es $-1000$ HU y el hueso compacto es aproximadamente $+1000$ HU."
   },
   {
     "id": 73,
-    "tema": "RM / Contraste",
-    "pregunta": "¿Cuál es la principal ventaja clínica de usar agentes de contraste superparamagnéticos a base de hierro (SPIO) en RM, comparado con el Gadolinio?",
+    "tema": "Seguridad / Radiación",
+    "pregunta": "El principio fundamental de la protección radiológica que dicta que las exposiciones deben mantenerse tan bajas como sea razonablemente posible y compatible con la obtención de la imagen se conoce como:",
     "opciones": {
-      "a": "Mayor seguridad en insuficiencia renal.",
-      "b": "Mejor realce de lesiones cerebrales.",
-      "c": "Evaluación del sistema reticuloendotelial (hígado/bazo).",
-      "d": "Menor costo."
+      "a": "Principio de Justificación.",
+      "b": "Principio de Limitación de Dosis.",
+      "c": "Principio ALARA (As Low As Reasonably Achievable).",
+      "d": "Principio de la Ley de Determinismo."
     },
     "respuesta_correcta": "c",
-    "justificacion": "Los agentes de hierro son captados por los macrófagos del sistema reticuloendotelial (hígado y bazo). Esto es útil para caracterizar lesiones hepáticas: las lesiones que contienen macrófagos (benignas) captan el agente y se vuelven hipointensas; las lesiones malignas no captan."
+    "justificacion": "El principio ALARA es el pilar de la optimización de dosis, asegurando que se utilice la mínima radiación necesaria para el diagnóstico."
   },
   {
     "id": 74,
-    "tema": "Sistema Urinario / Ecografía",
-    "pregunta": "El signo ecográfico más confiable de la **hidronefrosis** es:",
+    "tema": "Neuro-Imagen / RM",
+    "pregunta": "¿Cuál es la secuencia de Resonancia Magnética (RM) más sensible para detectar edema citotóxico en el contexto de un ACV hiperagudo?",
     "opciones": {
-      "a": "Aumento del tamaño renal.",
-      "b": "Engrosamiento de la pared vesical.",
-      "c": "Dilatación de las pelvis y cálices renales (sistema colector).",
-      "d": "Aumento de la ecogenicidad cortical."
+      "a": "T1 ponderado (T1W).",
+      "b": "T2 ponderado (T2W).",
+      "c": "Inversión-Recuperación con atenuación de líquido (FLAIR).",
+      "d": "Imágenes ponderadas por difusión (DWI)."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La hidronefrosis es la dilatación del sistema colector renal (pelvis y cálices) causada por la obstrucción del flujo de orina. "
+    "respuesta_correcta": "d",
+    "justificacion": "La secuencia DWI es la más sensible en RM para el ACV isquémico temprano, mostrando restricción de la difusión del agua causada por el edema citotóxico."
   },
   {
     "id": 75,
-    "tema": "Neuro-Imagen / Emergencia",
-    "pregunta": "En un paciente con trauma, ¿cuál es el hallazgo típico en la TC de un **Hematoma Subdural Agudo**?",
+    "tema": "Musculoesquelético",
+    "pregunta": "¿Cuál es la modalidad de elección para una evaluación detallada de lesiones en el manguito rotador o los meniscos de la rodilla?",
     "opciones": {
-      "a": "Colección de líquido hipodensa en forma de media luna que cruza las suturas.",
-      "b": "Colección de líquido hiperdensa en forma de media luna que no cruza las suturas.",
-      "c": "Colección biconvexa hiperdensa que no cruza las suturas.",
-      "d": "Colección de líquido isodensa en forma de huso."
+      "a": "Radiografía simple.",
+      "b": "Tomografía Computarizada (TC).",
+      "c": "Ecografía de alta resolución.",
+      "d": "Resonancia Magnética (RM)."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "El Hematoma Subdural toma la forma de media luna (creciente), el sangrado agudo es hiperdenso, y no cruza las suturas, pero puede extenderse sobre el hemisferio. La opción (c) describe un hematoma epidural."
-  }
-]
-[
+    "respuesta_correcta": "d",
+    "justificacion": "La RM ofrece el mejor contraste de partes blandas, siendo la modalidad superior para evaluar tendones, ligamentos, meniscos y cartílago articular."
+  },
   {
     "id": 76,
-    "tema": "Gastrointestinal / RM",
-    "pregunta": "¿Cuál es la principal indicación de la **Colangiopancreatografía por Resonancia Magnética (CPRM)**?",
+    "tema": "Oncología / Mamografía",
+    "pregunta": "En la Mamografía de cribado (screening) en mujeres asintomáticas, ¿cuál es el hallazgo más importante para la detección temprana de cáncer invasivo?",
     "opciones": {
-      "a": "Diagnóstico y estadificación de cáncer de páncreas.",
-      "b": "Evaluación no invasiva de la vía biliar y el conducto pancreático (litiasis, estenosis).",
-      "c": "Detección temprana de Carcinoma Hepatocelular (CHC).",
-      "d": "Guía para la ablación por radiofrecuencia de tumores hepáticos."
+      "a": "Adenopatías axilares.",
+      "b": "Calcificaciones macroscópicas benignas.",
+      "c": "Microcalcificaciones agrupadas, pleomórficas.",
+      "d": "Quistes simples con niveles líquido-líquido."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "La CPRM utiliza secuencias T2 muy potenciadas (líquido brillante) para visualizar la vía biliar y el conducto pancreático de forma no invasiva, siendo el examen de elección para colangitis, litiasis coledociana y estenosis."
+    "respuesta_correcta": "c",
+    "justificacion": "Las microcalcificaciones agrupadas, especialmente si son pleomórficas o ramificadas, son el signo más sutil y temprano de carcinoma ductal in situ (CDIS) o cáncer invasivo en la Mamografía."
   },
   {
     "id": 77,
-    "tema": "Musculoesquelético / RM",
-    "pregunta": "En la Resonancia Magnética (RM) de la columna vertebral, la característica radiológica más común de la **Espondilodiscitis (infección)** es:",
+    "tema": "Medicina Nuclear",
+    "pregunta": "La gammagrafía ósea con Tecnecio-99m difosfonato se utiliza principalmente para la detección y evaluación de:",
     "opciones": {
-      "a": "Disminución del espacio discal y edema (hiperintensidad) del disco y cuerpos vertebrales adyacentes en T2.",
-      "b": "Osteofitos marginales y pinzamiento del espacio discal sin edema.",
-      "c": "Abombamiento discal difuso y sinovitis.",
-      "d": "Fracturas por aplastamiento sin afectación discal."
+      "a": "Osteoporosis.",
+      "b": "Fracturas ocultas y metástasis óseas.",
+      "c": "Enfermedad de Paget no activa.",
+      "d": "Hernias discales lumbares."
     },
-    "respuesta_correcta": "a",
-    "justificacion": "La Espondilodiscitis se caracteriza por la infección del disco (discitis) y los cuerpos vertebrales adyacentes (espondilitis), mostrando edema óseo (T2 hiperintenso) y pinzamiento discal temprano (T2 hiperintenso del disco)."
+    "respuesta_correcta": "b",
+    "justificacion": "La gammagrafía ósea detecta el aumento del metabolismo óseo (captación del radiofármaco), siendo muy sensible para identificar metástasis óseas y fracturas por estrés o microtraumatismos ocultos."
   },
   {
     "id": 78,
-    "tema": "Ecografía / Intervencionismo",
-    "pregunta": "¿Cuál es la principal ventaja de utilizar la **Ecografía** como método de guía para realizar biopsias de lesiones superficiales o drenajes de colecciones?",
+    "tema": "Radiografía / Abdomen",
+    "pregunta": "El signo radiográfico de **aire libre subdiafragmático** es altamente indicativo de:",
     "opciones": {
-      "a": "Mayor detalle anatómico que la TC.",
-      "b": "Visualización del trayecto de la aguja en tiempo real.",
-      "c": "Menor costo y mayor rapidez que la TC.",
-      "d": "Ausencia de necesidad de consentimiento informado."
+      "a": "Obstrucción intestinal alta.",
+      "b": "Perforación de víscera hueca (neumoperitoneo).",
+      "c": "Ascitis severa.",
+      "d": "Íleo paralítico."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La principal ventaja de la ecografía en intervencionismo es que permite seguir el movimiento de la aguja en tiempo real, garantizando que la punta alcance el objetivo y evitando estructuras vitales."
+    "justificacion": "La presencia de aire entre el hígado y el hemidiafragma derecho (o en el hemidiafragma izquierdo) en una radiografía de tórax o abdomen en bipedestación es el signo más directo de una perforación gastrointestinal."
   },
   {
     "id": 79,
-    "tema": "Tórax / Neoplasias",
-    "pregunta": "Un nódulo pulmonar en TC que presenta un **patrón de crecimiento lento con bordes espiculados o lobulados**, y una densidad mayor a 15 HU (no calcificado), debe considerarse:",
+    "tema": "Contraste / Seguridad",
+    "pregunta": "¿Qué fármaco se recomienda infiltrar localmente para tratar una extravasación de contraste iodado sin signos de isquemia o necrosis inmediata?",
     "opciones": {
-      "a": "Un Hamartoma benigno.",
-      "b": "Un Carcinoma Broncogénico (maligno) hasta demostrar lo contrario.",
-      "c": "Una simple cicatriz inflamatoria.",
-      "d": "Un quiste hidatídico."
+      "a": "Epinefrina.",
+      "b": "Sulfato de Protamina.",
+      "c": "Hialuronidasa.",
+      "d": "Norepinefrina."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "Los bordes espiculados, el crecimiento documentado, y una densidad significativa (no grasa o cálcica) son características altamente sugestivas de malignidad en un Nódulo Pulmonar Solitario (NPS)."
+    "respuesta_correcta": "c",
+    "justificacion": "La Hialuronidasa es una enzima que degrada el ácido hialurónico del tejido conectivo, facilitando la dispersión del contraste extravasado en el espacio intersticial y minimizando el daño tisular local."
   },
   {
     "id": 80,
-    "tema": "Gastrointestinal / TC",
-    "pregunta": "En la evaluación de la Colitis Isquémica por TC, ¿cuál es el hallazgo más representativo de la isquemia?",
+    "tema": "TC",
+    "pregunta": "¿Cuál es la principal ventaja de la Tomografía Computarizada (TC) sobre la Resonancia Magnética (RM) en el contexto de urgencias neurológicas?",
     "opciones": {
-      "a": "Engrosamiento del colon con realce mural nulo o muy disminuido.",
-      "b": "Neumobilia (aire en el árbol biliar).",
-      "c": "Múltiples divertículos en el sigmoides.",
-      "d": "Lipomatosis del íleon terminal."
+      "a": "Mayor detalle de partes blandas.",
+      "b": "Ausencia de radiación ionizante.",
+      "c": "Detección rápida de hemorragia aguda y disponibilidad.",
+      "d": "Mejor visualización de cartílago y ligamentos."
     },
-    "respuesta_correcta": "a",
-    "justificacion": "La isquemia severa causa un engrosamiento de la pared del colon debido al edema, pero, crucialmente, la falta de irrigación sanguínea se manifiesta como una ausencia o disminución significativa del realce de la pared con contraste IV."
+    "respuesta_correcta": "c",
+    "justificacion": "La TC es rápida, accesible 24/7 y la mejor modalidad para identificar hemorragia intracraneal aguda (hiperdensa) en el entorno de urgencias."
   },
   {
     "id": 81,
-    "tema": "RM / Contraste",
-    "pregunta": "El tipo de contraste a base de Gadolinio que tiene una excreción predominantemente biliar, siendo útil para caracterizar lesiones hepáticas, es:",
+    "tema": "Ecografía / Artefactos",
+    "pregunta": "En ecografía, el artefacto de 'sombra acústica' limpia que se proyecta detrás de una estructura (ej. un cálculo) es un indicador de:",
     "opciones": {
-      "a": "Contraste extracelular (ej. Gadopentetato dimeglumina).",
-      "b": "Contraste de alta relajación.",
-      "c": "Contraste hepatobiliar (ej. Gadoxetato disódico).",
-      "d": "Contraste superparamagnético de hierro."
+      "a": "Refuerzo acústico posterior.",
+      "b": "Reverberación.",
+      "c": "Transmisión incompleta o absorción total de la onda de ultrasonido.",
+      "d": "Artefacto de espejo."
     },
     "respuesta_correcta": "c",
-    "justificacion": "Los contrastes hepatobiliares (específicamente, Gadoxetato disódico o Primovist) son captados por los hepatocitos y excretados parcialmente por la bilis, permitiendo la evaluación de una fase hepatobiliar tardía que mejora la detección y caracterización de nódulos."
+    "justificacion": "La sombra acústica posterior ocurre cuando una estructura (cálculo, hueso) absorbe o refleja completamente las ondas de ultrasonido, impidiendo que el tejido posterior sea visualizado."
   },
   {
     "id": 82,
-    "tema": "Mama / Mamografía",
-    "pregunta": "La Mamografía de **Diagnóstico** está indicada en cuál de las siguientes situaciones:",
+    "tema": "Neuro-Imagen / RM",
+    "pregunta": "La secuencia RM **FLAIR** (Fluid-Attenuated Inversion Recovery) es útil porque:",
     "opciones": {
-      "a": "Mujer asintomática de 45 años para cribado.",
-      "b": "Evaluación inicial de un nódulo palpable o secreción patológica del pezón.",
-      "c": "Cribado anual en mujer de bajo riesgo.",
-      "d": "Diagnóstico de mastitis aguda."
+      "a": "Muestra mejor la hemorragia crónica.",
+      "b": "Suprime la señal del líquido cefalorraquídeo (LCR).",
+      "c": "Es la más rápida para obtener imágenes en urgencias.",
+      "d": "Solo detecta calcio."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La mamografía de diagnóstico se realiza en pacientes sintomáticas (nódulo, dolor localizado, secreción) y requiere proyecciones especializadas y magnificación, a diferencia de la mamografía de cribado (screening)."
+    "justificacion": "La secuencia FLAIR utiliza un pulso de inversión para anular selectivamente la señal del LCR, permitiendo que las lesiones periventriculares (ej. esclerosis múltiple) se vean mejor como hiperintensidades."
   },
   {
     "id": 83,
-    "tema": "Neuro-Imagen / Emergencia",
-    "pregunta": "En un paciente con traumatismo craneoencefálico, el **Hematoma Epidural Agudo** en TC se caracteriza por:",
+    "tema": "Urgencias / Trauma",
+    "pregunta": "En la evaluación inicial de un paciente con trauma abdominal cerrado hemodinámicamente inestable, la modalidad de imagen FAST (Focused Assessment with Sonography for Trauma) tiene como objetivo principal identificar:",
     "opciones": {
-      "a": "Forma cóncavo-convexa (lente biconvexa) que cruza las suturas.",
-      "b": "Forma cóncavo-convexa (lente biconvexa) que no cruza las suturas.",
-      "c": "Colección en forma de media luna que cruza las suturas.",
-      "d": "Afectación de la sustancia blanca profunda."
+      "a": "Fracturas vertebrales.",
+      "b": "Lesiones ligamentarias de la rodilla.",
+      "c": "Líquido libre (hemoperitoneo) en la cavidad abdominal y pericárdica.",
+      "d": "Neumotórax a tensión."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "El hematoma epidural está limitado por la adherencia de la duramadre a las suturas craneales, lo que le da su forma lenticular o biconvexa característica y le impide cruzar las suturas. Es hiperdenso si es agudo."
+    "respuesta_correcta": "c",
+    "justificacion": "El FAST es un examen ecográfico rápido que busca colecciones de líquido (generalmente sangre) en los espacios pericárdico, perihepático y periesplénico, indicando sangrado interno."
   },
   {
     "id": 84,
-    "tema": "Medicina Nuclear / Tiroides",
-    "pregunta": "En una gammagrafía tiroidea con I-131, un nódulo que **no capta** el radiotrazador ('nódulo frío') comparado con el tejido circundante es:",
+    "tema": "Seguridad / Radiación",
+    "pregunta": "Para evaluar la exposición del personal a la radiación ionizante, se utiliza un dosímetro, y la dosis efectiva se mide en:",
     "opciones": {
-      "a": "Típicamente benigno.",
-      "b": "Rara vez canceroso.",
-      "c": "Más sospechoso de malignidad (aunque la mayoría siguen siendo benignos).",
-      "d": "Un quiste simple."
+      "a": "Curie (Ci).",
+      "b": "Gray (Gy).",
+      "c": "Becquerel (Bq).",
+      "d": "Sievert (Sv)."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "Los nódulos fríos (no captantes) tienen una mayor probabilidad de malignidad (aproximadamente 15-20%) que los nódulos calientes (captantes), por lo que requieren mayor estudio (ej. PAAF)."
+    "respuesta_correcta": "d",
+    "justificacion": "El Sievert (Sv) es la unidad de dosis efectiva y dosis equivalente, que representa los efectos biológicos y el riesgo de la radiación ionizante en el cuerpo humano."
   },
   {
     "id": 85,
-    "tema": "Musculoesquelético / TC",
-    "pregunta": "La principal indicación de la **Tomografía Computarizada (TC)** sobre la Radiografía en el estudio de fracturas óseas es:",
+    "tema": "Contraste / TC",
+    "pregunta": "En la Angio-TC pulmonar (CTPA) para descartar Tromboembolismo Pulmonar (TEP), la patología se detecta por la presencia de:",
     "opciones": {
-      "a": "Evaluar el daño de partes blandas y ligamentos.",
-      "b": "Visualizar la configuración de fracturas complejas, especialmente intraarticulares.",
-      "c": "Detectar edema de médula ósea.",
-      "d": "Medir la densidad ósea (Densitometría)."
+      "a": "Realce homogéneo del parénquima pulmonar.",
+      "b": "Defectos de llenado hipodensos dentro de las arterias pulmonares.",
+      "c": "Atenuación grasa del mediastino.",
+      "d": "Bronquiectasias de tracción."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La TC ofrece una visión tridimensional y sin superposición, lo cual es esencial para comprender la extensión, el número de fragmentos y la afectación articular de fracturas complejas, lo que es crucial para la planificación quirúrgica."
+    "justificacion": "El TEP se visualiza como un defecto de llenado (hipodenso) en la luz de la arteria pulmonar o sus ramas, ya que el contraste administrado llena el vaso, pero no penetra el émbolo."
   },
   {
     "id": 86,
-    "tema": "Gastrointestinal / Abdomen Agudo",
-    "pregunta": "El hallazgo de **neumatosis intestinal** (gas en la pared intestinal) y gas en el sistema venoso portal en la TC abdominal de un adulto es altamente sugestivo de:",
+    "tema": "Musculoesquelético",
+    "pregunta": "En la evaluación de un esguince de tobillo grave (grado 3), la RM se recomienda para:",
     "opciones": {
-      "a": "Colecistitis enfisematosa.",
-      "b": "Enfermedad inflamatoria intestinal (EII).",
-      "c": "Isquemia mesentérica o enterocolitis necrotizante grave.",
-      "d": "Perforación gástrica simple."
+      "a": "Evaluar el grado de fractura de la tibia.",
+      "b": "Diagnosticar roturas completas de ligamentos (ej. ligamento peroneoastragalino anterior).",
+      "c": "Visualizar solo el derrame articular.",
+      "d": "Detectar osteomielitis crónica."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La neumatosis intestinal refleja la presencia de aire en la pared intestinal, a menudo causada por la destrucción de la mucosa debido a la isquemia (infarto intestinal), y es un signo grave que indica alta mortalidad."
+    "respuesta_correcta": "b",
+    "justificacion": "La RM es la mejor modalidad para evaluar y estadificar la lesión de partes blandas, incluyendo las roturas completas y parciales de los ligamentos, lo cual es crucial para planificar el tratamiento."
   },
   {
     "id": 87,
-    "tema": "Ecografía / Vascular",
-    "pregunta": "Para evaluar la **estenosis crítica** de la arteria carótida, el parámetro Doppler más importante que se mide es:",
+    "tema": "Pediatría / Neuro-Imagen",
+    "pregunta": "La modalidad de elección para la evaluación del cerebro en un recién nacido prematuro con sospecha de hemorragia intraventricular es:",
     "opciones": {
-      "a": "El grosor de la íntima-media.",
-      "b": "La velocidad pico sistólica (VPS) de la arteria carótida interna.",
-      "c": "El diámetro de la luz del vaso.",
-      "d": "La dirección del flujo sanguíneo."
+      "a": "Resonancia Magnética (RM) con sedación.",
+      "b": "Ecografía transfontanelar.",
+      "c": "Tomografía Computarizada (TC).",
+      "d": "Radiografía simple de cráneo."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La estenosis severa causa un aumento significativo de la velocidad del flujo en el punto más estrecho. La Velocidad Pico Sistólica (VPS) es el parámetro más confiable para clasificar el grado de estenosis carotídea."
+    "justificacion": "La Ecografía transfontanelar es la modalidad de elección en neonatos debido a su portabilidad, bajo costo, no radiación y excelente visualización del parénquima y ventrículos a través de la fontanela abierta."
   },
   {
     "id": 88,
-    "tema": "RX / Tórax",
-    "pregunta": "El signo radiológico de **'cifosis del hilio'** o agrandamiento hilar bilateral en la Radiografía de Tórax es un hallazgo clave en:",
+    "tema": "Ecografía / Limitaciones",
+    "pregunta": "¿Cuál es la principal limitación de la ecografía en la visualización de estructuras profundas del abdomen?",
     "opciones": {
-      "a": "Neumonía lobar.",
-      "b": "Sarcoidosis (adenopatías hiliares).",
-      "c": "Neumotórax a tensión.",
-      "d": "Fracturas costales."
+      "a": "El movimiento del paciente.",
+      "b": "La presencia de aire o gas intestinal y la obesidad.",
+      "c": "El uso de campos magnéticos.",
+      "d": "La baja resolución espacial."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La Sarcoidosis y la Tuberculosis son causas comunes de adenopatías hiliares y mediastínicas, siendo la adenopatía hilar bilateral el hallazgo más típico de la sarcoidosis en la RX de tórax."
+    "justificacion": "Las ondas de ultrasonido son reflejadas y dispersadas por el gas y son absorbidas por el tejido adiposo, lo que reduce drásticamente la penetración y calidad de la imagen en pacientes obesos o con meteorismo."
   },
   {
     "id": 89,
-    "tema": "RM / Columna",
-    "pregunta": "El hallazgo de una masa extradural que comprime el saco tecal y que es isointensa en T1 y T2 con realce homogéneo con contraste, en un paciente con dolor de espalda e historia de cáncer, sugiere:",
+    "tema": "Tórax / Radiografía",
+    "pregunta": "En la Radiografía de Tórax en bipedestación, el signo de 'surco profundo' (deep sulcus sign) en el hemidiafragma es altamente indicativo de:",
     "opciones": {
-      "a": "Hernia de disco protruida.",
-      "b": "Hematoma epidural.",
-      "c": "Metástasis epidural (compresión medular).",
-      "d": "Lipoma epidural."
+      "a": "Derrame pleural masivo.",
+      "b": "Neumonía basal derecha.",
+      "c": "Neumotórax.",
+      "d": "Atelectasia lobar."
     },
     "respuesta_correcta": "c",
-    "justificacion": "La metástasis extradural es la causa más común de compresión medular en adultos con cáncer. Estas lesiones suelen ser isointensas o hipointensas en T1 y realzan intensamente con contraste."
+    "justificacion": "El signo del surco profundo se produce cuando el aire de un neumotórax se acumula en el receso costodiafragmático, extendiéndose hacia abajo y adelante, deprimiendo el hemidiafragma."
   },
   {
     "id": 90,
-    "tema": "Gastrointestinal / RM",
-    "pregunta": "La técnica de imagen más sensible para evaluar la actividad y las complicaciones intramurales y transmurales de la **Enfermedad de Crohn** (ej. fístulas y abscesos) es:",
+    "tema": "RM / Artefactos",
+    "pregunta": "El artefacto más común y significativo en la RM, causado por la presencia de implantes metálicos ferromagnéticos (ej. clips quirúrgicos, prótesis), es:",
     "opciones": {
-      "a": "Colonoscopia.",
-      "b": "Radiografía simple de abdomen.",
-      "c": "Enterografía por Resonancia Magnética (Entero-RM).",
-      "d": "Ecografía simple abdominal."
+      "a": "Artefacto de aliasing (solapamiento).",
+      "b": "Artefacto de movimiento respiratorio.",
+      "c": "Artefacto de susceptibilidad magnética.",
+      "d": "Artefacto de volumen parcial."
     },
     "respuesta_correcta": "c",
-    "justificacion": "La Entero-RM combina la RM con la ingestión de contraste oral para distender el intestino. Es la mejor modalidad no invasiva para evaluar la extensión de la inflamación, el engrosamiento mural, la presencia de fístulas y abscesos perianales."
+    "justificacion": "Los objetos ferromagnéticos distorsionan el campo magnético local (susceptibilidad), lo que resulta en una gran distorsión geométrica y pérdida de señal (áreas negras) en la imagen de RM."
   },
   {
     "id": 91,
-    "tema": "Intervencionismo / Vascular",
-    "pregunta": "El procedimiento de imagen y terapéutico que consiste en la colocación de un stent para mantener permeable una vía biliar estenótica o maligna es:",
+    "tema": "Abdomen / TC",
+    "pregunta": "Para la evaluación de la fase arterial hepática o renal en un estudio de TC con contraste, ¿cuál es el tiempo de retardo (delay) típico después de la inyección de contraste?",
     "opciones": {
-      "a": "Colangiopancreatografía Retrógrada Endoscópica (CPRE).",
-      "b": "Colangiografía Percutánea Transhepática (CPT) con drenaje y/o stent.",
-      "c": "Ecografía abdominal.",
-      "d": "Angiografía simple."
+      "a": "180 segundos.",
+      "b": "20-30 segundos.",
+      "c": "60-90 segundos.",
+      "d": "10-15 minutos."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La CPT es un procedimiento intervencionista radiológico que permite la descompresión de la vía biliar (drenaje) y la colocación de prótesis (stents) a través de la piel y el hígado."
+    "justificacion": "La fase arterial requiere una adquisición muy rápida, típicamente entre 20 a 30 segundos, cuando el contraste está concentrado en las arterias antes de la distribución capilar."
   },
   {
     "id": 92,
-    "tema": "Musculoesquelético / Ecografía",
-    "pregunta": "En la evaluación ecográfica de un desgarro del tendón de Aquiles, el hallazgo ecográfico que confirma el diagnóstico de rotura parcial o total es:",
+    "tema": "Abdomen / Ecografía",
+    "pregunta": "¿Cuál es el criterio ecográfico principal para diagnosticar Colecistitis Aguda?",
     "opciones": {
-      "a": "Presencia de un calcáneo prominente.",
-      "b": "Engrosamiento hiperecoico del tendón sin solución de continuidad.",
-      "c": "Pérdida de la fibrilaridad normal del tendón con presencia de un defecto anecoico o hipoecoico (hematoma) que interrumpe las fibras.",
-      "d": "Aumento del flujo Doppler en el tendón."
+      "a": "Presencia de múltiples cálculos pequeños.",
+      "b": "Pared vesicular fina (< 3 mm).",
+      "c": "Signo de Murphy ecográfico positivo y engrosamiento de la pared vesicular (> 3 mm).",
+      "d": "Vesícula biliar pequeña y escleroatrófica."
     },
     "respuesta_correcta": "c",
-    "justificacion": "El tendón normal es fibrilar (rayas). Una rotura se manifiesta como una interrupción de estas fibras (solución de continuidad) llena de líquido (anecoico) o hematoma (hipoecoico)."
+    "justificacion": "La Colecistitis Aguda se caracteriza por dolor localizado (Murphy positivo al transductor) y signos inflamatorios como el engrosamiento de la pared de la vesícula biliar y, a menudo, líquido perivesicular. "
   },
   {
     "id": 93,
-    "tema": "RM / Trauma",
-    "pregunta": "El signo radiológico de 'lesiones por cizallamiento' (shear injuries) o **Axonal Diffuse Injury (DAI)** en RM se detecta mejor con la secuencia:",
+    "tema": "Tórax / Radiografía",
+    "pregunta": "En una Radiografía de Tórax posteroanterior, la **silueta cardíaca agrandada** (cardiomegalia) se define cuando el índice cardiotorácico es:",
     "opciones": {
-      "a": "T1 con contraste.",
-      "b": "T2-FLAIR.",
-      "c": "Susceptibilidad Magnética (SWI) para microhemorragias.",
-      "d": "Difusión (DWI) para edema."
+      "a": "Mayor al 40%.",
+      "b": "Mayor al 50%.",
+      "c": "Mayor al 60%.",
+      "d": "Menor al 50%."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "Las lesiones axonales difusas a menudo cursan con microhemorragias puntiformes en la unión corticosubcortical y el cuerpo calloso. La secuencia SWI es la más sensible para detectar estos depósitos de hemosiderina."
+    "respuesta_correcta": "b",
+    "justificacion": "El índice cardiotorácico (relación entre el diámetro cardíaco máximo y el diámetro torácico máximo) normal es < 0.5 (50%) en adultos. Un valor > 0.5 sugiere cardiomegalia (agrandamiento cardíaco)."
   },
   {
     "id": 94,
-    "tema": "Seguridad / RM",
-    "pregunta": "¿Cuál es el principal peligro biológico asociado al campo magnético principal de la RM (no al gradiente o RF)?",
+    "tema": "Contraste / Seguridad",
+    "pregunta": "¿Cuál es la medida preventiva más importante para evitar la **Nefropatía Inducida por Contraste (NIC)** en un paciente de alto riesgo que requiere una TC con contraste iodado?",
     "opciones": {
-      "a": "El ruido acústico (gradientes).",
-      "b": "El calentamiento de tejidos (radiofrecuencia).",
-      "c": "El efecto proyectil o desplazamiento de objetos ferromagnéticos.",
-      "d": "La inducción de corrientes eléctricas."
+      "a": "Administrar antibióticos profilácticos.",
+      "b": "Hidratación adecuada con solución salina antes y después del procedimiento.",
+      "c": "Uso de Gadolinio en lugar de contraste iodado.",
+      "d": "Administrar corticoides de rutina."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "El campo magnético estático muy potente puede atraer o convertir objetos ferromagnéticos en proyectiles, un peligro conocido como 'efecto misil' o 'efecto proyectil'."
+    "respuesta_correcta": "b",
+    "justificacion": "La hidratación intravenosa con solución salina es la medida más eficaz para prevenir la NIC, ya que promueve la diuresis y la dilución del contraste, reduciendo el tiempo de contacto tubular."
   },
   {
     "id": 95,
-    "tema": "Gastrointestinal / TC",
-    "pregunta": "El hallazgo de **'signo de la doble burbuja'** en la radiografía o TC de un neonato o lactante sugiere fuertemente:",
+    "tema": "RM / Física",
+    "pregunta": "¿Qué determina el contraste de la imagen en una secuencia **T1** ponderada de Resonancia Magnética?",
     "opciones": {
-      "a": "Perforación intestinal.",
-      "b": "Atresia duodenal u obstrucción alta completa.",
-      "c": "Estenosis pilórica.",
-      "d": "Enfermedad de Hirschsprung."
+      "a": "La atenuación del flujo sanguíneo.",
+      "b": "El tiempo de relajación longitudinal del tejido (T1).",
+      "c": "El tiempo de relajación transversal del tejido (T2).",
+      "d": "La densidad de protones."
     },
     "respuesta_correcta": "b",
-    "justificacion": "El signo de la doble burbuja representa aire en el estómago y en el duodeno proximal, separados por una atresia o estenosis completa distal. Es el signo radiológico clásico de la atresia duodenal."
+    "justificacion": "El contraste T1 está dominado por las diferencias en el tiempo que tarda la magnetización longitudinal de los protones en recuperarse. Los tejidos con T1 corto (como la grasa y el contraste) aparecen brillantes (hiperintensos)."
   },
   {
     "id": 96,
-    "tema": "Mama / Ecografía",
-    "pregunta": "Según el BI-RADS ecográfico, la característica que confiere mayor probabilidad de benignidad a un nódulo mamario es:",
+    "tema": "Abdomen / TC",
+    "pregunta": "En un paciente con Pancreatitis Aguda grave, ¿el hallazgo en TC que mejor correlaciona con la severidad y el pronóstico (criterios de Balthazar/MCTSI) es:",
     "opciones": {
-      "a": "Bordes espiculados.",
-      "b": "Microcalcificaciones.",
-      "c": "Masa sólida hipoecoica con sombra acústica.",
-      "d": "Masa anecoica, redonda u ovalada, con refuerzo acústico posterior."
+      "a": "Tamaño del páncreas.",
+      "b": "Grado de dilatación del conducto pancreático.",
+      "c": "Presencia y extensión de la necrosis pancreática y extrapancreática.",
+      "d": "Engrosamiento de la pared gástrica."
     },
-    "respuesta_correcta": "d",
-    "justificacion": "Una masa anecoica (líquido) con forma regular y refuerzo posterior cumple todos los criterios de un quiste simple, clasificado como BI-RADS 2 (definitivamente benigno)."
+    "respuesta_correcta": "c",
+    "justificacion": "La necrosis pancreática es el factor pronóstico más importante en la pancreatitis aguda. El score MCTSI (Modified CT Severity Index) se basa en la inflamación y la extensión de la necrosis."
   },
   {
     "id": 97,
-    "tema": "Sistema Urinario / TC",
-    "pregunta": "La característica más específica del **Angiomiolipoma (AML)** renal en la TC sin contraste es:",
+    "tema": "Tórax / TC",
+    "pregunta": "La característica más específica en la Tomografía Computarizada (TC) de alta resolución (TCAR) para el diagnóstico de **Enfisema Centrolobulillar** es:",
     "opciones": {
-      "a": "Calcificaciones centrales.",
-      "b": "Baja densidad (unidades Hounsfield negativas) debido a la presencia macroscópica de grasa.",
-      "c": "Realce intenso y homogéneo con contraste.",
-      "d": "Ausencia de realce."
+      "a": "Patrón en panal de abejas (honeycombing).",
+      "b": "Quistes subpleurales múltiples.",
+      "c": "Áreas de baja atenuación (destrucción) sin paredes visibles, predominantemente en lóbulos superiores.",
+      "d": "Engrosamiento liso del septo interlobulillar."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "El AML es una neoplasia renal benigna caracterizada por la presencia de tejido adiposo macroscópico, el cual tiene densidades negativas (ej. $-20$ a $-80$ HU), haciéndolo fácilmente identificable en TC sin contraste."
+    "respuesta_correcta": "c",
+    "justificacion": "El enfisema centrolobulillar, relacionado con el tabaquismo, se caracteriza por áreas de baja densidad (aire atrapado/destrucción de parénquima) que afectan la porción central del lóbulo secundario, sin una pared definible."
   },
   {
     "id": 98,
-    "tema": "Medicina Nuclear / TEP",
-    "pregunta": "En la evaluación oncológica con PET/CT (18F-FDG), el hallazgo de **captación de FDG en el tejido tiroideo** es siempre indicativo de:",
+    "tema": "Ecografía / Doppler",
+    "pregunta": "¿Para qué se utiliza principalmente el **Doppler color** en la ecografía?",
     "opciones": {
-      "a": "Metástasis tiroidea.",
-      "b": "Un Carcinoma Papilar de Tiroides.",
-      "c": "Una neoplasia maligna, no hay benignidad.",
-      "d": "Un hallazgo inespecífico que puede deberse a tiroiditis o cáncer."
+      "a": "Visualizar estructuras óseas.",
+      "b": "Medir la velocidad y dirección del flujo sanguíneo.",
+      "c": "Evaluar la composición química de los cálculos.",
+      "d": "Mejorar el contraste entre grasa y músculo."
     },
-    "respuesta_correcta": "d",
-    "justificacion": "La captación de FDG en el tiroides (incidentaloma) es un hallazgo inespecífico. Aunque puede ser maligno (aproximadamente 30-40% de probabilidad), la mayoría son procesos benignos como tiroiditis o bocio."
+    "respuesta_correcta": "b",
+    "justificacion": "El Doppler color mapea el flujo sanguíneo, usando colores (rojo o azul) para indicar la dirección (hacia o lejos del transductor) y el brillo para indicar la velocidad."
   },
   {
     "id": 99,
-    "tema": "Intervencionismo / Vascular",
-    "pregunta": "En la embolización de una arteria sangrante o de un tumor, el objetivo es **reducir o detener el flujo sanguíneo**. ¿Cuál es el material de embolización que se utiliza para lograr una oclusión permanente y distal del vaso?",
+    "tema": "RM / Artefactos",
+    "pregunta": "Un paciente con implantes dentales metálicos puede generar grandes zonas de pérdida de señal y distorsión en la RM cerebral, conocido como:",
     "opciones": {
-      "a": "Esponja de gelatina (Gelfoam).",
-      "b": "Microesferas esféricas (ej. PVA).",
-      "c": "Coils de platino (espirales metálicas).",
-      "d": "Balones de angioplastia."
+      "a": "Artefacto de Gibbs.",
+      "b": "Artefacto de susceptibilidad magnética.",
+      "c": "Artefacto de flujo.",
+      "d": "Artefacto de químico-shift (desplazamiento químico)."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Las microesferas y partículas (ej. PVA) son lo suficientemente pequeñas como para viajar a la periferia del lecho vascular, causando una oclusión distal permanente, ideal para la embolización de tumores o malformaciones vasculares."
+    "justificacion": "Los implantes metálicos crean campos magnéticos locales irregulares que distorsionan la señal de RM, resultando en áreas de vacío de señal (artefacto de susceptibilidad). "
   },
   {
     "id": 100,
-    "tema": "Ecografía / General",
-    "pregunta": "El término **'anecoico'** en ecografía se refiere a una estructura que:",
+    "tema": "Modalidad de Elección / Urgencias",
+    "pregunta": "¿Cuál es la modalidad de imagen de elección inicial para evaluar un dolor abdominal agudo en una mujer joven no embarazada con sospecha de apendicitis?",
     "opciones": {
-      "a": "Genera muchos ecos (blanca, como el hueso).",
-      "b": "No genera ecos (negra, como el líquido o la orina).",
-      "c": "Tiene una señal mixta (gris).",
-      "d": "Solo se visualiza con Doppler color."
+      "a": "Tomografía Computarizada (TC) abdominal con contraste IV.",
+      "b": "Radiografía simple de abdomen.",
+      "c": "Ecografía abdominal compresiva de fosa ilíaca derecha.",
+      "d": "Resonancia Magnética (RM) abdominal."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "Una estructura anecoica (sin ecos) es aquella que permite el paso libre del haz de ultrasonido sin reflejarlo, lo que resulta en un color negro en la imagen (ej. quistes llenos de líquido, vejiga, vesícula biliar)."
+    "respuesta_correcta": "c",
+    "justificacion": "La Ecografía se prefiere inicialmente en mujeres jóvenes para evitar la radiación y es muy sensible para apendicitis y patología ginecológica aguda, reservando la TC para casos dudosos."
   }
 ]

@@ -1,600 +1,6 @@
-{
-  "titulo": "Examen de Psiquiatría en Cuidados Críticos",
-  "instrucciones": "Seleccione la única opción correcta. Incluye cálculo de fármacos, ética y legislación de trasplantes.",
-  "preguntas": [
-    {
-      "id": 1,
-      "caso_clinico": "Adulto de 45 años, ingresado en UCI por sepsis. Desarrolla un cuadro de agitación psicomotriz aguda, desorientación y alucinaciones visuales que fluctúan a lo largo del día. Ha intentado retirarse las líneas IV.",
-      "pregunta": "¿Cuál es el diagnóstico psiquiátrico más probable y urgente en este contexto?",
-      "opciones": {
-        "a": "Esquizofrenia paranoide de inicio tardío.",
-        "b": "Trastorno de adaptación con ansiedad.",
-        "c": "Delirium (agudo y fluctuante).",
-        "d": "Demencia con síntomas conductuales."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Adulto - Delirium",
-      "justificacion": "El delirium se caracteriza por un inicio agudo y un curso fluctuante en la atención y la cognición, siendo la causa psiquiátrica más común en UCI."
-    },
-    {
-      "id": 2,
-      "caso_clinico": "Paciente adulto con Delirium hiperactivo. Se requiere sedación inmediata para asegurar la ventilación mecánica y prevenir el retiro de dispositivos. El paciente no tiene antecedentes cardíacos conocidos.",
-      "pregunta": "¿Cuál es el fármaco de elección para el tratamiento del Delirium hiperactivo en UCI?",
-      "opciones": {
-        "a": "Lorazepam IV.",
-        "b": "Haloperidol IV.",
-        "c": "Propofol en dosis bajas.",
-        "d": "Midazolam en infusión."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Adulto - Tratamiento del Delirium",
-      "justificacion": "El Haloperidol es el antipsicótico de primera línea para el Delirium, especialmente en la variante hiperactiva, debido a su bajo riesgo de depresión respiratoria."
-    },
-    {
-      "id": 3,
-      "caso_clinico": "Adulto de 60 kg en UCI con Delirium. Se decide administrar Haloperidol a una dosis inicial de 5 mg IV. La presentación de Haloperidol es de 5 mg/mL.",
-      "pregunta": "¿Cuántos mililitros (mL) de Haloperidol deben administrarse en este bolo?",
-      "opciones": {
-        "a": "0.5 mL.",
-        "b": "1.0 mL.",
-        "c": "2.0 mL.",
-        "d": "5.0 mL."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Adulto - Cálculo de Fármaco",
-      "justificacion": "Cálculo: Dosis requerida (5 mg) / Concentración (5 mg/mL) = 1.0 mL."
-    },
-    {
-      "id": 4,
-      "caso_clinico": "Neonato de 1.5 kg, prematuro, que se mantiene con ventilación mecánica. Desarrolla irritabilidad y llanto persistente a pesar de optimización del dolor no farmacológica.",
-      "pregunta": "¿Cuál es el estándar de oro para la evaluación y manejo del dolor en el neonato no verbalizado en UCI?",
-      "opciones": {
-        "a": "Escala de EVA (Visual Analogue Scale).",
-        "b": "Escala FLACC (Face, Legs, Activity, Cry, Consolability).",
-        "c": "Escala CRIES o NIPS (Neonatal Infant Pain Scale).",
-        "d": "Observación de signos vitales únicamente."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Neonato - Dolor y Evaluación",
-      "justificacion": "Escalas como CRIES o NIPS son específicas y validadas para la evaluación del dolor postoperatorio/procedimental en neonatos."
-    },
-    {
-      "id": 5,
-      "caso_clinico": "Paciente pediátrico (10 años) con insuficiencia respiratoria aguda y alto nivel de ansiedad. Muestra miedo a la cánula nasal y al personal. Requiere un ansiolítico para un procedimiento de toma de muestras.",
-      "pregunta": "¿Cuál es la intervención psicosocial/ambiental de primera línea para reducir la ansiedad en un niño crítico consciente?",
-      "opciones": {
-        "a": "Contención física estricta.",
-        "b": "Administración de un sedante potente.",
-        "c": "Presencia de los padres y terapia de juego/distracción.",
-        "d": "Aumento del volumen de la televisión."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Pediátrico - Ansiedad y Manejo No Farmacológico",
-      "justificacion": "El manejo no farmacológico, especialmente el apoyo familiar y la distracción, es la primera línea para la ansiedad pediátrica."
-    },
-    {
-      "id": 6,
-      "caso_clinico": "Se evalúa a un paciente adulto con Muerte Cerebral como donador potencial. La familia, por motivos religiosos, se opone a la donación. El paciente no había dejado constancia expresa de su voluntad en el INCUCAI.",
-      "pregunta": "¿Qué establece la Ley N° 27.447 (Ley Justina) respecto a la objeción familiar en la donación cadavérica de órganos en Argentina?",
-      "opciones": {
-        "a": "La objeción familiar siempre prevalece sobre la voluntad tácita del donante.",
-        "b": "La Ley establece la figura del **donante presunto**, donde todo mayor de 18 años es donante a menos que se manifieste expresamente lo contrario.",
-        "c": "Se requiere el consentimiento por escrito de al menos dos parientes directos para proceder con la donación.",
-        "d": "El comité de ética tiene la facultad de decidir sobre la donación, independientemente de la voluntad."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Legislación Argentina - Ley Justina y Consentimiento",
-      "justificacion": "La Ley Justina (27.447) establece el 'Donante Presunto', por lo que no se requiere la autorización de la familia, salvo que el donante haya dejado constancia expresa de su negativa a donar en vida."
-    },
-    {
-      "id": 7,
-      "caso_clinico": "Adulto en UCI con Delirium hipoactivo. Presenta somnolencia, apatía y falta de interacción con el ambiente, lo que retrasa el destete del ventilador.",
-      "pregunta": "¿Cuál es el principal riesgo asociado al Delirium hipoactivo en UCI?",
-      "opciones": {
-        "a": "Agitación y retiro de tubos.",
-        "b": "Mayor mortalidad y mayor tiempo de estancia en UCI.",
-        "c": "Convulsiones recurrentes.",
-        "d": "Hipertensión arterial grave."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Adulto - Delirium Hipoactivo",
-      "justificacion": "El Delirium hipoactivo es a menudo subdiagnosticado, pero se asocia con un peor pronóstico (mayor mortalidad y estancia)."
-    },
-    {
-      "id": 8,
-      "caso_clinico": "Neonato (2 kg) en UCI requiere sedación ligera con Fentanilo en infusión. Dosis objetivo 1 mcg/kg/h. Dilución: 50 mcg/mL.",
-      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Fentanilo?",
-      "opciones": {
-        "a": "0.02 mL/h.",
-        "b": "0.04 mL/h.",
-        "c": "0.2 mL/h.",
-        "d": "0.4 mL/h."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Neonato - Cálculo de Fármaco",
-      "justificacion": "Cálculo: Dosis total por hora (2 mcg/h) / Concentración (50 mcg/mL) = 0.04 mL/h."
-    },
-    {
-      "id": 9,
-      "caso_clinico": "Paciente pediátrico (14 años) previamente sano, ingresa por traumatismo grave y sedación profunda. Al despertar, muestra signos de un Trastorno de Estrés Postraumático (TEPT) agudo, con *flashbacks* y evitación.",
-      "pregunta": "¿Cuál es la intervención de primera línea para el TEPT agudo en el contexto de UCI?",
-      "opciones": {
-        "a": "Inicio inmediato de un ISRS (Inhibidor Selectivo de la Recaptura de Serotonina).",
-        "b": "Terapia Cognitivo-Conductual enfocada en el trauma.",
-        "c": "Medidas de reorientación y psicoeducación sobre la experiencia.",
-        "d": "Administración de Benzodiazepinas para el sueño."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Pediátrico - TEPT Post-UCI",
-      "justificacion": "El manejo inicial es la psicoeducación y el apoyo. Los ISRS se usan para el TEPT crónico."
-    },
-    {
-      "id": 10,
-      "caso_clinico": "Adulto con Muerte Cerebral. Se declara donador presunto. Los familiares solicitan al equipo de procuración saber la identidad del receptor de los órganos.",
-      "pregunta": "¿Qué principio ético fundamental de la donación de órganos en Argentina prohíbe esta revelación?",
-      "opciones": {
-        "a": "Principio de Trazabilidad y Vigilancia.",
-        "b": "Principio de Confidencialidad y Anonimato Recíproco.",
-        "c": "Principio de Bioética (Beneficencia y No Maleficencia).",
-        "d": "Principio de Equidad y Justicia."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Legislación Argentina - Principios Éticos de Donación",
-      "justificacion": "La ley Argentina, al igual que la mayoría de las legislaciones, protege la **Confidencialidad** de ambas partes, garantizando el **Anonimato Recíproco** para evitar cualquier tipo de vinculación o condicionamiento post-trasplante."
-    },
-    {
-      "id": 11,
-      "caso_clinico": "Adulto en UCI con ventilación mecánica. Se requiere mantener el monitoreo de la sedación y agitación. Se utiliza una escala validada.",
-      "pregunta": "¿Cuál es la escala de sedación y agitación más utilizada y validada para la monitorización en UCI?",
-      "opciones": {
-        "a": "Escala de Glasgow.",
-        "b": "Escala RASS (Richmond Agitation-Sedation Scale).",
-        "c": "Escala FOUR (Full Outline of UnResponsiveness).",
-        "d": "Escala de Ramsay."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Adulto - Evaluación de Sedación",
-      "justificacion": "La escala RASS es la preferida por su validez para evaluar tanto la agitación como la sedación."
-    },
-    {
-      "id": 12,
-      "caso_clinico": "Adulto de 70 kg, agitado, con Delirium. Se decide infusión de Dexmedetomidina. Dosis objetivo 0.5 mcg/kg/h. Dilución: 200 mcg en 50 mL.",
-      "pregunta": "¿A qué velocidad (mL/h) debe programarse la bomba de infusión de Dexmedetomidina?",
-      "opciones": {
-        "a": "8.75 mL/h.",
-        "b": "10.5 mL/h.",
-        "c": "17.5 mL/h.",
-        "d": "21.0 mL/h."
-      },
-      "respuesta_correcta": "a",
-      "tema": "Adulto - Cálculo de Fármaco",
-      "justificacion": "Cálculo: Dosis total por hora (35 mcg/h) / Concentración (4mcg/mL) = 8.75 mL/h."
-    },
-    {
-      "id": 13,
-      "caso_clinico": "Neonato (3 kg) con Síndrome de Abstinencia Neonatal (SAN) por exposición materna a opioides. Se requiere tratamiento farmacológico escalonado.",
-      "pregunta": "¿Cuál es el fármaco de primera línea para el tratamiento del SAN moderado a severo?",
-      "opciones": {
-        "a": "Clonidina.",
-        "b": "Metadona o Morfina.",
-        "c": "Fenobarbital.",
-        "d": "Benzodiazepinas."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Neonato - Síndrome de Abstinencia Neonatal",
-      "justificacion": "La Morfina o Metadona son el tratamiento estándar para el SAN por opioides."
-    },
-    {
-      "id": 14,
-      "caso_clinico": "Paciente pediátrico (6 años) con trauma cerebral grave. Al despertar de la sedación, presenta irritabilidad, impulsividad y labilidad emocional (Conducta tipo desinhibida).",
-      "pregunta": "¿Qué área cerebral, típicamente lesionada en el TCE, se relaciona con esta desregulación conductual?",
-      "opciones": {
-        "a": "Corteza Occipital.",
-        "b": "Ganglios Basales.",
-        "c": "Lóbulo Frontal y Vías Límbicas.",
-        "d": "Cerebelo."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Pediátrico - Neuropsiquiatría",
-      "justificacion": "El lóbulo frontal es responsable del control de impulsos y la regulación emocional."
-    },
-    {
-      "id": 15,
-      "caso_clinico": "Adulto en Muerte Cerebral. Se evalúa como donador potencial. El paciente tiene antecedente de una enfermedad mental grave (Esquizofrenia crónica).",
-      "pregunta": "¿La Esquizofrenia es una contraindicación absoluta para la donación de órganos sólidos (riñón, hígado) según la normativa argentina?",
-      "opciones": {
-        "a": "Sí, las enfermedades psiquiátricas graves siempre contraindican la donación.",
-        "b": "Sí, debido al riesgo de transmisión de patología neuropsiquiátrica al receptor.",
-        "c": "No, el antecedente de Esquizofrenia no es una contraindicación absoluta, solo si no hay otras contraindicaciones (ej. infección o cáncer activo).",
-        "d": "Solo si el paciente estaba bajo tratamiento con litio."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Legislación Argentina - Contraindicaciones de Donación",
-      "justificacion": "La Esquizofrenia (o la mayoría de las enfermedades mentales) no se considera una contraindicación absoluta para la donación de órganos, siempre que se descarte la presencia de infecciones o neoplasias que puedan ser transmitidas."
-    },
-    {
-      "id": 16,
-      "caso_clinico": "Adulto en UCI con antecedentes de Trastorno Bipolar. Desarrolla síntomas de manía (euforia, fuga de ideas, insomnio) que complican su manejo.",
-      "pregunta": "¿Cuál es el estabilizador del ánimo con mayor evidencia para el tratamiento de la manía aguda en el paciente UCI?",
-      "opciones": {
-        "a": "Litio (por su toxicidad renal y estrecho margen terapéutico).",
-        "b": "Carbamazepina.",
-        "c": "Valproato o Lamotrigina. (Se recomienda un antipsicótico atípico para la agitación aguda)",
-        "d": "Combinación de un antipsicótico (ej. Quetiapina) y Benzodiazepina."
-      },
-      "respuesta_correcta": "d",
-      "tema": "Adulto - Trastorno Bipolar",
-      "justificacion": "Para el control agudo en UCI, la combinación de un antipsicótico atípico con Benzodiazepinas para sedación es la más efectiva y rápida."
-    },
-    {
-      "id": 17,
-      "caso_clinico": "Paciente pediátrico (8 kg) con dolor intenso post-cirugía abdominal. Se decide iniciar Morfina en infusión continua a 20 mcg/kg/h. Dilución: 10 mg en 100 mL (0.1 mg/mL).",
-      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Morfina?",
-      "opciones": {
-        "a": "1.6 mL/h.",
-        "b": "8.0 mL/h.",
-        "c": "16.0 mL/h.",
-        "d": "32.0 mL/h."
-      },
-      "respuesta_correcta": "a",
-      "tema": "Pediátrico - Cálculo de Fármaco",
-      "justificacion": "Cálculo: Dosis total por hora (160 mcg/h) / Concentración (100 mcg/mL) = 1.6 mL/hs."
-    },
-    {
-      "id": 18,
-      "caso_clinico": "Neonato con Encefalopatía Hipóxico-Isquémica (EHI). Se inicia tratamiento con hipotermia terapéutica. Los padres presentan alta ansiedad y culpa.",
-      "pregunta": "¿Cuál es la intervención de apoyo más relevante para los padres de un neonato en UCI con pronóstico reservado?",
-      "opciones": {
-        "a": "Restricción de las visitas para no alterar al personal.",
-        "b": "Ofrecer información limitada para evitar preocupaciones.",
-        "c": "Comunicación abierta, clara y compasiva, con enfoque en la toma de decisiones compartida.",
-        "d": "Referencia inmediata a un psiquiatra."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Neonato - Intervención en Crisis Familiar",
-      "justificacion": "La comunicación efectiva y la toma de decisiones compartida son pilares en UCI pediátrica y neonatal."
-    },
-    {
-      "id": 19,
-      "caso_clinico": "Adulto con Shock Séptico. Se requiere asegurar la vía aérea. El paciente rechaza la intubación y pide morir con dignidad. El equipo médico considera que el paciente está en plenas facultades mentales.",
-      "pregunta": "¿Qué principio ético fundamental debe regir la decisión de intubar en este caso?",
-      "opciones": {
-        "a": "Beneficencia (hacer el bien).",
-        "b": "No Maleficencia (no hacer daño).",
-        "c": "Autonomía (respeto a la voluntad).",
-        "d": "Justicia (equidad)."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Adulto - Ética y Autonomía",
-      "justificacion": "La autonomía del paciente con capacidad de decisión prevalece sobre la beneficencia en decisiones de rechazo de tratamiento."
-    },
-    {
-      "id": 20,
-      "caso_clinico": "La Ley N° 27.447 de Argentina establece que la donación y el trasplante de órganos es un acto de **solidaridad**.",
-      "pregunta": "¿Qué prohibición específica se establece para garantizar la gratuidad y evitar el tráfico de órganos?",
-      "opciones": {
-        "a": "Prohibición de donación entre personas que no tienen un vínculo de parentesco (donante vivo no relacionado).",
-        "b": "Prohibición absoluta de indemnización por gastos de sepelio o traslado del donante.",
-        "c": "Prohibición de cualquier tipo de **compensación económica, retribución o $\\mathbf{\\text{comercialización}}$** de órganos.",
-        "d": "Prohibición de que el receptor pague los costos de la cirugía de trasplante, independientemente de su cobertura médica."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Legislación Argentina - Gratuidad de la Donación",
-      "justificacion": "La Ley prohíbe explícitamente y sanciona penalmente el comercio de órganos y cualquier retribución por la donación, siendo un acto desinteresado y gratuito."
-    },
-    {
-      "id": 21,
-      "caso_clinico": "Adulto en UCI con Delirium, presenta prolongación del intervalo QT en el ECG (por otras causas). Se requiere tratamiento urgente de la agitación.",
-      "pregunta": "¿Qué antipsicótico debe evitarse o usarse con extrema precaución en este paciente?",
-      "opciones": {
-        "a": "Quetiapina.",
-        "b": "Risperidona.",
-        "c": "Haloperidol.",
-        "d": "Olanzapina."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Adulto - Farmacología Psiquiátrica",
-      "justificacion": "El Haloperidol es el que tiene mayor riesgo de prolongación del intervalo QT y arritmias graves a dosis altas o en bolo IV."
-    },
-    {
-      "id": 22,
-      "caso_clinico": "Neonato (4 kg) con dolor. Se requiere una dosis única de Paracetamol a 15 mg/kg IV. La presentación es 10 mg/mL.",
-      "pregunta": "¿Cuántos mililitros (mL) de Paracetamol deben administrarse?",
-      "opciones": {
-        "a": "3.0 mL.",
-        "b": "6.0 mL.",
-        "c": "4.0 mL.",
-        "d": "10.0 mL."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Neonato - Cálculo de Fármaco",
-      "justificacion": "Cálculo: Dosis total requerida (60 mg) / Concentración (10 mg/mL) = 6.0 mL."
-    },
-    {
-      "id": 23,
-      "caso_clinico": "Paciente pediátrico (12 años) con un cuadro de Catatonia (inmovilidad, mutismo, negativismo) secundario a una encefalitis autoinmune. Se encuentra inmovilizado y con riesgo de complicaciones médicas.",
-      "pregunta": "¿Cuál es el tratamiento de primera línea para la Catatonia aguda?",
-      "opciones": {
-        "a": "Terapia electroconvulsiva (TEC) como única opción.",
-        "b": "Benzodiazepinas IV (ej. Lorazepam).",
-        "c": "Antipsicóticos de segunda generación.",
-        "d": "Morfina para el dolor."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Pediátrico - Catatonia",
-      "justificacion": "Las Benzodiazepinas (Lorazepam) son el tratamiento de primera línea para la Catatonia."
-    },
-    {
-      "id": 24,
-      "caso_clinico": "Adulto en UCI con riesgo de Delirium. Se implementa el 'Bundle ABCDEF' para la prevención y manejo.",
-      "pregunta": "¿Cuál de las siguientes acciones del *Bundle* se relaciona directamente con la prevención del Delirium?",
-      "opciones": {
-        "a": "Control estricto de la glucemia.",
-        "b": "Manejo óptimo del dolor y pruebas de despertar y respiración (A y B).",
-        "c": "Movilización temprana (E) y manejo de la medicación (F).",
-        "d": "Tanto b como c."
-      },
-      "respuesta_correcta": "d",
-      "tema": "Adulto - Prevención del Delirium",
-      "justificacion": "Las pruebas de despertar (A), el manejo de la sedación (B) y la movilización temprana (E) son pilares en la prevención."
-    },
-    {
-      "id": 25,
-      "caso_clinico": "Adulto en Muerte Cerebral. Se evalúa su estatus de donador. El paciente tiene antecedente de cáncer de piel no melanoma (Carcinoma Basocelular extirpado).",
-      "pregunta": "¿El antecedente de Carcinoma Basocelular (no melanoma) extirpado es una contraindicación para la donación de órganos sólidos según la normativa argentina?",
-      "opciones": {
-        "a": "Sí, cualquier cáncer previo o actual contraindica la donación de órganos.",
-        "b": "Solo los cánceres hematológicos y el melanoma son contraindicaciones absolutas.",
-        "c": "No, si el cáncer no tiene metástasis ni riesgo de diseminación al injerto, es generalmente aceptado para la donación de órganos.",
-        "d": "Solo contraindica la donación de piel y córneas."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Legislación Argentina - Contraindicaciones Oncológicas",
-      "justificacion": "Los cánceres de bajo riesgo metastásico, como el carcinoma basocelular, generalmente no contraindican la donación de órganos, aunque se requiere una evaluación exhaustiva por el equipo de procuración."
-    },
-    {
-      "id": 26,
-      "caso_clinico": "Adulto con antecedentes de abuso de alcohol. Ingresa a UCI y desarrolla Delirium Tremens (DT).",
-      "pregunta": "¿Cuál es el tratamiento de primera línea para el Delirium Tremens (DT)?",
-      "opciones": {
-        "a": "Haloperidol en bolo IV cada 4 horas.",
-        "b": "Benzodiazepinas IV (ej. Diazepam o Lorazepam) en dosis altas y tituladas.",
-        "c": "Tiamina IV y líquidos únicamente.",
-        "d": "Contención física y observación."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Adulto - Abstinencia de Alcohol",
-      "justificacion": "Las Benzodiazepinas son la base del tratamiento para el DT."
-    },
-    {
-      "id": 27,
-      "caso_clinico": "Paciente pediátrico (20 kg) requiere sedación con Propofol en infusión. Dosis objetivo 100 mcg/kg/min. La concentración es 10 mg/mL.",
-      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Propofol?",
-      "opciones": {
-        "a": "6.0 mL/h.",
-        "b": "12.0 mL/h.",
-        "c": "15.0 mL/h.",
-        "d": "20.0 mL/h."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Pediátrico - Cálculo de Fármaco",
-      "justificacion": "Cálculo: Dosis total por hora (120 mg/h) / Concentración (10 mg/mL) = 12.0 mL/h."
-    },
-    {
-      "id": 28,
-      "caso_clinico": "Neonato en UCI con ventilación mecánica. Desarrolla bradicardia y desaturación recurrente durante los procedimientos de aspiración.",
-      "pregunta": "¿Cuál es la medida farmacológica que se puede utilizar antes de procedimientos dolorosos en neonatos, si la analgesia basal no es suficiente?",
-      "opciones": {
-        "a": "Bolo de Diazepam.",
-        "b": "Soporte con cafeína.",
-        "c": "Sucrosa oral (como analgésico no farmacológico/fisiológico).",
-        "d": "Furosemida."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Neonato - Manejo del Dolor",
-      "justificacion": "La sucrosa oral es un método simple y efectivo para reducir el dolor en procedimientos menores en neonatos."
-    },
-    {
-      "id": 29,
-      "caso_clinico": "Adulto en UCI con riesgo de desarrollar Síndrome Serotoninérgico (debido al uso de ISRS y Fentanilo).",
-      "pregunta": "¿Cuál es la tríada clínica clásica del Síndrome Serotoninérgico?",
-      "opciones": {
-        "a": "Hiponatremia, QT corto, Nistagmo.",
-        "b": "Hipertermia, Disfunción Autonómica (ej. taquicardia), y Cambios Neuromusculares (ej. clonus).",
-        "c": "Hipotermia, Hipotensión, y Bradicardia.",
-        "d": "Trombocitopenia, Cefalea, y Diarrea."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Adulto - Farmacología Psiquiátrica",
-      "justificacion": "La tríada es la hipertermia, la hiperactividad autonómica y las alteraciones neuromusculares (principalmente clonus)."
-    },
-    {
-      "id": 30,
-      "caso_clinico": "Adulto con Muerte Cerebral, donante presunto por Ley N° 27.447. La familia se opone a la donación, argumentando que el paciente nunca se manifestó en vida.",
-      "pregunta": "¿Cuál es la disposición de la Ley N° 27.447 (Ley Justina) respecto a la manifestación de voluntad para la donación de órganos y tejidos en Argentina?",
-      "opciones": {
-        "a": "Se prioriza siempre la voluntad familiar, independientemente de la voluntad tácita del donante.",
-        "b": "Se establece el **consentimiento presunto**, donde solo una manifestación expresa de **negativa** ante el INCUCAI o Registro Civil es legalmente vinculante para no donar.",
-        "c": "Se requiere que el paciente haya firmado un acta de consentimiento expreso ante notario para que su voluntad sea respetada.",
-        "d": "La donación de tejidos (como córneas) no requiere de la manifestación de voluntad y solo puede ser autorizada por el Juez."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Legislación Argentina - Consentimiento Expreso",
-      "justificacion": "La Ley Justina prioriza el 'Donante Presunto', por lo que si el paciente no manifestó su negativa en vida, se presume la voluntad de donar. La objeción familiar no es vinculante."
-    },
-    {
-      "id": 31,
-      "caso_clinico": "Adulto en UCI con depresión mayor grave de inicio reciente, lo que dificulta la rehabilitación. La terapia psicológica no es suficiente.",
-      "pregunta": "¿Qué tipo de antidepresivo es generalmente el preferido para iniciar el tratamiento de la depresión en UCI, debido a su perfil de seguridad?",
-      "opciones": {
-        "a": "Antidepresivos tricíclicos (ATC), por su potencia.",
-        "b": "Inhibidores Selectivos de la Recaptura de Serotonina (ISRS) o IRSN (Inhibidores de la Recaptura de Serotonina y Norepinefrina).",
-        "c": "Inhibidores de la MAO (IMAO).",
-        "d": "Bupropión."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Adulto - Depresión en Críticos",
-      "justificacion": "Los ISRS y IRSN tienen un perfil de efectos secundarios más favorable en pacientes críticos que los ATC o IMAO."
-    },
-    {
-      "id": 32,
-      "caso_clinico": "Paciente pediátrico (15 kg) con hipertermia maligna. Se requiere un bolo de Dantroleno a 2.5 mg/kg IV. La presentación es 20 mg por vial (reconstituido en 60 mL para una concentración de 0.33 mg/mL).",
-      "pregunta": "¿Cuántos miligramos (mg) de Dantroleno deben administrarse en este bolo inicial?",
-      "opciones": {
-        "a": "15 mg.",
-        "b": "25 mg.",
-        "c": "37.5 mg.",
-        "d": "50 mg."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Pediátrico - Cálculo de Fármaco",
-      "justificacion": "Cálculo: Dosis requerida: 2.5 mg/kg x 15 kg = 37.5 mg."
-    },
-    {
-      "id": 33,
-      "caso_clinico": "Neonato en UCI con Encefalopatía Hipóxico-Isquémica (EHI). Se inicia tratamiento con hipotermia terapéutica. Los padres presentan alta ansiedad y culpa.",
-      "pregunta": "¿Cuál es el riesgo psicosocial a largo plazo de la hospitalización prolongada en UCI neonatal sin estimulación adecuada?",
-      "opciones": {
-        "a": "Desarrollo de TDAH.",
-        "b": "Retraso en el desarrollo psicomotor y apego.",
-        "c": "Inicio temprano de psicosis.",
-        "d": "Trastorno de identidad de género."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Neonato - Desarrollo Psicosocial",
-      "justificacion": "La falta de estimulación y la separación temprana afectan el desarrollo neurológico y el apego."
-    },
-    {
-      "id": 34,
-      "caso_clinico": "Adulto con Delirium. Se utilizan Benzodiazepinas para sedación. Se observa empeoramiento de la agitación y aparición de combatividad.",
-      "pregunta": "¿Qué efecto adverso psiquiátrico de las Benzodiazepinas podría estar ocurriendo?",
-      "opciones": {
-        "a": "Amnesia anterógrada.",
-        "b": "Efecto paradójico (agravamiento de la agitación).",
-        "c": "Síndrome serotoninérgico.",
-        "d": "Discinesia tardía."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Adulto - Farmacología Psiquiátrica",
-      "justificacion": "El efecto paradójico (agitación, combatividad) es un efecto adverso conocido de las Benzodiazepinas."
-    },
-    {
-      "id": 35,
-      "caso_clinico": "Adulto en Muerte Cerebral. El equipo médico debe certificar el fallecimiento según la normativa del INCUCAI y la Ley 27.447.",
-      "pregunta": "¿Qué criterio es fundamental, según la normativa argentina, para confirmar la irreversibilidad del cese de las funciones del tronco encefálico en el diagnóstico de Muerte Cerebral?",
-      "opciones": {
-        "a": "Un Electroencefalograma (EEG) plano que se mantenga por 24 horas.",
-        "b": "La ausencia de flujo sanguíneo cerebral demostrado por angiografía o doppler transcraneal.",
-        "c": "La constatación de la ausencia de respuesta a estímulos externos, la ausencia de reflejos de tronco y la realización de la **Prueba de Apnea** (ausencia de esfuerzo respiratorio a pesar de hipercapnia controlada).",
-        "d": "La decisión unánime de al menos tres médicos especialistas de diferentes áreas."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Legislación Argentina - Diagnóstico de Muerte Cerebral",
-      "justificacion": "La normativa argentina exige, entre otros, la ausencia de reflejos de tronco y la Pruebas de Apnea para la certificación del fallecimiento por criterios neurológicos. Debe ser realizada por dos médicos no vinculados al proceso de procuración."
-    },
-    {
-      "id": 36,
-      "caso_clinico": "Paciente pediátrico (5 años) con alta dependencia a la tecnología médica. Al ser dado de alta, presenta un fuerte rechazo a abandonar el entorno hospitalario.",
-      "pregunta": "¿Qué fenómeno psiquiátrico post-UCI describe el apego excesivo al hospital o a la enfermedad?",
-      "opciones": {
-        "a": "Depresión mayor.",
-        "b": "Nosocomialofobia.",
-        "c": "Regresión conductual.",
-        "d": "Síndrome de Münchausen."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Pediátrico - Psiquiatría Post-UCI",
-      "justificacion": "La nosocomialofobia es el miedo o rechazo a abandonar el hospital."
-    },
-    {
-      "id": 37,
-      "caso_clinico": "Adulto de 80 kg en Shock Séptico con agitación. Se decide iniciar una infusión de Propofol. Dosis de mantenimiento 40 mcg/kg/min. Concentración 10 mg/mL.",
-      "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Propofol?",
-      "opciones": {
-        "a": "11.52 mL/h.",
-        "b": "19.2 mL/h.",
-        "c": "24.0 mL/h.",
-        "d": "32.0 mL/h."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Adulto - Cálculo de Fármaco",
-      "justificacion": "Cálculo: Dosis total por hora (192 mg/h) / Concentración (10 mg/mL) = 19.2 mL/h."
-    },
-    {
-      "id": 38,
-      "caso_clinico": "Neonato con EHI. Se utiliza Fenobarbital para el manejo de las convulsiones subclínicas. Se requiere monitorizar la toxicidad del fármaco.",
-      "pregunta": "¿Cuál es el principal órgano de toxicidad que debe monitorizarse con el uso de Fenobarbital en neonatos?",
-      "opciones": {
-        "a": "Corazón (arritmias).",
-        "b": "Hígado (hepatotoxicidad).",
-        "c": "Riñón (insuficiencia renal).",
-        "d": "Pulmón (fibrosis)."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Neonato - Farmacología",
-      "justificacion": "El Fenobarbital es metabolizado por el hígado, y su toxicidad hepática es una preocupación."
-    },
-    {
-      "id": 39,
-      "caso_clinico": "Adulto en UCI con historia de TDAH. Requiere tratamiento para el Delirium.",
-      "pregunta": "¿Qué clase de fármaco (ej. Metilfenidato) debe evitarse en el tratamiento del Delirium por su potencial de empeoramiento?",
-      "opciones": {
-        "a": "Antidepresivos ISRS.",
-        "b": "Estabilizadores del ánimo.",
-        "c": "Estimulantes del SNC (Sistema Nervioso Central).",
-        "d": "Antipsicóticos de segunda generación."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Adulto - Contraindicaciones Farmacológicas",
-      "justificacion": "Los estimulantes pueden exacerbar la agitación y los síntomas psicóticos del Delirium."
-    },
-    {
-      "id": 40,
-      "caso_clinico": "Adulto con una enfermedad terminal irreversible, sin Muerte Cerebral, que ha expresado en vida la voluntad de donar. La familia solicita el retiro del soporte vital para la donación después del cese circulatorio.",
-      "pregunta": "¿La Donación después de la Muerte Circulatoria (DMC) está regulada y permitida en Argentina?",
-      "opciones": {
-        "a": "No, la legislación argentina solo permite la donación de órganos de donantes con Muerte Cerebral.",
-        "b": "Sí, la Ley 27.447 (Ley Justina) incluyó la regulación de los programas de **Donación con Criterios de Muerte Circulatoria (DMC)** en todo el territorio nacional, siendo el **riñón y el hígado** los órganos más frecuentes.",
-        "c": "La DMC es legal solo para la donación de tejidos, no de órganos sólidos.",
-        "d": "Es legal, pero solo si el paciente es menor de 18 años."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Legislación Argentina - Donación después de Muerte Circulatoria (DMC)",
-      "justificacion": "La Ley 27.447 de Argentina incorporó la regulación de los programas de Donación con Criterios de Muerte Circulatoria (DMC) siguiendo estándares internacionales, ampliando así la base de donantes. El riñón y el hígado son los órganos más frecuentemente procurados en estos casos."
-    },
-    {
-      "id": 41,
-      "caso_clinico": "Adulto con Delirium hipoactivo. Se decide iniciar Quetiapina. La dosis inicial es de 25 mg VO. La presentación es tabletas de 25 mg.",
-      "pregunta": "¿Cuál es el principal efecto adverso que debe monitorizarse con el inicio de la Quetiapina en UCI?",
-      "opciones": {
-        "a": "Priapismo.",
-        "b": "Hipertensión severa.",
-        "c": "Hipotensión ortostática y sedación excesiva.",
-        "d": "Hiperactividad."
-      },
-      "respuesta_correcta": "c",
-      "tema": "Adulto - Farmacología Psiquiátrica",
-      "justificacion": "La Quetiapina es un potente bloqueador alpha-adrenérgico, causando hipotensión y sedación."
-    },
-    {
-      "id": 42,
-      "caso_clinico": "Paciente pediátrico (10 kg) con dolor por quemaduras graves. Se requiere Bolo IV de Fentanilo a 1 mcg/kg. La presentación es 50 mcg/mL.",
-      "pregunta": "¿Cuántos mililitros (mL) de Fentanilo deben administrarse en este bolo?",
-      "opciones": {
-        "a": "0.1 mL.",
-        "b": "0.2 mL.",
-        "c": "0.5 mL.",
-        "d": "1.0 mL."
-      },
-      "respuesta_correcta": "b",
-      "tema": "Pediátrico - Cálculo de Fármaco",
-      "justificacion": "Cálculo: Dosis requerida (10 mcg) / Concentración (50 mcg/mL) = 0.2 mL."
-    }
-  ]
-}
 [
   {
-    "id": 43,
+    "id": 1,
     "caso_clinico": "Neonato con SAN. Se utiliza la escala de Finnegan para cuantificar la severidad de la abstinencia.",
     "pregunta": "¿Qué tipo de síntomas son los más valorados en la escala de Finnegan para decidir el inicio de tratamiento?",
     "opciones": {
@@ -608,7 +14,7 @@
     "justificacion": "La escala de Finnegan evalúa principalmente síntomas del SNC, GI y respiratorios."
   },
   {
-    "id": 44,
+    "id": 2,
     "caso_clinico": "Adulto en UCI con riesgo de Delirium. Se utiliza la escala CAM-ICU (Confusion Assessment Method for ICU) para el cribado.",
     "pregunta": "¿Cuál es la característica esencial de la CAM-ICU que permite su uso en pacientes sedados y ventilados?",
     "opciones": {
@@ -622,7 +28,7 @@
     "justificacion": "La CAM-ICU es ideal para UCI porque requiere la evaluación del nivel de conciencia (RASS) y la inatención, que son evaluables en pacientes no verbales."
   },
   {
-    "id": 45,
+    "id": 3,
     "caso_clinico": "Adulto con Muerte Encefálica. Los familiares se oponen a la donación, argumentando que viola el derecho a la integridad del cadáver.",
     "pregunta": "Según la **Ley Justina (N° 27.447)**, en Argentina, ¿cuál es la principal característica del consentimiento para la donación de órganos?",
     "opciones": {
@@ -636,7 +42,7 @@
     "justificacion": "La Ley Justina (27.447) establece el principio de 'Donante Presunto', donde toda persona mayor de 18 años es donante si no manifiesta su negativa en vida. La familia solo puede testimoniar la voluntad, pero no oponerse a un consentimiento presunto."
   },
   {
-    "id": 46,
+    "id": 4,
     "caso_clinico": "Adulto en UCI con riesgo de Delirium. Se utiliza la escala CAM-ICU (Confusion Assessment Method for ICU) para el cribado.",
     "pregunta": "¿Cuál es la intervención psiquiátrica inicial recomendada para el manejo de la manipulación y la inestabilidad en pacientes con TLP en UCI?",
     "opciones": {
@@ -650,7 +56,7 @@
     "justificacion": "La consistencia y el establecimiento de límites son cruciales en el manejo del TLP."
   },
   {
-    "id": 47,
+    "id": 5,
     "caso_clinico": "Paciente pediátrico (4 años) con Delirium hipoactivo postoperatorio. No hay respuesta a las medidas no farmacológicas.",
     "pregunta": "¿Qué antipsicótico atípico se utiliza comúnmente para el Delirium pediátrico, dada su buena tolerabilidad?",
     "opciones": {
@@ -664,7 +70,7 @@
     "justificacion": "La Risperidona y la Olanzapina son antipsicóticos atípicos utilizados fuera de etiqueta en el Delirium pediátrico."
   },
   {
-    "id": 48,
+    "id": 6,
     "caso_clinico": "Neonato (2.5 kg) en UCI requiere un bolo de Midazolam a 0.1 mg/kg IV. La presentación es 5 mg/mL.",
     "pregunta": "¿Cuántos mililitros (mL) de Midazolam deben administrarse en este bolo?",
     "opciones": {
@@ -678,7 +84,7 @@
     "justificacion": "Cálculo: Dosis requerida (2.5 kg * 0.1 mg/kg = 0.25 mg). Volumen = Dosis/Concentración = 0.25 mg / 5 mg/mL = 0.05 mL."
   },
   {
-    "id": 49,
+    "id": 7,
     "caso_clinico": "Adulto con Delirium. Se asocia el uso de Benzodiazepinas para sedación como un factor de riesgo independiente.",
     "pregunta": "¿Cuál es la mejor práctica para evitar el Delirium en pacientes críticos ventilados?",
     "opciones": {
@@ -692,7 +98,7 @@
     "justificacion": "La sedación ligera y la interrupción diaria (Despertar y Respirar) son las mejores estrategias de prevención."
   },
   {
-    "id": 50,
+    "id": 8,
     "caso_clinico": "Adulto con Muerte Encefálica. Se decide avanzar en el proceso de donación de órganos, según la Ley N° 27.447.",
     "pregunta": "¿Qué equipo médico, según la normativa argentina, debe realizar la certificación de la Muerte Encefálica?",
     "opciones": {
@@ -706,7 +112,7 @@
     "justificacion": "El Artículo 24 de la Ley 27.447 exige que el diagnóstico sea realizado por dos médicos, uno de ellos neurólogo o neurocirujano, y que **ninguno** de ellos forme parte del equipo de ablación o trasplante, garantizando la independencia."
   },
   {
-    "id": 51,
+    "id": 9,
     "caso_clinico": "Adulto con Shock Séptico. Desarrolla un Delirium hiperactivo. Se utiliza Haloperidol, pero el paciente sigue agitado y presenta rigidez muscular, fiebre y CPK elevada.",
     "pregunta": "¿Qué diagnóstico psiquiátrico urgente (asociado a fármacos) se debe sospechar?",
     "opciones": {
@@ -720,7 +126,7 @@
     "justificacion": "La tríada de rigidez, hipertermia y CPK elevada tras el uso de antipsicóticos sugiere SNM."
   },
   {
-    "id": 52,
+    "id": 10,
     "caso_clinico": "Paciente pediátrico (7 años) con crisis de ansiedad severa por separación de sus padres. Se requiere un ansiolítico oral para reducir la ansiedad antes de un procedimiento.",
     "pregunta": "¿Cuál es la Benzodiazepina oral de elección para la sedación pre-procedimiento en niños?",
     "opciones": {
@@ -734,7 +140,7 @@
     "justificacion": "El Midazolam oral es ampliamente utilizado por su rápido inicio y corta duración, ideal para procedimientos."
   },
   {
-    "id": 53,
+    "id": 11,
     "caso_clinico": "Neonato (4.5 kg) con dolor persistente. Se requiere administrar Morfina en bolo a 100 mcg/kg IV. La presentación es 1 mg/mL.",
     "pregunta": "¿Cuántos mililitros (mL) de Morfina deben administrarse en este bolo?",
     "opciones": {
@@ -748,7 +154,7 @@
     "justificacion": "Cálculo: Dosis requerida (4.5 kg * 100 mcg/kg = 450 mcg). Concentración: 1 mg/mL = 1000 mcg/mL. Volumen = 450 mcg / 1000 mcg/mL = 0.45 mL."
   },
   {
-    "id": 54,
+    "id": 12,
     "caso_clinico": "Adulto con Delirium y Muerte Cerebral inminente. El equipo médico sospecha que el Delirium fue un síntoma de una enfermedad psiquiátrica grave previa.",
     "pregunta": "¿La presencia de un Delirium siempre implica que el paciente tiene una enfermedad psiquiátrica primaria?",
     "opciones": {
@@ -762,7 +168,7 @@
     "justificacion": "El Delirium es la alteración de la conciencia y la cognición secundaria a una etiología médica o farmacológica."
   },
   {
-    "id": 55,
+    "id": 13,
     "caso_clinico": "La Ley 27.447 sobre Trasplante de Órganos, Tejidos y Células en Argentina regula la trazabilidad en el proceso de donación y trasplante.",
     "pregunta": "¿Cuál es el principal objetivo del **Instituto Nacional Central Único Coordinador de Ablación e Implante (INCUCAI)** respecto al seguimiento de órganos en Argentina?",
     "opciones": {
@@ -776,7 +182,7 @@
     "justificacion": "El INCUCAI regula el proceso de donación/trasplante, asegurando la transparencia (trazabilidad) y el **anonimato** entre donante y receptor, según el Artículo 51 y otros concordantes de la Ley 27.447."
   },
   {
-    "id": 56,
+    "id": 14,
     "caso_clinico": "Adulto en UCI con Síndrome de Abstinencia a Benzodiazepinas (SAB). Presenta taquicardia, sudoración y ansiedad grave. Se requiere reinicio del tratamiento.",
     "pregunta": "¿Cuál es la estrategia farmacológica más segura y efectiva para el SAB en UCI?",
     "opciones": {
@@ -790,7 +196,7 @@
     "justificacion": "La base del tratamiento es reponer la Benzodiazepina y realizar un destete lento."
   },
   {
-    "id": 57,
+    "id": 15,
     "caso_clinico": "Paciente pediátrico (30 kg) con Depresión Mayor Grave que complica la recuperación. Se decide iniciar Sertralina (ISRS) a 25 mg/día. La presentación es tabletas de 50 mg.",
     "pregunta": "¿Cuántas tabletas de 50 mg y qué fracción se deben administrar para la dosis inicial?",
     "opciones": {
@@ -804,7 +210,7 @@
     "justificacion": "Cálculo: Dosis requerida (25 mg) / Presentación (50 mg/tableta) = 0.5 tableta (media tableta)."
   },
   {
-    "id": 58,
+    "id": 16,
     "caso_clinico": "Neonato en UCI con dolor refractario. El equipo médico está debatiendo el uso de bloqueos regionales.",
     "pregunta": "¿Cuál es el riesgo psicosocial a largo plazo de los analgésicos opioides a largo plazo en el neonato?",
     "opciones": {
@@ -818,7 +224,7 @@
     "justificacion": "El uso prolongado de opioides en el cerebro en desarrollo se asocia a peores resultados en el neurodesarrollo."
   },
   {
-    "id": 59,
+    "id": 17,
     "caso_clinico": "Adulto con Delirium hiperactivo. El paciente se encuentra tan agitado que el riesgo de daño es inminente. El equipo considera la contención física.",
     "pregunta": "¿Cuál es el principio ético que establece que la contención física debe ser la **última medida**?",
     "opciones": {
@@ -832,7 +238,7 @@
     "justificacion": "La contención física, aunque a veces necesaria, es una medida restrictiva que implica riesgo de daño (No Maleficencia)."
   },
   {
-    "id": 60,
+    "id": 18,
     "caso_clinico": "Adulto con Muerte Encefálica. Los familiares cuestionan la gratuidad, preguntando si el hospital obtiene algún beneficio económico.",
     "pregunta": "¿Qué establece la **Ley Justina (N° 27.447)** sobre el lucro y los costos en la donación de órganos en Argentina?",
     "opciones": {
@@ -846,7 +252,7 @@
     "justificacion": "La ley argentina (Art. 4) establece que la donación y el trasplante son un acto **altruista** y está estrictamente **prohibida la comercialización** de órganos y tejidos. El receptor cubre los gastos de la práctica médica y hospitalaria, pero no paga por el órgano en sí."
   },
   {
-    "id": 61,
+    "id": 19,
     "caso_clinico": "Adulto con Delirium hipoactivo. Se identifica la interrupción del ciclo sueño-vigilia como un factor contribuyente.",
     "pregunta": "¿Cuál es la intervención ambiental de primera línea para mejorar el ciclo sueño-vigilia en UCI?",
     "opciones": {
@@ -860,7 +266,7 @@
     "justificacion": "Las medidas ambientales que restauran los ritmos circadianos son esenciales para prevenir el Delirium."
   },
   {
-    "id": 62,
+    "id": 20,
     "caso_clinico": "Neonato (3 kg) con SAN. Se requiere infusión de Fenobarbital a 5 mg/kg/día. La dilución es 50 mg en 50 mL.",
     "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Fenobarbital para administrar la dosis diaria en 24 horas?",
     "opciones": {
@@ -874,7 +280,7 @@
     "justificacion": "Cálculo: Dosis total por día (3 kg * 5 mg/kg = 15 mg). Concentración: 50 mg/50 mL = 1 mg/mL. Volumen total: 15 mL (para 15 mg). Velocidad: 15 mL / 24 h = 0.625 mL/h."
   },
   {
-    "id": 63,
+    "id": 21,
     "caso_clinico": "Paciente pediátrico (16 años) con intento de suicidio. El paciente se recupera, pero rechaza la evaluación psiquiátrica y el traslado a Psiquiatría.",
     "pregunta": "¿Bajo qué principio legal y ético se puede realizar la evaluación psiquiátrica en contra de la voluntad de un menor de edad (legalmente considerado menor) con riesgo suicida?",
     "opciones": {
@@ -888,7 +294,7 @@
     "justificacion": "El paternalismo médico justifica la intervención forzosa ante riesgo inminente en menores de edad."
   },
   {
-    "id": 64,
+    "id": 22,
     "caso_clinico": "Adulto con Delirium. Se sospecha de Síndrome Serotoninérgico. Se requiere un antídoto.",
     "pregunta": "¿Cuál es el antídoto de elección para el Síndrome Serotoninérgico?",
     "opciones": {
@@ -902,7 +308,7 @@
     "justificacion": "La Ciproheptadina es el tratamiento específico para el Síndrome Serotoninérgico."
   },
   {
-    "id": 65,
+    "id": 23,
     "caso_clinico": "Un paciente en Asistolia se considera como Donante a Corazón Parado (DCP). El equipo debe priorizar la protección de los órganos.",
     "pregunta": "¿Cuál es el factor principal que afecta directamente la viabilidad de los órganos sólidos en la Donación a Corazón Parado (DCP)?",
     "opciones": {
@@ -916,7 +322,7 @@
     "justificacion": "La isquemia caliente, es decir, el tiempo que los órganos están sin flujo sanguíneo y a temperatura corporal, es el factor más crítico y limitante para la viabilidad de los órganos tras la Asistolia (DCP), un tipo de donación que es regulada y practicada en Argentina."
   },
   {
-    "id": 66,
+    "id": 24,
     "caso_clinico": "Adulto en UCI con insomnio severo no relacionado con el Delirium. Se requiere un hipnótico con bajo riesgo de efectos adversos en UCI.",
     "pregunta": "¿Cuál es el hipnótico no benzodiazepínico con menor riesgo de Delirium en pacientes críticos?",
     "opciones": {
@@ -930,7 +336,7 @@
     "justificacion": "La Trazodona se utiliza a menudo por su mecanismo dual y bajo riesgo de promover Delirium."
   },
   {
-    "id": 67,
+    "id": 25,
     "caso_clinico": "Neonato (2 kg) en UCI con dependencia física a los opioides por tratamiento prolongado. Se inicia un destete lento del opioide.",
     "pregunta": "¿Cuál es la tasa recomendada de reducción semanal del opioide para un destete seguro en neonatos?",
     "opciones": {
@@ -944,7 +350,7 @@
     "justificacion": "El destete lento (10-20% por semana) es esencial para prevenir el síndrome de abstinencia."
   },
   {
-    "id": 68,
+    "id": 26,
     "caso_clinico": "Paciente pediátrico (25 kg) con agitación extrema. Se requiere un bolo de Lorazepam a 0.1 mg/kg IV. La presentación es 2 mg/mL.",
     "pregunta": "¿Cuántos mililitros (mL) de Lorazepam deben administrarse en este bolo?",
     "opciones": {
@@ -958,7 +364,7 @@
     "justificacion": "Cálculo: Dosis requerida (25 kg * 0.1 mg/kg = 2.5 mg). Volumen = 2.5 mg / 2 mg/mL = 1.25 mL."
   },
   {
-    "id": 69,
+    "id": 27,
     "caso_clinico": "Adulto con Delirium. Se utiliza la CAM-ICU. El paciente es evaluado como RASS -1.",
     "pregunta": "¿Qué significa RASS -1 en el contexto de la evaluación del Delirium?",
     "opciones": {
@@ -972,7 +378,7 @@
     "justificacion": "RASS -1 indica somnolencia leve, pero reactividad al estímulo verbal."
   },
   {
-    "id": 70,
+    "id": 28,
     "caso_clinico": "Un paciente requiere un trasplante de corazón urgente. Se le da prioridad en la lista nacional de trasplantes gestionada por el INCUCAI.",
     "pregunta": "¿Qué principio ético y legal es el más relevante en la distribución de órganos y la priorización de pacientes según la normativa argentina?",
     "opciones": {
@@ -986,7 +392,7 @@
     "justificacion": "La distribución de órganos se rige por el principio de **Justicia Distributiva**, implementada por el INCUCAI a través de criterios de equidad, gravedad del receptor, compatibilidad biológica y antigüedad en lista, con un sistema único y público (Ley 27.447, Art. 36)."
   },
   {
-    "id": 71,
+    "id": 29,
     "caso_clinico": "Adulto en UCI con historia de TOC. Presenta rituales de lavado de manos que interfieren con los cuidados.",
     "pregunta": "¿Cuál es la clase de fármacos de primera línea para el TOC?",
     "opciones": {
@@ -1000,7 +406,7 @@
     "justificacion": "Los ISRS en dosis más altas que para la Depresión son el tratamiento de primera línea."
   },
   {
-    "id": 72,
+    "id": 30,
     "caso_clinico": "Paciente pediátrico (15 años) con TEPT post-UCI. El paciente se niega a hablar de su experiencia.",
     "pregunta": "¿Qué técnica de terapia psicológica es la base del tratamiento del TEPT?",
     "opciones": {
@@ -1014,7 +420,7 @@
     "justificacion": "Las terapias basadas en la exposición y el reprocesamiento son las más efectivas."
   },
   {
-    "id": 73,
+    "id": 31,
     "caso_clinico": "Neonato (3.5 kg) requiere infusión de Dopamina para soporte hemodinámico a 5 mcg/kg/min. Dilución: 200 mg en 100 mL.",
     "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Dopamina?",
     "opciones": {
@@ -1028,7 +434,7 @@
     "justificacion": "Cálculo: Concentración (C) = 200 mg/100 mL = 2 mg/mL = 2000 mcg/mL. Dosis Requerida (DR) = 5 mcg/kg/min * 3.5 kg * 60 min/h = 1050 mcg/h. Velocidad (V) = DR/C = 1050 mcg/h / 2000 mcg/mL = 0.525 mL/h."
   },
   {
-    "id": 74,
+    "id": 32,
     "caso_clinico": "Adulto con Delirium persistente. Se le administra Rivastigmina (inhibidor de la colinesterasa) experimentalmente.",
     "pregunta": "¿Cuál es la principal justificación para el uso de inhibidores de la colinesterasa en el Delirium?",
     "opciones": {
@@ -1042,7 +448,7 @@
     "justificacion": "La hipótesis colinérgica del Delirium sugiere que su causa es un déficit de Acetilcolina."
   },
   {
-    "id": 75,
+    "id": 33,
     "caso_clinico": "Adulto con Muerte Encefálica y consentimiento presunto. Los familiares se oponen, pese a no haber manifestación expresa negativa del donante en vida.",
     "pregunta": "Según la **Ley Justina**, ¿cuál es la implicancia legal de la falta de manifestación expresa de la voluntad del fallecido para la donación?",
     "opciones": {
@@ -1056,7 +462,7 @@
     "justificacion": "La Ley 27.447 (Art. 41) establece la figura de donante presunto. Si la persona no ha dejado constancia de su negativa, se presume el consentimiento. En estos casos, la oposición familiar no puede anular la voluntad legalmente presumida del donante."
   },
   {
-    "id": 76,
+    "id": 34,
     "caso_clinico": "Adulto con Delirium en UCI. El paciente tiene antecedentes de Depresión Mayor.",
     "pregunta": "¿Cuál es la principal diferencia entre Delirium y Depresión en UCI?",
     "opciones": {
@@ -1070,7 +476,7 @@
     "justificacion": "La alteración de la conciencia y la inatención son los criterios centrales del Delirium."
   },
   {
-    "id": 77,
+    "id": 35,
     "caso_clinico": "Paciente pediátrico (10 kg) con TCE y dolor. Se requiere un bolo IV de Ketamina a 1 mg/kg. La presentación es 50 mg/mL.",
     "pregunta": "¿Cuántos mililitros (mL) de Ketamina deben administrarse en este bolo?",
     "opciones": {
@@ -1084,7 +490,7 @@
     "justificacion": "Cálculo: Dosis requerida (10 kg * 1 mg/kg = 10 mg). Volumen = 10 mg / 50 mg/mL = 0.2 mL."
   },
   {
-    "id": 78,
+    "id": 36,
     "caso_clinico": "Neonato prematuro, sometido a múltiples procedimientos dolorosos en UCI.",
     "pregunta": "¿Cuál es el riesgo psiquiátrico a largo plazo de la exposición repetida al dolor sin analgesia adecuada en la vida neonatal?",
     "opciones": {
@@ -1098,7 +504,7 @@
     "justificacion": "El dolor no tratado altera las vías nociceptivas y de estrés a largo plazo."
   },
   {
-    "id": 79,
+    "id": 37,
     "caso_clinico": "Adulto con Muerte Encefálica. Los familiares desean que el paciente permanezca conectado por razones sentimentales, a pesar de la certeza del diagnóstico.",
     "pregunta": "¿Qué principio ético es prioritario cuando la prolongación del soporte vital no ofrece beneficio al paciente (futilidad terapéutica)?",
     "opciones": {
@@ -1112,7 +518,7 @@
     "justificacion": "La prolongación inútil del soporte es considerada encarnizamiento terapéutico (Distansia), violando la no maleficencia."
   },
   {
-    "id": 80,
+    "id": 38,
     "caso_clinico": "Adulto con Muerte Encefálica. Se solicita la donación de órganos, incluyendo el corazón. El donador es un paciente de 75 años con antecedentes de hipertensión.",
     "pregunta": "¿Qué condición del donante es la más importante a considerar por el equipo de trasplante cardíaco, además de la edad, para determinar la viabilidad del órgano?",
     "opciones": {
@@ -1126,7 +532,7 @@
     "justificacion": "La viabilidad de un órgano sólido se basa en la función del mismo, siendo la enfermedad coronaria o la disfunción preexistente del ventrículo el principal limitante para la aceptación de un corazón de donante. El trauma craneal es una causa común de Muerte Encefálica en donantes jóvenes."
   },
   {
-    "id": 81,
+    "id": 39,
     "caso_clinico": "Adulto en UCI con historia de Trastorno por Estrés Agudo. Presenta síntomas disociativos (sensación de irrealidad, despersonalización) que interfieren con su manejo.",
     "pregunta": "¿Cuál es el manejo psiquiátrico inicial para la disociación aguda?",
     "opciones": {
@@ -1140,7 +546,7 @@
     "justificacion": "Las técnicas de *grounding* ayudan al paciente a reconectarse con el presente y la realidad."
   },
   {
-    "id": 82,
+    "id": 40,
     "caso_clinico": "Paciente pediátrico (15 kg) con Delirium hipoactivo. Se decide iniciar Dexmedetomidina a 0.2 mcg/kg/h. Concentración 4 mcg/mL (Dilución 200 mcg en 50 mL).",
     "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Dexmedetomidina?",
     "opciones": {
@@ -1154,7 +560,7 @@
     "justificacion": "Cálculo: Dosis Requerida (DR) = 0.2 mcg/kg/h * 15 kg = 3 mcg/h. Concentración (C) = 200 mcg/50 mL = 4 mcg/mL. Velocidad (V) = DR/C = 3 mcg/h / 4 mcg/mL = 0.75 mL/h."
   },
   {
-    "id": 83,
+    "id": 41,
     "caso_clinico": "Neonato en UCI. Se observa una respuesta de sobresalto exagerada a ruidos y luces. Se sospecha hiperalgesia o alodinia por dolor crónico.",
     "pregunta": "¿Cuál es la principal consecuencia del desarrollo de hiperalgesia en el neonato crítico?",
     "opciones": {
@@ -1168,7 +574,7 @@
     "justificacion": "La hiperalgesia es el aumento de la sensibilidad al dolor (disminución del umbral)."
   },
   {
-    "id": 84,
+    "id": 42,
     "caso_clinico": "Adulto con Delirium. Se sospecha que la causa es un medicamento con alta actividad anticolinérgica (ej. Diphenhydramina).",
     "pregunta": "¿Cuál es el principal efecto adverso que contribuye al Delirium por fármacos anticolinérgicos?",
     "opciones": {
@@ -1182,7 +588,7 @@
     "justificacion": "El bloqueo colinérgico central es una causa conocida de Delirium."
   },
   {
-    "id": 85,
+    "id": 43,
     "caso_clinico": "Adulto con Muerte Encefálica. Los familiares aceptan la donación, pero piden que el riñón vaya a un familiar que no está en la Lista de Espera Única Nacional (LEUN).",
     "pregunta": "¿Qué establece la **Ley Justina (N° 27.447)** sobre la donación condicionada de órganos cadavéricos?",
     "opciones": {
@@ -1196,7 +602,7 @@
     "justificacion": "La Ley 27.447 establece que la ablación post mortem es un acto anónimo y la asignación se realiza de forma centralizada y justa a través del Sistema Nacional de Información de Procuración y Trasplante (SINTRA), gestionado por el INCUCAI, priorizando la necesidad y la compatibilidad, **prohibiendo el condicionamiento**."
   },
   {
-    "id": 86,
+    "id": 44,
     "caso_clinico": "Adulto con Muerte Encefálica. Se mantiene con altas dosis de vasopresores para mantener la perfusión orgánica.",
     "pregunta": "¿Qué complicación endocrina es común en la Muerte Encefálica y requiere tratamiento hormonal para optimizar la donación?",
     "opciones": {
@@ -1210,7 +616,7 @@
     "justificacion": "La destrucción hipotalámica-hipofisaria en la Muerte Encefálica provoca un déficit de hormona antidiurética (Diabetes Insípida) y de cortisol (Insuficiencia Suprarrenal), lo que desestabiliza la hemodinamia y requiere terapia de reemplazo."
   },
   {
-    "id": 87,
+    "id": 45,
     "caso_clinico": "Paciente pediátrico (30 kg) con Sd. de Abstinencia a opioides. Se requiere iniciar Clonidina a 5 mcg/kg/d VO dividido en 4 dosis. La presentación es 100 mcg/tableta.",
     "pregunta": "¿Cuántos microgramos (mcg) debe recibir por dosis cada 6 horas?",
     "opciones": {
@@ -1224,7 +630,7 @@
     "justificacion": "Cálculo: Dosis total por día (30 kg * 5 mcg/kg/d = 150 mcg/d). Dosis por toma = 150 mcg / 4 dosis = 37.5 mcg/dosis."
   },
   {
-    "id": 88,
+    "id": 46,
     "caso_clinico": "Neonato en UCI. Se observa inestabilidad de los signos vitales, tremores y succión ineficaz tras el destete de la ventilación.",
     "pregunta": "¿Cuál es la causa iatrogénica más común de síndrome de abstinencia en UCI neonatal?",
     "opciones": {
@@ -1238,7 +644,7 @@
     "justificacion": "El uso prolongado de sedoanalgesia en UCI puede causar dependencia física y abstinencia al retirar los fármacos."
   },
   {
-    "id": 89,
+    "id": 47,
     "caso_clinico": "Adulto con Delirium. Se utilizan antipsicóticos atípicos. El equipo nota que el paciente ha desarrollado temblor, rigidez y acatisia.",
     "pregunta": "¿Qué grupo de efectos adversos se está manifestando?",
     "opciones": {
@@ -1252,7 +658,7 @@
     "justificacion": "La rigidez, temblor y acatisia son síntomas extrapiramidales asociados al bloqueo D₂."
   },
   {
-    "id": 90,
+    "id": 48,
     "caso_clinico": "Un donante potencial en Muerte Encefálica tiene antecedentes de haber sido procesado por crímenes de lesa humanidad. Se debate si esto afecta su donación.",
     "pregunta": "Según la **Ley N° 27.447 (Ley Justina)**, ¿qué tipo de personas o circunstancias excluyen o prohíben la ablación de órganos de una persona fallecida?",
     "opciones": {
@@ -1266,7 +672,7 @@
     "justificacion": "La ley establece que la donación se excluye por la negativa expresa del donante en vida y por criterios de exclusión médica (Art. 41 y decretos reglamentarios del INCUCAI). La condición social, penal o judicial no son motivos de exclusión en Argentina."
   },
   {
-    "id": 91,
+    "id": 49,
     "caso_clinico": "Adulto en UCI con antecedente de Trastorno por Atracones y obesidad mórbida. Desarrolla un trastorno de la conducta alimentaria en el hospital (rechazo a la alimentación enteral).",
     "pregunta": "¿Cuál es la principal meta del manejo psiquiátrico en estos casos en UCI?",
     "opciones": {
@@ -1280,7 +686,7 @@
     "justificacion": "La prioridad es el soporte nutricional mientras se maneja la patología de base."
   },
   {
-    "id": 92,
+    "id": 50,
     "caso_clinico": "Paciente pediátrico (18 kg) en UCI. Se requiere un bolo de Tiopental para inducción a dosis de 5 mg/kg IV. La presentación es 25 mg/mL.",
     "pregunta": "¿Cuántos mililitros (mL) de Tiopental deben administrarse en este bolo?",
     "opciones": {
@@ -1294,7 +700,7 @@
     "justificacion": "Cálculo: Dosis requerida (18 kg * 5 mg/kg = 90 mg). Volumen = 90 mg / 25 mg/mL = 3.6 mL."
   },
   {
-    "id": 93,
+    "id": 51,
     "caso_clinico": "Neonato en UCI. Se observa retraimiento, irritabilidad, falta de respuesta y una mirada evasiva al personal, sin causa médica aparente.",
     "pregunta": "¿Qué fenómeno psicológico describe la respuesta de un neonato a un ambiente estresante y traumático?",
     "opciones": {
@@ -1308,7 +714,7 @@
     "justificacion": "El retraimiento es una forma de expresión de malestar psicológico en el neonato crítico."
   },
   {
-    "id": 94,
+    "id": 52,
     "caso_clinico": "Adulto con Delirium hiperactivo. El tratamiento con Haloperidol y Benzodiazepinas ha fallado. Se sospecha Delirium Refractario.",
     "pregunta": "¿Qué intervención farmacológica se considera para el Delirium Refractario?",
     "opciones": {
@@ -1322,7 +728,7 @@
     "justificacion": "La sedación profunda controlada con Dexmedetomidina o Propofol es el manejo de elección."
   },
   {
-    "id": 95,
+    "id": 53,
     "caso_clinico": "Adulto con Muerte Encefálica. Los familiares aceptan la donación, pero exigen saber si el receptor tiene la misma etnia y quieren conocer su identidad.",
     "pregunta": "Según la **Ley Justina (N° 27.447)**, ¿cuál es la obligación legal y ética del equipo de trasplantes ante las identidades del donador y receptor?",
     "opciones": {
@@ -1336,7 +742,7 @@
     "justificacion": "El anonimato recíproco (donante y receptor no conocen sus identidades) es un pilar legal y ético fundamental de la Ley 27.447 para proteger a ambas partes y garantizar la pureza del acto altruista."
   },
   {
-    "id": 96,
+    "id": 54,
     "caso_clinico": "Adulto en UCI con Trastorno Bipolar. Se inicia Valproato. Se requiere una dosis de carga a 20 mg/kg IV en un paciente de 75 kg. La presentación es 100 mg/mL.",
     "pregunta": "¿Cuántos mililitros (mL) de Valproato deben administrarse en la dosis de carga?",
     "opciones": {
@@ -1350,7 +756,7 @@
     "justificacion": "Cálculo: Dosis requerida (75 kg * 20 mg/kg = 1500 mg). Volumen = 1500 mg / 100 mg/mL = 15 mL."
   },
   {
-    "id": 97,
+    "id": 55,
     "caso_clinico": "Paciente pediátrico (14 años) con TEPT post-UCI. Los flashbacks son recurrentes.",
     "pregunta": "¿Qué fármaco se utiliza a veces en el TEPT para reducir los flashbacks y las pesadillas?",
     "opciones": {
@@ -1364,7 +770,7 @@
     "justificacion": "El Prazosin ha demostrado ser útil en el manejo de las pesadillas en el TEPT."
   },
   {
-    "id": 98,
+    "id": 56,
     "caso_clinico": "Neonato con SAN. El tratamiento con Morfina es exitoso. Se observa la reducción de los síntomas de abstinencia.",
     "pregunta": "¿Qué escala se utiliza para monitorizar la reducción de los síntomas y guiar el destete del opioide?",
     "opciones": {
@@ -1378,7 +784,7 @@
     "justificacion": "La escala de Finnegan es el estándar para el diagnóstico y monitoreo del SAN."
   },
   {
-    "id": 99,
+    "id": 57,
     "caso_clinico": "Adulto con Delirium que presenta alucinaciones visuales de animales pequeños y personas extrañas.",
     "pregunta": "¿Cuál es la causa etiológica más probable de estas alucinaciones visuales complejas en UCI?",
     "opciones": {
@@ -1392,7 +798,7 @@
     "justificacion": "Las alucinaciones visuales complejas son clásicas del Delirium Tremens o abstinencia a sedantes."
   },
   {
-    "id": 100,
+    "id": 58,
     "caso_clinico": "Adulto con Muerte Encefálica. Los familiares aceptan la donación, pero exigen que el receptor cumpla con criterios sociales o demográficos (ej. misma etnia, ingresos).",
     "pregunta": "Según la **Ley N° 27.447**, ¿qué establece el INCUCAI/SINTRA sobre los criterios de asignación de órganos?",
     "opciones": {
@@ -1404,5 +810,593 @@
     "respuesta_correcta": "b",
     "tema": "Legislación Argentina - Justicia y Asignación",
     "justificacion": "Los criterios de asignación deben ser estrictamente objetivos (médicos) para garantizar la **Justicia Distributiva y la equidad** del sistema público de trasplantes (SINTRA), según el Título V de la Ley."
+  },
+  {
+    "id": 59,
+    "caso_clinico": "Neonato con SAN. Se utiliza la escala de Finnegan para cuantificar la severidad de la abstinencia.",
+    "pregunta": "¿Qué tipo de síntomas son los más valorados en la escala de Finnegan para decidir el inicio de tratamiento?",
+    "opciones": {
+      "a": "Síntomas Cardiovasculares.",
+      "b": "Síntomas Neurológicos, Gastrointestinales y Respiratorios.",
+      "c": "Síntomas ORL.",
+      "d": "Síntomas Musculoesqueléticos."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Neonato - Evaluación de Abstinencia",
+    "justificacion": "La escala de Finnegan evalúa principalmente síntomas del SNC, GI y respiratorios."
+  },
+  {
+    "id": 60,
+    "caso_clinico": "Adulto en UCI con riesgo de Delirium. Se utiliza la escala CAM-ICU (Confusion Assessment Method for ICU) para el cribado.",
+    "pregunta": "¿Cuál es la característica esencial de la CAM-ICU que permite su uso en pacientes sedados y ventilados?",
+    "opciones": {
+      "a": "Evalúa el estado de ánimo únicamente.",
+      "b": "Evalúa la inatención y el nivel de conciencia (RASS) sin requerir lenguaje verbal complejo.",
+      "c": "Evalúa solo la memoria a corto plazo.",
+      "d": "Se basa únicamente en el EEG."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Adulto - Evaluación de Delirium",
+    "justificacion": "La CAM-ICU es ideal para UCI porque requiere la evaluación del nivel de conciencia (RASS) y la inatención, que son evaluables en pacientes no verbales."
+  },
+  {
+    "id": 61,
+    "caso_clinico": "Adulto con Muerte Encefálica. Los familiares se oponen a la donación, argumentando que viola el derecho a la integridad del cadáver.",
+    "pregunta": "Según la **Ley Justina (N° 27.447)**, en Argentina, ¿cuál es la principal característica del consentimiento para la donación de órganos?",
+    "opciones": {
+      "a": "Se requiere siempre el consentimiento expreso de la familia para la donación.",
+      "b": "Toda persona mayor de 18 años es considerada **donante presunta** (tácito), a menos que haya dejado constancia expresa de lo contrario.",
+      "c": "Solo es donante quien lo registra ante un Escribano Público.",
+      "d": "El consentimiento solo aplica para donación de tejidos, no de órganos sólidos."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Legislación Argentina - Consentimiento (Ley Justina)",
+    "justificacion": "La Ley Justina (27.447) establece el principio de 'Donante Presunto', donde toda persona mayor de 18 años es donante si no manifiesta su negativa en vida. La familia solo puede testimoniar la voluntad, pero no oponerse a un consentimiento presunto."
+  },
+  {
+    "id": 62,
+    "caso_clinico": "Adulto en UCI con riesgo de Delirium. Se utiliza la escala CAM-ICU (Confusion Assessment Method for ICU) para el cribado.",
+    "pregunta": "¿Cuál es la intervención psiquiátrica inicial recomendada para el manejo de la manipulación y la inestabilidad en pacientes con TLP en UCI?",
+    "opciones": {
+      "a": "Satisfacer todas las demandas para evitar la escalada.",
+      "b": "Establecer límites claros, consistentes y un plan de manejo estandarizado con el equipo.",
+      "c": "Inicio de TEC urgente.",
+      "d": "Ignorar al paciente."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Adulto - Trastornos de la Personalidad",
+    "justificacion": "La consistencia y el establecimiento de límites son cruciales en el manejo del TLP."
+  },
+  {
+    "id": 63,
+    "caso_clinico": "Paciente pediátrico (4 años) con Delirium hipoactivo postoperatorio. No hay respuesta a las medidas no farmacológicas.",
+    "pregunta": "¿Qué antipsicótico atípico se utiliza comúnmente para el Delirium pediátrico, dada su buena tolerabilidad?",
+    "opciones": {
+      "a": "Clozapina.",
+      "b": "Risperidona (en dosis bajas).",
+      "c": "Haloperidol (evitado por riesgo extrapiramidal).",
+      "d": "Litio."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Pediátrico - Tratamiento del Delirium",
+    "justificacion": "La Risperidona y la Olanzapina son antipsicóticos atípicos utilizados fuera de etiqueta en el Delirium pediátrico."
+  },
+  {
+    "id": 64,
+    "caso_clinico": "Neonato (2.5 kg) en UCI requiere un bolo de Midazolam a 0.1 mg/kg IV. La presentación es 5 mg/mL.",
+    "pregunta": "¿Cuántos mililitros (mL) de Midazolam deben administrarse en este bolo?",
+    "opciones": {
+      "a": "0.05 mL.",
+      "b": "0.5 mL.",
+      "c": "0.15 mL.",
+      "d": "0.25 mL."
+    },
+    "respuesta_correcta": "a",
+    "tema": "Neonato - Cálculo de Fármaco",
+    "justificacion": "Cálculo: Dosis requerida (2.5 kg * 0.1 mg/kg = 0.25 mg). Volumen = Dosis/Concentración = 0.25 mg / 5 mg/mL = 0.05 mL."
+  },
+  {
+    "id": 65,
+    "caso_clinico": "Adulto con Delirium. Se asocia el uso de Benzodiazepinas para sedación como un factor de riesgo independiente.",
+    "pregunta": "¿Cuál es la mejor práctica para evitar el Delirium en pacientes críticos ventilados?",
+    "opciones": {
+      "a": "Sedación profunda continua (RASS -5).",
+      "b": "Uso preferente de Propofol o Midazolam en lugar de Dexmedetomidina.",
+      "c": "Sedación ligera y superficial (RASS 0 a -2) con interrupción diaria de la sedación.",
+      "d": "Uso profiláctico de Haloperidol."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Adulto - Prevención del Delirium",
+    "justificacion": "La sedación ligera y la interrupción diaria (Despertar y Respirar) son las mejores estrategias de prevención."
+  },
+  {
+    "id": 66,
+    "caso_clinico": "Adulto con Muerte Encefálica. Se decide avanzar en el proceso de donación de órganos, según la Ley N° 27.447.",
+    "pregunta": "¿Qué equipo médico, según la normativa argentina, debe realizar la certificación de la Muerte Encefálica?",
+    "opciones": {
+      "a": "El médico tratante, el Coordinador Hospitalario de Trasplante y un Neurólogo.",
+      "b": "**Dos médicos no pertenecientes al equipo de trasplante**, uno de los cuales deberá ser neurólogo o neurocirujano.",
+      "c": "El Coordinador de Trasplantes únicamente, después de la Asistolia (DMC).",
+      "d": "El psiquiatra y el médico intensivista."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Legislación Argentina - Certificación de Muerte",
+    "justificacion": "El Artículo 24 de la Ley 27.447 exige que el diagnóstico sea realizado por dos médicos, uno de ellos neurólogo o neurocirujano, y que **ninguno** de ellos forme parte del equipo de ablación o trasplante, garantizando la independencia."
+  },
+  {
+    "id": 67,
+    "caso_clinico": "Adulto con Shock Séptico. Desarrolla un Delirium hiperactivo. Se utiliza Haloperidol, pero el paciente sigue agitado y presenta rigidez muscular, fiebre y CPK elevada.",
+    "pregunta": "¿Qué diagnóstico psiquiátrico urgente (asociado a fármacos) se debe sospechar?",
+    "opciones": {
+      "a": "Distonía aguda.",
+      "b": "Síndrome Serotoninérgico.",
+      "c": "Síndrome Neuroléptico Maligno (SNM).",
+      "d": "Crisis de agitación psicomotriz refractaria."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Adulto - SNM",
+    "justificacion": "La tríada de rigidez, hipertermia y CPK elevada tras el uso de antipsicóticos sugiere SNM."
+  },
+  {
+    "id": 68,
+    "caso_clinico": "Paciente pediátrico (7 años) con crisis de ansiedad severa por separación de sus padres. Se requiere un ansiolítico oral para reducir la ansiedad antes de un procedimiento.",
+    "pregunta": "¿Cuál es la Benzodiazepina oral de elección para la sedación pre-procedimiento en niños?",
+    "opciones": {
+      "a": "Diazepam (vida media larga).",
+      "b": "Clonazepam.",
+      "c": "Midazolam (oral) o Lorazepam (vida media corta a intermedia).",
+      "d": "Alprazolam."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Pediátrico - Ansiolíticos",
+    "justificacion": "El Midazolam oral es ampliamente utilizado por su rápido inicio y corta duración, ideal para procedimientos."
+  },
+  {
+    "id": 69,
+    "caso_clinico": "Neonato (4.5 kg) con dolor persistente. Se requiere administrar Morfina en bolo a 100 mcg/kg IV. La presentación es 1 mg/mL.",
+    "pregunta": "¿Cuántos mililitros (mL) de Morfina deben administrarse en este bolo?",
+    "opciones": {
+      "a": "0.45 mL.",
+      "b": "0.045 mL.",
+      "c": "4.5 mL.",
+      "d": "0.9 mL."
+    },
+    "respuesta_correcta": "a",
+    "tema": "Neonato - Cálculo de Fármaco",
+    "justificacion": "Cálculo: Dosis requerida (4.5 kg * 100 mcg/kg = 450 mcg). Concentración: 1 mg/mL = 1000 mcg/mL. Volumen = 450 mcg / 1000 mcg/mL = 0.45 mL."
+  },
+  {
+    "id": 70,
+    "caso_clinico": "Adulto con Delirium y Muerte Cerebral inminente. El equipo médico sospecha que el Delirium fue un síntoma de una enfermedad psiquiátrica grave previa.",
+    "pregunta": "¿La presencia de un Delirium siempre implica que el paciente tiene una enfermedad psiquiátrica primaria?",
+    "opciones": {
+      "a": "Sí, el Delirium siempre es una manifestación de psicosis subyacente.",
+      "b": "No, el Delirium es un síndrome secundario a una condición médica, nunca primario.",
+      "c": "Solo si es Delirium hiperactivo.",
+      "d": "Solo si el Delirium dura más de 48 horas."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Adulto - Concepto de Delirium",
+    "justificacion": "El Delirium es la alteración de la conciencia y la cognición secundaria a una etiología médica o farmacológica."
+  },
+  {
+    "id": 71,
+    "caso_clinico": "La Ley 27.447 sobre Trasplante de Órganos, Tejidos y Células en Argentina regula la trazabilidad en el proceso de donación y trasplante.",
+    "pregunta": "¿Cuál es el principal objetivo del **Instituto Nacional Central Único Coordinador de Ablación e Implante (INCUCAI)** respecto al seguimiento de órganos en Argentina?",
+    "opciones": {
+      "a": "Garantizar la identidad del receptor al donador, por ley.",
+      "b": "Permitir la comercialización de tejidos y células por parte de bancos privados.",
+      "c": "Asegurar el cumplimiento del anonimato y la trazabilidad del órgano/tejido desde el donante hasta el receptor.",
+      "d": "Determinar los honorarios que recibirá el equipo médico del trasplante."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Legislación Argentina - INCUCAI y Trazabilidad",
+    "justificacion": "El INCUCAI regula el proceso de donación/trasplante, asegurando la transparencia (trazabilidad) y el **anonimato** entre donante y receptor, según el Artículo 51 y otros concordantes de la Ley 27.447."
+  },
+  {
+    "id": 72,
+    "caso_clinico": "Adulto en UCI con Síndrome de Abstinencia a Benzodiazepinas (SAB). Presenta taquicardia, sudoración y ansiedad grave. Se requiere reinicio del tratamiento.",
+    "pregunta": "¿Cuál es la estrategia farmacológica más segura y efectiva para el SAB en UCI?",
+    "opciones": {
+      "a": "Inicio de Antipsicóticos (ej. Haloperidol).",
+      "b": "Uso de ISRS.",
+      "c": "Administración de Benzodiazepinas de vida media larga (ej. Diazepam) tituladas, para estabilización y destete lento.",
+      "d": "Clonidina para los síntomas adrenérgicos únicamente."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Adulto - Síndrome de Abstinencia",
+    "justificacion": "La base del tratamiento es reponer la Benzodiazepina y realizar un destete lento."
+  },
+  {
+    "id": 73,
+    "caso_clinico": "Paciente pediátrico (30 kg) con Depresión Mayor Grave que complica la recuperación. Se decide iniciar Sertralina (ISRS) a 25 mg/día. La presentación es tabletas de 50 mg.",
+    "pregunta": "¿Cuántas tabletas de 50 mg y qué fracción se deben administrar para la dosis inicial?",
+    "opciones": {
+      "a": "Una tableta completa.",
+      "b": "Media tableta.",
+      "c": "Una tableta y media.",
+      "d": "Dos tabletas."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Pediátrico - Cálculo de Fármaco",
+    "justificacion": "Cálculo: Dosis requerida (25 mg) / Presentación (50 mg/tableta) = 0.5 tableta (media tableta)."
+  },
+  {
+    "id": 74,
+    "caso_clinico": "Neonato en UCI con dolor refractario. El equipo médico está debatiendo el uso de bloqueos regionales.",
+    "pregunta": "¿Cuál es el riesgo psicosocial a largo plazo de los analgésicos opioides a largo plazo en el neonato?",
+    "opciones": {
+      "a": "Adicción en la vida adulta.",
+      "b": "Alteraciones del neurodesarrollo y la formación de sinapsis.",
+      "c": "Mayor riesgo de TOC.",
+      "d": "Trastorno de identidad disociativo."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Neonato - Farmacología y Desarrollo",
+    "justificacion": "El uso prolongado de opioides en el cerebro en desarrollo se asocia a peores resultados en el neurodesarrollo."
+  },
+  {
+    "id": 75,
+    "caso_clinico": "Adulto con Delirium hiperactivo. El paciente se encuentra tan agitado que el riesgo de daño es inminente. El equipo considera la contención física.",
+    "pregunta": "¿Cuál es el principio ético que establece que la contención física debe ser la **última medida**?",
+    "opciones": {
+      "a": "Justicia.",
+      "b": "Autonomía.",
+      "c": "No Maleficencia.",
+      "d": "Beneficencia."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Adulto - Ética y Contención",
+    "justificacion": "La contención física, aunque a veces necesaria, es una medida restrictiva que implica riesgo de daño (No Maleficencia)."
+  },
+  {
+    "id": 76,
+    "caso_clinico": "Adulto con Muerte Encefálica. Los familiares cuestionan la gratuidad, preguntando si el hospital obtiene algún beneficio económico.",
+    "pregunta": "¿Qué establece la **Ley Justina (N° 27.447)** sobre el lucro y los costos en la donación de órganos en Argentina?",
+    "opciones": {
+      "a": "Se permite el lucro con el órgano, pero no con la cirugía.",
+      "b": "Se prohíbe la comercialización y todo tipo de lucro con el órgano, siendo la donación un **acto altruista y solidario**.",
+      "c": "El hospital público debe absorber todos los costos, sin excepción.",
+      "d": "Solo los hospitales privados pueden obtener lucro, de forma regulada."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Legislación Argentina - Gratuidad y Altruismo",
+    "justificacion": "La ley argentina (Art. 4) establece que la donación y el trasplante son un acto **altruista** y está estrictamente **prohibida la comercialización** de órganos y tejidos. El receptor cubre los gastos de la práctica médica y hospitalaria, pero no paga por el órgano en sí."
+  },
+  {
+    "id": 77,
+    "caso_clinico": "Adulto con Delirium hipoactivo. Se identifica la interrupción del ciclo sueño-vigilia como un factor contribuyente.",
+    "pregunta": "¿Cuál es la intervención ambiental de primera línea para mejorar el ciclo sueño-vigilia en UCI?",
+    "opciones": {
+      "a": "Administración de Benzodiazepinas al acostarse.",
+      "b": "Reducir el ruido y la iluminación nocturna y aumentar la exposición a la luz natural durante el día.",
+      "c": "Aumento de la sedación nocturna.",
+      "d": "Cambio frecuente de habitación."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Adulto - Manejo No Farmacológico",
+    "justificacion": "Las medidas ambientales que restauran los ritmos circadianos son esenciales para prevenir el Delirium."
+  },
+  {
+    "id": 78,
+    "caso_clinico": "Neonato (3 kg) con SAN. Se requiere infusión de Fenobarbital a 5 mg/kg/día. La dilución es 50 mg en 50 mL.",
+    "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Fenobarbital para administrar la dosis diaria en 24 horas?",
+    "opciones": {
+      "a": "0.625 mL/h.",
+      "b": "1.25 mL/h.",
+      "c": "3.0 mL/h.",
+      "d": "6.0 mL/h."
+    },
+    "respuesta_correcta": "a",
+    "tema": "Neonato - Cálculo de Fármaco",
+    "justificacion": "Cálculo: Dosis total por día (3 kg * 5 mg/kg = 15 mg). Concentración: 50 mg/50 mL = 1 mg/mL. Volumen total: 15 mL (para 15 mg). Velocidad: 15 mL / 24 h = 0.625 mL/h."
+  },
+  {
+    "id": 79,
+    "caso_clinico": "Paciente pediátrico (16 años) con intento de suicidio. El paciente se recupera, pero rechaza la evaluación psiquiátrica y el traslado a Psiquiatría.",
+    "pregunta": "¿Bajo qué principio legal y ético se puede realizar la evaluación psiquiátrica en contra de la voluntad de un menor de edad (legalmente considerado menor) con riesgo suicida?",
+    "opciones": {
+      "a": "Autonomía.",
+      "b": "Paternalismo Médico y Beneficencia (ante riesgo vital).",
+      "c": "Justicia.",
+      "d": "Consentimiento Tácito."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Pediátrico - Ética y Riesgo Suicida",
+    "justificacion": "El paternalismo médico justifica la intervención forzosa ante riesgo inminente en menores de edad."
+  },
+  {
+    "id": 80,
+    "caso_clinico": "Adulto con Delirium. Se sospecha de Síndrome Serotoninérgico. Se requiere un antídoto.",
+    "pregunta": "¿Cuál es el antídoto de elección para el Síndrome Serotoninérgico?",
+    "opciones": {
+      "a": "Naloxona.",
+      "b": "Ciproheptadina (antagonista 5-HT₂A).",
+      "c": "Flumazenil.",
+      "d": "Dantroleno."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Adulto - Farmacología Psiquiátrica",
+    "justificacion": "La Ciproheptadina es el tratamiento específico para el Síndrome Serotoninérgico."
+  },
+  {
+    "id": 81,
+    "caso_clinico": "Un paciente en Asistolia se considera como Donante a Corazón Parado (DCP). El equipo debe priorizar la protección de los órganos.",
+    "pregunta": "¿Cuál es el factor principal que afecta directamente la viabilidad de los órganos sólidos en la Donación a Corazón Parado (DCP)?",
+    "opciones": {
+      "a": "El uso de Adrenalina durante la reanimación.",
+      "b": "El **tiempo total de isquemia caliente** (desde el cese del flujo sanguíneo hasta la canulación y perfusión fría).",
+      "c": "La causa de la Muerte (ej. trauma).",
+      "d": "El grupo sanguíneo del donador."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Legislación Argentina - Viabilidad de Órganos (DCP)",
+    "justificacion": "La isquemia caliente, es decir, el tiempo que los órganos están sin flujo sanguíneo y a temperatura corporal, es el factor más crítico y limitante para la viabilidad de los órganos tras la Asistolia (DCP), un tipo de donación que es regulada y practicada en Argentina."
+  },
+  {
+    "id": 82,
+    "caso_clinico": "Adulto en UCI con insomnio severo no relacionado con el Delirium. Se requiere un hipnótico con bajo riesgo de efectos adversos en UCI.",
+    "pregunta": "¿Cuál es el hipnótico no benzodiazepínico con menor riesgo de Delirium en pacientes críticos?",
+    "opciones": {
+      "a": "Zolpidem.",
+      "b": "Trazodona.",
+      "c": "Lorazepam.",
+      "d": "Diphenhydramina."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Adulto - Insomnio",
+    "justificacion": "La Trazodona se utiliza a menudo por su mecanismo dual y bajo riesgo de promover Delirium."
+  },
+  {
+    "id": 83,
+    "caso_clinico": "Neonato (2 kg) en UCI con dependencia física a los opioides por tratamiento prolongado. Se inicia un destete lento del opioide.",
+    "pregunta": "¿Cuál es la tasa recomendada de reducción semanal del opioide para un destete seguro en neonatos?",
+    "opciones": {
+      "a": "100% por semana.",
+      "b": "10% por día.",
+      "c": "10-20% de la dosis total por semana.",
+      "d": "50% de la dosis total por semana."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Neonato - Farmacología",
+    "justificacion": "El destete lento (10-20% por semana) es esencial para prevenir el síndrome de abstinencia."
+  },
+  {
+    "id": 84,
+    "caso_clinico": "Paciente pediátrico (25 kg) con agitación extrema. Se requiere un bolo de Lorazepam a 0.1 mg/kg IV. La presentación es 2 mg/mL.",
+    "pregunta": "¿Cuántos mililitros (mL) de Lorazepam deben administrarse en este bolo?",
+    "opciones": {
+      "a": "1.25 mL.",
+      "b": "2.5 mL.",
+      "c": "5.0 mL.",
+      "d": "7.5 mL."
+    },
+    "respuesta_correcta": "a",
+    "tema": "Pediátrico - Cálculo de Fármaco",
+    "justificacion": "Cálculo: Dosis requerida (25 kg * 0.1 mg/kg = 2.5 mg). Volumen = 2.5 mg / 2 mg/mL = 1.25 mL."
+  },
+  {
+    "id": 85,
+    "caso_clinico": "Adulto con Delirium. Se utiliza la CAM-ICU. El paciente es evaluado como RASS -1.",
+    "pregunta": "¿Qué significa RASS -1 en el contexto de la evaluación del Delirium?",
+    "opciones": {
+      "a": "Agitación severa.",
+      "b": "Alerta y en calma.",
+      "c": "Somnoliento, pero despierta al contacto verbal (menos de 10 segundos).",
+      "d": "Difícil de despertar (RASS -3)."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Adulto - Escala RASS",
+    "justificacion": "RASS -1 indica somnolencia leve, pero reactividad al estímulo verbal."
+  },
+  {
+    "id": 86,
+    "caso_clinico": "Un paciente requiere un trasplante de corazón urgente. Se le da prioridad en la lista nacional de trasplantes gestionada por el INCUCAI.",
+    "pregunta": "¿Qué principio ético y legal es el más relevante en la distribución de órganos y la priorización de pacientes según la normativa argentina?",
+    "opciones": {
+      "a": "Beneficencia.",
+      "b": "Autonomía.",
+      "c": "Justicia Distributiva (equidad y necesidad) y Criterios Únicos (Nacionales).",
+      "d": "No Maleficencia."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Legislación Argentina - Principios Éticos de Distribución",
+    "justificacion": "La distribución de órganos se rige por el principio de **Justicia Distributiva**, implementada por el INCUCAI a través de criterios de equidad, gravedad del receptor, compatibilidad biológica y antigüedad en lista, con un sistema único y público (Ley 27.447, Art. 36)."
+  },
+  {
+    "id": 87,
+    "caso_clinico": "Adulto en UCI con historia de TOC. Presenta rituales de lavado de manos que interfieren con los cuidados.",
+    "pregunta": "¿Cuál es la clase de fármacos de primera línea para el TOC?",
+    "opciones": {
+      "a": "Antipsicóticos de segunda generación.",
+      "b": "Altas dosis de ISRS (ej. Fluvoxamina o Sertralina).",
+      "c": "Ansiolíticos (Benzodiazepinas).",
+      "d": "Estabilizadores del ánimo."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Adulto - TOC",
+    "justificacion": "Los ISRS en dosis más altas que para la Depresión son el tratamiento de primera línea."
+  },
+  {
+    "id": 88,
+    "caso_clinico": "Paciente pediátrico (15 años) con TEPT post-UCI. El paciente se niega a hablar de su experiencia.",
+    "pregunta": "¿Qué técnica de terapia psicológica es la base del tratamiento del TEPT?",
+    "opciones": {
+      "a": "Hipnosis.",
+      "b": "Exposición prolongada o procesamiento cognitivo.",
+      "c": "Terapia de juego.",
+      "d": "Terapia de apoyo no directiva."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Pediátrico - TEPT",
+    "justificacion": "Las terapias basadas en la exposición y el reprocesamiento son las más efectivas."
+  },
+  {
+    "id": 89,
+    "caso_clinico": "Neonato (3.5 kg) requiere infusión de Dopamina para soporte hemodinámico a 5 mcg/kg/min. Dilución: 200 mg en 100 mL.",
+    "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Dopamina?",
+    "opciones": {
+      "a": "0.15 mL/h.",
+      "b": "0.525 mL/h.",
+      "c": "1.05 mL/h.",
+      "d": "3.15 mL/h."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Neonato - Cálculo de Fármaco",
+    "justificacion": "Cálculo: Concentración (C) = 200 mg/100 mL = 2 mg/mL = 2000 mcg/mL. Dosis Requerida (DR) = 5 mcg/kg/min * 3.5 kg * 60 min/h = 1050 mcg/h. Velocidad (V) = DR/C = 1050 mcg/h / 2000 mcg/mL = 0.525 mL/h."
+  },
+  {
+    "id": 90,
+    "caso_clinico": "Adulto con Delirium persistente. Se le administra Rivastigmina (inhibidor de la colinesterasa) experimentalmente.",
+    "pregunta": "¿Cuál es la principal justificación para el uso de inhibidores de la colinesterasa en el Delirium?",
+    "opciones": {
+      "a": "Disminuir la Acetilcolina.",
+      "b": "Modular el sistema Dopaminérgico.",
+      "c": "Compensar la deficiencia colinérgica observada en el Delirium.",
+      "d": "Bloquear los receptores GABA."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Adulto - Farmacología Experimental",
+    "justificacion": "La hipótesis colinérgica del Delirium sugiere que su causa es un déficit de Acetilcolina."
+  },
+  {
+    "id": 91,
+    "caso_clinico": "Adulto con Muerte Encefálica y consentimiento presunto. Los familiares se oponen, pese a no haber manifestación expresa negativa del donante en vida.",
+    "pregunta": "Según la **Ley Justina**, ¿cuál es la implicancia legal de la falta de manifestación expresa de la voluntad del fallecido para la donación?",
+    "opciones": {
+      "a": "Se necesita orden judicial para la ablación.",
+      "b": "Se respeta la oposición familiar sobre el donante presunto.",
+      "c": "Se considera al fallecido como **donante, salvo que haya manifestado su negativa en forma expresa en vida** (donante presunto). La familia no puede oponerse.",
+      "d": "Se debe consultar a un Comité de Ética para decidir."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Legislación Argentina - Voluntad y Familia",
+    "justificacion": "La Ley 27.447 (Art. 41) establece la figura de donante presunto. Si la persona no ha dejado constancia de su negativa, se presume el consentimiento. En estos casos, la oposición familiar no puede anular la voluntad legalmente presumida del donante."
+  },
+  {
+    "id": 92,
+    "caso_clinico": "Adulto con Delirium en UCI. El paciente tiene antecedentes de Depresión Mayor.",
+    "pregunta": "¿Cuál es la principal diferencia entre Delirium y Depresión en UCI?",
+    "opciones": {
+      "a": "La Depresión no fluctúa, el Delirium sí.",
+      "b": "La Depresión causa inatención, el Delirium no.",
+      "c": "El Delirium implica un **cambio agudo en el nivel de conciencia e inatención**, la Depresión no.",
+      "d": "El Delirium solo es hiperactivo."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Adulto - Diagnóstico Diferencial",
+    "justificacion": "La alteración de la conciencia y la inatención son los criterios centrales del Delirium."
+  },
+  {
+    "id": 93,
+    "caso_clinico": "Paciente pediátrico (10 kg) con TCE y dolor. Se requiere un bolo IV de Ketamina a 1 mg/kg. La presentación es 50 mg/mL.",
+    "pregunta": "¿Cuántos mililitros (mL) de Ketamina deben administrarse en este bolo?",
+    "opciones": {
+      "a": "0.2 mL.",
+      "b": "0.5 mL.",
+      "c": "1.0 mL.",
+      "d": "2.0 mL."
+    },
+    "respuesta_correcta": "a",
+    "tema": "Pediátrico - Cálculo de Fármaco",
+    "justificacion": "Cálculo: Dosis requerida (10 kg * 1 mg/kg = 10 mg). Volumen = 10 mg / 50 mg/mL = 0.2 mL."
+  },
+  {
+    "id": 94,
+    "caso_clinico": "Neonato prematuro, sometido a múltiples procedimientos dolorosos en UCI.",
+    "pregunta": "¿Cuál es el riesgo psiquiátrico a largo plazo de la exposición repetida al dolor sin analgesia adecuada en la vida neonatal?",
+    "opciones": {
+      "a": "Insensibilidad al dolor.",
+      "b": "Hipocondría.",
+      "c": "Mayor sensibilidad al dolor y alteraciones en la respuesta al estrés.",
+      "d": "Esquizofrenia."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Neonato - Consecuencias del Dolor",
+    "justificacion": "El dolor no tratado altera las vías nociceptivas y de estrés a largo plazo."
+  },
+  {
+    "id": 95,
+    "caso_clinico": "Adulto con Muerte Encefálica. Los familiares desean que el paciente permanezca conectado por razones sentimentales, a pesar de la certeza del diagnóstico.",
+    "pregunta": "¿Qué principio ético es prioritario cuando la prolongación del soporte vital no ofrece beneficio al paciente (futilidad terapéutica)?",
+    "opciones": {
+      "a": "Beneficencia (priorizar la voluntad del paciente en vida).",
+      "b": "No Maleficencia (evitar la prolongación inútil de la agonía/encarnizamiento terapéutico).",
+      "c": "Autonomía.",
+      "d": "Justicia."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Adulto - Ética y Futilidad",
+    "justificacion": "La prolongación inútil del soporte es considerada encarnizamiento terapéutico (Distansia), violando la no maleficencia."
+  },
+  {
+    "id": 96,
+    "caso_clinico": "Adulto con Muerte Encefálica. Se solicita la donación de órganos, incluyendo el corazón. El donador es un paciente de 75 años con antecedentes de hipertensión.",
+    "pregunta": "¿Qué condición del donante es la más importante a considerar por el equipo de trasplante cardíaco, además de la edad, para determinar la viabilidad del órgano?",
+    "opciones": {
+      "a": "Ser fumador.",
+      "b": "Presencia de **enfermedad coronaria o disfunción ventricular** subyacente.",
+      "c": "Trauma craneal como causa de Muerte Encefálica.",
+      "d": "Grupo sanguíneo O negativo."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Legislación Argentina - Viabilidad Cardíaca",
+    "justificacion": "La viabilidad de un órgano sólido se basa en la función del mismo, siendo la enfermedad coronaria o la disfunción preexistente del ventrículo el principal limitante para la aceptación de un corazón de donante. El trauma craneal es una causa común de Muerte Encefálica en donantes jóvenes."
+  },
+  {
+    "id": 97,
+    "caso_clinico": "Adulto en UCI con historia de Trastorno por Estrés Agudo. Presenta síntomas disociativos (sensación de irrealidad, despersonalización) que interfieren con su manejo.",
+    "pregunta": "¿Cuál es el manejo psiquiátrico inicial para la disociación aguda?",
+    "opciones": {
+      "a": "Haloperidol.",
+      "b": "Técnicas de **grounding** (conexión con la realidad) y reorientación.",
+      "c": "Electroconvulsoterapia (TEC).",
+      "d": "Propofol en infusión."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Adulto - Disociación",
+    "justificacion": "Las técnicas de *grounding* ayudan al paciente a reconectarse con el presente y la realidad."
+  },
+  {
+    "id": 98,
+    "caso_clinico": "Paciente pediátrico (15 kg) con Delirium hipoactivo. Se decide iniciar Dexmedetomidina a 0.2 mcg/kg/h. Concentración 4 mcg/mL (Dilución 200 mcg en 50 mL).",
+    "pregunta": "¿A qué velocidad (mL/h) debe programarse la infusión de Dexmedetomidina?",
+    "opciones": {
+      "a": "0.3 mL/h.",
+      "b": "0.75 mL/h.",
+      "c": "1.5 mL/h.",
+      "d": "3.0 mL/h."
+    },
+    "respuesta_correcta": "b",
+    "tema": "Pediátrico - Cálculo de Fármaco",
+    "justificacion": "Cálculo: Dosis Requerida (DR) = 0.2 mcg/kg/h * 15 kg = 3 mcg/h. Concentración (C) = 200 mcg/50 mL = 4 mcg/mL. Velocidad (V) = DR/C = 3 mcg/h / 4 mcg/mL = 0.75 mL/h."
+  },
+  {
+    "id": 99,
+    "caso_clinico": "Neonato en UCI. Se observa una respuesta de sobresalto exagerada a ruidos y luces. Se sospecha hiperalgesia o alodinia por dolor crónico.",
+    "pregunta": "¿Cuál es la principal consecuencia del desarrollo de hiperalgesia en el neonato crítico?",
+    "opciones": {
+      "a": "Disminución del umbral del dolor.",
+      "b": "Necesidad de menos analgesia.",
+      "c": "Mejora del apetito.",
+      "d": "Desarrollo de psicosis."
+    },
+    "respuesta_correcta": "a",
+    "tema": "Neonato - Consecuencias del Dolor",
+    "justificacion": "La hiperalgesia es el aumento de la sensibilidad al dolor (disminución del umbral)."
+  },
+  {
+    "id": 100,
+    "caso_clinico": "Adulto con Delirium. Se sospecha que la causa es un medicamento con alta actividad anticolinérgica (ej. Diphenhydramina).",
+    "pregunta": "¿Cuál es el principal efecto adverso que contribuye al Delirium por fármacos anticolinérgicos?",
+    "opciones": {
+      "a": "Activación Dopaminérgica.",
+      "b": "Aumento de la actividad Serotoninérgica.",
+      "c": "Bloqueo de los receptores muscarínicos en el SNC.",
+      "d": "Inhibición de la GABA."
+    },
+    "respuesta_correcta": "c",
+    "tema": "Adulto - Etiología del Delirium",
+    "justificacion": "El bloqueo colinérgico central es una causa conocida de Delirium."
   }
 ]

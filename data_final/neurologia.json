@@ -1,226 +1,1102 @@
- {
-  "titulo_examen": "Examen de Neurología y Neurocirugía",
-  "instrucciones": "Seleccione la única opción correcta. Las justificaciones se encuentran al final del examen.",
-  "preguntas": [
-    {
-      "id": 1,
-      "pregunta": "¿Cuál es el abordaje quirúrgico más habitual para resección de un tumor pineal sintomático en adulto?",
-      "opciones": {
-        "a": "Opción A: Craniectomía frontal media",
-        "b": "Opción B: Abordaje occipital transtentorial (infratentorial-supracerebeloso)",
-        "c": "Opción C: Abordaje transnasal endoscópico",
-        "d": "Opción D: Laminectomía cervical"
-      },
-      "respuesta_correcta": "b"
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál es el abordaje quirúrgico más habitual para resección de un tumor pineal sintomático en adulto?",
+    "opciones": {
+      "a": "Opción A: Craniectomía frontal media",
+      "b": "Opción B: Abordaje occipital transtentorial (infratentorial-supracerebeloso)",
+      "c": "Opción C: Abordaje transnasal endoscópico",
+      "d": "Opción D: Laminectomía cervical"
     },
-    {
-      "id": 2,
-      "pregunta": "En el manejo agudo de una convulsión tónico-clónica prolongada (>5 minutos), el tratamiento de primera línea intravenoso es:",
-      "opciones": {
-        "a": "Opción A: Fenitoína",
-        "b": "Opción B: Midazolam o lorazepam (benzodiacepinas)",
-        "c": "Opción C: Vancomicina",
-        "d": "Opción D: Prednisona"
-      },
-      "respuesta_correcta": "b"
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 2,
+    "pregunta": "En el manejo agudo de una convulsión tónico-clónica prolongada (>5 minutos), el tratamiento de primera línea intravenoso es:",
+    "opciones": {
+      "a": "Opción A: Fenitoína",
+      "b": "Opción B: Midazolam o lorazepam (benzodiacepinas)",
+      "c": "Opción C: Vancomicina",
+      "d": "Opción D: Prednisona"
     },
-    {
-      "id": 3,
-      "pregunta": "Señale la prueba de imagen más sensible para detectar isquemia cerebral aguda en las primeras horas:",
-      "opciones": {
-        "a": "Opción A: Radiografía simple de cráneo",
-        "b": "Opción B: TC sin contraste",
-        "c": "Opción C: RM con difusión (DWI)",
-        "d": "Opción D: Ecografía Doppler carotídea"
-      },
-      "respuesta_correcta": "c"
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 3,
+    "pregunta": "Señale la prueba de imagen más sensible para detectar isquemia cerebral aguda en las primeras horas:",
+    "opciones": {
+      "a": "Opción A: Radiografía simple de cráneo",
+      "b": "Opción B: TC sin contraste",
+      "c": "Opción C: RM con difusión (DWI)",
+      "d": "Opción D: Ecografía Doppler carotídea"
     },
-    {
-      "id": 4,
-      "pregunta": "Cuál maniobra se utiliza para evaluar la integridad del nervio facial (VII) a nivel periférico?",
-      "opciones": {
-        "a": "Opción A: Pedir al paciente que cierre los ojos y sonría (parálisis de la frente afectada)",
-        "b": "Opción B: Exploración del reflejo rotuliano",
-        "c": "Opción C: Test de Romberg",
-        "d": "Opción D: Prueba de Weber"
-      },
-      "respuesta_correcta": "a"
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 4,
+    "pregunta": "Cuál maniobra se utiliza para evaluar la integridad del nervio facial (VII) a nivel periférico?",
+    "opciones": {
+      "a": "Opción A: Pedir al paciente que cierre los ojos y sonría (parálisis de la frente afectada)",
+      "b": "Opción B: Exploración del reflejo rotuliano",
+      "c": "Opción C: Test de Romberg",
+      "d": "Opción D: Prueba de Weber"
     },
-    {
-      "id": 5,
-      "pregunta": "Signo de alarma que sugiere hipertensión intracraneal aguda:",
-      "opciones": {
-        "a": "Opción A: Pupilas isocóricas y reactivas",
-        "b": "Opción B: Vómitos en proyectil y bradicardia",
-        "c": "Opción C: Mejora de cefalea al acostarse",
-        "d": "Opción D: Aumento de apetito"
-      },
-      "respuesta_correcta": "b"
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 5,
+    "pregunta": "Signo de alarma que sugiere hipertensión intracraneal aguda:",
+    "opciones": {
+      "a": "Opción A: Pupilas isocóricas y reactivas",
+      "b": "Opción B: Vómitos en proyectil y bradicardia",
+      "c": "Opción C: Mejora de cefalea al acostarse",
+      "d": "Opción D: Aumento de apetito"
     },
-    {
-      "id": 6,
-      "pregunta": "Prueba diagnóstica de elección para sospecha de meningitis bacteriana en paciente estable:",
-      "opciones": {
-        "a": "Opción A: Punción lumbar con análisis de $\text{LCR}$",
-        "b": "Opción B: Radiografía de tórax",
-        "c": "Opción C: Electrocardiograma",
-        "d": "Opción D: Ecografía abdominal"
-      },
-      "respuesta_correcta": "a"
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 6,
+    "pregunta": "Prueba diagnóstica de elección para sospecha de meningitis bacteriana en paciente estable:",
+    "opciones": {
+      "a": "Opción A: Punción lumbar con análisis de $\text{LCR}$",
+      "b": "Opción B: Radiografía de tórax",
+      "c": "Opción C: Electrocardiograma",
+      "d": "Opción D: Ecografía abdominal"
     },
-    {
-      "id": 7,
-      "pregunta": "Un Babinski positivo indica lesión en:",
-      "opciones": {
-        "a": "Opción A: Vía corticoespinal (tracto piramidal)",
-        "b": "Opción B: Nervio periférico motor",
-        "c": "Opción C: Sistema vestibular",
-        "d": "Opción D: Nervio óptico"
-      },
-      "respuesta_correcta": "a"
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 7,
+    "pregunta": "Un Babinski positivo indica lesión en:",
+    "opciones": {
+      "a": "Opción A: Vía corticoespinal (tracto piramidal)",
+      "b": "Opción B: Nervio periférico motor",
+      "c": "Opción C: Sistema vestibular",
+      "d": "Opción D: Nervio óptico"
     },
-    {
-      "id": 8,
-      "pregunta": "Cuál es el manejo de elección inicial para el síndrome de Guillain-Barré con progresión rápida y compromiso respiratorio?",
-      "opciones": {
-        "a": "Opción A: Observación domiciliaria",
-        "b": "Opción B: Inmunoglobulina intravenosa ($\text{IVIG}$) o plasmaféresis y soporte ventilatorio",
-        "c": "Opción C: Antibióticos orales",
-        "d": "Opción D: Terapia física exclusiva"
-      },
-      "respuesta_correcta": "b"
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 8,
+    "pregunta": "Cuál es el manejo de elección inicial para el síndrome de Guillain-Barré con progresión rápida y compromiso respiratorio?",
+    "opciones": {
+      "a": "Opción A: Observación domiciliaria",
+      "b": "Opción B: Inmunoglobulina intravenosa ($\text{IVIG}$) o plasmaféresis y soporte ventilatorio",
+      "c": "Opción C: Antibióticos orales",
+      "d": "Opción D: Terapia física exclusiva"
     },
-    {
-      "id": 9,
-      "pregunta": "La prueba más útil para distinguir entre neuropatía axonal y desmielinizante es:",
-      "opciones": {
-        "a": "Opción A: Electromiografía y estudios de conducción nerviosa ($\text{ENMG}$)",
-        "b": "Opción B: TC de cráneo",
-        "c": "Opción C: Hemograma completo",
-        "d": "Opción D: Gasometría"
-      },
-      "respuesta_correcta": "a"
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 9,
+    "pregunta": "La prueba más útil para distinguir entre neuropatía axonal y desmielinizante es:",
+    "opciones": {
+      "a": "Opción A: Electromiografía y estudios de conducción nerviosa ($\text{ENMG}$)",
+      "b": "Opción B: TC de cráneo",
+      "c": "Opción C: Hemograma completo",
+      "d": "Opción D: Gasometría"
     },
-    {
-      "id": 10,
-      "pregunta": "Medida inicial en hipertensión intracraneal aguda antes de intervención quirúrgica:",
-      "opciones": {
-        "a": "Opción A: Elevar cabecera, hiperventilación controlada y soluciones hipertónicas intermitentes",
-        "b": "Opción B: Administrar anticoagulación",
-        "c": "Opción C: Reposo absoluto sin monitorización",
-        "d": "Opción D: Iniciar antibióticos de amplio espectro"
-      },
-      "respuesta_correcta": "a"
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 10,
+    "pregunta": "Medida inicial en hipertensión intracraneal aguda antes de intervención quirúrgica:",
+    "opciones": {
+      "a": "Opción A: Elevar cabecera, hiperventilación controlada y soluciones hipertónicas intermitentes",
+      "b": "Opción B: Administrar anticoagulación",
+      "c": "Opción C: Reposo absoluto sin monitorización",
+      "d": "Opción D: Iniciar antibióticos de amplio espectro"
     },
-    {
-      "id": 11,
-      "pregunta": "La convulsión febril simple se caracteriza por:",
-      "opciones": {
-        "a": "Opción A: Convulsión generalizada breve ($<15 \text{ min}$) y sin foco neurológico persistente",
-        "b": "Opción B: Convulsión focal prolongada",
-        "c": "Opción C: Convulsión asociada a tumor cerebral",
-        "d": "Opción D: Crisis epiléptica crónica"
-      },
-      "respuesta_correcta": "a"
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 11,
+    "pregunta": "La convulsión febril simple se caracteriza por:",
+    "opciones": {
+      "a": "Opción A: Convulsión generalizada breve ($<15 \text{ min}$) y sin foco neurológico persistente",
+      "b": "Opción B: Convulsión focal prolongada",
+      "c": "Opción C: Convulsión asociada a tumor cerebral",
+      "d": "Opción D: Crisis epiléptica crónica"
     },
-    {
-      "id": 12,
-      "pregunta": "Signo que sugiere hipertensión intracraneal en un niño es:",
-      "opciones": {
-        "a": "Opción A: Vómitos en proyectil y fontanela abultada en lactantes",
-        "b": "Opción B: Pérdida de peso",
-        "c": "Opción C: Tos leve",
-        "d": "Opción D: Ictericia"
-      },
-      "respuesta_correcta": "a"
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 12,
+    "pregunta": "Signo que sugiere hipertensión intracraneal en un niño es:",
+    "opciones": {
+      "a": "Opción A: Vómitos en proyectil y fontanela abultada en lactantes",
+      "b": "Opción B: Pérdida de peso",
+      "c": "Opción C: Tos leve",
+      "d": "Opción D: Ictericia"
     },
-    {
-      "id": 13,
-      "pregunta": "Prueba de elección para hemorragia intracraneal aguda es:",
-      "opciones": {
-        "a": "Opción A: Tomografía computarizada ($\text{TC}$) sin contraste",
-        "b": "Opción B: RMN inmediatamente en todos los casos",
-        "c": "Opción C: Radiografía de cráneo",
-        "d": "Opción D: Ecografía abdominal"
-      },
-      "respuesta_correcta": "a"
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 13,
+    "pregunta": "Prueba de elección para hemorragia intracraneal aguda es:",
+    "opciones": {
+      "a": "Opción A: Tomografía computarizada ($\text{TC}$) sin contraste",
+      "b": "Opción B: RMN inmediatamente en todos los casos",
+      "c": "Opción C: Radiografía de cráneo",
+      "d": "Opción D: Ecografía abdominal"
     },
-    {
-      "id": 14,
-      "pregunta": "En parálisis cerebral, una característica típica es:",
-      "opciones": {
-        "a": "Opción A: Trastorno motor no progresivo originado en el cerebro en desarrollo",
-        "b": "Opción B: Enfermedad neuromuscular progresiva primaria",
-        "c": "Opción C: Problema renal",
-        "d": "Opción D: Infección cutánea"
-      },
-      "respuesta_correcta": "a"
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 14,
+    "pregunta": "En parálisis cerebral, una característica típica es:",
+    "opciones": {
+      "a": "Opción A: Trastorno motor no progresivo originado en el cerebro en desarrollo",
+      "b": "Opción B: Enfermedad neuromuscular progresiva primaria",
+      "c": "Opción C: Problema renal",
+      "d": "Opción D: Infección cutánea"
     },
-    {
-      "id": 15,
-      "pregunta": "Prueba útil en diagnóstico de trastornos del sueño en pediatría:",
-      "opciones": {
-        "a": "Opción A: Polisomnografía",
-        "b": "Opción B: Radiografía de tórax",
-        "c": "Opción C: Ecografía renal",
-        "d": "Opción D: Electromiografía en todos los casos"
-      },
-      "respuesta_correcta": "a"
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 15,
+    "pregunta": "Prueba útil en diagnóstico de trastornos del sueño en pediatría:",
+    "opciones": {
+      "a": "Opción A: Polisomnografía",
+      "b": "Opción B: Radiografía de tórax",
+      "c": "Opción C: Ecografía renal",
+      "d": "Opción D: Electromiografía en todos los casos"
     },
-    {
-      "id": 16,
-      "pregunta": "Patógeno más frecuente en absceso cerebral.",
-      "opciones": {
-        "a": "Opción A: Virus de la Inmunodeficiencia Humana (VIH)",
-        "b": "Opción B: Bacterias piógenas (ej. $Streptococcus$, $Staphylococcus$)",
-        "c": "Opción C: Parásitos como $Plasmodium$",
-        "d": "Opción D: Hongos de la familia $Candida$"
-      },
-      "respuesta_correcta": "b"
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 16,
+    "pregunta": "Patógeno más frecuente en absceso cerebral.",
+    "opciones": {
+      "a": "Opción A: Virus de la Inmunodeficiencia Humana (VIH)",
+      "b": "Opción B: Bacterias piógenas (ej. $Streptococcus$, $Staphylococcus$)",
+      "c": "Opción C: Parásitos como $Plasmodium$",
+      "d": "Opción D: Hongos de la familia $Candida$"
     },
-    {
-      "id": 17,
-      "pregunta": "Tratamiento de primera línea para la neuralgia del trigémino:",
-      "opciones": {
-        "a": "Opción A: Cirugía inmediata",
-        "b": "Opción B: Carbamazepina",
-        "c": "Opción C: Antibióticos",
-        "d": "Opción D: Terapia con vitaminas"
-      },
-      "respuesta_correcta": "b"
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 17,
+    "pregunta": "Tratamiento de primera línea para la neuralgia del trigémino:",
+    "opciones": {
+      "a": "Opción A: Cirugía inmediata",
+      "b": "Opción B: Carbamazepina",
+      "c": "Opción C: Antibióticos",
+      "d": "Opción D: Terapia con vitaminas"
     },
-    {
-      "id": 18,
-      "pregunta": "La demencia con cuerpos de Lewy se distingue por la presencia de:",
-      "opciones": {
-        "a": "Opción A: Ovillos neurofibrilares",
-        "b": "Opción B: Fluctuaciones cognitivas, alucinaciones visuales y parkinsonismo",
-        "c": "Opción C: Infartos lacunares múltiples",
-        "d": "Opción D: Acumulación de placas beta-amiloides"
-      },
-      "respuesta_correcta": "b"
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 18,
+    "pregunta": "La demencia con cuerpos de Lewy se distingue por la presencia de:",
+    "opciones": {
+      "a": "Opción A: Ovillos neurofibrilares",
+      "b": "Opción B: Fluctuaciones cognitivas, alucinaciones visuales y parkinsonismo",
+      "c": "Opción C: Infartos lacunares múltiples",
+      "d": "Opción D: Acumulación de placas beta-amiloides"
     },
-    {
-      "id": 19,
-      "pregunta": "¿Cuál es el tratamiento de elección en la esclerosis múltiple con brotes (forma remitente-recurrente)?",
-      "opciones": {
-        "a": "Opción A: Reposo absoluto",
-        "b": "Opción B: Inmunosupresores o inmunomoduladores (DMT)",
-        "c": "Opción C: Dieta cetogénica estricta",
-        "d": "Opción D: Analgésicos OTC"
-      },
-      "respuesta_correcta": "b"
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Cuál es el tratamiento de elección en la esclerosis múltiple con brotes (forma remitente-recurrente)?",
+    "opciones": {
+      "a": "Opción A: Reposo absoluto",
+      "b": "Opción B: Inmunosupresores o inmunomoduladores (DMT)",
+      "c": "Opción C: Dieta cetogénica estricta",
+      "d": "Opción D: Analgésicos OTC"
     },
-    {
-      "id": 20,
-      "pregunta": "¿Qué tipo de parálisis facial se caracteriza por preservar la función de la frente (parálisis sólo de la parte inferior de la cara)?",
-      "opciones": {
-        "a": "Opción A: Parálisis Facial Central (Vía Motora Superior)",
-        "b": "Opción B: Parálisis Facial Periférica (Vía Motora Inferior)",
-        "c": "Opción C: Parálisis del VI par",
-        "d": "Opción D: Síndrome de Guillain-Barré"
-      },
-      "respuesta_correcta": "a"
-    }
-  
-}
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué tipo de parálisis facial se caracteriza por preservar la función de la frente (parálisis sólo de la parte inferior de la cara)?",
+    "opciones": {
+      "a": "Opción A: Parálisis Facial Central (Vía Motora Superior)",
+      "b": "Opción B: Parálisis Facial Periférica (Vía Motora Inferior)",
+      "c": "Opción C: Parálisis del VI par",
+      "d": "Opción D: Síndrome de Guillain-Barré"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Cuál es el abordaje quirúrgico más habitual para resección de un tumor pineal sintomático en adulto?",
+    "opciones": {
+      "a": "Opción A: Craniectomía frontal media",
+      "b": "Opción B: Abordaje occipital transtentorial (infratentorial-supracerebeloso)",
+      "c": "Opción C: Abordaje transnasal endoscópico",
+      "d": "Opción D: Laminectomía cervical"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 22,
+    "pregunta": "En el manejo agudo de una convulsión tónico-clónica prolongada (>5 minutos), el tratamiento de primera línea intravenoso es:",
+    "opciones": {
+      "a": "Opción A: Fenitoína",
+      "b": "Opción B: Midazolam o lorazepam (benzodiacepinas)",
+      "c": "Opción C: Vancomicina",
+      "d": "Opción D: Prednisona"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 23,
+    "pregunta": "Señale la prueba de imagen más sensible para detectar isquemia cerebral aguda en las primeras horas:",
+    "opciones": {
+      "a": "Opción A: Radiografía simple de cráneo",
+      "b": "Opción B: TC sin contraste",
+      "c": "Opción C: RM con difusión (DWI)",
+      "d": "Opción D: Ecografía Doppler carotídea"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 24,
+    "pregunta": "Cuál maniobra se utiliza para evaluar la integridad del nervio facial (VII) a nivel periférico?",
+    "opciones": {
+      "a": "Opción A: Pedir al paciente que cierre los ojos y sonría (parálisis de la frente afectada)",
+      "b": "Opción B: Exploración del reflejo rotuliano",
+      "c": "Opción C: Test de Romberg",
+      "d": "Opción D: Prueba de Weber"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 25,
+    "pregunta": "Signo de alarma que sugiere hipertensión intracraneal aguda:",
+    "opciones": {
+      "a": "Opción A: Pupilas isocóricas y reactivas",
+      "b": "Opción B: Vómitos en proyectil y bradicardia",
+      "c": "Opción C: Mejora de cefalea al acostarse",
+      "d": "Opción D: Aumento de apetito"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 26,
+    "pregunta": "Prueba diagnóstica de elección para sospecha de meningitis bacteriana en paciente estable:",
+    "opciones": {
+      "a": "Opción A: Punción lumbar con análisis de $\text{LCR}$",
+      "b": "Opción B: Radiografía de tórax",
+      "c": "Opción C: Electrocardiograma",
+      "d": "Opción D: Ecografía abdominal"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 27,
+    "pregunta": "Un Babinski positivo indica lesión en:",
+    "opciones": {
+      "a": "Opción A: Vía corticoespinal (tracto piramidal)",
+      "b": "Opción B: Nervio periférico motor",
+      "c": "Opción C: Sistema vestibular",
+      "d": "Opción D: Nervio óptico"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 28,
+    "pregunta": "Cuál es el manejo de elección inicial para el síndrome de Guillain-Barré con progresión rápida y compromiso respiratorio?",
+    "opciones": {
+      "a": "Opción A: Observación domiciliaria",
+      "b": "Opción B: Inmunoglobulina intravenosa ($\text{IVIG}$) o plasmaféresis y soporte ventilatorio",
+      "c": "Opción C: Antibióticos orales",
+      "d": "Opción D: Terapia física exclusiva"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 29,
+    "pregunta": "La prueba más útil para distinguir entre neuropatía axonal y desmielinizante es:",
+    "opciones": {
+      "a": "Opción A: Electromiografía y estudios de conducción nerviosa ($\text{ENMG}$)",
+      "b": "Opción B: TC de cráneo",
+      "c": "Opción C: Hemograma completo",
+      "d": "Opción D: Gasometría"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 30,
+    "pregunta": "Medida inicial en hipertensión intracraneal aguda antes de intervención quirúrgica:",
+    "opciones": {
+      "a": "Opción A: Elevar cabecera, hiperventilación controlada y soluciones hipertónicas intermitentes",
+      "b": "Opción B: Administrar anticoagulación",
+      "c": "Opción C: Reposo absoluto sin monitorización",
+      "d": "Opción D: Iniciar antibióticos de amplio espectro"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 31,
+    "pregunta": "La convulsión febril simple se caracteriza por:",
+    "opciones": {
+      "a": "Opción A: Convulsión generalizada breve ($<15 \text{ min}$) y sin foco neurológico persistente",
+      "b": "Opción B: Convulsión focal prolongada",
+      "c": "Opción C: Convulsión asociada a tumor cerebral",
+      "d": "Opción D: Crisis epiléptica crónica"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 32,
+    "pregunta": "Signo que sugiere hipertensión intracraneal en un niño es:",
+    "opciones": {
+      "a": "Opción A: Vómitos en proyectil y fontanela abultada en lactantes",
+      "b": "Opción B: Pérdida de peso",
+      "c": "Opción C: Tos leve",
+      "d": "Opción D: Ictericia"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 33,
+    "pregunta": "Prueba de elección para hemorragia intracraneal aguda es:",
+    "opciones": {
+      "a": "Opción A: Tomografía computarizada ($\text{TC}$) sin contraste",
+      "b": "Opción B: RMN inmediatamente en todos los casos",
+      "c": "Opción C: Radiografía de cráneo",
+      "d": "Opción D: Ecografía abdominal"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 34,
+    "pregunta": "En parálisis cerebral, una característica típica es:",
+    "opciones": {
+      "a": "Opción A: Trastorno motor no progresivo originado en el cerebro en desarrollo",
+      "b": "Opción B: Enfermedad neuromuscular progresiva primaria",
+      "c": "Opción C: Problema renal",
+      "d": "Opción D: Infección cutánea"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 35,
+    "pregunta": "Prueba útil en diagnóstico de trastornos del sueño en pediatría:",
+    "opciones": {
+      "a": "Opción A: Polisomnografía",
+      "b": "Opción B: Radiografía de tórax",
+      "c": "Opción C: Ecografía renal",
+      "d": "Opción D: Electromiografía en todos los casos"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 36,
+    "pregunta": "Patógeno más frecuente en absceso cerebral.",
+    "opciones": {
+      "a": "Opción A: Virus de la Inmunodeficiencia Humana (VIH)",
+      "b": "Opción B: Bacterias piógenas (ej. $Streptococcus$, $Staphylococcus$)",
+      "c": "Opción C: Parásitos como $Plasmodium$",
+      "d": "Opción D: Hongos de la familia $Candida$"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 37,
+    "pregunta": "Tratamiento de primera línea para la neuralgia del trigémino:",
+    "opciones": {
+      "a": "Opción A: Cirugía inmediata",
+      "b": "Opción B: Carbamazepina",
+      "c": "Opción C: Antibióticos",
+      "d": "Opción D: Terapia con vitaminas"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 38,
+    "pregunta": "La demencia con cuerpos de Lewy se distingue por la presencia de:",
+    "opciones": {
+      "a": "Opción A: Ovillos neurofibrilares",
+      "b": "Opción B: Fluctuaciones cognitivas, alucinaciones visuales y parkinsonismo",
+      "c": "Opción C: Infartos lacunares múltiples",
+      "d": "Opción D: Acumulación de placas beta-amiloides"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Cuál es el tratamiento de elección en la esclerosis múltiple con brotes (forma remitente-recurrente)?",
+    "opciones": {
+      "a": "Opción A: Reposo absoluto",
+      "b": "Opción B: Inmunosupresores o inmunomoduladores (DMT)",
+      "c": "Opción C: Dieta cetogénica estricta",
+      "d": "Opción D: Analgésicos OTC"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Qué tipo de parálisis facial se caracteriza por preservar la función de la frente (parálisis sólo de la parte inferior de la cara)?",
+    "opciones": {
+      "a": "Opción A: Parálisis Facial Central (Vía Motora Superior)",
+      "b": "Opción B: Parálisis Facial Periférica (Vía Motora Inferior)",
+      "c": "Opción C: Parálisis del VI par",
+      "d": "Opción D: Síndrome de Guillain-Barré"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Cuál es el abordaje quirúrgico más habitual para resección de un tumor pineal sintomático en adulto?",
+    "opciones": {
+      "a": "Opción A: Craniectomía frontal media",
+      "b": "Opción B: Abordaje occipital transtentorial (infratentorial-supracerebeloso)",
+      "c": "Opción C: Abordaje transnasal endoscópico",
+      "d": "Opción D: Laminectomía cervical"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 42,
+    "pregunta": "En el manejo agudo de una convulsión tónico-clónica prolongada (>5 minutos), el tratamiento de primera línea intravenoso es:",
+    "opciones": {
+      "a": "Opción A: Fenitoína",
+      "b": "Opción B: Midazolam o lorazepam (benzodiacepinas)",
+      "c": "Opción C: Vancomicina",
+      "d": "Opción D: Prednisona"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 43,
+    "pregunta": "Señale la prueba de imagen más sensible para detectar isquemia cerebral aguda en las primeras horas:",
+    "opciones": {
+      "a": "Opción A: Radiografía simple de cráneo",
+      "b": "Opción B: TC sin contraste",
+      "c": "Opción C: RM con difusión (DWI)",
+      "d": "Opción D: Ecografía Doppler carotídea"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 44,
+    "pregunta": "Cuál maniobra se utiliza para evaluar la integridad del nervio facial (VII) a nivel periférico?",
+    "opciones": {
+      "a": "Opción A: Pedir al paciente que cierre los ojos y sonría (parálisis de la frente afectada)",
+      "b": "Opción B: Exploración del reflejo rotuliano",
+      "c": "Opción C: Test de Romberg",
+      "d": "Opción D: Prueba de Weber"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 45,
+    "pregunta": "Signo de alarma que sugiere hipertensión intracraneal aguda:",
+    "opciones": {
+      "a": "Opción A: Pupilas isocóricas y reactivas",
+      "b": "Opción B: Vómitos en proyectil y bradicardia",
+      "c": "Opción C: Mejora de cefalea al acostarse",
+      "d": "Opción D: Aumento de apetito"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 46,
+    "pregunta": "Prueba diagnóstica de elección para sospecha de meningitis bacteriana en paciente estable:",
+    "opciones": {
+      "a": "Opción A: Punción lumbar con análisis de $\text{LCR}$",
+      "b": "Opción B: Radiografía de tórax",
+      "c": "Opción C: Electrocardiograma",
+      "d": "Opción D: Ecografía abdominal"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 47,
+    "pregunta": "Un Babinski positivo indica lesión en:",
+    "opciones": {
+      "a": "Opción A: Vía corticoespinal (tracto piramidal)",
+      "b": "Opción B: Nervio periférico motor",
+      "c": "Opción C: Sistema vestibular",
+      "d": "Opción D: Nervio óptico"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 48,
+    "pregunta": "Cuál es el manejo de elección inicial para el síndrome de Guillain-Barré con progresión rápida y compromiso respiratorio?",
+    "opciones": {
+      "a": "Opción A: Observación domiciliaria",
+      "b": "Opción B: Inmunoglobulina intravenosa ($\text{IVIG}$) o plasmaféresis y soporte ventilatorio",
+      "c": "Opción C: Antibióticos orales",
+      "d": "Opción D: Terapia física exclusiva"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 49,
+    "pregunta": "La prueba más útil para distinguir entre neuropatía axonal y desmielinizante es:",
+    "opciones": {
+      "a": "Opción A: Electromiografía y estudios de conducción nerviosa ($\text{ENMG}$)",
+      "b": "Opción B: TC de cráneo",
+      "c": "Opción C: Hemograma completo",
+      "d": "Opción D: Gasometría"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 50,
+    "pregunta": "Medida inicial en hipertensión intracraneal aguda antes de intervención quirúrgica:",
+    "opciones": {
+      "a": "Opción A: Elevar cabecera, hiperventilación controlada y soluciones hipertónicas intermitentes",
+      "b": "Opción B: Administrar anticoagulación",
+      "c": "Opción C: Reposo absoluto sin monitorización",
+      "d": "Opción D: Iniciar antibióticos de amplio espectro"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 51,
+    "pregunta": "La convulsión febril simple se caracteriza por:",
+    "opciones": {
+      "a": "Opción A: Convulsión generalizada breve ($<15 \text{ min}$) y sin foco neurológico persistente",
+      "b": "Opción B: Convulsión focal prolongada",
+      "c": "Opción C: Convulsión asociada a tumor cerebral",
+      "d": "Opción D: Crisis epiléptica crónica"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 52,
+    "pregunta": "Signo que sugiere hipertensión intracraneal en un niño es:",
+    "opciones": {
+      "a": "Opción A: Vómitos en proyectil y fontanela abultada en lactantes",
+      "b": "Opción B: Pérdida de peso",
+      "c": "Opción C: Tos leve",
+      "d": "Opción D: Ictericia"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 53,
+    "pregunta": "Prueba de elección para hemorragia intracraneal aguda es:",
+    "opciones": {
+      "a": "Opción A: Tomografía computarizada ($\text{TC}$) sin contraste",
+      "b": "Opción B: RMN inmediatamente en todos los casos",
+      "c": "Opción C: Radiografía de cráneo",
+      "d": "Opción D: Ecografía abdominal"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 54,
+    "pregunta": "En parálisis cerebral, una característica típica es:",
+    "opciones": {
+      "a": "Opción A: Trastorno motor no progresivo originado en el cerebro en desarrollo",
+      "b": "Opción B: Enfermedad neuromuscular progresiva primaria",
+      "c": "Opción C: Problema renal",
+      "d": "Opción D: Infección cutánea"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 55,
+    "pregunta": "Prueba útil en diagnóstico de trastornos del sueño en pediatría:",
+    "opciones": {
+      "a": "Opción A: Polisomnografía",
+      "b": "Opción B: Radiografía de tórax",
+      "c": "Opción C: Ecografía renal",
+      "d": "Opción D: Electromiografía en todos los casos"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 56,
+    "pregunta": "Patógeno más frecuente en absceso cerebral.",
+    "opciones": {
+      "a": "Opción A: Virus de la Inmunodeficiencia Humana (VIH)",
+      "b": "Opción B: Bacterias piógenas (ej. $Streptococcus$, $Staphylococcus$)",
+      "c": "Opción C: Parásitos como $Plasmodium$",
+      "d": "Opción D: Hongos de la familia $Candida$"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 57,
+    "pregunta": "Tratamiento de primera línea para la neuralgia del trigémino:",
+    "opciones": {
+      "a": "Opción A: Cirugía inmediata",
+      "b": "Opción B: Carbamazepina",
+      "c": "Opción C: Antibióticos",
+      "d": "Opción D: Terapia con vitaminas"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 58,
+    "pregunta": "La demencia con cuerpos de Lewy se distingue por la presencia de:",
+    "opciones": {
+      "a": "Opción A: Ovillos neurofibrilares",
+      "b": "Opción B: Fluctuaciones cognitivas, alucinaciones visuales y parkinsonismo",
+      "c": "Opción C: Infartos lacunares múltiples",
+      "d": "Opción D: Acumulación de placas beta-amiloides"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Cuál es el tratamiento de elección en la esclerosis múltiple con brotes (forma remitente-recurrente)?",
+    "opciones": {
+      "a": "Opción A: Reposo absoluto",
+      "b": "Opción B: Inmunosupresores o inmunomoduladores (DMT)",
+      "c": "Opción C: Dieta cetogénica estricta",
+      "d": "Opción D: Analgésicos OTC"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Qué tipo de parálisis facial se caracteriza por preservar la función de la frente (parálisis sólo de la parte inferior de la cara)?",
+    "opciones": {
+      "a": "Opción A: Parálisis Facial Central (Vía Motora Superior)",
+      "b": "Opción B: Parálisis Facial Periférica (Vía Motora Inferior)",
+      "c": "Opción C: Parálisis del VI par",
+      "d": "Opción D: Síndrome de Guillain-Barré"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Cuál es el abordaje quirúrgico más habitual para resección de un tumor pineal sintomático en adulto?",
+    "opciones": {
+      "a": "Opción A: Craniectomía frontal media",
+      "b": "Opción B: Abordaje occipital transtentorial (infratentorial-supracerebeloso)",
+      "c": "Opción C: Abordaje transnasal endoscópico",
+      "d": "Opción D: Laminectomía cervical"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 62,
+    "pregunta": "En el manejo agudo de una convulsión tónico-clónica prolongada (>5 minutos), el tratamiento de primera línea intravenoso es:",
+    "opciones": {
+      "a": "Opción A: Fenitoína",
+      "b": "Opción B: Midazolam o lorazepam (benzodiacepinas)",
+      "c": "Opción C: Vancomicina",
+      "d": "Opción D: Prednisona"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 63,
+    "pregunta": "Señale la prueba de imagen más sensible para detectar isquemia cerebral aguda en las primeras horas:",
+    "opciones": {
+      "a": "Opción A: Radiografía simple de cráneo",
+      "b": "Opción B: TC sin contraste",
+      "c": "Opción C: RM con difusión (DWI)",
+      "d": "Opción D: Ecografía Doppler carotídea"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 64,
+    "pregunta": "Cuál maniobra se utiliza para evaluar la integridad del nervio facial (VII) a nivel periférico?",
+    "opciones": {
+      "a": "Opción A: Pedir al paciente que cierre los ojos y sonría (parálisis de la frente afectada)",
+      "b": "Opción B: Exploración del reflejo rotuliano",
+      "c": "Opción C: Test de Romberg",
+      "d": "Opción D: Prueba de Weber"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 65,
+    "pregunta": "Signo de alarma que sugiere hipertensión intracraneal aguda:",
+    "opciones": {
+      "a": "Opción A: Pupilas isocóricas y reactivas",
+      "b": "Opción B: Vómitos en proyectil y bradicardia",
+      "c": "Opción C: Mejora de cefalea al acostarse",
+      "d": "Opción D: Aumento de apetito"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 66,
+    "pregunta": "Prueba diagnóstica de elección para sospecha de meningitis bacteriana en paciente estable:",
+    "opciones": {
+      "a": "Opción A: Punción lumbar con análisis de $\text{LCR}$",
+      "b": "Opción B: Radiografía de tórax",
+      "c": "Opción C: Electrocardiograma",
+      "d": "Opción D: Ecografía abdominal"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 67,
+    "pregunta": "Un Babinski positivo indica lesión en:",
+    "opciones": {
+      "a": "Opción A: Vía corticoespinal (tracto piramidal)",
+      "b": "Opción B: Nervio periférico motor",
+      "c": "Opción C: Sistema vestibular",
+      "d": "Opción D: Nervio óptico"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 68,
+    "pregunta": "Cuál es el manejo de elección inicial para el síndrome de Guillain-Barré con progresión rápida y compromiso respiratorio?",
+    "opciones": {
+      "a": "Opción A: Observación domiciliaria",
+      "b": "Opción B: Inmunoglobulina intravenosa ($\text{IVIG}$) o plasmaféresis y soporte ventilatorio",
+      "c": "Opción C: Antibióticos orales",
+      "d": "Opción D: Terapia física exclusiva"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 69,
+    "pregunta": "La prueba más útil para distinguir entre neuropatía axonal y desmielinizante es:",
+    "opciones": {
+      "a": "Opción A: Electromiografía y estudios de conducción nerviosa ($\text{ENMG}$)",
+      "b": "Opción B: TC de cráneo",
+      "c": "Opción C: Hemograma completo",
+      "d": "Opción D: Gasometría"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 70,
+    "pregunta": "Medida inicial en hipertensión intracraneal aguda antes de intervención quirúrgica:",
+    "opciones": {
+      "a": "Opción A: Elevar cabecera, hiperventilación controlada y soluciones hipertónicas intermitentes",
+      "b": "Opción B: Administrar anticoagulación",
+      "c": "Opción C: Reposo absoluto sin monitorización",
+      "d": "Opción D: Iniciar antibióticos de amplio espectro"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 71,
+    "pregunta": "La convulsión febril simple se caracteriza por:",
+    "opciones": {
+      "a": "Opción A: Convulsión generalizada breve ($<15 \text{ min}$) y sin foco neurológico persistente",
+      "b": "Opción B: Convulsión focal prolongada",
+      "c": "Opción C: Convulsión asociada a tumor cerebral",
+      "d": "Opción D: Crisis epiléptica crónica"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 72,
+    "pregunta": "Signo que sugiere hipertensión intracraneal en un niño es:",
+    "opciones": {
+      "a": "Opción A: Vómitos en proyectil y fontanela abultada en lactantes",
+      "b": "Opción B: Pérdida de peso",
+      "c": "Opción C: Tos leve",
+      "d": "Opción D: Ictericia"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 73,
+    "pregunta": "Prueba de elección para hemorragia intracraneal aguda es:",
+    "opciones": {
+      "a": "Opción A: Tomografía computarizada ($\text{TC}$) sin contraste",
+      "b": "Opción B: RMN inmediatamente en todos los casos",
+      "c": "Opción C: Radiografía de cráneo",
+      "d": "Opción D: Ecografía abdominal"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 74,
+    "pregunta": "En parálisis cerebral, una característica típica es:",
+    "opciones": {
+      "a": "Opción A: Trastorno motor no progresivo originado en el cerebro en desarrollo",
+      "b": "Opción B: Enfermedad neuromuscular progresiva primaria",
+      "c": "Opción C: Problema renal",
+      "d": "Opción D: Infección cutánea"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 75,
+    "pregunta": "Prueba útil en diagnóstico de trastornos del sueño en pediatría:",
+    "opciones": {
+      "a": "Opción A: Polisomnografía",
+      "b": "Opción B: Radiografía de tórax",
+      "c": "Opción C: Ecografía renal",
+      "d": "Opción D: Electromiografía en todos los casos"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 76,
+    "pregunta": "Patógeno más frecuente en absceso cerebral.",
+    "opciones": {
+      "a": "Opción A: Virus de la Inmunodeficiencia Humana (VIH)",
+      "b": "Opción B: Bacterias piógenas (ej. $Streptococcus$, $Staphylococcus$)",
+      "c": "Opción C: Parásitos como $Plasmodium$",
+      "d": "Opción D: Hongos de la familia $Candida$"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 77,
+    "pregunta": "Tratamiento de primera línea para la neuralgia del trigémino:",
+    "opciones": {
+      "a": "Opción A: Cirugía inmediata",
+      "b": "Opción B: Carbamazepina",
+      "c": "Opción C: Antibióticos",
+      "d": "Opción D: Terapia con vitaminas"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 78,
+    "pregunta": "La demencia con cuerpos de Lewy se distingue por la presencia de:",
+    "opciones": {
+      "a": "Opción A: Ovillos neurofibrilares",
+      "b": "Opción B: Fluctuaciones cognitivas, alucinaciones visuales y parkinsonismo",
+      "c": "Opción C: Infartos lacunares múltiples",
+      "d": "Opción D: Acumulación de placas beta-amiloides"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Cuál es el tratamiento de elección en la esclerosis múltiple con brotes (forma remitente-recurrente)?",
+    "opciones": {
+      "a": "Opción A: Reposo absoluto",
+      "b": "Opción B: Inmunosupresores o inmunomoduladores (DMT)",
+      "c": "Opción C: Dieta cetogénica estricta",
+      "d": "Opción D: Analgésicos OTC"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Qué tipo de parálisis facial se caracteriza por preservar la función de la frente (parálisis sólo de la parte inferior de la cara)?",
+    "opciones": {
+      "a": "Opción A: Parálisis Facial Central (Vía Motora Superior)",
+      "b": "Opción B: Parálisis Facial Periférica (Vía Motora Inferior)",
+      "c": "Opción C: Parálisis del VI par",
+      "d": "Opción D: Síndrome de Guillain-Barré"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 81,
+    "pregunta": "¿Cuál es el abordaje quirúrgico más habitual para resección de un tumor pineal sintomático en adulto?",
+    "opciones": {
+      "a": "Opción A: Craniectomía frontal media",
+      "b": "Opción B: Abordaje occipital transtentorial (infratentorial-supracerebeloso)",
+      "c": "Opción C: Abordaje transnasal endoscópico",
+      "d": "Opción D: Laminectomía cervical"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 82,
+    "pregunta": "En el manejo agudo de una convulsión tónico-clónica prolongada (>5 minutos), el tratamiento de primera línea intravenoso es:",
+    "opciones": {
+      "a": "Opción A: Fenitoína",
+      "b": "Opción B: Midazolam o lorazepam (benzodiacepinas)",
+      "c": "Opción C: Vancomicina",
+      "d": "Opción D: Prednisona"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 83,
+    "pregunta": "Señale la prueba de imagen más sensible para detectar isquemia cerebral aguda en las primeras horas:",
+    "opciones": {
+      "a": "Opción A: Radiografía simple de cráneo",
+      "b": "Opción B: TC sin contraste",
+      "c": "Opción C: RM con difusión (DWI)",
+      "d": "Opción D: Ecografía Doppler carotídea"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 84,
+    "pregunta": "Cuál maniobra se utiliza para evaluar la integridad del nervio facial (VII) a nivel periférico?",
+    "opciones": {
+      "a": "Opción A: Pedir al paciente que cierre los ojos y sonría (parálisis de la frente afectada)",
+      "b": "Opción B: Exploración del reflejo rotuliano",
+      "c": "Opción C: Test de Romberg",
+      "d": "Opción D: Prueba de Weber"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 85,
+    "pregunta": "Signo de alarma que sugiere hipertensión intracraneal aguda:",
+    "opciones": {
+      "a": "Opción A: Pupilas isocóricas y reactivas",
+      "b": "Opción B: Vómitos en proyectil y bradicardia",
+      "c": "Opción C: Mejora de cefalea al acostarse",
+      "d": "Opción D: Aumento de apetito"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 86,
+    "pregunta": "Prueba diagnóstica de elección para sospecha de meningitis bacteriana en paciente estable:",
+    "opciones": {
+      "a": "Opción A: Punción lumbar con análisis de $\text{LCR}$",
+      "b": "Opción B: Radiografía de tórax",
+      "c": "Opción C: Electrocardiograma",
+      "d": "Opción D: Ecografía abdominal"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 87,
+    "pregunta": "Un Babinski positivo indica lesión en:",
+    "opciones": {
+      "a": "Opción A: Vía corticoespinal (tracto piramidal)",
+      "b": "Opción B: Nervio periférico motor",
+      "c": "Opción C: Sistema vestibular",
+      "d": "Opción D: Nervio óptico"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 88,
+    "pregunta": "Cuál es el manejo de elección inicial para el síndrome de Guillain-Barré con progresión rápida y compromiso respiratorio?",
+    "opciones": {
+      "a": "Opción A: Observación domiciliaria",
+      "b": "Opción B: Inmunoglobulina intravenosa ($\text{IVIG}$) o plasmaféresis y soporte ventilatorio",
+      "c": "Opción C: Antibióticos orales",
+      "d": "Opción D: Terapia física exclusiva"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 89,
+    "pregunta": "La prueba más útil para distinguir entre neuropatía axonal y desmielinizante es:",
+    "opciones": {
+      "a": "Opción A: Electromiografía y estudios de conducción nerviosa ($\text{ENMG}$)",
+      "b": "Opción B: TC de cráneo",
+      "c": "Opción C: Hemograma completo",
+      "d": "Opción D: Gasometría"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 90,
+    "pregunta": "Medida inicial en hipertensión intracraneal aguda antes de intervención quirúrgica:",
+    "opciones": {
+      "a": "Opción A: Elevar cabecera, hiperventilación controlada y soluciones hipertónicas intermitentes",
+      "b": "Opción B: Administrar anticoagulación",
+      "c": "Opción C: Reposo absoluto sin monitorización",
+      "d": "Opción D: Iniciar antibióticos de amplio espectro"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 91,
+    "pregunta": "La convulsión febril simple se caracteriza por:",
+    "opciones": {
+      "a": "Opción A: Convulsión generalizada breve ($<15 \text{ min}$) y sin foco neurológico persistente",
+      "b": "Opción B: Convulsión focal prolongada",
+      "c": "Opción C: Convulsión asociada a tumor cerebral",
+      "d": "Opción D: Crisis epiléptica crónica"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 92,
+    "pregunta": "Signo que sugiere hipertensión intracraneal en un niño es:",
+    "opciones": {
+      "a": "Opción A: Vómitos en proyectil y fontanela abultada en lactantes",
+      "b": "Opción B: Pérdida de peso",
+      "c": "Opción C: Tos leve",
+      "d": "Opción D: Ictericia"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 93,
+    "pregunta": "Prueba de elección para hemorragia intracraneal aguda es:",
+    "opciones": {
+      "a": "Opción A: Tomografía computarizada ($\text{TC}$) sin contraste",
+      "b": "Opción B: RMN inmediatamente en todos los casos",
+      "c": "Opción C: Radiografía de cráneo",
+      "d": "Opción D: Ecografía abdominal"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 94,
+    "pregunta": "En parálisis cerebral, una característica típica es:",
+    "opciones": {
+      "a": "Opción A: Trastorno motor no progresivo originado en el cerebro en desarrollo",
+      "b": "Opción B: Enfermedad neuromuscular progresiva primaria",
+      "c": "Opción C: Problema renal",
+      "d": "Opción D: Infección cutánea"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 95,
+    "pregunta": "Prueba útil en diagnóstico de trastornos del sueño en pediatría:",
+    "opciones": {
+      "a": "Opción A: Polisomnografía",
+      "b": "Opción B: Radiografía de tórax",
+      "c": "Opción C: Ecografía renal",
+      "d": "Opción D: Electromiografía en todos los casos"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 96,
+    "pregunta": "Patógeno más frecuente en absceso cerebral.",
+    "opciones": {
+      "a": "Opción A: Virus de la Inmunodeficiencia Humana (VIH)",
+      "b": "Opción B: Bacterias piógenas (ej. $Streptococcus$, $Staphylococcus$)",
+      "c": "Opción C: Parásitos como $Plasmodium$",
+      "d": "Opción D: Hongos de la familia $Candida$"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 97,
+    "pregunta": "Tratamiento de primera línea para la neuralgia del trigémino:",
+    "opciones": {
+      "a": "Opción A: Cirugía inmediata",
+      "b": "Opción B: Carbamazepina",
+      "c": "Opción C: Antibióticos",
+      "d": "Opción D: Terapia con vitaminas"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 98,
+    "pregunta": "La demencia con cuerpos de Lewy se distingue por la presencia de:",
+    "opciones": {
+      "a": "Opción A: Ovillos neurofibrilares",
+      "b": "Opción B: Fluctuaciones cognitivas, alucinaciones visuales y parkinsonismo",
+      "c": "Opción C: Infartos lacunares múltiples",
+      "d": "Opción D: Acumulación de placas beta-amiloides"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Cuál es el tratamiento de elección en la esclerosis múltiple con brotes (forma remitente-recurrente)?",
+    "opciones": {
+      "a": "Opción A: Reposo absoluto",
+      "b": "Opción B: Inmunosupresores o inmunomoduladores (DMT)",
+      "c": "Opción C: Dieta cetogénica estricta",
+      "d": "Opción D: Analgésicos OTC"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 100,
+    "pregunta": "¿Qué tipo de parálisis facial se caracteriza por preservar la función de la frente (parálisis sólo de la parte inferior de la cara)?",
+    "opciones": {
+      "a": "Opción A: Parálisis Facial Central (Vía Motora Superior)",
+      "b": "Opción B: Parálisis Facial Periférica (Vía Motora Inferior)",
+      "c": "Opción C: Parálisis del VI par",
+      "d": "Opción D: Síndrome de Guillain-Barré"
+    },
+    "respuesta_correcta": "a"
+  }
+]

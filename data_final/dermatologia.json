@@ -14,18 +14,6 @@
   },
   {
     "id": 2,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se requiere administrar Vancomicina a una dosis de carga de 25 mg/kg a un paciente de 80 kg con función renal normal. La presentación disponible es de 500 mg por vial. ¿Cuántos mililitros (mL) se deben administrar si el vial se reconstituye a una concentración de 100 mg/mL?",
-    "opciones": {
-      "a": "12 mL",
-      "b": "20 mL",
-      "c": "16 mL",
-      "d": "25 mL"
-    },
-    "respuesta_correcta": "b",
-},
-  {
-    "id": 3,
     "tema": "Leyes de Trasplante",
     "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
@@ -38,7 +26,7 @@
     "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
-    "id": 4,
+    "id": 3,
     "tema": "Manejo UCI / UPP",
     "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
@@ -51,1173 +39,1264 @@
     "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
-    "id": 5,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente de 70 kg requiere una infusión de Dopamina a 5 {g/kg/min. La solución tiene una concentración de 1600 g/mL. ¿Cuál es la velocidad de infusión en mL/h?",
+    "id": 4,
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "15.0 mL/h",
-      "b": "10.5 mL/h",
-      "c": "13.125 mL/h",
-      "d": "18.75 mL/h"
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-,
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
+  },
+  {
+    "id": 5,
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
+    "opciones": {
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
+  },
   {
     "id": 6,
-    "tema": "Dermatología Infecciosa",
-    "pregunta": "¿Cuál de las siguientes condiciones dermatológicas requiere el aislamiento estricto de contacto en la UCI debido a su alta transmisibilidad y riesgo para otros pacientes inmunodeprimidos?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Eritema Multiforme.",
-      "b": "Psoriasis en placas.",
-      "c": "Impétigo ampolloso extenso.",
-      "d": "Vasculitis leucocitoclástica."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "El Impétigo ampolloso extenso (causado por S. aureus) es altamente contagioso por contacto y representa un riesgo significativo de brotes nosocomiales en la UCI."
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 7,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "¿Cuál es el organismo en Argentina responsable de la regulación, coordinación y fiscalización de las actividades de procuración y trasplante de órganos, tejidos y células?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Ministerio de Salud.",
-      "b": "Dirección Nacional de Salud.",
-      "c": "INCUCAI (Instituto Nacional Central Único Coordinador de Ablación e Implante).",
-      "d": "Sociedad Argentina de Terapia Intensiva (SATI)."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "justificacion": "El INCUCAI es el organismo que rige el sistema de procuración y trasplante en Argentina y es fundamental para la coordinación de la donación de órganos."
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 8,
-    "tema": "Dermatología / Insuficiencia Renal",
-    "pregunta": "Una complicación cutánea común en el paciente crítico con insuficiencia renal que se manifiesta como prurito intenso y lesiones excoriadas es:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Dermatitis seborreica.",
-      "b": "Prurito urémico.",
-      "c": "Miliaria rubra.",
-      "d": "Dermatitis herpetiforme."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "El Prurito Urémico es una manifestación muy común y debilitante de la enfermedad renal crónica terminal."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 9,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita preparar una infusión de Heparina a 25000 unidades en 500 mL de solución salina. La bomba se ajusta a 10 mL/h. ¿Cuántas unidades de Heparina recibirá el paciente por hora?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "250 unidades/h",
-      "b": "500 unidades/h",
-      "c": "1000 unidades/h",
-      "d": "1250 unidades/h"
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "b",
-},
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
   {
     "id": 10,
-    "tema": "Dermatología / Infección",
-    "pregunta": "El signo de 'Piel de naranja' (peau d'orange) en una extremidad dolorosa y eritematosa es característico de:",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Celulitis simple.",
-      "b": "Erisipela.",
-      "c": "Fascitis Necrotizante.",
-      "d": "Dermatitis por estasis."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "justificacion": "El cambio de color de la piel a grisáceo o púrpura y la 'piel de naranja' son signos tardíos pero ominosos de Fascitis Necrotizante, indicando afectación de la fascia profunda."
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 11,
-    "tema": "NET/SJS",
-    "pregunta": "¿Qué score de gravedad se utiliza comúnmente en la UCI para evaluar la mortalidad de la Necrólisis Epidérmica Tóxica (NET) y el Síndrome de Stevens-Johnson (SJS)?",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "APACHE II",
-      "b": "SOFA",
-      "c": "SCORTEN",
-      "d": "Glasgow"
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "El score SCORTEN (Severity-of-Illness Score for Toxic Epidermal Necrolysis) es el sistema de puntuación específico para predecir la mortalidad en pacientes con SJS/NET."
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 12,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Un médico indica un bolo de 0.9 , mg de Alteplase (tPA) para un paciente de 90 , kg con accidente cerebrovascular isquémico. Si la concentración del vial reconstituido es de 1 ,mg/mL, ¿cuántos mL se deben administrar en el bolo inicial (que es el 10% de la dosis total)?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "9.0 mL",
-      "b": "8.1 mL",
-      "c": "0.81 mL",
-      "d": "0.9 mL"
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "c",
- },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
   {
     "id": 13,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "El concepto de 'muerte encefálica' o 'muerte cerebral' como criterio legal y médico para la procuración de órganos es fundamental porque:",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Permite mantener la perfusión de órganos mediante soporte artificial.",
-      "b": "Es reversible con maniobras de reanimación avanzada.",
-      "c": "Depende de la voluntad familiar y no de criterios clínicos.",
-      "d": "Sólo se aplica a pacientes pediátricos."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "a",
-    "justificacion": "La muerte encefálica es el criterio que permite declarar legalmente la muerte mientras el cuerpo sigue con funciones circulatorias y ventilatorias asistidas, crucial para mantener la viabilidad de los órganos antes de la ablación."
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 14,
-    "tema": "Dermatología / Vasculitis",
-    "pregunta": "La presencia de **púrpura palpable** en un paciente críticamente enfermo sugiere fuertemente el diagnóstico de:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Trombocitopenia simple.",
-      "b": "Vasculitis leucocitoclástica.",
-      "c": "Enfermedad injerto contra huésped (EICH).",
-      "d": "Eritema nodoso."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La púrpura palpable es el sello distintivo de la vasculitis de pequeños vasos (como la vasculitis leucocitoclástica), causada por inflamación y daño vascular, lo que resulta en extravasación de sangre hacia la dermis."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 15,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se ordena administrar 500 mL de Solución Salina al 0.9 en un período de 4 horas a través de un set de macro goteo (15 gotas/mL). ¿Cuál es la velocidad de infusión en **gotas por minuto**?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "21 gotas/min",
-      "b": "31 gotas/min",
-      "c": "42 gotas/min",
-      "d": "52 gotas/min"
-    },
-    "respuesta_correcta": "b",
-    },
-  {
-    "id": 16,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "Según las leyes de donación, ¿cuál de los siguientes órganos NO puede ser donado por un donante vivo, incluso si es un familiar directo?",
-    "opciones": {
-      "a": "Riñón.",
-      "b": "Parte del hígado.",
-      "c": "Pulmón.",
-      "d": "Corazón."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
     "respuesta_correcta": "d",
-    "justificacion": "El corazón es un órgano vital y no se puede extraer de un donante vivo. Los donantes vivos pueden donar un riñón, una parte del hígado o una porción del pulmón (lóbulo)."
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
+  {
+    "id": 16,
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
+    "opciones": {
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 17,
-    "tema": "Dermatología / Drogas Vasoactivas",
-    "pregunta": "La isquemia digital (dedos pálidos, fríos y dolorosos) en un paciente en shock que recibe altas dosis de norepinefrina es una complicación directa de:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Efecto tóxico directo del fármaco en la piel.",
-      "b": "Vasoconstricción periférica intensa.",
-      "c": "Una reacción de hipersensibilidad tipo IV.",
-      "d": "Un fenómeno de Raynaud primario."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La norepinefrina, como potente vasoconstrictor alfa-adrenérgico, puede causar una isquemia periférica significativa, llevando a necrosis digital en casos extremos."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 18,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita preparar una dilución de 200 , mg de Amiodarona en 100 , mL de Dextrosa al $5. Si la bomba se programa a 33 , mL/h, ¿cuál es la dosis de Amiodarona administrada por minuto en mg/min?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "1.1 mg/min",
-      "b": "0.66 mg/min",
-      "c": "2.2 mg/min",
-      "d": "3.3 mg/min"
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "a",
-      },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
   {
     "id": 19,
-    "tema": "Leyes de Trasplante / Ética",
-    "pregunta": "El principio ético que establece que la donación de órganos debe ser un acto voluntario y no debe implicar una compensación económica para el donante o sus familiares es el principio de:",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Beneficencia.",
-      "b": "Equidad.",
-      "c": "Altruismo.",
-      "d": "Autonomía."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "justificacion": "El altruismo es el pilar de los sistemas de donación de órganos en la mayoría de los países, asegurando que el acto se realice por voluntad de ayudar sin fines de lucro, combatiendo el tráfico de órganos."
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 20,
-    "tema": "Dermatología / Infección Fúngica",
-    "pregunta": "Las pústulas, nódulos y lesiones hemorrágicas con un centro necrótico (ectima gangrenoso) en un paciente neutropénico en la UCI son altamente sugerentes de infección por:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Staphylococcus aureus.",
-      "b": "Candida albicans.",
-      "c": "Pseudomonas aeruginosa.",
-      "d": "Virus Herpes Simple (VHS)."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "El Ectima Gangrenoso es una lesión cutánea característica de la bacteriemia por Pseudomonas aeruginosa, especialmente en pacientes gravemente inmunocomprometidos."
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 21,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se debe pasar 250 , mL de un medicamento a 100 , mL/h. ¿En cuánto tiempo (horas y minutos) terminará la infusión?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "2 horas y 0 minutos",
-      "b": "2 horas y 30 minutos",
-      "c": "2 horas y 15 minutos",
-      "d": "3 horas y 0 minutos"
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "b",
-   },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
   {
     "id": 22,
-    "tema": "Dermatología / Quemaduras",
-    "pregunta": "En un paciente gran quemado, la regla de los nueves de Wallace se utiliza principalmente para estimar:",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "La profundidad de la quemadura.",
-      "b": "El porcentaje de superficie corporal quemada (SCQ).",
-      "c": "La necesidad de intubación endotraqueal.",
-      "d": "El tiempo de cicatrización de la herida."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "b",
-    "justificacion": "La Regla de los Nueve es el método más rápido en adultos para calcular el porcentaje de Superficie Corporal Quemada (SCQ) y determinar la necesidad de reanimación hídrica (ej. Fórmula de Parkland)."
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 23,
     "tema": "Leyes de Trasplante",
-    "pregunta": "El concepto de 'cadena de custodia' en el proceso de trasplante se refiere a:",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "El registro de los pacientes en lista de espera.",
-      "b": "El registro detallado y continuo del manejo del órgano desde la ablación hasta el implante.",
-      "c": "La seguridad de los equipos médicos durante el traslado.",
-      "d": "La prioridad de trasplante basada en la antigüedad en la lista."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La cadena de custodia asegura la trazabilidad, integridad y seguridad del órgano, tejido o célula donada en todo el proceso de procuración y trasplante."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 24,
-    "tema": "Dermatología / Reacciones a Drogas",
-    "pregunta": "Un Rash maculopapular con afectación de mucosas y fiebre, que ocurre 2-8 semanas después de iniciar un fármaco, acompañado de eosinofilia y afectación de órganos internos (hígado, riñón) es altamente sugerente de:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Urticaria aguda.",
-      "b": "DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms) Syndrome.",
-      "c": "Eritema nodoso.",
-      "d": "Pitiriasis Rosada."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "El DRESS es una reacción adversa a fármacos grave y potencialmente mortal, caracterizada por un largo periodo de latencia, síntomas sistémicos (fiebre, linfadenopatía), rash y compromiso multiorgánico (hígado, riñón, etc.)."
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 25,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se indica 1 , gramo de Amoxicilina oral. La presentación disponible es una suspensión de 250 , mg/5 , mL. ¿Cuántos mL debe administrar el enfermero?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "10 mL",
-      "b": "15 mL",
-      "c": "20 mL",
-      "d": "25 mL"
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "
-]
-[
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
+  },
   {
     "id": 26,
-    "tema": "Dermatología / Quemaduras",
-    "pregunta": "¿Cuál es la prioridad terapéutica más crítica en la fase aguda (primeras 24 horas) del manejo de un paciente adulto con quemaduras de segundo y tercer grado que cubren el 40% de la superficie corporal total?",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Administración de antibióticos tópicos de amplio espectro.",
-      "b": "Analgesia potente y control del dolor.",
-      "c": "Desbridamiento quirúrgico inmediato del tejido necrótico.",
-      "d": "Reanimación hídrica agresiva según la Fórmula de Parkland."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "d",
-    "justificacion": "La reanimación hídrica es esencial para prevenir el shock hipovolémico y la insuficiencia renal, siendo la Fórmula de Parkland (4 mL/kg/%SCQ de cristaloides) el estándar de oro."
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 27,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "La fórmula de Parkland para la reanimación hídrica de quemados se basa en infundir la mitad del volumen total calculado en las primeras 8 horas. Si un paciente de 60 kg tiene el 30% de SCQ, ¿cuántos $\text{mL}$ de cristaloides debe recibir en esas primeras 8 horas?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "3600 mL",
-      "b": "7200 mL",
-      "c": "2400 mL",
-      "d": "1200 mL"
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "a",
- },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
   {
     "id": 28,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "¿Qué define la 'Lista de Espera Única Nacional' en el contexto de trasplantes?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Una lista que prioriza a los pacientes más ancianos.",
-      "b": "Un registro centralizado y dinámico que garantiza equidad en la asignación de órganos.",
-      "c": "Una lista donde sólo se incluyen pacientes con menos de 6 meses de espera.",
-      "d": "Una lista de donantes y no de receptores."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "b",
-    "justificacion": "La Lista Única Nacional es un sistema de asignación centralizado que utiliza criterios médicos (compatibilidad, urgencia) para garantizar la equidad y transparencia en la distribución de órganos."
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 29,
-    "tema": "Dermatología / Infección Fúngica",
-    "pregunta": "Un paciente de UCI con candidemia persistente desarrolla lesiones cutáneas nodulares o pápulas eritematosas, firmes y no dolorosas. Esta manifestación se conoce como:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Dermatitis por pañal.",
-      "b": "Candidiasis mucocutánea crónica.",
-      "c": "Candidiasis diseminada cutánea.",
-      "d": "Eritrasma."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La candidiasis diseminada o profunda puede manifestarse con lesiones nodulares en la piel, un signo de diseminación hematógena del hongo."
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 30,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se indica Meropenem 500 , mg IV cada 8 horas. El vial contiene 1000 , mg y se reconstituye con 10 ,mL de agua estéril. ¿Cuántos mL se deben tomar para la dosis de 500, mg?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "5.0 mL",
-      "b": "2.5 mL",
-      "c": "7.5 mL",
-      "d": "10.0 mL"
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "a",
-},
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
   {
     "id": 31,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "En el protocolo de donación, ¿cuál es el diagnóstico que debe ser confirmado y certificado por tres médicos no vinculados al equipo de trasplante para proceder con la ablación de órganos?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Shock séptico irreversible.",
-      "b": "Insuficiencia renal crónica terminal.",
-      "c": "Muerte encefálica (muerte cerebral).",
-      "d": "Paro cardiorrespiratorio."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "justificacion": "La certificación de Muerte Encefálica es el requisito médico-legal crucial en la donación de órganos a corazón latente, y debe ser realizada por médicos independientes del equipo de trasplante."
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 32,
-    "tema": "Dermatología / Prevención",
-    "pregunta": "Para la prevención de la Dermatitis Asociada a la Incontinencia (DAI) en pacientes críticos, la medida clave es:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Uso de antibióticos tópicos profilácticos.",
-      "b": "Limpieza agresiva de la zona perianal con jabón de pH alcalino.",
-      "c": "Uso de productos barrera (óxido de zinc o polímeros) y limpieza suave con pH neutro.",
-      "d": "Restringir la ingesta de líquidos para reducir la incontinencia."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La DAI se previene con limpieza suave y el uso de cremas o películas barrera para proteger la piel del exceso de humedad y enzimas fecales u orina."
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 33,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita infundir 1500 , mL de solución glucosada en 12 , horas. La velocidad de infusión en mL/h es:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "100 mL/h",
-      "b": "125 mL/h",
-      "c": "150 mL/h",
-      "d": "175 mL/h"
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "b",
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 34,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "¿Cuál es la principal justificación para la asignación prioritaria de un órgano a un receptor de extrema urgencia?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "El tiempo que ha estado en lista de espera.",
-      "b": "Su capacidad económica.",
-      "c": "El riesgo inminente de muerte sin el trasplante inmediato (urgencia vital).",
-      "d": "Su compatibilidad de grupo sanguíneo únicamente."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "justificacion": "La asignación por extrema urgencia se basa en el alto riesgo de muerte del paciente a corto plazo, priorizando la supervivencia sobre otros criterios menos críticos."
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 35,
-    "tema": "Dermatología / Farmacodermia",
-    "pregunta": "El síntoma de **prurito** intenso con la aparición de lesiones cutáneas, minutos u horas después de la administración de un fármaco, es el signo cardinal de una reacción de hipersensibilidad tipo I (mediada por IgE), como:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Eritema fijo medicamentoso.",
-      "b": "Urticaria y Angioedema.",
-      "c": "Liquen plano.",
-      "d": "Necrólisis Epidérmica Tóxica (NET)."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La urticaria y el angioedema son las manifestaciones cutáneas más comunes de las reacciones de hipersensibilidad inmediata (Tipo I), mediadas por la liberación de histamina."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 36,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se indica una infusión de Propofol a 15 , g/kg/min para un paciente de 90 , kg. El Propofol viene en una solución de 10 , mg/mL. ¿Cuál es la velocidad de infusión en mL/h?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "7.1 mL/h",
-      "b": "8.1 mL/h",
-      "c": "9.1 mL/h",
-      "d": "10.1 mL/h"
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "b",
-      },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
   {
     "id": 37,
-    "tema": "Dermatología / Úlceras",
-    "pregunta": "Según el sistema de clasificación de úlceras por presión, una úlcera que presenta pérdida total del grosor de la piel con exposición de hueso, tendón o músculo corresponde a un estadio:",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Estadio II",
-      "b": "Estadio III",
-      "c": "Estadio IV",
-      "d": "Úlcera de espesor parcial"
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "justificacion": "El Estadio IV implica la exposición de estructuras profundas (hueso, tendón, músculo), lo que requiere intervención quirúrgica y tiene alto riesgo de osteomielitis."
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 38,
     "tema": "Leyes de Trasplante",
-    "pregunta": "En el proceso de procuración, el papel de la UCI y el intensivista incluye, EXCEPTO:",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Mantenimiento hemodinámico y hormonal del potencial donante.",
-      "b": "Diagnóstico y certificación de la muerte encefálica.",
-      "c": "Obtención del consentimiento informado del potencial receptor.",
-      "d": "Comunicación con el equipo de coordinación de trasplantes."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "El intensivista se enfoca en el donante. La obtención del consentimiento informado del RECEPTOR y su preparación quirúrgica es responsabilidad del equipo de trasplante y cirujanos."
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 39,
-    "tema": "Dermatología / Infección Viral",
-    "pregunta": "Las lesiones vesiculares agrupadas sobre una base eritematosa, a menudo localizadas en la zona perioral o genital, son sugestivas de una infección reactivada por:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Varicela Zóster (Herpes Zóster).",
-      "b": "Citomegalovirus (CMV).",
-      "c": "Virus Herpes Simple (VHS).",
-      "d": "Virus del Papiloma Humano (VPH)."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "Las vesículas agrupadas sobre base eritematosa es la presentación clásica del Herpes Simple, común en pacientes de UCI por reactivación en el contexto de estrés o inmunosupresión."
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 40,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Una infusión de Nitroprusiato de Sodio se prepara a 50 , mg en 250 , mL. El objetivo es administrar 2 , g/kg/min a un paciente de 65 , kg. ¿A qué velocidad se debe programar la bomba en mL/h?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "9.6 mL/h",
-      "b": "10.4 mL/h",
-      "c": "15.6 mL/h",
-      "d": "19.2 mL/h"
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "b",
-      },
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
+  },
   {
     "id": 41,
     "tema": "Leyes de Trasplante",
-    "pregunta": "En el ámbito de la donación de órganos, ¿cuál es el principio ético que prohíbe el comercio de órganos y tejidos?",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Principio de Solidaridad.",
-      "b": "Principio de Confidencialidad.",
-      "c": "Principio de No Maleficencia.",
-      "d": "Principio de la 'Donación Altruista'."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "d",
-    "justificacion": "La donación altruista es el principio legal y ético que garantiza que el acto de donar sea voluntario, gratuito y sin fines de lucro, protegiendo la integridad del sistema."
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 42,
-    "tema": "Dermatología / Auto-Inmune",
-    "pregunta": "La enfermedad autoinmune ampollosa que típicamente causa ampollas tensas, subepidérmicas, en la piel normal o eritematosa del anciano y que puede exacerbarse por fármacos o radioterapia es:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Pénfigo Vulgar.",
-      "b": "Pénfigo Foliáceo.",
-      "c": "Dermatitis Herpetiforme.",
-      "d": "Penfigoide Bulloso."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
     "respuesta_correcta": "d",
-    "justificacion": "El Penfigoide Bulloso produce ampollas grandes y tensas (por afectación subepidérmica) y es la enfermedad ampollosa autoinmune más frecuente en ancianos."
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 43,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Un medicamento debe ser diluido para alcanzar una concentración de 2 , mg/mL. Si la dosis a administrar es de 200 , mg, ¿cuál es el volumen total de la dilución que debe infundirse?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "400 mL",
-      "b": "100 mL",
-      "c": "50 mL",
-      "d": "200 mL"
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "b",
- },
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
+  },
   {
     "id": 44,
-    "tema": "Dermatología / Shock Séptico",
-    "pregunta": "La presencia de lesiones cutáneas necróticas o hemorrágicas con formación de vesículas y rápida progresión a gangrena húmeda en un paciente con shock séptico y coagulación intravascular diseminada (CID) es altamente sugestiva de:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Púrpura Trombocitopénica Trombótica (PTT).",
-      "b": "Púrpura Fulminans (PF).",
-      "c": "Ectima Gangrenoso.",
-      "d": "Síndrome de Stevens-Johnson (SJS)."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La Púrpura Fulminans es una complicación grave del shock séptico (especialmente por meningococo o neumococo) que cursa con CID, grandes placas hemorrágicas, necrosis cutánea y gangrena distal."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 45,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "El concepto de 'células progenitoras hematopoyéticas' (CPH) se relaciona con la donación de:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Médula espinal.",
-      "b": "Riñón e hígado.",
-      "c": "Médula ósea y sangre periférica.",
-      "d": "Piel y córnea."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "Las CPH son las células madre que dan origen a las células sanguíneas y se obtienen principalmente de la médula ósea o de la sangre periférica después de la movilización."
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 46,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente de 50 , kg necesita una dosis de mantenimiento de Midazolam a 0.05 , mg/kg/h. La presentación es 5 , mg/mL. ¿Cuántos mL se administran por hora?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "0.25 mL/h",
-      "b": "0.5 mL/h",
-      "c": "0.75 mL/h",
-      "d": "1.0 mL/h"
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "b",
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 47,
-    "tema": "Dermatología / Trasplante",
-    "pregunta": "En un paciente que ha recibido un trasplante alogénico de CPH (médula ósea), el rash cutáneo maculopapular eritematoso y pruriginoso, que afecta palmas, plantas y tronco, es un signo temprano de:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Eritema Multiforme post-infeccioso.",
-      "b": "Enfermedad Injerto contra Huésped (EICH) aguda.",
-      "c": "Rechazo del injerto.",
-      "d": "Toxicidad por Tacrolimus."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "El EICH agudo es una complicación seria de los trasplantes alogénicos de CPH, manifestándose clásicamente con afectación de piel (rash), hígado y tracto gastrointestinal."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 48,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita administrar un total de 3 , gramos de un antibiótico por día en dosis iguales cada 8 , horas. La dosis por toma debe ser de:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "500 mg",
-      "b": "750 mg",
-      "c": "1000 mg",
-      "d": "1500 mg"
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "c",
- },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
   {
     "id": 49,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "¿Qué ley o principio prohíbe explícitamente la discriminación de pacientes en la lista de espera por motivos de raza, religión, sexo o condición social?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "El principio de Autonomía.",
-      "b": "El principio de No Maleficencia.",
-      "c": "El principio de Equidad y Justicia Distributiva.",
-      "d": "La ley de Habeas Data."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "justificacion": "El principio de Equidad y Justicia Distributiva garantiza que los órganos se asignen basándose en criterios médicos de necesidad y compatibilidad, no en factores socioeconómicos o personales."
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 50,
-    "tema": "Dermatología / Hipotermia",
-    "pregunta": "La exposición al frío extremo en la UCI (ej. durante la hipotermia terapéutica o fallos del control de temperatura) puede causar lesiones cutáneas conocidas como:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Eritema indurado de Bazin.",
-      "b": "Perniosis (sabañones).",
-      "c": "Livedo reticularis.",
-      "d": "Eritema ab igne."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La Perniosis (sabañones) son lesiones inflamatorias de la piel que ocurren como una respuesta anormal a la exposición repetida o prolongada al frío no congelante."
-  }
-]
-[
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
+  },
   {
     "id": 51,
-    "tema": "Dermatología / Prevención",
-    "pregunta": "La estrategia más efectiva para prevenir la ulceración y la necrosis por extravasación de drogas vasoactivas (ej. Norepinefrina, Dopamina) en una vía periférica es:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Aplicar calor local inmediatamente.",
-      "b": "Retirar la vía y masajear la zona afectada.",
-      "c": "Administrar el antídoto (ej. Fentolamina) en infiltración subcutánea perilesional.",
-      "d": "Aplicar hielo y elevación de la extremidad."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "c",
-   },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
   {
     "id": 52,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente de 60 , kg necesita una infusión de Sedante X a 5 , mg/h. El medicamento está diluido a una concentración de 2 , mg/mL. ¿Cuál es la velocidad de infusión en mL/min?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "0.0416 mL/min",
-      "b": "0.416 mL/min",
-      "c": "4.16 mL/min",
-      "d": "0.0833 mL/min"
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "a",
-     },
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
+  },
   {
     "id": 53,
     "tema": "Leyes de Trasplante",
-    "pregunta": "El concepto de 'urgencia cero' en trasplante hepático se aplica a pacientes que cumplen con la condición de:",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Requerir un trasplante en las primeras 48 horas.",
-      "b": "Ser pediátrico y tener menos de 1 año de edad.",
-      "c": "Tener insuficiencia hepática aguda fulminante y pronóstico de vida de horas.",
-      "d": "Haber estado más de 5 años en lista de espera."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La Urgencia Cero es el máximo nivel de prioridad, aplicado a pacientes con fallo orgánico agudo e inminente riesgo de muerte (generalmente horas) si no reciben el trasplante de inmediato."
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 54,
-    "tema": "Dermatología / Infección",
-    "pregunta": "La celulitis es una infección de la piel y tejidos blandos que afecta la dermis y el tejido subcutáneo. ¿Cuál es el principal patógeno bacteriano causal en la mayoría de los casos no complicados?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Pseudomonas aeruginosa.",
-      "b": "Escherichia coli.",
-      "c": "Staphylococcus aureus y Streptococcus pyogenes.",
-      "d": "Clostridium difficile."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "Staphylococcus aureus y Streptococcus pyogenes (Estreptococo beta-hemolítico del grupo A) son los agentes etiológicos más comunes de la celulitis en la práctica clínica."
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 55,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se indica la administración de un medicamento a 1  mg por minuto. La dilución preparada contiene 1000 , mg en 500 , mL. ¿A qué velocidad se debe programar la bomba en mL/h?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "10 mL/h",
-      "b": "30 mL/h",
-      "c": "60 mL/h",
-      "d": "90 mL/h"
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "b",
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 56,
     "tema": "Leyes de Trasplante",
-    "pregunta": "¿Qué se considera un 'órgano en bloque' en el contexto de trasplantes?",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Un órgano dañado que no es viable para trasplante.",
-      "b": "Un órgano que requiere refrigeración especial.",
-      "c": "La ablación y trasplante de dos o más órganos conectados anatómicamente (ej. corazón-pulmón).",
-      "d": "La donación de órganos entre personas del mismo grupo sanguíneo."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La ablación 'en bloque' se refiere a la extracción y posterior trasplante de varios órganos juntos, como el corazón y los pulmones (cardiopulmonar) o los riñones y el páncreas."
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 57,
-    "tema": "Dermatología / Toxicidad",
-    "pregunta": "La 'Mancha en bandera' (flagellate erythema), caracterizada por estrías lineales de eritema y hiperpigmentación, es una toxicidad cutánea conocida por el uso de:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Corticoides sistémicos.",
-      "b": "Bleomicina.",
-      "c": "Metotrexato.",
-      "d": "Ciclosporina."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "La Bleomicina, un agente quimioterapéutico, es bien conocido por inducir el 'Eritema Flagelado', un patrón de toxicidad cutánea único."
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 58,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente debe recibir 10 mEq de Cloruro de Potasio (KCl) disuelto en 100 mL de solución en 1 hora. La ampolla tiene 20 , mEq/10 , mL. ¿Cuántos mL de KCl se extra en para la dilución?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "2.5 mL",
-      "b": "5.0 mL",
-      "c": "10.0 mL",
-      "d": "20.0 mL"
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "b",
- },
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
+  },
   {
     "id": 59,
-    "tema": "Dermatología / Trasplante",
-    "pregunta": "La manifestación cutánea más común de la infección por Citomegalovirus (CMV) en pacientes trasplantados es:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Lesiones nodulares dolorosas.",
-      "b": "Erupción maculopapular inespecífica.",
-      "c": "Vesículas umbilicadas.",
-      "d": "Eritroderma generalizado."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Aunque el CMV puede tener varias presentaciones, la más común en inmunocomprometidos es una erupción maculopapular inespecífica que puede confundirse con otras reacciones a drogas o virales."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 60,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "El tiempo de isquemia fría (período entre la ablación y el implante del órgano) es el factor más limitante para el trasplante de:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Riñón.",
-      "b": "Córnea.",
-      "c": "Corazón y pulmón.",
-      "d": "Piel."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "El corazón y los pulmones son extremadamente sensibles al tiempo de isquemia fría, con tiempos máximos de unas 4-6 horas, mucho menores que el riñón (hasta 24-48 horas) o la córnea."
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 61,
-    "tema": "Dermatología / Shock",
-    "pregunta": "En un paciente con Síndrome del Shock Tóxico Estreptocócico, el hallazgo dermatológico inicial característico es:",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Ampollas tensas generalizadas.",
-      "b": "Eritema difuso, similar a una quemadura solar (rash escarlatiniforme).",
-      "c": "Ectima Gangrenoso.",
-      "d": "Petequias no palpables en extremidades inferiores."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "b",
-    "justificacion": "El Síndrome del Shock Tóxico (SST) se asocia inicialmente con un eritema difuso y no pruriginoso, a menudo descrito como un rash escarlatiniforme, seguido de descamación posterior."
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 62,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente pediátrico de 10 , kg recibe una dosis de 5 , mg de un fármaco. Si la dosis máxima diaria es 0.75 ,mg/kg/día, ¿la dosis administrada es segura en una toma única?",
-    "opciones": {
-      "a": "Sí, el límite es 7.5 mg.",
-      "b": "No, excede el límite de 5 mg.",
-      "c": "Sí, el límite es 5 mg.",
-      "d": "No, excede el límite de 10 mg."
-    },
-    "respuesta_correcta": "a",
-    },
-  {
-    "id": 63,
     "tema": "Leyes de Trasplante",
-    "pregunta": "En el caso de un donante cadavérico, ¿cuál es el requisito legal para la ablación de tejidos como la córnea, que difiere del requisito para órganos vitales?",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Solo se requiere la confirmación de la voluntad en vida del donante.",
-      "b": "Se puede realizar después de la muerte circulatoria (no necesariamente muerte encefálica).",
-      "c": "Requiere la autorización expresa de un juez.",
-      "d": "Solo se permite en donantes mayores de 60 años."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "A diferencia de los órganos vitales, que necesitan mantenimiento circulatorio, muchos tejidos (córneas, piel, hueso) pueden procurarse después de la muerte circulatoria y pasado un tiempo de isquemia caliente mayor."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
+  },
+  {
+    "id": 63,
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
+    "opciones": {
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
+    },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 64,
-    "tema": "Dermatología / NET/SJS",
-    "pregunta": "La complicación ocular más grave y común a largo plazo en los sobrevivientes del Síndrome de Stevens-Johnson (SJS) y NET es:",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Cataratas.",
-      "b": "Retinopatía diabética.",
-      "c": "Sicca severa, simbléfaron y ceguera.",
-      "d": "Glaucoma de ángulo abierto."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "justificacion": "La afectación de las membranas mucosas oculares es clave en el SJS/NET, llevando a secuelas crónicas como la queratinización corneal, el simbléfaron (adhesión del párpado al globo ocular) y, en última instancia, ceguera."
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 65,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se debe administrar 1.5  g de Clindamicina por vía intravenosa en 30 minutos. La dilución final es de 100 , mL. ¿Cuál es la velocidad de infusión en mL/h?",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "50 mL/h",
-      "b": "100 mL/h",
-      "c": "150 mL/h",
-      "d": "200 mL/h"
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "d",
- },
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
+  },
   {
     "id": 66,
-    "tema": "Dermatología / Shock",
-    "pregunta": "La lesión cutánea de origen autoinmune asociada a daño endotelial microvascular y trombosis, que es a menudo gatillada por infección o drogas en la UCI y puede simular una vasculitis, es:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Urticaria crónica.",
-      "b": "Psoriasis pustulosa.",
-      "c": "Livedo Racemosa.",
-      "d": "Crioglobulinemia."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La Livedo Racemosa (patrón reticular 'rojo-azulado') indica oclusión vascular de pequeños vasos y se asocia a síndrome de anticuerpos antifosfolípidos y vasculopatías por hipercoagulabilidad."
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 67,
-    "tema": "Leyes de Trasplante / Donación",
-    "pregunta": "¿Cuál de las siguientes condiciones es considerada una **contraindicación absoluta** para la donación de órganos cadavérica?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Edad avanzada (más de 75 años).",
-      "b": "Diabetes Mellitus de larga evolución.",
-      "c": "Infección activa diseminada por VIH.",
-      "d": "Antecedentes de hipertensión arterial."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "justificacion": "La infección activa por VIH o algunas otras infecciones virales y bacterianas diseminadas, al igual que la presencia de cáncer activo con metástasis, son contraindicaciones absolutas por el riesgo de transmisión al receptor."
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 68,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Un medicamento se prepara a 125 , mg en 250 , mL. El paciente necesita 0.5 , mg/min. ¿Cuántas horas durará la infusión completa?",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "6 horas",
-      "b": "8 horas",
-      "c": "10 horas",
-      "d": "12 horas"
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-   },
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
+  },
   {
     "id": 69,
-    "tema": "Dermatología / Nutricional",
-    "pregunta": "Una deficiencia nutricional común en el paciente crítico con mala absorción o nutrición parenteral prolongada que cursa con erupción acral, peri-orificial, perianal y alopecia es la deficiencia de:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Vitamina B12.",
-      "b": "Ácido Fólico.",
-      "c": "Zinc.",
-      "d": "Vitamina C."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La deficiencia de Zinc (Acrolermatitis Enteropática adquirida) se manifiesta con una dermatitis acral y periorificial distintiva, diarrea y alopecia, y debe sospecharse en UCI con trastornos nutricionales."
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 70,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "La figura legal que permite a una persona viva donar un órgano a un receptor NO emparentado, siempre que haya una evaluación psicosocial y judicial previa, es:",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Donación Opt-out.",
-      "b": "Donación cruzada.",
-      "c": "Donación samaritana (altruista no dirigida).",
-      "d": "Donación por trasplante domino."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "justificacion": "La donación samaritana o altruista no dirigida permite a una persona donar un órgano (generalmente un riñón) sin conocer al receptor, siempre bajo estricto control médico, ético y legal para garantizar la voluntariedad."
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 71,
-    "tema": "Dermatología / Dispositivos",
-    "pregunta": "La Maceración, la Candidiasis y la Dermatitis por contacto alérgica o irritativa son complicaciones comunes asociadas al uso prolongado de:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Antibióticos sistémicos.",
-      "b": "Dispositivos de sujeción.",
-      "c": "Vendajes oclusivos y adhesivos.",
-      "d": "Sondas nasogástricas."
-    },
-    "respuesta_correcta": "c",
-    "
-    [
-  {
-    "id": 76,
-    "tema": "Dermatología / Prevención",
-    "pregunta": "En la prevención de las Úlceras por Presión (UPP), la escala de valoración de riesgo más utilizada en la UCI, que evalúa factores como la percepción sensorial, actividad, movilidad, nutrición, fricción y humedad, es la escala de:",
-    "opciones": {
-      "a": "Glasgow.",
-      "b": "Braden.",
-      "c": "APACHE II.",
-      "d": "SCORTEN."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La escala de Braden es el instrumento validado más común para evaluar el riesgo de desarrollo de úlceras por presión en pacientes hospitalizados, especialmente en Cuidados Críticos."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
+  },
+  {
+    "id": 72,
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
+    "opciones": {
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
+    },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
+  {
+    "id": 73,
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
+    "opciones": {
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
+  },
+  {
+    "id": 74,
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
+    "opciones": {
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
+  },
+  {
+    "id": 75,
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
+    "opciones": {
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
+    },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
+  {
+    "id": 76,
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
+    "opciones": {
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 77,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se administra 40 , mg de Furosemida (Lasix) IV. Si la ampolla es de 20 mg/2  mL, y se diluye en 8 , mL de solución salina. ¿Cuál es la concentración final en mg/mL de la dilución total (vial + diluyente)?",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "4 mg/mL",
-      "b": "5 mg/mL",
-      "c": "6 mg/mL",
-      "d": "8 mg/mL"
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "a",
- },
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
+  },
   {
     "id": 78,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "Según la legislación vigente (Ej. Ley 27447), en Argentina, el límite de edad para la donación de órganos es:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Menores de 18 años, salvo autorización expresa.",
-      "b": "80 años, como límite absoluto.",
-      "c": "No existe un límite de edad legal, se evalúa la funcionalidad del órgano.",
-      "d": "70 años para órganos macizos."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "No hay un límite de edad legal. La viabilidad del órgano se evalúa individualmente en cada donante, primando la funcionalidad sobre la edad cronológica."
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 79,
-    "tema": "Dermatología / Síndromes",
-    "pregunta": "Un paciente con sepsis y lesiones cutáneas de color rojo-violáceo con zonas de necrosis central bien delimitadas, especialmente en zonas de venopunción, debe hacernos sospechar de forma inmediata:",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Loxoscelismo (picadura de araña).",
-      "b": "Eritema Multiforme.",
-      "c": "Púrpura Fulminans.",
-      "d": "Herpes Zóster diseminado."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "justificacion": "La Púrpura Fulminans es una emergencia por CID asociada a sepsis, caracterizada por máculas equimóticas que progresan rápidamente a necrosis, a menudo desencadenada por trombosis microvascular."
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 80,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Una infusión de Cisatracurio (bloqueante neuromuscular) se requiere a 2 g/kg/min en un paciente de 100 , kg. Si el medicamento está diluido a 0.5 , mg/mL, ¿cuál es la velocidad en mL/h?",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "24 mL/h",
-      "b": "30 mL/h",
-      "c": "18 mL/h",
-      "d": "12 mL/h"
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "a",
-    },
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
+  },
   {
     "id": 81,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "¿Cuál es el principal factor de compatibilidad que determina la asignación de órganos como el riñón o el páncreas?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Grupo sanguíneo ABO y compatibilidad HLA.",
-      "b": "Antigüedad en la lista de espera.",
-      "c": "Edad y sexo del donante.",
-      "d": "Distancia geográfica entre donante y receptor."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "a",
-    "justificacion": "La compatibilidad del grupo sanguíneo ABO es obligatoria, y la compatibilidad del antígeno leucocitario humano (HLA) es crítica para minimizar el rechazo a largo plazo, especialmente en trasplante renal."
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 82,
-    "tema": "Dermatología / Infección",
-    "pregunta": "Las pápulas, vesículas o úlceras hemorrágicas, a menudo con costras amarillentas, que aparecen en la boca, labios, yugulares o narinas de pacientes con soporte mecánico, sugieren la reactivación de:",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Candidiasis Oral.",
-      "b": "Virus Herpes Simple (VHS).",
-      "c": "Varicela Zóster (HZV).",
-      "d": "Impétigo."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "b",
-    "justificacion": "La reactivación de VHS (Herpes Labialis o Stomatitis Herpética) es extremadamente común en pacientes críticos intubados o con alto estrés, manifestándose con estas lesiones en la mucosa oral y periorificial."
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 83,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se pide infundir 120 , mL de solución en 45 minutos. ¿A qué velocidad de infusión se debe programar la bomba en mL/h?",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "160 mL/h",
-      "b": "180 mL/h",
-      "c": "120 mL/h",
-      "d": "240 mL/h"
-    },
-    "respuesta_correcta": "a",
-    },
-  {
-    "id": 84,
-    "tema": "Dermatología / NET/SJS",
-    "pregunta": "¿Cuál es el manejo dermatológico de soporte más importante para un paciente con Necrólisis Epidérmica Tóxica (NET) en la UCI?",
-    "opciones": {
-      "a": "Uso de corticoides tópicos potentes.",
-      "b": "Mantener al paciente en aislamiento invertido (protector) y manejo de heridas similar a quemados.",
-      "c": "Antibióticos sistémicos profilácticos.",
-      "d": "Desbridamiento quirúrgico diario de las ampollas."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "El manejo de la NET se asemeja al de un gran quemado, incluyendo el aislamiento (para prevenir infecciones), control de temperatura y dolor, y curas suaves para la piel despegada."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
+  },
+  {
+    "id": 84,
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
+    "opciones": {
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
+    },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 85,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "La donación de 'riñón cruzado' o 'trasplante pareado' se permite legalmente cuando:",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "El receptor es menor de edad.",
-      "b": "Hay una incompatibilidad ABO o HLA entre la pareja donante-receptor original.",
-      "c": "El donante es cadavérico.",
-      "d": "La pareja donante-receptor son gemelos idénticos."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "b",
-    "justificacion": "La donación cruzada se organiza cuando una pareja (Donante A - Receptor B) es incompatible, y se empareja con otra pareja incompatible (Donante C - Receptor D) de modo que D recibe de A y B recibe de C, legalizando el intercambio."
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 86,
-    "tema": "Dermatología / Toxicidad",
-    "pregunta": "La toxicidad cutánea más frecuente asociada a la **heparina no fraccionada** o de bajo peso molecular es:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Necrosis cutánea por warfarina.",
-      "b": "Dermatitis por contacto.",
-      "c": "Necrosis cutánea inducida por heparina.",
-      "d": "Hemorragia subcutánea simple."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La Necrosis Cutánea Inducida por Heparina (HIN) es una complicación rara pero grave, a menudo asociada a la Trombocitopenia Inducida por Heparina (TIH) tipo II, y requiere la suspensión inmediata del fármaco."
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 87,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente necesita 1 , mg/kg/h de un sedante. Pesa 75 kg. El fármaco se presenta en viales de 100 , mg/10 , mL. Si se diluyen 5 , viales en 250 , mL, ¿cuál es la dosis total en mg/h que recibirá el paciente?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "75 mg/h",
-      "b": "100 mg/h",
-      "c": "150 mg/h",
-      "d": "50 mg/h"
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "a",
-     },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
   {
     "id": 88,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "La ley de trasplante exige que, antes de la donación, se realice un rastreo de enfermedades infecciosas y neoplásicas en el donante cadavérico. ¿A qué principio ético responde esta exigencia?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Principio de Justicia.",
-      "b": "Principio de Autonomía.",
-      "c": "Principio de No Maleficencia (no dañar al receptor).",
-      "d": "Principio de Beneficencia (maximizar la utilidad del órgano)."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "justificacion": "El rastreo de patógenos y cáncer busca proteger al receptor de la transmisión de enfermedades graves, cumpliendo con el principio fundamental de No Maleficencia."
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 89,
-    "tema": "Dermatología / Nutricional",
-    "pregunta": "La deficiencia de Vitamina C (Escorbuto) en la UCI, aunque rara, se manifiesta con qué hallazgo cutáneo clásico:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Erupción psoriasiforme.",
-      "b": "Petequias perifoliculares e hiperqueratosis folicular.",
-      "c": "Dermatitis seborreica grave.",
-      "d": "Ampollas tensas."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La Vitamina C es esencial para la síntesis de colágeno. Su deficiencia causa fragilidad capilar, llevando a hemorragias perifoliculares (petequias) y cabellos en forma de 'sacacorchos'."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 90,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Un medicamento se infunde a 125 , mL/h por una microbomba. Si la orden es pasar 3 , litros en total, ¿cuántos días completos durará la infusión?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "1 día",
-      "b": "2 días",
-      "c": "3 días",
-      "d": "4 días"
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "a",
-   },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
   {
     "id": 91,
-    "tema": "Leyes de Trasplante",
-    "pregunta": "En el contexto de trasplantes, ¿cuál es el significado del término **'Aloinjerto'**?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Trasplante de tejidos de la propia persona.",
-      "b": "Trasplante de órganos entre dos especies diferentes.",
-      "c": "Trasplante de órganos entre dos individuos de la misma especie (humanos).",
-      "d": "Trasplante de órganos artificiales."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    "justificacion": "Un Aloinjerto o homotrasplante se refiere al trasplante de tejidos u órganos entre dos individuos genéticamente diferentes de la misma especie."
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 92,
-    "tema": "Dermatología / UCI",
-    "pregunta": "El factor de riesgo modificable más importante para la aparición de Úlceras por Presión (UPP) en la UCI es:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Edad avanzada.",
-      "b": "Inmovilidad.",
-      "c": "Tabaquismo.",
-      "d": "Diabetes tipo 2."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La inmovilidad prolongada (por sedación, parálisis o enfermedad) es el factor de riesgo más crítico y directamente modificable (mediante cambios posturales y movilización) para las UPP."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 93,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita preparar una dilución de Dobutamina para que 1 mL contenga 40  g. Si el vial es de 250 , mg y se quiere preparar un volumen final de 50 , mL, ¿la concentración final en g/mL será correcta?",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Sí, la concentración será 5000 g/mL.",
-      "b": "No, la concentración será 4000 g/mL.",
-      "c": "No, la concentración será 500 g/mL.",
-      "d": "Sí, la concentración será 40 g/mL."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "b",
-   },
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
+  },
   {
     "id": 94,
-    "tema": "Dermatología / Manifestación Sistémica",
-    "pregunta": "La esclerodermia sistémica se caracteriza por un engrosamiento y endurecimiento de la piel (esclerosis). ¿Qué órgano esquelético es el más afectado en la esclerodermia sistémica en la UCI, llevando a complicaciones respiratorias?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Pulmón (fibrosis pulmonar).",
-      "b": "Riñón (crisis renal).",
-      "c": "Piel de las extremidades.",
-      "d": "Corazón."
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "a",
-    "justificacion": "Aunque la esclerodermia afecta la piel (c), la afectación pulmonar (fibrosis intersticial) y la hipertensión pulmonar son las principales causas de morbilidad y mortalidad en la UCI."
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
   },
   {
     "id": 95,
-    "tema": "Leyes de Trasplante / Ética",
-    "pregunta": "En el contexto de la donación de órganos, el concepto de 'doble moralidad' (dead donor rule) se refiere a la necesidad de:",
+    "tema": "Leyes de Trasplante",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Procurar órganos solo de donantes con cáncer.",
-      "b": "Declarar la muerte del paciente antes de la ablación de órganos vitales.",
-      "c": "Obtener el consentimiento de dos familias.",
-      "d": "Garantizar la confidencialidad absoluta del donante."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La regla del donante muerto establece que los órganos vitales solo pueden extraerse después de que el paciente haya sido legal y médicamente declarado muerto (por criterios circulatorios o encefálicos)."
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 96,
-    "tema": "Dermatología / Vasculitis",
-    "pregunta": "Un hallazgo de **livedo reticularis** (patrón reticular violáceo) con úlceras isquémicas en las extremidades inferiores, y asociado a niveles bajos de proteína C y S, sugiere:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Dermatitis por estasis.",
-      "b": "Síndrome antifosfolípido o hipercoagulabilidad.",
-      "c": "Vasculitis por hipersensibilidad.",
-      "d": "Infección por micobacterias atípicas."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "La Livedo Reticularis (a menudo Racemosa, irregular) es un marcador de oclusión microvascular, fuertemente asociada a estados de hipercoagulabilidad como el Síndrome Antifosfolípido (SAF) o deficiencias de proteínas anticoagulantes."
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 97,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se debe pasar una dosis de 500 , mg de Ciprofloxacino en 60 minutos. La concentración es de 2 mg/mL. ¿Cuál es el volumen total de infusión y la velocidad en mL/h?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "Volumen: 250 mL; Velocidad: 250 mL/h",
-      "b": "Volumen: 100 mL; Velocidad: 100 mL/h",
-      "c": "Volumen: 500 mL; Velocidad: 500 mL/h",
-      "d": "Volumen: 200 mL; Velocidad: 200 mL/h"
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
-    "respuesta_correcta": "a",
-     },
+    "respuesta_correcta": "c",
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
+  },
   {
     "id": 98,
     "tema": "Leyes de Trasplante",
-    "pregunta": "¿Cuál es el principal rol de los coordinadores de trasplante en la UCI?",
+    "pregunta": "Según la Ley de Trasplante y Donación de Órganos (Ej. Ley 27447 - Argentina), la donación de órganos es considerada:",
     "opciones": {
-      "a": "Realizar la evaluación clínica de la función cerebral del donante.",
-      "b": "Mantener el soporte vital del donante hasta la ablación.",
-      "c": "Coordinar la logística de la procuración y obtener el consentimiento/verificar la voluntad de donación.",
-      "d": "Realizar la cirugía de implante del órgano."
+      "a": "Donación Opt-in (debe manifestarse la voluntad de donar).",
+      "b": "Donación Opt-out (donante presunto, salvo manifestación en contrario).",
+      "c": "Dependiente exclusivamente de la decisión familiar post-mortem.",
+      "d": "Solo permitida para donantes vivos relacionados."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "Los coordinadores son el enlace fundamental entre la UCI, la familia y el sistema de trasplantes. Su rol es logístico, legal y de comunicación."
+    "respuesta_correcta": "b",
+    "justificacion": "La Ley Justina (Argentina) establece el consentimiento presunto (Opt-out), donde toda persona mayor de 18 años es considerada donante, salvo que haya dejado constancia expresa de lo contrario."
   },
   {
     "id": 99,
-    "tema": "Dermatología / Inmunosupresión",
-    "pregunta": "El desarrollo de verrugas planas, carcinomas de células escamosas y queratosis actínicas múltiples en pacientes trasplantados con inmunosupresión crónica se debe principalmente a la infección por:",
+    "tema": "Manejo UCI / UPP",
+    "pregunta": "En un paciente ventilado, la prevención de úlceras por presión (UPP) en la zona sacra y talones incluye, como estándar de cuidado, lo siguiente, EXCEPTO:",
     "opciones": {
-      "a": "Virus de Epstein-Barr (VEB).",
-      "b": "Citomegalovirus (CMV).",
-      "c": "Virus del Papiloma Humano (VPH).",
-      "d": "Virus de la Inmunodeficiencia Humana (VIH)."
+      "a": "Rotación y cambios posturales programados cada 2-3 horas.",
+      "b": "Uso de colchones y cojines de alivio de presión (ej. de presión alterna).",
+      "c": "Inspección diaria de la piel.",
+      "d": "Masaje vigoroso en prominencias óseas para mejorar la circulación."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La inmunosupresión crónica permite la reactivación y proliferación de VPH, lo que aumenta drásticamente el riesgo de cáncer de piel no melanoma (carcinomas de células escamosas) en esta población."
+    "respuesta_correcta": "d",
+    "justificacion": "Masajear vigorosamente las prominencias óseas está contraindicado ya que puede causar daño tisular adicional debido a la fragilidad de la piel y el tejido subyacente por isquemia."
   },
   {
     "id": 100,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se pide 15 mg de Morfina IV. La ampolla tiene 10 mg/mL. Si se diluye la dosis en una jeringa de 10 mL de solución salina, ¿cuál es el volumen total de la dilución en mL que se va a administrar?",
+    "tema": "NET/SJS",
+    "pregunta": "Una paciente en la UCI con sepsis grave desarrolla rápidamente ampollas flácidas, grandes áreas de despegamiento epidérmico y signo de Nikolsky positivo. La sospecha diagnóstica prioritaria es:",
     "opciones": {
-      "a": "1.5 mL",
-      "b": "10.0 mL",
-      "c": "11.5 mL",
-      "d": "15.0 mL"
+      "a": "Pénfigo Vulgar",
+      "b": "Síndrome de Stevens-Johnson (SJS)",
+      "c": "Necrólisis Epidérmica Tóxica (NET)",
+      "d": "Dermatitis por Contacto Alérgica"
     },
     "respuesta_correcta": "c",
-    }
+    "justificacion": "La Necrólisis Epidérmica Tóxica (NET) se presenta con ampollas flácidas y despegamiento epidérmico masivo (>30% de SCQ) y es la emergencia dermatológica más grave en la UCI, frecuentemente asociada a fármacos y sepsis."
+  }
 ]

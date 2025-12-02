@@ -53,95 +53,6 @@
   },
   {
     "id": 5,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se administra una infusión de Norepinefrina a 0.05 ,g/kg/min a un paciente de 70, kg. ¿Cuál es la dosis total por hora en mg/h?",
-    "opciones": {
-      "a": "0.105 mg/h.",
-      "b": "2.1 mg/h.",
-      "c": "4.2 mg/h.",
-      "d": "0.21 mg/h."
-    },
-    "respuesta_correcta": "d",
-    "justificacion": "Dosis total por minuto: 0.05,  g/kg/min times 70, kg = 3.5 , g/min. Dosis total por hora: 3.5, g/min times 60, min/h = 210 , g/h. Convertido a mg/h: 210 ,g/h 1000 , g/mg}= 0.21 , mg/h."
-  },
-  {
-    "id": 6,
-    "tema": "Leyes de Trasplante / Donante",
-    "pregunta": "En el marco de la legislación argentina, el **Donante Cadavérico** más frecuente es aquel que fallece por:",
-    "opciones": {
-      "a": "Paro cardiorrespiratorio irreversible.",
-      "b": "Muerte encefálica.",
-      "c": "Suicidio.",
-      "d": "Sepsis de foco pulmonar."
-    },
-    "respuesta_correcta": "b",
-    "justificacion": "Aunque la Donación por Parada Circulatoria Controlada (DPC) está en aumento, históricamente y por la viabilidad de la mayoría de los órganos, el donante cadavérico primario es el diagnosticado con muerte encefálica."
-  },
-  {
-    "id": 7,
-    "tema": "Hematología Crítica / Trombocitopenia",
-    "pregunta": "La tríada clásica de **Trombocitopenia, Anemia Hemolítica Microangiopática (AHMA) y disfunción renal/neurológica** es altamente indicativa de:",
-    "opciones": {
-      "a": "Anemia ferropénica.",
-      "b": "Púrpura Trombocitopénica Trombótica (PTT) o Síndrome Urémico Hemolítico (SUH).",
-      "c": "Trombocitopenia Inducida por Heparina (TIH).",
-      "d": "Mieloma Múltiple."
-    },
-    "respuesta_correcta": "b",
-    "justificacion": "Las Microangiopatías Trombóticas (MAT), principalmente PTT y SUH, se caracterizan por la tríada clásica de trombocitopenia de consumo, esquistocitos en sangre periférica (AHMA) y disfunción orgánica por microtrombos."
-  },
-  {
-    "id": 8,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente requiere 500 , mL de Solución Fisiológica a pasar en 4 horas. ¿A cuántas **gotas por minuto** se debe programar el goteo si se utiliza un equipo de macrogoteo constante 20 gotas/mL?",
-    "opciones": {
-      "a": "42 gotas/min.",
-      "b": "63 gotas/min.",
-      "c": "125 gotas/min.",
-      "d": "50 gotas/min."
-    },
-    
-  },
-  {
-    "id": 9,
-    "tema": "Leyes de Trasplante / Consentimiento",
-    "pregunta": "En países con leyes de **'Donante Presunto'** (ej. Argentina, Ley Justina), se considera donante a todo ciudadano:",
-    "opciones": {
-      "a": "Que lo manifiesta expresamente por escrito antes de morir.",
-      "b": "A menos que haya dejado constancia expresa de su negativa a donar.",
-      "c": "Solo si la familia lo autoriza tras la muerte.",
-      "d": "Que está en lista de espera para un trasplante."
-    },
-    "respuesta_correcta": "b",
-    "justificacion": "La ley de Donante Presunto establece que todos los ciudadanos mayores de edad son donantes potenciales, a menos que hayan manifestado explícitamente su negativa en vida. La familia es consultada, pero su negativa no prevalece sobre la voluntad presunta o escrita del fallecido."
-  },
-  {
-    "id": 10,
-    "tema": "Hematología Crítica / Transfusión",
-    "pregunta": "En un paciente con sangrado activo y trombocitopenia inducida por antiagregantes plaquetarios (ej. Clopidogrel), el tratamiento de elección para revertir la disfunción plaquetaria es:",
-    "opciones": {
-      "a": "Administrar Vitamina K.",
-      "b": "Transfusión de plaquetas.",
-      "c": "Transfusión de plasma fresco congelado (PFC).",
-      "d": "Administrar únicamente Ácido Tranexámico."
-    },
-    "respuesta_correcta": "b",
-    "justificacion": "La transfusión de plaquetas es la forma más rápida y directa de introducir plaquetas funcionales que puedan contrarrestar el efecto de los antiagregantes, aunque su vida media es corta."
-  },
-  {
-    "id": 11,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente de 60 , kg necesita una dosis de 1 , mg/kg de Propofol. La concentración del vial es de 10 , mg/mL. ¿Cuántos mL de Propofol se deben administrar en bolo?",
-    "opciones": {
-      "a": "6 mL.",
-      "b": "10 mL.",
-      "c": "0.6 mL.",
-      "d": "15 mL."
-    },
-    "respuesta_correcta": "a",
-    
-  {
-    "id": 12,
     "tema": "Leyes de Trasplante / Donante Vivo",
     "pregunta": "Para la **Donación de Órgano en Vida** (ej. un riñón), además del consentimiento informado, el requisito legal y ético fundamental es:",
     "opciones": {
@@ -154,7 +65,7 @@
     "justificacion": "La ley exige minimizar el riesgo para la salud del donante y asegura que la donación se realice en el marco de lazos familiares o por autorización judicial para evitar el comercio de órganos."
   },
   {
-    "id": 13,
+    "id": 6,
     "tema": "Hematología Crítica / Anticoagulación",
     "pregunta": "En la monitorización de la anticoagulación con **Heparina No Fraccionada (HNF)**, ¿cuál es el parámetro de laboratorio más utilizado?",
     "opciones": {
@@ -167,7 +78,7 @@
     "justificacion": "La HNF ejerce su efecto principalmente inhibiendo el factor Xa y la trombina (Factor IIa), lo que se refleja en la prolongación del aPTT (vía intrínseca). Se busca mantener el aPTT en un rango terapéutico específico."
   },
   {
-    "id": 14,
+    "id": 7,
     "tema": "Cálculo de Medicación",
     "pregunta": "Una infusión de Amiodarona (900 , mg en 500 , mL) debe pasarse a una velocidad de 0.5 , mg/min. ¿A qué velocidad se debe programar la bomba en mL/h?",
     "opciones": {
@@ -180,7 +91,7 @@
     "justificacion": "Concentración de la dilución: 900 , mg 500 , mL = 1.8 , mg/mL. Dosis por hora: 0.5 , mg/min times 60 , {min/h} = 30 ,mg/h. Velocidad en mL/h: 30 , mg/h 1.8 , mg/mL approx 16.66 , mL/h."
   },
   {
-    "id": 15,
+    "id": 8,
     "tema": "Leyes de Trasplante / Rechazo",
     "pregunta": "¿Qué nombre recibe el rechazo de órganos o tejidos entre especies diferentes (ej. de cerdo a humano)?",
     "opciones": {
@@ -193,7 +104,7 @@
     "justificacion": "Xenotrasplante (o heteroinjerto) es la transferencia de células, tejidos u órganos entre especies diferentes (ej. xenotrasplante porcino a humano)."
   },
   {
-    "id": 16,
+    "id": 9,
     "tema": "Hematología Crítica / TIH",
     "pregunta": "En la **Trombocitopenia Inducida por Heparina (TIH)** Tipo II, el tratamiento inicial crucial consiste en:",
     "opciones": {
@@ -206,7 +117,7 @@
     "justificacion": "La TIH es un estado protrombótico grave. La suspensión de toda la heparina y el inicio de un anticoagulante no heparínico (Argatroban, Bivalirudina, Fondaparinux) es esencial. La transfusión de plaquetas está contraindicada."
   },
   {
-    "id": 17,
+    "id": 10,
     "tema": "Cálculo de Medicación",
     "pregunta": "Se necesita pasar 100 , mL de medicación en 30 minutos. ¿A qué velocidad se programa la bomba en mL/h?",
     "opciones": {
@@ -219,7 +130,7 @@
     "justificacion": "Velocidad: Volumen total / Tiempo en horas. 100 , mL 0.5 , h = 200 , mL/h."
   },
   {
-    "id": 18,
+    "id": 11,
     "tema": "Leyes de Trasplante / Muerte Encefálica",
     "pregunta": "La declaración de **Muerte Encefálica** en el contexto de la donación de órganos requiere legalmente:",
     "opciones": {
@@ -232,7 +143,7 @@
     "justificacion": "Se requieren dos exámenes clínicos por médicos independientes (no parte del equipo de trasplante) y pruebas instrumentales (ej. EEG, Doppler transcraneal) para asegurar la irreversibilidad y evitar conflictos de interés (Regla del Donante Muerto)."
   },
   {
-    "id": 19,
+    "id": 12,
     "tema": "Hematología Crítica / Transfusión",
     "pregunta": "El riesgo más grave e inmediato de la **Transfusión de Glóbulos Rojos (GR)** es:",
     "opciones": {
@@ -245,723 +156,1147 @@
     "justificacion": "La reacción hemolítica aguda, casi siempre causada por error en la identificación del paciente y la incompatibilidad ABO, es una emergencia que puede llevar a CID, shock y muerte."
   },
   {
-    "id": 20,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se desea preparar una infusión de 500, mL de Solución Fisiológica para pasar en 8 horas. Si el factor de goteo es de 60 , microgotas/mL, ¿cuál es la velocidad de infusión en **microgotas/min**?",
+    "id": 13,
+    "tema": "Hematología Crítica / Trombosis",
+    "pregunta": "¿Cuál es el principal criterio diagnóstico de imagen para el **Tromboembolismo Pulmonar (TEP)** en un paciente crítico?",
     "opciones": {
-      "a": "31 microgotas/min.",
-      "b": "62.5 microgotas/min.",
-      "c": "125 microgotas/min.",
-      "d": "100 microgotas/min."
+      "a": "Signo de la silueta en la radiografía de tórax.",
+      "b": "Defectos de llenado hipodensos en las arterias pulmonares en la Angio-TC.",
+      "c": "Derrame pleural masivo.",
+      "d": "Elevación de la troponina."
     },
     "respuesta_correcta": "b",
-    
+    "justificacion": "La Angio-TC pulmonar es el estándar de oro y muestra el trombo como un defecto de llenado (hipodenso) en la luz de las arterias pulmonares realzadas por el contraste."
+  },
   {
-    "id": 21,
-    "tema": "Hematología Crítica / Sangrado",
-    "pregunta": "El producto hemoterapéutico de elección para la reversión urgente del efecto anticoagulante de la **Warfarina** (INR muy elevado) en caso de hemorragia grave es:",
+    "id": 14,
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Se necesita infundir 15, mEq de KCl en 60 minutos. Si la ampolla contiene 20 , mEq/10 , mL, ¿cuál es el volumen del medicamento puro en mL que se debe cargar?",
     "opciones": {
-      "a": "Plasma Fresco Congelado (PFC) únicamente.",
-      "b": "Factor VII activado recombinante.",
-      "c": "Vitamina K y Concentrado de Complejo Protrombínico (CCP).",
-      "d": "Transfusión de Crioprecipitado."
+      "a": "15 mL.",
+      "b": "7.5 mL.",
+      "c": "1.5 mL.",
+      "d": "20 mL."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "Cálculo: 15 , mEq times 10 , mL 20 , mEq = 7.5, mL."
+  },
+  {
+    "id": 15,
+    "tema": "Leyes de Trasplante / Ética",
+    "pregunta": "El principio ético de **Justicia Distributiva** en el trasplante de órganos se refiere principalmente a:",
+    "opciones": {
+      "a": "La obligatoriedad de donar órganos.",
+      "b": "La distribución equitativa de los órganos basados en criterios médicos y sociales, y no en la capacidad de pago.",
+      "c": "La decisión del paciente de aceptar o rechazar un trasplante.",
+      "d": "La seguridad de que el órgano no cause daño al receptor."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "El principio de Justicia exige que los recursos escasos, como los órganos, sean asignados de manera justa y transparente, priorizando la necesidad médica (gravedad, compatibilidad) sobre otros factores."
+  },
+  {
+    "id": 16,
+    "tema": "Hematología Crítica / Coagulación",
+    "pregunta": "En un paciente con **Coagulación Intravascular Diseminada (CID)** grave en la UCI, ¿cuál de los siguientes hallazgos de laboratorio es más indicativo de un mal pronóstico?",
+    "opciones": {
+      "a": "Tiempo de protrombina (TP) ligeramente prolongado.",
+      "b": "Niveles normales de fibrinógeno.",
+      "c": "Trombocitopenia progresiva y niveles muy elevados de Dímero D.",
+      "d": "Reticulocitosis."
     },
     "respuesta_correcta": "c",
-    "justificacion": "Para la reversión urgente, el CCP (que contiene Factores II, VII, IX y X) revierte el INR en minutos. La Vitamina K se administra simultáneamente para una reversión sostenida (aunque tarda horas)."
+    "justificacion": "La CID se caracteriza por una coagulación y fibrinólisis descontroladas. La trombocitopenia por consumo y el aumento masivo de productos de degradación de la fibrina (Dímero D) reflejan la gravedad del proceso."
+  },
+  {
+    "id": 17,
+    "tema": "Leyes de Trasplante / Donante Vivo",
+    "pregunta": "Para la **Donación de Órgano en Vida** (ej. un riñón), además del consentimiento informado, el requisito legal y ético fundamental es:",
+    "opciones": {
+      "a": "Ser de la misma edad que el receptor.",
+      "b": "Ser compatible genéticamente al 100%.",
+      "c": "Que el donante no sufra ningún riesgo para su vida o salud y que exista una relación de parentesco o judicial.",
+      "d": "Tener un grupo sanguíneo ABO idéntico."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La ley exige minimizar el riesgo para la salud del donante y asegura que la donación se realice en el marco de lazos familiares o por autorización judicial para evitar el comercio de órganos."
+  },
+  {
+    "id": 18,
+    "tema": "Hematología Crítica / Anticoagulación",
+    "pregunta": "En la monitorización de la anticoagulación con **Heparina No Fraccionada (HNF)**, ¿cuál es el parámetro de laboratorio más utilizado?",
+    "opciones": {
+      "a": "Tiempo de Protrombina (TP).",
+      "b": "Tiempo de Tromboplastina Parcial Activada (aPTT).",
+      "c": "Niveles de Antitrombina III.",
+      "d": "Dímero D."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La HNF ejerce su efecto principalmente inhibiendo el factor Xa y la trombina (Factor IIa), lo que se refleja en la prolongación del aPTT (vía intrínseca). Se busca mantener el aPTT en un rango terapéutico específico."
+  },
+  {
+    "id": 19,
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Una infusión de Amiodarona (900 , mg en 500 , mL) debe pasarse a una velocidad de 0.5 , mg/min. ¿A qué velocidad se debe programar la bomba en mL/h?",
+    "opciones": {
+      "a": "16.7 mL/h.",
+      "b": "25.5 mL/h.",
+      "c": "33.3 mL/h.",
+      "d": "50 mL/h."
+    },
+    "respuesta_correcta": "a",
+    "justificacion": "Concentración de la dilución: 900 , mg 500 , mL = 1.8 , mg/mL. Dosis por hora: 0.5 , mg/min times 60 , {min/h} = 30 ,mg/h. Velocidad en mL/h: 30 , mg/h 1.8 , mg/mL approx 16.66 , mL/h."
+  },
+  {
+    "id": 20,
+    "tema": "Leyes de Trasplante / Rechazo",
+    "pregunta": "¿Qué nombre recibe el rechazo de órganos o tejidos entre especies diferentes (ej. de cerdo a humano)?",
+    "opciones": {
+      "a": "Aloinjerto.",
+      "b": "Isogéneo.",
+      "c": "Xenotrasplante.",
+      "d": "Autotrasplante."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "Xenotrasplante (o heteroinjerto) es la transferencia de células, tejidos u órganos entre especies diferentes (ej. xenotrasplante porcino a humano)."
+  },
+  {
+    "id": 21,
+    "tema": "Hematología Crítica / TIH",
+    "pregunta": "En la **Trombocitopenia Inducida por Heparina (TIH)** Tipo II, el tratamiento inicial crucial consiste en:",
+    "opciones": {
+      "a": "Continuar con Heparina de Bajo Peso Molecular (HBPM) y monitorizar.",
+      "b": "Administrar transfusión de plaquetas inmediata.",
+      "c": "Suspender inmediatamente toda la Heparina y comenzar con un inhibidor directo de la trombina (ej. Argatroban).",
+      "d": "Iniciar Warfarina inmediatamente."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La TIH es un estado protrombótico grave. La suspensión de toda la heparina y el inicio de un anticoagulante no heparínico (Argatroban, Bivalirudina, Fondaparinux) es esencial. La transfusión de plaquetas está contraindicada."
   },
   {
     "id": 22,
-    "tema": "Leyes de Trasplante / Coordinación",
-    "pregunta": "¿Cuál es la principal función del **Coordinador Hospitalario de Trasplante**?",
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Se necesita pasar 100 , mL de medicación en 30 minutos. ¿A qué velocidad se programa la bomba en mL/h?",
     "opciones": {
-      "a": "Decidir qué paciente recibe el órgano.",
-      "b": "Realizar la cirugía de ablación de órganos.",
-      "c": "Garantizar la correcta identificación, mantenimiento y gestión del potencial donante.",
-      "d": "Administrar la inmunosupresión al receptor."
+      "a": "100 mL/h.",
+      "b": "150 mL/h.",
+      "c": "200 mL/h.",
+      "d": "300 mL/h."
     },
     "respuesta_correcta": "c",
-    "justificacion": "El coordinador es el responsable de la logística, la comunicación y el manejo clínico del potencial donante (vivo o cadavérico) dentro del hospital, siendo el enlace clave con el sistema nacional de trasplante."
+    "justificacion": "Velocidad: Volumen total / Tiempo en horas. 100 , mL 0.5 , h = 200 , mL/h."
   },
   {
     "id": 23,
-    "tema": "Hematología Crítica / AHMA",
-    "pregunta": "La característica morfológica del frotis de sangre periférica que define una Anemia Hemolítica Microangiopática (AHMA) como la PTT o SUH es:",
+    "tema": "Leyes de Trasplante / Muerte Encefálica",
+    "pregunta": "La declaración de **Muerte Encefálica** en el contexto de la donación de órganos requiere legalmente:",
     "opciones": {
-      "a": "Macrocitos y neutrófilos hipersegmentados.",
-      "b": "Esquistocitos (glóbulos rojos fragmentados).",
-      "c": "Esferocitos.",
-      "d": "Cuerpos de Heinz."
+      "a": "Un solo examen clínico por un médico tratante.",
+      "b": "El cese irreversible de las funciones cardiovasculares.",
+      "c": "Dos exámenes clínicos neurológicos por médicos no vinculados al trasplante y pruebas instrumentales confirmatorias.",
+      "d": "Autorización notarial."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "Los esquistocitos son el sello distintivo de la AHMA, formados por la fragmentación de los glóbulos rojos al pasar por la microcirculación dañada por los trombos de fibrina."
+    "respuesta_correcta": "c",
+    "justificacion": "Se requieren dos exámenes clínicos por médicos independientes (no parte del equipo de trasplante) y pruebas instrumentales (ej. EEG, Doppler transcraneal) para asegurar la irreversibilidad y evitar conflictos de interés (Regla del Donante Muerto)."
   },
   {
     "id": 24,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se ordena administrar 1000 , mg de un antibiótico. Si el frasco es de 1 , g y se reconstituye en 10 , mL de agua destilada, ¿cuántos mL del vial contendrán la dosis total?",
+    "tema": "Hematología Crítica / Transfusión",
+    "pregunta": "El riesgo más grave e inmediato de la **Transfusión de Glóbulos Rojos (GR)** es:",
     "opciones": {
-      "a": "1 mL.",
-      "b": "5 mL.",
-      "c": "10 mL.",
-      "d": "20 mL."
+      "a": "Hemocromatosis.",
+      "b": "Reacción hemolítica aguda por incompatibilidad ABO.",
+      "c": "Transmisión del VIH.",
+      "d": "Desarrollo de aloanticuerpos anti-HLA."
     },
-    "respuesta_correcta": "c",
-  
+    "respuesta_correcta": "b",
+    "justificacion": "La reacción hemolítica aguda, casi siempre causada por error en la identificación del paciente y la incompatibilidad ABO, es una emergencia que puede llevar a CID, shock y muerte."
+  },
   {
     "id": 25,
-    "tema": "Hematología Crítica / Fibrinógeno",
-    "pregunta": "En un paciente con hemorragia masiva y CID, el producto hemoterapéutico de elección para reponer los niveles de **Fibrinógeno** (Factor I) es:",
+    "tema": "Hematología Crítica / Trombosis",
+    "pregunta": "¿Cuál es el principal criterio diagnóstico de imagen para el **Tromboembolismo Pulmonar (TEP)** en un paciente crítico?",
     "opciones": {
-      "a": "Glóbulos Rojos Concentrados.",
-      "b": "Plasma Fresco Congelado (PFC).",
-      "c": "Crioprecipitado.",
-      "d": "Albúmina."
+      "a": "Signo de la silueta en la radiografía de tórax.",
+      "b": "Defectos de llenado hipodensos en las arterias pulmonares en la Angio-TC.",
+      "c": "Derrame pleural masivo.",
+      "d": "Elevación de la troponina."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La Angio-TC pulmonar es el estándar de oro y muestra el trombo como un defecto de llenado (hipodenso) en la luz de las arterias pulmonares realzadas por el contraste."
+  },
+  {
+    "id": 26,
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Se necesita infundir 15, mEq de KCl en 60 minutos. Si la ampolla contiene 20 , mEq/10 , mL, ¿cuál es el volumen del medicamento puro en mL que se debe cargar?",
+    "opciones": {
+      "a": "15 mL.",
+      "b": "7.5 mL.",
+      "c": "1.5 mL.",
+      "d": "20 mL."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "Cálculo: 15 , mEq times 10 , mL 20 , mEq = 7.5, mL."
+  },
+  {
+    "id": 27,
+    "tema": "Leyes de Trasplante / Ética",
+    "pregunta": "El principio ético de **Justicia Distributiva** en el trasplante de órganos se refiere principalmente a:",
+    "opciones": {
+      "a": "La obligatoriedad de donar órganos.",
+      "b": "La distribución equitativa de los órganos basados en criterios médicos y sociales, y no en la capacidad de pago.",
+      "c": "La decisión del paciente de aceptar o rechazar un trasplante.",
+      "d": "La seguridad de que el órgano no cause daño al receptor."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "El principio de Justicia exige que los recursos escasos, como los órganos, sean asignados de manera justa y transparente, priorizando la necesidad médica (gravedad, compatibilidad) sobre otros factores."
+  },
+  {
+    "id": 28,
+    "tema": "Hematología Crítica / Coagulación",
+    "pregunta": "En un paciente con **Coagulación Intravascular Diseminada (CID)** grave en la UCI, ¿cuál de los siguientes hallazgos de laboratorio es más indicativo de un mal pronóstico?",
+    "opciones": {
+      "a": "Tiempo de protrombina (TP) ligeramente prolongado.",
+      "b": "Niveles normales de fibrinógeno.",
+      "c": "Trombocitopenia progresiva y niveles muy elevados de Dímero D.",
+      "d": "Reticulocitosis."
     },
     "respuesta_correcta": "c",
-    "justificacion": "El Crioprecipitado es la fuente más concentrada de fibrinógeno (además de factor VIII y vWF), siendo el tratamiento de elección cuando el nivel de fibrinógeno es bajo y existe sangrado."
-  }
-]
-[
+    "justificacion": "La CID se caracteriza por una coagulación y fibrinólisis descontroladas. La trombocitopenia por consumo y el aumento masivo de productos de degradación de la fibrina (Dímero D) reflejan la gravedad del proceso."
+  },
+  {
+    "id": 29,
+    "tema": "Leyes de Trasplante / Donante Vivo",
+    "pregunta": "Para la **Donación de Órgano en Vida** (ej. un riñón), además del consentimiento informado, el requisito legal y ético fundamental es:",
+    "opciones": {
+      "a": "Ser de la misma edad que el receptor.",
+      "b": "Ser compatible genéticamente al 100%.",
+      "c": "Que el donante no sufra ningún riesgo para su vida o salud y que exista una relación de parentesco o judicial.",
+      "d": "Tener un grupo sanguíneo ABO idéntico."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La ley exige minimizar el riesgo para la salud del donante y asegura que la donación se realice en el marco de lazos familiares o por autorización judicial para evitar el comercio de órganos."
+  },
+  {
+    "id": 30,
+    "tema": "Hematología Crítica / Anticoagulación",
+    "pregunta": "En la monitorización de la anticoagulación con **Heparina No Fraccionada (HNF)**, ¿cuál es el parámetro de laboratorio más utilizado?",
+    "opciones": {
+      "a": "Tiempo de Protrombina (TP).",
+      "b": "Tiempo de Tromboplastina Parcial Activada (aPTT).",
+      "c": "Niveles de Antitrombina III.",
+      "d": "Dímero D."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La HNF ejerce su efecto principalmente inhibiendo el factor Xa y la trombina (Factor IIa), lo que se refleja en la prolongación del aPTT (vía intrínseca). Se busca mantener el aPTT en un rango terapéutico específico."
+  },
+  {
+    "id": 31,
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Una infusión de Amiodarona (900 , mg en 500 , mL) debe pasarse a una velocidad de 0.5 , mg/min. ¿A qué velocidad se debe programar la bomba en mL/h?",
+    "opciones": {
+      "a": "16.7 mL/h.",
+      "b": "25.5 mL/h.",
+      "c": "33.3 mL/h.",
+      "d": "50 mL/h."
+    },
+    "respuesta_correcta": "a",
+    "justificacion": "Concentración de la dilución: 900 , mg 500 , mL = 1.8 , mg/mL. Dosis por hora: 0.5 , mg/min times 60 , {min/h} = 30 ,mg/h. Velocidad en mL/h: 30 , mg/h 1.8 , mg/mL approx 16.66 , mL/h."
+  },
+  {
+    "id": 32,
+    "tema": "Leyes de Trasplante / Rechazo",
+    "pregunta": "¿Qué nombre recibe el rechazo de órganos o tejidos entre especies diferentes (ej. de cerdo a humano)?",
+    "opciones": {
+      "a": "Aloinjerto.",
+      "b": "Isogéneo.",
+      "c": "Xenotrasplante.",
+      "d": "Autotrasplante."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "Xenotrasplante (o heteroinjerto) es la transferencia de células, tejidos u órganos entre especies diferentes (ej. xenotrasplante porcino a humano)."
+  },
+  {
+    "id": 33,
+    "tema": "Hematología Crítica / TIH",
+    "pregunta": "En la **Trombocitopenia Inducida por Heparina (TIH)** Tipo II, el tratamiento inicial crucial consiste en:",
+    "opciones": {
+      "a": "Continuar con Heparina de Bajo Peso Molecular (HBPM) y monitorizar.",
+      "b": "Administrar transfusión de plaquetas inmediata.",
+      "c": "Suspender inmediatamente toda la Heparina y comenzar con un inhibidor directo de la trombina (ej. Argatroban).",
+      "d": "Iniciar Warfarina inmediatamente."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La TIH es un estado protrombótico grave. La suspensión de toda la heparina y el inicio de un anticoagulante no heparínico (Argatroban, Bivalirudina, Fondaparinux) es esencial. La transfusión de plaquetas está contraindicada."
+  },
+  {
+    "id": 34,
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Se necesita pasar 100 , mL de medicación en 30 minutos. ¿A qué velocidad se programa la bomba en mL/h?",
+    "opciones": {
+      "a": "100 mL/h.",
+      "b": "150 mL/h.",
+      "c": "200 mL/h.",
+      "d": "300 mL/h."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "Velocidad: Volumen total / Tiempo en horas. 100 , mL 0.5 , h = 200 , mL/h."
+  },
+  {
+    "id": 35,
+    "tema": "Leyes de Trasplante / Muerte Encefálica",
+    "pregunta": "La declaración de **Muerte Encefálica** en el contexto de la donación de órganos requiere legalmente:",
+    "opciones": {
+      "a": "Un solo examen clínico por un médico tratante.",
+      "b": "El cese irreversible de las funciones cardiovasculares.",
+      "c": "Dos exámenes clínicos neurológicos por médicos no vinculados al trasplante y pruebas instrumentales confirmatorias.",
+      "d": "Autorización notarial."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "Se requieren dos exámenes clínicos por médicos independientes (no parte del equipo de trasplante) y pruebas instrumentales (ej. EEG, Doppler transcraneal) para asegurar la irreversibilidad y evitar conflictos de interés (Regla del Donante Muerto)."
+  },
+  {
+    "id": 36,
+    "tema": "Hematología Crítica / Transfusión",
+    "pregunta": "El riesgo más grave e inmediato de la **Transfusión de Glóbulos Rojos (GR)** es:",
+    "opciones": {
+      "a": "Hemocromatosis.",
+      "b": "Reacción hemolítica aguda por incompatibilidad ABO.",
+      "c": "Transmisión del VIH.",
+      "d": "Desarrollo de aloanticuerpos anti-HLA."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La reacción hemolítica aguda, casi siempre causada por error en la identificación del paciente y la incompatibilidad ABO, es una emergencia que puede llevar a CID, shock y muerte."
+  },
+  {
+    "id": 37,
+    "tema": "Hematología Crítica / Trombosis",
+    "pregunta": "¿Cuál es el principal criterio diagnóstico de imagen para el **Tromboembolismo Pulmonar (TEP)** en un paciente crítico?",
+    "opciones": {
+      "a": "Signo de la silueta en la radiografía de tórax.",
+      "b": "Defectos de llenado hipodensos en las arterias pulmonares en la Angio-TC.",
+      "c": "Derrame pleural masivo.",
+      "d": "Elevación de la troponina."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La Angio-TC pulmonar es el estándar de oro y muestra el trombo como un defecto de llenado (hipodenso) en la luz de las arterias pulmonares realzadas por el contraste."
+  },
+  {
+    "id": 38,
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Se necesita infundir 15, mEq de KCl en 60 minutos. Si la ampolla contiene 20 , mEq/10 , mL, ¿cuál es el volumen del medicamento puro en mL que se debe cargar?",
+    "opciones": {
+      "a": "15 mL.",
+      "b": "7.5 mL.",
+      "c": "1.5 mL.",
+      "d": "20 mL."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "Cálculo: 15 , mEq times 10 , mL 20 , mEq = 7.5, mL."
+  },
+  {
+    "id": 39,
+    "tema": "Leyes de Trasplante / Ética",
+    "pregunta": "El principio ético de **Justicia Distributiva** en el trasplante de órganos se refiere principalmente a:",
+    "opciones": {
+      "a": "La obligatoriedad de donar órganos.",
+      "b": "La distribución equitativa de los órganos basados en criterios médicos y sociales, y no en la capacidad de pago.",
+      "c": "La decisión del paciente de aceptar o rechazar un trasplante.",
+      "d": "La seguridad de que el órgano no cause daño al receptor."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "El principio de Justicia exige que los recursos escasos, como los órganos, sean asignados de manera justa y transparente, priorizando la necesidad médica (gravedad, compatibilidad) sobre otros factores."
+  },
+  {
+    "id": 40,
+    "tema": "Hematología Crítica / Coagulación",
+    "pregunta": "En un paciente con **Coagulación Intravascular Diseminada (CID)** grave en la UCI, ¿cuál de los siguientes hallazgos de laboratorio es más indicativo de un mal pronóstico?",
+    "opciones": {
+      "a": "Tiempo de protrombina (TP) ligeramente prolongado.",
+      "b": "Niveles normales de fibrinógeno.",
+      "c": "Trombocitopenia progresiva y niveles muy elevados de Dímero D.",
+      "d": "Reticulocitosis."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La CID se caracteriza por una coagulación y fibrinólisis descontroladas. La trombocitopenia por consumo y el aumento masivo de productos de degradación de la fibrina (Dímero D) reflejan la gravedad del proceso."
+  },
+  {
+    "id": 41,
+    "tema": "Leyes de Trasplante / Donante Vivo",
+    "pregunta": "Para la **Donación de Órgano en Vida** (ej. un riñón), además del consentimiento informado, el requisito legal y ético fundamental es:",
+    "opciones": {
+      "a": "Ser de la misma edad que el receptor.",
+      "b": "Ser compatible genéticamente al 100%.",
+      "c": "Que el donante no sufra ningún riesgo para su vida o salud y que exista una relación de parentesco o judicial.",
+      "d": "Tener un grupo sanguíneo ABO idéntico."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La ley exige minimizar el riesgo para la salud del donante y asegura que la donación se realice en el marco de lazos familiares o por autorización judicial para evitar el comercio de órganos."
+  },
+  {
+    "id": 42,
+    "tema": "Hematología Crítica / Anticoagulación",
+    "pregunta": "En la monitorización de la anticoagulación con **Heparina No Fraccionada (HNF)**, ¿cuál es el parámetro de laboratorio más utilizado?",
+    "opciones": {
+      "a": "Tiempo de Protrombina (TP).",
+      "b": "Tiempo de Tromboplastina Parcial Activada (aPTT).",
+      "c": "Niveles de Antitrombina III.",
+      "d": "Dímero D."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La HNF ejerce su efecto principalmente inhibiendo el factor Xa y la trombina (Factor IIa), lo que se refleja en la prolongación del aPTT (vía intrínseca). Se busca mantener el aPTT en un rango terapéutico específico."
+  },
+  {
+    "id": 43,
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Una infusión de Amiodarona (900 , mg en 500 , mL) debe pasarse a una velocidad de 0.5 , mg/min. ¿A qué velocidad se debe programar la bomba en mL/h?",
+    "opciones": {
+      "a": "16.7 mL/h.",
+      "b": "25.5 mL/h.",
+      "c": "33.3 mL/h.",
+      "d": "50 mL/h."
+    },
+    "respuesta_correcta": "a",
+    "justificacion": "Concentración de la dilución: 900 , mg 500 , mL = 1.8 , mg/mL. Dosis por hora: 0.5 , mg/min times 60 , {min/h} = 30 ,mg/h. Velocidad en mL/h: 30 , mg/h 1.8 , mg/mL approx 16.66 , mL/h."
+  },
+  {
+    "id": 44,
+    "tema": "Leyes de Trasplante / Rechazo",
+    "pregunta": "¿Qué nombre recibe el rechazo de órganos o tejidos entre especies diferentes (ej. de cerdo a humano)?",
+    "opciones": {
+      "a": "Aloinjerto.",
+      "b": "Isogéneo.",
+      "c": "Xenotrasplante.",
+      "d": "Autotrasplante."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "Xenotrasplante (o heteroinjerto) es la transferencia de células, tejidos u órganos entre especies diferentes (ej. xenotrasplante porcino a humano)."
+  },
+  {
+    "id": 45,
+    "tema": "Hematología Crítica / TIH",
+    "pregunta": "En la **Trombocitopenia Inducida por Heparina (TIH)** Tipo II, el tratamiento inicial crucial consiste en:",
+    "opciones": {
+      "a": "Continuar con Heparina de Bajo Peso Molecular (HBPM) y monitorizar.",
+      "b": "Administrar transfusión de plaquetas inmediata.",
+      "c": "Suspender inmediatamente toda la Heparina y comenzar con un inhibidor directo de la trombina (ej. Argatroban).",
+      "d": "Iniciar Warfarina inmediatamente."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La TIH es un estado protrombótico grave. La suspensión de toda la heparina y el inicio de un anticoagulante no heparínico (Argatroban, Bivalirudina, Fondaparinux) es esencial. La transfusión de plaquetas está contraindicada."
+  },
+  {
+    "id": 46,
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Se necesita pasar 100 , mL de medicación en 30 minutos. ¿A qué velocidad se programa la bomba en mL/h?",
+    "opciones": {
+      "a": "100 mL/h.",
+      "b": "150 mL/h.",
+      "c": "200 mL/h.",
+      "d": "300 mL/h."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "Velocidad: Volumen total / Tiempo en horas. 100 , mL 0.5 , h = 200 , mL/h."
+  },
+  {
+    "id": 47,
+    "tema": "Leyes de Trasplante / Muerte Encefálica",
+    "pregunta": "La declaración de **Muerte Encefálica** en el contexto de la donación de órganos requiere legalmente:",
+    "opciones": {
+      "a": "Un solo examen clínico por un médico tratante.",
+      "b": "El cese irreversible de las funciones cardiovasculares.",
+      "c": "Dos exámenes clínicos neurológicos por médicos no vinculados al trasplante y pruebas instrumentales confirmatorias.",
+      "d": "Autorización notarial."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "Se requieren dos exámenes clínicos por médicos independientes (no parte del equipo de trasplante) y pruebas instrumentales (ej. EEG, Doppler transcraneal) para asegurar la irreversibilidad y evitar conflictos de interés (Regla del Donante Muerto)."
+  },
+  {
+    "id": 48,
+    "tema": "Hematología Crítica / Transfusión",
+    "pregunta": "El riesgo más grave e inmediato de la **Transfusión de Glóbulos Rojos (GR)** es:",
+    "opciones": {
+      "a": "Hemocromatosis.",
+      "b": "Reacción hemolítica aguda por incompatibilidad ABO.",
+      "c": "Transmisión del VIH.",
+      "d": "Desarrollo de aloanticuerpos anti-HLA."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La reacción hemolítica aguda, casi siempre causada por error en la identificación del paciente y la incompatibilidad ABO, es una emergencia que puede llevar a CID, shock y muerte."
+  },
+  {
+    "id": 49,
+    "tema": "Hematología Crítica / Trombosis",
+    "pregunta": "¿Cuál es el principal criterio diagnóstico de imagen para el **Tromboembolismo Pulmonar (TEP)** en un paciente crítico?",
+    "opciones": {
+      "a": "Signo de la silueta en la radiografía de tórax.",
+      "b": "Defectos de llenado hipodensos en las arterias pulmonares en la Angio-TC.",
+      "c": "Derrame pleural masivo.",
+      "d": "Elevación de la troponina."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La Angio-TC pulmonar es el estándar de oro y muestra el trombo como un defecto de llenado (hipodenso) en la luz de las arterias pulmonares realzadas por el contraste."
+  },
+  {
+    "id": 50,
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Se necesita infundir 15, mEq de KCl en 60 minutos. Si la ampolla contiene 20 , mEq/10 , mL, ¿cuál es el volumen del medicamento puro en mL que se debe cargar?",
+    "opciones": {
+      "a": "15 mL.",
+      "b": "7.5 mL.",
+      "c": "1.5 mL.",
+      "d": "20 mL."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "Cálculo: 15 , mEq times 10 , mL 20 , mEq = 7.5, mL."
+  },
   {
     "id": 51,
-    "tema": "Hematología Maligna / Urgencia",
-    "pregunta": "¿Cuál es la emergencia hematológica en cuidados críticos caracterizada por **hiperleucocitosis extrema** (generalmente >100,000/L) con riesgo de leucostasis, especialmente en Leucemia Mieloide Aguda?",
+    "tema": "Leyes de Trasplante / Ética",
+    "pregunta": "El principio ético de **Justicia Distributiva** en el trasplante de órganos se refiere principalmente a:",
     "opciones": {
-      "a": "Síndrome de Lisis Tumoral (SLT).",
-      "b": "Neutropenia febril.",
-      "c": "Leucostasis/Hiperleucocitosis.",
-      "d": "Trombocitopenia refractaria."
+      "a": "La obligatoriedad de donar órganos.",
+      "b": "La distribución equitativa de los órganos basados en criterios médicos y sociales, y no en la capacidad de pago.",
+      "c": "La decisión del paciente de aceptar o rechazar un trasplante.",
+      "d": "La seguridad de que el órgano no cause daño al receptor."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La leucostasis es una urgencia médica causada por la obstrucción de la microcirculación por la masa de blastos, llevando a isquemia pulmonar o cerebral. Se trata con citorreducción (quimioterapia o leucoaféresis)."
+    "respuesta_correcta": "b",
+    "justificacion": "El principio de Justicia exige que los recursos escasos, como los órganos, sean asignados de manera justa y transparente, priorizando la necesidad médica (gravedad, compatibilidad) sobre otros factores."
   },
   {
     "id": 52,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita preparar una dilución de Dobutamina para administrar a 10 , g/kg/min. Si el paciente pesa 80, kg y la Dobutamina viene en 250 , mg/20 , mL, ¿cuál es la dosis total a administrar por hora en $\text{mg/h}$?",
+    "tema": "Hematología Crítica / Coagulación",
+    "pregunta": "En un paciente con **Coagulación Intravascular Diseminada (CID)** grave en la UCI, ¿cuál de los siguientes hallazgos de laboratorio es más indicativo de un mal pronóstico?",
     "opciones": {
-      "a": "48 mg/h.",
-      "b": "10 mg/h.",
-      "c": "80 mg/h.",
-      "d": "120 mg/h."
+      "a": "Tiempo de protrombina (TP) ligeramente prolongado.",
+      "b": "Niveles normales de fibrinógeno.",
+      "c": "Trombocitopenia progresiva y niveles muy elevados de Dímero D.",
+      "d": "Reticulocitosis."
     },
-    "respuesta_correcta": "a",
-    
+    "respuesta_correcta": "c",
+    "justificacion": "La CID se caracteriza por una coagulación y fibrinólisis descontroladas. La trombocitopenia por consumo y el aumento masivo de productos de degradación de la fibrina (Dímero D) reflejan la gravedad del proceso."
+  },
+  {
     "id": 53,
-    "tema": "Leyes de Trasplante / Bioética",
-    "pregunta": "La **Confidencialidad y Anonimato** en la donación de órganos (excluyendo el donante vivo) se establece legalmente para proteger:",
+    "tema": "Leyes de Trasplante / Donante Vivo",
+    "pregunta": "Para la **Donación de Órgano en Vida** (ej. un riñón), además del consentimiento informado, el requisito legal y ético fundamental es:",
     "opciones": {
-      "a": "El derecho del receptor a saber quién fue el donante.",
-      "b": "El derecho de los donantes y sus familias a la privacidad, y para prevenir el comercio y la coerción.",
-      "c": "La calidad del órgano trasplantado.",
-      "d": "La decisión del equipo quirúrgico."
+      "a": "Ser de la misma edad que el receptor.",
+      "b": "Ser compatible genéticamente al 100%.",
+      "c": "Que el donante no sufra ningún riesgo para su vida o salud y que exista una relación de parentesco o judicial.",
+      "d": "Tener un grupo sanguíneo ABO idéntico."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "El anonimato es esencial para mantener la integridad del proceso de donación, proteger la privacidad de ambas partes y evitar cualquier tipo de transacción o presión indebida."
+    "respuesta_correcta": "c",
+    "justificacion": "La ley exige minimizar el riesgo para la salud del donante y asegura que la donación se realice en el marco de lazos familiares o por autorización judicial para evitar el comercio de órganos."
   },
   {
     "id": 54,
-    "tema": "Hematología Crítica / Síndrome de Lisis Tumoral",
-    "pregunta": "En el **Síndrome de Lisis Tumoral (SLT)**, el hallazgo metabólico que más pone en riesgo la vida del paciente (arritmias cardíacas) es:",
+    "tema": "Hematología Crítica / Anticoagulación",
+    "pregunta": "En la monitorización de la anticoagulación con **Heparina No Fraccionada (HNF)**, ¿cuál es el parámetro de laboratorio más utilizado?",
     "opciones": {
-      "a": "Hiponatremia.",
-      "b": "Hiperfosfatemia.",
-      "c": "Hiperpotasemia (Hiperkalemia).",
-      "d": "Hipoglucemia."
+      "a": "Tiempo de Protrombina (TP).",
+      "b": "Tiempo de Tromboplastina Parcial Activada (aPTT).",
+      "c": "Niveles de Antitrombina III.",
+      "d": "Dímero D."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La lisis rápida de las células libera grandes cantidades de potasio intracelular, lo que puede causar hiperkalemia severa, potencialmente letal debido a la inestabilidad de la membrana y las arritmias cardíacas."
+    "respuesta_correcta": "b",
+    "justificacion": "La HNF ejerce su efecto principalmente inhibiendo el factor Xa y la trombina (Factor IIa), lo que se refleja en la prolongación del aPTT (vía intrínseca). Se busca mantener el aPTT en un rango terapéutico específico."
   },
   {
     "id": 55,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se indican 400 , mg de un fármaco endovenoso en 250, mL de Dextrosa al 5%. La concentración final de la dilución es de:",
+    "pregunta": "Una infusión de Amiodarona (900 , mg en 500 , mL) debe pasarse a una velocidad de 0.5 , mg/min. ¿A qué velocidad se debe programar la bomba en mL/h?",
     "opciones": {
-      "a": "1.6 mg/mL.",
-      "b": "0.4 mg/mL.",
-      "c": "4 mg/mL.",
-      "d": "1.6 g/mL."
+      "a": "16.7 mL/h.",
+      "b": "25.5 mL/h.",
+      "c": "33.3 mL/h.",
+      "d": "50 mL/h."
     },
     "respuesta_correcta": "a",
-    "justificacion": "Cálculo: 400 , mg 250 , mL = 1.6 ,mg/mL}."
+    "justificacion": "Concentración de la dilución: 900 , mg 500 , mL = 1.8 , mg/mL. Dosis por hora: 0.5 , mg/min times 60 , {min/h} = 30 ,mg/h. Velocidad en mL/h: 30 , mg/h 1.8 , mg/mL approx 16.66 , mL/h."
   },
   {
     "id": 56,
-    "tema": "Leyes de Trasplante / Priorización",
-    "pregunta": "El factor de priorización más importante para la asignación de un órgano (ej. hígado o corazón) en un paciente en lista de espera es:",
+    "tema": "Leyes de Trasplante / Rechazo",
+    "pregunta": "¿Qué nombre recibe el rechazo de órganos o tejidos entre especies diferentes (ej. de cerdo a humano)?",
     "opciones": {
-      "a": "El tiempo que el paciente ha estado en la lista.",
-      "b": "La compatibilidad del grupo sanguíneo y la urgencia médica (riesgo de muerte inminente).",
-      "c": "La edad del receptor.",
-      "d": "El nivel socioeconómico del paciente."
+      "a": "Aloinjerto.",
+      "b": "Isogéneo.",
+      "c": "Xenotrasplante.",
+      "d": "Autotrasplante."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "La asignación prioriza la compatibilidad (evitar el rechazo hiperagudo) y la urgencia (el paciente con mayor riesgo vital, como el criterio MELD en el hígado, tiene prioridad)."
+    "respuesta_correcta": "c",
+    "justificacion": "Xenotrasplante (o heteroinjerto) es la transferencia de células, tejidos u órganos entre especies diferentes (ej. xenotrasplante porcino a humano)."
   },
   {
     "id": 57,
-    "tema": "Hematología Crítica / Crisis Vasooclusiva",
-    "pregunta": "En un paciente con **Anemia de Células Falciformes** en crisis vasooclusiva, la piedra angular del manejo en la UCI es:",
+    "tema": "Hematología Crítica / TIH",
+    "pregunta": "En la **Trombocitopenia Inducida por Heparina (TIH)** Tipo II, el tratamiento inicial crucial consiste en:",
     "opciones": {
-      "a": "Transfusión de plaquetas.",
-      "b": "Hidratación enérgica y control del dolor.",
-      "c": "Uso de hiperbárica.",
-      "d": "Corticosteroides en dosis altas."
+      "a": "Continuar con Heparina de Bajo Peso Molecular (HBPM) y monitorizar.",
+      "b": "Administrar transfusión de plaquetas inmediata.",
+      "c": "Suspender inmediatamente toda la Heparina y comenzar con un inhibidor directo de la trombina (ej. Argatroban).",
+      "d": "Iniciar Warfarina inmediatamente."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "La hidratación y la analgesia son fundamentales para revertir la hemoconcentración y el dolor causado por la isquemia microvascular. La oxigenación solo se usa si hay hipoxemia. La exanguinotransfusión se reserva para el Síndrome Torácico Agudo."
+    "respuesta_correcta": "c",
+    "justificacion": "La TIH es un estado protrombótico grave. La suspensión de toda la heparina y el inicio de un anticoagulante no heparínico (Argatroban, Bivalirudina, Fondaparinux) es esencial. La transfusión de plaquetas está contraindicada."
   },
   {
     "id": 58,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita administrar una dosis de 1 , g de Vancomicina diluida en 200 , mL de solución para pasar en 120 minutos. ¿Cuál es la velocidad de infusión en mL/h?",
+    "pregunta": "Se necesita pasar 100 , mL de medicación en 30 minutos. ¿A qué velocidad se programa la bomba en mL/h?",
     "opciones": {
-      "a": "60 mL/h.",
-      "b": "100 mL/h.",
-      "c": "120 mL/h.",
-      "d": "200 mL/h."
+      "a": "100 mL/h.",
+      "b": "150 mL/h.",
+      "c": "200 mL/h.",
+      "d": "300 mL/h."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "Tiempo en horas: 120 , min / 60 , min/h = 2 , h. Velocidad: 200, mL / 2 , h = 100 , mL/h."
+    "respuesta_correcta": "c",
+    "justificacion": "Velocidad: Volumen total / Tiempo en horas. 100 , mL 0.5 , h = 200 , mL/h."
   },
   {
     "id": 59,
-    "tema": "Leyes de Trasplante / Investigación",
-    "pregunta": "¿Qué ley o regulación bioética exige que cualquier investigación relacionada con el trasplante de órganos en humanos debe contar con el dictamen favorable de un **Comité de Ética en Investigación**?",
+    "tema": "Leyes de Trasplante / Muerte Encefálica",
+    "pregunta": "La declaración de **Muerte Encefálica** en el contexto de la donación de órganos requiere legalmente:",
     "opciones": {
-      "a": "Solo la regulación local del hospital.",
-      "b": "Declaración de Helsinki y regulaciones nacionales (ej. Ley de Trasplante).",
-      "c": "Reglas de la OMS.",
-      "d": "La autorización del cirujano principal."
+      "a": "Un solo examen clínico por un médico tratante.",
+      "b": "El cese irreversible de las funciones cardiovasculares.",
+      "c": "Dos exámenes clínicos neurológicos por médicos no vinculados al trasplante y pruebas instrumentales confirmatorias.",
+      "d": "Autorización notarial."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "Todas las investigaciones biomédicas en humanos deben seguir los principios éticos internacionales (Helsinki) y nacionales, exigiendo la revisión y aprobación por parte de un Comité de Ética para proteger los derechos y el bienestar de los participantes."
+    "respuesta_correcta": "c",
+    "justificacion": "Se requieren dos exámenes clínicos por médicos independientes (no parte del equipo de trasplante) y pruebas instrumentales (ej. EEG, Doppler transcraneal) para asegurar la irreversibilidad y evitar conflictos de interés (Regla del Donante Muerto)."
   },
   {
     "id": 60,
-    "tema": "Hematología Crítica / Anticoagulación",
-    "pregunta": "En un paciente con insuficiencia renal grave (CrCl < 30 , mL/min) que requiere anticoagulación por Fibrilación Auricular, ¿cuál anticoagulante oral de acción directa (DOAC) requiere ajuste o está contraindicado?",
+    "tema": "Hematología Crítica / Transfusión",
+    "pregunta": "El riesgo más grave e inmediato de la **Transfusión de Glóbulos Rojos (GR)** es:",
     "opciones": {
-      "a": "Warfarina.",
-      "b": "Dabigatrán y Rivaroxabán.",
-      "c": "Apixabán.",
-      "d": "Edoxabán."
+      "a": "Hemocromatosis.",
+      "b": "Reacción hemolítica aguda por incompatibilidad ABO.",
+      "c": "Transmisión del VIH.",
+      "d": "Desarrollo de aloanticuerpos anti-HLA."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Dabigatrán y Rivaroxabán tienen un aclaramiento renal significativo y requieren ajuste de dosis o están contraindicados con $\text{CrCl} < 30 \, \text{mL/min}$. Apixabán tiene la menor dependencia renal y puede usarse con precaución."
+    "justificacion": "La reacción hemolítica aguda, casi siempre causada por error en la identificación del paciente y la incompatibilidad ABO, es una emergencia que puede llevar a CID, shock y muerte."
   },
   {
     "id": 61,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "La dosis de carga de un fármaco es 10 , mg/kg. El vial viene en 500 , mg diluidos en 20 , mL. Si el paciente pesa 50 ,kg, ¿cuántos mL se deben administrar?",
+    "tema": "Hematología Crítica / Trombosis",
+    "pregunta": "¿Cuál es el principal criterio diagnóstico de imagen para el **Tromboembolismo Pulmonar (TEP)** en un paciente crítico?",
     "opciones": {
-      "a": "10 mL.",
-      "b": "20 mL.",
-      "c": "5 mL.",
-      "d": "15 mL."
+      "a": "Signo de la silueta en la radiografía de tórax.",
+      "b": "Defectos de llenado hipodensos en las arterias pulmonares en la Angio-TC.",
+      "c": "Derrame pleural masivo.",
+      "d": "Elevación de la troponina."
     },
     "respuesta_correcta": "b",
-
+    "justificacion": "La Angio-TC pulmonar es el estándar de oro y muestra el trombo como un defecto de llenado (hipodenso) en la luz de las arterias pulmonares realzadas por el contraste."
+  },
   {
     "id": 62,
-    "tema": "Hematología Maligna / SLT",
-    "pregunta": "La complicación renal más grave y común en el Síndrome de Lisis Tumoral (SLT) es la **Insuficiencia Renal Aguda** causada por la precipitación de:",
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Se necesita infundir 15, mEq de KCl en 60 minutos. Si la ampolla contiene 20 , mEq/10 , mL, ¿cuál es el volumen del medicamento puro en mL que se debe cargar?",
     "opciones": {
-      "a": "Proteínas de Bence Jones.",
-      "b": "Cristales de Oxalato de Calcio.",
-      "c": "Cristales de Ácido Úrico.",
-      "d": "Glóbulos Rojos en los túbulos."
+      "a": "15 mL.",
+      "b": "7.5 mL.",
+      "c": "1.5 mL.",
+      "d": "20 mL."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La hiperuricemia masiva por degradación de nucleótidos causa la precipitación de cristales de ácido úrico en los túbulos renales, llevando a nefropatía obstructiva aguda."
+    "respuesta_correcta": "b",
+    "justificacion": "Cálculo: 15 , mEq times 10 , mL 20 , mEq = 7.5, mL."
   },
   {
     "id": 63,
-    "tema": "Leyes de Trasplante / Definición",
-    "pregunta": "Según la legislación de trasplantes, la **ablación** de órganos se refiere a:",
+    "tema": "Leyes de Trasplante / Ética",
+    "pregunta": "El principio ético de **Justicia Distributiva** en el trasplante de órganos se refiere principalmente a:",
     "opciones": {
-      "a": "El proceso de obtención del consentimiento informado del donante.",
-      "b": "La extracción de los órganos o tejidos del cuerpo del donante.",
-      "c": "La asignación del órgano al receptor.",
-      "d": "El implante del órgano en el receptor."
+      "a": "La obligatoriedad de donar órganos.",
+      "b": "La distribución equitativa de los órganos basados en criterios médicos y sociales, y no en la capacidad de pago.",
+      "c": "La decisión del paciente de aceptar o rechazar un trasplante.",
+      "d": "La seguridad de que el órgano no cause daño al receptor."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Ablación es el término legal y médico para la remoción o extracción quirúrgica de órganos o tejidos del donante."
+    "justificacion": "El principio de Justicia exige que los recursos escasos, como los órganos, sean asignados de manera justa y transparente, priorizando la necesidad médica (gravedad, compatibilidad) sobre otros factores."
   },
   {
     "id": 64,
-    "tema": "Hematología Crítica / Anemia",
-    "pregunta": "En un paciente con hemorragia digestiva masiva, ¿cuál es el producto de elección para el manejo de la anemia sintomática?",
+    "tema": "Hematología Crítica / Coagulación",
+    "pregunta": "En un paciente con **Coagulación Intravascular Diseminada (CID)** grave en la UCI, ¿cuál de los siguientes hallazgos de laboratorio es más indicativo de un mal pronóstico?",
     "opciones": {
-      "a": "Crioprecipitado.",
-      "b": "Plaquetas.",
-      "c": "Glóbulos Rojos Concentrados (GRC).",
-      "d": "Albúmina al 20%."
+      "a": "Tiempo de protrombina (TP) ligeramente prolongado.",
+      "b": "Niveles normales de fibrinógeno.",
+      "c": "Trombocitopenia progresiva y niveles muy elevados de Dímero D.",
+      "d": "Reticulocitosis."
     },
     "respuesta_correcta": "c",
-    
-
+    "justificacion": "La CID se caracteriza por una coagulación y fibrinólisis descontroladas. La trombocitopenia por consumo y el aumento masivo de productos de degradación de la fibrina (Dímero D) reflejan la gravedad del proceso."
   },
   {
     "id": 65,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Una bomba de infusión está programada a 125 , mL/h. Si la concentración de la droga es de 4 , mg/mL, ¿cuántos mg de droga recibirá el paciente en 2 horas?",
+    "tema": "Leyes de Trasplante / Donante Vivo",
+    "pregunta": "Para la **Donación de Órgano en Vida** (ej. un riñón), además del consentimiento informado, el requisito legal y ético fundamental es:",
     "opciones": {
-      "a": "250 mg.",
-      "b": "500 mg.",
-      "c": "1000 mg.",
-      "d": "125 mg."
+      "a": "Ser de la misma edad que el receptor.",
+      "b": "Ser compatible genéticamente al 100%.",
+      "c": "Que el donante no sufra ningún riesgo para su vida o salud y que exista una relación de parentesco o judicial.",
+      "d": "Tener un grupo sanguíneo ABO idéntico."
     },
     "respuesta_correcta": "c",
-    
+    "justificacion": "La ley exige minimizar el riesgo para la salud del donante y asegura que la donación se realice en el marco de lazos familiares o por autorización judicial para evitar el comercio de órganos."
+  },
   {
     "id": 66,
-    "tema": "Leyes de Trasplante / Mantenimiento",
-    "pregunta": "Una obligación legal y ética del equipo médico al identificar un potencial donante con Muerte Encefálica es el **mantenimiento del donante**, que implica:",
-    "opciones": {
-      "a": "Comenzar la cirugía de ablación inmediatamente.",
-      "b": "Garantizar la estabilidad hemodinámica y ventilatoria para preservar la función de los órganos.",
-      "c": "Solicitar la aprobación del Comité de Bioética antes de cualquier intervención.",
-      "d": "Suspender toda la medicación en curso."
-    },
-    "respuesta_correcta": "b",
-    "justificacion": "El mantenimiento es crucial para asegurar que los órganos permanezcan viables para el trasplante, a pesar de la inestabilidad fisiológica que acompaña a la muerte encefálica (ej. hipotensión, diabetes insípida)."
-  },
-  {
-    "id": 67,
-    "tema": "Hematología Crítica / TALP",
-    "pregunta": "La principal indicación de la transfusión de plaquetas en un paciente con **Púrpura Trombocitopénica Trombótica (PTT)** es:",
-    "opciones": {
-      "a": "Recuento de plaquetas <100,000/L de rutina.",
-      "b": "Como tratamiento de primera línea.",
-      "c": "Está contraindicada, excepto en caso de hemorragia cerebral o potencialmente mortal.",
-      "d": "Solo si la ADAMTS13 es normal."
-    },
-    "respuesta_correcta": "c",
-    "justificacion": "La transfusión de plaquetas en PTT está generalmente contraindicada, ya que puede alimentar el proceso trombótico. Solo se utiliza en casos de sangrado con riesgo vital (ej. hemorragia intracraneal)."
-  },
-  {
-    "id": 68,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Una enfermera debe administrar 150 , mg de un antibiótico. La concentración de la solución es de 50 , mg/mL. ¿Qué volumen en mL debe extraer?",
-    "opciones": {
-      "a": "1.5 mL.",
-      "b": "3 mL.",
-      "c": "7.5 mL.",
-      "d": "10 mL."
-    },
-    "respuesta_correcta": "b",
-    "justificacion": "Cálculo: 150 , mg / 50 , mg/mL = 3 , {mL}."
-  },
-  {
-    "id": 69,
-    "tema": "Leyes de Trasplante / Reciprocidad",
-    "pregunta": "El concepto de **Reciprocidad** en el trasplante de órganos se refiere a:",
-    "opciones": {
-      "a": "El derecho del donante vivo a recibir tratamiento gratuito.",
-      "b": "La obligación de los países que reciben órganos de compensar a los países donantes.",
-      "c": "El principio ético que establece que los donantes de órganos vivos deben recibir un trato prioritario si necesitan un trasplante futuro.",
-      "d": "El intercambio de órganos entre diferentes hospitales."
-    },
-    "respuesta_correcta": "c",
-    "justificacion": "La reciprocidad busca honrar el altruismo de los donantes vivos al garantizarles prioridad en caso de que ellos o sus familiares lo necesiten en el futuro, aunque la implementación varía legalmente."
-  },
-  {
-    "id": 70,
-    "tema": "Hematología Crítica / Hiperviscosidad",
-    "pregunta": "La principal terapia de emergencia para el **Síndrome de Hiperviscosidad** (común en Mieloma Múltiple o Macroglobulinemia de Waldenström) es:",
-    "opciones": {
-      "a": "Transfusión de plaquetas.",
-      "b": "Plasmaféresis.",
-      "c": "Quimioterapia en bolo.",
-      "d": "Diálisis."
-    },
-    "respuesta_correcta": "b",
-    "justificacion": "La hiperviscosidad es causada por la alta concentración de proteínas séricas (inmunoglobulinas). La plasmaféresis elimina rápidamente estas proteínas del plasma, disminuyendo la viscosidad y revirtiendo los síntomas (síntomas neurológicos, sangrado)."
-  },
-  {
-    "id": 71,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se infunde Clindamicina 600 , mg en 100 , mL a 50 , mL/h. ¿Cuánto tiempo tardará en pasar la dosis total?",
-    "opciones": {
-      "a": "60 minutos (1 hora).",
-      "b": "120 minutos (2 horas).",
-      "c": "30 minutos (0.5 horas).",
-      "d": "45 minutos (0.75 horas)."
-    },
-    "respuesta_correcta": "b",
-    "justificacion": "Tiempo: Volumen total / Velocidad de infusión. 100 , mL/ 50 , mL/h = 2 , horas o 120 , minutos."
-  },
-  {
-    "id": 72,
     "tema": "Hematología Crítica / Anticoagulación",
-    "pregunta": "¿Qué prueba de laboratorio se utiliza para monitorizar la anticoagulación con **Heparina de Bajo Peso Molecular (HBPM)** en situaciones especiales (ej. insuficiencia renal o peso extremo)?",
+    "pregunta": "En la monitorización de la anticoagulación con **Heparina No Fraccionada (HNF)**, ¿cuál es el parámetro de laboratorio más utilizado?",
     "opciones": {
       "a": "Tiempo de Protrombina (TP).",
       "b": "Tiempo de Tromboplastina Parcial Activada (aPTT).",
-      "c": "Actividad anti-Factor Xa.",
+      "c": "Niveles de Antitrombina III.",
       "d": "Dímero D."
     },
+    "respuesta_correcta": "b",
+    "justificacion": "La HNF ejerce su efecto principalmente inhibiendo el factor Xa y la trombina (Factor IIa), lo que se refleja en la prolongación del aPTT (vía intrínseca). Se busca mantener el aPTT en un rango terapéutico específico."
+  },
+  {
+    "id": 67,
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Una infusión de Amiodarona (900 , mg en 500 , mL) debe pasarse a una velocidad de 0.5 , mg/min. ¿A qué velocidad se debe programar la bomba en mL/h?",
+    "opciones": {
+      "a": "16.7 mL/h.",
+      "b": "25.5 mL/h.",
+      "c": "33.3 mL/h.",
+      "d": "50 mL/h."
+    },
+    "respuesta_correcta": "a",
+    "justificacion": "Concentración de la dilución: 900 , mg 500 , mL = 1.8 , mg/mL. Dosis por hora: 0.5 , mg/min times 60 , {min/h} = 30 ,mg/h. Velocidad en mL/h: 30 , mg/h 1.8 , mg/mL approx 16.66 , mL/h."
+  },
+  {
+    "id": 68,
+    "tema": "Leyes de Trasplante / Rechazo",
+    "pregunta": "¿Qué nombre recibe el rechazo de órganos o tejidos entre especies diferentes (ej. de cerdo a humano)?",
+    "opciones": {
+      "a": "Aloinjerto.",
+      "b": "Isogéneo.",
+      "c": "Xenotrasplante.",
+      "d": "Autotrasplante."
+    },
     "respuesta_correcta": "c",
-    "justificacion": "El aPTT es insensible a la HBPM. La actividad anti-Factor Xa es la prueba de elección para medir los niveles de HBPM en plasma cuando se necesita un monitoreo estricto."
+    "justificacion": "Xenotrasplante (o heteroinjerto) es la transferencia de células, tejidos u órganos entre especies diferentes (ej. xenotrasplante porcino a humano)."
+  },
+  {
+    "id": 69,
+    "tema": "Hematología Crítica / TIH",
+    "pregunta": "En la **Trombocitopenia Inducida por Heparina (TIH)** Tipo II, el tratamiento inicial crucial consiste en:",
+    "opciones": {
+      "a": "Continuar con Heparina de Bajo Peso Molecular (HBPM) y monitorizar.",
+      "b": "Administrar transfusión de plaquetas inmediata.",
+      "c": "Suspender inmediatamente toda la Heparina y comenzar con un inhibidor directo de la trombina (ej. Argatroban).",
+      "d": "Iniciar Warfarina inmediatamente."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "La TIH es un estado protrombótico grave. La suspensión de toda la heparina y el inicio de un anticoagulante no heparínico (Argatroban, Bivalirudina, Fondaparinux) es esencial. La transfusión de plaquetas está contraindicada."
+  },
+  {
+    "id": 70,
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Se necesita pasar 100 , mL de medicación en 30 minutos. ¿A qué velocidad se programa la bomba en mL/h?",
+    "opciones": {
+      "a": "100 mL/h.",
+      "b": "150 mL/h.",
+      "c": "200 mL/h.",
+      "d": "300 mL/h."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "Velocidad: Volumen total / Tiempo en horas. 100 , mL 0.5 , h = 200 , mL/h."
+  },
+  {
+    "id": 71,
+    "tema": "Leyes de Trasplante / Muerte Encefálica",
+    "pregunta": "La declaración de **Muerte Encefálica** en el contexto de la donación de órganos requiere legalmente:",
+    "opciones": {
+      "a": "Un solo examen clínico por un médico tratante.",
+      "b": "El cese irreversible de las funciones cardiovasculares.",
+      "c": "Dos exámenes clínicos neurológicos por médicos no vinculados al trasplante y pruebas instrumentales confirmatorias.",
+      "d": "Autorización notarial."
+    },
+    "respuesta_correcta": "c",
+    "justificacion": "Se requieren dos exámenes clínicos por médicos independientes (no parte del equipo de trasplante) y pruebas instrumentales (ej. EEG, Doppler transcraneal) para asegurar la irreversibilidad y evitar conflictos de interés (Regla del Donante Muerto)."
+  },
+  {
+    "id": 72,
+    "tema": "Hematología Crítica / Transfusión",
+    "pregunta": "El riesgo más grave e inmediato de la **Transfusión de Glóbulos Rojos (GR)** es:",
+    "opciones": {
+      "a": "Hemocromatosis.",
+      "b": "Reacción hemolítica aguda por incompatibilidad ABO.",
+      "c": "Transmisión del VIH.",
+      "d": "Desarrollo de aloanticuerpos anti-HLA."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La reacción hemolítica aguda, casi siempre causada por error en la identificación del paciente y la incompatibilidad ABO, es una emergencia que puede llevar a CID, shock y muerte."
   },
   {
     "id": 73,
-    "tema": "Leyes de Trasplante / Órganos No Primarios",
-    "pregunta": "La donación de **tejidos** (ej. córneas, piel, hueso) difiere de la donación de órganos primarios (corazón, hígado) principalmente porque:",
+    "tema": "Hematología Crítica / Trombosis",
+    "pregunta": "¿Cuál es el principal criterio diagnóstico de imagen para el **Tromboembolismo Pulmonar (TEP)** en un paciente crítico?",
     "opciones": {
-      "a": "Requiere un donante con Muerte Encefálica.",
-      "b": "Puede realizarse hasta 24 horas después del cese circulatorio (muerte circulatoria).",
-      "c": "No requiere el consentimiento presunto.",
-      "d": "Solo se permite en donantes vivos."
+      "a": "Signo de la silueta en la radiografía de tórax.",
+      "b": "Defectos de llenado hipodensos en las arterias pulmonares en la Angio-TC.",
+      "c": "Derrame pleural masivo.",
+      "d": "Elevación de la troponina."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Los tejidos son más resistentes a la isquemia que los órganos vitales y pueden obtenerse varias horas después de la muerte circulatoria, lo que amplía significativamente la base de donantes."
+    "justificacion": "La Angio-TC pulmonar es el estándar de oro y muestra el trombo como un defecto de llenado (hipodenso) en la luz de las arterias pulmonares realzadas por el contraste."
   },
   {
     "id": 74,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se indica 20 , mEq de Bicarbonato de Sodio en bolo. Si la ampolla contiene 1 , mEq/mL y tiene 50 , {mL}, ¿qué volumen se debe administrar?",
+    "pregunta": "Se necesita infundir 15, mEq de KCl en 60 minutos. Si la ampolla contiene 20 , mEq/10 , mL, ¿cuál es el volumen del medicamento puro en mL que se debe cargar?",
     "opciones": {
-      "a": "2 mL.",
-      "b": "20 mL.",
-      "c": "10 mL.",
-      "d": "50 mL."
+      "a": "15 mL.",
+      "b": "7.5 mL.",
+      "c": "1.5 mL.",
+      "d": "20 mL."
     },
     "respuesta_correcta": "b",
-    "justificacion": "El paciente necesita 20 , mEq. La ampolla tiene una concentración de 1 , mEq/mL. Por lo tanto, se administran 20 , mEq / 1, mEq/mL = 20 , mL."
+    "justificacion": "Cálculo: 15 , mEq times 10 , mL 20 , mEq = 7.5, mL."
   },
   {
     "id": 75,
-    "tema": "Hematología Crítica / Plasmaféresis",
-    "pregunta": "La **Plasmaféresis de Intercambio Terapéutico (PLEX)** es el tratamiento de primera línea para:",
+    "tema": "Leyes de Trasplante / Ética",
+    "pregunta": "El principio ético de **Justicia Distributiva** en el trasplante de órganos se refiere principalmente a:",
     "opciones": {
-      "a": "Anemia ferropénica refractaria.",
-      "b": "Leucemia Mieloide Aguda.",
-      "c": "Púrpura Trombocitopénica Trombótica (PTT) activa.",
-      "d": "Crisis de aplasia pura de glóbulos rojos."
+      "a": "La obligatoriedad de donar órganos.",
+      "b": "La distribución equitativa de los órganos basados en criterios médicos y sociales, y no en la capacidad de pago.",
+      "c": "La decisión del paciente de aceptar o rechazar un trasplante.",
+      "d": "La seguridad de que el órgano no cause daño al receptor."
     },
-    "respuesta_correcta": "c",
-    "justificacion": "La PLEX es vital en la PTT, ya que elimina los autoanticuerpos contra la enzima ADAMTS13 y suministra ADAMTS13 funcional a través del plasma de reemplazo, interrumpiendo el ciclo de microtrombosis."
-  }
-]
-[
+    "respuesta_correcta": "b",
+    "justificacion": "El principio de Justicia exige que los recursos escasos, como los órganos, sean asignados de manera justa y transparente, priorizando la necesidad médica (gravedad, compatibilidad) sobre otros factores."
+  },
   {
     "id": 76,
-    "tema": "Hematología Crítica / Neutropenia",
-    "pregunta": "En un paciente con **Neutropenia Febril** y shock séptico, ¿cuál es el producto hemoterapéutico que *nunca* debe ser administrado de rutina y puede ser peligroso?",
+    "tema": "Hematología Crítica / Coagulación",
+    "pregunta": "En un paciente con **Coagulación Intravascular Diseminada (CID)** grave en la UCI, ¿cuál de los siguientes hallazgos de laboratorio es más indicativo de un mal pronóstico?",
     "opciones": {
-      "a": "Glóbulos Rojos Concentrados.",
-      "b": "Crioprecipitado.",
-      "c": "Granulocitos (Transfusión de Neutrófilos).",
-      "d": "Plasma Fresco Congelado (PFC)."
+      "a": "Tiempo de protrombina (TP) ligeramente prolongado.",
+      "b": "Niveles normales de fibrinógeno.",
+      "c": "Trombocitopenia progresiva y niveles muy elevados de Dímero D.",
+      "d": "Reticulocitosis."
     },
     "respuesta_correcta": "c",
-    "justificacion": "La transfusión de granulocitos es un procedimiento riesgoso y de efectividad limitada, reservado para casos muy específicos de sepsis refractaria en pacientes con neutropenia crónica o disfunción de neutrófilos. No es un tratamiento de rutina para la neutropenia febril."
+    "justificacion": "La CID se caracteriza por una coagulación y fibrinólisis descontroladas. La trombocitopenia por consumo y el aumento masivo de productos de degradación de la fibrina (Dímero D) reflejan la gravedad del proceso."
   },
   {
     "id": 77,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se necesita administrar 0.1 , mg/kg de un relajante muscular. El paciente pesa 90, kg y la ampolla contiene 10 , mg/mL. ¿Qué volumen en mL se debe administrar?",
+    "tema": "Leyes de Trasplante / Donante Vivo",
+    "pregunta": "Para la **Donación de Órgano en Vida** (ej. un riñón), además del consentimiento informado, el requisito legal y ético fundamental es:",
     "opciones": {
-      "a": "0.9 mL.",
-      "b": "9 mL.",
-      "c": "1 mL.",
-      "d": "0.09 mL."
-    },
-    "respuesta_correcta": "a",
-  
-  {
-    "id": 78,
-    "tema": "Leyes de Trasplante / Rechazo",
-    "pregunta": "¿Qué tipo de rechazo de un aloinjerto ocurre **minutos u horas después** del trasplante y se debe a anticuerpos preformados (ej. incompatibilidad ABO)?",
-    "opciones": {
-      "a": "Rechazo crónico.",
-      "b": "Rechazo agudo.",
-      "c": "Rechazo hiperagudo.",
-      "d": "Rechazo celular."
+      "a": "Ser de la misma edad que el receptor.",
+      "b": "Ser compatible genéticamente al 100%.",
+      "c": "Que el donante no sufra ningún riesgo para su vida o salud y que exista una relación de parentesco o judicial.",
+      "d": "Tener un grupo sanguíneo ABO idéntico."
     },
     "respuesta_correcta": "c",
-    "justificacion": "El rechazo hiperagudo es una emergencia vascular mediada por anticuerpos preformados del receptor contra antígenos del donante (principalmente ABO), causando trombosis inmediata del injerto."
+    "justificacion": "La ley exige minimizar el riesgo para la salud del donante y asegura que la donación se realice en el marco de lazos familiares o por autorización judicial para evitar el comercio de órganos."
+  },
+  {
+    "id": 78,
+    "tema": "Hematología Crítica / Anticoagulación",
+    "pregunta": "En la monitorización de la anticoagulación con **Heparina No Fraccionada (HNF)**, ¿cuál es el parámetro de laboratorio más utilizado?",
+    "opciones": {
+      "a": "Tiempo de Protrombina (TP).",
+      "b": "Tiempo de Tromboplastina Parcial Activada (aPTT).",
+      "c": "Niveles de Antitrombina III.",
+      "d": "Dímero D."
+    },
+    "respuesta_correcta": "b",
+    "justificacion": "La HNF ejerce su efecto principalmente inhibiendo el factor Xa y la trombina (Factor IIa), lo que se refleja en la prolongación del aPTT (vía intrínseca). Se busca mantener el aPTT en un rango terapéutico específico."
   },
   {
     "id": 79,
-    "tema": "Hematología Crítica / Shock Hemorrágico",
-    "pregunta": "En el protocolo de **Transfusión Masiva (PTM)**, la relación de productos hemoterapéuticos más recomendada actualmente es:",
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Una infusión de Amiodarona (900 , mg en 500 , mL) debe pasarse a una velocidad de 0.5 , mg/min. ¿A qué velocidad se debe programar la bomba en mL/h?",
     "opciones": {
-      "a": "2:1:1 (GRC:Plaquetas:PFC).",
-      "b": "1:1:1 (GRC:Plaquetas:PFC).",
-      "c": "4:1:1 (GRC:PFC:Plaquetas).",
-      "d": "Solo GRC hasta alcanzar la hemoglobina meta."
+      "a": "16.7 mL/h.",
+      "b": "25.5 mL/h.",
+      "c": "33.3 mL/h.",
+      "d": "50 mL/h."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "La relación 1:1:1 (Glóbulos Rojos, Plasma Fresco Congelado y Plaquetas) ha demostrado ser superior en el control del sangrado y la reducción de la mortalidad en el manejo del trauma y el shock hemorrágico masivo."
+    "respuesta_correcta": "a",
+    "justificacion": "Concentración de la dilución: 900 , mg 500 , mL = 1.8 , mg/mL. Dosis por hora: 0.5 , mg/min times 60 , {min/h} = 30 ,mg/h. Velocidad en mL/h: 30 , mg/h 1.8 , mg/mL approx 16.66 , mL/h."
   },
   {
     "id": 80,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "La dosis de infusión de Heparina Sódica es de 2000 , unidades/h. La concentración de la dilución es de 25000 , unidades en 250 , mL. ¿A qué velocidad se programa la bomba en mL/h?",
+    "tema": "Leyes de Trasplante / Rechazo",
+    "pregunta": "¿Qué nombre recibe el rechazo de órganos o tejidos entre especies diferentes (ej. de cerdo a humano)?",
     "opciones": {
-      "a": "10 mL/h.",
-      "b": "20 mL/h.",
-      "c": "5 mL/h.",
-      "d": "15 mL/h."
+      "a": "Aloinjerto.",
+      "b": "Isogéneo.",
+      "c": "Xenotrasplante.",
+      "d": "Autotrasplante."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "Concentración: 25000 ,unidades/ 250 , mL = 100 , unidades/mL. Velocidad: 2000 , unidades/h/ 100 , unidades/mL = 20 , mL/h."
+    "respuesta_correcta": "c",
+    "justificacion": "Xenotrasplante (o heteroinjerto) es la transferencia de células, tejidos u órganos entre especies diferentes (ej. xenotrasplante porcino a humano)."
   },
   {
     "id": 81,
-    "tema": "Leyes de Trasplante / Definición",
-    "pregunta": "Legalmente, se entiende por **Implante** en trasplantología:",
+    "tema": "Hematología Crítica / TIH",
+    "pregunta": "En la **Trombocitopenia Inducida por Heparina (TIH)** Tipo II, el tratamiento inicial crucial consiste en:",
     "opciones": {
-      "a": "El proceso de verificación de compatibilidad.",
-      "b": "La extracción del órgano del donante.",
-      "c": "El procedimiento quirúrgico para introducir el órgano o tejido en el cuerpo del receptor.",
-      "d": "El almacenamiento y transporte del órgano."
+      "a": "Continuar con Heparina de Bajo Peso Molecular (HBPM) y monitorizar.",
+      "b": "Administrar transfusión de plaquetas inmediata.",
+      "c": "Suspender inmediatamente toda la Heparina y comenzar con un inhibidor directo de la trombina (ej. Argatroban).",
+      "d": "Iniciar Warfarina inmediatamente."
     },
     "respuesta_correcta": "c",
-    "justificacion": "Implante es el término para la etapa quirúrgica final donde el órgano o tejido es colocado en el cuerpo del receptor."
+    "justificacion": "La TIH es un estado protrombótico grave. La suspensión de toda la heparina y el inicio de un anticoagulante no heparínico (Argatroban, Bivalirudina, Fondaparinux) es esencial. La transfusión de plaquetas está contraindicada."
   },
   {
     "id": 82,
-    "tema": "Hematología Crítica / Cáncer",
-    "pregunta": "Un paciente con mieloma múltiple presenta **hipercalcemia** grave y confusión mental. La prioridad terapéutica inmediata en la UCI es:",
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Se necesita pasar 100 , mL de medicación en 30 minutos. ¿A qué velocidad se programa la bomba en mL/h?",
     "opciones": {
-      "a": "Administrar un bolo de Glucosa-Insulina.",
-      "b": "Hidratación IV vigorosa con solución salina normal y Bifosfonatos.",
-      "c": "Transfusión de Glóbulos Rojos.",
-      "d": "Iniciar quimioterapia inmediatamente."
+      "a": "100 mL/h.",
+      "b": "150 mL/h.",
+      "c": "200 mL/h.",
+      "d": "300 mL/h."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "La hipercalcemia es una urgencia oncológica. La hidratación revierte la deshidratación y promueve la excreción renal de calcio. Los bifosfonatos (ej. pamidronato) inhiben la resorción ósea y tardan 24-48 horas en hacer efecto."
+    "respuesta_correcta": "c",
+    "justificacion": "Velocidad: Volumen total / Tiempo en horas. 100 , mL 0.5 , h = 200 , mL/h."
   },
   {
     "id": 83,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se deben pasar 100 , mL de un antibiótico en 45 minutos. ¿Cuál es la velocidad de infusión en mL/h?",
+    "tema": "Leyes de Trasplante / Muerte Encefálica",
+    "pregunta": "La declaración de **Muerte Encefálica** en el contexto de la donación de órganos requiere legalmente:",
     "opciones": {
-      "a": "100 mL/h.",
-      "b": "133 mL/h.",
-      "c": "75 mL/h.",
-      "d": "150 mL/h."
+      "a": "Un solo examen clínico por un médico tratante.",
+      "b": "El cese irreversible de las funciones cardiovasculares.",
+      "c": "Dos exámenes clínicos neurológicos por médicos no vinculados al trasplante y pruebas instrumentales confirmatorias.",
+      "d": "Autorización notarial."
     },
-    "respuesta_correcta": "b",
-    
+    "respuesta_correcta": "c",
+    "justificacion": "Se requieren dos exámenes clínicos por médicos independientes (no parte del equipo de trasplante) y pruebas instrumentales (ej. EEG, Doppler transcraneal) para asegurar la irreversibilidad y evitar conflictos de interés (Regla del Donante Muerto)."
+  },
   {
     "id": 84,
-    "tema": "Leyes de Trasplante / Donación Pediátrica",
-    "pregunta": "La donación de órganos en **menores de edad** fallecidos legalmente requiere:",
+    "tema": "Hematología Crítica / Transfusión",
+    "pregunta": "El riesgo más grave e inmediato de la **Transfusión de Glóbulos Rojos (GR)** es:",
     "opciones": {
-      "a": "Solo la manifestación de voluntad previa del menor.",
-      "b": "La autorización expresa de ambos padres o representantes legales.",
-      "c": "La decisión del médico a cargo.",
-      "d": "Solo la consulta a un psicólogo."
+      "a": "Hemocromatosis.",
+      "b": "Reacción hemolítica aguda por incompatibilidad ABO.",
+      "c": "Transmisión del VIH.",
+      "d": "Desarrollo de aloanticuerpos anti-HLA."
     },
     "respuesta_correcta": "b",
-    "justificacion": "Aunque las leyes varían, en general, la voluntad de los padres o tutores legales es imprescindible para la donación en niños, ya que ellos no pueden ejercer el consentimiento presunto."
+    "justificacion": "La reacción hemolítica aguda, casi siempre causada por error en la identificación del paciente y la incompatibilidad ABO, es una emergencia que puede llevar a CID, shock y muerte."
   },
   {
     "id": 85,
-    "tema": "Hematología Crítica / Sangrado",
-    "pregunta": "El factor de coagulación que se encuentra en la mayor concentración en el **Crioprecipitado** y es útil para tratar la hemostasia en deficiencias severas o CID es:",
+    "tema": "Hematología Crítica / Trombosis",
+    "pregunta": "¿Cuál es el principal criterio diagnóstico de imagen para el **Tromboembolismo Pulmonar (TEP)** en un paciente crítico?",
     "opciones": {
-      "a": "Factor X.",
-      "b": "Fibrinógeno.",
-      "c": "Proteína C.",
-      "d": "Antitrombina III."
+      "a": "Signo de la silueta en la radiografía de tórax.",
+      "b": "Defectos de llenado hipodensos en las arterias pulmonares en la Angio-TC.",
+      "c": "Derrame pleural masivo.",
+      "d": "Elevación de la troponina."
     },
     "respuesta_correcta": "b",
-    "justificacion": "El Crioprecipitado es rico en Fibrinógeno, Factor VIII, Factor von Willebrand y Factor XIII. Es el tratamiento primario para reponer Fibrinógeno en CID o sangrado masivo."
+    "justificacion": "La Angio-TC pulmonar es el estándar de oro y muestra el trombo como un defecto de llenado (hipodenso) en la luz de las arterias pulmonares realzadas por el contraste."
   },
   {
     "id": 86,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se diluyen 2 , g de una droga en 100 , mL de Dextrosa a 5%. ¿Cuántos mg/mL tiene la dilución?",
+    "pregunta": "Se necesita infundir 15, mEq de KCl en 60 minutos. Si la ampolla contiene 20 , mEq/10 , mL, ¿cuál es el volumen del medicamento puro en mL que se debe cargar?",
     "opciones": {
-      "a": "2 mg/mL.",
-      "b": "20 mg/mL.",
-      "c": "5 mg/mL.",
-      "d": "10 mg/mL."
+      "a": "15 mL.",
+      "b": "7.5 mL.",
+      "c": "1.5 mL.",
+      "d": "20 mL."
     },
     "respuesta_correcta": "b",
-
+    "justificacion": "Cálculo: 15 , mEq times 10 , mL 20 , mEq = 7.5, mL."
+  },
   {
     "id": 87,
-    "tema": "Leyes de Trasplante / Tráfico",
-    "pregunta": "¿Qué ley o convención internacional prohíbe explícitamente el **pago o recompensa** por la donación de órganos?",
+    "tema": "Leyes de Trasplante / Ética",
+    "pregunta": "El principio ético de **Justicia Distributiva** en el trasplante de órganos se refiere principalmente a:",
     "opciones": {
-      "a": "Convenio de Ginebra.",
-      "b": "Principios de la OMS (Organización Mundial de la Salud) y la legislación de trasplantes.",
-      "c": "Declaración de Tokio.",
-      "d": "Reglamento del hospital."
+      "a": "La obligatoriedad de donar órganos.",
+      "b": "La distribución equitativa de los órganos basados en criterios médicos y sociales, y no en la capacidad de pago.",
+      "c": "La decisión del paciente de aceptar o rechazar un trasplante.",
+      "d": "La seguridad de que el órgano no cause daño al receptor."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La legislación de trasplantes y los principios rectores de la OMS prohíben estrictamente el tráfico y el pago por órganos, exigiendo que la donación sea un acto altruista y voluntario."
+    "justificacion": "El principio de Justicia exige que los recursos escasos, como los órganos, sean asignados de manera justa y transparente, priorizando la necesidad médica (gravedad, compatibilidad) sobre otros factores."
   },
   {
     "id": 88,
-    "tema": "Hematología Crítica / Anemia Hemolítica",
-    "pregunta": "En un paciente con anemia hemolítica autoinmune grave, el tratamiento de primera línea en la UCI es:",
+    "tema": "Hematología Crítica / Coagulación",
+    "pregunta": "En un paciente con **Coagulación Intravascular Diseminada (CID)** grave en la UCI, ¿cuál de los siguientes hallazgos de laboratorio es más indicativo de un mal pronóstico?",
     "opciones": {
-      "a": "Transfusión de plaquetas.",
-      "b": "Esplenectomía de urgencia.",
-      "c": "Corticosteroides en dosis altas e inmunoglobulina IV (si es necesario).",
-      "d": "Inhibidores directos de la trombina."
+      "a": "Tiempo de protrombina (TP) ligeramente prolongado.",
+      "b": "Niveles normales de fibrinógeno.",
+      "c": "Trombocitopenia progresiva y niveles muy elevados de Dímero D.",
+      "d": "Reticulocitosis."
     },
     "respuesta_correcta": "c",
-  
+    "justificacion": "La CID se caracteriza por una coagulación y fibrinólisis descontroladas. La trombocitopenia por consumo y el aumento masivo de productos de degradación de la fibrina (Dímero D) reflejan la gravedad del proceso."
   },
   {
     "id": 89,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Un paciente de 100 , kg requiere 5 , g/kg/min de Dopamina. La dilución es de 400 , mg en 250 , mL. ¿A qué velocidad en mL/h se debe programar la bomba?",
+    "tema": "Leyes de Trasplante / Donante Vivo",
+    "pregunta": "Para la **Donación de Órgano en Vida** (ej. un riñón), además del consentimiento informado, el requisito legal y ético fundamental es:",
     "opciones": {
-      "a": "18.75 mL/h.",
-      "b": "25 mL/h.",
-      "c": "37.5 mL/h.",
-      "d": "50 mL/h."
+      "a": "Ser de la misma edad que el receptor.",
+      "b": "Ser compatible genéticamente al 100%.",
+      "c": "Que el donante no sufra ningún riesgo para su vida o salud y que exista una relación de parentesco o judicial.",
+      "d": "Tener un grupo sanguíneo ABO idéntico."
     },
-    "respuesta_correcta": "a",
+    "respuesta_correcta": "c",
+    "justificacion": "La ley exige minimizar el riesgo para la salud del donante y asegura que la donación se realice en el marco de lazos familiares o por autorización judicial para evitar el comercio de órganos."
   },
   {
     "id": 90,
-    "tema": "Leyes de Trasplante / Evaluación",
-    "pregunta": "El examen crucial que evalúa la compatibilidad inmunológica y minimiza el riesgo de rechazo hiperagudo en el trasplante de órganos es:",
+    "tema": "Hematología Crítica / Anticoagulación",
+    "pregunta": "En la monitorización de la anticoagulación con **Heparina No Fraccionada (HNF)**, ¿cuál es el parámetro de laboratorio más utilizado?",
     "opciones": {
-      "a": "La biometría hemática completa.",
-      "b": "La prueba cruzada (Crossmatch) pretrasplante.",
-      "c": "Los niveles séricos de Creatinina.",
-      "d": "El tiempo de sangría."
+      "a": "Tiempo de Protrombina (TP).",
+      "b": "Tiempo de Tromboplastina Parcial Activada (aPTT).",
+      "c": "Niveles de Antitrombina III.",
+      "d": "Dímero D."
     },
     "respuesta_correcta": "b",
-    "justificacion": "La prueba cruzada (crossmatch) evalúa la presencia de anticuerpos del receptor contra los antígenos leucocitarios humanos (HLA) o ABO del donante. Un crossmatch positivo es una contraindicación absoluta para el trasplante."
+    "justificacion": "La HNF ejerce su efecto principalmente inhibiendo el factor Xa y la trombina (Factor IIa), lo que se refleja en la prolongación del aPTT (vía intrínseca). Se busca mantener el aPTT en un rango terapéutico específico."
   },
   {
     "id": 91,
-    "tema": "Hematología Crítica / Emergencia",
-    "pregunta": "En un paciente con Hemofilia A grave y sangrado activo potencialmente mortal, el tratamiento de elección es:",
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Una infusión de Amiodarona (900 , mg en 500 , mL) debe pasarse a una velocidad de 0.5 , mg/min. ¿A qué velocidad se debe programar la bomba en mL/h?",
     "opciones": {
-      "a": "Transfusión de Plasma Fresco Congelado (PFC).",
-      "b": "Administración de Factor VIII concentrado recombinante.",
-      "c": "Transfusión de plaquetas.",
-      "d": "Uso de Desmopresina (DDAVP)."
+      "a": "16.7 mL/h.",
+      "b": "25.5 mL/h.",
+      "c": "33.3 mL/h.",
+      "d": "50 mL/h."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "La Hemofilia A es una deficiencia del Factor VIII. El tratamiento es la reposición de este factor hasta alcanzar niveles hemostáticos seguros. Los concentrados recombinantes son el tratamiento estándar."
+    "respuesta_correcta": "a",
+    "justificacion": "Concentración de la dilución: 900 , mg 500 , mL = 1.8 , mg/mL. Dosis por hora: 0.5 , mg/min times 60 , {min/h} = 30 ,mg/h. Velocidad en mL/h: 30 , mg/h 1.8 , mg/mL approx 16.66 , mL/h."
   },
   {
     "id": 92,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "La velocidad de goteo está a $10$ gotas/minuto (macrogoteo). ¿Cuál es el volumen total infundido en $3$ horas?",
+    "tema": "Leyes de Trasplante / Rechazo",
+    "pregunta": "¿Qué nombre recibe el rechazo de órganos o tejidos entre especies diferentes (ej. de cerdo a humano)?",
     "opciones": {
-      "a": "90 mL.",
-      "b": "150 mL.",
-      "c": "180 mL.",
-      "d": "240 mL."
+      "a": "Aloinjerto.",
+      "b": "Isogéneo.",
+      "c": "Xenotrasplante.",
+      "d": "Autotrasplante."
     },
-    "respuesta_correcta": "a",
-},
+    "respuesta_correcta": "c",
+    "justificacion": "Xenotrasplante (o heteroinjerto) es la transferencia de células, tejidos u órganos entre especies diferentes (ej. xenotrasplante porcino a humano)."
+  },
   {
     "id": 93,
-    "tema": "Leyes de Trasplante / Cuidado Post-Ablación",
-    "pregunta": "Según la legislación, después de la ablación de órganos de un donante fallecido, el cuerpo del donante debe ser tratado con:",
+    "tema": "Hematología Crítica / TIH",
+    "pregunta": "En la **Trombocitopenia Inducida por Heparina (TIH)** Tipo II, el tratamiento inicial crucial consiste en:",
     "opciones": {
-      "a": "Solo respeto y dignidad, sin obligaciones adicionales.",
-      "b": "Máximo respeto y ser restaurado para que su apariencia sea lo más natural posible.",
-      "c": "Ser entregado inmediatamente a las autoridades.",
-      "d": "Ser utilizado para entrenamiento médico."
+      "a": "Continuar con Heparina de Bajo Peso Molecular (HBPM) y monitorizar.",
+      "b": "Administrar transfusión de plaquetas inmediata.",
+      "c": "Suspender inmediatamente toda la Heparina y comenzar con un inhibidor directo de la trombina (ej. Argatroban).",
+      "d": "Iniciar Warfarina inmediatamente."
     },
-    "respuesta_correcta": "b",
-    "justificacion": "Las leyes de trasplante exigen que el cuerpo del donante sea tratado con dignidad, y que se realice una restauración cosmética adecuada antes de ser entregado a la familia. Este es un principio ético y legal."
+    "respuesta_correcta": "c",
+    "justificacion": "La TIH es un estado protrombótico grave. La suspensión de toda la heparina y el inicio de un anticoagulante no heparínico (Argatroban, Bivalirudina, Fondaparinux) es esencial. La transfusión de plaquetas está contraindicada."
   },
   {
     "id": 94,
-    "tema": "Hematología Crítica / Tromboprofilaxis",
-    "pregunta": "¿Qué agente es la elección más segura para la tromboprofilaxis en la UCI en un paciente con alto riesgo de sangrado activo?",
+    "tema": "Cálculo de Medicación",
+    "pregunta": "Se necesita pasar 100 , mL de medicación en 30 minutos. ¿A qué velocidad se programa la bomba en mL/h?",
     "opciones": {
-      "a": "Heparina No Fraccionada (HNF) intravenosa.",
-      "b": "Anticoagulación completa con Rivaroxabán.",
-      "c": "Dispositivos de Compresión Neumática Intermitente (DCNI).",
-      "d": "Dosis altas de HBPM."
+      "a": "100 mL/h.",
+      "b": "150 mL/h.",
+      "c": "200 mL/h.",
+      "d": "300 mL/h."
     },
     "respuesta_correcta": "c",
-    "justificacion": "En un paciente con alto riesgo de sangrado, la profilaxis mecánica (DCNI o medias de compresión) es la única opción segura, ya que no introduce riesgo farmacológico de hemorragia. La HNF IV no es tromboprofilaxis estándar."
+    "justificacion": "Velocidad: Volumen total / Tiempo en horas. 100 , mL 0.5 , h = 200 , mL/h."
   },
   {
     "id": 95,
-    "tema": "Cálculo de Medicación",
-    "pregunta": "Se administra Meropenem 1 , g en 100 , mL a pasar en 30 minutos. ¿Cuántos mg de droga se están pasando por minuto?",
+    "tema": "Leyes de Trasplante / Muerte Encefálica",
+    "pregunta": "La declaración de **Muerte Encefálica** en el contexto de la donación de órganos requiere legalmente:",
     "opciones": {
-      "a": "16.6 mg/min.",
-      "b": "33.3 mg/min.",
-      "c": "50 mg/min.",
-      "d": "25 mg/min."
+      "a": "Un solo examen clínico por un médico tratante.",
+      "b": "El cese irreversible de las funciones cardiovasculares.",
+      "c": "Dos exámenes clínicos neurológicos por médicos no vinculados al trasplante y pruebas instrumentales confirmatorias.",
+      "d": "Autorización notarial."
     },
-    "respuesta_correcta": "b",
- },
+    "respuesta_correcta": "c",
+    "justificacion": "Se requieren dos exámenes clínicos por médicos independientes (no parte del equipo de trasplante) y pruebas instrumentales (ej. EEG, Doppler transcraneal) para asegurar la irreversibilidad y evitar conflictos de interés (Regla del Donante Muerto)."
+  },
   {
     "id": 96,
-    "tema": "Leyes de Trasplante / Lista de Espera",
-    "pregunta": "El órgano que se asigna primariamente por el criterio de **distancia geográfica** (isquemia fría crítica) y compatibilidad ABO es:",
+    "tema": "Hematología Crítica / Transfusión",
+    "pregunta": "El riesgo más grave e inmediato de la **Transfusión de Glóbulos Rojos (GR)** es:",
     "opciones": {
-      "a": "Riñón.",
-      "b": "Corazón.",
-      "c": "Páncreas.",
-      "d": "Córnea."
+      "a": "Hemocromatosis.",
+      "b": "Reacción hemolítica aguda por incompatibilidad ABO.",
+      "c": "Transmisión del VIH.",
+      "d": "Desarrollo de aloanticuerpos anti-HLA."
     },
     "respuesta_correcta": "b",
-    "justificacion": "El corazón tiene el tiempo de isquemia fría más corto (aproximadamente 4 horas), por lo que la asignación se prioriza en función de la urgencia y la proximidad geográfica para asegurar la viabilidad del injerto."
+    "justificacion": "La reacción hemolítica aguda, casi siempre causada por error en la identificación del paciente y la incompatibilidad ABO, es una emergencia que puede llevar a CID, shock y muerte."
   },
   {
     "id": 97,
-    "tema": "Hematología Crítica / Transfusión",
-    "pregunta": "El objetivo de hemoglobina (Hb) típicamente buscado en un paciente crítico hemodinámicamente estable sin enfermedad coronaria activa es:",
+    "tema": "Hematología Crítica / Trombosis",
+    "pregunta": "¿Cuál es el principal criterio diagnóstico de imagen para el **Tromboembolismo Pulmonar (TEP)** en un paciente crítico?",
     "opciones": {
-      "a": "Hb >10 , g/dL.",
-      "b": "Hb de 7 a 8 , g/dL.",
-      "c": "Hb $>12 , g/dL.",
-      "d": "Hb <6 , g/dL. "
+      "a": "Signo de la silueta en la radiografía de tórax.",
+      "b": "Defectos de llenado hipodensos en las arterias pulmonares en la Angio-TC.",
+      "c": "Derrame pleural masivo.",
+      "d": "Elevación de la troponina."
     },
     "respuesta_correcta": "b",
-
+    "justificacion": "La Angio-TC pulmonar es el estándar de oro y muestra el trombo como un defecto de llenado (hipodenso) en la luz de las arterias pulmonares realzadas por el contraste."
   },
   {
     "id": 98,
     "tema": "Cálculo de Medicación",
-    "pregunta": "Se deben administrar 20 , unidades de insulina. Si la jeringa tiene una capacidad de 100 , unidades/mL, ¿qué volumen en mL se debe cargar?",
+    "pregunta": "Se necesita infundir 15, mEq de KCl en 60 minutos. Si la ampolla contiene 20 , mEq/10 , mL, ¿cuál es el volumen del medicamento puro en mL que se debe cargar?",
     "opciones": {
-      "a": "0.1 mL.",
-      "b": "0.2 mL.",
-      "c": "0.5 mL.",
-      "d": "1.0 mL."
+      "a": "15 mL.",
+      "b": "7.5 mL.",
+      "c": "1.5 mL.",
+      "d": "20 mL."
     },
     "respuesta_correcta": "b",
+    "justificacion": "Cálculo: 15 , mEq times 10 , mL 20 , mEq = 7.5, mL."
   },
   {
     "id": 99,
-    "tema": "Leyes de Trasplante / Células",
-    "pregunta": "En el trasplante de progenitores hematopoyéticos (médula ósea), ¿la relación legal requerida entre donante y receptor es tan estricta como en el trasplante de órganos sólidos?",
+    "tema": "Leyes de Trasplante / Ética",
+    "pregunta": "El principio ético de **Justicia Distributiva** en el trasplante de órganos se refiere principalmente a:",
     "opciones": {
-      "a": "Sí, debe ser siempre un pariente de primer grado.",
-      "b": "No, se acepta la donación de donantes no relacionados compatibles (no parientes).",
-      "c": "Solo si el paciente es menor de edad.",
-      "d": "Sí, es necesaria la donación cruzada."
+      "a": "La obligatoriedad de donar órganos.",
+      "b": "La distribución equitativa de los órganos basados en criterios médicos y sociales, y no en la capacidad de pago.",
+      "c": "La decisión del paciente de aceptar o rechazar un trasplante.",
+      "d": "La seguridad de que el órgano no cause daño al receptor."
     },
     "respuesta_correcta": "b",
-    "justificacion": "El TPH (Trasplante de Progenitores Hematopoyéticos) se basa en la compatibilidad HLA (Human Leukocyte Antigen). Aunque el familiar es ideal, se utiliza ampliamente el donante no relacionado encontrado a través de registros internacionales."
+    "justificacion": "El principio de Justicia exige que los recursos escasos, como los órganos, sean asignados de manera justa y transparente, priorizando la necesidad médica (gravedad, compatibilidad) sobre otros factores."
   },
   {
     "id": 100,
-    "tema": "Hematología Crítica / Trombosis",
-    "pregunta": "En la reversión de urgencia de la anticoagulación por **Dabigatrán** (un inhibidor directo de la trombina), el antídoto específico es:",
+    "tema": "Hematología Crítica / Coagulación",
+    "pregunta": "En un paciente con **Coagulación Intravascular Diseminada (CID)** grave en la UCI, ¿cuál de los siguientes hallazgos de laboratorio es más indicativo de un mal pronóstico?",
     "opciones": {
-      "a": "Vitamina K.",
-      "b": "Sufato de Protamina.",
-      "c": "Idarucizumab.",
-      "d": "Andexanet Alfa."
+      "a": "Tiempo de protrombina (TP) ligeramente prolongado.",
+      "b": "Niveles normales de fibrinógeno.",
+      "c": "Trombocitopenia progresiva y niveles muy elevados de Dímero D.",
+      "d": "Reticulocitosis."
     },
     "respuesta_correcta": "c",
-    "justificacion": "Idarucizumab es un fragmento de anticuerpo que se une al Dabigatrán con alta afinidad, revirtiendo su efecto anticoagulante en minutos. Andexanet Alfa es el antídoto para los inhibidores del Factor Xa (Rivaroxabán, Apixabán)."
+    "justificacion": "La CID se caracteriza por una coagulación y fibrinólisis descontroladas. La trombocitopenia por consumo y el aumento masivo de productos de degradación de la fibrina (Dímero D) reflejan la gravedad del proceso."
   }
 ]

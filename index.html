@@ -1,1322 +1,275 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Sistema de Examen Médico - Deepweb</title>
-   <!-- Incluimos Tailwind CSS para un diseño moderno y responsive -->
-   <script src="https://cdn.tailwindcss.com"></script>
-   <!-- Iconos de Font Awesome -->
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-   <style>
-        /* Configuración de color para Tailwind */
-        :root {
-            --primary: #1D4ED8; /* Blue-700 */
-            --primary-dark: #1E40AF; /* Blue-800 */
-            --secondary: #F59E0B; /* Amber-500 */
-            --background: #F9FAFB; /* Gray-50 */
-            --card: #FFFFFF;
-        }
-
-        /* Tipografía Inter como base */
-        html { font-family: 'Inter', sans-serif; }
-
-        /* Clases CSS personalizadas para el layout y componentes */
-        .screen {
-            display: none;
-            min-height: 100vh;
-            padding: 2rem 1rem;
-            background-color: var(--background);
-        }
-        .screen.active {
-            display: block;
-        }
-
-        .card {
-            background-color: var(--card);
-            border-radius: 1rem;
-            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-            padding: 2.5rem;
-            max-width: 90%;
-            margin: 2rem auto;
-        }
-
-        .btn-primary {
-            background-color: var(--primary);
-            color: white;
-            padding: 0.75rem 1.5rem;
-            border-radius: 0.5rem;
-            font-weight: 600;
-            transition: all 0.2s;
-        }
-        .btn-primary:hover {
-            background-color: var(--primary-dark);
-        }
-
-        .btn-secondary {
-            background-color: var(--secondary);
-            color: white;
-            padding: 0.75rem 1.5rem;
-            border-radius: 0.5rem;
-            font-weight: 600;
-            transition: all 0.2s;
-        }
-        .btn-secondary:hover {
-            background-color: #D97706; /* Amber-700 */
-        }
-        
-        .role-card {
-            cursor: pointer;
-            transition: transform 0.2s, box-shadow 0.2s;
-            border: 2px solid #E5E7EB; /* Gray-200 */
-        }
-        .role-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.15);
-            border-color: var(--primary);
-        }
-
-        /* Estilo para el pie de página fijo */
-        footer {
-            background-color: #1F2937; /* Gray-800 */
-            color: #D1D5DB; /* Gray-300 */
-            padding: 1.5rem;
-            text-align: center;
-            font-size: 0.875rem;
-        }
-
-        /* Estilos del Examen */
-        .question-card {
-            min-height: 300px;
-        }
-        .option-item {
-            cursor: pointer;
-            transition: background-color 0.15s, border-color 0.15s;
-        }
-        .option-item:hover {
-            background-color: #F3F4F6; /* Gray-100 */
-        }
-        .option-item.selected {
-            border-color: var(--primary);
-            background-color: #DBEAFE; /* Blue-100 */
-            font-weight: 600;
-        }
-        .option-item.correct {
-            border-color: #10B981; /* Green-500 */
-            background-color: #D1FAE5; /* Green-100 */
-            font-weight: 700;
-            color: #065F46; /* Green-800 */
-        }
-        .option-item.incorrect {
-            border-color: #F87171; /* Red-400 */
-            background-color: #FEE2E2; /* Red-100 */
-            font-weight: 700;
-            color: #991B1B; /* Red-800 */
-        }
-        .option-item.incorrect.selected {
-             /* Estilo para la que eligió mal */
-            border-color: #B91C1C; /* Red-700 */
-            background-color: #FEE2E2; /* Red-100 */
-        }
-
-        /* Estilos de la Paginación/Navegación del examen */
-        .nav-button {
-            width: 36px;
-            height: 36px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border-radius: 9999px; /* Full rounded */
-            border: 1px solid #D1D5DB;
-            background-color: #F3F4F6;
-            transition: background-color 0.15s;
-        }
-        .nav-button:hover {
-            background-color: #E5E7EB;
-        }
-        .nav-button.current {
-            background-color: var(--primary);
-            border-color: var(--primary);
-            color: white;
-            font-weight: bold;
-        }
-        .nav-button.answered {
-            background-color: #9CA3AF; /* Gray-400 */
-            color: white;
-            border-color: #9CA3AF;
-        }
-        .nav-button.current.answered {
-             background-color: var(--primary); /* Si es la actual y fue respondida, sigue siendo azul */
-        }
-    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Evaluación Médica y de Enfermería - Deepweb</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
-    <div id="app" class="relative">
+    <div id="app">
         
-        <!-- PANTALLA DE SELECCIÓN DE ROL (INICIO) -->
-        <section id="seleccionSection" class="screen active flex items-center justify-center">
-            <div class="card max-w-lg text-center">
-                <div class="text-6xl text-blue-600 mb-6">
-                    <i class="fas fa-microscope"></i>
-                </div>
-                <h1 class="text-3xl font-bold text-gray-800 mb-2">Sistema de Evaluación de Especialidades</h1>
-                <p class="text-gray-500 mb-8">Selecciona tu rol para acceder a la plataforma.</p>
-                
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    <!-- Tarjeta de Administrador -->
-                    <div class="role-card admin-card p-6 bg-gray-50 rounded-lg" onclick="mostrarLoginAdmin()">
-                        <div class="text-4xl text-yellow-600 mb-3">
-                            <i class="fas fa-user-shield"></i>
-                        </div>
-                        <h2 class="text-xl font-semibold text-gray-700 mb-1">Administrador</h2>
-                        <p class="text-sm text-gray-500">Gestión de claves y monitoreo.</p>
-                        <button class="mt-4 w-full text-white bg-yellow-600 py-2 rounded-lg hover:bg-yellow-700 transition">Ingresar</button>
+        <!-- PANTALLA DE SELECCIÓN DE ROL -->
+        <section id="seleccionRol" class="screen active">
+            <div class="container">
+                <div class="card">
+                    <div class="icon-header">
+                        <i class="fas fa-microscope"></i>
                     </div>
-
-                    <!-- Tarjeta de Alumno -->
-                    <div class="role-card alumno-card p-6 bg-gray-50 rounded-lg" onclick="mostrarLoginAlumno()">
-                        <div class="text-4xl text-blue-600 mb-3">
-                            <i class="fas fa-user-graduate"></i>
+                    <h1>Sistema de Evaluación Médica y de Enfermería</h1>
+                    <p class="subtitle">Selecciona tu rol para acceder</p>
+                    
+                    <div class="roles-grid">
+                        <div class="role-card" onclick="mostrarLoginAdmin()">
+                            <div class="role-icon">
+                                <i class="fas fa-user-shield"></i>
+                            </div>
+                            <h2>Administrador</h2>
+                            <p>Gestión de claves</p>
                         </div>
-                        <h2 class="text-xl font-semibold text-gray-700 mb-1">Aspirante / Alumno</h2>
-                        <p class="text-sm text-gray-500">Realizar exámenes cronometrados.</p>
-                        <button class="mt-4 w-full btn-primary">Comenzar Examen</button>
+
+                        <div class="role-card" onclick="mostrarLoginAlumno()">
+                            <div class="role-icon">
+                                <i class="fas fa-user-graduate"></i>
+                            </div>
+                            <h2>Alumno</h2>
+                            <p>Rendir examen</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <!-- PANTALLA DE LOGIN DE ADMINISTRADOR -->
-        <section id="loginAdminSection" class="screen flex items-center justify-center">
-            <div class="card max-w-md text-center">
-                <h2 class="text-2xl font-bold text-gray-800 mb-6">Acceso de Administrador</h2>
-                <div class="flex flex-col space-y-4">
-                    <input type="password" id="adminKeyInput" placeholder="Clave de Administrador" class="p-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500">
-                    <button onclick="validarLoginAdmin()" class="btn-primary">
-                        <i class="fas fa-sign-in-alt mr-2"></i> Acceder
+        <!-- PANTALLA DE LOGIN ADMINISTRADOR -->
+        <section id="loginAdmin" class="screen">
+            <div class="container">
+                <div class="card">
+                    <button class="btn-back" onclick="volverInicio()">
+                        <i class="fas fa-arrow-left"></i>
                     </button>
-                    <button onclick="volverAlInicio()" class="text-sm text-gray-500 hover:text-gray-700 transition">
-                        <i class="fas fa-arrow-left mr-1"></i> Volver
-                    </button>
-                    <p id="adminMessage" class="text-red-500 font-medium"></p>
+                    <h2>Acceso Administrador</h2>
+                    <div class="form-group">
+                        <input type="password" id="inputClaveAdmin" placeholder="Ingrese la clave de administrador" class="input-field">
+                        <button class="btn-primary" onclick="validarAdmin()">
+                            <i class="fas fa-sign-in-alt"></i> Ingresar
+                        </button>
+                        <p id="mensajeErrorAdmin" class="mensaje-error"></p>
+                    </div>
                 </div>
             </div>
         </section>
-        
-        <!-- PANTALLA DE GESTIÓN DE ADMIN (GENERAR CLAVE) -->
-        <section id="adminSection" class="screen">
-             <div class="card max-w-2xl">
-                <h2 class="text-3xl font-bold text-gray-800 mb-8 flex items-center">
-                    <i class="fas fa-cogs mr-3 text-yellow-600"></i> Panel de Administración
-                </h2>
 
-                <!-- Tarjeta de Gestión de Clave -->
-                <div class="bg-yellow-50 border-l-4 border-yellow-500 p-6 rounded-lg mb-8">
-                    <h3 class="text-xl font-semibold text-yellow-800 mb-3">Clave de Acceso para Alumnos</h3>
-                    <p class="text-gray-700 mb-4">Esta es la clave actual. Vence el <span id="claveExpiraFecha" class="font-bold"></span>.</p>
-                    <div class="flex items-center space-x-3 bg-white p-3 rounded-lg border border-yellow-300">
-                        <span id="currentAlumnoKey" class="text-2xl font-mono tracking-wider text-yellow-900 flex-grow text-center md:text-left"></span>
-                        <button onclick="copiarClaveAlumnos()" class="btn-primary text-sm whitespace-nowrap bg-yellow-600 hover:bg-yellow-700">
-                             <i class="fas fa-copy mr-1"></i> Copiar
+        <!-- PANTALLA PANEL ADMINISTRADOR -->
+        <section id="panelAdmin" class="screen">
+            <div class="container">
+                <div class="card">
+                    <h2>Panel de Administración</h2>
+                    
+                    <div class="admin-section">
+                        <h3><i class="fas fa-key"></i> Clave de Acceso para Alumnos</h3>
+                        <div class="clave-display">
+                            <span id="claveActual" class="clave-texto"></span>
+                            <button class="btn-copy" onclick="copiarClave()">
+                                <i class="fas fa-copy"></i> Copiar
+                            </button>
+                        </div>
+                        <p class="expiracion-info">Válida hasta: <span id="fechaExpiracion"></span></p>
+                        <button class="btn-secondary" onclick="generarNuevaClave()">
+                            <i class="fas fa-sync-alt"></i> Generar Nueva Clave
+                        </button>
+                        <p id="mensajeCopiado" class="mensaje-exito"></p>
+                    </div>
+
+                    <button class="btn-primary" onclick="volverInicio()">
+                        <i class="fas fa-sign-out-alt"></i> Cerrar Sesión
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- PANTALLA DE LOGIN ALUMNO -->
+        <section id="loginAlumno" class="screen">
+            <div class="container">
+                <div class="card">
+                    <button class="btn-back" onclick="volverInicio()">
+                        <i class="fas fa-arrow-left"></i>
+                    </button>
+                    <h2>Acceso Alumno</h2>
+                    <div class="form-group">
+                        <input type="text" id="inputNombreAlumno" placeholder="Tu nombre o ID" class="input-field">
+                        <input type="password" id="inputClaveAlumno" placeholder="Clave de acceso" class="input-field">
+                        <button class="btn-primary" onclick="validarAlumno()">
+                            <i class="fas fa-sign-in-alt"></i> Ingresar
+                        </button>
+                        <p id="mensajeErrorAlumno" class="mensaje-error"></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- PANTALLA SELECCIÓN DE ESPECIALIDAD -->
+        <section id="seleccionEspecialidad" class="screen">
+            <div class="container">
+                <div class="card">
+                    <h2>Selecciona la Especialidad</h2>
+                    <p class="subtitle">Elige la especialidad médica para rendir el examen</p>
+                    
+                    <div class="form-group">
+                        <label for="selectEspecialidad">Especialidad:</label>
+                        <select id="selectEspecialidad" class="input-field">
+                            <option value="">-- Seleccionar --</option>
+                            <option value="anestesiologia">Anestesiología</option>
+                            <option value="cardiologia">Cardiología</option>
+                            <option value="dermatologia">Dermatología</option>
+                            <option value="diagnostico_imagenes">Diagnóstico por Imágenes</option>
+                            <option value="hematologia">Hematología</option>
+                            <option value="neumonologia">Neumonología</option>
+                            <option value="neurologia">Neurología</option>
+                            <option value="ortopedia">Ortopedia</option>
+                            <option value="otorrinolaringologia">Otorrinolaringología</option>
+                            <option value="pediatria">Pediatría</option>
+                            <option value="psiquiatria">Psiquiatría</option>
+                            <option value="tocoginecologia">Tocoginecología</option>
+                            <option value="urologia">Urología</option>
+                        </select>
+                        
+                        <div class="info-examen">
+                            <p><i class="fas fa-info-circle"></i> <strong>Información del examen:</strong></p>
+                            <ul>
+                                <li>100 preguntas de opción múltiple</li>
+                                <li>Solo una respuesta correcta por pregunta</li>
+                                <li>Tiempo: 4 horas</li>
+                                <li>Resultado al finalizar</li>
+                            </ul>
+                        </div>
+
+                        <button class="btn-secondary" onclick="iniciarExamen()">
+                            <i class="fas fa-play-circle"></i> Iniciar Examen
+                        </button>
+                        <button class="btn-primary" onclick="volverInicio()">
+                            <i class="fas fa-sign-out-alt"></i> Cerrar Sesión
                         </button>
                     </div>
-                    <button onclick="generarNuevaClave()" class="mt-4 btn-secondary text-sm">
-                        <i class="fas fa-key mr-1"></i> Generar Nueva Clave (Válida por 48hs)
-                    </button>
-                    <p id="copyMessage" class="text-sm text-green-600 mt-2"></p>
+                </div>
+            </div>
+        </section>
+
+        <!-- PANTALLA DEL EXAMEN -->
+        <section id="pantallaExamen" class="screen">
+            <div class="exam-container">
+                <!-- Barra superior -->
+                <div class="exam-header">
+                    <div class="exam-info">
+                        <span id="especialidadActual"></span>
+                    </div>
+                    <div class="exam-timer">
+                        <i class="fas fa-clock"></i> <span id="cronometro">04:00:00</span>
+                    </div>
+                    <div class="exam-progress">
+                        Pregunta <span id="numeroPregunta">1</span> de 100
+                    </div>
                 </div>
 
-                <!-- Tarjeta de Ranking -->
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-lg">
-                    <h3 class="text-xl font-semibold text-blue-800 mb-4 flex items-center">
-                        <i class="fas fa-trophy mr-2"></i> Ranking de Mejores Resultados
-                    </h3>
-                    <table class="min-w-full divide-y divide-blue-200">
-                        <thead>
-                            <tr class="text-left text-blue-600">
-                                <th class="py-2">#</th>
-                                <th class="py-2">Especialidad</th>
-                                <th class="py-2">Puntaje (%)</th>
-                                <th class="py-2">Usuario ID</th>
-                                <th class="py-2">Tiempo (min)</th>
-                            </tr>
-                        </thead>
-                        <tbody id="rankingTableBody" class="bg-white divide-y divide-blue-100">
-                            <!-- Filas del ranking se insertarán aquí -->
-                            <tr><td colspan="5" class="text-center py-4 text-gray-500">Cargando ranking...</td></tr>
-                        </tbody>
-                    </table>
-                    <button onclick="cargarRanking()" class="mt-4 btn-primary text-sm bg-blue-600 hover:bg-blue-700">
-                        <i class="fas fa-sync-alt mr-1"></i> Actualizar Ranking
+                <!-- Contenido de la pregunta -->
+                <div class="exam-content">
+                    <div class="question-section">
+                        <div class="question-number">Pregunta #<span id="numPreguntaActual">1</span></div>
+                        <div id="casoclinico" class="caso-clinico"></div>
+                        <div id="textoPregunta" class="question-text"></div>
+                        <div id="opcionesContainer" class="options-container"></div>
+                    </div>
+                </div>
+
+                <!-- Navegación -->
+                <div class="exam-footer">
+                    <button class="btn-nav" id="btnAnterior" onclick="preguntaAnterior()">
+                        <i class="fas fa-chevron-left"></i> Anterior
+                    </button>
+                    <button class="btn-primary" id="btnSiguiente" onclick="preguntaSiguiente()">
+                        Siguiente <i class="fas fa-chevron-right"></i>
+                    </button>
+                    <button class="btn-finish" id="btnFinalizar" onclick="confirmarFinalizacion()" style="display:none;">
+                        <i class="fas fa-flag-checkered"></i> Finalizar Examen
                     </button>
                 </div>
                 
-                <button onclick="volverAlInicio()" class="mt-8 text-gray-500 hover:text-gray-700 transition font-medium">
-                    <i class="fas fa-arrow-left mr-1"></i> Cerrar Sesión y Volver
-                </button>
-            </div>
-        </section>
-
-        <!-- PANTALLA DE LOGIN DE ALUMNO -->
-        <section id="loginAlumnoSection" class="screen flex items-center justify-center">
-             <div class="card max-w-md text-center">
-                <h2 class="text-2xl font-bold text-gray-800 mb-6">Acceso de Aspirante / Alumno</h2>
-                <div class="flex flex-col space-y-4">
-                    <input type="text" id="alumnoDniInput" placeholder="Tu Nombre o ID (visible en el ranking)" class="p-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500">
-                    <input type="password" id="alumnoKeyInput" placeholder="Clave de Acceso Temporal" class="p-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500">
-                    <button onclick="validarLoginAlumno()" class="btn-primary">
-                         <i class="fas fa-sign-in-alt mr-2"></i> Ingresar
+                <!-- Botones adicionales -->
+                <div class="exam-extra-buttons">
+                    <button class="btn-secondary" onclick="confirmarFinalizacion()">
+                        <i class="fas fa-check-double"></i> Finalizar Ahora
                     </button>
-                    <button onclick="volverAlInicio()" class="text-sm text-gray-500 hover:text-gray-700 transition">
-                        <i class="fas fa-arrow-left mr-1"></i> Volver
-                    </button>
-                    <p id="alumnoMessage" class="text-red-500 font-medium"></p>
-                </div>
-            </div>
-        </section>
-
-        <!-- PANTALLA DE SELECCIÓN DE EXAMEN -->
-        <section id="seleccionExamenSection" class="screen">
-            <div class="card max-w-4xl">
-                <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center">
-                    <i class="fas fa-book-medical mr-3 text-blue-600"></i> Selecciona tu Examen
-                </h2>
-                <p class="text-gray-600 mb-6">Elige la especialidad para comenzar tu examen de 100 preguntas. Tienes 4 horas para completarlo.</p>
-                <div class="mb-6">
-                    <label for="selectEspecialidad" class="block text-lg font-medium text-gray-700 mb-2">Especialidad:</label>
-                    <select id="selectEspecialidad" class="w-full p-3 border border-gray-300 rounded-lg bg-white focus:ring-blue-500 focus:border-blue-500">
-                        <!-- Opciones cargadas por JS -->
-                    </select>
-                </div>
-                
-                <div class="flex flex-col sm:flex-row gap-4">
-                    <button onclick="mostrarConfirmacionExamen()" class="flex-grow btn-secondary">
-                        <i class="fas fa-play-circle mr-2"></i> Iniciar Examen
-                    </button>
-                    <button onclick="mostrarRankingSection()" class="flex-grow btn-primary bg-gray-500 hover:bg-gray-700">
-                        <i class="fas fa-trophy mr-2"></i> Ver Ranking
-                    </button>
-                    <button onclick="volverAlInicio()" class="flex-grow text-gray-500 hover:text-gray-700 transition font-medium">
-                        <i class="fas fa-sign-out-alt mr-1"></i> Cerrar Sesión
+                    <button class="btn-nav" onclick="confirmarVolverInicio()">
+                        <i class="fas fa-home"></i> Volver al Inicio
                     </button>
                 </div>
             </div>
         </section>
 
-        <!-- PANTALLA DE EXAMEN ACTIVO -->
-        <section id="examenSection" class="screen">
-            <div class="card max-w-6xl p-6">
-                <!-- Encabezado del Examen -->
-                <div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-6 border-b pb-4">
-                    <div class="flex items-center">
-                        <i class="fas fa-hourglass-half text-4xl text-blue-600 mr-4"></i>
-                        <div>
-                             <h2 class="text-xl font-bold text-gray-800" id="examenEspecialidadTitle"></h2>
-                             <p class="text-sm text-gray-500">Pregunta <span id="currentQuestionNumber">1</span> de 100</p>
-                        </div>
+        <!-- PANTALLA DE RESULTADOS -->
+        <section id="pantallaResultados" class="screen">
+            <div class="container">
+                <div class="card results-card">
+                    <div class="icon-header success">
+                        <i class="fas fa-check-circle"></i>
                     </div>
-                    <div class="mt-4 md:mt-0 text-right">
-                         <div id="timer" class="text-2xl font-mono text-red-600 bg-red-100 py-1 px-4 rounded-lg shadow">Tiempo restante: 4h 0m 0s</div>
-                    </div>
-                </div>
-
-                <!-- Pregunta y Opciones -->
-                <div class="grid grid-cols-12 gap-6">
-                    <!-- Columna de Navegación (Paginación) -->
-                    <div class="col-span-12 lg:col-span-3">
-                        <div class="p-4 bg-gray-50 rounded-lg sticky top-4">
-                            <h3 class="font-semibold text-gray-700 mb-3">Navegación</h3>
-                            <div id="navContainer" class="grid grid-cols-10 gap-2">
-                                <!-- Botones de navegación de preguntas -->
-                            </div>
-                            <button onclick="mostrarModal('confirmarFinalizarModal')" class="mt-6 w-full btn-secondary">
-                                <i class="fas fa-flag-checkered mr-2"></i> Finalizar Examen
-                            </button>
+                    <h2>Examen Finalizado</h2>
+                    <p class="subtitle">Alumno: <span id="nombreAlumnoResultado"></span></p>
+                    
+                    <div class="score-display">
+                        <div class="score-circle">
+                            <div class="score-number" id="porcentajeResultado">0%</div>
+                            <div class="score-label">Aciertos</div>
                         </div>
                     </div>
 
-                    <!-- Columna de Contenido Principal -->
-                    <div class="col-span-12 lg:col-span-9 question-card">
-                         <div class="p-6 bg-white rounded-lg border border-gray-200 shadow-md">
-                            <p class="text-xl font-medium text-gray-800 mb-6" id="questionText">Cargando pregunta...</p>
-                            <div id="optionsContainer" class="space-y-3">
-                                <!-- Opciones de respuesta -->
-                            </div>
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <div class="stat-number" id="correctasResultado">0</div>
+                            <div class="stat-label">Correctas</div>
                         </div>
-
-                        <!-- Botones de Navegación -->
-                        <div class="mt-6 flex justify-between">
-                            <button onclick="navegarPregunta(-1)" id="prevButton" class="btn-primary bg-gray-400 hover:bg-gray-500 disabled:opacity-50" disabled>
-                                <i class="fas fa-chevron-left mr-2"></i> Anterior
-                            </button>
-                            <button onclick="navegarPregunta(1)" id="nextButton" class="btn-primary">
-                                Siguiente <i class="fas fa-chevron-right ml-2"></i>
-                            </button>
+                        <div class="stat-item">
+                            <div class="stat-number" id="incorrectasResultado">0</div>
+                            <div class="stat-label">Incorrectas</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number" id="totalResultado">100</div>
+                            <div class="stat-label">Total</div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </section>
 
-        <!-- PANTALLA DE RESULTADO -->
-        <section id="resultadoSection" class="screen flex items-center justify-center">
-            <div class="card max-w-2xl text-center">
-                <h2 class="text-3xl font-bold text-gray-800 mb-6 flex items-center justify-center" id="resultadoTitle">
-                    <i class="fas fa-clipboard-check mr-3 text-green-600"></i> Resultados del Examen
-                </h2>
-                <div class="bg-gray-50 p-6 rounded-xl mb-6 border border-gray-200">
-                     <p class="text-sm font-medium text-gray-500">Especialidad</p>
-                     <h3 class="text-2xl font-semibold text-gray-800 mb-4" id="resultadoEspecialidad"></h3>
-
-                    <!-- Métrica Principal -->
-                    <div class="text-6xl font-extrabold mb-4" id="resultadoPorcentaje">0%</div>
-                    <div class="text-xl font-medium" id="resultadoEstado"></div>
-                </div>
-
-
-                <!-- Tarjetas de Métrica Detallada -->
-                <div class="grid grid-cols-3 gap-4 mb-8">
-                    <div class="p-4 rounded-lg bg-green-100 text-green-800 border-b-4 border-green-500">
-                        <div class="text-3xl font-bold" id="resultadoCorrectas">0</div>
-                        <div class="text-sm font-medium">Correctas</div>
+                    <div class="detalle-respuestas">
+                        <h3><i class="fas fa-list"></i> Detalle de Respuestas</h3>
+                        <div id="listaRespuestas" class="lista-respuestas"></div>
                     </div>
-                    <div class="p-4 rounded-lg bg-red-100 text-red-800 border-b-4 border-red-500">
-                        <div class="text-3xl font-bold" id="resultadoIncorrectas">0</div>
-                        <div class="text-sm font-medium">Incorrectas</div>
-                    </div>
-                    <div class="p-4 rounded-lg bg-yellow-100 text-yellow-800 border-b-4 border-yellow-500">
-                        <div class="text-3xl font-bold" id="resultadoSinResponder">0</div>
-                        <div class="text-sm font-medium">Sin Responder</div>
-                    </div>
-                </div>
 
-                <p class="text-gray-600 mb-8">Tiempo total utilizado: <span id="resultadoTiempo" class="font-semibold"></span></p>
-
-                <div class="flex justify-center space-x-4">
-                    <button onclick="volverAlInicio()" class="btn-primary">
-                        <i class="fas fa-home mr-2"></i> Volver al Inicio
-                    </button>
-                    <button onclick="revisarRespuestas()" class="btn-secondary">
-                        <i class="fas fa-list-check mr-2"></i> Revisar Respuestas
+                    <button class="btn-primary" onclick="volverInicio()">
+                        <i class="fas fa-home"></i> Volver al Inicio
                     </button>
                 </div>
             </div>
         </section>
-        
-        <!-- PANTALLA DE REVISIÓN DE RESPUESTAS -->
-        <section id="revisionSection" class="screen">
-             <div class="card max-w-6xl">
-                 <h2 class="text-3xl font-bold text-gray-800 mb-6 flex items-center">
-                    <i class="fas fa-list-check mr-3 text-blue-600"></i> Revisión del Examen (<span id="revisionEspecialidadTitle"></span>)
-                </h2>
-                <div id="revisionContainer" class="space-y-8">
-                    <!-- Aquí se cargarán dinámicamente las preguntas para su revisión -->
-                </div>
-                <button onclick="volverAlInicio()" class="mt-8 btn-primary">
-                    <i class="fas fa-home mr-2"></i> Volver al Inicio
-                </button>
-            </div>
-        </section>
-
-        <!-- PANTALLA DE RANKING (PÚBLICO) -->
-        <section id="rankingSection" class="screen">
-            <div class="card max-w-4xl">
-                <h2 class="text-3xl font-bold text-gray-800 mb-6 flex items-center">
-                    <i class="fas fa-medal mr-3 text-yellow-600"></i> Ranking Global de Puntajes
-                </h2>
-                <p class="text-gray-600 mb-6">Mejores resultados obtenidos por los aspirantes.</p>
-                <div class="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-lg">
-                    <table class="min-w-full divide-y divide-blue-200">
-                        <thead>
-                            <tr class="text-left text-blue-600">
-                                <th class="py-2">#</th>
-                                <th class="py-2">Especialidad</th>
-                                <th class="py-2">Puntaje (%)</th>
-                                <th class="py-2">Usuario ID</th>
-                                <th class="py-2">Tiempo (min)</th>
-                            </tr>
-                        </thead>
-                        <tbody id="publicRankingTableBody" class="bg-white divide-y divide-blue-100">
-                            <!-- Filas del ranking se insertarán aquí -->
-                            <tr><td colspan="5" class="text-center py-4 text-gray-500">Cargando ranking...</td></tr>
-                        </tbody>
-                    </table>
-                </div>
-                <button onclick="cargarRanking('public')" class="mt-4 btn-primary text-sm bg-blue-600 hover:bg-blue-700">
-                    <i class="fas fa-sync-alt mr-1"></i> Actualizar Ranking
-                </button>
-                 <button onclick="mostrarPantalla('seleccionExamenSection')" class="mt-4 ml-4 text-gray-500 hover:text-gray-700 transition font-medium">
-                    <i class="fas fa-arrow-left mr-1"></i> Volver a Exámenes
-                </button>
-            </div>
-        </section>
-
-        <!-- FOOTER (Pie de Página) -->
-        <footer class="mt-auto">
-            <p class="mb-2">Cualquier consulta o duda, contacte con: <a href="mailto:deepwebcb@gmail.com" class="text-blue-400 hover:text-blue-200 font-semibold">deepwebcb@gmail.com</a></p>
-            <p class="mb-2">Visite nuestra página: <a href="https://deepweb.com.ar/" target="_blank" class="text-blue-400 hover:text-blue-200 font-semibold">https://deepweb.com.ar/</a></p>
-            <p>Colabore con nuestro trabajo: <a href="https://cafecito.app/celinabord9" target="_blank" class="text-red-400 hover:text-red-200 font-semibold"><i class="fas fa-mug-hot"></i> cafecito.app/celinabord9</a></p>
-        </footer>
-
-        <!-- MODAL DE CONFIRMACIÓN -->
-        <div id="confirmarExamenModal" class="fixed inset-0 bg-gray-900 bg-opacity-75 hidden items-center justify-center z-50">
-            <div class="bg-white p-8 rounded-xl shadow-2xl max-w-lg mx-auto text-center">
-                <div class="text-4xl text-red-500 mb-4"><i class="fas fa-exclamation-triangle"></i></div>
-                <h3 class="text-2xl font-bold mb-4">¡Advertencia! Examen Cronometrado</h3>
-                <p class="mb-6 text-gray-700">Estás a punto de iniciar el examen de <span id="modalEspecialidad" class="font-bold text-blue-600"></span>.</p>
-                <ul class="list-disc list-inside text-left text-gray-600 space-y-2 mb-6 bg-yellow-50 p-4 rounded-lg">
-                    <li>Tendrás **4 horas** para responder las 100 preguntas.</li>
-                    <li>El tiempo comenzará inmediatamente al presionar "Comenzar Ahora".</li>
-                    <li>Si cierras la ventana o se agota el tiempo, el examen se enviará automáticamente.</li>
-                </ul>
-                <div class="flex justify-center space-x-4">
-                    <button onclick="cerrarModal('confirmarExamenModal')" class="bg-gray-200 text-gray-700 py-2 px-6 rounded-lg hover:bg-gray-300 transition">Cancelar</button>
-                    <button onclick="iniciarExamen()" class="btn-primary bg-red-600 hover:bg-red-700">
-                        <i class="fas fa-check-circle mr-2"></i> Comenzar Ahora
-                    </button>
-                </div>
-            </div>
-        </div>
-        
-        <!-- MODAL DE CONFIRMACIÓN FINALIZAR -->
-        <div id="confirmarFinalizarModal" class="fixed inset-0 bg-gray-900 bg-opacity-75 hidden items-center justify-center z-50">
-            <div class="bg-white p-8 rounded-xl shadow-2xl max-w-sm mx-auto text-center">
-                <div class="text-4xl text-blue-500 mb-4"><i class="fas fa-question-circle"></i></div>
-                <h3 class="text-2xl font-bold mb-4">¿Finalizar Examen?</h3>
-                <p class="mb-6 text-gray-700">¿Estás seguro de que quieres finalizar el examen ahora? El tiempo restante no se guardará.</p>
-                <div class="flex justify-center space-x-4">
-                    <button onclick="cerrarModal('confirmarFinalizarModal')" class="bg-gray-200 text-gray-700 py-2 px-6 rounded-lg hover:bg-gray-300 transition">Cancelar</button>
-                    <button onclick="finalizarExamen()" class="btn-primary bg-blue-600 hover:bg-blue-700">
-                        <i class="fas fa-flag-checkered mr-2"></i> Sí, Finalizar
-                    </button>
-                </div>
-            </div>
-        </div>
 
     </div>
 
-    <!-- MÓDULOS DE FIREBASE Y LÓGICA DE LA APP -->
-    <script type="module">
-        // Importaciones de Firebase
-        import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
-        import { getAuth, signInAnonymously, signInWithCustomToken, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
-        import { getFirestore, doc, setDoc, collection, query, where, getDocs, onSnapshot, orderBy, limit, serverTimestamp, setLogLevel, getDoc } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-links">
+                <a href="http://deepweb.com.ar/" target="_blank">
+                    <i class="fas fa-globe"></i> deepweb.com.ar
+                </a>
+                <a href="https://cafecito.app/celinabord9" target="_blank">
+                    <i class="fas fa-coffee"></i> Invitame un café
+                </a>
+                <a href="mailto:deepwebcb@gmail.com">
+                    <i class="fas fa-envelope"></i> deepwebcb@gmail.com
+                </a>
+            </div>
+            <p class="copyright">© 2025 DeepWeb - Sistema de Evaluación Médica y de Enfermería</p>
+        </div>
+    </footer>
 
-        // Configuración de Firebase y Variables Globales (Disponibles en el entorno de Canvas)
-        const appId = typeof __app_id !== 'undefined' ? __app_id : 'default-app-id';
-        const firebaseConfig = typeof __firebase_config !== 'undefined' ? JSON.parse(__firebase_config) : null;
-        const initialAuthToken = typeof __initial_auth_token !== 'undefined' ? __initial_auth_token : null;
-        
-        const ADMIN_KEY = "Teamopi91";
-        const TIEMPO_MAXIMO_SEGUNDOS = 4 * 60 * 60; // 4 horas
-
-        // Variables globales para el estado de la aplicación
-        let app;
-        let db;
-        let auth;
-        let userId = null;
-        let userName = null;
-        let isAuthReady = false;
-
-        let examState = {
-            especialidad: null,
-            preguntas: [],
-            respuestas: Array(100).fill(null), // Array para guardar las respuestas del usuario
-            preguntaActual: 0,
-            tiempoRestante: TIEMPO_MAXIMO_SEGUNDOS,
-            tiempoInicio: null,
-            timer: null,
-            modoRevision: false, // Nuevo estado para la revisión de resultados
-        };
-        
-        let claveAlumnos = localStorage.getItem("claveAlumnos") || generarClave();
-        let claveExpira = localStorage.getItem("claveExpira") || (Date.now() + 48 * 60 * 60 * 1000);
-
-        // Definición de las especialidades (solo con nombres y IDs)
-        const ESPECIALIDADES = [
-            { id: 'anestesiologia', nombre: 'Anestesiología' },
-            { id: 'cardiologia', nombre: 'Cardiología' },
-            { id: 'dermatologia', nombre: 'Dermatología' },
-            { id: 'diagnostico_imagenes', nombre: 'Diagnóstico por Imágenes' },
-            { id: 'hematologia', nombre: 'Hematología' },
-            { id: 'neumonologia', nombre: 'Neumonología' },
-            { id: 'neurologia', nombre: 'Neurología' },
-            { id: 'oncologia', nombre: 'Oncología' },
-            { id: 'ortopedia', nombre: 'Ortopedia' },
-            { id: 'otorrinolaringologia', nombre: 'Otorrinolaringología' },
-            { id: 'pediatria', nombre: 'Pediatría' },
-            { id: 'psiquiatria', nombre: 'Psiquiatría' },
-            { id: 'tocoginecologia', nombre: 'Tocoginecología' },
-            { id: 'urologia', nombre: 'Urología' },
-        ];
-
-
-        // --- FUNCIONES DE UTILIDAD ---
-
-        /**
-         * Muestra una sección de la aplicación y oculta las demás.
-         * @param {string} id - El ID de la sección a mostrar.
-         */
-        function mostrarPantalla(id) {
-            document.querySelectorAll('.screen').forEach(section => {
-                section.classList.remove('active');
-                section.style.display = 'none'; // Ocultar para accesibilidad
-            });
-            const activeScreen = document.getElementById(id);
-            if (activeScreen) {
-                activeScreen.classList.add('active');
-                activeScreen.style.display = 'flex'; // Mostrar como flex para centrado
-                window.scrollTo(0, 0); // Ir al inicio de la página
-            }
-        }
-
-        /**
-         * Muestra un modal específico.
-         * @param {string} id - El ID del modal a mostrar.
-         */
-        window.mostrarModal = (id) => {
-            const modal = document.getElementById(id);
-            if (modal) {
-                modal.style.display = 'flex';
-            }
-        }
-
-        /**
-         * Oculta un modal específico.
-         * @param {string} id - El ID del modal a ocultar.
-         */
-        window.cerrarModal = (id) => {
-            const modal = document.getElementById(id);
-            if (modal) {
-                modal.style.display = 'none';
-            }
-        }
-        
-        /**
-         * Genera una clave alfanumérica de 8 caracteres.
-         * @returns {string} La clave generada.
-         */
-        function generarClave() {
-            const now = Date.now();
-            // Genera un hash simple basado en el tiempo y un número aleatorio
-            const clave = (Math.random().toString(36).substring(2, 6) + now.toString(36).substring(0, 4)).toUpperCase();
-            // Guarda la nueva clave y una expiración de 48 horas (en ms)
-            localStorage.setItem("claveAlumnos", clave);
-            localStorage.setItem("claveExpira", now + 48 * 60 * 60 * 1000);
-            claveAlumnos = clave;
-            claveExpira = now + 48 * 60 * 60 * 1000;
-            return clave;
-        }
-
-        /**
-         * Formatea el tiempo en segundos a un string Hh Mm Ss.
-         * @param {number} segundos - Tiempo en segundos.
-         * @returns {string} Tiempo formateado.
-         */
-        function formatTiempo(segundos) {
-            const h = Math.floor(segundos / 3600);
-            const m = Math.floor((segundos % 3600) / 60);
-            const s = segundos % 60;
-            return `${h}h ${m}m ${s}s`;
-        }
-
-        /**
-         * Carga las preguntas desde el archivo JSON correspondiente a la especialidad.
-         * @param {string} especialidadId - El ID de la especialidad.
-         * @returns {Promise<Array<object>>} Array de preguntas cargadas desde el JSON.
-         */
-        async function cargarPreguntas(especialidadId) {
-            try {
-                const response = await fetch(`data_final/${especialidadId}.json`);
-                if (!response.ok) {
-                    throw new Error(`Error loading questions for ${especialidadId}: ${response.statusText}`);
-                }
-                const data = await response.json();
-                // Mapear los datos del JSON al formato esperado
-                return data.map((item, index) => ({
-                    id: index + 1,
-                    texto: item.pregunta,
-                    opciones: {
-                        A: item['opcion a'],
-                        B: item['opcion b'],
-                        C: item['opcion c'],
-                        D: item['opcion d']
-                    },
-                    correcta: item.respuesta_correcta,
-                    explicacion: item.explicacion
-                }));
-            } catch (error) {
-                console.error('Error loading questions:', error);
-                // Fallback: devolver array vacío o simular preguntas si es necesario
-                return [];
-            }
-        }
-
-
-        // --- FIREBASE / AUTENTICACIÓN / DATOS ---
-
-        /**
-         * Inicializa Firebase y autentica al usuario.
-         */
-        async function iniciarAutenticacion() {
-            if (!firebaseConfig) {
-                 console.error("Configuración de Firebase no disponible.");
-                 isAuthReady = true; // Permite que la app continue aunque la persistencia no funcione
-                 return;
-            }
-            
-            // Usamos setLogLevel para depuración en caso de problemas de Firestore
-            setLogLevel('debug'); 
-            
-            try {
-                if (initialAuthToken) {
-                    // Intenta iniciar sesión con el token personalizado si está disponible
-                    await signInWithCustomToken(auth, initialAuthToken);
-                } else {
-                    // Si no hay token, inicia sesión anónimamente
-                    await signInAnonymously(auth);
-                }
-            } catch (error) {
-                console.error("Error al autenticar con Firebase:", error);
-                // Si falla la autenticación, intentamos al menos anónima (si no falló ya)
-                if (!auth.currentUser) {
-                     await signInAnonymously(auth);
-                }
-            }
-
-            // Listener para el estado de autenticación
-            onAuthStateChanged(auth, (user) => {
-                if (user) {
-                    userId = user.uid;
-                    // Intenta cargar el nombre de usuario guardado
-                    cargarNombreUsuario(userId); 
-                } else {
-                    userId = null;
-                    userName = null;
-                }
-                isAuthReady = true;
-                console.log("Autenticación lista. User ID:", userId);
-                // Si ya estamos en una sección que necesita datos (como adminSection), la recargamos
-                if (document.getElementById('adminSection').classList.contains('active')) {
-                    actualizarAdminUI();
-                    cargarRanking('admin');
-                }
-            });
-        }
-        
-        /**
-         * Carga el nombre de usuario (DNI/Alias) si fue guardado previamente.
-         * @param {string} uid - ID del usuario de Firebase.
-         */
-        async function cargarNombreUsuario(uid) {
-             if (!db) return;
-             try {
-                // Ruta: /artifacts/{appId}/users/{userId}/config/profile
-                const userDocRef = doc(db, 'artifacts', appId, 'users', uid, 'config', 'profile');
-                const userDoc = await getDoc(userDocRef);
-                if (userDoc.exists()) {
-                    userName = userDoc.data().name || 'Alumno Anónimo';
-                }
-             } catch (error) {
-                 console.error("Error al cargar nombre de usuario:", error);
-                 userName = 'Alumno Anónimo';
-             }
-        }
-        
-        /**
-         * Guarda el nombre de usuario (DNI/Alias) en la configuración privada.
-         * @param {string} uid - ID del usuario de Firebase.
-         * @param {string} name - Nombre/Alias del usuario.
-         */
-        async function guardarNombreUsuario(uid, name) {
-            if (!db) return;
-            try {
-                // Ruta: /artifacts/{appId}/users/{userId}/config/profile
-                const userDocRef = doc(db, 'artifacts', appId, 'users', uid, 'config', 'profile');
-                await setDoc(userDocRef, { name: name, lastLogin: serverTimestamp() }, { merge: true });
-                userName = name;
-                console.log("Nombre de usuario guardado exitosamente:", name);
-            } catch (error) {
-                console.error("Error al guardar nombre de usuario:", error);
-            }
-        }
-        
-        /**
-         * Guarda el resultado del examen en la colección privada del usuario.
-         * @param {object} resultado - El objeto resultado del examen.
-         */
-        async function guardarResultado(resultado) {
-            if (!db || !userId) {
-                console.error("Firestore no está listo o el usuario no está autenticado.");
-                return;
-            }
-            try {
-                const resultsCollectionRef = collection(db, 'artifacts', appId, 'users', userId, 'results');
-                // Usamos el ID de especialidad como ID del documento (o podríamos usar un addDoc para generar uno nuevo)
-                await setDoc(doc(resultsCollectionRef, resultado.especialidadId + '_' + Date.now()), {
-                    ...resultado,
-                    timestamp: serverTimestamp(),
-                    userName: userName, // Guardamos el nombre actual
-                }, { merge: true });
-                console.log("Resultado del examen guardado en colección privada.");
-            } catch (error) {
-                console.error("Error al guardar resultado privado:", error);
-            }
-        }
-        
-        /**
-         * Guarda el resultado del examen en la colección pública (para el ranking).
-         * @param {object} resultado - El objeto resultado del examen.
-         */
-        async function guardarResultadoPublico(resultado) {
-            if (!db || !userId) {
-                console.error("Firestore no está listo o el usuario no está autenticado.");
-                return;
-            }
-            try {
-                const rankingCollectionRef = collection(db, 'artifacts', appId, 'public', 'data', 'ranking');
-                // Creamos un hash único para el documento público
-                const docId = `${resultado.especialidadId}_${userId}_${Date.now()}`;
-                
-                await setDoc(doc(rankingCollectionRef, docId), {
-                    especialidad: resultado.especialidad,
-                    especialidadId: resultado.especialidadId,
-                    userId: userId,
-                    userName: userName,
-                    porcentaje: resultado.porcentaje,
-                    tiempoUsado: resultado.tiempoUsado,
-                    timestamp: serverTimestamp(),
-                    correctas: resultado.correctas,
-                }, { merge: true });
-                console.log("Resultado del examen guardado en ranking público.");
-            } catch (error) {
-                console.error("Error al guardar resultado en ranking público:", error);
-            }
-        }
-        
-        /**
-         * Carga y muestra el ranking (admin o público).
-         * @param {'admin' | 'public'} type - Tipo de ranking a cargar.
-         */
-        window.cargarRanking = async (type = 'admin') => {
-            if (!db) {
-                document.getElementById('rankingTableBody').innerHTML = '<tr><td colspan="5" class="text-center py-4 text-red-500">Firebase no está configurado.</td></tr>';
-                document.getElementById('publicRankingTableBody').innerHTML = '<tr><td colspan="5" class="text-center py-4 text-red-500">Firebase no está configurado.</td></tr>';
-                return;
-            }
-            
-            if (!isAuthReady) {
-                 console.log("Autenticación no lista, esperando...");
-                 return;
-            }
-
-            const isPublic = (type === 'public');
-            const targetTableBody = isPublic ? document.getElementById('publicRankingTableBody') : document.getElementById('rankingTableBody');
-
-            // Limpiar y mostrar carga
-            targetTableBody.innerHTML = '<tr><td colspan="5" class="text-center py-4 text-gray-500"><i class="fas fa-spinner fa-spin mr-2"></i> Cargando datos...</td></tr>';
-            
-            try {
-                // Query para la colección pública de ranking
-                const rankingRef = collection(db, 'artifacts', appId, 'public', 'data', 'ranking');
-                
-                // Cargar los 10 mejores resultados por porcentaje
-                const q = query(
-                    rankingRef,
-                    orderBy('porcentaje', 'desc'),
-                    orderBy('tiempoUsado', 'asc'), // Desempate por menor tiempo
-                    limit(10)
-                );
-                
-                const querySnapshot = await getDocs(q);
-                
-                let html = '';
-                let rank = 1;
-                querySnapshot.forEach(doc => {
-                    const data = doc.data();
-                    const tiempoMinutos = Math.round(data.tiempoUsado / 60);
-                    
-                    html += `
-                        <tr class="${rank % 2 === 0 ? 'bg-blue-50' : 'bg-white'} hover:bg-blue-100 transition">
-                            <td class="py-3 px-2 font-bold">${rank}</td>
-                            <td class="py-3 px-2 text-sm">${data.especialidad}</td>
-                            <td class="py-3 px-2 text-lg font-extrabold text-green-600">${data.porcentaje}%</td>
-                            <td class="py-3 px-2 text-xs text-gray-500">${data.userName}</td>
-                            <td class="py-3 px-2 text-sm">${tiempoMinutos} min</td>
-                        </tr>
-                    `;
-                    rank++;
-                });
-
-                if (html === '') {
-                    html = '<tr><td colspan="5" class="text-center py-4 text-gray-500">Aún no hay resultados en el ranking.</td></tr>';
-                }
-                
-                targetTableBody.innerHTML = html;
-
-            } catch (error) {
-                console.error("Error al cargar el ranking:", error);
-                targetTableBody.innerHTML = '<tr><td colspan="5" class="text-center py-4 text-red-500">Error al cargar el ranking: ' + error.message + '</td></tr>';
-            }
-        }
-
-
-        // --- FUNCIONES DE NAVEGACIÓN Y VISTAS ---
-
-        /**
-         * Vuelve a la pantalla inicial de selección de rol.
-         */
-        window.volverAlInicio = () => {
-            // Cierra la sesión de Firebase para forzar re-login
-            if (auth.currentUser) {
-                signOut(auth).catch(e => console.error("Error al cerrar sesión:", e));
-            }
-            // Limpia los mensajes y campos
-            document.getElementById('adminKeyInput').value = '';
-            document.getElementById('alumnoKeyInput').value = '';
-            document.getElementById('adminMessage').textContent = '';
-            document.getElementById('alumnoMessage').textContent = '';
-            mostrarPantalla('seleccionSection');
-        }
-
-        window.mostrarLoginAdmin = () => {
-            mostrarPantalla('loginAdminSection');
-        }
-
-        window.mostrarLoginAlumno = () => {
-            mostrarPantalla('loginAlumnoSection');
-        }
-        
-        window.mostrarRankingSection = () => {
-            cargarRanking('public'); // Carga el ranking público
-            mostrarPantalla('rankingSection');
-        }
-        
-        /**
-         * Actualiza la interfaz de Admin con la clave actual.
-         */
-        function actualizarAdminUI() {
-            // Asegura que la clave no haya expirado al iniciar
-            if (Date.now() > claveExpira) {
-                generarClave();
-            }
-            
-            document.getElementById('currentAlumnoKey').textContent = claveAlumnos;
-            const expirationDate = new Date(parseInt(claveExpira)).toLocaleString('es-AR', {
-                year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit'
-            });
-            document.getElementById('claveExpiraFecha').textContent = expirationDate;
-            
-            cargarRanking('admin');
-        }
-
-        window.generarNuevaClave = () => {
-            generarClave();
-            actualizarAdminUI();
-            document.getElementById('copyMessage').textContent = '¡Nueva clave generada y guardada!';
-            setTimeout(() => document.getElementById('copyMessage').textContent = '', 3000);
-        }
-        
-        window.copiarClaveAlumnos = () => {
-            navigator.clipboard.writeText(claveAlumnos).then(() => {
-                document.getElementById('copyMessage').textContent = '¡Clave copiada al portapapeles!';
-                setTimeout(() => document.getElementById('copyMessage').textContent = '', 3000);
-            }).catch(err => {
-                 document.getElementById('copyMessage').textContent = 'Error al copiar (usa CTRL+C): ' + claveAlumnos;
-            });
-        }
-
-        window.validarLoginAdmin = async () => {
-            const key = document.getElementById('adminKeyInput').value.trim();
-            const message = document.getElementById('adminMessage');
-            message.textContent = '';
-
-            if (key === ADMIN_KEY) {
-                // Admin login exitoso
-                mostrarPantalla('adminSection');
-                actualizarAdminUI(); // Muestra la clave actual
-            } else {
-                message.textContent = 'Clave incorrecta. Inténtalo de nuevo.';
-            }
-        }
-
-        window.validarLoginAlumno = async () => {
-            const nameInput = document.getElementById('alumnoDniInput').value.trim();
-            const keyInput = document.getElementById('alumnoKeyInput').value.trim();
-            const message = document.getElementById('alumnoMessage');
-            message.textContent = '';
-            
-            if (!nameInput) {
-                message.textContent = 'Por favor, ingresa tu nombre o ID.';
-                return;
-            }
-
-            // Comprueba si la clave expiró (o si simplemente la clave es incorrecta)
-            if (keyInput === claveAlumnos && Date.now() < claveExpira) {
-                // Alumno login exitoso
-                await guardarNombreUsuario(userId, nameInput); // Guarda el nombre/alias
-                mostrarPantalla('seleccionExamenSection');
-                cargarListaEspecialidades();
-            } else {
-                if (Date.now() >= claveExpira) {
-                    message.textContent = 'La clave ha expirado. Contacta al administrador.';
-                } else {
-                    message.textContent = 'Clave de acceso incorrecta o inválida.';
-                }
-            }
-        }
-
-        window.cargarListaEspecialidades = () => {
-            const select = document.getElementById('selectEspecialidad');
-            select.innerHTML = '<option value="" disabled selected>-- Seleccione una Especialidad --</option>';
-            ESPECIALIDADES.forEach(esp => {
-                const option = document.createElement('option');
-                option.value = esp.id;
-                option.textContent = esp.nombre;
-                select.appendChild(option);
-            });
-        }
-        
-        window.mostrarConfirmacionExamen = () => {
-            const select = document.getElementById('selectEspecialidad');
-            const especialidadId = select.value;
-            if (!especialidadId) {
-                alert("Por favor, selecciona una especialidad primero.");
-                return;
-            }
-            const especialidadNombre = ESPECIALIDADES.find(e => e.id === especialidadId).nombre;
-            document.getElementById('modalEspecialidad').textContent = especialidadNombre;
-            mostrarModal('confirmarExamenModal');
-        }
-
-
-        // --- FUNCIONES DEL EXAMEN ---
-
-        window.iniciarExamen = async () => {
-            cerrarModal('confirmarExamenModal');
-            
-            const especialidadId = document.getElementById('selectEspecialidad').value;
-            const especialidadNombre = ESPECIALIDADES.find(e => e.id === especialidadId).nombre;
-            
-            // Reiniciar estado
-            examState.especialidad = especialidadNombre;
-            examState.preguntas = [];
-            examState.respuestas = Array(100).fill(null);
-            examState.preguntaActual = 0;
-            examState.tiempoRestante = TIEMPO_MAXIMO_SEGUNDOS;
-            examState.tiempoInicio = Date.now();
-            examState.modoRevision = false;
-            
-            // Mostrar pantalla de examen y cargar preguntas
-            mostrarPantalla('examenSection');
-            document.getElementById('examenEspecialidadTitle').textContent = especialidadNombre;
-            
-            document.getElementById('questionText').textContent = 'Cargando preguntas...';
-            document.getElementById('optionsContainer').innerHTML = '<p class="text-center text-gray-500"><i class="fas fa-spinner fa-spin mr-2"></i> Un momento, generando el examen...</p>';
-            
-            examState.preguntas = await cargarPreguntas(especialidadId);
-            
-            iniciarTimer();
-            renderPregunta(examState.preguntaActual);
-            renderNavegacion();
-            
-            // Asegura que los botones de navegación iniciales estén correctos
-            document.getElementById('prevButton').disabled = true;
-            document.getElementById('nextButton').disabled = false;
-        }
-
-        function renderPregunta(index) {
-            if (index < 0 || index >= examState.preguntas.length) return;
-
-            examState.preguntaActual = index;
-            const pregunta = examState.preguntas[index];
-            const respuestaSeleccionada = examState.respuestas[index];
-            
-            document.getElementById('currentQuestionNumber').textContent = index + 1;
-            document.getElementById('questionText').textContent = pregunta.texto;
-            
-            const optionsContainer = document.getElementById('optionsContainer');
-            optionsContainer.innerHTML = '';
-
-            // Renderiza las opciones
-            ['A', 'B', 'C', 'D'].forEach(key => {
-                const isSelected = respuestaSeleccionada === key;
-                const optionDiv = document.createElement('div');
-                optionDiv.classList.add('option-item', 'p-4', 'border', 'border-gray-300', 'rounded-lg');
-                
-                if (examState.modoRevision) {
-                    // Modo Revisión: Muestra la correcta y la incorrecta elegida
-                    if (key === pregunta.correcta) {
-                        optionDiv.classList.add('correct');
-                        optionDiv.innerHTML = `<i class="fas fa-check-circle mr-2"></i> <strong>${key}.</strong> ${pregunta.opciones[key]}`;
-                    } else if (isSelected) {
-                        optionDiv.classList.add('incorrect', 'selected');
-                        optionDiv.innerHTML = `<i class="fas fa-times-circle mr-2"></i> <strong>${key}.</strong> ${pregunta.opciones[key]} (Tu respuesta)`;
-                    } else {
-                        optionDiv.innerHTML = `<strong>${key}.</strong> ${pregunta.opciones[key]}`;
-                    }
-                } else {
-                    // Modo Examen Normal
-                    if (isSelected) {
-                        optionDiv.classList.add('selected');
-                    }
-                    optionDiv.innerHTML = `<strong>${key}.</strong> ${pregunta.opciones[key]}`;
-                    optionDiv.onclick = () => seleccionarRespuesta(key);
-                }
-                
-                optionsContainer.appendChild(optionDiv);
-            });
-            
-            // Actualiza el estado de los botones de navegación
-            document.getElementById('prevButton').disabled = index === 0;
-            document.getElementById('nextButton').disabled = index === examState.preguntas.length - 1;
-            
-            // Si estamos en modo examen, la navegación actualiza el estado de respuesta en la barra lateral
-            if (!examState.modoRevision) {
-                renderNavegacion(); 
-            }
-        }
-        
-        function renderNavegacion() {
-            const navContainer = document.getElementById('navContainer');
-            navContainer.innerHTML = '';
-            
-            examState.preguntas.forEach((_, index) => {
-                const navButton = document.createElement('button');
-                navButton.textContent = index + 1;
-                navButton.classList.add('nav-button', 'text-sm');
-                navButton.onclick = () => navegarPregunta(0, index);
-
-                if (examState.respuestas[index] !== null) {
-                    navButton.classList.add('answered');
-                }
-                if (index === examState.preguntaActual) {
-                    navButton.classList.add('current');
-                }
-                navContainer.appendChild(navButton);
-            });
-        }
-
-
-        window.seleccionarRespuesta = (key) => {
-            const index = examState.preguntaActual;
-            // Guardar la respuesta seleccionada
-            examState.respuestas[index] = key; 
-            
-            // Forzar el re-renderizado de la pregunta actual para actualizar la clase CSS
-            renderPregunta(index); 
-            
-            // Actualizar el botón de navegación como 'answered'
-            renderNavegacion();
-        }
-
-        /**
-         * Navega a la pregunta siguiente, anterior o a una específica.
-         * @param {number} delta - 1 para siguiente, -1 para anterior. Ignorado si se usa questionIndex.
-         * @param {number | null} questionIndex - Índice directo de la pregunta a ir.
-         */
-        window.navegarPregunta = (delta, questionIndex = null) => {
-            let newIndex;
-            if (questionIndex !== null) {
-                newIndex = questionIndex;
-            } else {
-                newIndex = examState.preguntaActual + delta;
-            }
-
-            if (newIndex >= 0 && newIndex < examState.preguntas.length) {
-                renderPregunta(newIndex);
-            }
-        }
-
-        function iniciarTimer() {
-            // Detiene cualquier timer existente
-            if (examState.timer) clearInterval(examState.timer);
-            
-            // Ejecuta inmediatamente y luego cada segundo
-            actualizarTimer();
-            examState.timer = setInterval(() => {
-                examState.tiempoRestante--;
-                actualizarTimer();
-                if (examState.tiempoRestante <= 0) {
-                    clearInterval(examState.timer);
-                    finalizarExamen(); // Finaliza automáticamente
-                }
-            }, 1000);
-        }
-        
-        function actualizarTimer() {
-            document.getElementById("timer").textContent = `Tiempo restante: ${formatTiempo(examState.tiempoRestante)}`;
-        }
-
-
-        window.finalizarExamen = async () => {
-            // Asegura que el timer se detenga
-            if (examState.timer) clearInterval(examState.timer);
-            cerrarModal('confirmarFinalizarModal');
-            
-            // 1. Calcular Resultados
-            const preguntas = examState.preguntas;
-            const respuestas = examState.respuestas;
-            
-            let correctas = 0;
-            let incorrectas = 0;
-            let sinResponder = 0;
-
-            for (let i = 0; i < 100; i++) {
-                const respuesta = respuestas[i];
-                if (respuesta === null) {
-                    sinResponder++;
-                } else if (respuesta === preguntas[i].correcta) {
-                    correctas++;
-                } else {
-                    incorrectas++;
-                }
-            }
-
-            const porcentaje = Math.round((correctas / 100) * 100);
-            const aprobado = porcentaje >= 70;
-            const tiempoUsadoSegundos = TIEMPO_MAXIMO_SEGUNDOS - examState.tiempoRestante;
-            const tiempoUsadoMinutos = Math.ceil(tiempoUsadoSegundos / 60);
-
-            const resultado = {
-                especialidad: examState.especialidad,
-                especialidadId: document.getElementById('selectEspecialidad').value,
-                correctas,
-                incorrectas,
-                sinResponder,
-                porcentaje,
-                aprobado,
-                tiempoUsado: tiempoUsadoSegundos,
-                respuestasUsuario: respuestas,
-            };
-            
-            // 2. Guardar Resultados (Asíncrono)
-            await guardarResultado(resultado);
-            await guardarResultadoPublico(resultado);
-
-            // 3. Mostrar Resultados
-            document.getElementById('resultadoEspecialidad').textContent = resultado.especialidad;
-            document.getElementById('resultadoPorcentaje').textContent = `${porcentaje}%`;
-            document.getElementById('resultadoCorrectas').textContent = correctas;
-            document.getElementById('resultadoIncorrectas').textContent = incorrectas;
-            document.getElementById('resultadoSinResponder').textContent = sinResponder;
-            document.getElementById('resultadoTiempo').textContent = `${tiempoUsadoMinutos} minutos (${formatTiempo(tiempoUsadoSegundos)})`;
-            
-            const estadoElement = document.getElementById('resultadoEstado');
-            if (aprobado) {
-                 estadoElement.textContent = '¡Felicidades, Aprobado!';
-                 estadoElement.classList.remove('text-red-600');
-                 estadoElement.classList.add('text-green-600');
-            } else {
-                 estadoElement.textContent = 'No Aprobado. ¡Sigue estudiando!';
-                 estadoElement.classList.remove('text-green-600');
-                 estadoElement.classList.add('text-red-600');
-            }
-
-            mostrarPantalla('resultadoSection');
-        }
-        
-        window.revisarRespuestas = () => {
-             examState.modoRevision = true;
-             
-             document.getElementById('revisionEspecialidadTitle').textContent = examState.especialidad;
-             const revisionContainer = document.getElementById('revisionContainer');
-             revisionContainer.innerHTML = ''; // Limpiar
-             
-             examState.preguntas.forEach((pregunta, index) => {
-                 const respuestaUsuario = examState.respuestas[index];
-                 const esCorrecta = respuestaUsuario === pregunta.correcta;
-                 
-                 const statusClass = esCorrecta ? 'bg-green-50 border-green-500' : 'bg-red-50 border-red-500';
-                 const statusIcon = esCorrecta ? 'fa-check' : 'fa-times';
-                 const statusText = esCorrecta ? 'Respuesta Correcta' : 'Respuesta Incorrecta';
-                 
-                 const preguntaDiv = document.createElement('div');
-                 preguntaDiv.classList.add('p-6', 'rounded-xl', 'border-l-4', statusClass, 'shadow-md');
-                 
-                 let opcionesHtml = ['A', 'B', 'C', 'D'].map(key => {
-                     const isCorrecta = key === pregunta.correcta;
-                     const isSeleccionada = key === respuestaUsuario;
-                     
-                     let optionClass = 'p-3 rounded-lg mt-2 text-sm';
-                     let icon = '';
-                     
-                     if (isCorrecta) {
-                         optionClass += ' bg-green-200 font-bold text-green-900';
-                         icon = '<i class="fas fa-check-circle mr-2"></i>';
-                     } else if (isSeleccionada) {
-                         optionClass += ' bg-red-200 font-bold text-red-900';
-                         icon = '<i class="fas fa-times-circle mr-2"></i>';
-                     } else {
-                         optionClass += ' bg-white border border-gray-200 text-gray-700';
-                     }
-                     
-                     return `<div class="${optionClass}">${icon} <strong>${key}.</strong> ${pregunta.opciones[key]}</div>`;
-                 }).join('');
-                 
-                 preguntaDiv.innerHTML = `
-                     <div class="flex justify-between items-center mb-4">
-                         <h4 class="text-lg font-semibold text-gray-800">Pregunta ${index + 1}</h4>
-                         <span class="text-sm font-bold flex items-center ${esCorrecta ? 'text-green-600' : 'text-red-600'}">
-                            <i class="fas ${statusIcon} mr-1"></i> ${statusText}
-                         </span>
-                     </div>
-                     <p class="mb-4 text-gray-700">${pregunta.texto}</p>
-                     ${opcionesHtml}
-                     <div class="mt-4 p-4 bg-gray-100 rounded-lg">
-                        <p class="font-semibold text-gray-800">Explicación:</p>
-                        <p class="text-gray-600">${pregunta.explicacion}</p>
-                    </div>
-                 `;
-                 
-                 revisionContainer.appendChild(preguntaDiv);
-             });
-             
-             mostrarPantalla('revisionSection');
-        }
-
-
-        // --- INICIO DE LA APLICACIÓN ---
-        document.addEventListener('DOMContentLoaded', () => {
-            // Cierra el modal de confirmación en caso de que se haya quedado abierto
-            cerrarModal('confirmarExamenModal');
-            cerrarModal('confirmarFinalizarModal'); 
-            
-            // Es importante iniciar la autenticación al cargar la aplicación
-            if (firebaseConfig) {
-                iniciarAutenticacion();
-            } else {
-                console.warn("Firebase no está configurado. La persistencia de datos estará desactivada.");
-                isAuthReady = true; // Continúa la UI sin Firebase
-            }
-            // Muestra la pantalla inicial
-            mostrarPantalla('seleccionSection');
-            
-            // Actualiza la clave si es necesario al inicio
-            if (Date.now() > claveExpira) {
-                generarClave();
-            }
-        });
-
-        // Exponer funciones al scope global para que los onclick en el HTML funcionen
-        window.mostrarLoginAdmin = mostrarLoginAdmin;
-        window.mostrarLoginAlumno = mostrarLoginAlumno;
-        window.volverAlInicio = volverAlInicio;
-        window.mostrarConfirmacionExamen = mostrarConfirmacionExamen;
-        window.cerrarModal = cerrarModal;
-        window.iniciarExamen = iniciarExamen;
-        window.seleccionarRespuesta = seleccionarRespuesta;
-        window.navegarPregunta = navegarPregunta;
-        window.finalizarExamen = finalizarExamen;
-        window.mostrarRankingSection = mostrarRankingSection;
-        window.cargarRanking = cargarRanking;
-        window.cargarListaEspecialidades = cargarListaEspecialidades;
-        window.revisarRespuestas = revisarRespuestas;
-        window.generarNuevaClave = generarNuevaClave;
-        window.copiarClaveAlumnos = copiarClaveAlumnos;
-        window.validarLoginAdmin = validarLoginAdmin;
-        window.validarLoginAlumno = validarLoginAlumno;
-
-    </script>
+    <script src="app.js"></script>
 </body>
 </html>

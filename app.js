@@ -1,545 +1,566 @@
-// Configuración de Firebase y Firestore
-const appId = typeof __app_id !== 'undefined' ? __app_id : 'default-app-id';
-const firebaseConfig = typeof __firebase_config !== 'undefined' ? JSON.parse(__firebase_config) : null;
-const initialAuthToken = typeof __initial_auth_token !== 'undefined' ? __initial_auth_token : null;
+// ===== CONFIGURACIÓN Y CONSTANTES =====
+const ADMIN_PASSWORD = "Teamopi91";
+const DURACION_CLAVE_HORAS = 48;
 
-import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
-import { getAuth, signInAnonymously, signInWithCustomToken, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
-import { getFirestore, doc, setDoc, collection, query, where, getDocs, onSnapshot, orderBy, limit, serverTimestamp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
-import { setLogLevel } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
-
-
-// Variables globales para Firebase
-let app;
-let db;
-let auth;
-let userId = 'anonymous'; // Valor por defecto
-let isAuthReady = false;
-
-// Inicializar Firebase
-if (firebaseConfig) {
-    app = initializeApp(firebaseConfig);
-    db = getFirestore(app);
-    auth = getAuth(app);
-    setLogLevel('debug'); // Habilitar logs para depuración de Firestore
-} else {
-    console.error("Firebase configuration not available.");
-}
-
-// --- FUNCIÓN DE UTILIDAD PARA CLAVE DE ALUMNO ---
-
-/**
- * Genera una nueva clave de alumno, la guarda en localStorage con una expiración de 48h,
- * y retorna la clave.
- */
-function generarClave() {
-    const clave = Math.random().toString(36).slice(-8);
-    const expirationTime = Date.now() + 48 * 60 * 60 * 1000; // 48 horas en milisegundos
-    
-    localStorage.setItem("claveAlumnos", clave);
-    localStorage.setItem("claveExpira", expirationTime);
-    
-    console.log(`Nueva clave de alumno generada: ${clave}, expira en ${new Date(expirationTime).toLocaleString()}`);
-    return clave; // Es crucial retornar la clave
-}
-
-// --- VARIABLES DE CONFIGURACIÓN Y CLAVE DE ACCESO ---
-const ADMIN_KEY = "Teamopi91";
-
-// 1. Declarar variables para la clave de alumno
-let claveAlumnos = localStorage.getItem("claveAlumnos");
-let claveExpira = localStorage.getItem("claveExpira");
-
-// 2. Lógica de inicialización y expiración (solo se llama a generarClave *después* de la declaración)
-// Verificar si la clave no existe o ha expirado.
-if (!claveAlumnos || !claveExpira || Date.now() > parseInt(claveExpira, 10)) {
-    console.log("La clave de alumno no existe o ha expirado. Generando una nueva.");
-    claveAlumnos = generarClave(); // Ahora la llamada ocurre después de la declaración de la variable
-    claveExpira = localStorage.getItem("claveExpira"); 
-}
-
-// --- DEFINICIÓN DE ESPECIALIDADES Y PREGUNTAS ---
-
-const ESPECIALIDADES = [
-    { id: 'mi', nombre: 'Medicina Interna' },
-    { id: 'ped', nombre: 'Pediatría' },
-    { id: 'cir', nombre: 'Cirugía General' },
-    // Añade más especialidades si es necesario
-];
-
-// Mapeo de especialidades a archivos JSON (ejemplo, se necesita la lógica real de carga)
-const specialtyToFile = {
-    // Definiciones de mapeo de archivos (Asumiendo que este objeto venía en el snippet)
-    "Medicina - Especialidad 1": "anestesiologia",
-    "Medicina - Especialidad 2": "cardiologia",
-    // ... más mapeos según sea necesario
-};
-
-// Variables para el estado del examen
-let preguntasActuales = []; // El conjunto de 100 preguntas para el examen actual
-let respuestas = []; // Array para guardar las respuestas del usuario
+// ===== VARIABLES GLOBALES =====
+let claveAlumno = null;
+let fechaExpiracionClave = null;
+let nombreAlumno = '';
+let preguntasExamen = [];
+let respuestasAlumno = [];
 let preguntaActualIndex = 0;
-let tiempoRestante = 180 * 60; // 3 horas en segundos
-let timer;
-let examenIniciado = false;
 let especialidadSeleccionada = '';
+let tiempoRestante = 240 * 60; // 4 horas en segundos
+let intervaloCronometro = null;
 
-// --- FUNCIONES DE AUTENTICACIÓN Y FIREBASE ---
+// ===== INICIALIZACIÓN =====
+document.addEventListener('DOMContentLoaded', () => {
+    inicializarClave();
+    mostrarPantalla('seleccionRol');
+});
 
-/**
- * Inicia la autenticación de Firebase con un token personalizado o de forma anónima.
- */
-async function iniciarAutenticacion() {
-    try {
-        if (auth) {
-            if (initialAuthToken) {
-                await signInWithCustomToken(auth, initialAuthToken);
-                console.log("Autenticación con token personalizado exitosa.");
-            } else {
-                await signInAnonymously(auth);
-                console.log("Autenticación anónima exitosa.");
-            }
-        }
-    } catch (error) {
-        console.error("Error durante la autenticación de Firebase:", error);
-    }
-
-    if (auth) {
-        onAuthStateChanged(auth, (user) => {
-            if (user) {
-                userId = user.uid;
-                console.log("Usuario autenticado. UID:", userId);
-            } else {
-                userId = 'anonymous';
-                console.log("Usuario no autenticado.");
-            }
-            isAuthReady = true;
-            // Después de que la autenticación está lista, podemos mostrar la pantalla inicial
-            mostrarPantalla('seleccionSection');
-            // Cargar datos que dependan del usuario autenticado si es necesario (ej. ranking)
-        });
-    } else {
-        isAuthReady = true;
-        mostrarPantalla('seleccionSection');
-    }
-}
-
-/**
- * Guarda el resultado del examen en la colección privada del usuario.
- * @param {object} resultado - Objeto con los detalles del resultado.
- */
-async function guardarResultado(resultado) {
-    if (!isAuthReady || !userId || !db) {
-        console.error("Firebase no está listo o el usuario no está autenticado.");
-        return;
-    }
-
-    const collectionPath = `artifacts/${appId}/users/${userId}/exam_results`;
-    const docRef = doc(collection(db, collectionPath), `${Date.now()}`); // Usar timestamp como ID
-
-    try {
-        await setDoc(docRef, {
-            ...resultado,
-            timestamp: serverTimestamp(),
-            userId: userId,
-            // Guardamos las respuestas para poder revisarlas si es necesario
-            respuestas: respuestas.map((res, index) => ({
-                qIndex: index,
-                userAnswer: res,
-                correctAnswer: preguntasActuales[index].correcta,
-                isCorrect: res === preguntasActuales[index].correcta
-            }))
-        });
-        console.log("Resultado guardado en colección privada.");
-    } catch (e) {
-        console.error("Error al guardar el resultado en Firestore (privado):", e);
-    }
-}
-
-/**
- * Guarda el resultado en la colección pública para el ranking.
- * @param {object} resultado - Objeto con los detalles del resultado.
- */
-async function guardarResultadoPublico(resultado) {
-    if (!isAuthReady || !userId || !db) return;
-
-    // Solo guardamos datos esenciales para el ranking: puntaje, tiempo, especialidad, y userID
-    const collectionPath = `artifacts/${appId}/public/data/exam_ranking`;
+// ===== GESTIÓN DE CLAVES =====
+function inicializarClave() {
+    const claveGuardada = localStorage.getItem('claveAlumno');
+    const fechaExpiracion = localStorage.getItem('fechaExpiracionClave');
     
-    // Crear un ID único para el documento de ranking.
-    // Podrías sobrescribir si el usuario ya tiene un mejor resultado, pero aquí usaremos un nuevo documento por examen.
-    const docRef = doc(collection(db, collectionPath), `${userId}_${Date.now()}`); 
+    if (claveGuardada && fechaExpiracion) {
+        const ahora = new Date().getTime();
+        const expiracion = parseInt(fechaExpiracion);
+        
+        if (ahora < expiracion) {
+            claveAlumno = claveGuardada;
+            fechaExpiracionClave = expiracion;
+            console.log('Clave válida cargada:', claveAlumno);
+            return;
+        }
+    }
+    
+    generarClave();
+}
 
-    try {
-        await setDoc(docRef, {
-            puntaje: resultado.porcentaje,
-            correctas: resultado.correctas,
-            tiempoUtilizado: resultado.tiempoTotal,
-            especialidad: resultado.especialidad,
-            timestamp: serverTimestamp(),
-            userId: userId
-        });
-        console.log("Resultado guardado en colección pública para ranking.");
-    } catch (e) {
-        console.error("Error al guardar el resultado en Firestore (público):", e);
+function generarClave() {
+    claveAlumno = Math.random().toString(36).substring(2, 10).toUpperCase();
+    fechaExpiracionClave = new Date().getTime() + (DURACION_CLAVE_HORAS * 60 * 60 * 1000);
+    
+    localStorage.setItem('claveAlumno', claveAlumno);
+    localStorage.setItem('fechaExpiracionClave', fechaExpiracionClave);
+    
+    console.log('Nueva clave generada:', claveAlumno);
+}
+
+function generarNuevaClave() {
+    if (confirm('¿Está seguro de generar una nueva clave? La anterior dejará de funcionar.')) {
+        generarClave();
+        actualizarPanelAdmin();
+        alert('Nueva clave generada exitosamente.');
     }
 }
 
-// Sobrescribir la función de guardarResultado para que también guarde en la colección pública
-const originalGuardarResultado = guardarResultado;
-guardarResultado = async function(resultado) {
-    await originalGuardarResultado(resultado); // Guarda en la colección privada del usuario
-    await guardarResultadoPublico(resultado); // Guarda en la colección pública para el ranking
-}
-
-
-// --- FUNCIONES DE NAVEGACIÓN Y VISTA ---
-
-/**
- * Muestra la sección con el ID especificado y oculta las demás.
- * @param {string} sectionId - El ID de la sección a mostrar.
- */
-function mostrarPantalla(sectionId) {
-    document.querySelectorAll('.screen').forEach(section => {
-        section.classList.remove('active');
+function copiarClave() {
+    const claveTexto = document.getElementById('claveActual').textContent;
+    navigator.clipboard.writeText(claveTexto).then(() => {
+        const mensaje = document.getElementById('mensajeCopiado');
+        mensaje.textContent = 'Clave copiada al portapapeles';
+        setTimeout(() => {
+            mensaje.textContent = '';
+        }, 3000);
     });
-    document.getElementById(sectionId).classList.add('active');
 }
 
-function volverAlInicio() {
-    mostrarPantalla('seleccionSection');
+// ===== NAVEGACIÓN ENTRE PANTALLAS =====
+function mostrarPantalla(idPantalla) {
+    const pantallas = document.querySelectorAll('.screen');
+    pantallas.forEach(pantalla => {
+        pantalla.classList.remove('active');
+    });
+    document.getElementById(idPantalla).classList.add('active');
 }
 
+function volverInicio() {
+    limpiarDatos();
+    mostrarPantalla('seleccionRol');
+}
+
+function limpiarDatos() {
+    nombreAlumno = '';
+    preguntasExamen = [];
+    respuestasAlumno = [];
+    preguntaActualIndex = 0;
+    especialidadSeleccionada = '';
+    detenerCronometro();
+    tiempoRestante = 240 * 60;
+    
+    document.getElementById('inputClaveAdmin').value = '';
+    document.getElementById('inputNombreAlumno').value = '';
+    document.getElementById('inputClaveAlumno').value = '';
+    document.getElementById('mensajeErrorAdmin').textContent = '';
+    document.getElementById('mensajeErrorAlumno').textContent = '';
+}
+
+// ===== AUTENTICACIÓN =====
 function mostrarLoginAdmin() {
-    document.getElementById('adminKeyInput').value = '';
-    mostrarPantalla('adminLoginSection');
+    mostrarPantalla('loginAdmin');
+}
+
+function validarAdmin() {
+    const claveIngresada = document.getElementById('inputClaveAdmin').value;
+    const mensajeError = document.getElementById('mensajeErrorAdmin');
+    
+    if (claveIngresada === ADMIN_PASSWORD) {
+        mensajeError.textContent = '';
+        actualizarPanelAdmin();
+        mostrarPantalla('panelAdmin');
+    } else {
+        mensajeError.textContent = 'Clave incorrecta';
+    }
+}
+
+function actualizarPanelAdmin() {
+    document.getElementById('claveActual').textContent = claveAlumno;
+    const fechaExp = new Date(fechaExpiracionClave);
+    document.getElementById('fechaExpiracion').textContent = fechaExp.toLocaleString('es-AR');
 }
 
 function mostrarLoginAlumno() {
-    document.getElementById('alumnoKeyDisplay').textContent = claveAlumnos;
-    mostrarPantalla('alumnoLoginSection');
+    mostrarPantalla('loginAlumno');
 }
 
-/**
- * Carga la lista de especialidades en el selector de la sección de alumno.
- */
-function cargarListaEspecialidades() {
-    const select = document.getElementById('especialidadSelect');
-    if (!select) return;
-
-    select.innerHTML = ''; // Limpiar opciones anteriores
+function validarAlumno() {
+    const nombre = document.getElementById('inputNombreAlumno').value.trim();
+    const claveIngresada = document.getElementById('inputClaveAlumno').value.trim();
+    const mensajeError = document.getElementById('mensajeErrorAlumno');
     
-    const defaultOption = document.createElement('option');
-    defaultOption.value = '';
-    defaultOption.textContent = 'Selecciona una especialidad';
-    defaultOption.disabled = true;
-    defaultOption.selected = true;
-    select.appendChild(defaultOption);
-
-    ESPECIALIDADES.forEach(esp => {
-        const option = document.createElement('option');
-        option.value = esp.id;
-        option.textContent = esp.nombre;
-        select.appendChild(option);
-    });
-}
-
-// Lógica de validación de clave de administrador (ejemplo simple)
-window.validarClaveAdmin = function() {
-    const key = document.getElementById('adminKeyInput').value;
-    if (key === ADMIN_KEY) {
-        // En un app real, esto redirigiría a un panel de admin.
-        // Aquí simplemente mostramos la clave de alumno
-        mostrarPantalla('adminPanelSection');
-        document.getElementById('adminClaveAlumnoDisplay').textContent = claveAlumnos;
-    } else {
-        alert("Clave de administrador incorrecta.");
-    }
-}
-
-// Lógica de inicio de examen
-function mostrarConfirmacionExamen() {
-    const especialidadId = document.getElementById('especialidadSelect').value;
-    const claveIngresada = document.getElementById('alumnoKeyInput').value;
-    
-    // NOTA: Se ha cambiado a un modal/mensaje custom. Aquí usamos alert por simplicidad.
-    if (claveIngresada !== claveAlumnos) {
-        alert('La clave de alumno ingresada es incorrecta.');
+    if (!nombre) {
+        mensajeError.textContent = 'Por favor ingrese su nombre o ID';
         return;
     }
     
-    if (!especialidadId) {
-        alert('Por favor, selecciona una especialidad.');
+    if (claveIngresada !== claveAlumno) {
+        mensajeError.textContent = 'Clave incorrecta';
         return;
     }
-
-    especialidadSeleccionada = ESPECIALIDADES.find(e => e.id === especialidadId).nombre;
     
-    document.getElementById('modalEspecialidad').textContent = especialidadSeleccionada;
-    document.getElementById('modalDuracion').textContent = '3 horas';
-    document.getElementById('modalPreguntas').textContent = '100';
-    document.getElementById('confirmacionModal').classList.add('is-active');
-}
-
-function cerrarModal() {
-    document.getElementById('confirmacionModal').classList.remove('is-active');
-}
-
-// Simulación de carga de preguntas (necesitas implementar la carga real desde el JSON)
-async function cargarPreguntas(especialidadId) {
-    // ESTA ES UNA SIMULACIÓN. DEBES IMPLEMENTAR LA CARGA REAL.
-    // Por ahora, generaremos 100 preguntas dummy.
-    const preguntasDummy = [];
-    const especialidadNombre = ESPECIALIDADES.find(e => e.id === especialidadId).nombre;
-
-    for (let i = 0; i < 100; i++) {
-        preguntasDummy.push({
-            id: i + 1,
-            pregunta: `Pregunta ${i + 1} de la especialidad: ${especialidadNombre}. ¿Cuál es la respuesta correcta?`,
-            opciones: ['Opción A', 'Opción B', 'Opción C', 'Opción D'],
-            correcta: 'Opción C' // Respuesta correcta de ejemplo
-        });
+    // Verificar si la clave no ha expirado
+    if (new Date().getTime() > fechaExpiracionClave) {
+        mensajeError.textContent = 'La clave ha expirado. Contacte al administrador.';
+        return;
     }
-    return preguntasDummy;
-}
-
-async function iniciarExamen() {
-    cerrarModal();
-
-    const especialidadId = document.getElementById('especialidadSelect').value;
-    preguntasActuales = await cargarPreguntas(especialidadId);
-    respuestas = new Array(preguntasActuales.length).fill(null);
-    preguntaActualIndex = 0;
-    tiempoRestante = 180 * 60; // Resetear el tiempo
-    examenIniciado = true;
-
-    document.getElementById('examenTitle').textContent = `Examen: ${especialidadSeleccionada}`;
-    mostrarPregunta(preguntaActualIndex);
-    iniciarTimer();
-    mostrarPantalla('examenSection');
-}
-
-function mostrarPregunta(index) {
-    const pregunta = preguntasActuales[index];
-    document.getElementById('preguntaNumero').textContent = index + 1;
-    document.getElementById('preguntaTotal').textContent = preguntasActuales.length;
-    document.getElementById('preguntaTexto').textContent = pregunta.pregunta;
-
-    const opcionesContainer = document.getElementById('opcionesContainer');
-    opcionesContainer.innerHTML = '';
-
-    pregunta.opciones.forEach((opcion, i) => {
-        const inputId = `opcion${i}`;
-        const isChecked = respuestas[index] === opcion;
-
-        opcionesContainer.innerHTML += `
-            <div class="opcion-card ${isChecked ? 'selected' : ''}" 
-                 onclick="seleccionarRespuesta(${index}, '${opcion.replace(/'/g, "\\'")}')">
-                <input type="radio" id="${inputId}" name="respuesta" value="${opcion.replace(/'/g, "\\'")}" ${isChecked ? 'checked' : ''} class="hidden">
-                <label for="${inputId}" class="opcion-label">${String.fromCharCode(65 + i)} - ${opcion}</label>
-            </div>
-        `;
-    });
-
-    // Actualizar botones de navegación
-    document.getElementById('prevBtn').disabled = index === 0;
-    document.getElementById('nextBtn').disabled = index === preguntasActuales.length - 1;
-    document.getElementById('finalizarBtn').style.display = index === preguntasActuales.length - 1 ? 'inline-block' : 'none';
-}
-
-window.seleccionarRespuesta = function(index, respuesta) {
-    // Actualizar el estado de las respuestas
-    respuestas[index] = respuesta;
     
-    // Actualizar el estilo visual de la opción seleccionada sin recargar la pregunta
-    const opcionesContainer = document.getElementById('opcionesContainer');
-    opcionesContainer.querySelectorAll('.opcion-card').forEach(card => {
-        card.classList.remove('selected');
-        const input = card.querySelector('input[type="radio"]');
-        if (input && input.value === respuesta) {
-             card.classList.add('selected');
-             input.checked = true; // Asegurar que el radio button esté marcado
-        } else if (input) {
-            input.checked = false;
+    nombreAlumno = nombre;
+    mensajeError.textContent = '';
+    mostrarPantalla('seleccionEspecialidad');
+}
+
+// ===== CARGA DE PREGUNTAS =====
+async function cargarPreguntas(especialidad) {
+    try {
+        const response = await fetch(`data_final/${especialidad}.json`);
+        if (!response.ok) {
+            throw new Error(`Error al cargar: ${response.status}`);
         }
-    });
-}
-
-window.navegarPregunta = function(direccion) {
-    const nuevoIndex = preguntaActualIndex + direccion;
-    if (nuevoIndex >= 0 && nuevoIndex < preguntasActuales.length) {
-        preguntaActualIndex = nuevoIndex;
-        mostrarPregunta(preguntaActualIndex);
+        
+        // Obtener el texto crudo primero
+        const textoJSON = await response.text();
+        
+        // Intentar parsear el JSON, con manejo de errores
+        let todasPreguntas;
+        try {
+            todasPreguntas = JSON.parse(textoJSON);
+        } catch (parseError) {
+            console.error('Error al parsear JSON:', parseError);
+            // Intentar limpiar el JSON
+            let textoLimpio = textoJSON
+                .replace(/,(\s*[}\]])/g, '$1')  // Remover comas antes de } o ]
+                .replace(/\}(\s*)\{/g, '},\n$1{')  // Agregar comas entre objetos
+                .replace(/[\x00-\x1f\x7f-\x9f]/g, ' ');  // Remover caracteres de control
+            
+            try {
+                todasPreguntas = JSON.parse(textoLimpio);
+            } catch (segundoError) {
+                throw new Error(`No se puede parsear el archivo JSON: ${parseError.message}`);
+            }
+        }
+        
+        // Si el JSON tiene estructura con objeto raíz y array "preguntas"
+        if (todasPreguntas && todasPreguntas.preguntas && Array.isArray(todasPreguntas.preguntas)) {
+            todasPreguntas = todasPreguntas.preguntas;
+        }
+        
+        // Si no es un array, convertirlo en uno
+        if (!Array.isArray(todasPreguntas)) {
+            todasPreguntas = [todasPreguntas];
+        }
+        
+        // Normalizar formato de preguntas (soporta múltiples formatos)
+        const preguntasNormalizadas = normalizarPreguntas(todasPreguntas);
+        
+        // Filtrar preguntas válidas
+        const preguntasValidas = preguntasNormalizadas.filter(p => 
+            p && p.pregunta && p.opciones && p.respuesta_correcta
+        );
+        
+        if (preguntasValidas.length === 0) {
+            throw new Error('No se encontraron preguntas válidas en el archivo');
+        }
+        
+        console.log(`Cargadas ${preguntasValidas.length} preguntas válidas de ${especialidad}`);
+        
+        // Seleccionar 100 preguntas aleatorias (o todas si hay menos de 100)
+        const cantidad = Math.min(100, preguntasValidas.length);
+        const preguntasSeleccionadas = seleccionarPreguntasAleatorias(preguntasValidas, cantidad);
+        return preguntasSeleccionadas;
+    } catch (error) {
+        console.error('Error cargando preguntas:', error);
+        alert(`Error al cargar las preguntas: ${error.message}\n\nPor favor, contacte al administrador.`);
+        return null;
     }
 }
 
-function iniciarTimer() {
-    actualizarTimer();
-    // Limpiar cualquier timer anterior para evitar duplicados
-    if (timer) clearInterval(timer); 
+function normalizarPreguntas(preguntas) {
+    return preguntas.map((p, index) => {
+        // Si tiene el formato con claves "a", "b", "c", "d" (dermatologia, hematologia, etc.)
+        if (p.pregunta && p.opciones && p.respuesta_correcta) {
+            const opciones = p.opciones;
+            
+            // Verificar si las claves son "a", "b", "c", "d" y convertir a formato estándar
+            if (opciones.a !== undefined || opciones.b !== undefined || 
+                opciones.c !== undefined || opciones.d !== undefined) {
+                
+                // Limpiar la respuesta correcta (puede venir como "a", "b", "c", "d")
+                const respuestaLimpia = (p.respuesta_correcta || 'a').toLowerCase().trim();
+                
+                return {
+                    id: p.id || index + 1,
+                    pregunta: p.pregunta,
+                    opciones: {
+                        'opcion a': opciones.a || opciones.A || '',
+                        'opcion b': opciones.b || opciones.B || '',
+                        'opcion c': opciones.c || opciones.C || '',
+                        'opcion d': opciones.d || opciones.D || ''
+                    },
+                    respuesta_correcta: 'opcion ' + respuestaLimpia,
+                    caso_clinico: p.caso_clinico || p.tema || null
+                };
+            }
+            
+            // Si ya tiene el formato correcto con "opcion a", "opcion b", etc.
+            return p;
+        }
+        
+        // Si tiene formato alternativo (question, options, answer)
+        if (p.question && p.options && p.answer !== undefined) {
+            const opciones = {
+                'opcion a': p.options[0] || '',
+                'opcion b': p.options[1] || '',
+                'opcion c': p.options[2] || '',
+                'opcion d': p.options[3] || ''
+            };
+            
+            // Convertir el índice de respuesta a clave de opción
+            const claves = ['opcion a', 'opcion b', 'opcion c', 'opcion d'];
+            const respuestaCorrecta = claves[p.answer] || claves[0];
+            
+            return {
+                id: index + 1,
+                pregunta: p.question,
+                opciones: opciones,
+                respuesta_correcta: respuestaCorrecta,
+                caso_clinico: p.caso_clinico || null
+            };
+        }
+        
+        // Formato por defecto si no coincide con ninguno
+        return {
+            id: index + 1,
+            pregunta: 'Pregunta no disponible',
+            opciones: {
+                'opcion a': 'Opción A',
+                'opcion b': 'Opción B',
+                'opcion c': 'Opción C',
+                'opcion d': 'Opción D'
+            },
+            respuesta_correcta: 'opcion a'
+        };
+    });
+}
+
+function seleccionarPreguntasAleatorias(array, cantidad) {
+    const copiaArray = [...array];
+    const resultado = [];
+    const max = Math.min(cantidad, copiaArray.length);
     
-    timer = setInterval(() => {
+    for (let i = 0; i < max; i++) {
+        const indiceAleatorio = Math.floor(Math.random() * copiaArray.length);
+        resultado.push(copiaArray[indiceAleatorio]);
+        copiaArray.splice(indiceAleatorio, 1);
+    }
+    
+    return resultado;
+}
+
+// ===== CRONÓMETRO =====
+function iniciarCronometro() {
+    tiempoRestante = 240 * 60; // Reiniciar a 4 horas
+    actualizarDisplayCronometro();
+    
+    if (intervaloCronometro) {
+        clearInterval(intervaloCronometro);
+    }
+    
+    intervaloCronometro = setInterval(() => {
         tiempoRestante--;
-        actualizarTimer();
+        actualizarDisplayCronometro();
+        
         if (tiempoRestante <= 0) {
-            clearInterval(timer);
+            clearInterval(intervaloCronometro);
+            alert('Se ha terminado el tiempo del examen.');
             finalizarExamen();
         }
     }, 1000);
 }
 
-function actualizarTimer() {
-    const h = Math.floor(tiempoRestante / 3600);
-    const m = Math.floor((tiempoRestante % 3600) / 60);
-    const s = tiempoRestante % 60;
+function actualizarDisplayCronometro() {
+    const horas = Math.floor(tiempoRestante / 3600);
+    const minutos = Math.floor((tiempoRestante % 3600) / 60);
+    const segundos = tiempoRestante % 60;
     
-    // Formatear con ceros a la izquierda
-    const formattedH = h.toString().padStart(2, '0');
-    const formattedM = m.toString().padStart(2, '0');
-    const formattedS = s.toString().padStart(2, '0');
-
-    document.getElementById("timer").textContent = `Tiempo restante: ${formattedH}h ${formattedM}m ${formattedS}s`;
-}
-
-async function finalizarExamen() {
-    if (!examenIniciado) return; // Evitar doble finalización o finalización si no se inició
-
-    clearInterval(timer);
-    examenIniciado = false;
+    const horasStr = String(horas).padStart(2, '0');
+    const minutosStr = String(minutos).padStart(2, '0');
+    const segundosStr = String(segundos).padStart(2, '0');
     
-    const tiempoTotalSegundos = 180 * 60 - tiempoRestante;
-
-    // Calcular resultados
-    const correctas = respuestas.filter((r, i) => r !== null && r === preguntasActuales[i].correcta).length;
-    const sinResponder = respuestas.filter(r => r === null).length;
-    const incorrectas = preguntasActuales.length - correctas - sinResponder;
-    const totalPreguntas = preguntasActuales.length;
-    
-    // Asegurarse de que el cálculo sea sobre 100 preguntas
-    const porcentaje = Math.round((correctas / totalPreguntas) * 100); 
-    const aprobado = porcentaje >= 70;
-
-    // Mostrar resultados en la sección
-    document.getElementById("resultadoCorrectas").textContent = correctas;
-    document.getElementById("resultadoIncorrectas").textContent = incorrectas;
-    document.getElementById("resultadoSinResponder").textContent = sinResponder;
-
-    document.getElementById("resultadoEspecialidad").textContent = especialidadSeleccionada;
-    
-    const h = Math.floor(tiempoTotalSegundos / 3600);
-    const m = Math.floor((tiempoTotalSegundos % 3600) / 60);
-    const s = tiempoTotalSegundos % 60;
-    document.getElementById("resultadoTiempo").textContent = `${h}h ${m}m ${s}s`;
-
-    document.getElementById("resultadoEstado").textContent = aprobado ? '¡EXAMEN APROBADO!' : 'EXAMEN NO APROBADO';
-    document.getElementById("resultadoMensaje").textContent = aprobado 
-        ? `¡Felicidades! Has superado el examen con un ${porcentaje}% de aciertos.`
-        : `Debes obtener al menos un 70%. Tu puntaje fue de ${porcentaje}%. ¡Sigue estudiando!`;
+    const displayCronometro = document.getElementById('cronometro');
+    if (displayCronometro) {
+        displayCronometro.textContent = `${horasStr}:${minutosStr}:${segundosStr}`;
         
-    const resultado = {
-        correctas: correctas,
-        incorrectas: incorrectas,
-        sinResponder: sinResponder,
-        porcentaje: porcentaje,
-        aprobado: aprobado,
-        tiempoTotal: tiempoTotalSegundos,
-        especialidad: especialidadSeleccionada,
-    };
-    
-    await guardarResultado(resultado);
-    
-    mostrarPantalla("resultadoSection");
+        // Cambiar color si quedan menos de 10 minutos
+        if (tiempoRestante < 600) {
+            displayCronometro.style.color = '#dc3545';
+        } else {
+            displayCronometro.style.color = '#333';
+        }
+    }
 }
 
-// --- FUNCIONES DE RANKING ---
-
-function mostrarRankingSection() {
-    // Puedes cargar los datos del ranking aquí antes de mostrar la sección
-    cargarRanking();
-    mostrarPantalla('rankingSection');
+function detenerCronometro() {
+    if (intervaloCronometro) {
+        clearInterval(intervaloCronometro);
+        intervaloCronometro = null;
+    }
 }
 
-async function cargarRanking() {
-    if (!isAuthReady || !db) {
-        document.getElementById('rankingBody').innerHTML = '<tr><td colspan="5">Cargando autenticación...</td></tr>';
+// ===== INICIO DEL EXAMEN =====
+async function iniciarExamen() {
+    const select = document.getElementById('selectEspecialidad');
+    const especialidad = select.value;
+    
+    if (!especialidad) {
+        alert('Por favor seleccione una especialidad');
         return;
     }
-
-    const collectionPath = `artifacts/${appId}/public/data/exam_ranking`;
-    const rankingRef = collection(db, collectionPath);
     
-    // NOTA: Se recomienda ordenar en el cliente para evitar problemas de índices en Firestore
-    // Aquí se obtiene un límite de 100 resultados.
-    const q = query(rankingRef, limit(100)); 
+    // Mostrar mensaje de carga
+    alert('Cargando examen...');
+    
+    const preguntas = await cargarPreguntas(especialidad);
+    
+    if (!preguntas || preguntas.length === 0) {
+        alert('No se pudieron cargar las preguntas. Intente nuevamente.');
+        return;
+    }
+    
+    preguntasExamen = preguntas;
+    respuestasAlumno = new Array(preguntasExamen.length).fill(null);
+    preguntaActualIndex = 0;
+    especialidadSeleccionada = select.options[select.selectedIndex].text;
+    
+    document.getElementById('especialidadActual').textContent = especialidadSeleccionada;
+    
+    // Iniciar cronómetro
+    iniciarCronometro();
+    
+    mostrarPregunta();
+    mostrarPantalla('pantallaExamen');
+}
 
-    try {
-        const snapshot = await getDocs(q);
-        let rankingData = [];
+// ===== GESTIÓN DE PREGUNTAS =====
+function mostrarPregunta() {
+    const pregunta = preguntasExamen[preguntaActualIndex];
+    
+    // Actualizar números
+    document.getElementById('numeroPregunta').textContent = preguntaActualIndex + 1;
+    document.getElementById('numPreguntaActual').textContent = preguntaActualIndex + 1;
+    
+    // Mostrar caso clínico si existe
+    const casoclinicoDiv = document.getElementById('casoclinico');
+    if (pregunta.caso_clínico) {
+        casoclinicoDiv.textContent = pregunta.caso_clínico;
+        casoclinicoDiv.style.display = 'block';
+    } else {
+        casoclinicoDiv.style.display = 'none';
+    }
+    
+    // Mostrar pregunta
+    document.getElementById('textoPregunta').textContent = pregunta.pregunta;
+    
+    // Mostrar opciones
+    const contenedor = document.getElementById('opcionesContainer');
+    contenedor.innerHTML = '';
+    
+    const opciones = pregunta.opciones;
+    const respuestaGuardada = respuestasAlumno[preguntaActualIndex];
+    
+    const letras = ['a', 'b', 'c', 'd'];
+    let letraIndex = 0;
+    
+    Object.keys(opciones).forEach(clave => {
+        const opcionDiv = document.createElement('div');
+        opcionDiv.className = 'option-item';
+        opcionDiv.dataset.opcion = clave;
         
-        snapshot.forEach(doc => {
-            rankingData.push(doc.data());
-        });
-
-        // Ordenar en el cliente por puntaje (descendente) y luego por tiempo (ascendente)
-        rankingData.sort((a, b) => {
-            if (b.puntaje !== a.puntaje) {
-                return b.puntaje - a.puntaje; // Mayor puntaje primero
-            }
-            return a.tiempoUtilizado - b.tiempoUtilizado; // Menor tiempo primero
-        });
-
-        const rankingBody = document.getElementById('rankingBody');
-        rankingBody.innerHTML = '';
-        
-        if (rankingData.length === 0) {
-            rankingBody.innerHTML = '<tr><td colspan="5">No hay resultados en el ranking todavía.</td></tr>';
-            return;
+        if (respuestaGuardada === clave) {
+            opcionDiv.classList.add('selected');
         }
-
-        rankingData.forEach((data, index) => {
-            const row = rankingBody.insertRow();
-            const tiempoFormateado = `${Math.floor(data.tiempoUtilizado/3600)}h ${Math.floor((data.tiempoUtilizado%3600)/60)}m ${data.tiempoUtilizado%60}s`;
-
-            row.innerHTML = `
-                <td>${index + 1}</td>
-                <td>${data.userId.substring(0, 8)}...</td>
-                <td>${data.especialidad}</td>
-                <td>${data.puntaje}%</td>
-                <td>${tiempoFormateado}</td>
-            `;
-            if (data.userId === userId) {
-                row.classList.add('highlight-user');
-            }
-        });
         
-    } catch (e) {
-        console.error("Error al cargar el ranking:", e);
-        document.getElementById('rankingBody').innerHTML = '<tr><td colspan="5">Error al cargar el ranking.</td></tr>';
+        const letra = letras[letraIndex];
+        opcionDiv.innerHTML = `
+            <span class="option-letter">${letra})</span>
+            <span class="option-text">${opciones[clave]}</span>
+        `;
+        
+        opcionDiv.onclick = () => seleccionarOpcion(clave);
+        contenedor.appendChild(opcionDiv);
+        letraIndex++;
+    });
+    
+    // Actualizar botones de navegación
+    document.getElementById('btnAnterior').disabled = preguntaActualIndex === 0;
+    
+    if (preguntaActualIndex === preguntasExamen.length - 1) {
+        document.getElementById('btnSiguiente').style.display = 'none';
+        document.getElementById('btnFinalizar').style.display = 'block';
+    } else {
+        document.getElementById('btnSiguiente').style.display = 'block';
+        document.getElementById('btnFinalizar').style.display = 'none';
     }
 }
 
+function seleccionarOpcion(opcion) {
+    respuestasAlumno[preguntaActualIndex] = opcion;
+    
+    // Actualizar visualización
+    const opciones = document.querySelectorAll('.option-item');
+    opciones.forEach(op => {
+        op.classList.remove('selected');
+        if (op.dataset.opcion === opcion) {
+            op.classList.add('selected');
+        }
+    });
+}
 
-// --- INICIO DE LA APLICACIÓN ---\r\ndocument.addEventListener('DOMContentLoaded', () => {
-    // Es importante iniciar la autenticación al cargar la aplicación
-    if (firebaseConfig) {
-        iniciarAutenticacion();
-    } else {
-        // Si no hay configuración de Firebase, continuamos sin él (solo UI)
-        mostrarPantalla('seleccionSection');
+function preguntaAnterior() {
+    if (preguntaActualIndex > 0) {
+        preguntaActualIndex--;
+        mostrarPregunta();
     }
-    // Cargar la lista de especialidades en la sección de selección de alumno
-    cargarListaEspecialidades();
-});
+}
 
-// Exponer funciones al scope global para que los onclick en el HTML funcionen
-window.mostrarLoginAdmin = mostrarLoginAdmin;
-window.mostrarLoginAlumno = mostrarLoginAlumno;
-window.volverAlInicio = volverAlInicio;
-window.mostrarConfirmacionExamen = mostrarConfirmacionExamen;
-window.cerrarModal = cerrarModal;
-window.iniciarExamen = iniciarExamen;
-window.seleccionarRespuesta = seleccionarRespuesta;
-window.navegarPregunta = navegarPregunta;
-window.finalizarExamen = finalizarExamen;
-window.mostrarRankingSection = mostrarRankingSection;
-window.cargarRanking = cargarRanking;
+function preguntaSiguiente() {
+    if (preguntaActualIndex < preguntasExamen.length - 1) {
+        preguntaActualIndex++;
+        mostrarPregunta();
+    }
+}
+
+// ===== FINALIZACIÓN DEL EXAMEN =====
+function confirmarVolverInicio() {
+    const mensaje = '¿Está seguro de volver al inicio?\n\nSe perderá todo el progreso del examen actual.';
+    
+    if (confirm(mensaje)) {
+        detenerCronometro();
+        volverInicio();
+    }
+}
+
+function confirmarFinalizacion() {
+    const contestadas = respuestasAlumno.filter(r => r !== null).length;
+    const sinContestar = preguntasExamen.length - contestadas;
+    
+    let mensaje = `¿Está seguro de finalizar el examen?\n\n`;
+    mensaje += `Preguntas contestadas: ${contestadas}\n`;
+    
+    if (sinContestar > 0) {
+        mensaje += `Preguntas sin contestar: ${sinContestar}\n\n`;
+        mensaje += `Las preguntas sin contestar se contarán como incorrectas.`;
+    }
+    
+    if (confirm(mensaje)) {
+        finalizarExamen();
+    }
+}
+
+function finalizarExamen() {
+    let correctas = 0;
+    let incorrectas = 0;
+    
+    preguntasExamen.forEach((pregunta, index) => {
+        const respuestaAlumno = respuestasAlumno[index];
+        const respuestaCorrecta = pregunta.respuesta_correcta;
+        
+        if (respuestaAlumno === respuestaCorrecta) {
+            correctas++;
+        } else {
+            incorrectas++;
+        }
+    });
+    
+    const porcentaje = Math.round((correctas / preguntasExamen.length) * 100);
+    
+    mostrarResultados(correctas, incorrectas, porcentaje);
+}
+
+function mostrarResultados(correctas, incorrectas, porcentaje) {
+    document.getElementById('nombreAlumnoResultado').textContent = nombreAlumno;
+    document.getElementById('porcentajeResultado').textContent = porcentaje + '%';
+    document.getElementById('correctasResultado').textContent = correctas;
+    document.getElementById('incorrectasResultado').textContent = incorrectas;
+    document.getElementById('totalResultado').textContent = preguntasExamen.length;
+    
+    // Mostrar detalle de respuestas
+    const listaRespuestas = document.getElementById('listaRespuestas');
+    listaRespuestas.innerHTML = '';
+    
+    preguntasExamen.forEach((pregunta, index) => {
+        const respuestaAlumno = respuestasAlumno[index];
+        const respuestaCorrecta = pregunta.respuesta_correcta;
+        const esCorrecto = respuestaAlumno === respuestaCorrecta;
+        
+        const itemDiv = document.createElement('div');
+        itemDiv.className = `respuesta-item ${esCorrecto ? 'correcta' : 'incorrecta'}`;
+        
+        itemDiv.innerHTML = `
+            <div class="respuesta-header">
+                <span class="respuesta-numero">Pregunta ${index + 1}</span>
+                <span class="respuesta-estado">
+                    <i class="fas fa-${esCorrecto ? 'check-circle' : 'times-circle'}"></i>
+                    ${esCorrecto ? 'Correcta' : 'Incorrecta'}
+                </span>
+            </div>
+            <div class="respuesta-detalle">
+                <p class="pregunta-texto">${pregunta.pregunta}</p>
+                ${respuestaAlumno ? 
+                    `<p class="tu-respuesta">Tu respuesta: <strong>${pregunta.opciones[respuestaAlumno]}</strong></p>` :
+                    `<p class="tu-respuesta sin-respuesta">No contestada</p>`
+                }
+                ${!esCorrecto ? 
+                    `<p class="respuesta-correcta-texto">Correcta: <strong>${pregunta.opciones[respuestaCorrecta]}</strong></p>` :
+                    ''
+                }
+            </div>
+        `;
+        
+        listaRespuestas.appendChild(itemDiv);
+    });
+    
+    mostrarPantalla('pantallaResultados');
+}
