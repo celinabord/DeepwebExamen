@@ -770,20 +770,6 @@
     "respuesta_correcta": "opcion a"
   },
   {
-    "id": 56,
-    "tema": "Enfermería 2022",
-    "año": 2022,
-    "caso_clínico": "",
-    "pregunta": "Pérdida de calor en RN",
-    "opciones": {
-      "opcion a": "Conducción, radiación, convección y evaporación (correcta real del banco)",
-      "opcion b": "Digestión, oxidación, difusión térmica",
-      "opcion c": "Metabolismo de glucosa y proteínas",
-      "opcion d": "Contracción muscular voluntaria  (seguimos)"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
     "id": 57,
     "tema": "Enfermería 2022",
     "año": 2022,

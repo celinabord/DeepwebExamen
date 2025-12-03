@@ -6,12 +6,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué es el proceso de enfermería?",
     "opciones": {
-      "opcion a": "Un sistema para registrar datos administrativos.",
-      "opcion b": "Una técnica de comunicación institucional.",
+      "opcion a": "Una metodología científica para organizar el cuidado.",
+      "opcion b": "Un sistema para registrar datos administrativos.",
       "opcion c": "Un método exclusivo para emergencias.",
-      "opcion d": "Una metodología científica para organizar el cuidado."
+      "opcion d": "Una técnica de comunicación institucional."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 2,
@@ -20,12 +20,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el primer paso del proceso de enfermería?",
     "opciones": {
-      "opcion a": "Evaluación.",
-      "opcion b": "Valoración.",
+      "opcion a": "Valoración.",
+      "opcion b": "Diagnóstico.",
       "opcion c": "Intervención.",
-      "opcion d": "Diagnóstico."
+      "opcion d": "Evaluación."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 3,
@@ -48,12 +48,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué caracteriza a un paciente con riesgo de aspiración?",
     "opciones": {
-      "opcion a": "Edema en extremidades.",
+      "opcion a": "Dificultad para gestionar su secreción salival.",
       "opcion b": "Fiebre persistente sin foco.",
-      "opcion c": "Dificultad para gestionar su secreción salival.",
+      "opcion c": "Edema en extremidades.",
       "opcion d": "Hiperhidratación."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 5,
@@ -64,8 +64,8 @@
     "opciones": {
       "opcion a": "Prevención primaria.",
       "opcion b": "Prevención terciaria.",
-      "opcion c": "Prevención de soporte.",
-      "opcion d": "Prevención cuaternaria."
+      "opcion c": "Prevención cuaternaria.",
+      "opcion d": "Prevención de soporte."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -104,12 +104,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el valor normal de saturación de oxígeno?",
     "opciones": {
-      "opcion a": "60–70%.",
-      "opcion b": "88–92% en sujetos sanos.",
-      "opcion c": "80–85%.",
-      "opcion d": "95–100%."
+      "opcion a": "95–100%.",
+      "opcion b": "80–85%.",
+      "opcion c": "60–70%.",
+      "opcion d": "88–92% en sujetos sanos."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 9,
@@ -132,12 +132,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un llenado capilar mayor a 3 segundos?",
     "opciones": {
-      "opcion a": "Mejora circulatoria.",
-      "opcion b": "Hidratación adecuada.",
-      "opcion c": "Aumento de gasto cardíaco.",
-      "opcion d": "Hipoperfusión."
+      "opcion a": "Hipoperfusión.",
+      "opcion b": "Aumento de gasto cardíaco.",
+      "opcion c": "Hidratación adecuada.",
+      "opcion d": "Mejora circulatoria."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 11,
@@ -146,12 +146,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el objetivo del lavado de manos quirúrgico?",
     "opciones": {
-      "opcion a": "Aumentar la temperatura corporal.",
+      "opcion a": "Reducir al máximo la flora residente y transitoria.",
       "opcion b": "Hidratar la piel.",
-      "opcion c": "Reducir al máximo la flora residente y transitoria.",
+      "opcion c": "Aumentar la temperatura corporal.",
       "opcion d": "Desinfectar solamente uñas."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 12,
@@ -160,12 +160,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué vía es preferida para medicación de emergencia?",
     "opciones": {
-      "opcion a": "Rectal.",
-      "opcion b": "Sublingual.",
-      "opcion c": "Tópica.",
-      "opcion d": "Intravenosa."
+      "opcion a": "Intravenosa.",
+      "opcion b": "Tópica.",
+      "opcion c": "Sublingual.",
+      "opcion d": "Rectal."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 13,
@@ -174,12 +174,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el principal riesgo de una vía periférica sin control?",
     "opciones": {
-      "opcion a": "Taquicardia supraventricular.",
-      "opcion b": "Fiebre por ansiedad.",
-      "opcion c": "Hiponatremia.",
-      "opcion d": "Flebitis."
+      "opcion a": "Flebitis.",
+      "opcion b": "Hiponatremia.",
+      "opcion c": "Taquicardia supraventricular.",
+      "opcion d": "Fiebre por ansiedad."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 14,
@@ -189,8 +189,8 @@
     "pregunta": "¿Qué indica un pulso débil y rápido?",
     "opciones": {
       "opcion a": "Shock.",
-      "opcion b": "Hipoglucemia leve.",
-      "opcion c": "Ansiedad leve.",
+      "opcion b": "Ansiedad leve.",
+      "opcion c": "Hipoglucemia leve.",
       "opcion d": "Digestión lenta."
     },
     "respuesta_correcta": "opcion a"
@@ -216,12 +216,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué caracteriza a una respiración Kussmaul?",
     "opciones": {
-      "opcion a": "Superficial y pausada.",
-      "opcion b": "Ruidosa y obstructiva.",
-      "opcion c": "Profunda y rápida, típica de acidosis metabólica.",
+      "opcion a": "Profunda y rápida, típica de acidosis metabólica.",
+      "opcion b": "Superficial y pausada.",
+      "opcion c": "Ruidosa y obstructiva.",
       "opcion d": "Irregular con pausas prolongadas."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 17,
@@ -231,9 +231,9 @@
     "pregunta": "¿Qué debe realizarse ante sospecha de sepsis?",
     "opciones": {
       "opcion a": "Tomar hemocultivos y comenzar antibióticos tempranos.",
-      "opcion b": "Evaluar solo presión arterial.",
-      "opcion c": "Administrar líquidos sin evaluación.",
-      "opcion d": "Esperar 24 h para observar evolución."
+      "opcion b": "Administrar líquidos sin evaluación.",
+      "opcion c": "Esperar 24 h para observar evolución.",
+      "opcion d": "Evaluar solo presión arterial."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -244,12 +244,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el objetivo de la oxigenoterapia?",
     "opciones": {
-      "opcion a": "Aumentar frecuencia cardíaca.",
-      "opcion b": "Corregir hipoxemia.",
+      "opcion a": "Corregir hipoxemia.",
+      "opcion b": "Disminuir temperatura corporal.",
       "opcion c": "Mejorar digestión.",
-      "opcion d": "Disminuir temperatura corporal."
+      "opcion d": "Aumentar frecuencia cardíaca."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 19,
@@ -258,12 +258,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué complicación produce la inmovilidad prolongada?",
     "opciones": {
-      "opcion a": "Hipertiroidismo.",
-      "opcion b": "Úlceras por presión.",
+      "opcion a": "Úlceras por presión.",
+      "opcion b": "Hipertensión arterial.",
       "opcion c": "Aumento de masa muscular.",
-      "opcion d": "Hipertensión arterial."
+      "opcion d": "Hipertiroidismo."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 20,
@@ -273,9 +273,9 @@
     "pregunta": "¿Cuál es la temperatura febril considerada hipertermia severa?",
     "opciones": {
       "opcion a": "≥ 40 °C.",
-      "opcion b": "38.1 °C.",
-      "opcion c": "36.0 °C.",
-      "opcion d": "37.2 °C."
+      "opcion b": "37.2 °C.",
+      "opcion c": "38.1 °C.",
+      "opcion d": "36.0 °C."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -302,8 +302,8 @@
     "opciones": {
       "opcion a": "Hipotensión.",
       "opcion b": "Normotensión.",
-      "opcion c": "Hipertensión sistólica aislada.",
-      "opcion d": "Hipertensión leve."
+      "opcion c": "Hipertensión leve.",
+      "opcion d": "Hipertensión sistólica aislada."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -314,12 +314,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué parámetro indica mejor perfusión tisular?",
     "opciones": {
-      "opcion a": "Circunferencia torácica.",
+      "opcion a": "Llenado capilar.",
       "opcion b": "Peso corporal.",
       "opcion c": "Talla.",
-      "opcion d": "Llenado capilar."
+      "opcion d": "Circunferencia torácica."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 24,
@@ -329,9 +329,9 @@
     "pregunta": "¿Qué tipo de aislamiento corresponde a tuberculosis?",
     "opciones": {
       "opcion a": "Aislamiento respiratorio (aire).",
-      "opcion b": "Aislamiento por gotas pesadas.",
-      "opcion c": "Aislamiento entérico.",
-      "opcion d": "Aislamiento por contacto."
+      "opcion b": "Aislamiento entérico.",
+      "opcion c": "Aislamiento por contacto.",
+      "opcion d": "Aislamiento por gotas pesadas."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -342,12 +342,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el mejor indicador de hidratación en niños?",
     "opciones": {
-      "opcion a": "Temperatura corporal aislada.",
-      "opcion b": "Frecuencia respiratoria.",
-      "opcion c": "Color de piel únicamente.",
-      "opcion d": "Signos clínicos (mucosas, diuresis, perfusión)."
+      "opcion a": "Signos clínicos (mucosas, diuresis, perfusión).",
+      "opcion b": "Color de piel únicamente.",
+      "opcion c": "Frecuencia respiratoria.",
+      "opcion d": "Temperatura corporal aislada."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 26,
@@ -370,12 +370,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es la acción prioritaria en un paro cardiorrespiratorio?",
     "opciones": {
-      "opcion a": "Buscar historia clínica.",
-      "opcion b": "Colocar una vía periférica.",
-      "opcion c": "Iniciar compresiones torácicas.",
+      "opcion a": "Iniciar compresiones torácicas.",
+      "opcion b": "Buscar historia clínica.",
+      "opcion c": "Colocar una vía periférica.",
       "opcion d": "Administrar agua."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 28,
@@ -398,12 +398,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica fiebre + rigidez de nuca?",
     "opciones": {
-      "opcion a": "Neumonía.",
+      "opcion a": "Posible meningitis.",
       "opcion b": "Gastritis severa.",
-      "opcion c": "Posible meningitis.",
+      "opcion c": "Neumonía.",
       "opcion d": "Infección urinaria."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 30,
@@ -412,12 +412,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es la meta principal del cuidado paliativo?",
     "opciones": {
-      "opcion a": "Prolongación de la hospitalización.",
+      "opcion a": "Control del sufrimiento y mejora de la calidad de vida.",
       "opcion b": "Curación acelerada.",
-      "opcion c": "Control del sufrimiento y mejora de la calidad de vida.",
-      "opcion d": "Aumento del uso de medicación."
+      "opcion c": "Aumento del uso de medicación.",
+      "opcion d": "Prolongación de la hospitalización."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 31,
@@ -426,12 +426,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica una piel fría, pálida y sudorosa?",
     "opciones": {
-      "opcion a": "Hiperhidratación.",
-      "opcion b": "Buena perfusión.",
-      "opcion c": "Recuperación de fiebre.",
-      "opcion d": "Shock."
+      "opcion a": "Shock.",
+      "opcion b": "Recuperación de fiebre.",
+      "opcion c": "Buena perfusión.",
+      "opcion d": "Hiperhidratación."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 32,
@@ -442,8 +442,8 @@
     "opciones": {
       "opcion a": "12–20 rpm.",
       "opcion b": "25–35 rpm.",
-      "opcion c": "40–45 rpm.",
-      "opcion d": "6–10 rpm."
+      "opcion c": "6–10 rpm.",
+      "opcion d": "40–45 rpm."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -454,12 +454,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el objetivo de la educación sanitaria en hipertensión?",
     "opciones": {
-      "opcion a": "Enseñar a tomar medicación sin control médico.",
-      "opcion b": "Eliminar completamente el estrés del paciente.",
-      "opcion c": "Reducir factores de riesgo modificables.",
-      "opcion d": "Evitar que el paciente vuelva a consultar."
+      "opcion a": "Reducir factores de riesgo modificables.",
+      "opcion b": "Enseñar a tomar medicación sin control médico.",
+      "opcion c": "Evitar que el paciente vuelva a consultar.",
+      "opcion d": "Eliminar completamente el estrés del paciente."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 34,
@@ -468,12 +468,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué complicación se asocia con el oxígeno a alto flujo sin control?",
     "opciones": {
-      "opcion a": "Digestión lenta.",
-      "opcion b": "Hipoglucemia.",
-      "opcion c": "Toxicidad por oxígeno.",
-      "opcion d": "Hipotermia."
+      "opcion a": "Toxicidad por oxígeno.",
+      "opcion b": "Hipotermia.",
+      "opcion c": "Hipoglucemia.",
+      "opcion d": "Digestión lenta."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 35,
@@ -482,12 +482,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el sitio preferido para administrar heparina subcutánea?",
     "opciones": {
-      "opcion a": "Región escapular.",
+      "opcion a": "Abdomen.",
       "opcion b": "Deltoides.",
       "opcion c": "Muslo lateral profundo.",
-      "opcion d": "Abdomen."
+      "opcion d": "Región escapular."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 36,
@@ -497,9 +497,9 @@
     "pregunta": "¿Qué indica una disminución súbita del nivel de conciencia?",
     "opciones": {
       "opcion a": "Posible compromiso neurológico.",
-      "opcion b": "Digestión lenta.",
-      "opcion c": "Agotamiento físico común.",
-      "opcion d": "Estrés emocional leve."
+      "opcion b": "Estrés emocional leve.",
+      "opcion c": "Digestión lenta.",
+      "opcion d": "Agotamiento físico común."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -538,12 +538,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un pulso regular pero muy lento?",
     "opciones": {
-      "opcion a": "Hipertensión.",
+      "opcion a": "Bradicardia.",
       "opcion b": "Taquicardia.",
-      "opcion c": "Bradicardia.",
+      "opcion c": "Hipertensión.",
       "opcion d": "Fiebre."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 40,
@@ -566,12 +566,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué medida se recomienda en un paciente con fiebre alta?",
     "opciones": {
-      "opcion a": "Forzarlo a realizar ejercicio.",
-      "opcion b": "Suspender ingesta de líquidos.",
-      "opcion c": "Cubrirlo con mantas gruesas.",
-      "opcion d": "Administrar antitérmicos según indicación médica."
+      "opcion a": "Administrar antitérmicos según indicación médica.",
+      "opcion b": "Cubrirlo con mantas gruesas.",
+      "opcion c": "Suspender ingesta de líquidos.",
+      "opcion d": "Forzarlo a realizar ejercicio."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 42,
@@ -582,8 +582,8 @@
     "opciones": {
       "opcion a": "Arritmias fatales.",
       "opcion b": "Taquipnea sin riesgo.",
-      "opcion c": "Dolor abdominal leve.",
-      "opcion d": "Estrechamiento pupilar."
+      "opcion c": "Estrechamiento pupilar.",
+      "opcion d": "Dolor abdominal leve."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -594,12 +594,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es un signo temprano de insuficiencia respiratoria?",
     "opciones": {
-      "opcion a": "Bradipnea.",
-      "opcion b": "Reflejos exaltados.",
+      "opcion a": "Taquipnea.",
+      "opcion b": "Bradipnea.",
       "opcion c": "Fiebre aislada.",
-      "opcion d": "Taquipnea."
+      "opcion d": "Reflejos exaltados."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 44,
@@ -608,12 +608,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un peso corporal que aumenta rápidamente en 48 h?",
     "opciones": {
-      "opcion a": "Mejor absorción intestinal.",
-      "opcion b": "Crecimiento óseo.",
-      "opcion c": "Aumento de masa muscular.",
-      "opcion d": "Retención de líquidos."
+      "opcion a": "Retención de líquidos.",
+      "opcion b": "Aumento de masa muscular.",
+      "opcion c": "Crecimiento óseo.",
+      "opcion d": "Mejor absorción intestinal."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 45,
@@ -636,12 +636,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué significa “PA 200/110”?",
     "opciones": {
-      "opcion a": "Hipertensión leve.",
-      "opcion b": "Hipotensión severa.",
-      "opcion c": "Normotensión.",
-      "opcion d": "Crisis hipertensiva."
+      "opcion a": "Crisis hipertensiva.",
+      "opcion b": "Normotensión.",
+      "opcion c": "Hipotensión severa.",
+      "opcion d": "Hipertensión leve."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 47,
@@ -678,12 +678,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué debe hacerse ante una vía periférica que duele al pasar medicación?",
     "opciones": {
-      "opcion a": "Colocar compresas calientes sin revisar.",
+      "opcion a": "Suspender la administración y evaluar infiltración.",
       "opcion b": "Aumentar la velocidad del goteo.",
-      "opcion c": "Continuar y avisar después.",
-      "opcion d": "Suspender la administración y evaluar infiltración."
+      "opcion c": "Colocar compresas calientes sin revisar.",
+      "opcion d": "Continuar y avisar después."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 50,
@@ -706,12 +706,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el objetivo del balance hídrico?",
     "opciones": {
-      "opcion a": "Medir presión venosa central.",
-      "opcion b": "Evaluar dolor.",
-      "opcion c": "Determinar tipo sanguíneo.",
-      "opcion d": "Controlar ingresos y egresos de líquidos."
+      "opcion a": "Controlar ingresos y egresos de líquidos.",
+      "opcion b": "Determinar tipo sanguíneo.",
+      "opcion c": "Evaluar dolor.",
+      "opcion d": "Medir presión venosa central."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 52,
@@ -720,12 +720,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué se administra ante hipoglucemia severa en paciente inconsciente?",
     "opciones": {
-      "opcion a": "Jugo por boca.",
-      "opcion b": "Glucosa EV.",
+      "opcion a": "Glucosa EV.",
+      "opcion b": "Jugo por boca.",
       "opcion c": "Café.",
       "opcion d": "Agua fría."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 53,
@@ -750,8 +750,8 @@
     "opciones": {
       "opcion a": "Rectal.",
       "opcion b": "Mano.",
-      "opcion c": "Pierna inferior.",
-      "opcion d": "Clavícula."
+      "opcion c": "Clavícula.",
+      "opcion d": "Pierna inferior."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -776,12 +776,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué valor de glucemia sugiere hipoglucemia?",
     "opciones": {
-      "opcion a": "150 mg/dL.",
-      "opcion b": "100 mg/dL.",
-      "opcion c": "> 200 mg/dL.",
-      "opcion d": "< 70 mg/dL."
+      "opcion a": "< 70 mg/dL.",
+      "opcion b": "> 200 mg/dL.",
+      "opcion c": "100 mg/dL.",
+      "opcion d": "150 mg/dL."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 57,
@@ -790,12 +790,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué hacer ante saturación menor a 90% en aire ambiente?",
     "opciones": {
-      "opcion a": "Aplicar compresas tibias.",
-      "opcion b": "Dejar en observación sin intervención.",
-      "opcion c": "Suspender ingesta de líquidos.",
-      "opcion d": "Iniciar oxígeno suplementario."
+      "opcion a": "Iniciar oxígeno suplementario.",
+      "opcion b": "Suspender ingesta de líquidos.",
+      "opcion c": "Dejar en observación sin intervención.",
+      "opcion d": "Aplicar compresas tibias."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 58,
@@ -804,12 +804,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué evalúan las pupilas en el examen físico?",
     "opciones": {
-      "opcion a": "Actividad pancreática.",
-      "opcion b": "Respuesta neurológica.",
-      "opcion c": "Estado hepático.",
-      "opcion d": "Función renal."
+      "opcion a": "Respuesta neurológica.",
+      "opcion b": "Estado hepático.",
+      "opcion c": "Función renal.",
+      "opcion d": "Actividad pancreática."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 59,
@@ -818,12 +818,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un abdomen rígido y doloroso?",
     "opciones": {
-      "opcion a": "Flatulencias comunes.",
-      "opcion b": "Hambre.",
-      "opcion c": "Estreñimiento leve.",
-      "opcion d": "Abdomen agudo."
+      "opcion a": "Abdomen agudo.",
+      "opcion b": "Estreñimiento leve.",
+      "opcion c": "Hambre.",
+      "opcion d": "Flatulencias comunes."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 60,
@@ -834,8 +834,8 @@
     "opciones": {
       "opcion a": "Evaluar hidratación y riesgo de desequilibrio electrolítico.",
       "opcion b": "Suspender líquidos totalmente.",
-      "opcion c": "Indicar reposo sin control.",
-      "opcion d": "Administrar antiácidos sin indicación."
+      "opcion c": "Administrar antiácidos sin indicación.",
+      "opcion d": "Indicar reposo sin control."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -846,12 +846,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica una frecuencia cardíaca mayor a 120 lpm en adulto?",
     "opciones": {
-      "opcion a": "Eupnea.",
-      "opcion b": "Taquicardia.",
-      "opcion c": "Hipotermia.",
-      "opcion d": "Bradicardia."
+      "opcion a": "Taquicardia.",
+      "opcion b": "Bradicardia.",
+      "opcion c": "Eupnea.",
+      "opcion d": "Hipotermia."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 62,
@@ -860,12 +860,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué debe realizarse antes de administrar un antibiótico indicado por infección urinaria?",
     "opciones": {
-      "opcion a": "Colocar sonda sin indicación.",
-      "opcion b": "Administrar el antibiótico inmediatamente sin registro.",
-      "opcion c": "Inducir al paciente a tomar líquidos en exceso.",
-      "opcion d": "Tomar muestra de orina para cultivo."
+      "opcion a": "Tomar muestra de orina para cultivo.",
+      "opcion b": "Inducir al paciente a tomar líquidos en exceso.",
+      "opcion c": "Administrar el antibiótico inmediatamente sin registro.",
+      "opcion d": "Colocar sonda sin indicación."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 63,
@@ -875,9 +875,9 @@
     "pregunta": "¿Qué indica una respiración superficial y rápida?",
     "opciones": {
       "opcion a": "Taquipnea.",
-      "opcion b": "Apnea.",
+      "opcion b": "Bradipnea.",
       "opcion c": "Respiración de Cheyne–Stokes.",
-      "opcion d": "Bradipnea."
+      "opcion d": "Apnea."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -888,12 +888,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué acción previene infecciones durante la canalización de una vía periférica?",
     "opciones": {
-      "opcion a": "Colocar el catéter sin limpieza previa.",
-      "opcion b": "Higiene de manos y técnica aséptica.",
-      "opcion c": "Reutilizar jeringas limpias.",
-      "opcion d": "No usar guantes."
+      "opcion a": "Higiene de manos y técnica aséptica.",
+      "opcion b": "No usar guantes.",
+      "opcion c": "Colocar el catéter sin limpieza previa.",
+      "opcion d": "Reutilizar jeringas limpias."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 65,
@@ -916,12 +916,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica una piel caliente y seca en un paciente febril?",
     "opciones": {
-      "opcion a": "Hidratación normal.",
-      "opcion b": "Baja exposición solar.",
-      "opcion c": "Hipotermia.",
-      "opcion d": "Fase de infección con termorregulación alterada."
+      "opcion a": "Fase de infección con termorregulación alterada.",
+      "opcion b": "Hipotermia.",
+      "opcion c": "Hidratación normal.",
+      "opcion d": "Baja exposición solar."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 67,
@@ -958,12 +958,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es la medida inicial ante hemorragia externa importante?",
     "opciones": {
-      "opcion a": "Retirar coágulos para “limpiar”.",
-      "opcion b": "Administrar líquidos antes de detener el sangrado.",
-      "opcion c": "Compresión directa.",
-      "opcion d": "Colocar hielo únicamente."
+      "opcion a": "Compresión directa.",
+      "opcion b": "Colocar hielo únicamente.",
+      "opcion c": "Administrar líquidos antes de detener el sangrado.",
+      "opcion d": "Retirar coágulos para “limpiar”."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 70,
@@ -972,12 +972,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica una saturación del 85%?",
     "opciones": {
-      "opcion a": "Saturación normal.",
-      "opcion b": "Estado febril.",
-      "opcion c": "Hipoxemia grave.",
+      "opcion a": "Hipoxemia grave.",
+      "opcion b": "Saturación normal.",
+      "opcion c": "Estado febril.",
       "opcion d": "Hipertensión leve."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 71,
@@ -987,8 +987,8 @@
     "pregunta": "¿Qué posición favorece el retorno venoso?",
     "opciones": {
       "opcion a": "Trendelemburg.",
-      "opcion b": "Sedestación.",
-      "opcion c": "Fowler.",
+      "opcion b": "Fowler.",
+      "opcion c": "Sedestación.",
       "opcion d": "Decúbito ventral."
     },
     "respuesta_correcta": "opcion a"
@@ -1000,12 +1000,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué tipo de vía se utiliza habitualmente para hidratación rápida?",
     "opciones": {
-      "opcion a": "Vía intradérmica.",
-      "opcion b": "Vía oral estricta.",
-      "opcion c": "Vía tópica.",
-      "opcion d": "Vía intravenosa periférica."
+      "opcion a": "Vía intravenosa periférica.",
+      "opcion b": "Vía tópica.",
+      "opcion c": "Vía oral estricta.",
+      "opcion d": "Vía intradérmica."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 73,
@@ -1014,12 +1014,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un abdomen distendido y timpánico?",
     "opciones": {
-      "opcion a": "Hidratación excesiva.",
+      "opcion a": "Distensión gaseosa.",
       "opcion b": "Hipoglucemia.",
-      "opcion c": "Distensión gaseosa.",
-      "opcion d": "Aumento muscular."
+      "opcion c": "Aumento muscular.",
+      "opcion d": "Hidratación excesiva."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 74,
@@ -1028,12 +1028,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué es una ulcera por presión estadio II?",
     "opciones": {
-      "opcion a": "Herida seca sin lesión tisular.",
-      "opcion b": "Eritema no blanqueable únicamente.",
-      "opcion c": "Pérdida total con exposición ósea.",
-      "opcion d": "Pérdida parcial del grosor de la piel."
+      "opcion a": "Pérdida parcial del grosor de la piel.",
+      "opcion b": "Pérdida total con exposición ósea.",
+      "opcion c": "Eritema no blanqueable únicamente.",
+      "opcion d": "Herida seca sin lesión tisular."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 75,
@@ -1044,8 +1044,8 @@
     "opciones": {
       "opcion a": "Elevar cabecera de la cama.",
       "opcion b": "Dar líquidos muy fríos.",
-      "opcion c": "Indicar ayuno sin evaluación.",
-      "opcion d": "Mantener en decúbito supino."
+      "opcion c": "Mantener en decúbito supino.",
+      "opcion d": "Indicar ayuno sin evaluación."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -1056,12 +1056,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué parámetro indica deshidratación moderada?",
     "opciones": {
-      "opcion a": "Piel caliente.",
+      "opcion a": "Mucosas secas.",
       "opcion b": "Diuresis abundante.",
-      "opcion c": "Mucosas secas.",
-      "opcion d": "Temperatura baja."
+      "opcion c": "Temperatura baja.",
+      "opcion d": "Piel caliente."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 77,
@@ -1070,12 +1070,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un registro de PA con diferencia marcada entre brazos?",
     "opciones": {
-      "opcion a": "Ansiedad únicamente.",
+      "opcion a": "Posible problema vascular.",
       "opcion b": "Medición correcta.",
-      "opcion c": "Fiebre.",
-      "opcion d": "Posible problema vascular."
+      "opcion c": "Ansiedad únicamente.",
+      "opcion d": "Fiebre."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 78,
@@ -1098,12 +1098,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el mejor indicador de perfusión cerebral?",
     "opciones": {
-      "opcion a": "Temperatura corporal.",
-      "opcion b": "Frecuencia respiratoria.",
-      "opcion c": "Diuresis.",
-      "opcion d": "Nivel de conciencia."
+      "opcion a": "Nivel de conciencia.",
+      "opcion b": "Diuresis.",
+      "opcion c": "Frecuencia respiratoria.",
+      "opcion d": "Temperatura corporal."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 80,
@@ -1126,12 +1126,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué complicación puede causar una sonda nasogástrica mal colocada?",
     "opciones": {
-      "opcion a": "Insomnio.",
-      "opcion b": "Hiperglucemia.",
-      "opcion c": "Hipertensión.",
-      "opcion d": "Aspiración pulmonar."
+      "opcion a": "Aspiración pulmonar.",
+      "opcion b": "Hipertensión.",
+      "opcion c": "Hiperglucemia.",
+      "opcion d": "Insomnio."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 82,
@@ -1140,12 +1140,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un hematoma progresivo en zona de punción?",
     "opciones": {
-      "opcion a": "Reacción alérgica.",
+      "opcion a": "Extravasación.",
       "opcion b": "Hidratación correcta.",
-      "opcion c": "Extravasación.",
-      "opcion d": "Perfusión adecuada."
+      "opcion c": "Perfusión adecuada.",
+      "opcion d": "Reacción alérgica."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 83,
@@ -1154,12 +1154,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el objetivo del aislamiento respiratorio?",
     "opciones": {
-      "opcion a": "Reducir exposición al sol.",
-      "opcion b": "Evitar propagación de microorganismos por aerosol.",
-      "opcion c": "Evitar transmisión por contacto con sangre.",
-      "opcion d": "Prevenir deshidratación."
+      "opcion a": "Evitar propagación de microorganismos por aerosol.",
+      "opcion b": "Evitar transmisión por contacto con sangre.",
+      "opcion c": "Prevenir deshidratación.",
+      "opcion d": "Reducir exposición al sol."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 84,
@@ -1168,12 +1168,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica una presión arterial de 90/60 en un adulto delgado?",
     "opciones": {
-      "opcion a": "Es hipertensión leve.",
+      "opcion a": "Puede ser normal para el paciente si no hay síntomas.",
       "opcion b": "Siempre indica shock.",
-      "opcion c": "Puede ser normal para el paciente si no hay síntomas.",
+      "opcion c": "Es hipertensión leve.",
       "opcion d": "Indica falta de hierro."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 85,
@@ -1266,12 +1266,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica la presencia de petequias?",
     "opciones": {
-      "opcion a": "Irritación por roce.",
+      "opcion a": "Alteración de la coagulación.",
       "opcion b": "Deshidratación.",
       "opcion c": "Alergia leve.",
-      "opcion d": "Alteración de la coagulación."
+      "opcion d": "Irritación por roce."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 92,
@@ -1282,8 +1282,8 @@
     "opciones": {
       "opcion a": "Convulsiones.",
       "opcion b": "Hipotermia.",
-      "opcion c": "Hiperhidratación.",
-      "opcion d": "Diarrea."
+      "opcion c": "Diarrea.",
+      "opcion d": "Hiperhidratación."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -1294,12 +1294,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica polidipsia en un paciente?",
     "opciones": {
-      "opcion a": "Taquipnea.",
+      "opcion a": "Posible diabetes descompensada.",
       "opcion b": "Baja frecuencia cardíaca.",
-      "opcion c": "Déficit vitamínico.",
-      "opcion d": "Posible diabetes descompensada."
+      "opcion c": "Taquipnea.",
+      "opcion d": "Déficit vitamínico."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 94,
@@ -1308,12 +1308,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué hacer ante signos de anafilaxia?",
     "opciones": {
-      "opcion a": "Indicar reposo sin medicación.",
-      "opcion b": "Colocar compresas.",
-      "opcion c": "Dar agua fría.",
-      "opcion d": "Administrar adrenalina IM."
+      "opcion a": "Administrar adrenalina IM.",
+      "opcion b": "Dar agua fría.",
+      "opcion c": "Colocar compresas.",
+      "opcion d": "Indicar reposo sin medicación."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 95,
@@ -1322,12 +1322,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica hipoventilación?",
     "opciones": {
-      "opcion a": "Hidratación excesiva.",
+      "opcion a": "Producción insuficiente de ventilación alveolar.",
       "opcion b": "Aumento exagerado de FR.",
-      "opcion c": "Trastorno digestivo.",
-      "opcion d": "Producción insuficiente de ventilación alveolar."
+      "opcion c": "Hidratación excesiva.",
+      "opcion d": "Trastorno digestivo."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 96,
@@ -1336,12 +1336,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué se recomienda en un paciente con riesgo de broncoaspiración?",
     "opciones": {
-      "opcion a": "Hacerlo hablar mucho durante comidas.",
-      "opcion b": "Mantenerlo recostado boca abajo.",
-      "opcion c": "Administrar alimentos líquidos rápidamente.",
-      "opcion d": "Mantener cabecera elevada."
+      "opcion a": "Mantener cabecera elevada.",
+      "opcion b": "Administrar alimentos líquidos rápidamente.",
+      "opcion c": "Mantenerlo recostado boca abajo.",
+      "opcion d": "Hacerlo hablar mucho durante comidas."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 97,
@@ -1378,12 +1378,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica cianosis periférica?",
     "opciones": {
-      "opcion a": "Digestión lenta.",
-      "opcion b": "Aumento de masa muscular.",
-      "opcion c": "Hiperhidratación.",
-      "opcion d": "Baja oxigenación en extremidades."
+      "opcion a": "Baja oxigenación en extremidades.",
+      "opcion b": "Hiperhidratación.",
+      "opcion c": "Aumento de masa muscular.",
+      "opcion d": "Digestión lenta."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 100,
@@ -1392,11 +1392,11 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es la intervención prioritaria ante un paro cardiorrespiratorio?",
     "opciones": {
-      "opcion a": "Intentar despertarlo durante varios minutos.",
-      "opcion b": "Trasladarlo antes de comenzar maniobras.",
-      "opcion c": "Buscar historia clínica del paciente.",
-      "opcion d": "Iniciar RCP de alta calidad inmediatamente."
+      "opcion a": "Iniciar RCP de alta calidad inmediatamente.",
+      "opcion b": "Buscar historia clínica del paciente.",
+      "opcion c": "Trasladarlo antes de comenzar maniobras.",
+      "opcion d": "Intentar despertarlo durante varios minutos."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   }
 ]

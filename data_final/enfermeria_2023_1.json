@@ -6,8 +6,8 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el primer paso en el proceso de enfermería?",
     "opciones": {
-      "opcion a": "Evaluación.",
-      "opcion b": "Intervención.",
+      "opcion a": "Intervención.",
+      "opcion b": "Evaluación.",
       "opcion c": "Valoración.",
       "opcion d": "Diagnóstico final."
     },
@@ -21,9 +21,9 @@
     "pregunta": "¿Cuál es la temperatura corporal que define fiebre en adultos?",
     "opciones": {
       "opcion a": "≥ 38 °C.",
-      "opcion b": "≥ 37.5 °C al tacto.",
-      "opcion c": "≥ 36.9 °C.",
-      "opcion d": "≥ 37.2 °C."
+      "opcion b": "≥ 36.9 °C.",
+      "opcion c": "≥ 37.2 °C.",
+      "opcion d": "≥ 37.5 °C al tacto."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -34,12 +34,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué elemento es indispensable para garantizar una técnica estéril?",
     "opciones": {
-      "opcion a": "Uso de guantes no estériles.",
-      "opcion b": "Colocación de barbijo solamente.",
-      "opcion c": "Rociado de alcohol en el aire.",
-      "opcion d": "Lavado de manos quirúrgico."
+      "opcion a": "Rociado de alcohol en el aire.",
+      "opcion b": "Uso de guantes no estériles.",
+      "opcion c": "Lavado de manos quirúrgico.",
+      "opcion d": "Colocación de barbijo solamente."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 4,
@@ -48,12 +48,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué músculo es el sitio recomendado para la aplicación de inyecciones intramusculares en menores de 2 años?",
     "opciones": {
-      "opcion a": "Glúteo mayor.",
-      "opcion b": "Trapecio.",
-      "opcion c": "Vasto externo.",
-      "opcion d": "Deltoides."
+      "opcion a": "Vasto externo.",
+      "opcion b": "Deltoides.",
+      "opcion c": "Glúteo mayor.",
+      "opcion d": "Trapecio."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 5,
@@ -63,11 +63,11 @@
     "pregunta": "¿Qué indica una saturación de oxígeno menor al 90%?",
     "opciones": {
       "opcion a": "Falla renal.",
-      "opcion b": "Hipertensión pulmonar.",
+      "opcion b": "Hipoxemia.",
       "opcion c": "Hipotermia.",
-      "opcion d": "Hipoxemia."
+      "opcion d": "Hipertensión pulmonar."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 6,
@@ -76,12 +76,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es la vía más rápida para la administración de medicamentos?",
     "opciones": {
-      "opcion a": "Vía tópica.",
-      "opcion b": "Vía intravenosa.",
-      "opcion c": "Vía intradérmica.",
-      "opcion d": "Vía sublingual."
+      "opcion a": "Vía sublingual.",
+      "opcion b": "Vía intradérmica.",
+      "opcion c": "Vía tópica.",
+      "opcion d": "Vía intravenosa."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 7,
@@ -91,8 +91,8 @@
     "pregunta": "¿Cuál es la posición recomendada ante un paciente inconsciente con respiración conservada?",
     "opciones": {
       "opcion a": "Posición lateral de seguridad.",
-      "opcion b": "Decúbito ventral.",
-      "opcion c": "Trendelemburg.",
+      "opcion b": "Trendelemburg.",
+      "opcion c": "Decúbito ventral.",
       "opcion d": "Fowler alto."
     },
     "respuesta_correcta": "opcion a"
@@ -119,11 +119,11 @@
     "pregunta": "¿Cuál es la presión arterial considerada normal en adultos?",
     "opciones": {
       "opcion a": "160/110 mmHg.",
-      "opcion b": "90/50 mmHg.",
+      "opcion b": "120/80 mmHg.",
       "opcion c": "140/100 mmHg.",
-      "opcion d": "120/80 mmHg."
+      "opcion d": "90/50 mmHg."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 10,
@@ -132,12 +132,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el objetivo principal del triage?",
     "opciones": {
-      "opcion a": "Ordenar por orden de llegada.",
-      "opcion b": "Priorizar la atención según gravedad.",
+      "opcion a": "Priorizar la atención según gravedad.",
+      "opcion b": "Ordenar por orden de llegada.",
       "opcion c": "Clasificar por edad.",
       "opcion d": "Seleccionar quién será internado."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 11,
@@ -146,12 +146,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué se recomienda realizar para la interpretación y uso de las nuevas tablas de referencia de presión arterial para niños, niñas y adolescentes, si no se dispone del mango apropiado para la toma?",
     "opciones": {
-      "opcion a": "Utilizar un mango más grande.",
+      "opcion a": "Inflar el manguito a la mitad para compensar.",
       "opcion b": "Utilizar el mango más pequeño disponible.",
-      "opcion c": "Inflar el manguito a la mitad para compensar.",
+      "opcion c": "Utilizar un mango más grande.",
       "opcion d": "Tomar la presión sin manguito."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 12,
@@ -160,12 +160,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué derechos tiene la persona gestante durante el trabajo de parto, parto y puerperio en cuanto a la persona acompañante?",
     "opciones": {
-      "opcion a": "Puede elegir a la persona que la acompañe todo el tiempo en esos procesos.",
+      "opcion a": "Puede elegir acompañante pero solo durante el trabajo de parto.",
       "opcion b": "Solo puede elegir un familiar de primer grado.",
-      "opcion c": "Debe ser acompañado únicamente por personal sanitario.",
-      "opcion d": "Puede elegir acompañante pero solo durante el trabajo de parto."
+      "opcion c": "Puede elegir a la persona que la acompañe todo el tiempo en esos procesos.",
+      "opcion d": "Debe ser acompañado únicamente por personal sanitario."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 13,
@@ -175,9 +175,9 @@
     "pregunta": "¿Cuáles son los niveles de ansiedad que definió Peplau (1963)?",
     "opciones": {
       "opcion a": "Leve, moderada, grave y pánico.",
-      "opcion b": "Leve, intensa, profunda y terminal.",
-      "opcion c": "Baja, media, aguda y extrema.",
-      "opcion d": "Primaria, secundaria, intermedia y severa."
+      "opcion b": "Primaria, secundaria, intermedia y severa.",
+      "opcion c": "Leve, intensa, profunda y terminal.",
+      "opcion d": "Baja, media, aguda y extrema."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -188,12 +188,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué elementos contempla la Enfermería basada en la evidencia (EBE)?",
     "opciones": {
-      "opcion a": "Evidencia científica, experiencia profesional y la opinión del usuario.",
-      "opcion b": "Evaluación, auditoría y reporte profesional.",
+      "opcion a": "Evaluación, auditoría y reporte profesional.",
+      "opcion b": "Diagnóstico, tratamiento y rehabilitación.",
       "opcion c": "Protocolos institucionales, normas y supervisiones.",
-      "opcion d": "Diagnóstico, tratamiento y rehabilitación."
+      "opcion d": "Evidencia científica, experiencia profesional y la opinión del usuario."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 15,
@@ -202,12 +202,12 @@
     "caso_clínico": "",
     "pregunta": "¿A qué edad comienzan a manifestarse las caries?",
     "opciones": {
-      "opcion a": "Antes del año.",
-      "opcion b": "A partir de los 5 años.",
-      "opcion c": "Entre los 2 y 3 años.",
+      "opcion a": "A partir de los 5 años.",
+      "opcion b": "Entre los 2 y 3 años.",
+      "opcion c": "Antes del año.",
       "opcion d": "Solo cuando salen las muelas definitivas."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 16,
@@ -216,12 +216,12 @@
     "caso_clínico": "",
     "pregunta": "Relación adecuada entre compresiones torácicas y ventilaciones en RCP en mayores de 1 año:",
     "opciones": {
-      "opcion a": "10 compresiones y 3 ventilaciones.",
+      "opcion a": "30 compresiones torácicas seguidas de 2 ventilaciones.",
       "opcion b": "20 compresiones y 5 ventilaciones.",
-      "opcion c": "5 compresiones por cada ventilación.",
-      "opcion d": "30 compresiones torácicas seguidas de 2 ventilaciones."
+      "opcion c": "10 compresiones y 3 ventilaciones.",
+      "opcion d": "5 compresiones por cada ventilación."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 17,
@@ -230,12 +230,12 @@
     "caso_clínico": "",
     "pregunta": "Objetivo principal de la maniobra de Heimlich:",
     "opciones": {
-      "opcion a": "Desobstrucción de la vía aérea.",
-      "opcion b": "Estimular respiración en pacientes con apnea.",
-      "opcion c": "Facilitar la ventilación mecánica.",
-      "opcion d": "Controlar una hemorragia nasal."
+      "opcion a": "Controlar una hemorragia nasal.",
+      "opcion b": "Desobstrucción de la vía aérea.",
+      "opcion c": "Estimular respiración en pacientes con apnea.",
+      "opcion d": "Facilitar la ventilación mecánica."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 18,
@@ -246,10 +246,10 @@
     "opciones": {
       "opcion a": "Cambiar a ventilaciones únicamente.",
       "opcion b": "Detener la RCP a los 10 minutos.",
-      "opcion c": "Continuar realizando RCP hasta conseguir un DEA.",
-      "opcion d": "Administrar agua y esperar asistencia."
+      "opcion c": "Administrar agua y esperar asistencia.",
+      "opcion d": "Continuar realizando RCP hasta conseguir un DEA."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 19,
@@ -272,10 +272,10 @@
     "caso_clínico": "",
     "pregunta": "¿Quiénes llevan a cabo la farmacodinamia?",
     "opciones": {
-      "opcion a": "Enzimas, hormonas y parásitos.",
+      "opcion a": "Vitaminas, minerales y electrolitos.",
       "opcion b": "Células, tejidos u organismos.",
-      "opcion c": "Sustancias ácidas y bacterias.",
-      "opcion d": "Vitaminas, minerales y electrolitos."
+      "opcion c": "Enzimas, hormonas y parásitos.",
+      "opcion d": "Sustancias ácidas y bacterias."
     },
     "respuesta_correcta": "opcion b"
   },
@@ -286,12 +286,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué es la desinfección?",
     "opciones": {
-      "opcion a": "Eliminación de todo microorganismo incluido esporas.",
-      "opcion b": "Uso de calor seco únicamente.",
-      "opcion c": "Eliminación de suciedad visible.",
-      "opcion d": "Proceso físico o químico donde se eliminan microorganismos de objetos inanimados."
+      "opcion a": "Proceso físico o químico donde se eliminan microorganismos de objetos inanimados.",
+      "opcion b": "Eliminación de suciedad visible.",
+      "opcion c": "Uso de calor seco únicamente.",
+      "opcion d": "Eliminación de todo microorganismo incluido esporas."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 22,
@@ -300,9 +300,9 @@
     "caso_clínico": "",
     "pregunta": "Primera medida inicial en hemorragia postparto:",
     "opciones": {
-      "opcion a": "Masajear el útero sin evaluación previa.",
-      "opcion b": "Colocar catéter 24G como primera acción.",
-      "opcion c": "Administrar misoprostol inmediatamente.",
+      "opcion a": "Administrar misoprostol inmediatamente.",
+      "opcion b": "Masajear el útero sin evaluación previa.",
+      "opcion c": "Colocar catéter 24G como primera acción.",
       "opcion d": "Evaluar el estado clínico general."
     },
     "respuesta_correcta": "opcion d"
@@ -370,10 +370,10 @@
     "caso_clínico": "",
     "pregunta": "Volumen corriente (VC):",
     "opciones": {
-      "opcion a": "Volumen residual permanente.",
+      "opcion a": "Volumen que permanece tras espiración forzada (1000 ml).",
       "opcion b": "Aire inspirado en esfuerzo máximo (3000 ml).",
       "opcion c": "Cantidad de aire de unos 500 ml que entra y sale de los pulmones.",
-      "opcion d": "Volumen que permanece tras espiración forzada (1000 ml)."
+      "opcion d": "Volumen residual permanente."
     },
     "respuesta_correcta": "opcion c"
   },
@@ -384,12 +384,12 @@
     "caso_clínico": "",
     "pregunta": "Cultivo que estudia secreciones pulmonares:",
     "opciones": {
-      "opcion a": "Coproparasitario.",
-      "opcion b": "Hemocultivo.",
-      "opcion c": "Cultivo faríngeo.",
-      "opcion d": "Esputo."
+      "opcion a": "Hemocultivo.",
+      "opcion b": "Esputo.",
+      "opcion c": "Coproparasitario.",
+      "opcion d": "Cultivo faríngeo."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 29,
@@ -398,12 +398,12 @@
     "caso_clínico": "",
     "pregunta": "Atributos del cuidado humanizado según Cruz Riveros:",
     "opciones": {
-      "opcion a": "Intervención basada solo en evidencia científica.",
-      "opcion b": "Cuidado técnico sin interacción.",
-      "opcion c": "Priorizar enfermedad sobre persona.",
-      "opcion d": "Ser humano sujeto de cuidado, comunicación y enfoque holístico."
+      "opcion a": "Priorizar enfermedad sobre persona.",
+      "opcion b": "Intervención basada solo en evidencia científica.",
+      "opcion c": "Ser humano sujeto de cuidado, comunicación y enfoque holístico.",
+      "opcion d": "Cuidado técnico sin interacción."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 30,
@@ -412,12 +412,12 @@
     "caso_clínico": "",
     "pregunta": "Datos para evaluación antropométrica:",
     "opciones": {
-      "opcion a": "Peso, talla e IMC.",
-      "opcion b": "Peso, edad y nivel de actividad.",
-      "opcion c": "Perímetro craneal, edad y talla.",
-      "opcion d": "IMC, edad gestacional y sexo."
+      "opcion a": "Peso, edad y nivel de actividad.",
+      "opcion b": "Peso, talla e IMC.",
+      "opcion c": "IMC, edad gestacional y sexo.",
+      "opcion d": "Perímetro craneal, edad y talla."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 31,
@@ -426,12 +426,12 @@
     "caso_clínico": "",
     "pregunta": "Primer punto del algoritmo de paro cardíaco AHA:",
     "opciones": {
-      "opcion a": "Iniciar RCP, administrar oxígeno y conectar monitor/desfibrilador.",
-      "opcion b": "Realizar solo ventilaciones.",
-      "opcion c": "Trasladar al paciente antes de iniciar maniobras.",
-      "opcion d": "Administrar adrenalina inmediatamente."
+      "opcion a": "Trasladar al paciente antes de iniciar maniobras.",
+      "opcion b": "Iniciar RCP, administrar oxígeno y conectar monitor/desfibrilador.",
+      "opcion c": "Administrar adrenalina inmediatamente.",
+      "opcion d": "Realizar solo ventilaciones."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 32,
@@ -440,12 +440,12 @@
     "caso_clínico": "",
     "pregunta": "Osmolaridad recomendada vía periférica:",
     "opciones": {
-      "opcion a": "Exactamente 1000 mOsm/L.",
+      "opcion a": "Menor a 600 mOsm/L.",
       "opcion b": "Mayor de 1500 mOsm/L.",
-      "opcion c": "Entre 800 y 1200 mOsm/L.",
-      "opcion d": "Menor a 600 mOsm/L."
+      "opcion c": "Exactamente 1000 mOsm/L.",
+      "opcion d": "Entre 800 y 1200 mOsm/L."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 33,
@@ -454,12 +454,12 @@
     "caso_clínico": "",
     "pregunta": "Terapia de oxígeno en disnea no hipóxica:",
     "opciones": {
-      "opcion a": "Administrar oxígeno a alto flujo.",
-      "opcion b": "No utilizar oxígeno.",
-      "opcion c": "Utilizar oxígeno cada vez que haya disnea.",
-      "opcion d": "Colocar mascarilla reservorio por precaución."
+      "opcion a": "Colocar mascarilla reservorio por precaución.",
+      "opcion b": "Utilizar oxígeno cada vez que haya disnea.",
+      "opcion c": "Administrar oxígeno a alto flujo.",
+      "opcion d": "No utilizar oxígeno."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 34,
@@ -468,12 +468,12 @@
     "caso_clínico": "",
     "pregunta": "Capacidad ventilatoria: aire que queda tras espiración normal:",
     "opciones": {
-      "opcion a": "Residual funcional.",
-      "opcion b": "Vital.",
-      "opcion c": "Inspiratoria forzada.",
-      "opcion d": "Pulmonar total."
+      "opcion a": "Inspiratoria forzada.",
+      "opcion b": "Pulmonar total.",
+      "opcion c": "Vital.",
+      "opcion d": "Residual funcional."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 35,
@@ -482,12 +482,12 @@
     "caso_clínico": "",
     "pregunta": "Sedación en urgencia de salud mental:",
     "opciones": {
-      "opcion a": "Risperidona y diazepam oral.",
-      "opcion b": "Haloperidol y Lorazepam.",
-      "opcion c": "Clonazepam con morfina.",
-      "opcion d": "Midazolam solo."
+      "opcion a": "Haloperidol y Lorazepam.",
+      "opcion b": "Clonazepam con morfina.",
+      "opcion c": "Midazolam solo.",
+      "opcion d": "Risperidona y diazepam oral."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 36,
@@ -498,8 +498,8 @@
     "opciones": {
       "opcion a": "Llanto de nacimiento.",
       "opcion b": "Exploración motriz.",
-      "opcion c": "Movimiento coordinado.",
-      "opcion d": "Reposo profundo."
+      "opcion c": "Reposo profundo.",
+      "opcion d": "Movimiento coordinado."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -510,12 +510,12 @@
     "caso_clínico": "",
     "pregunta": "Compresiones por minuto en RCP adulto según AHA:",
     "opciones": {
-      "opcion a": "100–120 por minuto.",
-      "opcion b": "60–80 por minuto.",
-      "opcion c": "130–150 por minuto.",
-      "opcion d": "150–180 por minuto."
+      "opcion a": "150–180 por minuto.",
+      "opcion b": "130–150 por minuto.",
+      "opcion c": "60–80 por minuto.",
+      "opcion d": "100–120 por minuto."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 38,
@@ -524,12 +524,12 @@
     "caso_clínico": "",
     "pregunta": "Funciones de enfermería en Atención Primaria:",
     "opciones": {
-      "opcion a": "Dirigir exclusivamente programas.",
-      "opcion b": "Solo asistencial.",
-      "opcion c": "Asistencial, formar, gestionar e investigar.",
-      "opcion d": "Control administrativo sin intervención clínica."
+      "opcion a": "Asistencial, formar, gestionar e investigar.",
+      "opcion b": "Control administrativo sin intervención clínica.",
+      "opcion c": "Dirigir exclusivamente programas.",
+      "opcion d": "Solo asistencial."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 39,
@@ -538,12 +538,12 @@
     "caso_clínico": "",
     "pregunta": "Función principal de los pelos nasales:",
     "opciones": {
-      "opcion a": "Filtrar el aire.",
-      "opcion b": "Humidificar aire.",
-      "opcion c": "Capturar CO₂.",
-      "opcion d": "Regular temperatura interna."
+      "opcion a": "Regular temperatura interna.",
+      "opcion b": "Capturar CO₂.",
+      "opcion c": "Humidificar aire.",
+      "opcion d": "Filtrar el aire."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 40,
@@ -553,9 +553,9 @@
     "pregunta": "¿Qué es la “primera hora de vida”?",
     "opciones": {
       "opcion a": "Adaptación neonatal al medio extrauterino e inicio de lactancia.",
-      "opcion b": "Momento entre alumbramiento y control materno.",
+      "opcion b": "Periodo entre piel a piel y alta hospitalaria.",
       "opcion c": "Tiempo previo al baño del recién nacido.",
-      "opcion d": "Periodo entre piel a piel y alta hospitalaria."
+      "opcion d": "Momento entre alumbramiento y control materno."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -581,11 +581,11 @@
     "pregunta": "Requisitos para plantear correctamente los objetivos de investigación:",
     "opciones": {
       "opcion a": "Formularse sin relación al problema.",
-      "opcion b": "Tener más de 10 líneas mínimas.",
-      "opcion c": "Iniciar con adjetivos y detallar conclusiones.",
-      "opcion d": "Iniciar con verbo infinitivo, ser alcanzable, lógico y coherente."
+      "opcion b": "Iniciar con verbo infinitivo, ser alcanzable, lógico y coherente.",
+      "opcion c": "Tener más de 10 líneas mínimas.",
+      "opcion d": "Iniciar con adjetivos y detallar conclusiones."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 43,
@@ -594,10 +594,10 @@
     "caso_clínico": "",
     "pregunta": "(Inventada para mantener continuidad) ¿Qué representa el pulso pedio?",
     "opciones": {
-      "opcion a": "Oxigenación pulmonar.",
+      "opcion a": "Flujo linfático superficial.",
       "opcion b": "Perfusión arterial distal.",
-      "opcion c": "Flujo linfático superficial.",
-      "opcion d": "Presión venosa central."
+      "opcion c": "Presión venosa central.",
+      "opcion d": "Oxigenación pulmonar."
     },
     "respuesta_correcta": "opcion b"
   },
@@ -608,9 +608,9 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué significa el término \"asepsia\"?",
     "opciones": {
-      "opcion a": "Reducción de agentes químicos.",
-      "opcion b": "Limpieza de superficies visiblemente sucias.",
-      "opcion c": "Eliminación total de esporas.",
+      "opcion a": "Eliminación total de esporas.",
+      "opcion b": "Reducción de agentes químicos.",
+      "opcion c": "Limpieza de superficies visiblemente sucias.",
       "opcion d": "Ausencia de microorganismos patógenos."
     },
     "respuesta_correcta": "opcion d"
@@ -622,9 +622,9 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué indica un GCS (Glasgow) de 8?",
     "opciones": {
-      "opcion a": "Somnolencia leve.",
+      "opcion a": "Confusión leve.",
       "opcion b": "Coma.",
-      "opcion c": "Confusión leve.",
+      "opcion c": "Somnolencia leve.",
       "opcion d": "Estado de alerta."
     },
     "respuesta_correcta": "opcion b"
@@ -636,12 +636,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Cuál es el mejor sitio para medir temperatura axilar?",
     "opciones": {
-      "opcion a": "Sobre la clavícula.",
-      "opcion b": "En la palma de la mano.",
+      "opcion a": "En la palma de la mano.",
+      "opcion b": "Zona central de la axila con brazo aducido.",
       "opcion c": "Sobre la ropa.",
-      "opcion d": "Zona central de la axila con brazo aducido."
+      "opcion d": "Sobre la clavícula."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 47,
@@ -650,12 +650,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué parámetro indica deshidratación moderada?",
     "opciones": {
-      "opcion a": "Llenado capilar > 2 segundos.",
+      "opcion a": "Ruidos intestinales aumentados.",
       "opcion b": "Sudoración excesiva.",
-      "opcion c": "Pulso lleno y fuerte.",
-      "opcion d": "Ruidos intestinales aumentados."
+      "opcion c": "Llenado capilar > 2 segundos.",
+      "opcion d": "Pulso lleno y fuerte."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 48,
@@ -664,12 +664,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué vía se recomienda para administración de adrenalina en anafilaxia?",
     "opciones": {
-      "opcion a": "Intramuscular.",
-      "opcion b": "Tópica.",
-      "opcion c": "Subcutánea.",
+      "opcion a": "Subcutánea.",
+      "opcion b": "Intramuscular.",
+      "opcion c": "Tópica.",
       "opcion d": "Intradérmica."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 49,
@@ -678,9 +678,9 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Cuál es un signo temprano de sepsis?",
     "opciones": {
-      "opcion a": "Hipotermia marcada de entrada.",
-      "opcion b": "Piel fría marmórea inicial.",
-      "opcion c": "Bradicardia.",
+      "opcion a": "Piel fría marmórea inicial.",
+      "opcion b": "Bradicardia.",
+      "opcion c": "Hipotermia marcada de entrada.",
       "opcion d": "Taquicardia."
     },
     "respuesta_correcta": "opcion d"
@@ -693,9 +693,9 @@
     "pregunta": "(Inventada) ¿Qué indica un FR > 30 en adulto?",
     "opciones": {
       "opcion a": "Taquipnea.",
-      "opcion b": "Apenustia.",
-      "opcion c": "Bradipnea.",
-      "opcion d": "Eupnea."
+      "opcion b": "Bradipnea.",
+      "opcion c": "Eupnea.",
+      "opcion d": "Apenustia."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -706,12 +706,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué elemento es fundamental en la técnica de RCP de calidad?",
     "opciones": {
-      "opcion a": "Ventilar más de 20 veces por minuto.",
-      "opcion b": "Permitir la expansión completa del tórax entre compresiones.",
-      "opcion c": "Pausar compresiones para descansar cada 20 segundos.",
-      "opcion d": "Comprimir rápido sin ritmo definido."
+      "opcion a": "Pausar compresiones para descansar cada 20 segundos.",
+      "opcion b": "Comprimir rápido sin ritmo definido.",
+      "opcion c": "Ventilar más de 20 veces por minuto.",
+      "opcion d": "Permitir la expansión completa del tórax entre compresiones."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 52,
@@ -720,12 +720,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Cuándo se debe lavar las manos según OMS?",
     "opciones": {
-      "opcion a": "Solo antes de procedimientos invasivos.",
-      "opcion b": "Antes y después del contacto con el paciente.",
-      "opcion c": "Únicamente al final del turno.",
-      "opcion d": "Solo cuando haya suciedad visible."
+      "opcion a": "Antes y después del contacto con el paciente.",
+      "opcion b": "Únicamente al final del turno.",
+      "opcion c": "Solo cuando haya suciedad visible.",
+      "opcion d": "Solo antes de procedimientos invasivos."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 53,
@@ -734,12 +734,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Cuál es el valor normal de frecuencia cardíaca en adulto?",
     "opciones": {
-      "opcion a": "40–55 lpm.",
+      "opcion a": "110–150 lpm.",
       "opcion b": "20–40 lpm.",
-      "opcion c": "60–100 lpm.",
-      "opcion d": "110–150 lpm."
+      "opcion c": "40–55 lpm.",
+      "opcion d": "60–100 lpm."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 54,
@@ -748,12 +748,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Cuál es la vía recomendada para hidratación en deshidratación leve?",
     "opciones": {
-      "opcion a": "Intratecal.",
-      "opcion b": "Subcutánea.",
-      "opcion c": "Intradérmica.",
-      "opcion d": "Vía oral."
+      "opcion a": "Vía oral.",
+      "opcion b": "Intradérmica.",
+      "opcion c": "Intratecal.",
+      "opcion d": "Subcutánea."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 55,
@@ -762,12 +762,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué indica piel pálida y fría?",
     "opciones": {
-      "opcion a": "Hiperhidratación.",
-      "opcion b": "Fiebre.",
-      "opcion c": "Hipoperfusión.",
-      "opcion d": "Broncoespasmo."
+      "opcion a": "Broncoespasmo.",
+      "opcion b": "Hipoperfusión.",
+      "opcion c": "Hiperhidratación.",
+      "opcion d": "Fiebre."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 56,
@@ -776,12 +776,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) El triage de color rojo indica:",
     "opciones": {
-      "opcion a": "Atención demorable.",
-      "opcion b": "Paciente ambulatorio.",
-      "opcion c": "Baja prioridad.",
-      "opcion d": "Atención inmediata."
+      "opcion a": "Baja prioridad.",
+      "opcion b": "Atención inmediata.",
+      "opcion c": "Paciente ambulatorio.",
+      "opcion d": "Atención demorable."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 57,
@@ -790,9 +790,9 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Cuál es el riesgo principal del reposo prolongado?",
     "opciones": {
-      "opcion a": "Hipoglucemia.",
-      "opcion b": "Hiperhidratación.",
-      "opcion c": "Hipertiroidismo.",
+      "opcion a": "Hiperhidratación.",
+      "opcion b": "Hipertiroidismo.",
+      "opcion c": "Hipoglucemia.",
       "opcion d": "Tromboembolismo venoso."
     },
     "respuesta_correcta": "opcion d"
@@ -806,8 +806,8 @@
     "opciones": {
       "opcion a": "Coma.",
       "opcion b": "Desorientación.",
-      "opcion c": "Letargo.",
-      "opcion d": "Confusión."
+      "opcion c": "Confusión.",
+      "opcion d": "Letargo."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -832,12 +832,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué examen confirma anemia?",
     "opciones": {
-      "opcion a": "Leucocitosis aislada.",
+      "opcion a": "Plaquetas altas.",
       "opcion b": "Sodio elevado.",
-      "opcion c": "Plaquetas altas.",
-      "opcion d": "Hemoglobina baja."
+      "opcion c": "Hemoglobina baja.",
+      "opcion d": "Leucocitosis aislada."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 61,
@@ -846,12 +846,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué posición facilita la respiración en disnea?",
     "opciones": {
-      "opcion a": "Rodillas al pecho.",
-      "opcion b": "Trendelemburg.",
-      "opcion c": "Decúbito prono.",
-      "opcion d": "Fowler."
+      "opcion a": "Fowler.",
+      "opcion b": "Decúbito prono.",
+      "opcion c": "Trendelemburg.",
+      "opcion d": "Rodillas al pecho."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 62,
@@ -860,12 +860,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué indica una presión diferencial muy baja?",
     "opciones": {
-      "opcion a": "Fiebre.",
-      "opcion b": "Hipotiroidismo.",
-      "opcion c": "Shock.",
-      "opcion d": "Hiperkalemia."
+      "opcion a": "Shock.",
+      "opcion b": "Fiebre.",
+      "opcion c": "Hiperkalemia.",
+      "opcion d": "Hipotiroidismo."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 63,
@@ -875,11 +875,11 @@
     "pregunta": "(Inventada) ¿Qué electrolito controla la contracción muscular?",
     "opciones": {
       "opcion a": "Vitamina K.",
-      "opcion b": "Hierro.",
-      "opcion c": "Cloro.",
-      "opcion d": "Calcio."
+      "opcion b": "Calcio.",
+      "opcion c": "Hierro.",
+      "opcion d": "Cloro."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 64,
@@ -888,12 +888,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué significa FR 10 en adulto?",
     "opciones": {
-      "opcion a": "Taquipnea.",
+      "opcion a": "Bradipnea.",
       "opcion b": "Hipopnea severa.",
       "opcion c": "Eupnea.",
-      "opcion d": "Bradipnea."
+      "opcion d": "Taquipnea."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 65,
@@ -902,12 +902,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué hacer ante convulsión?",
     "opciones": {
-      "opcion a": "Colocar objeto en la boca.",
-      "opcion b": "Administrar líquidos por vía oral.",
-      "opcion c": "Sujetar extremidades fuertemente.",
-      "opcion d": "Proteger la cabeza del paciente."
+      "opcion a": "Proteger la cabeza del paciente.",
+      "opcion b": "Sujetar extremidades fuertemente.",
+      "opcion c": "Colocar objeto en la boca.",
+      "opcion d": "Administrar líquidos por vía oral."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 66,
@@ -916,8 +916,8 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué valor de glucemia indica diabetes?",
     "opciones": {
-      "opcion a": "≥ 150 mg/dL postprandial inmediato.",
-      "opcion b": "≥ 110 mg/dL.",
+      "opcion a": "≥ 110 mg/dL.",
+      "opcion b": "≥ 150 mg/dL postprandial inmediato.",
       "opcion c": "≥ 90 mg/dL.",
       "opcion d": "≥ 126 mg/dL en ayunas."
     },
@@ -930,12 +930,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué parámetro evalúa la escala EVA?",
     "opciones": {
-      "opcion a": "Dolor.",
-      "opcion b": "Ansiedad.",
-      "opcion c": "Perfusión.",
-      "opcion d": "Oxigenación."
+      "opcion a": "Ansiedad.",
+      "opcion b": "Oxigenación.",
+      "opcion c": "Dolor.",
+      "opcion d": "Perfusión."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 68,
@@ -944,12 +944,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué indica una FC de 40 lpm en adulto?",
     "opciones": {
-      "opcion a": "Hipertensión arterial.",
-      "opcion b": "Taquicardia.",
+      "opcion a": "Bradicardia.",
+      "opcion b": "Hipertensión arterial.",
       "opcion c": "Hipoxemia.",
-      "opcion d": "Bradicardia."
+      "opcion d": "Taquicardia."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 69,
@@ -958,12 +958,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Cuál es el riesgo de una vía periférica sin control prolongado?",
     "opciones": {
-      "opcion a": "Flebitis.",
-      "opcion b": "Hipocalcemia.",
-      "opcion c": "Hipoglucemia.",
-      "opcion d": "Hipertrofia muscular."
+      "opcion a": "Hipoglucemia.",
+      "opcion b": "Flebitis.",
+      "opcion c": "Hipertrofia muscular.",
+      "opcion d": "Hipocalcemia."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 70,
@@ -974,8 +974,8 @@
     "opciones": {
       "opcion a": "Hipoxemia severa.",
       "opcion b": "Dolor abdominal.",
-      "opcion c": "Cefalea tensional.",
-      "opcion d": "Vómitos aislados."
+      "opcion c": "Vómitos aislados.",
+      "opcion d": "Cefalea tensional."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -986,12 +986,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Cuál es el objetivo principal del control de signos vitales?",
     "opciones": {
-      "opcion a": "Evaluar el estado fisiológico del paciente.",
-      "opcion b": "Diagnosticar enfermedades complejas.",
+      "opcion a": "Diagnosticar enfermedades complejas.",
+      "opcion b": "Evaluar el estado fisiológico del paciente.",
       "opcion c": "Evaluar exclusivamente el estado emocional.",
       "opcion d": "Determinar el tipo de medicación a indicar."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 72,
@@ -1000,12 +1000,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué valor se considera fiebre en un lactante?",
     "opciones": {
-      "opcion a": "36.5 °C timpánica.",
-      "opcion b": "≥ 38 °C rectal.",
-      "opcion c": "37.3 °C inguinal.",
-      "opcion d": "37 °C axilar."
+      "opcion a": "37.3 °C inguinal.",
+      "opcion b": "36.5 °C timpánica.",
+      "opcion c": "37 °C axilar.",
+      "opcion d": "≥ 38 °C rectal."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 73,
@@ -1015,11 +1015,11 @@
     "pregunta": "(Inventada) ¿Cuál es la vía de elección para administrar medicación durante un paro cardíaco?",
     "opciones": {
       "opcion a": "Subcutánea.",
-      "opcion b": "Oral.",
+      "opcion b": "Intravenosa.",
       "opcion c": "Tópica.",
-      "opcion d": "Intravenosa."
+      "opcion d": "Oral."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 74,
@@ -1028,12 +1028,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué complicación puede producir un catéter mal fijado?",
     "opciones": {
-      "opcion a": "Extravasación.",
-      "opcion b": "Hiperglucemia.",
-      "opcion c": "Insuficiencia respiratoria.",
-      "opcion d": "Aumento de temperatura corporal."
+      "opcion a": "Hiperglucemia.",
+      "opcion b": "Aumento de temperatura corporal.",
+      "opcion c": "Extravasación.",
+      "opcion d": "Insuficiencia respiratoria."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 75,
@@ -1056,12 +1056,12 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Qué indica un pulso filiforme?",
     "opciones": {
-      "opcion a": "Perfusión deficiente.",
+      "opcion a": "Sobrehidratación.",
       "opcion b": "Perfusión normal.",
-      "opcion c": "Sobrehidratación.",
+      "opcion c": "Perfusión deficiente.",
       "opcion d": "Hipertiroidismo."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 77,
@@ -1070,8 +1070,8 @@
     "caso_clínico": "",
     "pregunta": "(Inventada) ¿Cuál es la complicación más frecuente del reposo prolongado en cama?",
     "opciones": {
-      "opcion a": "Pancreatitis.",
-      "opcion b": "Miopía.",
+      "opcion a": "Miopía.",
+      "opcion b": "Pancreatitis.",
       "opcion c": "Hepatitis.",
       "opcion d": "Úlceras por presión."
     },
@@ -1085,8 +1085,8 @@
     "pregunta": "Masa ovárica heterogénea con doppler (+). ¿Qué estudio complementario solicitar?",
     "opciones": {
       "opcion a": "Marcadores tumorales.",
-      "opcion b": "TAC de cráneo.",
-      "opcion c": "Radiografía simple de abdomen.",
+      "opcion b": "Radiografía simple de abdomen.",
+      "opcion c": "TAC de cráneo.",
       "opcion d": "Ecografía mamaria."
     },
     "respuesta_correcta": "opcion a"
@@ -1098,12 +1098,12 @@
     "caso_clínico": "",
     "pregunta": "Diseño más adecuado para enfermedad de baja prevalencia y múltiples factores de riesgo:",
     "opciones": {
-      "opcion a": "Estudio de casos y controles.",
+      "opcion a": "Ensayo no controlado.",
       "opcion b": "Estudio poblacional masivo.",
-      "opcion c": "Estudio clínico aleatorio.",
-      "opcion d": "Ensayo no controlado."
+      "opcion c": "Estudio de casos y controles.",
+      "opcion d": "Estudio clínico aleatorio."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 80,
@@ -1112,12 +1112,12 @@
     "caso_clínico": "",
     "pregunta": "Soplo sistólico eyectivo que se atenúa al sentarse en niña de 10 años:",
     "opciones": {
-      "opcion a": "Insuficiencia tricuspídea.",
+      "opcion a": "Soplo funcional.",
       "opcion b": "Estenosis pulmonar.",
       "opcion c": "Comunicación interauricular.",
-      "opcion d": "Soplo funcional."
+      "opcion d": "Insuficiencia tricuspídea."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 81,
@@ -1140,12 +1140,12 @@
     "caso_clínico": "",
     "pregunta": "Gold standard para diagnóstico de cáncer de endometrio:",
     "opciones": {
-      "opcion a": "Resonancia sin contraste.",
+      "opcion a": "Dilatación cervical + legrado biópsico fraccionado con histeroscopia.",
       "opcion b": "Papanicolaou.",
       "opcion c": "Cultivo endometrial.",
-      "opcion d": "Dilatación cervical + legrado biópsico fraccionado con histeroscopia."
+      "opcion d": "Resonancia sin contraste."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 83,
@@ -1154,12 +1154,12 @@
     "caso_clínico": "",
     "pregunta": "Gestante 33 semanas con sangrado rojo oscuro + tono aumentado:",
     "opciones": {
-      "opcion a": "Desprendimiento de placenta normoinserta.",
-      "opcion b": "Pólipo cervical benigno.",
+      "opcion a": "Pólipo cervical benigno.",
+      "opcion b": "Desprendimiento de placenta normoinserta.",
       "opcion c": "Placenta previa.",
       "opcion d": "Hemorroides sangrantes."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 84,
@@ -1168,12 +1168,12 @@
     "caso_clínico": "",
     "pregunta": "Inicio de insulina en diabetes tipo 2:",
     "opciones": {
-      "opcion a": "Por malestar inespecífico.",
-      "opcion b": "Con glucemias normales alteradas.",
-      "opcion c": "Solo por mal control dietario.",
-      "opcion d": "Pérdida de peso no planificada asociada a hiperglucemia."
+      "opcion a": "Con glucemias normales alteradas.",
+      "opcion b": "Pérdida de peso no planificada asociada a hiperglucemia.",
+      "opcion c": "Por malestar inespecífico.",
+      "opcion d": "Solo por mal control dietario."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 85,
@@ -1182,12 +1182,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuándo se debe continuar lactancia?",
     "opciones": {
-      "opcion a": "VIH materno positivo.",
-      "opcion b": "Tuberculosis activa sin tratamiento.",
-      "opcion c": "Infección bacteriana grave del RN.",
-      "opcion d": "Mastitis unilateral."
+      "opcion a": "Mastitis unilateral.",
+      "opcion b": "VIH materno positivo.",
+      "opcion c": "Tuberculosis activa sin tratamiento.",
+      "opcion d": "Infección bacteriana grave del RN."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 86,
@@ -1196,12 +1196,12 @@
     "caso_clínico": "",
     "pregunta": "Epistaxis en pediatría: ¿cuándo pedir laboratorio?",
     "opciones": {
-      "opcion a": "Epistaxis graves o recurrentes sin causa local.",
+      "opcion a": "Si tomó bebidas calientes.",
       "opcion b": "En cualquier primer episodio.",
       "opcion c": "Si hubo llanto intenso previo.",
-      "opcion d": "Si tomó bebidas calientes."
+      "opcion d": "Epistaxis graves o recurrentes sin causa local."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 87,
@@ -1210,12 +1210,12 @@
     "caso_clínico": "",
     "pregunta": "Lactante 15 días con aumento normal de peso, madre cree que tiene hambre:",
     "opciones": {
-      "opcion a": "Evaluar técnica de lactancia y continuar pecho exclusivo.",
-      "opcion b": "Suspender lactancia y dar fórmula.",
+      "opcion a": "Suspender lactancia y dar fórmula.",
+      "opcion b": "Evaluar técnica de lactancia y continuar pecho exclusivo.",
       "opcion c": "Administrar suero glucosado.",
       "opcion d": "Dar agua para “llenar el estómago”."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 88,
@@ -1224,12 +1224,12 @@
     "caso_clínico": "",
     "pregunta": "Adolescente con anemia, blastos y hemorragias:",
     "opciones": {
-      "opcion a": "Alergia medicamentosa.",
+      "opcion a": "Leucemia aguda.",
       "opcion b": "Dengue hemorrágico.",
-      "opcion c": "Leucemia aguda.",
+      "opcion c": "Alergia medicamentosa.",
       "opcion d": "Hipotiroidismo."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 89,
@@ -1239,11 +1239,11 @@
     "pregunta": "Mujer con pérdida brusca de visión + VSG 80 mm/h:",
     "opciones": {
       "opcion a": "Catarata incipiente.",
-      "opcion b": "Retinopatía diabética leve.",
-      "opcion c": "Glaucoma crónico.",
-      "opcion d": "Neuropatía óptica isquémica arterítica."
+      "opcion b": "Glaucoma crónico.",
+      "opcion c": "Neuropatía óptica isquémica arterítica.",
+      "opcion d": "Retinopatía diabética leve."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 90,
@@ -1252,12 +1252,12 @@
     "caso_clínico": "",
     "pregunta": "Primigesta 35 semanas, HTA, enzimas elevadas, proteinuria +++:",
     "opciones": {
-      "opcion a": "Administración exclusiva de hidratación oral.",
-      "opcion b": "Reposo domiciliario.",
-      "opcion c": "Dejar evolucionar sin intervención.",
-      "opcion d": "Tratamiento antihipertensivo, sulfato de Mg e inducción al parto."
+      "opcion a": "Dejar evolucionar sin intervención.",
+      "opcion b": "Administración exclusiva de hidratación oral.",
+      "opcion c": "Tratamiento antihipertensivo, sulfato de Mg e inducción al parto.",
+      "opcion d": "Reposo domiciliario."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 91,
@@ -1266,12 +1266,12 @@
     "caso_clínico": "",
     "pregunta": "Vacunas en control de salud de 18 meses:",
     "opciones": {
-      "opcion a": "Pentavalente, IPV, refuerzo de meningococo, varicela y antigripal.",
-      "opcion b": "Hexavalente y rotavirus.",
-      "opcion c": "Solo antigripal.",
-      "opcion d": "Hepatitis A y triple bacteriana."
+      "opcion a": "Hexavalente y rotavirus.",
+      "opcion b": "Solo antigripal.",
+      "opcion c": "Hepatitis A y triple bacteriana.",
+      "opcion d": "Pentavalente, IPV, refuerzo de meningococo, varicela y antigripal."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 92,
@@ -1282,8 +1282,8 @@
     "opciones": {
       "opcion a": "Por compresión del cordón.",
       "opcion b": "Por encaje cefálico.",
-      "opcion c": "Por hipoxia materna.",
-      "opcion d": "Por contracciones uterinas intensas."
+      "opcion c": "Por contracciones uterinas intensas.",
+      "opcion d": "Por hipoxia materna."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -1322,12 +1322,12 @@
     "caso_clínico": "",
     "pregunta": "¿Para qué se solicita MAPA?",
     "opciones": {
-      "opcion a": "Hipotensión severa.",
+      "opcion a": "Hipertensión de guardapolvo blanco.",
       "opcion b": "Hipoglucemia.",
-      "opcion c": "Hipertensión de guardapolvo blanco.",
+      "opcion c": "Hipotensión severa.",
       "opcion d": "Arritmias."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 96,
@@ -1337,8 +1337,8 @@
     "pregunta": "¿Qué tipo de prevención es la toma de PA?",
     "opciones": {
       "opcion a": "Prevención terciaria.",
-      "opcion b": "Prevención cuaternaria.",
-      "opcion c": "Prevención primordial.",
+      "opcion b": "Prevención primordial.",
+      "opcion c": "Prevención cuaternaria.",
       "opcion d": "Prevención secundaria."
     },
     "respuesta_correcta": "opcion d"
@@ -1351,9 +1351,9 @@
     "pregunta": "Profilaxis por Haemophilus influenzae en guardería:",
     "opciones": {
       "opcion a": "Todos los contactos cercanos menores de 4 años, aunque estén vacunados.",
-      "opcion b": "Solo hermanos convivientes.",
-      "opcion c": "Solo los vacunados.",
-      "opcion d": "Solo los adultos."
+      "opcion b": "Solo los vacunados.",
+      "opcion c": "Solo los adultos.",
+      "opcion d": "Solo hermanos convivientes."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -1364,12 +1364,12 @@
     "caso_clínico": "",
     "pregunta": "Ventaja de estudios de cohorte:",
     "opciones": {
-      "opcion a": "Garantizar 100% de seguimiento.",
-      "opcion b": "Determinar causalidad inmediata.",
-      "opcion c": "Evaluar enfermedades rarísimas.",
-      "opcion d": "Permiten estudiar varios eventos simultáneamente."
+      "opcion a": "Permiten estudiar varios eventos simultáneamente.",
+      "opcion b": "Evaluar enfermedades rarísimas.",
+      "opcion c": "Determinar causalidad inmediata.",
+      "opcion d": "Garantizar 100% de seguimiento."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 99,
@@ -1378,12 +1378,12 @@
     "caso_clínico": "",
     "pregunta": "Niño con fiebre, dolor de cadera, leucocitosis 30.000 y líquido articular:",
     "opciones": {
-      "opcion a": "Artritis séptica.",
-      "opcion b": "Displasia de cadera.",
-      "opcion c": "Traumatismo leve.",
-      "opcion d": "Dolor de crecimiento."
+      "opcion a": "Dolor de crecimiento.",
+      "opcion b": "Traumatismo leve.",
+      "opcion c": "Displasia de cadera.",
+      "opcion d": "Artritis séptica."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 100,
@@ -1392,11 +1392,11 @@
     "caso_clínico": "",
     "pregunta": "Adulto fumador con disnea y tos crónica:",
     "opciones": {
-      "opcion a": "Radiografía de manos.",
-      "opcion b": "Espirometría con prueba post broncodilatador.",
-      "opcion c": "Electrocardiograma únicamente.",
-      "opcion d": "Test de esfuerzo sin evaluación pulmonar."
+      "opcion a": "Espirometría con prueba post broncodilatador.",
+      "opcion b": "Radiografía de manos.",
+      "opcion c": "Test de esfuerzo sin evaluación pulmonar.",
+      "opcion d": "Electrocardiograma únicamente."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   }
 ]

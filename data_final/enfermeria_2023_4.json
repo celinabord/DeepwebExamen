@@ -7,11 +7,11 @@
     "pregunta": "¿Qué indica un aumento súbito de la frecuencia cardíaca en reposo?",
     "opciones": {
       "opcion a": "Bradipnea.",
-      "opcion b": "Hipotermia.",
-      "opcion c": "Taquicardia.",
-      "opcion d": "Desnutrición."
+      "opcion b": "Desnutrición.",
+      "opcion c": "Hipotermia.",
+      "opcion d": "Taquicardia."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 2,
@@ -20,12 +20,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué es la asepsia?",
     "opciones": {
-      "opcion a": "Desinfección del instrumental únicamente.",
-      "opcion b": "Limpieza básica del entorno.",
-      "opcion c": "Conjunto de medidas para evitar la contaminación por microorganismos.",
-      "opcion d": "Uso exclusivo de guantes estériles."
+      "opcion a": "Limpieza básica del entorno.",
+      "opcion b": "Conjunto de medidas para evitar la contaminación por microorganismos.",
+      "opcion c": "Uso exclusivo de guantes estériles.",
+      "opcion d": "Desinfección del instrumental únicamente."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 3,
@@ -34,12 +34,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es un efecto adverso común de los diuréticos?",
     "opciones": {
-      "opcion a": "Hiperglucemia siempre.",
-      "opcion b": "Aumento de peso.",
-      "opcion c": "Hipertensión.",
-      "opcion d": "Hipopotasemia."
+      "opcion a": "Hipertensión.",
+      "opcion b": "Hipopotasemia.",
+      "opcion c": "Hiperglucemia siempre.",
+      "opcion d": "Aumento de peso."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 4,
@@ -48,12 +48,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica cianosis periférica?",
     "opciones": {
-      "opcion a": "Reacción alérgica leve.",
-      "opcion b": "Infección urinaria.",
-      "opcion c": "Disminución de perfusión en extremidades.",
-      "opcion d": "Buena oxigenación."
+      "opcion a": "Buena oxigenación.",
+      "opcion b": "Reacción alérgica leve.",
+      "opcion c": "Infección urinaria.",
+      "opcion d": "Disminución de perfusión en extremidades."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 5,
@@ -62,12 +62,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es la posición recomendada para vómitos?",
     "opciones": {
-      "opcion a": "Decúbito lateral.",
+      "opcion a": "Rodillas al pecho.",
       "opcion b": "Prono.",
-      "opcion c": "Rodillas al pecho.",
+      "opcion c": "Decúbito lateral.",
       "opcion d": "Trendelemburg."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 6,
@@ -77,9 +77,9 @@
     "pregunta": "¿Qué parámetro indica perfusión periférica adecuada?",
     "opciones": {
       "opcion a": "Llenado capilar <2 s.",
-      "opcion b": "Palidez marcada.",
+      "opcion b": "Cianosis leve.",
       "opcion c": "Extremidades frías.",
-      "opcion d": "Cianosis leve."
+      "opcion d": "Palidez marcada."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -90,12 +90,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué es la hipovolemia?",
     "opciones": {
-      "opcion a": "Disminución del volumen sanguíneo circulante.",
-      "opcion b": "Aumento de temperatura.",
-      "opcion c": "Falta de vitaminas.",
-      "opcion d": "Hiperglucemia."
+      "opcion a": "Hiperglucemia.",
+      "opcion b": "Disminución del volumen sanguíneo circulante.",
+      "opcion c": "Aumento de temperatura.",
+      "opcion d": "Falta de vitaminas."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 8,
@@ -105,8 +105,8 @@
     "pregunta": "¿Qué indica un abdomen distendido y doloroso?",
     "opciones": {
       "opcion a": "Hambre.",
-      "opcion b": "Sed.",
-      "opcion c": "Digestión normal.",
+      "opcion b": "Digestión normal.",
+      "opcion c": "Sed.",
       "opcion d": "Posible obstrucción intestinal."
     },
     "respuesta_correcta": "opcion d"
@@ -118,12 +118,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el mejor sitio para inyección subcutánea?",
     "opciones": {
-      "opcion a": "Cuello.",
-      "opcion b": "Región escapular.",
-      "opcion c": "Frente.",
-      "opcion d": "Abdomen."
+      "opcion a": "Región escapular.",
+      "opcion b": "Frente.",
+      "opcion c": "Abdomen.",
+      "opcion d": "Cuello."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 10,
@@ -132,12 +132,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica una presión arterial de 160/100 mmHg?",
     "opciones": {
-      "opcion a": "Hipotensión.",
-      "opcion b": "Normotensión.",
-      "opcion c": "Shock.",
-      "opcion d": "Hipertensión."
+      "opcion a": "Shock.",
+      "opcion b": "Hipertensión.",
+      "opcion c": "Normotensión.",
+      "opcion d": "Hipotensión."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 11,
@@ -146,12 +146,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué es una infección nosocomial?",
     "opciones": {
-      "opcion a": "Infección adquirida dentro del hospital.",
-      "opcion b": "Infección previa al ingreso.",
+      "opcion a": "Trastorno hematológico.",
+      "opcion b": "Infección adquirida dentro del hospital.",
       "opcion c": "Alergia.",
-      "opcion d": "Trastorno hematológico."
+      "opcion d": "Infección previa al ingreso."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 12,
@@ -174,8 +174,8 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un pulso filiforme?",
     "opciones": {
-      "opcion a": "Hipertensión leve.",
-      "opcion b": "Estado de ansiedad.",
+      "opcion a": "Estado de ansiedad.",
+      "opcion b": "Hipertensión leve.",
       "opcion c": "Buena perfusión.",
       "opcion d": "Shock."
     },
@@ -188,12 +188,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué vía es preferida para medicación en emergencia?",
     "opciones": {
-      "opcion a": "Oral.",
-      "opcion b": "Sublingual siempre.",
-      "opcion c": "Intravenosa.",
+      "opcion a": "Intravenosa.",
+      "opcion b": "Oral.",
+      "opcion c": "Sublingual siempre.",
       "opcion d": "Intradérmica."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 15,
@@ -202,12 +202,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es una complicación de los corticoides?",
     "opciones": {
-      "opcion a": "Trombocitosis severa.",
+      "opcion a": "Inmunosupresión.",
       "opcion b": "Anemia.",
-      "opcion c": "Hipotermia.",
-      "opcion d": "Inmunosupresión."
+      "opcion c": "Trombocitosis severa.",
+      "opcion d": "Hipotermia."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 16,
@@ -216,12 +216,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un RN hipotónico?",
     "opciones": {
-      "opcion a": "Hambre.",
-      "opcion b": "Depresión del sistema nervioso central.",
+      "opcion a": "Depresión del sistema nervioso central.",
+      "opcion b": "Hambre.",
       "opcion c": "Exceso de sueño fisiológico.",
       "opcion d": "Buena adaptación neonatal."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 17,
@@ -230,12 +230,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué tipo de guantes requiere un procedimiento estéril?",
     "opciones": {
-      "opcion a": "Guantes domésticos.",
-      "opcion b": "Guantes estériles.",
-      "opcion c": "Sin guantes.",
-      "opcion d": "Guantes de látex rotos."
+      "opcion a": "Guantes estériles.",
+      "opcion b": "Guantes domésticos.",
+      "opcion c": "Guantes de látex rotos.",
+      "opcion d": "Sin guantes."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 18,
@@ -244,9 +244,9 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un hematoma blando en zona de inyección?",
     "opciones": {
-      "opcion a": "Necrosis tisular.",
+      "opcion a": "Buena absorción.",
       "opcion b": "Absceso profundo.",
-      "opcion c": "Buena absorción.",
+      "opcion c": "Necrosis tisular.",
       "opcion d": "Hematoma por punción."
     },
     "respuesta_correcta": "opcion d"
@@ -258,12 +258,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué parámetro indica shock?",
     "opciones": {
-      "opcion a": "Hipotensión y taquicardia.",
-      "opcion b": "Fiebre y vómitos.",
-      "opcion c": "Bradicardia.",
-      "opcion d": "Hiperreflexia."
+      "opcion a": "Hiperreflexia.",
+      "opcion b": "Bradicardia.",
+      "opcion c": "Hipotensión y taquicardia.",
+      "opcion d": "Fiebre y vómitos."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 20,
@@ -273,9 +273,9 @@
     "pregunta": "¿Qué medida previene úlceras por presión?",
     "opciones": {
       "opcion a": "Aumentar sodio en dieta.",
-      "opcion b": "Colocar hielo en zonas de apoyo.",
+      "opcion b": "Evitar mover al paciente.",
       "opcion c": "Cambios posturales cada 2 horas.",
-      "opcion d": "Evitar mover al paciente."
+      "opcion d": "Colocar hielo en zonas de apoyo."
     },
     "respuesta_correcta": "opcion c"
   },
@@ -287,9 +287,9 @@
     "pregunta": "¿Qué indica un paciente con FR de 36 rpm?",
     "opciones": {
       "opcion a": "Taquipnea.",
-      "opcion b": "Bradipnea.",
-      "opcion c": "Apnea parcial.",
-      "opcion d": "Eupnea."
+      "opcion b": "Eupnea.",
+      "opcion c": "Bradipnea.",
+      "opcion d": "Apnea parcial."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -300,12 +300,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué significa “enteral”?",
     "opciones": {
-      "opcion a": "Por inhalación.",
-      "opcion b": "A través de piel.",
-      "opcion c": "A través de vena.",
-      "opcion d": "A través del aparato digestivo."
+      "opcion a": "A través del aparato digestivo.",
+      "opcion b": "A través de vena.",
+      "opcion c": "Por inhalación.",
+      "opcion d": "A través de piel."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 23,
@@ -314,12 +314,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué sugiere un vómito en “posos de café”?",
     "opciones": {
-      "opcion a": "Gastritis sin importancia.",
-      "opcion b": "Reflujo leve.",
-      "opcion c": "Intolerancia a alimentos.",
-      "opcion d": "Sangre digerida."
+      "opcion a": "Sangre digerida.",
+      "opcion b": "Gastritis sin importancia.",
+      "opcion c": "Reflujo leve.",
+      "opcion d": "Intolerancia a alimentos."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 24,
@@ -342,12 +342,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué es un broncoespasmo?",
     "opciones": {
-      "opcion a": "Aumento del volumen cardíaco.",
-      "opcion b": "Infección leve.",
-      "opcion c": "Dilatación pulmonar.",
-      "opcion d": "Contracción de músculos bronquiales."
+      "opcion a": "Contracción de músculos bronquiales.",
+      "opcion b": "Dilatación pulmonar.",
+      "opcion c": "Aumento del volumen cardíaco.",
+      "opcion d": "Infección leve."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 26,
@@ -356,12 +356,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué vía se usa para administrar insulina?",
     "opciones": {
-      "opcion a": "Intravenosa siempre.",
-      "opcion b": "Intradérmica.",
-      "opcion c": "Subcutánea.",
-      "opcion d": "Sublingual."
+      "opcion a": "Sublingual.",
+      "opcion b": "Subcutánea.",
+      "opcion c": "Intradérmica.",
+      "opcion d": "Intravenosa siempre."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 27,
@@ -370,12 +370,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica fiebre y rigidez de nuca?",
     "opciones": {
-      "opcion a": "Meningitis posible.",
-      "opcion b": "Amigdalitis.",
+      "opcion a": "Deshidratación simple.",
+      "opcion b": "Meningitis posible.",
       "opcion c": "Migraña.",
-      "opcion d": "Deshidratación simple."
+      "opcion d": "Amigdalitis."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 28,
@@ -385,11 +385,11 @@
     "pregunta": "¿Cuál es el antídoto de la intoxicación por opioides?",
     "opciones": {
       "opcion a": "Omeprazol.",
-      "opcion b": "Naloxona.",
-      "opcion c": "Suero glucosado.",
-      "opcion d": "Vitamina C."
+      "opcion b": "Suero glucosado.",
+      "opcion c": "Vitamina C.",
+      "opcion d": "Naloxona."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 29,
@@ -398,12 +398,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un aumento de creatinina?",
     "opciones": {
-      "opcion a": "Disfunción renal.",
-      "opcion b": "Infección de piel.",
-      "opcion c": "Anemia.",
-      "opcion d": "Hiperhidratación."
+      "opcion a": "Hiperhidratación.",
+      "opcion b": "Anemia.",
+      "opcion c": "Infección de piel.",
+      "opcion d": "Disfunción renal."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 30,
@@ -412,12 +412,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué significa “polipnea”?",
     "opciones": {
-      "opcion a": "Respiración rápida.",
+      "opcion a": "Ausencia de respiración.",
       "opcion b": "Respiración lenta.",
-      "opcion c": "Ausencia de respiración.",
-      "opcion d": "Respiración ruidosa."
+      "opcion c": "Respiración ruidosa.",
+      "opcion d": "Respiración rápida."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 31,
@@ -426,12 +426,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica dolor torácico opresivo?",
     "opciones": {
-      "opcion a": "Contractura dorsal.",
-      "opcion b": "Posible síndrome coronario.",
-      "opcion c": "Hambre.",
-      "opcion d": "Mala postura."
+      "opcion a": "Posible síndrome coronario.",
+      "opcion b": "Hambre.",
+      "opcion c": "Mala postura.",
+      "opcion d": "Contractura dorsal."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 32,
@@ -440,12 +440,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué es una reacción febril post-transfusional?",
     "opciones": {
-      "opcion a": "Elevación de temperatura tras transfusión.",
-      "opcion b": "Fiebre por neumonía.",
+      "opcion a": "Fiebre por neumonía.",
+      "opcion b": "Fiebre por resfrío.",
       "opcion c": "Fiebre por insolación.",
-      "opcion d": "Fiebre por resfrío."
+      "opcion d": "Elevación de temperatura tras transfusión."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 33,
@@ -455,11 +455,11 @@
     "pregunta": "¿Qué indica un paciente desorientado?",
     "opciones": {
       "opcion a": "Hipervitaminosis.",
-      "opcion b": "Sueño.",
-      "opcion c": "Alteración neurológica aguda.",
-      "opcion d": "Hambre."
+      "opcion b": "Hambre.",
+      "opcion c": "Sueño.",
+      "opcion d": "Alteración neurológica aguda."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 34,
@@ -468,12 +468,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué se controla antes de administrar digoxina?",
     "opciones": {
-      "opcion a": "Temperatura.",
-      "opcion b": "Peso.",
-      "opcion c": "Frecuencia cardíaca.",
-      "opcion d": "Reflejos."
+      "opcion a": "Peso.",
+      "opcion b": "Reflejos.",
+      "opcion c": "Temperatura.",
+      "opcion d": "Frecuencia cardíaca."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 35,
@@ -482,12 +482,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un aumento abrupto de peso en 48 horas?",
     "opciones": {
-      "opcion a": "Masa muscular.",
-      "opcion b": "Crecimiento óseo.",
-      "opcion c": "Obesidad.",
-      "opcion d": "Retención hídrica."
+      "opcion a": "Retención hídrica.",
+      "opcion b": "Obesidad.",
+      "opcion c": "Crecimiento óseo.",
+      "opcion d": "Masa muscular."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 36,
@@ -496,12 +496,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué hace la adrenalina en paro?",
     "opciones": {
-      "opcion a": "Disminuye la FC.",
-      "opcion b": "Baja la presión.",
-      "opcion c": "Cierra vías aéreas.",
-      "opcion d": "Aumenta perfusión coronaria."
+      "opcion a": "Aumenta perfusión coronaria.",
+      "opcion b": "Disminuye la FC.",
+      "opcion c": "Baja la presión.",
+      "opcion d": "Cierra vías aéreas."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 37,
@@ -510,12 +510,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un lactante con llanto débil y piel azulada?",
     "opciones": {
-      "opcion a": "Sueño profundo.",
-      "opcion b": "Somnolencia.",
-      "opcion c": "Hambre.",
-      "opcion d": "Asfixia."
+      "opcion a": "Somnolencia.",
+      "opcion b": "Hambre.",
+      "opcion c": "Asfixia.",
+      "opcion d": "Sueño profundo."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 38,
@@ -524,12 +524,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica hipopotasemia?",
     "opciones": {
-      "opcion a": "Debilidad muscular.",
-      "opcion b": "Fiebre.",
-      "opcion c": "Aumento de apetito.",
-      "opcion d": "Tos."
+      "opcion a": "Tos.",
+      "opcion b": "Aumento de apetito.",
+      "opcion c": "Fiebre.",
+      "opcion d": "Debilidad muscular."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 39,
@@ -538,12 +538,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué causa la deshidratación extrema?",
     "opciones": {
-      "opcion a": "Shock hipovolémico.",
-      "opcion b": "Hipertensión.",
-      "opcion c": "Hiperventilación.",
-      "opcion d": "Bronquitis."
+      "opcion a": "Hipertensión.",
+      "opcion b": "Shock hipovolémico.",
+      "opcion c": "Bronquitis.",
+      "opcion d": "Hiperventilación."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 40,
@@ -552,12 +552,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica sudoración fría y palidez?",
     "opciones": {
-      "opcion a": "Perfusión deficiente.",
-      "opcion b": "Buena circulación.",
+      "opcion a": "Ejercicio reciente.",
+      "opcion b": "Perfusión deficiente.",
       "opcion c": "Tensión emocional leve.",
-      "opcion d": "Ejercicio reciente."
+      "opcion d": "Buena circulación."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 61,
@@ -580,12 +580,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué se controla en un paciente anticoagulado?",
     "opciones": {
-      "opcion a": "Creatina.",
-      "opcion b": "Calcio.",
-      "opcion c": "Glucosa.",
-      "opcion d": "INR."
+      "opcion a": "INR.",
+      "opcion b": "Glucosa.",
+      "opcion c": "Calcio.",
+      "opcion d": "Creatina."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 63,
@@ -594,12 +594,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el objetivo de la vía central?",
     "opciones": {
-      "opcion a": "Reducir la sed.",
+      "opcion a": "Infundir líquidos o fármacos de alta osmolaridad.",
       "opcion b": "Medir glucosa.",
-      "opcion c": "Infundir líquidos o fármacos de alta osmolaridad.",
-      "opcion d": "Administrar oxígeno."
+      "opcion c": "Administrar oxígeno.",
+      "opcion d": "Reducir la sed."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 64,
@@ -608,12 +608,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica una FR de 8 rpm?",
     "opciones": {
-      "opcion a": "Respiración normal.",
-      "opcion b": "Bradipnea.",
-      "opcion c": "Eupnea.",
-      "opcion d": "Taquipnea."
+      "opcion a": "Bradipnea.",
+      "opcion b": "Taquipnea.",
+      "opcion c": "Respiración normal.",
+      "opcion d": "Eupnea."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 65,
@@ -622,12 +622,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un soplo cardíaco?",
     "opciones": {
-      "opcion a": "Turbulencia en el flujo sanguíneo.",
+      "opcion a": "Anemia aguda.",
       "opcion b": "Tos.",
-      "opcion c": "Gastritis.",
-      "opcion d": "Anemia aguda."
+      "opcion c": "Turbulencia en el flujo sanguíneo.",
+      "opcion d": "Gastritis."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 66,
@@ -636,12 +636,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica la piel seca y lengua raspada?",
     "opciones": {
-      "opcion a": "Hiperglucemia.",
-      "opcion b": "Fiebre.",
-      "opcion c": "Deshidratación.",
-      "opcion d": "Hemorragia."
+      "opcion a": "Hemorragia.",
+      "opcion b": "Deshidratación.",
+      "opcion c": "Fiebre.",
+      "opcion d": "Hiperglucemia."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 67,
@@ -650,12 +650,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un aumento de temperatura corporal >40 °C?",
     "opciones": {
-      "opcion a": "Hipotensión.",
-      "opcion b": "Hipertermia grave.",
+      "opcion a": "Hipotermia.",
+      "opcion b": "Hipotensión.",
       "opcion c": "Fiebre leve.",
-      "opcion d": "Hipotermia."
+      "opcion d": "Hipertermia grave."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 68,
@@ -664,12 +664,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica dolor en fosa ilíaca derecha?",
     "opciones": {
-      "opcion a": "Distensión gástrica.",
-      "opcion b": "Cólico renal izquierdo.",
-      "opcion c": "Gastritis.",
-      "opcion d": "Apendicitis posible."
+      "opcion a": "Apendicitis posible.",
+      "opcion b": "Gastritis.",
+      "opcion c": "Distensión gástrica.",
+      "opcion d": "Cólico renal izquierdo."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 69,
@@ -678,12 +678,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica una frecuencia cardíaca irregular?",
     "opciones": {
-      "opcion a": "Estreñimiento.",
+      "opcion a": "Arritmia.",
       "opcion b": "Hiperventilación.",
       "opcion c": "Fiebre.",
-      "opcion d": "Arritmia."
+      "opcion d": "Estreñimiento."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 70,
@@ -692,9 +692,9 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica el enrojecimiento en zona de catéter?",
     "opciones": {
-      "opcion a": "Sensibilidad térmica.",
-      "opcion b": "Buena perfusión.",
-      "opcion c": "Alergia leve.",
+      "opcion a": "Alergia leve.",
+      "opcion b": "Sensibilidad térmica.",
+      "opcion c": "Buena perfusión.",
       "opcion d": "Infección local."
     },
     "respuesta_correcta": "opcion d"
@@ -706,8 +706,8 @@
     "caso_clínico": "",
     "pregunta": "¿Qué es la escala EVA?",
     "opciones": {
-      "opcion a": "Escala nutricional.",
-      "opcion b": "Escala de movilidad.",
+      "opcion a": "Escala de movilidad.",
+      "opcion b": "Escala nutricional.",
       "opcion c": "Escala de sueño.",
       "opcion d": "Escala subjetiva de dolor."
     },
@@ -720,12 +720,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un ECG con ondas ST elevadas?",
     "opciones": {
-      "opcion a": "Infarto agudo de miocardio.",
-      "opcion b": "Infección pulmonar.",
-      "opcion c": "Hipoglucemia.",
+      "opcion a": "Infección pulmonar.",
+      "opcion b": "Hipoglucemia.",
+      "opcion c": "Infarto agudo de miocardio.",
       "opcion d": "Hipotermia."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 73,
@@ -734,12 +734,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué parámetro indica hipoxia?",
     "opciones": {
-      "opcion a": "Piel caliente.",
-      "opcion b": "Frecuencia cardíaca normal.",
-      "opcion c": "Diuresis elevada.",
-      "opcion d": "SpO₂ baja."
+      "opcion a": "SpO₂ baja.",
+      "opcion b": "Diuresis elevada.",
+      "opcion c": "Frecuencia cardíaca normal.",
+      "opcion d": "Piel caliente."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 74,
@@ -749,11 +749,11 @@
     "pregunta": "¿Qué hacer ante convulsión activa?",
     "opciones": {
       "opcion a": "Administrar líquidos por boca.",
-      "opcion b": "Colocar objetos en boca.",
+      "opcion b": "Proteger cabeza y vía aérea.",
       "opcion c": "Sujetar brazos.",
-      "opcion d": "Proteger cabeza y vía aérea."
+      "opcion d": "Colocar objetos en boca."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 75,
@@ -762,12 +762,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica el síndrome febril prolongado?",
     "opciones": {
-      "opcion a": "Estrés.",
-      "opcion b": "Resfrío común.",
-      "opcion c": "Infección o inflamación persistente.",
-      "opcion d": "Hipertensión."
+      "opcion a": "Infección o inflamación persistente.",
+      "opcion b": "Estrés.",
+      "opcion c": "Hipertensión.",
+      "opcion d": "Resfrío común."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 76,
@@ -777,9 +777,9 @@
     "pregunta": "¿Qué es la fiebre neutropénica?",
     "opciones": {
       "opcion a": "Fiebre en paciente con neutrófilos muy bajos.",
-      "opcion b": "Fiebre sin riesgo.",
-      "opcion c": "Fiebre con anemia.",
-      "opcion d": "Fiebre por insolación."
+      "opcion b": "Fiebre con anemia.",
+      "opcion c": "Fiebre por insolación.",
+      "opcion d": "Fiebre sin riesgo."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -790,9 +790,9 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un paciente con disnea, sudoración y ansiedad?",
     "opciones": {
-      "opcion a": "Reflujo.",
-      "opcion b": "Hambre.",
-      "opcion c": "Emoción fuerte.",
+      "opcion a": "Emoción fuerte.",
+      "opcion b": "Reflujo.",
+      "opcion c": "Hambre.",
       "opcion d": "Dificultad respiratoria aguda."
     },
     "respuesta_correcta": "opcion d"
@@ -818,12 +818,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica una glucemia de 300 mg/dL?",
     "opciones": {
-      "opcion a": "Norma.",
-      "opcion b": "Hiperglucemia.",
+      "opcion a": "Hiperglucemia.",
+      "opcion b": "Norma.",
       "opcion c": "Estado estable.",
       "opcion d": "Hipoglucemia."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 80,
@@ -832,12 +832,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un color amarillento de piel?",
     "opciones": {
-      "opcion a": "Fiebre.",
+      "opcion a": "Falta de sueño.",
       "opcion b": "Hipotermia.",
-      "opcion c": "Ictericia.",
-      "opcion d": "Falta de sueño."
+      "opcion c": "Fiebre.",
+      "opcion d": "Ictericia."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 81,
@@ -860,12 +860,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué es la evaluación primaria en urgencias?",
     "opciones": {
-      "opcion a": "Control de temperatura.",
-      "opcion b": "ABC (vía aérea, respiración, circulación).",
-      "opcion c": "Peso, talla, IMC.",
+      "opcion a": "ABC (vía aérea, respiración, circulación).",
+      "opcion b": "Peso, talla, IMC.",
+      "opcion c": "Control de temperatura.",
       "opcion d": "Toma de sangre."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 83,
@@ -874,12 +874,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un aumento de leucocitos?",
     "opciones": {
-      "opcion a": "Insomnio.",
+      "opcion a": "Infección.",
       "opcion b": "Deshidratación.",
       "opcion c": "Dolor muscular.",
-      "opcion d": "Infección."
+      "opcion d": "Insomnio."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 84,
@@ -888,12 +888,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un paciente con respiración ruidosa y secreciones?",
     "opciones": {
-      "opcion a": "Necesidad de aspiración.",
-      "opcion b": "Hipertensión.",
-      "opcion c": "Hambre.",
-      "opcion d": "Fiebre."
+      "opcion a": "Fiebre.",
+      "opcion b": "Necesidad de aspiración.",
+      "opcion c": "Hipertensión.",
+      "opcion d": "Hambre."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 85,
@@ -902,12 +902,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica somnolencia excesiva y pupilas puntiformes?",
     "opciones": {
-      "opcion a": "Deshidratación.",
-      "opcion b": "Golpe de calor.",
-      "opcion c": "Intoxicación por opioides.",
-      "opcion d": "Hiperglucemia."
+      "opcion a": "Golpe de calor.",
+      "opcion b": "Deshidratación.",
+      "opcion c": "Hiperglucemia.",
+      "opcion d": "Intoxicación por opioides."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 86,
@@ -916,12 +916,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué se controla en paciente con heparina?",
     "opciones": {
-      "opcion a": "Ácido úrico.",
-      "opcion b": "Calcio.",
+      "opcion a": "TTPa.",
+      "opcion b": "Ácido úrico.",
       "opcion c": "Hemoglobina fetal.",
-      "opcion d": "TTPa."
+      "opcion d": "Calcio."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 87,
@@ -930,9 +930,9 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un paciente con piel seca y taquicardia?",
     "opciones": {
-      "opcion a": "Hiperglucemia.",
-      "opcion b": "Infección urinaria.",
-      "opcion c": "Hipotermia.",
+      "opcion a": "Infección urinaria.",
+      "opcion b": "Hipotermia.",
+      "opcion c": "Hiperglucemia.",
       "opcion d": "Deshidratación moderada."
     },
     "respuesta_correcta": "opcion d"
@@ -944,12 +944,12 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es el signo de alarma en un traumatismo craneal?",
     "opciones": {
-      "opcion a": "Hipo.",
-      "opcion b": "Voz ronca.",
-      "opcion c": "Hambre.",
-      "opcion d": "Vómitos persistentes."
+      "opcion a": "Vómitos persistentes.",
+      "opcion b": "Hambre.",
+      "opcion c": "Hipo.",
+      "opcion d": "Voz ronca."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 89,
@@ -958,12 +958,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un abdomen silencioso sin ruidos intestinales?",
     "opciones": {
-      "opcion a": "Íleo paralítico.",
-      "opcion b": "Digestión rápida.",
-      "opcion c": "Estreñimiento leve.",
-      "opcion d": "Gas acumulado."
+      "opcion a": "Gas acumulado.",
+      "opcion b": "Estreñimiento leve.",
+      "opcion c": "Digestión rápida.",
+      "opcion d": "Íleo paralítico."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 90,
@@ -972,12 +972,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un pulso rápido e irregular?",
     "opciones": {
-      "opcion a": "Bradicardia.",
-      "opcion b": "ECG normal.",
+      "opcion a": "Fibrilación auricular.",
+      "opcion b": "Bradicardia.",
       "opcion c": "Taquicardia sinusal.",
-      "opcion d": "Fibrilación auricular."
+      "opcion d": "ECG normal."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 91,
@@ -986,12 +986,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un sangrado vaginal abundante?",
     "opciones": {
-      "opcion a": "Hemorragia activa.",
-      "opcion b": "Anemia previa.",
-      "opcion c": "Menstruación normal.",
-      "opcion d": "Estrés."
+      "opcion a": "Menstruación normal.",
+      "opcion b": "Hemorragia activa.",
+      "opcion c": "Estrés.",
+      "opcion d": "Anemia previa."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 92,
@@ -1000,12 +1000,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica una piel muy caliente y seca?",
     "opciones": {
-      "opcion a": "Shock.",
+      "opcion a": "Hipotermia.",
       "opcion b": "Deshidratación leve.",
-      "opcion c": "Hipotermia.",
-      "opcion d": "Golpe de calor."
+      "opcion c": "Golpe de calor.",
+      "opcion d": "Shock."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 93,
@@ -1014,12 +1014,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica dolor súbito en pantorrilla?",
     "opciones": {
-      "opcion a": "Deshidratación.",
-      "opcion b": "Trombosis venosa profunda.",
+      "opcion a": "Trombosis venosa profunda.",
+      "opcion b": "Dolor muscular por ejercicio.",
       "opcion c": "Calambre leve.",
-      "opcion d": "Dolor muscular por ejercicio."
+      "opcion d": "Deshidratación."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 94,
@@ -1028,12 +1028,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica fiebre + tos + disnea?",
     "opciones": {
-      "opcion a": "Reflujo.",
-      "opcion b": "Infección respiratoria.",
-      "opcion c": "Gastritis.",
+      "opcion a": "Infección respiratoria.",
+      "opcion b": "Gastritis.",
+      "opcion c": "Reflujo.",
       "opcion d": "Constipación."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 95,
@@ -1042,10 +1042,10 @@
     "caso_clínico": "",
     "pregunta": "¿Qué requiere un paciente con insuficiencia respiratoria aguda?",
     "opciones": {
-      "opcion a": "Dar comida sólida.",
+      "opcion a": "Aumentar ingesta de agua.",
       "opcion b": "Oxígeno suplementario.",
       "opcion c": "Colocar manta pesada.",
-      "opcion d": "Aumentar ingesta de agua."
+      "opcion d": "Dar comida sólida."
     },
     "respuesta_correcta": "opcion b"
   },
@@ -1056,12 +1056,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un paciente somnoliento y deshidratado?",
     "opciones": {
-      "opcion a": "Gastritis.",
-      "opcion b": "Anemia.",
-      "opcion c": "Hipoglucemia leve.",
-      "opcion d": "Hipovolemia posible."
+      "opcion a": "Hipovolemia posible.",
+      "opcion b": "Hipoglucemia leve.",
+      "opcion c": "Anemia.",
+      "opcion d": "Gastritis."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 97,
@@ -1070,12 +1070,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué es la diuresis normal?",
     "opciones": {
-      "opcion a": "1–2 L/24 h.",
-      "opcion b": "4–5 L.",
-      "opcion c": ">10 L.",
-      "opcion d": "<200 ml."
+      "opcion a": "<200 ml.",
+      "opcion b": ">10 L.",
+      "opcion c": "1–2 L/24 h.",
+      "opcion d": "4–5 L."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 98,
@@ -1085,9 +1085,9 @@
     "pregunta": "¿Qué indica dolor lumbar + disuria + fiebre?",
     "opciones": {
       "opcion a": "Pielonefritis.",
-      "opcion b": "Sinusitis.",
-      "opcion c": "Gastritis.",
-      "opcion d": "Migraña."
+      "opcion b": "Gastritis.",
+      "opcion c": "Migraña.",
+      "opcion d": "Sinusitis."
     },
     "respuesta_correcta": "opcion a"
   },
@@ -1098,12 +1098,12 @@
     "caso_clínico": "",
     "pregunta": "¿Qué indica un paciente inconsciente pero con pulso?",
     "opciones": {
-      "opcion a": "Iniciar soporte vital básico sin RCP.",
-      "opcion b": "Caminarlo.",
-      "opcion c": "Iniciar RCP inmediatamente.",
-      "opcion d": "Dar agua."
+      "opcion a": "Dar agua.",
+      "opcion b": "Iniciar soporte vital básico sin RCP.",
+      "opcion c": "Caminarlo.",
+      "opcion d": "Iniciar RCP inmediatamente."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 100,
@@ -1112,11 +1112,11 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es la prioridad ante un paro cardiorrespiratorio?",
     "opciones": {
-      "opcion a": "RCP inmediata.",
-      "opcion b": "Buscar familiares.",
-      "opcion c": "Administrar alimentos.",
-      "opcion d": "Esperar asistencia sin actuar."
+      "opcion a": "Esperar asistencia sin actuar.",
+      "opcion b": "Administrar alimentos.",
+      "opcion c": "Buscar familiares.",
+      "opcion d": "RCP inmediata."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   }
 ]
