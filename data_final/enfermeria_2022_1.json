@@ -1,15 +1,1401 @@
 [
   {
+    "id": 1,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿En qué situación se utilizan las precauciones estándares?",
+    "opciones": {
+      "opcion a": "Exposición a fluidos corporales visibles",
+      "opcion b": "Control de temperatura en pacientes febriles",
+      "opcion c": "Higiene ambiental de superficies no clínicas",
+      "opcion d": "Supervisión del uso de medicamentos ambulatorios"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
     "id": 2,
     "tema": "Enfermería 2022",
     "año": 2022,
     "caso_clínico": "",
-    "pregunta": "¿Cuáles son los factores de riesgo externos o ambientales?",
+    "pregunta": "Existen dos tipos de factores de riesgo en personas mayores en relación con caídas. ¿Cuáles son los factores de riesgo externos o ambientales?",
     "opciones": {
       "opcion a": "Superficies irregulares, iluminación deficiente y obstáculos domésticos",
       "opcion b": "Pérdida de masa muscular por envejecimiento",
       "opcion c": "Incontinencia urinaria prolongada",
       "opcion d": "Exceso de medicación antihipertensiva"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 3,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Cuál es la asistencia de enfermería en la realización de una pulsioximetría?",
+    "opciones": {
+      "opcion a": "Verificar factores que alteran la lectura (movimiento, mala colocación, uñas postizas)",
+      "opcion b": "Desinfectar la boca del paciente antes de colocar el sensor",
+      "opcion c": "Medir glucemia capilar previa al procedimiento",
+      "opcion d": "Administrar suero fisiológico antes del control"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 4,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Qué refiere la Ley 26.743 sobre identidad de género respecto al derecho al libre desarrollo personal en mayores de 18 años?",
+    "opciones": {
+      "opcion a": "Acceso a intervenciones quirúrgicas y/o tratamientos hormonales integrales",
+      "opcion b": "El derecho exclusivo a recibir apoyo psicológico gratuito",
+      "opcion c": "La prohibición de cirugías de afirmación de género",
+      "opcion d": "Acceso automático a subsidios estatales por identidad autopercibida"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 5,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Qué características poseen las lociones?",
+    "opciones": {
+      "opcion a": "Base acuosa o hidroalcohólica con principio activo en suspensión",
+      "opcion b": "Presentan alta viscosidad similar a las pomadas",
+      "opcion c": "Solo pueden aplicarse mediante gasas estériles",
+      "opcion d": "Mantienen un efecto térmico prolongado sobre la piel"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 6,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Cuál es la vía de administración que permite absorción más rápida de insulina?",
+    "opciones": {
+      "opcion a": "Abdomen",
+      "opcion b": "Región escapular",
+      "opcion c": "Antebrazo",
+      "opcion d": "Región lumbar"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 7,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Según la Ley de Identidad de Género 26.743, ¿qué sala debe asignarse a un paciente trans internado?",
+    "opciones": {
+      "opcion a": "Habitación acorde a su identidad de género autopercibida",
+      "opcion b": "Habitación de aislamiento obligatorio",
+      "opcion c": "Habitación mixta independiente del género",
+      "opcion d": "Sala especialmente designada para personas trans"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 8,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Quién(es) están legitimados para solicitar la historia clínica según Ley 26.529?",
+    "opciones": {
+      "opcion a": "Paciente y representante legal",
+      "opcion b": "Cualquier familiar directo",
+      "opcion c": "Obras sociales sin consentimiento escrito",
+      "opcion d": "Personal administrativo del hospital"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 9,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Cuál es la primera acción según precauciones estándar ante una persona con sangre en el brazo y suero caído?",
+    "opciones": {
+      "opcion a": "Colocar elementos de protección personal",
+      "opcion b": "Retirar la sabana contaminada sin guantes",
+      "opcion c": "Lavar el brazo del paciente inmediatamente",
+      "opcion d": "Verificar signos vitales antes de cualquier otra acción"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 10,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Alteración cutánea fisiológica del RN: pápulas blanquecinas en nariz, frente y mentón.",
+    "opciones": {
+      "opcion a": "Millium",
+      "opcion b": "Dermatitis seborreica temprana",
+      "opcion c": "Eritema por calor",
+      "opcion d": "Acné neonatal tardío"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 11,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Qué es una hipótesis en investigación?",
+    "opciones": {
+      "opcion a": "Explicación tentativa del fenómeno, enunciada como proposición",
+      "opcion b": "Registro inicial de datos estadísticos",
+      "opcion c": "Interpretación de resultados finales",
+      "opcion d": "Supuesto teórico sin relación con el estudio"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 12,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Cuál es la incidencia de fractura de cadera en personas mayores de 65 años después de una caída?",
+    "opciones": {
+      "opcion a": "5%",
+      "opcion b": "18%",
+      "opcion c": "1%",
+      "opcion d": "25%"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 13,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Cuándo estamos ante un trastorno bipolar tipo 1?",
+    "opciones": {
+      "opcion a": "Episodios maníacos con posibilidad de hospitalización",
+      "opcion b": "Episodios mixtos con duración mayor a 48 horas",
+      "opcion c": "Depresión severa sin síntomas maníacos",
+      "opcion d": "Hipomanía breve sin riesgo de internación"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 14,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Estrategia comunicacional para pacientes con trastornos de salud mental:",
+    "opciones": {
+      "opcion a": "Empatía",
+      "opcion b": "Confrontación",
+      "opcion c": "Orden directa",
+      "opcion d": "Diagnóstico inmediato sin diálogo"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 15,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Precaución estándar utilizada en todos los ámbitos ante contacto con paciente:",
+    "opciones": {
+      "opcion a": "Higiene de manos",
+      "opcion b": "Uso obligatorio de camisolín",
+      "opcion c": "Colocación previa de mascarilla N95",
+      "opcion d": "Desinfección del calzado clínico"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 16,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Cuál es el porcentaje de pérdida de peso fisiológica normal en el RN?",
+    "opciones": {
+      "opcion a": "10%",
+      "opcion b": "3%",
+      "opcion c": "18%",
+      "opcion d": "1%"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 17,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Derecho que plantea la Ley Nacional 26.529/2009:",
+    "opciones": {
+      "opcion a": "Trato digno y respetuoso",
+      "opcion b": "Acceso prioritario a medicamentos importados",
+      "opcion c": "Derecho vitalicio a internación",
+      "opcion d": "Exención del consentimiento informado"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 18,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Pruebas para evaluar fuerza muscular en adultos mayores:",
+    "opciones": {
+      "opcion a": "Flexores plantares, extensores y abductores de cadera",
+      "opcion b": "Test de agudeza visual",
+      "opcion c": "Prueba de equilibrio monopodal",
+      "opcion d": "Evaluación táctil de presión superficial"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 19,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Valores normales de TA en embarazo:",
+    "opciones": {
+      "opcion a": "110 ± 12 / 75 ± 7 mmHg",
+      "opcion b": "95 ± 10 / 60 ± 7 mmHg",
+      "opcion c": "130 ± 15 / 85 ± 10 mmHg",
+      "opcion d": "120 ± 8 / 70 ± 12 mmHg"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 20,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Qué es una dosis adicional en la campaña COVID-19?",
+    "opciones": {
+      "opcion a": "Tercera dosis por respuesta inmune inicial insuficiente",
+      "opcion b": "Vacuna reforzada cada 3 meses",
+      "opcion c": "Dosis aplicada solo a mayores de 80 años",
+      "opcion d": "Vacuna especial de alta concentración"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 21,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Prueba recomendada para detección de EPOC",
+    "opciones": {
+      "opcion a": "Espirometría en fumadores/exfumadores con carga ≥ 40 paquetes/año",
+      "opcion b": "Oximetría de pulso en reposo prolongado",
+      "opcion c": "Gasometría por punción venosa",
+      "opcion d": "Radiografía de tórax anual en toda la población"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 22,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Inhibidor fisiológico de la coagulación",
+    "opciones": {
+      "opcion a": "Antitrombina III",
+      "opcion b": "Bilirrubina indirecta",
+      "opcion c": "Hemoglobina reducida",
+      "opcion d": "Plaquetas activadas"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 23,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Lactante de 8 meses con fiebre 72 h y exantema rosado → agente causal",
+    "opciones": {
+      "opcion a": "Herpes virus humano tipo 6",
+      "opcion b": "Coccidioides immitis",
+      "opcion c": "Norovirus pediátrico",
+      "opcion d": "Enterobacter cloacae"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 24,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Hernia inguinal indirecta:",
+    "opciones": {
+      "opcion a": "Entra al conducto inguinal por el orificio inguinal profundo",
+      "opcion b": "Se forma solo por traumatismos",
+      "opcion c": "No atraviesa el canal inguinal",
+      "opcion d": "Se presenta exclusivamente en ancianos"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 25,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Incidencia de RUPTURA PREMATURA DE MEMBRANAS pretérmino",
+    "opciones": {
+      "opcion a": "20–25%",
+      "opcion b": "2–5%",
+      "opcion c": "35–40%",
+      "opcion d": "55–60%"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 26,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Paciente de 80 años con rotación externa y acortamiento del miembro",
+    "opciones": {
+      "opcion a": "Fractura de cadera",
+      "opcion b": "Luxación acromioclavicular",
+      "opcion c": "Rotura del tendón del psoas",
+      "opcion d": "Fractura patelar desviada"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 27,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Patología causa de restricción ventilatoria",
+    "opciones": {
+      "opcion a": "Espondilitis anquilosante",
+      "opcion b": "Asma bronquial recurrente",
+      "opcion c": "Tabaquismo pasivo",
+      "opcion d": "Bronquitis viral aguda"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 28,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Infante 4 años: dolor abdominal, vómitos, glucemia 300 → primera medida",
+    "opciones": {
+      "opcion a": "Bolo de solución salina e infusión de insulina",
+      "opcion b": "Bicarbonato directo sin control",
+      "opcion c": "Metformina endovenosa",
+      "opcion d": "Adrenalina subcutánea"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 29,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Conducta ante embarazo ectópico con shock",
+    "opciones": {
+      "opcion a": "Laparotomía exploradora mediana xifopubiana",
+      "opcion b": "Aspiración manual endouterina",
+      "opcion c": "Tratamiento con metotrexato oral",
+      "opcion d": "Observación ambulatoria por 24 h"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 30,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Componente que origina 75% de cálculos renales",
+    "opciones": {
+      "opcion a": "Oxalato de calcio",
+      "opcion b": "Cloruro de magnesio",
+      "opcion c": "Bicarbonato cálcico",
+      "opcion d": "Fosfato de amonio sin cristalización"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 31,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Alteraciones esperadas en insuficiencia renal crónica",
+    "opciones": {
+      "opcion a": "Anemia, hipocalcemia, hiperfosfatemia",
+      "opcion b": "Policitemia, hiponatremia",
+      "opcion c": "Acidosis respiratoria pura",
+      "opcion d": "Hiperuricemia aislada"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 32,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Insuficiencia cardíaca: síntomas atribuibles a",
+    "opciones": {
+      "opcion a": "Aumento de presiones de llenado intracardiaco",
+      "opcion b": "Disminución de eritropoyetina",
+      "opcion c": "Hiperventilación reactiva",
+      "opcion d": "Vasodilatación sistémica persistente"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 33,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Test GDS",
+    "opciones": {
+      "opcion a": "Escala de depresión geriátrica",
+      "opcion b": "Escala de deterioro psicosocial",
+      "opcion c": "Evaluación de memoria inmediata",
+      "opcion d": "Índice de marcha funcional"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 34,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Insuficiencia cardíaca sistólica",
+    "opciones": {
+      "opcion a": "Contracción ventricular inadecuada",
+      "opcion b": "Hipertrofia concéntrica pura",
+      "opcion c": "Presión venosa central siempre normal",
+      "opcion d": "Gasto cardíaco elevado en reposo"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 35,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Principios de maternidad segura y centrada en familia",
+    "opciones": {
+      "opcion a": "Reconoce a padres, familia, equipo y RN como protagonistas",
+      "opcion b": "Indica separación madre-hijo en sala de partos",
+      "opcion c": "Prioriza intervención médica ante todo",
+      "opcion d": "Propone no permitir acompañante en parto"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 36,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Situación contraindicada para irrigación de colostomía",
+    "opciones": {
+      "opcion a": "Resección abdominoperineal del recto",
+      "opcion b": "Estreñimiento episódico",
+      "opcion c": "Hemorroides internas grado I",
+      "opcion d": "Colitis por antibióticos"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 37,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Qué zona absorbe más rápido la insulina?",
+    "opciones": {
+      "opcion a": "Abdomen",
+      "opcion b": "Cara posterior del brazo",
+      "opcion c": "Músculo glúteo mayor",
+      "opcion d": "Región escapular"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 38,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "RN con tumefacción edematosa que atraviesa línea media",
+    "opciones": {
+      "opcion a": "Caput succedaneum",
+      "opcion b": "Quiste dermoide bilateral",
+      "opcion c": "Hematoma epicraneal tardío",
+      "opcion d": "Fractura lineal temporal"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 39,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Tratamiento en preeclampsia con convulsiones sin vía IV",
+    "opciones": {
+      "opcion a": "Sulfato de magnesio IM 10 g (5 g por glúteo)",
+      "opcion b": "Lidocaína intradérmica",
+      "opcion c": "Adrenalina intramuscular 1 mg",
+      "opcion d": "Furosemida IM en bolo"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 40,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Conducta ante aborto con Rh negativo",
+    "opciones": {
+      "opcion a": "Administrar Ig anti-D independientemente de edad gestacional",
+      "opcion b": "No administrar si hay dolor pélvico",
+      "opcion c": "Aplicar sólo si ecografía muestra saco gestacional",
+      "opcion d": "Administrar siempre doble dosis"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 41,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Protocolo en adolescente de 13 años que solicita MAC de larga duración",
+    "opciones": {
+      "opcion a": "Test de embarazo y colocar implante",
+      "opcion b": "Requiere autorización judicial",
+      "opcion c": "Colocar método luego de estudios hematológicos extensos",
+      "opcion d": "Negar el método por tener menos de 14 años"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 42,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Conducta ante paciente con cáncer avanzado que rechaza tratamiento",
+    "opciones": {
+      "opcion a": "Acompañar decisión + interconsulta a psicología + cuidados paliativos",
+      "opcion b": "Obligar a comunicar diagnóstico a la familia",
+      "opcion c": "Internarlo en psiquiatría para reevaluación",
+      "opcion d": "Imponer tratamiento invasivo por riesgo vital"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 43,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Característica del barbijo quirúrgico",
+    "opciones": {
+      "opcion a": "Descartable y de un solo uso",
+      "opcion b": "Filtra virus al 99% como N95",
+      "opcion c": "Puede hervirse para reutilizar",
+      "opcion d": "Requiere filtro interno recambiable"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 44,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Mecanismos de pérdida de calor en RN",
+    "opciones": {
+      "opcion a": "Conducción, radiación, convección y evaporación",
+      "opcion b": "Dilatación capilar térmica",
+      "opcion c": "Transpiración abundante",
+      "opcion d": "Enfriamiento por succión"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 45,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Vía más usada en reanimación avanzada",
+    "opciones": {
+      "opcion a": "Intravenosa",
+      "opcion b": "Subcutánea",
+      "opcion c": "Intradérmica",
+      "opcion d": "Sistémica oral rápida"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 46,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Finalidad de investigación en enfermería",
+    "opciones": {
+      "opcion a": "Generar conocimientos para la práctica profesional",
+      "opcion b": "Sustituir estudios médicos tradicionales",
+      "opcion c": "Elaborar manuales de gestión administrativa",
+      "opcion d": "Capacitar solo personal directivo"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 47,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "RN de término: semanas",
+    "opciones": {
+      "opcion a": "37–42 semanas",
+      "opcion b": "32–35 semanas",
+      "opcion c": "28–30 semanas",
+      "opcion d": "42–45 semanas"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 48,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Principal complicación tras fractura de cadera",
+    "opciones": {
+      "opcion a": "Afección cardiopulmonar",
+      "opcion b": "Hemorragia digestiva alta",
+      "opcion c": "Falla tiroidea",
+      "opcion d": "Neuropatía periférica simple"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 49,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Ventaja de administración oral",
+    "opciones": {
+      "opcion a": "Absorción segura y económica",
+      "opcion b": "Efecto inmediato en todos los casos",
+      "opcion c": "No pasa por metabolismo hepático",
+      "opcion d": "Dosis siempre iguales sin variación"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 50,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Dolor fantasma",
+    "opciones": {
+      "opcion a": "Síndrome tras amputación",
+      "opcion b": "Dolor por trauma craneano leve",
+      "opcion c": "Dolor tras úlcera de decúbito",
+      "opcion d": "Dolor visceral por estrés"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 51,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Farmacodinamia:",
+    "opciones": {
+      "opcion a": "Interacción de droga con biofase y efectos derivados",
+      "opcion b": "Excreción renal de metabolitos",
+      "opcion c": "Absorción en mucosas digestivas",
+      "opcion d": "Cinética de dosificación horaria"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 52,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Qué debe hacer enfermería antes de administrar betabloqueantes?",
+    "opciones": {
+      "opcion a": "Controlar TA y pulso apical",
+      "opcion b": "Medir temperatura axilar",
+      "opcion c": "Controlar glucemia capilar",
+      "opcion d": "Preguntar si desayunó café"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 53,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Enfermedad yatrogénica",
+    "opciones": {
+      "opcion a": "Enfermedad causada por tratamiento médico",
+      "opcion b": "De origen exclusivamente genético",
+      "opcion c": "Infección por alimentos contaminados",
+      "opcion d": "Trastorno causado por estrés ambiental"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 54,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Drogas agonistas parciales",
+    "opciones": {
+      "opcion a": "Se unen al receptor y desencadenan respuesta biológica",
+      "opcion b": "Bloquean irreversiblemente todos los receptores",
+      "opcion c": "Generan inmunidad activa",
+      "opcion d": "Solo funcionan vía intratecal"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 55,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Acciones inclusivas según Ley de Identidad de Género",
+    "opciones": {
+      "opcion a": "Transformar prácticas, protocolos y procedimientos de atención",
+      "opcion b": "Crear salas exclusivas para personas trans",
+      "opcion c": "Suspender cirugías no urgentes",
+      "opcion d": "Exigir estudios de ADN para identidad"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 56,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Pérdida de calor en RN",
+    "opciones": {
+      "opcion a": "Conducción, radiación, convección y evaporación (correcta real del banco)",
+      "opcion b": "Digestión, oxidación, difusión térmica",
+      "opcion c": "Metabolismo de glucosa y proteínas",
+      "opcion d": "Contracción muscular voluntaria  (seguimos)"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 57,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Uso de barbijo quirúrgico",
+    "opciones": {
+      "opcion a": "Es descartable y de un solo uso",
+      "opcion b": "Sirve como respirador para tuberculosis",
+      "opcion c": "Puede compartirse si está limpio",
+      "opcion d": "Requiere doble capa de algodón interno"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 58,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Mecanismo principal de pérdida de calor en RN",
+    "opciones": {
+      "opcion a": "Evaporación",
+      "opcion b": "Fermentación",
+      "opcion c": "Irradiación sanguínea",
+      "opcion d": "Termólisis central"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 59,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Cuándo administrar medicación intraósea?",
+    "opciones": {
+      "opcion a": "Cuando no se logra vía venosa en reanimación",
+      "opcion b": "En procedimientos ambulatorios",
+      "opcion c": "En vacunación múltiple",
+      "opcion d": "Cuando el paciente está consciente y estable"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 60,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Teoría más aceptada del inicio del parto",
+    "opciones": {
+      "opcion a": "Teoría hormonal: pérdida de equilibrio hormonal",
+      "opcion b": "Impacto mecánico del abdomen",
+      "opcion c": "Elevación de glucosa sérica",
+      "opcion d": "Activación intestinal refleja"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 61,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Cuándo está indicado test de sangre oculta inmunohistoquímica?",
+    "opciones": {
+      "opcion a": "Personas entre 50 y 75 años",
+      "opcion b": "Niños con diarrea",
+      "opcion c": "Mujeres embarazadas con anemia leve",
+      "opcion d": "Pacientes internados por neumonía"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 62,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Mujer en 3er trimestre: cefalea, vómitos, ictericia y convulsiones",
+    "opciones": {
+      "opcion a": "Eclampsia",
+      "opcion b": "Pancreatitis aguda",
+      "opcion c": "Anemia hemolítica",
+      "opcion d": "Hipotiroidismo severo"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 63,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Antecedente cardiovascular mendeliano",
+    "opciones": {
+      "opcion a": "Hiperlipidemia familiar",
+      "opcion b": "Infarto previo",
+      "opcion c": "Tabaquismo pasivo",
+      "opcion d": "Sedentarismo prolongado"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 64,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Meta actual HbA1c en diabéticos",
+    "opciones": {
+      "opcion a": "7%",
+      "opcion b": "4%",
+      "opcion c": "10%",
+      "opcion d": "≤ 12%"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 65,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Tratamiento paliativo tumores irresecables de páncreas",
+    "opciones": {
+      "opcion a": "Hepaticoyeyunoanastomosis + gastroenteroanastomosis",
+      "opcion b": "Pancreatectomía total parcial",
+      "opcion c": "Hepatorrafia selectiva",
+      "opcion d": "Colecistostomía percutánea"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 66,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "RN con lesión blanda que atraviesa línea media",
+    "opciones": {
+      "opcion a": "Caput succedaneum",
+      "opcion b": "Edema postural",
+      "opcion c": "Hematoma occipital",
+      "opcion d": "Quiste epidérmico"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 67,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Dosis de mantenimiento de sulfato de magnesio",
+    "opciones": {
+      "opcion a": "5 g en 500 cc, 21 microg/min",
+      "opcion b": "2 g en bolo rápido",
+      "opcion c": "25 g en solución hipertónica",
+      "opcion d": "1 g SC cada 30 min"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 68,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Cuál es el test para riesgo de caídas?",
+    "opciones": {
+      "opcion a": "Test Timed Up and Go",
+      "opcion b": "Test de Romberg",
+      "opcion c": "Prueba de salto unipodal",
+      "opcion d": "Prueba de resistencia de gemelos"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 69,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Característica barbijo quirúrgico",
+    "opciones": {
+      "opcion a": "Descartable, 1 solo uso",
+      "opcion b": "Reutilizable tras lavado",
+      "opcion c": "Necesita filtro HEPA",
+      "opcion d": "Capta partículas > 0,1 micras"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 70,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Mecanismo de pérdida de calor",
+    "opciones": {
+      "opcion a": "Conducción, radiación, convección y evaporación",
+      "opcion b": "Transpiración voluntaria",
+      "opcion c": "Movimiento muscular",
+      "opcion d": "Ingesta de líquidos fríos"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 71,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Vía de administración en reanimación avanzada",
+    "opciones": {
+      "opcion a": "Intraósea",
+      "opcion b": "Oral rápida",
+      "opcion c": "Dermal",
+      "opcion d": "Rectal"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 72,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Finalidad de investigación en enfermería",
+    "opciones": {
+      "opcion a": "Generar conocimiento para la práctica científica",
+      "opcion b": "solo capacitar auxiliares",
+      "opcion c": "reducir costos de atención",
+      "opcion d": "reemplazar investigación médica"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 73,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Recién nacido de término",
+    "opciones": {
+      "opcion a": "37–42 semanas",
+      "opcion b": "20–30",
+      "opcion c": "35–36",
+      "opcion d": "26–29"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 74,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Complicación por fractura de cadera",
+    "opciones": {
+      "opcion a": "Afección cardiopulmonar",
+      "opcion b": "Hemorragia nasal",
+      "opcion c": "Gastritis aguda",
+      "opcion d": "Apendicitis reactiva"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 75,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Ventaja vía oral",
+    "opciones": {
+      "opcion a": "Absorción segura y económica",
+      "opcion b": "Acción inmediata universal",
+      "opcion c": "Efecto sinérgico garantizado",
+      "opcion d": "Evita primer paso hepático"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 76,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Dolor fantasma",
+    "opciones": {
+      "opcion a": "Síndrome post amputación",
+      "opcion b": "Dolor somático por trauma",
+      "opcion c": "Dolor muscular tardío",
+      "opcion d": "Dolor por neuropatía diabética"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 77,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Farmacodinamia",
+    "opciones": {
+      "opcion a": "Relación droga-efecto",
+      "opcion b": "Eliminación hepática",
+      "opcion c": "Distribución lipídica",
+      "opcion d": "Fijación ósea"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 78,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Medición antes de betabloqueantes",
+    "opciones": {
+      "opcion a": "TA + pulso apical",
+      "opcion b": "Peso",
+      "opcion c": "Frecuencia respiratoria",
+      "opcion d": "Estado pupilar"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 79,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Yatrogenia",
+    "opciones": {
+      "opcion a": "Enfermedad causada por tratamiento médico",
+      "opcion b": "Daño por mala alimentación",
+      "opcion c": "Daño por ejercicio intenso",
+      "opcion d": "Daño por clima seco"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 80,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Agonistas parciales",
+    "opciones": {
+      "opcion a": "Se unen al receptor y activan parcialmente",
+      "opcion b": "Bloquean totalmente",
+      "opcion c": "No generan efecto",
+      "opcion d": "Solo actúan en hígado"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 81,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Lactancia: contacto piel a piel",
+    "opciones": {
+      "opcion a": "Favorecer contacto piel a piel",
+      "opcion b": "Separar RN por 24 h",
+      "opcion c": "Posponer lactancia 12 h",
+      "opcion d": "Usar fórmula inmediatamente"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 82,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Tratamiento inicial pielonefritis por enterococcus",
+    "opciones": {
+      "opcion a": "Ampicilina",
+      "opcion b": "Amikacina",
+      "opcion c": "Ciprofloxacino",
+      "opcion d": "Amoxicilina–ácido clavulánico"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 83,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Antibiótico elección",
+    "opciones": {
+      "opcion a": "Ampicilina",
+      "opcion b": "Imipenem",
+      "opcion c": "Tigeciclina",
+      "opcion d": "Azitromicina"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 84,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Síndrome de Swyer",
+    "opciones": {
+      "opcion a": "Genitales externos femeninos + cariotipo 46,XY",
+      "opcion b": "Masculinos 46,XX",
+      "opcion c": "Femeninos 47,XXX",
+      "opcion d": "Masculinos 47,XYY"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 85,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Deficiencia enzimática que causa anemia hemolítica aguda",
+    "opciones": {
+      "opcion a": "Déficit de G6PD",
+      "opcion b": "Déficit de vitamina K",
+      "opcion c": "Déficit de aldolasa",
+      "opcion d": "Déficit de amilasa"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 86,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Patología con acantocitos",
+    "opciones": {
+      "opcion a": "Abetalipoproteinemia",
+      "opcion b": "Anemia ferropénica",
+      "opcion c": "Megaloblástica leve",
+      "opcion d": "Intoxicación por hierro"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 87,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Marcador pronóstico mieloma múltiple",
+    "opciones": {
+      "opcion a": "Beta 2 microglobulina",
+      "opcion b": "LDH urinaria",
+      "opcion c": "Transferrina",
+      "opcion d": "CPK"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 88,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Variación preanalítica FAL",
+    "opciones": {
+      "opcion a": "Anticonvulsivantes aumentan FAL hepática",
+      "opcion b": "Reposo prolongado disminuye FAL",
+      "opcion c": "Exposición al sol aumenta FAL",
+      "opcion d": "Dieta rica en lácteos normaliza FAL"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 89,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Antibiótico para E. faecalis",
+    "opciones": {
+      "opcion a": "Ampicilina",
+      "opcion b": "Metronidazol",
+      "opcion c": "Vancomicina oral",
+      "opcion d": "Eritromicina"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 90,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Síndrome de Swyer",
+    "opciones": {
+      "opcion a": "46,XY con genitales femeninos",
+      "opcion b": "46,XX masculinos",
+      "opcion c": "47,XXY",
+      "opcion d": "47,XXX"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 91,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Enzimopatía tras ingesta de fármacos",
+    "opciones": {
+      "opcion a": "Déficit G6PD",
+      "opcion b": "Déficit de lipasa",
+      "opcion c": "Déficit de fosfatasa",
+      "opcion d": "Déficit de succinato DH"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 92,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Patología con acantocitos",
+    "opciones": {
+      "opcion a": "Abetalipoproteinemia",
+      "opcion b": "Anemia perinatal",
+      "opcion c": "Talasemia menor",
+      "opcion d": "Hemorragia digestiva"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 93,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Mieloma múltiple: pronóstico",
+    "opciones": {
+      "opcion a": "Beta 2 microglobulina",
+      "opcion b": "Fosfatasa alcalina",
+      "opcion c": "Sodio sérico",
+      "opcion d": "Lipasa"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 94,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Derechos Ley 26.529",
+    "opciones": {
+      "opcion a": "Trato digno",
+      "opcion b": "Recibir medicación gratuita siempre",
+      "opcion c": "Internación indefinida",
+      "opcion d": "Suspensión de consentimiento"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 95,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Evaluación de fuerza en miembros inferiores",
+    "opciones": {
+      "opcion a": "Flexores plantares, extensores de cadera y abductores",
+      "opcion b": "Test de umbral auditivo",
+      "opcion c": "Test de rotación ocular",
+      "opcion d": "Dinamómetro braquial"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 96,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "TA en embarazo",
+    "opciones": {
+      "opcion a": "110/75",
+      "opcion b": "150/95",
+      "opcion c": "90/40",
+      "opcion d": "165/110"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 97,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Dosis adicional COVID",
+    "opciones": {
+      "opcion a": "Tercera dosis por respuesta insuficiente",
+      "opcion b": "Dosis anual estándar",
+      "opcion c": "Dosis pediátrica extra",
+      "opcion d": "Cuarta dosis cada 4 meses"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 98,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Dolor agudo",
+    "opciones": {
+      "opcion a": "Inicio brusco y localizado",
+      "opcion b": "Dolor migratorio sin causa",
+      "opcion c": "Dolor crónico de más de 3 meses",
+      "opcion d": "Dolor psicógeno sin explicación"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 99,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Proceso de investigación",
+    "opciones": {
+      "opcion a": "Genera conocimientos para práctica sanitaria",
+      "opcion b": "Se utiliza solo en hospitales privados",
+      "opcion c": "Es opcional y subjetivo",
+      "opcion d": "No requiere metodología"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 100,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "Clasificación de variables género y grupo sanguíneo",
+    "opciones": {
+      "opcion a": "Ambas nominales",
+      "opcion b": "Género ordinal / grupo sanguíneo nominal",
+      "opcion c": "Género nominal / grupo sanguíneo ordinal",
+      "opcion d": "Ambas ordinales"
     },
     "respuesta_correcta": "opcion a"
   }
