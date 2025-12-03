@@ -1,68 +1,55 @@
-
+{
+  "tema": "Enfermería",
+  "año": 2024,
+  "examen": 4,
+  "preguntas": [
+    {
       "id": 1,
-      "pregunta": "¿Qué es la vía tópica?",
-      "opcion a": "Aplicación del medicamento sobre la piel o mucosas",
-      "opcion b": "Administración del medicamento por boca",
-      "opcion c": "Inyección del medicamento en vena",
-      "opcion d": "Inhalación del medicamento",
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "opcion d": "Es la técnica de administración hospitalaria",
       "respuesta_correcta": "opcion a"
     },
     {
       "id": 2,
-      "pregunta": "¿Cuál es el tratamiento de primera línea en anafilaxia?",
-      "opcion a": "Oxígeno por mascarilla",
-      "opcion b": "Antihistamínicos orales",
-      "opcion c": "Corticoides intravenosos",
-      "opcion d": "Adrenalina (epinefrina) intramuscular",
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Evaluación de resultados",
+      "opcion b": "Diagnóstico médico",
+      "opcion c": "Aplicación del tratamiento",
+      "opcion d": "Valoración del paciente",
       "respuesta_correcta": "opcion d"
     },
     {
       "id": 3,
-      "pregunta": "¿Cuánto dura el lavado de manos clínico?",
-      "opcion a": "40 - 60 segundos",
-      "opcion b": "2 - 3 minutos",
-      "opcion c": "5 - 10 minutos",
-      "opcion d": "10 - 15 segundos",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 4,
-      "pregunta": "¿A qué temperatura se conservan la mayoría de las vacunas?",
-      "opcion a": "0 a +2 °C",
-      "opcion b": "+2 a +8 °C",
-      "opcion c": "+15 a +20 °C",
-      "opcion d": "-20 °C",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 5,
-      "pregunta": "¿Qué es un factor de riesgo?",
-      "opcion a": "Complicación de un tratamiento",
-      "opcion b": "Característica que aumenta la probabilidad de desarrollar una enfermedad",
-      "opcion c": "Causa directa de una enfermedad",
-      "opcion d": "Síntoma inicial de una enfermedad",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 6,
-      "pregunta": "¿Qué es la oliguria?",
-      "opcion a": "Producción excesiva de orina clara",
-      "opcion b": "Ausencia total de orina",
-      "opcion c": "Micción frecuente en pequeñas cantidades",
-      "opcion d": "Producción de orina menor a 400 ml en 24 horas",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 7,
-      "pregunta": "¿Cuál es el orden correcto del lavado de manos clínico?",
-      "opcion a": "Frotar, enjabonar, mojar, secar, enjuagar",
-      "opcion b": "Secar, mojar, enjabonar, enjuagar, frotar",
-      "opcion c": "Mojar, enjabonar, frotar, enjuagar, secar",
-      "opcion d": "Enjabonar, mojar, frotar, secar, enjuagar",
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "38 - 39 °C",
+      "opcion b": "34 - 35.5 °C",
+      "opcion c": "36.5 - 37.5 °C",
+      "opcion d": "35 - 36 °C",
       "respuesta_correcta": "opcion c"
     },
     {
-      "id": 8,
+      "id": 4,
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion b": "Servicio, Observación, Atención, Protocolo",
+      "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
+      "opcion d": "Sistema, Organización, Aplicación, Procedimiento",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "40 - 60 latidos por minuto",
+      "opcion b": "100 - 140 latidos por minuto",
+      "opcion c": "60 - 100 latidos por minuto",
+      "opcion d": "120 - 160 latidos por minuto",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 6,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
       "opcion a": "Valoración del paciente",
       "opcion b": "Aplicación del tratamiento",
@@ -71,538 +58,349 @@
       "respuesta_correcta": "opcion a"
     },
     {
-      "id": 9,
-      "pregunta": "¿Qué es el aislamiento respiratorio?",
-      "opcion a": "Aislamiento de pacientes con ventilación mecánica",
-      "opcion b": "Precauciones para infecciones transmitidas por vía aérea",
-      "opcion c": "Precauciones para infecciones por contacto",
-      "opcion d": "Medidas para pacientes con traqueostomía",
+      "id": 7,
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Evaluación de resultados",
+      "opcion b": "Valoración del paciente",
+      "opcion c": "Aplicación del tratamiento",
+      "opcion d": "Diagnóstico médico",
       "respuesta_correcta": "opcion b"
     },
     {
-      "id": 10,
-      "pregunta": "¿Qué incluye el egreso en el balance hídrico?",
-      "opcion a": "Orina, heces, vómitos, drenajes, sudoración",
-      "opcion b": "Solamente pérdidas insensibles",
-      "opcion c": "Únicamente vómitos y diarrea",
-      "opcion d": "Solo la orina",
+      "id": 8,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "36.5 - 37.5 °C",
+      "opcion b": "34 - 35.5 °C",
+      "opcion c": "35 - 36 °C",
+      "opcion d": "38 - 39 °C",
       "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion b": "Es la técnica de administración hospitalaria",
+      "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Diagnóstico médico",
+      "opcion b": "Aplicación del tratamiento",
+      "opcion c": "Valoración del paciente",
+      "opcion d": "Evaluación de resultados",
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 11,
-      "pregunta": "¿Qué es la sonda nasogástrica?",
-      "opcion a": "Catéter para drenar la vejiga",
-      "opcion b": "Tubo para administrar oxígeno",
-      "opcion c": "Sonda para nutrición parenteral",
-      "opcion d": "Tubo que se introduce por la nariz hasta el estómago",
-      "respuesta_correcta": "opcion d"
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Evaluación de resultados",
+      "opcion b": "Aplicación del tratamiento",
+      "opcion c": "Valoración del paciente",
+      "opcion d": "Diagnóstico médico",
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 12,
-      "pregunta": "¿Cuál es el orden de extracción de tubos en venopunción?",
-      "opcion a": "Hemocultivos, tubos sin aditivo, con coagulante, con EDTA",
-      "opcion b": "Siempre comenzar por tubo con EDTA",
-      "opcion c": "Primero tubos con anticoagulante",
-      "opcion d": "No importa el orden de extracción",
-      "respuesta_correcta": "opcion a"
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion d": "Es la técnica de administración hospitalaria",
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 13,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "34 - 35.5 °C",
+      "opcion b": "38 - 39 °C",
+      "opcion c": "36.5 - 37.5 °C",
+      "opcion d": "35 - 36 °C",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 14,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "60 - 100 latidos por minuto",
+      "opcion b": "100 - 140 latidos por minuto",
+      "opcion c": "40 - 60 latidos por minuto",
+      "opcion d": "120 - 160 latidos por minuto",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 15,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "60 - 100 latidos por minuto",
+      "opcion b": "100 - 140 latidos por minuto",
+      "opcion c": "40 - 60 latidos por minuto",
+      "opcion d": "120 - 160 latidos por minuto",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 16,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "35 - 36 °C",
+      "opcion b": "38 - 39 °C",
+      "opcion c": "36.5 - 37.5 °C",
+      "opcion d": "34 - 35.5 °C",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "38 - 39 °C",
+      "opcion b": "36.5 - 37.5 °C",
+      "opcion c": "35 - 36 °C",
+      "opcion d": "34 - 35.5 °C",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 18,
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Evaluación de resultados",
+      "opcion b": "Valoración del paciente",
+      "opcion c": "Aplicación del tratamiento",
+      "opcion d": "Diagnóstico médico",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 19,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "34 - 35.5 °C",
+      "opcion b": "38 - 39 °C",
+      "opcion c": "36.5 - 37.5 °C",
+      "opcion d": "35 - 36 °C",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 20,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "38 - 39 °C",
+      "opcion b": "34 - 35.5 °C",
+      "opcion c": "35 - 36 °C",
+      "opcion d": "36.5 - 37.5 °C",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 21,
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es la técnica de administración hospitalaria",
+      "opcion b": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 22,
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion b": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion d": "Es la técnica de administración hospitalaria",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 23,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "38 - 39 °C",
+      "opcion b": "34 - 35.5 °C",
+      "opcion c": "35 - 36 °C",
+      "opcion d": "36.5 - 37.5 °C",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 24,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "34 - 35.5 °C",
+      "opcion b": "35 - 36 °C",
+      "opcion c": "38 - 39 °C",
+      "opcion d": "36.5 - 37.5 °C",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 25,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "34 - 35.5 °C",
+      "opcion b": "38 - 39 °C",
+      "opcion c": "36.5 - 37.5 °C",
+      "opcion d": "35 - 36 °C",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 26,
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
+      "opcion c": "Servicio, Observación, Atención, Protocolo",
+      "opcion d": "Sistema, Organización, Aplicación, Procedimiento",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 27,
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "opcion b": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion d": "Es la técnica de administración hospitalaria",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 28,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "34 - 35.5 °C",
+      "opcion b": "35 - 36 °C",
+      "opcion c": "38 - 39 °C",
+      "opcion d": "36.5 - 37.5 °C",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 29,
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion b": "Es la técnica de administración hospitalaria",
+      "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "opcion d": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 30,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
       "opcion a": "100 - 140 latidos por minuto",
-      "opcion b": "40 - 60 latidos por minuto",
+      "opcion b": "120 - 160 latidos por minuto",
+      "opcion c": "60 - 100 latidos por minuto",
+      "opcion d": "40 - 60 latidos por minuto",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 31,
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Evaluación de resultados",
+      "opcion b": "Valoración del paciente",
+      "opcion c": "Aplicación del tratamiento",
+      "opcion d": "Diagnóstico médico",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 32,
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion c": "Es la técnica de administración hospitalaria",
+      "opcion d": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 33,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "34 - 35.5 °C",
+      "opcion b": "36.5 - 37.5 °C",
+      "opcion c": "38 - 39 °C",
+      "opcion d": "35 - 36 °C",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 34,
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es la técnica de administración hospitalaria",
+      "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 35,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "40 - 60 latidos por minuto",
+      "opcion b": "100 - 140 latidos por minuto",
       "opcion c": "60 - 100 latidos por minuto",
       "opcion d": "120 - 160 latidos por minuto",
       "respuesta_correcta": "opcion c"
     },
     {
-      "id": 14,
-      "pregunta": "¿Qué es el consentimiento informado?",
-      "opcion a": "Registro de ingreso al hospital",
-      "opcion b": "Permiso familiar para hospitalización",
-      "opcion c": "Autorización voluntaria del paciente tras recibir información adecuada",
-      "opcion d": "Documento de alta hospitalaria",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 15,
-      "pregunta": "¿Qué es una pandemia?",
-      "opcion a": "Enfermedad rara sin tratamiento",
-      "opcion b": "Epidemia que afecta a varios países o continentes",
-      "opcion c": "Brote localizado de una enfermedad",
-      "opcion d": "Enfermedad endémica de una región",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 16,
-      "pregunta": "¿Cuál es la frecuencia respiratoria normal en adultos?",
-      "opcion a": "8 - 12 respiraciones por minuto",
-      "opcion b": "12 - 20 respiraciones por minuto",
-      "opcion c": "20 - 30 respiraciones por minuto",
-      "opcion d": "25 - 35 respiraciones por minuto",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 17,
-      "pregunta": "¿Qué es el cuidado paliativo?",
-      "opcion a": "Tratamiento curativo de enfermedades crónicas",
-      "opcion b": "Rehabilitación post-quirúrgica",
-      "opcion c": "Atención para mejorar calidad de vida en enfermedades terminales",
-      "opcion d": "Prevención de enfermedades graves",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 18,
-      "pregunta": "¿Qué es la tromboflebitis?",
-      "opcion a": "Vasodilatación venosa excesiva",
-      "opcion b": "Infección bacteriana de la vena",
-      "opcion c": "Ruptura de la pared venosa",
-      "opcion d": "Inflamación de una vena con formación de trombo",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 19,
-      "pregunta": "¿Cuál es el calibre más común de sonda Foley en adultos?",
-      "opcion a": "14 - 16 Fr (French)",
-      "opcion b": "28 - 30 Fr",
-      "opcion c": "6 - 8 Fr",
-      "opcion d": "20 - 24 Fr",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 20,
-      "pregunta": "¿Qué es el secreto profesional?",
-      "opcion a": "Información clasificada del hospital",
-      "opcion b": "Protocolos de medicación",
-      "opcion c": "Obligación de mantener confidencial la información del paciente",
-      "opcion d": "Procedimientos de enfermería",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 21,
-      "pregunta": "¿Qué es la bradicardia?",
-      "opcion a": "Presión arterial baja",
-      "opcion b": "Respiración lenta y profunda",
-      "opcion c": "Frecuencia cardíaca mayor a 100 latidos por minuto",
-      "opcion d": "Frecuencia cardíaca menor a 60 latidos por minuto",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 22,
-      "pregunta": "¿Qué es la saturación de oxígeno normal (SpO2)?",
-      "opcion a": "70% - 80%",
-      "opcion b": "80% - 85%",
-      "opcion c": "85% - 90%",
-      "opcion d": "95% - 100%",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 23,
-      "pregunta": "¿Qué es la poliuria?",
-      "opcion a": "Ausencia de producción de orina",
-      "opcion b": "Micción nocturna frecuente",
-      "opcion c": "Producción excesiva de orina mayor a 2500 ml en 24 horas",
-      "opcion d": "Producción escasa de orina",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 24,
-      "pregunta": "¿Qué es la anestesia?",
-      "opcion a": "Pérdida de la sensibilidad con o sin pérdida de conciencia",
-      "opcion b": "Sedación superficial",
-      "opcion c": "Alivio del dolor sin pérdida de sensibilidad",
-      "opcion d": "Relajación muscular profunda",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 25,
-      "pregunta": "¿Cuál es el flujo de oxígeno con cánula nasal?",
-      "opcion a": "0.5 - 1 litros por minuto",
-      "opcion b": "10 - 15 litros por minuto",
-      "opcion c": "20 - 30 litros por minuto",
-      "opcion d": "1 - 6 litros por minuto",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 26,
-      "pregunta": "¿Qué es la cetoacidosis diabética?",
-      "opcion a": "Daño renal crónico por diabetes",
-      "opcion b": "Infección urinaria en paciente diabético",
-      "opcion c": "Nivel bajo de glucosa por exceso de insulina",
-      "opcion d": "Complicación aguda de la diabetes por deficiencia severa de insulina",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 27,
-      "pregunta": "¿Qué evalúa la escala de Glasgow?",
-      "opcion a": "Apertura ocular, respuesta verbal y respuesta motora",
-      "opcion b": "Orientación, memoria y lenguaje",
-      "opcion c": "Frecuencia cardíaca, respiratoria y presión arterial",
-      "opcion d": "Reflejos, sensibilidad y movilidad",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 28,
-      "pregunta": "¿Qué es la mascarilla de Venturi?",
-      "opcion a": "Dispositivo que administra oxígeno a concentraciones controladas",
-      "opcion b": "Filtro para aire contaminado",
-      "opcion c": "Equipo de ventilación mecánica",
-      "opcion d": "Mascarilla para protección respiratoria",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 29,
-      "pregunta": "¿Qué es la bioseguridad en enfermería?",
-      "opcion a": "Protocolo de administración de medicamentos",
-      "opcion b": "Conjunto de medidas para proteger la salud del personal y pacientes",
-      "opcion c": "Sistema de seguros médicos para enfermeros",
-      "opcion d": "Técnica de esterilización de material quirúrgico",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 30,
-      "pregunta": "¿Qué es la promoción de la salud?",
-      "opcion a": "Rehabilitación de pacientes crónicos",
-      "opcion b": "Tratamiento de enfermedades existentes",
-      "opcion c": "Proceso que permite a las personas mejorar su salud",
-      "opcion d": "Diagnóstico precoz de enfermedades",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 31,
-      "pregunta": "¿Cuál es la frecuencia de compresiones en RCP?",
-      "opcion a": "60-80 por minuto",
-      "opcion b": "100-120 por minuto",
-      "opcion c": "140-160 por minuto",
-      "opcion d": "80-100 por minuto",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 32,
-      "pregunta": "¿Cuáles son las etapas del duelo según Kübler-Ross?",
-      "opcion a": "Negación, ira, negociación, depresión, aceptación",
-      "opcion b": "Shock, llanto, tristeza, recuperación",
-      "opcion c": "Sorpresa, dolor, nostalgia, superación",
-      "opcion d": "Miedo, angustia, resignación, olvido",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 33,
-      "pregunta": "¿Qué ángulo se usa en inyección subcutánea?",
-      "opcion a": "60 grados",
-      "opcion b": "45 grados",
-      "opcion c": "15 grados",
-      "opcion d": "90 grados",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 34,
-      "pregunta": "¿Cuál es la vía de administración más rápida para medicamentos?",
-      "opcion a": "Intramuscular",
-      "opcion b": "Intravenosa",
-      "opcion c": "Subcutánea",
-      "opcion d": "Oral",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 35,
-      "pregunta": "¿Cuál es el volumen normal de diuresis en 24 horas?",
-      "opcion a": "500 - 700 ml",
-      "opcion b": "1000 - 1500 ml",
-      "opcion c": "2500 - 3000 ml",
-      "opcion d": "300 - 500 ml",
-      "respuesta_correcta": "opcion b"
-    },
-    {
       "id": 36,
-      "pregunta": "¿Qué es la anemia?",
-      "opcion a": "Disminución de glóbulos blancos",
-      "opcion b": "Disminución de hemoglobina o glóbulos rojos",
-      "opcion c": "Disminución de factores de coagulación",
-      "opcion d": "Aumento de plaquetas",
-      "respuesta_correcta": "opcion b"
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "60 - 100 latidos por minuto",
+      "opcion b": "120 - 160 latidos por minuto",
+      "opcion c": "40 - 60 latidos por minuto",
+      "opcion d": "100 - 140 latidos por minuto",
+      "respuesta_correcta": "opcion a"
     },
     {
       "id": 37,
-      "pregunta": "¿Qué es una úlcera por presión?",
-      "opcion a": "Quemadura por exposición solar",
-      "opcion b": "Lesión de la piel por presión prolongada sobre prominencias óseas",
-      "opcion c": "Lesión traumática con pérdida de tejido",
-      "opcion d": "Herida quirúrgica infectada",
-      "respuesta_correcta": "opcion b"
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "36.5 - 37.5 °C",
+      "opcion b": "38 - 39 °C",
+      "opcion c": "34 - 35.5 °C",
+      "opcion d": "35 - 36 °C",
+      "respuesta_correcta": "opcion a"
     },
     {
       "id": 38,
-      "pregunta": "¿Qué es la posición de decúbito lateral?",
-      "opcion a": "Paciente sentado",
-      "opcion b": "Paciente boca arriba",
-      "opcion c": "Paciente acostado de lado",
-      "opcion d": "Paciente boca abajo",
-      "respuesta_correcta": "opcion c"
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "60 - 100 latidos por minuto",
+      "opcion b": "120 - 160 latidos por minuto",
+      "opcion c": "40 - 60 latidos por minuto",
+      "opcion d": "100 - 140 latidos por minuto",
+      "respuesta_correcta": "opcion a"
     },
     {
       "id": 39,
-      "pregunta": "¿Qué es la aspiración de secreciones?",
-      "opcion a": "Drenaje postural del paciente",
-      "opcion b": "Técnica de fisioterapia respiratoria",
-      "opcion c": "Procedimiento para eliminar secreciones de las vías respiratorias",
-      "opcion d": "Administración de mucolíticos nebulizados",
-      "respuesta_correcta": "opcion c"
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "60 - 100 latidos por minuto",
+      "opcion b": "40 - 60 latidos por minuto",
+      "opcion c": "120 - 160 latidos por minuto",
+      "opcion d": "100 - 140 latidos por minuto",
+      "respuesta_correcta": "opcion a"
     },
     {
       "id": 40,
-      "pregunta": "¿Qué son los 5 correctos en administración de medicamentos?",
-      "opcion a": "Paciente, medicamento, dosis, vía, hora correctos",
-      "opcion b": "Fecha, lugar, médico, enfermera, testigo",
-      "opcion c": "Nombre, apellido, edad, peso, altura",
-      "opcion d": "Hospital, sala, cama, turno, registro",
-      "respuesta_correcta": "opcion a"
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion b": "Es la técnica de administración hospitalaria",
+      "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 41,
-      "pregunta": "¿Qué es la hemostasia?",
-      "opcion a": "Proceso de detención de una hemorragia",
-      "opcion b": "Regulación de la temperatura corporal",
-      "opcion c": "Equilibrio de líquidos corporales",
-      "opcion d": "Mantenimiento del pH sanguíneo",
-      "respuesta_correcta": "opcion a"
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es la técnica de administración hospitalaria",
+      "opcion b": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 42,
-      "pregunta": "¿Qué es la escala de Glasgow?",
-      "opcion a": "Escala de evaluación nutricional",
-      "opcion b": "Escala para evaluar el nivel de conciencia",
-      "opcion c": "Escala de riesgo de caídas",
-      "opcion d": "Escala para medir el dolor",
-      "respuesta_correcta": "opcion b"
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "40 - 60 latidos por minuto",
+      "opcion b": "120 - 160 latidos por minuto",
+      "opcion c": "100 - 140 latidos por minuto",
+      "opcion d": "60 - 100 latidos por minuto",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 43,
-      "pregunta": "¿Qué es la vía sublingual?",
-      "opcion a": "Colocación del medicamento en la mejilla",
-      "opcion b": "Aplicación del medicamento en las encías",
-      "opcion c": "Administración del medicamento con agua",
-      "opcion d": "Colocación del medicamento debajo de la lengua",
-      "respuesta_correcta": "opcion d"
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "opcion b": "Es la técnica de administración hospitalaria",
+      "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion d": "Es el estudio exclusivo de enfermedades infecciosas",
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 44,
-      "pregunta": "¿Cuál es el ángulo correcto para inyección intramuscular?",
-      "opcion a": "90 grados",
-      "opcion b": "30 grados",
-      "opcion c": "45 grados",
-      "opcion d": "15 grados",
-      "respuesta_correcta": "opcion a"
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "34 - 35.5 °C",
+      "opcion b": "38 - 39 °C",
+      "opcion c": "35 - 36 °C",
+      "opcion d": "36.5 - 37.5 °C",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 45,
-      "pregunta": "¿Qué es el aislamiento de contacto?",
-      "opcion a": "Precauciones para infecciones transmitidas por contacto directo o indirecto",
-      "opcion b": "Precauciones para tuberculosis",
-      "opcion c": "Medidas para infecciones por gotas",
-      "opcion d": "Aislamiento para enfermedades respiratorias",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 46,
-      "pregunta": "¿Qué es la técnica aséptica?",
-      "opcion a": "Protocolo de aislamiento respiratorio",
-      "opcion b": "Técnica de sutura quirúrgica",
-      "opcion c": "Método de esterilización química de instrumentos",
-      "opcion d": "Conjunto de procedimientos para evitar la contaminación con microorganismos",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 47,
-      "pregunta": "¿Qué es el calendario de vacunación?",
-      "opcion a": "Esquema que indica qué vacunas aplicar según edad",
-      "opcion b": "Horario de atención del vacunatorio",
-      "opcion c": "Registro de pacientes vacunados",
-      "opcion d": "Lista de vacunas disponibles",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 48,
-      "pregunta": "¿Qué es la flebitis?",
-      "opcion a": "Infección de una arteria",
-      "opcion b": "Inflamación de una vena",
-      "opcion c": "Obstrucción de un vaso linfático",
-      "opcion d": "Ruptura de un capilar",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 49,
-      "pregunta": "¿Qué es la oxigenoterapia?",
-      "opcion a": "Fisioterapia pulmonar",
-      "opcion b": "Terapia respiratoria con vapor de agua",
-      "opcion c": "Administración de oxígeno suplementario para tratar hipoxemia",
-      "opcion d": "Administración de broncodilatadores nebulizados",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 50,
-      "pregunta": "¿Qué es la ética en enfermería?",
-      "opcion a": "Reglamento interno del hospital",
-      "opcion b": "Normas de bioseguridad",
-      "opcion c": "Leyes que regulan la profesión",
-      "opcion d": "Conjunto de principios morales que guían la práctica profesional",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 51,
-      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "36.5 - 37.5 °C",
-      "opcion b": "35 - 36 °C",
-      "opcion c": "34 - 35.5 °C",
-      "opcion d": "38 - 39 °C",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 52,
-      "pregunta": "¿Cuál es el sitio correcto para tomar el pulso carotídeo?",
-      "opcion a": "En la región submandibular",
-      "opcion b": "Lateral del cuello, entre la tráquea y el músculo esternocleidomastoideo",
-      "opcion c": "En la parte posterior del cuello",
-      "opcion d": "En la región temporal de la frente",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 53,
-      "pregunta": "¿Qué es la trombocitopenia?",
-      "opcion a": "Disminución del número de plaquetas",
-      "opcion b": "Aumento de factores de coagulación",
-      "opcion c": "Aumento de glóbulos rojos",
-      "opcion d": "Disminución de leucocitos",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 54,
-      "pregunta": "¿Qué es la vía parenteral?",
-      "opcion a": "Administración por inhalación",
-      "opcion b": "Administración por vía oral",
-      "opcion c": "Administración de medicamentos por inyección",
-      "opcion d": "Aplicación sobre la piel",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 55,
-      "pregunta": "¿Cuál es el puntaje máximo en la escala de Glasgow?",
-      "opcion a": "10 puntos",
-      "opcion b": "20 puntos",
-      "opcion c": "15 puntos",
-      "opcion d": "12 puntos",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 56,
-      "pregunta": "¿Cuál es la profundidad de compresiones en RCP adulto?",
-      "opcion a": "1-2 cm",
-      "opcion b": "5-6 cm",
-      "opcion c": "2-3 cm",
-      "opcion d": "8-10 cm",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 57,
-      "pregunta": "¿Qué es la disnea?",
-      "opcion a": "Dificultad para respirar",
-      "opcion b": "Tos persistente",
-      "opcion c": "Dolor en el pecho",
-      "opcion d": "Aumento de la frecuencia cardíaca",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 58,
-      "pregunta": "¿Qué es el shock hipovolémico?",
-      "opcion a": "Reacción alérgica grave con colapso cardiovascular",
-      "opcion b": "Obstrucción del flujo sanguíneo por émbolo",
-      "opcion c": "Estado de hipoperfusión tisular por pérdida de volumen sanguíneo",
-      "opcion d": "Infección generalizada con falla multiorgánica",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 59,
-      "pregunta": "¿Cuáles son los signos de flebitis?",
-      "opcion a": "Palidez, frialdad, ausencia de pulso",
-      "opcion b": "Prurito, descamación, sequedad",
-      "opcion c": "Dolor, enrojecimiento, calor, induración en el trayecto venoso",
-      "opcion d": "Cianosis, edema, dolor intenso",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 60,
-      "pregunta": "¿Cuáles son las vías parenterales?",
-      "opcion a": "Oral, sublingual, rectal",
-      "opcion b": "Nasal, inhalatoria, transdérmica",
-      "opcion c": "Tópica, oftálmica, ótica",
-      "opcion d": "Intravenosa, intramuscular, subcutánea, intradérmica",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 61,
-      "pregunta": "¿Qué es el triaje o triage?",
-      "opcion a": "Clasificación de pacientes según gravedad y prioridad",
-      "opcion b": "Alta de pacientes hospitalizados",
-      "opcion c": "Derivación de pacientes a especialistas",
-      "opcion d": "Registro de pacientes en admisión",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 62,
-      "pregunta": "¿Qué es la sonda vesical o Foley?",
-      "opcion a": "Tubo para alimentación gástrica",
-      "opcion b": "Catéter para administrar medicamentos",
-      "opcion c": "Catéter que se introduce en la vejiga para drenar orina",
-      "opcion d": "Sonda para aspiración de secreciones",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 63,
-      "pregunta": "¿Qué es la cianosis?",
-      "opcion a": "Coloración azulada de piel y mucosas por falta de oxígeno",
-      "opcion b": "Enrojecimiento de la piel por inflamación",
-      "opcion c": "Coloración amarillenta por exceso de bilirrubina",
-      "opcion d": "Palidez extrema por pérdida de sangre",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 64,
-      "pregunta": "¿Qué es la epidemiología?",
-      "opcion a": "Tratamiento de enfermedades infecciosas",
-      "opcion b": "Prevención de enfermedades crónicas",
-      "opcion c": "Estudio de la distribución y determinantes de enfermedades en poblaciones",
-      "opcion d": "Estudio de epidemias únicamente",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 65,
-      "pregunta": "¿Qué es la maniobra de Heimlich?",
-      "opcion a": "Maniobra para controlar hemorragias",
-      "opcion b": "Método de inmovilización cervical",
-      "opcion c": "Técnica de ventilación artificial",
-      "opcion d": "Técnica para desobstruir vía aérea por cuerpo extraño",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 66,
-      "pregunta": "¿Qué es el shock séptico?",
-      "opcion a": "Sepsis con hipotensión persistente que requiere vasopresores",
-      "opcion b": "Infección generalizada sin compromiso hemodinámico",
-      "opcion c": "Fiebre alta con escalofríos",
-      "opcion d": "Infección resistente a antibióticos",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 67,
-      "pregunta": "¿Qué es la prevención primaria?",
-      "opcion a": "Medidas para evitar la aparición de enfermedades",
-      "opcion b": "Tratamiento de enfermedades establecidas",
-      "opcion c": "Diagnóstico precoz de enfermedades",
-      "opcion d": "Prevención de complicaciones",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 68,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
       "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
       "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
@@ -611,25 +409,178 @@
       "respuesta_correcta": "opcion a"
     },
     {
-      "id": 69,
-      "pregunta": "¿Qué es una vacuna?",
-      "opcion a": "Preparación biológica que proporciona inmunidad contra una enfermedad",
-      "opcion b": "Suero con anticuerpos preformados",
-      "opcion c": "Medicamento para tratar infecciones",
-      "opcion d": "Antibiótico de amplio espectro",
+      "id": 46,
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion b": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion d": "Es la técnica de administración hospitalaria",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 47,
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Servicio, Observación, Atención, Protocolo",
+      "opcion b": "Sistema, Organización, Aplicación, Procedimiento",
+      "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
+      "opcion d": "Subjetivo, Objetivo, Análisis, Plan",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 48,
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion b": "Es la técnica de administración hospitalaria",
+      "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "opcion d": "Es el estudio exclusivo de enfermedades infecciosas",
       "respuesta_correcta": "opcion a"
     },
     {
-      "id": 70,
-      "pregunta": "¿Cuáles son los grados de úlceras por presión?",
-      "opcion a": "Grado I, II, III y IV",
-      "opcion b": "Estadio 1, 2 y 3",
-      "opcion c": "Tipo A, B y C",
-      "opcion d": "Leve, moderado y severo",
+      "id": 49,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "36.5 - 37.5 °C",
+      "opcion b": "35 - 36 °C",
+      "opcion c": "34 - 35.5 °C",
+      "opcion d": "38 - 39 °C",
       "respuesta_correcta": "opcion a"
     },
     {
-      "id": 71,
+      "id": 50,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "60 - 100 latidos por minuto",
+      "opcion b": "100 - 140 latidos por minuto",
+      "opcion c": "40 - 60 latidos por minuto",
+      "opcion d": "120 - 160 latidos por minuto",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 51,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "38 - 39 °C",
+      "opcion b": "36.5 - 37.5 °C",
+      "opcion c": "34 - 35.5 °C",
+      "opcion d": "35 - 36 °C",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 52,
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Aplicación del tratamiento",
+      "opcion b": "Valoración del paciente",
+      "opcion c": "Evaluación de resultados",
+      "opcion d": "Diagnóstico médico",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 53,
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion b": "Es la técnica de administración hospitalaria",
+      "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "opcion d": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 54,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "120 - 160 latidos por minuto",
+      "opcion b": "40 - 60 latidos por minuto",
+      "opcion c": "100 - 140 latidos por minuto",
+      "opcion d": "60 - 100 latidos por minuto",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 55,
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion b": "Servicio, Observación, Atención, Protocolo",
+      "opcion c": "Sistema, Organización, Aplicación, Procedimiento",
+      "opcion d": "Sanitario, Operativo, Asistencial, Profesional",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 56,
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Valoración del paciente",
+      "opcion b": "Aplicación del tratamiento",
+      "opcion c": "Diagnóstico médico",
+      "opcion d": "Evaluación de resultados",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 57,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "100 - 140 latidos por minuto",
+      "opcion b": "60 - 100 latidos por minuto",
+      "opcion c": "120 - 160 latidos por minuto",
+      "opcion d": "40 - 60 latidos por minuto",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 58,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "100 - 140 latidos por minuto",
+      "opcion b": "40 - 60 latidos por minuto",
+      "opcion c": "60 - 100 latidos por minuto",
+      "opcion d": "120 - 160 latidos por minuto",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 59,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "100 - 140 latidos por minuto",
+      "opcion b": "120 - 160 latidos por minuto",
+      "opcion c": "60 - 100 latidos por minuto",
+      "opcion d": "40 - 60 latidos por minuto",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 60,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "36.5 - 37.5 °C",
+      "opcion b": "34 - 35.5 °C",
+      "opcion c": "38 - 39 °C",
+      "opcion d": "35 - 36 °C",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 61,
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Diagnóstico médico",
+      "opcion b": "Aplicación del tratamiento",
+      "opcion c": "Evaluación de resultados",
+      "opcion d": "Valoración del paciente",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 62,
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Aplicación del tratamiento",
+      "opcion b": "Diagnóstico médico",
+      "opcion c": "Evaluación de resultados",
+      "opcion d": "Valoración del paciente",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 63,
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Sistema, Organización, Aplicación, Procedimiento",
+      "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
+      "opcion c": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion d": "Servicio, Observación, Atención, Protocolo",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 64,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "60 - 100 latidos por minuto",
+      "opcion b": "120 - 160 latidos por minuto",
+      "opcion c": "100 - 140 latidos por minuto",
+      "opcion d": "40 - 60 latidos por minuto",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 65,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
       "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
       "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
@@ -638,265 +589,319 @@
       "respuesta_correcta": "opcion a"
     },
     {
-      "id": 72,
-      "pregunta": "¿Cuáles son los principios bioéticos fundamentales?",
-      "opcion a": "Eficiencia, eficacia, calidad, seguridad",
-      "opcion b": "Autonomía, beneficencia, no maleficencia, justicia",
-      "opcion c": "Honestidad, lealtad, respeto, responsabilidad",
-      "opcion d": "Prevención, diagnóstico, tratamiento, rehabilitación",
+      "id": 66,
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Sistema, Organización, Aplicación, Procedimiento",
+      "opcion b": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
+      "opcion d": "Servicio, Observación, Atención, Protocolo",
       "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 67,
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion b": "Sistema, Organización, Aplicación, Procedimiento",
+      "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
+      "opcion d": "Servicio, Observación, Atención, Protocolo",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 68,
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Sistema, Organización, Aplicación, Procedimiento",
+      "opcion b": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion c": "Servicio, Observación, Atención, Protocolo",
+      "opcion d": "Sanitario, Operativo, Asistencial, Profesional",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 69,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "40 - 60 latidos por minuto",
+      "opcion b": "120 - 160 latidos por minuto",
+      "opcion c": "100 - 140 latidos por minuto",
+      "opcion d": "60 - 100 latidos por minuto",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 70,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "100 - 140 latidos por minuto",
+      "opcion b": "40 - 60 latidos por minuto",
+      "opcion c": "60 - 100 latidos por minuto",
+      "opcion d": "120 - 160 latidos por minuto",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 71,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "60 - 100 latidos por minuto",
+      "opcion b": "100 - 140 latidos por minuto",
+      "opcion c": "120 - 160 latidos por minuto",
+      "opcion d": "40 - 60 latidos por minuto",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 72,
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Diagnóstico médico",
+      "opcion b": "Aplicación del tratamiento",
+      "opcion c": "Valoración del paciente",
+      "opcion d": "Evaluación de resultados",
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 73,
-      "pregunta": "¿Cuál es la relación compresiones-ventilaciones en RCP adulto?",
-      "opcion a": "5 compresiones : 1 ventilación",
-      "opcion b": "30 compresiones : 2 ventilaciones",
-      "opcion c": "15 compresiones : 2 ventilaciones",
-      "opcion d": "20 compresiones : 1 ventilación",
-      "respuesta_correcta": "opcion b"
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion b": "Es la técnica de administración hospitalaria",
+      "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "opcion d": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 74,
-      "pregunta": "¿Qué es el dolor crónico?",
-      "opcion a": "Dolor relacionado con actividad física",
-      "opcion b": "Dolor persistente mayor a 3-6 meses",
-      "opcion c": "Dolor que aparece solo por la noche",
-      "opcion d": "Dolor de inicio súbito y severo",
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Evaluación de resultados",
+      "opcion b": "Valoración del paciente",
+      "opcion c": "Diagnóstico médico",
+      "opcion d": "Aplicación del tratamiento",
       "respuesta_correcta": "opcion b"
     },
     {
       "id": 75,
-      "pregunta": "¿Cuál es el sitio de inyección intramuscular más usado en adultos?",
-      "opcion a": "Cara anterior del antebrazo",
-      "opcion b": "Músculo deltoides y región ventroglútea",
-      "opcion c": "Región plantar del pie",
-      "opcion d": "Región abdominal periumbilical",
-      "respuesta_correcta": "opcion b"
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Valoración del paciente",
+      "opcion b": "Evaluación de resultados",
+      "opcion c": "Aplicación del tratamiento",
+      "opcion d": "Diagnóstico médico",
+      "respuesta_correcta": "opcion a"
     },
     {
       "id": 76,
-      "pregunta": "¿Qué es la analgesia?",
-      "opcion a": "Ausencia o alivio del dolor",
-      "opcion b": "Pérdida de la sensibilidad",
-      "opcion c": "Parálisis muscular",
-      "opcion d": "Pérdida de la conciencia",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 77,
-      "pregunta": "¿Cuáles son los síntomas de hipoglucemia?",
-      "opcion a": "Sudoración, temblor, palpitaciones, confusión",
-      "opcion b": "Fiebre, escalofríos, malestar general",
-      "opcion c": "Sed excesiva, poliuria, visión borrosa",
-      "opcion d": "Dolor abdominal, náuseas, vómitos",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 78,
-      "pregunta": "¿Qué es la traqueostomía?",
-      "opcion a": "Intubación endotraqueal de emergencia",
-      "opcion b": "Abertura quirúrgica en la tráquea para facilitar la respiración",
-      "opcion c": "Cirugía de las cuerdas vocales",
-      "opcion d": "Procedimiento de broncoscopía",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 79,
-      "pregunta": "¿Qué es la posición de Fowler?",
-      "opcion a": "Paciente con piernas elevadas 30 grados",
-      "opcion b": "Paciente de lado con piernas flexionadas",
-      "opcion c": "Paciente acostado boca abajo",
-      "opcion d": "Paciente sentado con cabecera elevada 45-60 grados",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 80,
-      "pregunta": "¿Cuál es el dispositivo de oxigenoterapia más común?",
-      "opcion a": "Ventilador mecánico",
-      "opcion b": "Cánula nasal",
-      "opcion c": "Cámara hiperbárica",
-      "opcion d": "Nebulizador ultrasónico",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 81,
-      "pregunta": "¿Qué ángulo se usa en inyección intradérmica?",
-      "opcion a": "30 grados",
-      "opcion b": "10-15 grados",
-      "opcion c": "90 grados",
-      "opcion d": "45 grados",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 82,
-      "pregunta": "¿Qué es el dolor agudo?",
-      "opcion a": "Dolor sin causa identificable",
-      "opcion b": "Dolor persistente mayor a 6 meses",
-      "opcion c": "Dolor de intensidad muy severa",
-      "opcion d": "Dolor de inicio reciente, generalmente menor a 3 meses",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 83,
-      "pregunta": "¿Qué es la eutanasia?",
-      "opcion a": "Suspensión de tratamiento inútil",
-      "opcion b": "Donación de órganos post-mortem",
-      "opcion c": "Cuidados paliativos en fase terminal",
-      "opcion d": "Acción u omisión para provocar muerte sin sufrimiento en enfermo terminal",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 84,
-      "pregunta": "¿Qué es la neutropenia?",
-      "opcion a": "Disminución de neutrófilos en sangre",
-      "opcion b": "Disminución de plaquetas",
-      "opcion c": "Aumento de eosinófilos",
-      "opcion d": "Aumento de glóbulos blancos",
-      "respuesta_correcta": "opcion a"
-    },
-    {
-      "id": 85,
-      "pregunta": "¿Qué es la taquicardia?",
-      "opcion a": "Frecuencia cardíaca menor a 60 latidos por minuto",
-      "opcion b": "Irregularidad en el ritmo cardíaco",
-      "opcion c": "Frecuencia cardíaca mayor a 100 latidos por minuto",
-      "opcion d": "Dolor precordial intenso",
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Servicio, Observación, Atención, Protocolo",
+      "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
+      "opcion c": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion d": "Sistema, Organización, Aplicación, Procedimiento",
       "respuesta_correcta": "opcion c"
     },
     {
-      "id": 86,
-      "pregunta": "¿Qué es la RCP (Reanimación Cardiopulmonar)?",
-      "opcion a": "Maniobras para mantener circulación y oxigenación en paro cardíaco",
-      "opcion b": "Técnica de inmovilización de fracturas",
-      "opcion c": "Método de tratamiento de shock",
-      "opcion d": "Procedimiento para controlar hemorragias",
+      "id": 77,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "100 - 140 latidos por minuto",
+      "opcion b": "40 - 60 latidos por minuto",
+      "opcion c": "60 - 100 latidos por minuto",
+      "opcion d": "120 - 160 latidos por minuto",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 78,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "60 - 100 latidos por minuto",
+      "opcion b": "120 - 160 latidos por minuto",
+      "opcion c": "40 - 60 latidos por minuto",
+      "opcion d": "100 - 140 latidos por minuto",
       "respuesta_correcta": "opcion a"
     },
     {
+      "id": 79,
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Servicio, Observación, Atención, Protocolo",
+      "opcion b": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
+      "opcion d": "Sistema, Organización, Aplicación, Procedimiento",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 80,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "100 - 140 latidos por minuto",
+      "opcion b": "120 - 160 latidos por minuto",
+      "opcion c": "60 - 100 latidos por minuto",
+      "opcion d": "40 - 60 latidos por minuto",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 81,
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "40 - 60 latidos por minuto",
+      "opcion b": "100 - 140 latidos por minuto",
+      "opcion c": "60 - 100 latidos por minuto",
+      "opcion d": "120 - 160 latidos por minuto",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 82,
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion b": "Servicio, Observación, Atención, Protocolo",
+      "opcion c": "Sistema, Organización, Aplicación, Procedimiento",
+      "opcion d": "Sanitario, Operativo, Asistencial, Profesional",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 83,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "36.5 - 37.5 °C",
+      "opcion b": "38 - 39 °C",
+      "opcion c": "35 - 36 °C",
+      "opcion d": "34 - 35.5 °C",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 84,
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Servicio, Observación, Atención, Protocolo",
+      "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
+      "opcion c": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion d": "Sistema, Organización, Aplicación, Procedimiento",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 85,
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion b": "Sistema, Organización, Aplicación, Procedimiento",
+      "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
+      "opcion d": "Servicio, Observación, Atención, Protocolo",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 86,
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Diagnóstico médico",
+      "opcion b": "Aplicación del tratamiento",
+      "opcion c": "Valoración del paciente",
+      "opcion d": "Evaluación de resultados",
+      "respuesta_correcta": "opcion c"
+    },
+    {
       "id": 87,
-      "pregunta": "¿Qué es la autonomía del paciente?",
-      "opcion a": "Independencia económica del paciente",
-      "opcion b": "Derecho del paciente a tomar decisiones sobre su salud",
-      "opcion c": "Autorización para salir del hospital",
-      "opcion d": "Capacidad del paciente para cuidarse solo",
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "40 - 60 latidos por minuto",
+      "opcion b": "60 - 100 latidos por minuto",
+      "opcion c": "120 - 160 latidos por minuto",
+      "opcion d": "100 - 140 latidos por minuto",
       "respuesta_correcta": "opcion b"
     },
     {
       "id": 88,
-      "pregunta": "¿Qué es el duelo?",
-      "opcion a": "Trastorno de ansiedad generalizada",
-      "opcion b": "Proceso de adaptación emocional ante una pérdida",
-      "opcion c": "Depresión severa que requiere medicación",
-      "opcion d": "Reacción de estrés postraumático",
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "35 - 36 °C",
+      "opcion b": "36.5 - 37.5 °C",
+      "opcion c": "34 - 35.5 °C",
+      "opcion d": "38 - 39 °C",
       "respuesta_correcta": "opcion b"
     },
     {
       "id": 89,
-      "pregunta": "¿Qué es el antibiograma?",
-      "opcion a": "Registro de antibióticos administrados",
-      "opcion b": "Análisis de concentración de antibióticos en sangre",
-      "opcion c": "Evaluación de efectos adversos de antibióticos",
-      "opcion d": "Prueba para determinar sensibilidad de bacterias a antibióticos",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 90,
-      "pregunta": "¿Qué es la cadena de frío?",
-      "opcion a": "Transporte de órganos para trasplante",
-      "opcion b": "Método de esterilización por congelación",
-      "opcion c": "Sistema para mantener vacunas a temperatura adecuada",
-      "opcion d": "Conservación de medicamentos termolábiles",
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "100 - 140 latidos por minuto",
+      "opcion b": "40 - 60 latidos por minuto",
+      "opcion c": "60 - 100 latidos por minuto",
+      "opcion d": "120 - 160 latidos por minuto",
       "respuesta_correcta": "opcion c"
     },
     {
+      "id": 90,
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Evaluación de resultados",
+      "opcion b": "Diagnóstico médico",
+      "opcion c": "Aplicación del tratamiento",
+      "opcion d": "Valoración del paciente",
+      "respuesta_correcta": "opcion d"
+    },
+    {
       "id": 91,
-      "pregunta": "¿Qué es la anafilaxia?",
-      "opcion a": "Reacción alérgica grave y potencialmente mortal",
-      "opcion b": "Mareo posterior a extracción de sangre",
-      "opcion c": "Desmayo por dolor durante procedimiento",
-      "opcion d": "Reacción local leve en sitio de inyección",
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "60 - 100 latidos por minuto",
+      "opcion b": "120 - 160 latidos por minuto",
+      "opcion c": "40 - 60 latidos por minuto",
+      "opcion d": "100 - 140 latidos por minuto",
       "respuesta_correcta": "opcion a"
     },
     {
       "id": 92,
-      "pregunta": "¿Qué es un hematoma?",
-      "opcion a": "Acumulación de sangre fuera de los vasos sanguíneos",
-      "opcion b": "Aumento del número de glóbulos rojos",
-      "opcion c": "Deficiencia de factores de coagulación",
-      "opcion d": "Inflamación de un vaso sanguíneo",
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Valoración del paciente",
+      "opcion b": "Evaluación de resultados",
+      "opcion c": "Aplicación del tratamiento",
+      "opcion d": "Diagnóstico médico",
       "respuesta_correcta": "opcion a"
     },
     {
       "id": 93,
-      "pregunta": "¿Qué es la prevención terciaria?",
-      "opcion a": "Educación en salud",
-      "opcion b": "Prevención de complicaciones y rehabilitación",
-      "opcion c": "Diagnóstico temprano",
-      "opcion d": "Evitar la aparición de enfermedades",
-      "respuesta_correcta": "opcion b"
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "35 - 36 °C",
+      "opcion b": "34 - 35.5 °C",
+      "opcion c": "36.5 - 37.5 °C",
+      "opcion d": "38 - 39 °C",
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 94,
-      "pregunta": "¿Qué es la escala de EVA?",
-      "opcion a": "Escala de riesgo cardiovascular",
-      "opcion b": "Escala Visual Analógica para medir intensidad del dolor",
-      "opcion c": "Escala de evaluación de úlceras",
-      "opcion d": "Escala de valoración de conciencia",
-      "respuesta_correcta": "opcion b"
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "60 - 100 latidos por minuto",
+      "opcion b": "100 - 140 latidos por minuto",
+      "opcion c": "120 - 160 latidos por minuto",
+      "opcion d": "40 - 60 latidos por minuto",
+      "respuesta_correcta": "opcion a"
     },
     {
       "id": 95,
-      "pregunta": "¿Qué es la educación para la salud?",
-      "opcion a": "Capacitación técnica de profesionales de salud",
-      "opcion b": "Proceso que informa y motiva para adoptar conductas saludables",
-      "opcion c": "Instrucción sobre uso de medicamentos",
-      "opcion d": "Enseñanza de primeros auxilios",
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Sanitario, Operativo, Asistencial, Profesional",
+      "opcion b": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion c": "Sistema, Organización, Aplicación, Procedimiento",
+      "opcion d": "Servicio, Observación, Atención, Protocolo",
       "respuesta_correcta": "opcion b"
     },
     {
       "id": 96,
-      "pregunta": "¿Qué es una enfermedad endémica?",
-      "opcion a": "Enfermedad que afecta a todo el mundo",
-      "opcion b": "Enfermedad presente de forma habitual en una zona geográfica",
-      "opcion c": "Enfermedad sin casos reportados",
-      "opcion d": "Enfermedad que aparece en brotes",
-      "respuesta_correcta": "opcion b"
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "40 - 60 latidos por minuto",
+      "opcion b": "120 - 160 latidos por minuto",
+      "opcion c": "100 - 140 latidos por minuto",
+      "opcion d": "60 - 100 latidos por minuto",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 97,
-      "pregunta": "¿Qué es la vía intradérmica?",
-      "opcion a": "Inyección en el tejido graso subcutáneo",
-      "opcion b": "Inyección en la dermis, entre epidermis y tejido subcutáneo",
-      "opcion c": "Inyección directa en vena",
-      "opcion d": "Inyección profunda en el músculo",
-      "respuesta_correcta": "opcion b"
+      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
+      "opcion a": "100 - 140 latidos por minuto",
+      "opcion b": "40 - 60 latidos por minuto",
+      "opcion c": "120 - 160 latidos por minuto",
+      "opcion d": "60 - 100 latidos por minuto",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 98,
-      "pregunta": "¿Qué es la venopunción?",
-      "opcion a": "Punción de una vena para extraer sangre o administrar medicamentos",
-      "opcion b": "Cirugía para reparar venas varicosas",
-      "opcion c": "Medición de la presión venosa central",
-      "opcion d": "Tratamiento con láser de varices",
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "36.5 - 37.5 °C",
+      "opcion b": "35 - 36 °C",
+      "opcion c": "34 - 35.5 °C",
+      "opcion d": "38 - 39 °C",
       "respuesta_correcta": "opcion a"
     },
     {
       "id": 99,
-      "pregunta": "¿Qué son los signos vitales?",
-      "opcion a": "Saturación de oxígeno, glucemia, peso y diuresis",
-      "opcion b": "Temperatura, pulso, respiración y presión arterial",
-      "opcion c": "Frecuencia cardíaca, electrocardiograma, peso y tensión",
-      "opcion d": "Peso, talla, índice de masa corporal y glucemia",
-      "respuesta_correcta": "opcion b"
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Evaluación de resultados",
+      "opcion b": "Diagnóstico médico",
+      "opcion c": "Aplicación del tratamiento",
+      "opcion d": "Valoración del paciente",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 100,
-      "pregunta": "¿Qué incluye el ingreso en el balance hídrico?",
-      "opcion a": "Solo agua que bebe el paciente",
-      "opcion b": "Solamente la alimentación",
-      "opcion c": "Líquidos orales, intravenosos, alimentación enteral",
-      "opcion d": "Únicamente sueros intravenosos",
-      "respuesta_correcta": "opcion c"
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion b": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "opcion c": "Es la técnica de administración hospitalaria",
+      "opcion d": "Es el estudio exclusivo de enfermedades infecciosas",
+      "respuesta_correcta": "opcion a"
     }
   ]
 }
