@@ -1,1262 +1,817 @@
-[
-  {
-    "id": 1,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la principal función de la enfermería en el control de infecciones?",
-    "opciones": {
-      "opcion a": "Administrar antibióticos sin orden médica.",
-      "opcion b": "Prevenir la transmisión mediante técnicas de higiene y bioseguridad.",
+{
+  "tema": "Enfermería",
+  "año": 2023,
+  "examen": 3,
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es la principal función de la enfermería en el control de infecciones? Prevenir la transmisión mediante técnicas de higiene y bioseguridad. Administrar antibióticos sin orden médica. Registrar la limpieza del área. Cambiar el uniforme tres veces al día.",
+      "opcion a": "Prevenir la transmisión mediante técnicas de higiene y bioseguridad.",
+      "opcion b": "Administrar antibióticos sin orden médica.",
       "opcion c": "Registrar la limpieza del área.",
-      "opcion d": "Cambiar el uniforme tres veces al día."
+      "opcion d": "Cambiar el uniforme tres veces al día.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 2,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es la homeostasis?",
-    "opciones": {
+    {
+      "id": 2,
+      "pregunta": "¿Qué es la homeostasis? Mantenimiento del equilibrio interno del organismo. Capacidad de generar energía muscular. Función exclusiva del sistema circulatorio. Estado de estrés prolongado.",
       "opcion a": "Mantenimiento del equilibrio interno del organismo.",
       "opcion b": "Capacidad de generar energía muscular.",
       "opcion c": "Función exclusiva del sistema circulatorio.",
-      "opcion d": "Estado de estrés prolongado."
+      "opcion d": "Estado de estrés prolongado.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 3,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué vía se usa en la administración intradérmica?",
-    "opciones": {
-      "opcion a": "Ángulo de 75°.",
-      "opcion b": "Ángulo de 10–15°.",
-      "opcion c": "Ángulo de 60°.",
-      "opcion d": "Ángulo de 90°."
+    {
+      "id": 3,
+      "pregunta": "¿Qué vía se usa en la administración intradérmica? Ángulo de 10–15°. Ángulo de 60°. Ángulo de 90°. Ángulo de 75°.",
+      "opcion a": "Ángulo de 10–15°.",
+      "opcion b": "Ángulo de 60°.",
+      "opcion c": "Ángulo de 90°.",
+      "opcion d": "Ángulo de 75°.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 4,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es un signo temprano de hemorragia interna?",
-    "opciones": {
-      "opcion a": "Aumento del apetito.",
-      "opcion b": "Taquicardia.",
-      "opcion c": "Hiperhidratación.",
-      "opcion d": "Enrojecimiento facial."
+    {
+      "id": 4,
+      "pregunta": "¿Cuál es un signo temprano de hemorragia interna? Taquicardia. Hiperhidratación. Aumento del apetito. Enrojecimiento facial.",
+      "opcion a": "Taquicardia.",
+      "opcion b": "Hiperhidratación.",
+      "opcion c": "Aumento del apetito.",
+      "opcion d": "Enrojecimiento facial.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 5,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué define a la fiebre?",
-    "opciones": {
+    {
+      "id": 5,
+      "pregunta": "¿Qué define a la fiebre? Temperatura ≥38 °C. Temperatura 36 °C. Sudoración sin temperatura. Coloración rosada.",
       "opcion a": "Temperatura ≥38 °C.",
-      "opcion b": "Coloración rosada.",
+      "opcion b": "Temperatura 36 °C.",
       "opcion c": "Sudoración sin temperatura.",
-      "opcion d": "Temperatura 36 °C."
+      "opcion d": "Coloración rosada.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 6,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué músculo se usa comúnmente para vía intramuscular en adultos?",
-    "opciones": {
-      "opcion a": "Biceps braquial.",
+    {
+      "id": 6,
+      "pregunta": "¿Qué músculo se usa comúnmente para vía intramuscular en adultos? Deltoides. Trapecio. Biceps braquial. Dorsal ancho.",
+      "opcion a": "Deltoides.",
       "opcion b": "Trapecio.",
-      "opcion c": "Dorsal ancho.",
-      "opcion d": "Deltoides."
+      "opcion c": "Biceps braquial.",
+      "opcion d": "Dorsal ancho.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 7,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué evalúa un electrocardiograma?",
-    "opciones": {
-      "opcion a": "Flujo venoso.",
+    {
+      "id": 7,
+      "pregunta": "¿Qué evalúa un electrocardiograma? Actividad eléctrica del corazón. Función pulmonar. Densidad ósea. Flujo venoso.",
+      "opcion a": "Actividad eléctrica del corazón.",
       "opcion b": "Función pulmonar.",
       "opcion c": "Densidad ósea.",
-      "opcion d": "Actividad eléctrica del corazón."
+      "opcion d": "Flujo venoso.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 8,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la causa más común de paro cardiaco en adultos?",
-    "opciones": {
-      "opcion a": "Déficit de calcio.",
+    {
+      "id": 8,
+      "pregunta": "¿Cuál es la causa más común de paro cardiaco en adultos? Arritmias ventriculares. Insuficiencia renal leve. Fractura de hueso largo. Déficit de calcio.",
+      "opcion a": "Arritmias ventriculares.",
       "opcion b": "Insuficiencia renal leve.",
       "opcion c": "Fractura de hueso largo.",
-      "opcion d": "Arritmias ventriculares."
+      "opcion d": "Déficit de calcio.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 9,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica una diuresis de 3 L/día?",
-    "opciones": {
-      "opcion a": "Hematuria.",
+    {
+      "id": 9,
+      "pregunta": "¿Qué indica una diuresis de 3 L/día? Poliuria. Anuria. Diuresis normal. Hematuria.",
+      "opcion a": "Poliuria.",
       "opcion b": "Anuria.",
       "opcion c": "Diuresis normal.",
-      "opcion d": "Poliuria."
+      "opcion d": "Hematuria.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 10,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué parámetro evalúa mejor el dolor en pediatría?",
-    "opciones": {
-      "opcion a": "Escala Norton.",
+    {
+      "id": 10,
+      "pregunta": "¿Qué parámetro evalúa mejor el dolor en pediatría? Escala FLACC. Escala EVA clásica. Escala Norton. Test de Rusell.",
+      "opcion a": "Escala FLACC.",
       "opcion b": "Escala EVA clásica.",
-      "opcion c": "Test de Rusell.",
-      "opcion d": "Escala FLACC."
+      "opcion c": "Escala Norton.",
+      "opcion d": "Test de Rusell.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 11,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el objetivo del plan de cuidados de enfermería?",
-    "opciones": {
-      "opcion a": "Reducir los tiempos de internación sin evaluación.",
-      "opcion b": "Organizar las intervenciones según necesidades del paciente.",
-      "opcion c": "Reemplazar indicaciones médicas.",
-      "opcion d": "Limitar la autonomía del paciente."
+    {
+      "id": 11,
+      "pregunta": "¿Cuál es el objetivo del plan de cuidados de enfermería? Organizar las intervenciones según necesidades del paciente. Reemplazar indicaciones médicas. Limitar la autonomía del paciente. Reducir los tiempos de internación sin evaluación.",
+      "opcion a": "Organizar las intervenciones según necesidades del paciente.",
+      "opcion b": "Reemplazar indicaciones médicas.",
+      "opcion c": "Limitar la autonomía del paciente.",
+      "opcion d": "Reducir los tiempos de internación sin evaluación.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 12,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es la hipoxia?",
-    "opciones": {
-      "opcion a": "Exceso de dióxido de carbono en sangre.",
-      "opcion b": "Control normal de ventilación.",
-      "opcion c": "Disminución del oxígeno en los tejidos.",
-      "opcion d": "Aumento brusco del sodio."
+    {
+      "id": 12,
+      "pregunta": "¿Qué es la hipoxia? Disminución del oxígeno en los tejidos. Exceso de dióxido de carbono en sangre. Aumento brusco del sodio. Control normal de ventilación.",
+      "opcion a": "Disminución del oxígeno en los tejidos.",
+      "opcion b": "Exceso de dióxido de carbono en sangre.",
+      "opcion c": "Aumento brusco del sodio.",
+      "opcion d": "Control normal de ventilación.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 13,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la FR normal en un recién nacido?",
-    "opciones": {
-      "opcion a": "10–15 rpm.",
-      "opcion b": "12–20 rpm.",
-      "opcion c": "70–90 rpm.",
-      "opcion d": "30–60 rpm."
+    {
+      "id": 13,
+      "pregunta": "¿Cuál es la FR normal en un recién nacido? 30–60 rpm. 10–15 rpm. 12–20 rpm. 70–90 rpm.",
+      "opcion a": "30–60 rpm.",
+      "opcion b": "10–15 rpm.",
+      "opcion c": "12–20 rpm.",
+      "opcion d": "70–90 rpm.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 14,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es un signo de shock séptico?",
-    "opciones": {
+    {
+      "id": 14,
+      "pregunta": "¿Cuál es un signo de shock séptico? Hipotensión refractaria. Hipertensión sostenida. Fiebre leve sin síntomas. Piel caliente sin cambios.",
       "opcion a": "Hipotensión refractaria.",
       "opcion b": "Hipertensión sostenida.",
       "opcion c": "Fiebre leve sin síntomas.",
-      "opcion d": "Piel caliente sin cambios."
+      "opcion d": "Piel caliente sin cambios.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 15,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué línea se utiliza para nutrición parenteral de alta osmolaridad?",
-    "opciones": {
+    {
+      "id": 15,
+      "pregunta": "¿Qué línea se utiliza para nutrición parenteral de alta osmolaridad? Vía central. Vía subcutánea. Vía intradérmica. Vía intranasal.",
       "opcion a": "Vía central.",
       "opcion b": "Vía subcutánea.",
       "opcion c": "Vía intradérmica.",
-      "opcion d": "Vía intranasal."
+      "opcion d": "Vía intranasal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 16,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica una piel fría y pegajosa?",
-    "opciones": {
+    {
+      "id": 16,
+      "pregunta": "¿Qué indica una piel fría y pegajosa? Hipoperfusión. Hiperhidratación. Digestión lenta. Hipertiroidismo.",
       "opcion a": "Hipoperfusión.",
-      "opcion b": "Hipertiroidismo.",
-      "opcion c": "Hiperhidratación.",
-      "opcion d": "Digestión lenta."
+      "opcion b": "Hiperhidratación.",
+      "opcion c": "Digestión lenta.",
+      "opcion d": "Hipertiroidismo.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 17,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es el consentimiento informado?",
-    "opciones": {
-      "opcion a": "Documento que reemplaza la comunicación verbal.",
+    {
+      "id": 17,
+      "pregunta": "¿Qué es el consentimiento informado? Aceptación voluntaria del paciente basada en información clara. Obligación de firmar antes de cualquier procedimiento. Documento que reemplaza la comunicación verbal. Permiso otorgado por el familiar siempre.",
+      "opcion a": "Aceptación voluntaria del paciente basada en información clara.",
       "opcion b": "Obligación de firmar antes de cualquier procedimiento.",
-      "opcion c": "Permiso otorgado por el familiar siempre.",
-      "opcion d": "Aceptación voluntaria del paciente basada en información clara."
+      "opcion c": "Documento que reemplaza la comunicación verbal.",
+      "opcion d": "Permiso otorgado por el familiar siempre.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 18,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué sugiere un abdomen blando e indoloro?",
-    "opciones": {
-      "opcion a": "Peritonitis.",
-      "opcion b": "Normalidad abdominal.",
-      "opcion c": "Obstrucción severa.",
-      "opcion d": "Abdomen agudo."
+    {
+      "id": 18,
+      "pregunta": "¿Qué sugiere un abdomen blando e indoloro? Normalidad abdominal. Peritonitis. Abdomen agudo. Obstrucción severa.",
+      "opcion a": "Normalidad abdominal.",
+      "opcion b": "Peritonitis.",
+      "opcion c": "Abdomen agudo.",
+      "opcion d": "Obstrucción severa.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 19,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la posición para un paciente con disnea severa?",
-    "opciones": {
+    {
+      "id": 19,
+      "pregunta": "¿Cuál es la posición para un paciente con disnea severa? Fowler alto. Decúbito prono. Trendelemburg. Decúbito lateral izquierdo.",
       "opcion a": "Fowler alto.",
       "opcion b": "Decúbito prono.",
       "opcion c": "Trendelemburg.",
-      "opcion d": "Decúbito lateral izquierdo."
+      "opcion d": "Decúbito lateral izquierdo.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 20,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué parámetro indica hiperglucemia?",
-    "opciones": {
-      "opcion a": "Glucemia 70 mg/dL.",
-      "opcion b": "Glucemia 120 mg/dL.",
+    {
+      "id": 20,
+      "pregunta": "¿Qué parámetro indica hiperglucemia? Glucemia > 180 mg/dL. Glucemia 70 mg/dL. Glucemia 40 mg/dL. Glucemia 120 mg/dL. ⭐ PREGUNTAS 21 a 40",
+      "opcion a": "Glucemia > 180 mg/dL.",
+      "opcion b": "Glucemia 70 mg/dL.",
       "opcion c": "Glucemia 40 mg/dL.",
-      "opcion d": "Glucemia > 180 mg/dL."
+      "opcion d": "Glucemia 120 mg/dL.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 21,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el riesgo de inmovilización prolongada?",
-    "opciones": {
-      "opcion a": "Hiperglucemia.",
+    {
+      "id": 21,
+      "pregunta": "¿Cuál es el riesgo de inmovilización prolongada? Tromboembolismo venoso. Hipertensión súbita. Hiperglucemia. Hiperhidratación.",
+      "opcion a": "Tromboembolismo venoso.",
       "opcion b": "Hipertensión súbita.",
-      "opcion c": "Tromboembolismo venoso.",
-      "opcion d": "Hiperhidratación."
+      "opcion c": "Hiperglucemia.",
+      "opcion d": "Hiperhidratación.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 22,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica un sangrado rectal con dolor abdominal?",
-    "opciones": {
-      "opcion a": "Asma.",
-      "opcion b": "Tendinitis.",
-      "opcion c": "Infección urinaria.",
-      "opcion d": "Posible patología digestiva."
+    {
+      "id": 22,
+      "pregunta": "¿Qué indica un sangrado rectal con dolor abdominal? Posible patología digestiva. Infección urinaria. Tendinitis. Asma.",
+      "opcion a": "Posible patología digestiva.",
+      "opcion b": "Infección urinaria.",
+      "opcion c": "Tendinitis.",
+      "opcion d": "Asma.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 23,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la función del potasio?",
-    "opciones": {
-      "opcion a": "Aumenta la producción de glóbulos rojos.",
-      "opcion b": "Participa en la conducción eléctrica y contracción muscular.",
-      "opcion c": "Promueve la digestión de grasas.",
-      "opcion d": "Regula la temperatura corporal."
+    {
+      "id": 23,
+      "pregunta": "¿Cuál es la función del potasio? Participa en la conducción eléctrica y contracción muscular. Aumenta la producción de glóbulos rojos. Regula la temperatura corporal. Promueve la digestión de grasas.",
+      "opcion a": "Participa en la conducción eléctrica y contracción muscular.",
+      "opcion b": "Aumenta la producción de glóbulos rojos.",
+      "opcion c": "Regula la temperatura corporal.",
+      "opcion d": "Promueve la digestión de grasas.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 24,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué se debe hacer ante un paro respiratorio?",
-    "opciones": {
+    {
+      "id": 24,
+      "pregunta": "¿Qué se debe hacer ante un paro respiratorio? Iniciar ventilaciones. Dar agua. Dejar al paciente reposar. Masajear abdomen.",
       "opcion a": "Iniciar ventilaciones.",
-      "opcion b": "Masajear abdomen.",
-      "opcion c": "Dar agua.",
-      "opcion d": "Dejar al paciente reposar."
+      "opcion b": "Dar agua.",
+      "opcion c": "Dejar al paciente reposar.",
+      "opcion d": "Masajear abdomen.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 25,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué hace la adrenalina en anafilaxia?",
-    "opciones": {
+    {
+      "id": 25,
+      "pregunta": "¿Qué hace la adrenalina en anafilaxia? Broncodilatación y aumento del gasto cardíaco. Produce broncoespasmo. Baja la presión arterial. Induce hiperglucemia severa.",
       "opcion a": "Broncodilatación y aumento del gasto cardíaco.",
       "opcion b": "Produce broncoespasmo.",
       "opcion c": "Baja la presión arterial.",
-      "opcion d": "Induce hiperglucemia severa."
+      "opcion d": "Induce hiperglucemia severa.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 26,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué evalúa el test de Apgar?",
-    "opciones": {
-      "opcion a": "Capacidad digestiva.",
-      "opcion b": "Adaptación del recién nacido.",
-      "opcion c": "Nivel de dolor en RN.",
-      "opcion d": "Memoria del RN."
+    {
+      "id": 26,
+      "pregunta": "¿Qué evalúa el test de Apgar? Adaptación del recién nacido. Nivel de dolor en RN. Memoria del RN. Capacidad digestiva.",
+      "opcion a": "Adaptación del recién nacido.",
+      "opcion b": "Nivel de dolor en RN.",
+      "opcion c": "Memoria del RN.",
+      "opcion d": "Capacidad digestiva.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 27,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica una PA de 80/40 mmHg?",
-    "opciones": {
-      "opcion a": "Hipertensión leve.",
-      "opcion b": "Hipotensión severa.",
-      "opcion c": "Presión normal.",
-      "opcion d": "Normotensión adaptativa."
+    {
+      "id": 27,
+      "pregunta": "¿Qué indica una PA de 80/40 mmHg? Hipotensión severa. Presión normal. Hipertensión leve. Normotensión adaptativa.",
+      "opcion a": "Hipotensión severa.",
+      "opcion b": "Presión normal.",
+      "opcion c": "Hipertensión leve.",
+      "opcion d": "Normotensión adaptativa.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 28,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el primer paso del triage?",
-    "opciones": {
+    {
+      "id": 28,
+      "pregunta": "¿Cuál es el primer paso del triage? Evaluar la gravedad. Tomar datos administrativos. Llamar a familiares. Pesar al paciente.",
       "opcion a": "Evaluar la gravedad.",
       "opcion b": "Tomar datos administrativos.",
-      "opcion c": "Pesar al paciente.",
-      "opcion d": "Llamar a familiares."
+      "opcion c": "Llamar a familiares.",
+      "opcion d": "Pesar al paciente.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 29,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué complicación puede causar un CVP sin control?",
-    "opciones": {
+    {
+      "id": 29,
+      "pregunta": "¿Qué complicación puede causar un CVP sin control? Flebitis. Hiperreflexia. Hipermetabolismo. Aumento muscular.",
       "opcion a": "Flebitis.",
-      "opcion b": "Aumento muscular.",
-      "opcion c": "Hiperreflexia.",
-      "opcion d": "Hipermetabolismo."
+      "opcion b": "Hiperreflexia.",
+      "opcion c": "Hipermetabolismo.",
+      "opcion d": "Aumento muscular.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 30,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el sitio ideal para medir pulso periférico?",
-    "opciones": {
+    {
+      "id": 30,
+      "pregunta": "¿Cuál es el sitio ideal para medir pulso periférico? Radial. Occipital. Intercostal. Umbilical.",
       "opcion a": "Radial.",
       "opcion b": "Occipital.",
       "opcion c": "Intercostal.",
-      "opcion d": "Umbilical."
+      "opcion d": "Umbilical.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 41,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la función del sodio?",
-    "opciones": {
-      "opcion a": "Producir hormonas tiroideas.",
-      "opcion b": "Regular el ritmo circadiano.",
-      "opcion c": "Aumentar la respuesta inmune.",
-      "opcion d": "Mantener el equilibrio hídrico y osmótico."
+    {
+      "id": 41,
+      "pregunta": "¿Cuál es la función del sodio? Mantener el equilibrio hídrico y osmótico. Aumentar la respuesta inmune. Producir hormonas tiroideas. Regular el ritmo circadiano.",
+      "opcion a": "Mantener el equilibrio hídrico y osmótico.",
+      "opcion b": "Aumentar la respuesta inmune.",
+      "opcion c": "Producir hormonas tiroideas.",
+      "opcion d": "Regular el ritmo circadiano.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 42,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica una FR de 10 rpm en adulto?",
-    "opciones": {
-      "opcion a": "Apnea intermitente.",
+    {
+      "id": 42,
+      "pregunta": "¿Qué indica una FR de 10 rpm en adulto? Bradipnea. Eupnea. Taquipnea. Apnea intermitente.",
+      "opcion a": "Bradipnea.",
       "opcion b": "Eupnea.",
-      "opcion c": "Bradipnea.",
-      "opcion d": "Taquipnea."
+      "opcion c": "Taquipnea.",
+      "opcion d": "Apnea intermitente.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 43,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es una contraindicación para vía intramuscular?",
-    "opciones": {
+    {
+      "id": 43,
+      "pregunta": "¿Cuál es una contraindicación para vía intramuscular? Paciente con trastorno severo de coagulación. Paciente con fiebre leve. Dolor muscular previo. Alergia ambiental.",
       "opcion a": "Paciente con trastorno severo de coagulación.",
       "opcion b": "Paciente con fiebre leve.",
       "opcion c": "Dolor muscular previo.",
-      "opcion d": "Alergia ambiental."
+      "opcion d": "Alergia ambiental.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 44,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es la perfusión tisular?",
-    "opciones": {
-      "opcion a": "Control térmico.",
-      "opcion b": "Contracción muscular constante.",
-      "opcion c": "Eliminación renal exclusiva.",
-      "opcion d": "Aporte adecuado de sangre a los tejidos."
+    {
+      "id": 44,
+      "pregunta": "¿Qué es la perfusión tisular? Aporte adecuado de sangre a los tejidos. Eliminación renal exclusiva. Contracción muscular constante. Control térmico.",
+      "opcion a": "Aporte adecuado de sangre a los tejidos.",
+      "opcion b": "Eliminación renal exclusiva.",
+      "opcion c": "Contracción muscular constante.",
+      "opcion d": "Control térmico.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 45,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica un lactante con llanto débil y piel fría?",
-    "opciones": {
-      "opcion a": "Somnolencia fisiológica.",
-      "opcion b": "Fatiga normal.",
-      "opcion c": "Hambre.",
-      "opcion d": "Signos de shock."
+    {
+      "id": 45,
+      "pregunta": "¿Qué indica un lactante con llanto débil y piel fría? Signos de shock. Hambre. Fatiga normal. Somnolencia fisiológica.",
+      "opcion a": "Signos de shock.",
+      "opcion b": "Hambre.",
+      "opcion c": "Fatiga normal.",
+      "opcion d": "Somnolencia fisiológica.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 46,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué evalúa la escala de Glasgow?",
-    "opciones": {
-      "opcion a": "Temperatura corporal.",
-      "opcion b": "Fuerza muscular.",
-      "opcion c": "Nivel de dolor.",
-      "opcion d": "Nivel de conciencia."
+    {
+      "id": 46,
+      "pregunta": "¿Qué evalúa la escala de Glasgow? Nivel de conciencia. Nivel de dolor. Fuerza muscular. Temperatura corporal.",
+      "opcion a": "Nivel de conciencia.",
+      "opcion b": "Nivel de dolor.",
+      "opcion c": "Fuerza muscular.",
+      "opcion d": "Temperatura corporal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 47,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la principal complicación de un catéter urinario?",
-    "opciones": {
-      "opcion a": "aumento de peso.",
-      "opcion b": "Hiperreflexia.",
-      "opcion c": "Hipotensión.",
-      "opcion d": "Infección urinaria."
+    {
+      "id": 47,
+      "pregunta": "¿Cuál es la principal complicación de un catéter urinario? Infección urinaria. Hipotensión. Hiperreflexia. aumento de peso.",
+      "opcion a": "Infección urinaria.",
+      "opcion b": "Hipotensión.",
+      "opcion c": "Hiperreflexia.",
+      "opcion d": "aumento de peso.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 48,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica una saturación de 92%?",
-    "opciones": {
-      "opcion a": "Nivel normal alto.",
+    {
+      "id": 48,
+      "pregunta": "¿Qué indica una saturación de 92%? Límite inferior aceptable. Hipoxemia severa. Nivel normal alto. Cianosis grave.",
+      "opcion a": "Límite inferior aceptable.",
       "opcion b": "Hipoxemia severa.",
-      "opcion c": "Cianosis grave.",
-      "opcion d": "Límite inferior aceptable."
+      "opcion c": "Nivel normal alto.",
+      "opcion d": "Cianosis grave.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 49,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué tipo de aislamiento requiere tuberculosis activa?",
-    "opciones": {
-      "opcion a": "Estricto digestivo.",
-      "opcion b": "Respiratorio.",
-      "opcion c": "Por gotas.",
-      "opcion d": "Por contacto."
+    {
+      "id": 49,
+      "pregunta": "¿Qué tipo de aislamiento requiere tuberculosis activa? Respiratorio. Por gotas. Por contacto. Estricto digestivo.",
+      "opcion a": "Respiratorio.",
+      "opcion b": "Por gotas.",
+      "opcion c": "Por contacto.",
+      "opcion d": "Estricto digestivo.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 50,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué significa “disfagia”?",
-    "opciones": {
-      "opcion a": "Dificultad para respirar.",
-      "opcion b": "Dolor abdominal.",
-      "opcion c": "Diarrea aguda.",
-      "opcion d": "Dificultad para tragar."
+    {
+      "id": 50,
+      "pregunta": "¿Qué significa “disfagia”? Dificultad para tragar. Dificultad para respirar. Dolor abdominal. Diarrea aguda.",
+      "opcion a": "Dificultad para tragar.",
+      "opcion b": "Dificultad para respirar.",
+      "opcion c": "Dolor abdominal.",
+      "opcion d": "Diarrea aguda.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 51,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué intervención previene el estreñimiento?",
-    "opciones": {
-      "opcion a": "Tomar menos líquidos.",
-      "opcion b": "Evitar verduras.",
-      "opcion c": "Reducir la actividad física.",
-      "opcion d": "Aumentar hidratación y fibra."
+    {
+      "id": 51,
+      "pregunta": "¿Qué intervención previene el estreñimiento? Aumentar hidratación y fibra. Reducir la actividad física. Evitar verduras. Tomar menos líquidos.",
+      "opcion a": "Aumentar hidratación y fibra.",
+      "opcion b": "Reducir la actividad física.",
+      "opcion c": "Evitar verduras.",
+      "opcion d": "Tomar menos líquidos.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 52,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica un abdomen rígido, defensa y dolor intenso?",
-    "opciones": {
+    {
+      "id": 52,
+      "pregunta": "¿Qué indica un abdomen rígido, defensa y dolor intenso? Abdomen agudo. Estreñimiento común. Meteorismo leve. Digestión incompleta.",
       "opcion a": "Abdomen agudo.",
       "opcion b": "Estreñimiento común.",
       "opcion c": "Meteorismo leve.",
-      "opcion d": "Digestión incompleta."
+      "opcion d": "Digestión incompleta.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 53,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué parámetro evalúa la perfusión periférica?",
-    "opciones": {
-      "opcion a": "Peso corporal.",
+    {
+      "id": 53,
+      "pregunta": "¿Qué parámetro evalúa la perfusión periférica? Llenado capilar. Perímetro cefálico. Peso corporal. Temperatura ambiental.",
+      "opcion a": "Llenado capilar.",
       "opcion b": "Perímetro cefálico.",
-      "opcion c": "Temperatura ambiental.",
-      "opcion d": "Llenado capilar."
+      "opcion c": "Peso corporal.",
+      "opcion d": "Temperatura ambiental.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 54,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué valor indica hipertensión?",
-    "opciones": {
-      "opcion a": "110/70.",
-      "opcion b": "90/60.",
-      "opcion c": "120/80.",
-      "opcion d": "≥140/90 mmHg."
+    {
+      "id": 54,
+      "pregunta": "¿Qué valor indica hipertensión? ≥140/90 mmHg. 120/80. 90/60. 110/70.",
+      "opcion a": "≥140/90 mmHg.",
+      "opcion b": "120/80.",
+      "opcion c": "90/60.",
+      "opcion d": "110/70.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 55,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué significa “enteral”?",
-    "opciones": {
-      "opcion a": "Administración pulmonar.",
-      "opcion b": "Administración intradérmica.",
-      "opcion c": "Administración subcutánea.",
-      "opcion d": "Administración por tracto digestivo."
+    {
+      "id": 55,
+      "pregunta": "¿Qué significa “enteral”? Administración por tracto digestivo. Administración subcutánea. Administración intradérmica. Administración pulmonar.",
+      "opcion a": "Administración por tracto digestivo.",
+      "opcion b": "Administración subcutánea.",
+      "opcion c": "Administración intradérmica.",
+      "opcion d": "Administración pulmonar.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 56,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica un aumento brusco de temperatura en un niño?",
-    "opciones": {
-      "opcion a": "Hipotermia leve.",
-      "opcion b": "Golpe de calor siempre.",
+    {
+      "id": 56,
+      "pregunta": "¿Qué indica un aumento brusco de temperatura en un niño? Fiebre. Hipotermia leve. Resfrío común sin relevancia. Golpe de calor siempre.",
+      "opcion a": "Fiebre.",
+      "opcion b": "Hipotermia leve.",
       "opcion c": "Resfrío común sin relevancia.",
-      "opcion d": "Fiebre."
+      "opcion d": "Golpe de calor siempre.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 57,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el primer signo de hipovolemia?",
-    "opciones": {
-      "opcion a": "Eritema.",
-      "opcion b": "Dolor muscular.",
-      "opcion c": "Hipertensión.",
-      "opcion d": "Taquicardia."
+    {
+      "id": 57,
+      "pregunta": "¿Cuál es el primer signo de hipovolemia? Taquicardia. Hipertensión. Dolor muscular. Eritema.",
+      "opcion a": "Taquicardia.",
+      "opcion b": "Hipertensión.",
+      "opcion c": "Dolor muscular.",
+      "opcion d": "Eritema.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 58,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué se debe monitorear en un paciente que recibe morfina?",
-    "opciones": {
-      "opcion a": "Aumento de apetito.",
-      "opcion b": "Fiebre leve.",
-      "opcion c": "Sudoración fría.",
-      "opcion d": "Depresión respiratoria."
+    {
+      "id": 58,
+      "pregunta": "¿Qué se debe monitorear en un paciente que recibe morfina? Depresión respiratoria. Aumento de apetito. Fiebre leve. Sudoración fría.",
+      "opcion a": "Depresión respiratoria.",
+      "opcion b": "Aumento de apetito.",
+      "opcion c": "Fiebre leve.",
+      "opcion d": "Sudoración fría.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 59,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica un pulso débil y rápido?",
-    "opciones": {
-      "opcion a": "Estado saludable.",
-      "opcion b": "Estado febril normal.",
+    {
+      "id": 59,
+      "pregunta": "¿Qué indica un pulso débil y rápido? Shock o hipovolemia. Estado saludable. Relajación profunda. Estado febril normal.",
+      "opcion a": "Shock o hipovolemia.",
+      "opcion b": "Estado saludable.",
       "opcion c": "Relajación profunda.",
-      "opcion d": "Shock o hipovolemia."
+      "opcion d": "Estado febril normal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 60,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué complicación puede producir un apósito demasiado ajustado?",
-    "opciones": {
-      "opcion a": "Aceleración del metabolismo.",
-      "opcion b": "Aumento de temperatura corporal.",
-      "opcion c": "Hiperhidratación.",
-      "opcion d": "Isquemia."
+    {
+      "id": 60,
+      "pregunta": "¿Qué complicación puede producir un apósito demasiado ajustado? Isquemia. Hiperhidratación. Aumento de temperatura corporal. Aceleración del metabolismo. ⭐ PREGUNTAS 61 a 80",
+      "opcion a": "Isquemia.",
+      "opcion b": "Hiperhidratación.",
+      "opcion c": "Aumento de temperatura corporal.",
+      "opcion d": "Aceleración del metabolismo.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 61,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica una glucemia de 50 mg/dL?",
-    "opciones": {
-      "opcion a": "Hiperglucemia leve.",
-      "opcion b": "Insuficiencia renal.",
-      "opcion c": "Valor normal.",
-      "opcion d": "Hipoglucemia."
+    {
+      "id": 61,
+      "pregunta": "¿Qué indica una glucemia de 50 mg/dL? Hipoglucemia. Valor normal. Hiperglucemia leve. Insuficiencia renal.",
+      "opcion a": "Hipoglucemia.",
+      "opcion b": "Valor normal.",
+      "opcion c": "Hiperglucemia leve.",
+      "opcion d": "Insuficiencia renal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 62,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué vía se usa en vacunación?",
-    "opciones": {
-      "opcion a": "Intradérmica obligatoria.",
-      "opcion b": "Oral en todas.",
-      "opcion c": "Intranasal en todas.",
-      "opcion d": "Intramuscular o subcutánea según vacuna."
+    {
+      "id": 62,
+      "pregunta": "¿Qué vía se usa en vacunación? Intramuscular o subcutánea según vacuna. Intranasal en todas. Oral en todas. Intradérmica obligatoria.",
+      "opcion a": "Intramuscular o subcutánea según vacuna.",
+      "opcion b": "Intranasal en todas.",
+      "opcion c": "Oral en todas.",
+      "opcion d": "Intradérmica obligatoria.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 63,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica “anuria”?",
-    "opciones": {
-      "opcion a": "Orina abundante.",
-      "opcion b": "Retención fecal.",
-      "opcion c": "Ausencia casi total de orina.",
-      "opcion d": "Orina espesa."
+    {
+      "id": 63,
+      "pregunta": "¿Qué indica “anuria”? Ausencia casi total de orina. Orina abundante. Orina espesa. Retención fecal.",
+      "opcion a": "Ausencia casi total de orina.",
+      "opcion b": "Orina abundante.",
+      "opcion c": "Orina espesa.",
+      "opcion d": "Retención fecal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 64,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué parámetro sugiere infección?",
-    "opciones": {
-      "opcion a": "Plaquetas bajas.",
-      "opcion b": "Leucocitos altos.",
-      "opcion c": "Creatinina normal.",
-      "opcion d": "Calcio elevado."
+    {
+      "id": 64,
+      "pregunta": "¿Qué parámetro sugiere infección? Leucocitos altos. Plaquetas bajas. Calcio elevado. Creatinina normal.",
+      "opcion a": "Leucocitos altos.",
+      "opcion b": "Plaquetas bajas.",
+      "opcion c": "Calcio elevado.",
+      "opcion d": "Creatinina normal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 65,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es un antiséptico?",
-    "opciones": {
+    {
+      "id": 65,
+      "pregunta": "¿Qué es un antiséptico? Sustancia que reduce microorganismos en piel. Medicamento de uso oral. Estimulante cardíaco. Antiinflamatorio muscular.",
       "opcion a": "Sustancia que reduce microorganismos en piel.",
-      "opcion b": "Estimulante cardíaco.",
-      "opcion c": "Antiinflamatorio muscular.",
-      "opcion d": "Medicamento de uso oral."
+      "opcion b": "Medicamento de uso oral.",
+      "opcion c": "Estimulante cardíaco.",
+      "opcion d": "Antiinflamatorio muscular.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 66,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica respiración de Cheyne-Stokes?",
-    "opciones": {
+    {
+      "id": 66,
+      "pregunta": "¿Qué indica respiración de Cheyne-Stokes? Ventilación irregular con periodos de apnea. Hiperventilación continua. Apnea única. Movimientos respiratorios forzados.",
       "opcion a": "Ventilación irregular con periodos de apnea.",
       "opcion b": "Hiperventilación continua.",
       "opcion c": "Apnea única.",
-      "opcion d": "Movimientos respiratorios forzados."
+      "opcion d": "Movimientos respiratorios forzados.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 67,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es la hipertermia?",
-    "opciones": {
+    {
+      "id": 67,
+      "pregunta": "¿Qué es la hipertermia? Elevación de la temperatura corporal. Pérdida de calor excesiva. Deshidratación leve. Hipoglucemia.",
       "opcion a": "Elevación de la temperatura corporal.",
       "opcion b": "Pérdida de calor excesiva.",
       "opcion c": "Deshidratación leve.",
-      "opcion d": "Hipoglucemia."
+      "opcion d": "Hipoglucemia.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 68,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica un exudado seroso?",
-    "opciones": {
-      "opcion a": "Hemorragia interna.",
-      "opcion b": "Líquido claro, típico de fase inicial de curación.",
-      "opcion c": "Infección grave.",
-      "opcion d": "Necrosis."
+    {
+      "id": 68,
+      "pregunta": "¿Qué indica un exudado seroso? Líquido claro, típico de fase inicial de curación. Infección grave. Necrosis. Hemorragia interna.",
+      "opcion a": "Líquido claro, típico de fase inicial de curación.",
+      "opcion b": "Infección grave.",
+      "opcion c": "Necrosis.",
+      "opcion d": "Hemorragia interna.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 69,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué parámetro evalúa el estado de hidratación?",
-    "opciones": {
-      "opcion a": "Fuerza muscular.",
+    {
+      "id": 69,
+      "pregunta": "¿Qué parámetro evalúa el estado de hidratación? Turgencia de la piel. Reflejo de tos. Fuerza muscular. Acidez gástrica.",
+      "opcion a": "Turgencia de la piel.",
       "opcion b": "Reflejo de tos.",
-      "opcion c": "Acidez gástrica.",
-      "opcion d": "Turgencia de la piel."
+      "opcion c": "Fuerza muscular.",
+      "opcion d": "Acidez gástrica.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 70,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica una frecuencia cardíaca de 150 lpm?",
-    "opciones": {
-      "opcion a": "Arritmia benigna.",
+    {
+      "id": 70,
+      "pregunta": "¿Qué indica una frecuencia cardíaca de 150 lpm? Taquicardia. Bradicardia. Ritmo normal. Arritmia benigna.",
+      "opcion a": "Taquicardia.",
       "opcion b": "Bradicardia.",
-      "opcion c": "Taquicardia.",
-      "opcion d": "Ritmo normal."
+      "opcion c": "Ritmo normal.",
+      "opcion d": "Arritmia benigna.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 71,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué complicación puede causar un apósito húmedo prolongado?",
-    "opciones": {
-      "opcion a": "Hipotensión.",
+    {
+      "id": 71,
+      "pregunta": "¿Qué complicación puede causar un apósito húmedo prolongado? Maceración. Fiebre. Hipotensión. Hiperglucemia.",
+      "opcion a": "Maceración.",
       "opcion b": "Fiebre.",
-      "opcion c": "Maceración.",
-      "opcion d": "Hiperglucemia."
+      "opcion c": "Hipotensión.",
+      "opcion d": "Hiperglucemia.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 72,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el riesgo de administrar potasio rápido IV?",
-    "opciones": {
-      "opcion a": "Visión borrosa leve.",
-      "opcion b": "Hipotermia.",
-      "opcion c": "Hiperglucemia.",
-      "opcion d": "Arritmias letales."
+    {
+      "id": 72,
+      "pregunta": "¿Cuál es el riesgo de administrar potasio rápido IV? Arritmias letales. Hiperglucemia. Hipotermia. Visión borrosa leve.",
+      "opcion a": "Arritmias letales.",
+      "opcion b": "Hiperglucemia.",
+      "opcion c": "Hipotermia.",
+      "opcion d": "Visión borrosa leve.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 73,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica un RN con llanto fuerte y color rosado?",
-    "opciones": {
+    {
+      "id": 73,
+      "pregunta": "¿Qué indica un RN con llanto fuerte y color rosado? Buena vitalidad. Asfixia. Sepsis neonatal. Hipoperfusión.",
       "opcion a": "Buena vitalidad.",
       "opcion b": "Asfixia.",
       "opcion c": "Sepsis neonatal.",
-      "opcion d": "Hipoperfusión."
+      "opcion d": "Hipoperfusión.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 74,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué intervención reduce el riesgo de broncoaspiración?",
-    "opciones": {
-      "opcion a": "Administrar alimentos muy rápido.",
-      "opcion b": "Dar líquidos durante tos.",
-      "opcion c": "Posición prono.",
-      "opcion d": "Elevar cabecera 30–45°."
+    {
+      "id": 74,
+      "pregunta": "¿Qué intervención reduce el riesgo de broncoaspiración? Elevar cabecera 30–45°. Posición prono. Dar líquidos durante tos. Administrar alimentos muy rápido.",
+      "opcion a": "Elevar cabecera 30–45°.",
+      "opcion b": "Posición prono.",
+      "opcion c": "Dar líquidos durante tos.",
+      "opcion d": "Administrar alimentos muy rápido.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 75,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la FR normal pediátrica (2–5 años)?",
-    "opciones": {
-      "opcion a": "5–9 rpm.",
-      "opcion b": "20–30 rpm.",
+    {
+      "id": 75,
+      "pregunta": "¿Cuál es la FR normal pediátrica (2–5 años)? 20–30 rpm. 10–12 rpm. 40–60 rpm. 5–9 rpm.",
+      "opcion a": "20–30 rpm.",
+      "opcion b": "10–12 rpm.",
       "opcion c": "40–60 rpm.",
-      "opcion d": "10–12 rpm."
+      "opcion d": "5–9 rpm.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 76,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué significa “hematemesis”?",
-    "opciones": {
-      "opcion a": "Sangrado nasal.",
+    {
+      "id": 76,
+      "pregunta": "¿Qué significa “hematemesis”? Vómito con sangre. Sangre en orina. Sangrado nasal. Sangrado rectal.",
+      "opcion a": "Vómito con sangre.",
       "opcion b": "Sangre en orina.",
-      "opcion c": "Sangrado rectal.",
-      "opcion d": "Vómito con sangre."
+      "opcion c": "Sangrado nasal.",
+      "opcion d": "Sangrado rectal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 77,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es una úlcera por presión estadio III?",
-    "opciones": {
-      "opcion a": "Enrojecimiento no blanqueable.",
-      "opcion b": "Exposición ósea.",
-      "opcion c": "Lesión superficial sin profundidad.",
-      "opcion d": "Pérdida total de piel con daño del tejido subcutáneo."
+    {
+      "id": 77,
+      "pregunta": "¿Qué es una úlcera por presión estadio III? Pérdida total de piel con daño del tejido subcutáneo. Enrojecimiento no blanqueable. Exposición ósea. Lesión superficial sin profundidad.",
+      "opcion a": "Pérdida total de piel con daño del tejido subcutáneo.",
+      "opcion b": "Enrojecimiento no blanqueable.",
+      "opcion c": "Exposición ósea.",
+      "opcion d": "Lesión superficial sin profundidad.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 78,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica sudoración fría, palidez y pulso débil?",
-    "opciones": {
+    {
+      "id": 78,
+      "pregunta": "¿Qué indica sudoración fría, palidez y pulso débil? Shock. Fiebre leve. Hambre. Estrés emocional.",
       "opcion a": "Shock.",
       "opcion b": "Fiebre leve.",
       "opcion c": "Hambre.",
-      "opcion d": "Estrés emocional."
+      "opcion d": "Estrés emocional.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 79,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la mejor zona para punción capilar en adulto?",
-    "opciones": {
+    {
+      "id": 79,
+      "pregunta": "¿Cuál es la mejor zona para punción capilar en adulto? Pulpejo del dedo. Oreja. Nariz. Ombligo.",
       "opcion a": "Pulpejo del dedo.",
-      "opcion b": "Ombligo.",
-      "opcion c": "Oreja.",
-      "opcion d": "Nariz."
+      "opcion b": "Oreja.",
+      "opcion c": "Nariz.",
+      "opcion d": "Ombligo.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 80,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica dolor torácico súbito?",
-    "opciones": {
-      "opcion a": "Mala postura.",
-      "opcion b": "Dolor muscular leve.",
-      "opcion c": "Posible evento cardíaco.",
-      "opcion d": "Gases."
+    {
+      "id": 80,
+      "pregunta": "¿Qué indica dolor torácico súbito? Posible evento cardíaco. Gases. Dolor muscular leve. Mala postura. ⭐ PREGUNTAS 81 a 100",
+      "opcion a": "Posible evento cardíaco.",
+      "opcion b": "Gases.",
+      "opcion c": "Dolor muscular leve.",
+      "opcion d": "Mala postura.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 81,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué se debe evaluar en un paciente con diuréticos?",
-    "opciones": {
-      "opcion a": "Reflejo de tos.",
-      "opcion b": "Balance hídrico.",
-      "opcion c": "Llenado gástrico.",
-      "opcion d": "Coloración ocular."
+    {
+      "id": 81,
+      "pregunta": "¿Qué se debe evaluar en un paciente con diuréticos? Balance hídrico. Llenado gástrico. Coloración ocular. Reflejo de tos.",
+      "opcion a": "Balance hídrico.",
+      "opcion b": "Llenado gástrico.",
+      "opcion c": "Coloración ocular.",
+      "opcion d": "Reflejo de tos.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 82,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica taquipnea persistente?",
-    "opciones": {
+    {
+      "id": 82,
+      "pregunta": "¿Qué indica taquipnea persistente? Insuficiencia respiratoria inicial. Estado de relajación. Hidratación adecuada. Dolor abdominal.",
       "opcion a": "Insuficiencia respiratoria inicial.",
       "opcion b": "Estado de relajación.",
       "opcion c": "Hidratación adecuada.",
-      "opcion d": "Dolor abdominal."
+      "opcion d": "Dolor abdominal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 83,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indican los estertores pulmonares?",
-    "opciones": {
-      "opcion a": "Resfrío común.",
-      "opcion b": "Líquido en los alvéolos.",
-      "opcion c": "Aire atrapado en abdomen.",
-      "opcion d": "Hipotermia."
+    {
+      "id": 83,
+      "pregunta": "¿Qué indican los estertores pulmonares? Líquido en los alvéolos. Aire atrapado en abdomen. Hipotermia. Resfrío común.",
+      "opcion a": "Líquido en los alvéolos.",
+      "opcion b": "Aire atrapado en abdomen.",
+      "opcion c": "Hipotermia.",
+      "opcion d": "Resfrío común.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 84,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Para qué se usa la sonda Foley?",
-    "opciones": {
-      "opcion a": "Relajación muscular.",
-      "opcion b": "Drenaje urinario.",
-      "opcion c": "Drenaje gástrico.",
-      "opcion d": "Ventilación mecánica."
+    {
+      "id": 84,
+      "pregunta": "¿Para qué se usa la sonda Foley? Drenaje urinario. Drenaje gástrico. Ventilación mecánica. Relajación muscular.",
+      "opcion a": "Drenaje urinario.",
+      "opcion b": "Drenaje gástrico.",
+      "opcion c": "Ventilación mecánica.",
+      "opcion d": "Relajación muscular.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 85,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica un hematocrito bajo?",
-    "opciones": {
-      "opcion a": "Deshidratación severa.",
-      "opcion b": "Trombocitosis.",
-      "opcion c": "Hemoconcentración.",
-      "opcion d": "Anemia."
+    {
+      "id": 85,
+      "pregunta": "¿Qué indica un hematocrito bajo? Anemia. Hemoconcentración. Trombocitosis. Deshidratación severa.",
+      "opcion a": "Anemia.",
+      "opcion b": "Hemoconcentración.",
+      "opcion c": "Trombocitosis.",
+      "opcion d": "Deshidratación severa.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 86,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es la bradicardia?",
-    "opciones": {
+    {
+      "id": 86,
+      "pregunta": "¿Qué es la bradicardia? Frecuencia cardíaca < 60 lpm. Presión alta. Fiebre. FR elevada.",
       "opcion a": "Frecuencia cardíaca < 60 lpm.",
-      "opcion b": "FR elevada.",
-      "opcion c": "Presión alta.",
-      "opcion d": "Fiebre."
+      "opcion b": "Presión alta.",
+      "opcion c": "Fiebre.",
+      "opcion d": "FR elevada.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 87,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es la saturación de oxígeno?",
-    "opciones": {
-      "opcion a": "Presión intracraneal.",
-      "opcion b": "Nivel de glucosa en sangre.",
-      "opcion c": "Cantidad de dióxido de carbono exhalado.",
-      "opcion d": "Porcentaje de hemoglobina unida a oxígeno."
+    {
+      "id": 87,
+      "pregunta": "¿Qué es la saturación de oxígeno? Porcentaje de hemoglobina unida a oxígeno. Cantidad de dióxido de carbono exhalado. Nivel de glucosa en sangre. Presión intracraneal.",
+      "opcion a": "Porcentaje de hemoglobina unida a oxígeno.",
+      "opcion b": "Cantidad de dióxido de carbono exhalado.",
+      "opcion c": "Nivel de glucosa en sangre.",
+      "opcion d": "Presión intracraneal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 88,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es una arritmia?",
-    "opciones": {
+    {
+      "id": 88,
+      "pregunta": "¿Qué es una arritmia? Ritmo cardíaco anormal. Aumento de temperatura. Diarrea aguda. Infección urinaria.",
       "opcion a": "Ritmo cardíaco anormal.",
       "opcion b": "Aumento de temperatura.",
       "opcion c": "Diarrea aguda.",
-      "opcion d": "Infección urinaria."
+      "opcion d": "Infección urinaria.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 89,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica hipotermia?",
-    "opciones": {
-      "opcion a": "Hiperglucemia.",
-      "opcion b": "Fiebre moderada.",
-      "opcion c": "Temperatura 36.8 °C.",
-      "opcion d": "Temperatura < 35 °C."
+    {
+      "id": 89,
+      "pregunta": "¿Qué indica hipotermia? Temperatura < 35 °C. Temperatura 36.8 °C. Fiebre moderada. Hiperglucemia.",
+      "opcion a": "Temperatura < 35 °C.",
+      "opcion b": "Temperatura 36.8 °C.",
+      "opcion c": "Fiebre moderada.",
+      "opcion d": "Hiperglucemia.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 90,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la principal función del oxígeno suplementario?",
-    "opciones": {
-      "opcion a": "Reducir temperatura corporal.",
-      "opcion b": "Aumentar presión arterial.",
-      "opcion c": "Regular glucemia.",
-      "opcion d": "Revertir la hipoxemia."
+    {
+      "id": 90,
+      "pregunta": "¿Cuál es la principal función del oxígeno suplementario? Revertir la hipoxemia. Regular glucemia. Aumentar presión arterial. Reducir temperatura corporal.",
+      "opcion a": "Revertir la hipoxemia.",
+      "opcion b": "Regular glucemia.",
+      "opcion c": "Aumentar presión arterial.",
+      "opcion d": "Reducir temperatura corporal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 91,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica cianosis central?",
-    "opciones": {
-      "opcion a": "Hiperglucemia.",
-      "opcion b": "Anemia.",
-      "opcion c": "Fiebre leve.",
-      "opcion d": "Hipoxemia severa."
+    {
+      "id": 91,
+      "pregunta": "¿Qué indica cianosis central? Hipoxemia severa. Fiebre leve. Anemia. Hiperglucemia.",
+      "opcion a": "Hipoxemia severa.",
+      "opcion b": "Fiebre leve.",
+      "opcion c": "Anemia.",
+      "opcion d": "Hiperglucemia.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 92,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es la anafilaxia?",
-    "opciones": {
+    {
+      "id": 92,
+      "pregunta": "¿Qué es la anafilaxia? Reacción alérgica grave, de rápida progresión. Alergia leve. Infección cutánea. Intolerancia alimentaria.",
       "opcion a": "Reacción alérgica grave, de rápida progresión.",
       "opcion b": "Alergia leve.",
-      "opcion c": "Intolerancia alimentaria.",
-      "opcion d": "Infección cutánea."
+      "opcion c": "Infección cutánea.",
+      "opcion d": "Intolerancia alimentaria.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 93,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la prioridad ante convulsiones?",
-    "opciones": {
-      "opcion a": "Sujetarlo con fuerza.",
-      "opcion b": "Colocar objetos en la boca.",
-      "opcion c": "Administrar agua.",
-      "opcion d": "Proteger la cabeza del paciente."
+    {
+      "id": 93,
+      "pregunta": "¿Cuál es la prioridad ante convulsiones? Proteger la cabeza del paciente. Sujetarlo con fuerza. Colocar objetos en la boca. Administrar agua.",
+      "opcion a": "Proteger la cabeza del paciente.",
+      "opcion b": "Sujetarlo con fuerza.",
+      "opcion c": "Colocar objetos en la boca.",
+      "opcion d": "Administrar agua.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 94,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica orina oscura y escasa?",
-    "opciones": {
+    {
+      "id": 94,
+      "pregunta": "¿Qué indica orina oscura y escasa? Deshidratación. Ingesta abundante de agua. Buena perfusión. Hiperhidratación.",
       "opcion a": "Deshidratación.",
-      "opcion b": "Hiperhidratación.",
-      "opcion c": "Ingesta abundante de agua.",
-      "opcion d": "Buena perfusión."
+      "opcion b": "Ingesta abundante de agua.",
+      "opcion c": "Buena perfusión.",
+      "opcion d": "Hiperhidratación.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 95,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica una respiración ruidosa tipo “roncus”?",
-    "opciones": {
-      "opcion a": "Apnea.",
-      "opcion b": "Secreciones en vías aéreas grandes.",
-      "opcion c": "Digestión incompleta.",
-      "opcion d": "Colapso pulmonar."
+    {
+      "id": 95,
+      "pregunta": "¿Qué indica una respiración ruidosa tipo “roncus”? Secreciones en vías aéreas grandes. Apnea. Colapso pulmonar. Digestión incompleta.",
+      "opcion a": "Secreciones en vías aéreas grandes.",
+      "opcion b": "Apnea.",
+      "opcion c": "Colapso pulmonar.",
+      "opcion d": "Digestión incompleta.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 96,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica un hematoma duro y doloroso en zona de inyección?",
-    "opciones": {
-      "opcion a": "Dolor muscular pasajero.",
+    {
+      "id": 96,
+      "pregunta": "¿Qué indica un hematoma duro y doloroso en zona de inyección? Posible infiltración. Cicatrización normal. Dolor muscular pasajero. Buena absorción del medicamento.",
+      "opcion a": "Posible infiltración.",
       "opcion b": "Cicatrización normal.",
-      "opcion c": "Buena absorción del medicamento.",
-      "opcion d": "Posible infiltración."
+      "opcion c": "Dolor muscular pasajero.",
+      "opcion d": "Buena absorción del medicamento.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 97,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué debe hacerse ante vómitos persistentes?",
-    "opciones": {
+    {
+      "id": 97,
+      "pregunta": "¿Qué debe hacerse ante vómitos persistentes? Valorar hidratación y electrolitos. Suspender líquidos totalmente. Aumentar ingesta de alimentos sólidos. Administrar analgésicos sin indicación.",
       "opcion a": "Valorar hidratación y electrolitos.",
       "opcion b": "Suspender líquidos totalmente.",
       "opcion c": "Aumentar ingesta de alimentos sólidos.",
-      "opcion d": "Administrar analgésicos sin indicación."
+      "opcion d": "Administrar analgésicos sin indicación.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 98,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el riesgo de la inmovilización prolongada?",
-    "opciones": {
-      "opcion a": "Hipertensión.",
-      "opcion b": "Úlceras por presión.",
-      "opcion c": "Hiperactividad.",
-      "opcion d": "Aumento de apetito."
+    {
+      "id": 98,
+      "pregunta": "¿Cuál es el riesgo de la inmovilización prolongada? Úlceras por presión. Hiperactividad. Aumento de apetito. Hipertensión.",
+      "opcion a": "Úlceras por presión.",
+      "opcion b": "Hiperactividad.",
+      "opcion c": "Aumento de apetito.",
+      "opcion d": "Hipertensión.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 99,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica FR mayor a 30 rpm?",
-    "opciones": {
-      "opcion a": "Eupnea.",
+    {
+      "id": 99,
+      "pregunta": "¿Qué indica FR mayor a 30 rpm? Taquipnea. Bradipnea. Eupnea. Apnea parcial.",
+      "opcion a": "Taquipnea.",
       "opcion b": "Bradipnea.",
-      "opcion c": "Taquipnea.",
-      "opcion d": "Apnea parcial."
+      "opcion c": "Eupnea.",
+      "opcion d": "Apnea parcial.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 100,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué se debe hacer ante un paro cardiorrespiratorio?",
-    "opciones": {
+    {
+      "id": 100,
+      "pregunta": "¿Qué se debe hacer ante un paro cardiorrespiratorio? Iniciar RCP inmediata. Buscar documentación del paciente. Esperar al médico sin actuar. Sacudir al paciente vigorosamente.",
       "opcion a": "Iniciar RCP inmediata.",
-      "opcion b": "Sacudir al paciente vigorosamente.",
-      "opcion c": "Buscar documentación del paciente.",
-      "opcion d": "Esperar al médico sin actuar."
-    },
-    "respuesta_correcta": "opcion a"
-  }
-]
+      "opcion b": "Buscar documentación del paciente.",
+      "opcion c": "Esperar al médico sin actuar.",
+      "opcion d": "Sacudir al paciente vigorosamente.",
+      "respuesta_correcta": "opcion a"
+    }
+  ]
+}

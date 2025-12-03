@@ -1,1318 +1,169 @@
-[
-  {
-    "id": 3,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son las recomendaciones para un tratamiento de Diarrea sin deshidratación?",
-    "opciones": {
-      "opcion a": "Continuar en domicilio, dar líquidos y alimentación, explicar signos de alarmas y control en 24hs.",
-      "opcion b": "Continuar con líquidos, alimentación, evaluar descanso y sueño por posibles complicaciones.",
-      "opcion c": "Evaluar en observación cada 4 hs, incorporar Sales de Rehidratación oral (SRO) más alimentación y reevaluar en 12hs.",
-      "opcion d": "Evaluar internación, continuar con lactancia, valorar cada 4 hs, si no puede beber colocar sonda nasogástrica."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 4,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la finalidad del Código de Ética del Consejo Internacional de Enfermeras (CIE)?",
-    "opciones": {
-      "opcion a": "Creencias subjetivas y cultura individual que tienen los profesionales de salud en pos de evitar accidentes o eventos adversos.",
-      "opcion b": "Valores, actitudes, competencias y patrones de conducta individuales y grupales que determinan el compromiso con la ejecución de los programas de seguridad.",
-      "opcion c": "Actitudes grupales dentro de los equipos de salud relacionados con los cuidados y prevención de la enfermedad y su atención.",
-      "opcion d": "Resultado de acciones individuales preventivas que realizan de manera individual los profesionales de Enfermería y el equipo de salud hacia los usuarios de atención. 1"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 6,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el objetivo del profesional de Enfermería para la atención comunitaria?",
-    "opciones": {
-      "opcion a": "Maryori Gordon.",
-      "opcion b": "Calista Roy.",
-      "opcion c": "Dorotea E. Orem.",
-      "opcion d": "Nola Pender. 1"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 0,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el signo de alarma que puede tener un niño con diagnóstico de diarrea con deshidratación?",
-    "opciones": {
-      "opcion a": "Sed.",
-      "opcion b": "Dolor.",
-      "opcion c": "Signos de shock.",
-      "opcion d": "Fiebre. 2 1"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 1,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué se recomienda realizar para la interpretación y uso de las nuevas tablas de referencia de presión arterial para niños, niñas y adolescentes, si no se dispone del mango apropiado para la toma?",
-    "opciones": {
-      "opcion a": "Utilizar un mango más grande.",
-      "opcion b": "Utilizar cualquier mango.",
-      "opcion c": "Utilizar el mango correspondiente.",
-      "opcion d": "Utilizar un mango más pequeño. 1"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 2,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué derechos tiene la persona gestante durante el trabajo de parto, parto y puerperio en cuanto a la persona acompañante?",
-    "opciones": {
+{
+  "tema": "Enfermería",
+  "año": 2024,
+  "examen": 1,
+  "preguntas": [
+    {
+      "id": 2,
+      "pregunta": "¿Qué derechos tiene la persona gestante durante el trabajo de parto, parto y puerperio en cuanto a la persona acompañante?",
       "opcion a": "Puede elegir solo a un familiar directo para que la acompañe.",
       "opcion b": "Puede elegir solo a la madre de la persona gestante para que la acompañe.",
       "opcion c": "Puede elegir a la persona que acompañe todo el tiempo en esos procesos.",
-      "opcion d": "Puede elegir al padre de la persona por nacer."
+      "opcion d": "Puede elegir al padre de la persona por nacer.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 13,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son los niveles de ansiedad que definió Peplau (1963)?",
-    "opciones": {
-      "opcion a": "Leve, moderada, grave y pánico.",
-      "opcion b": "Breve, moderada, aguda y crónica.",
-      "opcion c": "Crisis, pánico, crónica y terminal.",
-      "opcion d": "Aguda, subaguda, moderada y crónica. 1"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 4,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué elementos contempla la Enfermería basada en la evidencia (EBE)?",
-    "opciones": {
+    {
+      "id": 4,
+      "pregunta": "¿Qué elementos contempla la Enfermería basada en la evidencia (EBE)?",
       "opcion a": "Evidencia científica, experiencia profesional y la opinión del usuario",
       "opcion b": "Valoración, diagnóstico y evaluación de Enfermería.",
       "opcion c": "Paciente, problemas e intervenciones.",
-      "opcion d": "Problemas reales, decisiones y objeto de estudio."
+      "opcion d": "Problemas reales, decisiones y objeto de estudio.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 15,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿A qué edad comienzan a manifestarse las caries?",
-    "opciones": {
-      "opcion a": "A los 5 años.",
-      "opcion b": "Antes del año.",
-      "opcion c": "A partir de los 3 años.",
-      "opcion d": "A los 2 años. 1"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 6,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la relación adecuada entre compresiones torácicas y ventilaciones al realizar Reanimación cardiopulmonar (RCP) a niños y niñas mayores de 1 año?",
-    "opciones": {
-      "opcion a": "30 compresiones torácicas seguidas de 2 ventilación.",
-      "opcion b": "5 compresiones torácicas seguidas de 1 ventilación.",
-      "opcion c": "10 compresiones torácicas seguidas de 3 ventilaciones.",
-      "opcion d": "15 compresiones torácicas seguidas de 1 ventilaciones. 3"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 17,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el objetivo principal de la maniobra de Heimlich?",
-    "opciones": {
-      "opcion a": "Estimular la respiración en un paciente inconsciente.",
-      "opcion b": "Detener una hemorragia interna.",
-      "opcion c": "Estabilizar una fractura de costilla.",
-      "opcion d": "Desobstrucción de la vía aérea. 1"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 8,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cómo son los pasos a seguir si usted comienza maniobras de RCP a una persona de 10 años, pide un Desfibrilador Externo Automático (DEA) pero pasan más de 10 minutos y no se consigue?",
-    "opciones": {
-      "opcion a": "Se realizan 50 compresiones por minuto para suplantar el DEA.",
-      "opcion b": "Se realizan 4 ventilación para suplantar el DEA.",
-      "opcion c": "Se continúa realizando RCP hasta conseguir un DEA.",
-      "opcion d": "Se suspenden las compresiones por no tener un DEA. 1"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 9,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son los ángulos de inserción de la aguja según la vía de administración de las vacunas, según las recomendaciones Nacionales de vacunación-Argentina-2012?",
-    "opciones": {
+    {
+      "id": 9,
+      "pregunta": "¿Cuáles son los ángulos de inserción de la aguja según la vía de administración de las vacunas, según las recomendaciones Nacionales de vacunación-Argentina-2012?",
       "opcion a": "25º, 45º,95º",
       "opcion b": "10º,45º,100º",
       "opcion c": "15°, 45°, 90°",
-      "opcion d": "10º, 50º, 90º"
+      "opcion d": "10º, 50º, 90º",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 20,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Quiénes son responsables de llevar a cabo el proceso de la farmacodinamia?",
-    "opciones": {
+    {
+      "id": 20,
+      "pregunta": "¿Quiénes son responsables de llevar a cabo el proceso de la farmacodinamia?",
       "opcion a": "Células, tejidos u organismos.",
       "opcion b": "Sustancias ácidas, células y virus.",
       "opcion c": "Microorganismos, vitaminas y mitocondrias.",
-      "opcion d": "Órganos, parásitos y medicación."
+      "opcion d": "Órganos, parásitos y medicación.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 21,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿A qué se denomina desinfección?",
-    "opciones": {
-      "opcion a": "Es el proceso físico o químico donde se eliminan los microorganismos de los objetos inanimados.",
-      "opcion b": "Es la utilización de incineradores el cual destruyen todos los microorganismos viables.",
-      "opcion c": "Es el uso de calor como método para eliminar microorganismos en superficies inanimadas.",
-      "opcion d": "Consiste en eliminar la suciedad depositada en superficies inanimadas por medios mecánicos. 2"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 2,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la \"primera medida inicial\" que se debe realizar como profesionales de Enfermería para el manejo de la hemorragia post parto?",
-    "opciones": {
-      "opcion a": "Pedir ayuda al servicio de Hemoterapia.",
-      "opcion b": "Evaluar el estado clínico general.",
-      "opcion c": "Colocar acceso venoso número 24 G.",
-      "opcion d": "Proceder sin demora. 4 2"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 3,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué recomendación existe sobre los catéteres centrales venosos desde el Ministerio de Salud de la Nación, sobre la Prevención cuaternaria \"No Hacer\" en Enfermería?",
-    "opciones": {
+    {
+      "id": 3,
+      "pregunta": "¿Qué recomendación existe sobre los catéteres centrales venosos desde el Ministerio de Salud de la Nación, sobre la Prevención cuaternaria \"No Hacer\" en Enfermería?",
       "opcion a": "Se recomienda cambiar el catéter si el paciente refiere dolor y picazón en el sitio de inserción.",
       "opcion b": "Se recomienda monitorizar y revisar diariamente para garantizar su uso.",
       "opcion c": "Se debe realizar curación cada 8 horas para evaluación de sitio de inserción del catéter.",
-      "opcion d": "Por debe utilizar de manera prolongada los catéteres centrales de inserción periférica."
+      "opcion d": "Por debe utilizar de manera prolongada los catéteres centrales de inserción periférica.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 24,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cómo se define el concepto de anticuerpo?",
-    "opciones": {
-      "opcion a": "Es una proteína producida por el organismo en respuesta a la estimulación por antígenos.",
-      "opcion b": "Es un antígeno que, para generar anticuerpos, necesita de la cooperación de los linfocitos T.",
-      "opcion c": "Es un microorganismo capaz de producir una infección o enfermedad infecciosa.",
-      "opcion d": "Es una sustancia capaz de interaccionar con el receptor de las células T o B. 2"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 5,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el factor que, al no realizarlo involucra consecuencias catastróficas como prácticas de intervenciones quirúrgicas en un lugar erróneo, según un informe sobre seguridad del paciente de la OMS?",
-    "opciones": {
+    {
+      "id": 5,
+      "pregunta": "¿Cuál es el factor que, al no realizarlo involucra consecuencias catastróficas como prácticas de intervenciones quirúrgicas en un lugar erróneo, según un informe sobre seguridad del paciente de la OMS?",
       "opcion a": "Historia clínica electrónica.",
       "opcion b": "Identificación de paciente.",
       "opcion c": "Informatización de la prescripción.",
-      "opcion d": "Prácticas riesgosas de inyección."
+      "opcion d": "Prácticas riesgosas de inyección.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 26,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son las etapas del puerperio?",
-    "opciones": {
-      "opcion a": "Puerperio mediato, alejado, tardío y post tardío.",
-      "opcion b": "Puerperio pre inmediato, preciso, adecuado y lejano.",
-      "opcion c": "Puerperio inmediato, completo, concreto y tardío.",
-      "opcion d": "Puerperio inmediato, precoz, alejado y tardío. 2"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 7,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Como se define volumen corriente (VC) al realizar la valoración de la capacidad respiratoria?",
-    "opciones": {
+    {
+      "id": 7,
+      "pregunta": "¿Como se define volumen corriente (VC) al realizar la valoración de la capacidad respiratoria?",
       "opcion a": "Es el volumen de aire de 1100ml que permanecen dentro de los pulmones.",
       "opcion b": "Es aproximadamente 1000ml de aire que se pueden expirar.",
       "opcion c": "Es la cantidad de aire de unos 2100-3100ml que se pueden inhalar con fuerza.",
-      "opcion d": "Es la cantidad de aire de unos 500ml que entran y salen de los pulmones."
+      "opcion d": "Es la cantidad de aire de unos 500ml que entran y salen de los pulmones.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 28,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cómo se llama el cultivo que estudia las secreciones pulmonares?",
-    "opciones": {
-      "opcion a": "Urocultivo.",
-      "opcion b": "Hisopado.",
-      "opcion c": "Esputo.",
-      "opcion d": "Coprocultivo. 5 2"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 9,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son los atributos indispensables para la realización del Cuidado Humanizado, según el artículo \"La naturaleza del cuidado humanizado\" de Cruz Riveros?",
-    "opciones": {
-      "opcion a": "El usuario, su cultura y religión como prioridad.",
-      "opcion b": "La relación profesional y el cuidado de su enfermedad únicamente.",
-      "opcion c": "La comunicación entre el usuario y profesional, su salud y la religión.",
-      "opcion d": "El ser humano, sujeto del cuidado, comunicación y enfoque holístico. 3"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 0,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué datos son indispensables para una correcta valoración respecto a la evaluación antropométrica?",
-    "opciones": {
-      "opcion a": "Fecha de control, fecha de nacimiento y cálculo de los percentiles.",
-      "opcion b": "Peso en KG, talla en cm e índice de masa corporal (IMC).",
-      "opcion c": "Fecha de control, perímetro de cintura en cm y perímetro cefálico en cm.",
-      "opcion d": "Índice de masa corporal (IMC), edad y perímetro abdominal. 3"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 1,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué acciones define el primer punto según el Algoritmo de paro cardíaco en adultos AMERICAN HEART ASSOCIATION (AHA) en el ámbito sanitario?",
-    "opciones": {
-      "opcion a": "Comenzar con ventilación, compresiones y colocar dispositivo para la vía aérea.",
-      "opcion b": "Conectar desfibrilador, realizar descarga y evaluar el monitor.",
-      "opcion c": "Administrar adrenalina, lidocaína y conectar un monitor.",
-      "opcion d": "Iniciar RCP, administrar oxígeno y conectar un monitor/desfibrilador. 3"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 2,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "Usted tiene una paciente internada en cuidados progresivos por patología intestinal crónica. Presenta colocado un CVPc en miembro superior derecho por tratamiento prolongado de 14 días de antibioticoterapia. Se realiza prescripción de nutrición parenteral estándar por 2 semanas para recuperación nutricional cuya osmolaridad es de 1300 mOsmol/L, ¿Cuál es la osmolaridad recomendada para la administración por vía periférica?",
-    "opciones": {
-      "opcion a": "Osmolaridad de 800 mOsm/L.",
-      "opcion b": "Osmolaridad mayor 1200 mOsm/L.",
-      "opcion c": "Osmolaridad mayor a 600 mOsm/L.",
-      "opcion d": "Osmolaridad menor a 600 mOsm/L. 3"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 3,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la recomendación de terapia de oxígeno para tratar la disnea no hipóxica según las recomendaciones del Ministerio de salud de prevención cuaternaria?",
-    "opciones": {
-      "opcion a": "Administrar oxígeno humidificados a todos los pacientes.",
-      "opcion b": "Administrar oxígeno suplementario mezclado.",
-      "opcion c": "Utilizar cánulas de alto flujo para pacientes con enfisema.",
-      "opcion d": "Para tratar la disnea no hipóxica no utilizar oxígeno. 3"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 4,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿A qué capacidad ventilatoria corresponde la definición \"es el volumen de aire que queda en los pulmones tras una espiración normal\"?",
-    "opciones": {
-      "opcion a": "Vital.",
-      "opcion b": "Pulmonar total.",
-      "opcion c": "Residual funcional.",
-      "opcion d": "Vital forzada. 6 3"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 5,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la combinación recomendada para lograr la sedación de la persona y disminuir el sufrimiento en el caso de urgencia de salud mental?",
-    "opciones": {
-      "opcion a": "Uso de Clorpromazina y clonazepam.",
-      "opcion b": "Uso de Risperidona y Quetiapina.",
-      "opcion c": "Uso de Clonazepam y Diazepam.",
-      "opcion d": "Uso de Haloperidol y Lorazepam 3"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 6,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cómo la llama a la primera etapa de conductas que implican la coordinación temprana de los cinco sentidos en CoPaP?",
-    "opciones": {
-      "opcion a": "Relajación.",
-      "opcion b": "Llanto de nacimiento.",
-      "opcion c": "Descanso.",
-      "opcion d": "Familiarización. 3"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 7,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuántas compresiones torácicas se deben realizar en 1 minuto, según el Algoritmo de paro cardíaco en adultos AMERICAN HEART ASSOCIATION (AHA)?",
-    "opciones": {
+    {
+      "id": 7,
+      "pregunta": "¿Cuántas compresiones torácicas se deben realizar en 1 minuto, según el Algoritmo de paro cardíaco en adultos AMERICAN HEART ASSOCIATION (AHA)?",
       "opcion a": "Entre 80-90 compresiones por minuto.",
       "opcion b": "Entre 100-120 compresiones por minuto.",
       "opcion c": "Entre 130-140 compresiones por minuto.",
-      "opcion d": "Entre 180-200 compresiones por minuto."
+      "opcion d": "Entre 180-200 compresiones por minuto.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 38,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué funciones tiene el personal de enfermería de Atención Primaria?",
-    "opciones": {
+    {
+      "id": 38,
+      "pregunta": "¿Qué funciones tiene el personal de enfermería de Atención Primaria?",
       "opcion a": "Asistencial, formar, gestionar e investigar.",
       "opcion b": "Formar e investigar, consultor y gestor de casos.",
       "opcion c": "Asistencial, mediador, mentor y organizador.",
-      "opcion d": "Dirigir, diseñar, gestionar e investigar."
+      "opcion d": "Dirigir, diseñar, gestionar e investigar.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 39,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la función principal de los pelos nasales dentro de las cavidades nasales?",
-    "opciones": {
+    {
+      "id": 39,
+      "pregunta": "¿Cuál es la función principal de los pelos nasales dentro de las cavidades nasales?",
       "opcion a": "Transportar el aire.",
       "opcion b": "Filtrar el aire.",
       "opcion c": "Secretar moco.",
-      "opcion d": "Regular la temperatura."
+      "opcion d": "Regular la temperatura.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 40,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿A qué hace referencia el término \"primera hora de vida\"?",
-    "opciones": {
-      "opcion a": "Periodo que comienza con la colocación de la persona recién nacida al pecho hasta el puerperio inmediato.",
-      "opcion b": "Periodo en que se produce la adaptación de la persona recién nacida al medio extrauterino y se inicia la lactancia.",
-      "opcion c": "Es el tiempo total desde el alumbramiento de una persona puérpera y el ingreso a la habitación Hospitalaria.",
-      "opcion d": "Proceso que comienza con clampeo del cordón umbilical hasta el contacto directo piel con piel, sobre el abdomen o el pecho desnudo de la persona puérpera. 7 4"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 1,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el Antiséptico de primera elección para el procedimiento de inserción y cuidado del",
-    "opciones": {
-      "opcion c": "Alcohol al 100 %.",
-      "opcion a": "Iodopovidona 10%.",
-      "opcion b": "Clorhexidina alcohólica.",
-      "opcion d": "Alcohol yodado. 4"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 2,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué requisitos se tienen que tener en cuenta para el correcto planteamiento de los objetivos de las investigaciones?",
-    "opciones": {
-      "opcion a": "Debe Iniciar con un verbo infinitivo, ser alcanzable, lógico y coherente.",
-      "opcion b": "Tiene que tener lógica y ser coherente ya que es una construcción objetiva.",
-      "opcion c": "Ser coherente con la realidad actual y tener conclusiones.",
-      "opcion d": "Debe formularse con verbos participativos con metas esperables. 4"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 3,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es inherente a la profesión Enfermera según el Código de Ética del Consejo Internacional de Enfermeras (CIE)?",
-    "opciones": {
+    {
+      "id": 3,
+      "pregunta": "¿Qué es inherente a la profesión Enfermera según el Código de Ética del Consejo Internacional de Enfermeras (CIE)?",
       "opcion a": "Los derechos humanos.",
       "opcion b": "La sociedad.",
       "opcion c": "El conocimiento.",
-      "opcion d": "Los valores."
+      "opcion d": "Los valores.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 44,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cómo se dividen las necesidades humanas en la pirámide de Maslow?",
-    "opciones": {
-      "opcion a": "Necesidades de déficit y desarrollo.",
-      "opcion b": "Necesidades básicas y fisiológicas.",
-      "opcion c": "Necesidades cognitivas y de desarrollo.",
-      "opcion d": "Necesidades de reconocimiento y fisiológicas. 4"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 5,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿A qué factor hace referencia el informe de la OMS y la seguridad del paciente, cuando refiere que existen factores que pueden generar daños a los pacientes relacionados con los sistemas de información sanitaria?",
-    "opciones": {
-      "opcion a": "Factores tecnológicos.",
-      "opcion b": "Factores ambientales.",
-      "opcion c": "Factores externos.",
-      "opcion d": "Factores humanos. 4"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 6,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son los fenómenos que conforman el Metaparadigma de Enfermería en cuanto a los fenómenos/objeto de investigación?",
-    "opciones": {
-      "opcion a": "La salud, la comunidad, el entorno y el ambiente.",
-      "opcion b": "La persona, el entorno, la salud y el cuidado.",
-      "opcion c": "El cuidado, el entorno, la enfermedad y el individuo.",
-      "opcion d": "La disciplina, el entorno, la enfermedad y el bienestar. 8 4"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 7,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué vacuna se administra como única dosis en lactantes, antes de egresar de la maternidad según el calendario Nacional de Vacunación 2024?",
-    "opciones": {
-      "opcion a": "Virus sincicial.",
-      "opcion b": "Hepatitis B.",
-      "opcion c": "Gripe.",
-      "opcion d": "BCG. 4"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 8,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿A cuántos grados se debe colocar la aguja para la aplicación de la vacuna BCG a un neonato de 5 días de vida?",
-    "opciones": {
-      "opcion a": "A 20 grados.",
-      "opcion b": "A 25 grados.",
-      "opcion c": "A 15 grados.",
-      "opcion d": "A 10 grados. 4"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 9,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la única contraindicación aplicable a todas las vacunas autorizadas e incorporadas al Programa Nacional de Control de Enfermedades Inmunoprevenibles?",
-    "opciones": {
-      "opcion a": "Antecedente de fiebre alta.",
-      "opcion b": "Presencia de una enfermedad crónica.",
-      "opcion c": "Exposición previa a una infección.",
-      "opcion d": "Historial de reacción alérgica grave. 5"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 0,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué intervención se requiere para llevar a cabo una internación involuntaria, según los Lineamientos para la atención de la urgencia en Salud Mental (2020)?",
-    "opciones": {
-      "opcion a": "De un médico de guardia.",
-      "opcion b": "De un familiar responsable.",
-      "opcion c": "Del Servicio Policial.",
-      "opcion d": "Del Poder Judicial. 5"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 1,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "Fayol define el concepto de administración como \"el acto de administrar como un proceso\". Si gestiona por procesos. ¿Qué es lo que quiere alcanzar si se gestiona por procesos?",
-    "opciones": {
-      "opcion a": "Proyectos.",
-      "opcion b": "Estrategias.",
-      "opcion c": "Objetivos.",
-      "opcion d": "Ideas. 5"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 2,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿A través de qué instrumento se puede evaluar la cultura de seguridad en una institución, según el manual de seguridad del paciente del Ministerio de Salud?",
-    "opciones": {
-      "opcion a": "Informe.",
-      "opcion b": "Investigación.",
-      "opcion c": "Encuesta.",
-      "opcion d": "Formulario. 9"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 53,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué patología es la más frecuente ante la contaminación del aire en las viviendas?",
-    "opciones": {
+    {
+      "id": 53,
+      "pregunta": "¿Qué patología es la más frecuente ante la contaminación del aire en las viviendas?",
       "opcion a": "Patologías respiratorias agudas.",
       "opcion b": "Diferentes tipos de cáncer.",
       "opcion c": "Infecciones cutáneas.",
-      "opcion d": "Intoxicaciones."
+      "opcion d": "Intoxicaciones.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 54,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿A qué concepto se hace referencia al indicar \"hábitos individuales y creencias culturales\"?",
-    "opciones": {
-      "opcion a": "Estilo de vida.",
-      "opcion b": "Construcción cultura.",
-      "opcion c": "Vida saludable.",
-      "opcion d": "Mecanismos de adaptación. 5"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 5,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son los objetivos específicos de las recomendaciones \"No Hacer\" que indica el Ministerio de salud sobre prevención cuaternaria?",
-    "opciones": {
-      "opcion a": "Aumentar las consecuencias negativas derivadas de las intervenciones, mejorar la calidad de atención sanitaria y reducir costos innecesarios al sistema de salud.",
-      "opcion b": "Reducir la mortalidad relacionada a patologías que son consecuencias de las internaciones, mejorar la calidad de atención en las internaciones y reducir costos al sistema de salud.",
-      "opcion c": "Reducir la posibilidad de consecuencias negativas derivadas de las intervenciones desaconsejadas, mejorar la calidad de atención sanitaria y reducir costos innecesarios al sistema de salud.",
-      "opcion d": "Aumentar la posibilidad de consecuencias negativas derivadas de las intervenciones desaconsejadas, mejorar la calidad de atención sanitaria y reducir costos innecesarios al sistema de salud. 5"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 6,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿En qué nivel de atención Enfermería en el campo comunitario se desarrollan funciones de prevención y promoción de la salud?",
-    "opciones": {
-      "opcion a": "Tercer Nivel de atención de salud.",
-      "opcion b": "Segundo Nivel de atención de salud.",
-      "opcion c": "Primer nivel de atención de salud.",
-      "opcion d": "Cuarto Nivel de atención de salud. 5"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 7,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué funciones menciona La Ley 24.004 del Ejercicio de la Enfermería?",
-    "opciones": {
-      "opcion a": "Vigilar y controlar a los profesionales de Enfermería en la Argentina.",
-      "opcion b": "Establecer normas para la protección del medio ambiente y la comunidad.",
-      "opcion c": "Cuidar y colaborar con las personas de todas las edades y familias.",
-      "opcion d": "Promoción, prevención, recuperación y rehabilitación de la salud y de enfermedades. 5"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 8,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la acción sensible al tiempo para la ligadura del cordón umbilical después del nacimiento?",
-    "opciones": {
-      "opcion a": "Se sugiere realizar de inmediato y luego el APGAR.",
-      "opcion b": "Debe realizarse antes que la persona recién nacida haya comenzado a respirar.",
-      "opcion c": "Se sugiere esperar al menos un minuto o hasta que el cordón deje de latir.",
-      "opcion d": "Debe esperarse hasta que la persona recién nacida haya llorado. 10"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 59,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué tipos de flora microbiana se encuentran en las manos?",
-    "opciones": {
+    {
+      "id": 59,
+      "pregunta": "¿Qué tipos de flora microbiana se encuentran en las manos?",
       "opcion a": "Flora autóctona y nativa.",
       "opcion b": "Flora inmunológica y microbiótica.",
       "opcion c": "Flora resistente y transitoria.",
-      "opcion d": "Flora colonizada y reducida."
+      "opcion d": "Flora colonizada y reducida.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 60,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿A qué hace referencia el concepto \"dependencia física\"?",
-    "opciones": {
-      "opcion a": "La aparición de síntomas físicos al interrumpirse el consumo de una sustancia. Ocurre con el alcohol, los opiáceos y los benzodiacepinas.",
-      "opcion b": "Es la interrupción del consumo de sustancias que produce un estado de notable ansiedad y cambios en el humor. Ocurre con los analgésicos.",
-      "opcion c": "A un estado de ansiedad, deseo de consumo de la sustancia, irritabilidad y cambios en el humor producido por los alimentos.",
-      "opcion d": "Es la disminución de los efectos de las sustancias ante el consumo de la misma cantidad de ésta."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 61,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la triada del proceso salud-enfermedad?",
-    "opciones": {
-      "opcion a": "Agente, germen y bacterias.",
-      "opcion b": "Huésped, agente y ambiente.",
-      "opcion c": "Microorganismo, parásito y vector.",
-      "opcion d": "Contexto, entorno y agente. 6"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 2,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la principal medida que los profesionales deben realizar para el proceso de vacunación?",
-    "opciones": {
-      "opcion a": "Desinfectar la piel.",
-      "opcion b": "Manejo de desechos cortopunzantes.",
-      "opcion c": "Uso de guantes estériles.",
-      "opcion d": "Lavado de manos. 6"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 3,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son las vacunas que se deben colocar a los 5 años para el ingreso escolar, según el calendario Nacional de Vacunación 2024?",
-    "opciones": {
-      "opcion a": "salk, triple viral, varicela, triple bacteriana.",
-      "opcion b": "salk , triple bacteriana, pentavalente.",
-      "opcion c": "salk, triple bacteriana acelular, triple viral.",
-      "opcion d": "IPV, Triple Viral, varicela y Triple Bacteriana Celular. 6"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 4,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cómo se define el modelo de atención sobre la consejería integral en salud sexual y salud reproductiva?",
-    "opciones": {
-      "opcion a": "Como el modo de hacer de los profesionales de la salud.",
-      "opcion b": "Como actividades que se observan o recogen del examen del paciente.",
-      "opcion c": "Como la atención subjetiva basada en la deducción de la necesidad.",
-      "opcion d": "Como un modelo organizado y centrado en la persona. 11 6"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 5,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "Usted se encuentra en el sector de internación general y tiene a cargo un paciente que termina de desayunar, siendo las 8:30 hs. llaman del Servicio de Diagnóstico por imágenes para informar que en 5 minutos vienen a buscar al paciente para realizar un estudio que requiere ayuno. Revisa y no se encuentra registrado en la historia clínica del paciente la indicación del estudio, ni fue informado o conversado con Enfermería por el equipo tratante. ¿ A qué factor hace referencia el caso según los eventos adversos habituales para la seguridad del paciente?",
-    "opciones": {
-      "opcion a": "Factores relacionados con el paciente y el entorno.",
-      "opcion b": "Factores tecnológicos e informáticos.",
-      "opcion c": "Factores sistémicos y organizativos.",
-      "opcion d": "Factores humanos y comportamentales. 6"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 6,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué región de la Argentina tiene la mayor proporción de adolescentes en comparación con el resto del país, según el informe sobre la Situación de salud de adolescentes y jóvenes de la Argentina 2023?",
-    "opciones": {
+    {
+      "id": 6,
+      "pregunta": "¿Qué región de la Argentina tiene la mayor proporción de adolescentes en comparación con el resto del país, según el informe sobre la Situación de salud de adolescentes y jóvenes de la Argentina 2023?",
       "opcion a": "Misiones.",
       "opcion b": "Ciudad Autónoma de Buenos Aires.",
       "opcion c": "Santa Fe .",
-      "opcion d": "Córdoba."
+      "opcion d": "Córdoba.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 67,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cómo se define la Salud Pública según Vázquez (2018)?",
-    "opciones": {
-      "opcion a": "Es la denominación de las funciones del individuo y de su comunidad para organizar los niveles de atención.",
-      "opcion b": "Es el arte de prevenir enfermedades mediante la asistencia directa de las personas y su familia para disminuir enfermedades infecciosas.",
-      "opcion c": "Es la ciencia que protege y mejora la salud de las comunidades a través de la educación, promoción e investigación para prevenir enfermedades.",
-      "opcion d": "Conjunto de acciones mínimas de una población determinada, que los poderes públicos tienen la obligación de garantizar. 6"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 8,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son los valores de PA (presión arterial) normal en adolescentes a partir de los 16 años, según la tabla de referencia?",
-    "opciones": {
-      "opcion a": "PA sistólica > o = 90 mmHg y diastólica > 95 mmHg.",
-      "opcion b": "PA sistólica < 70 mmHg y diastólica > 75 mmHg.",
-      "opcion c": "PA sistólica <130mmHg y diastólica <85 mmHg.",
-      "opcion d": "PA sistólica > 90 mmHg y diastólica > 75 mmHg. 6"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 9,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué analiza el proceso de Investigación de la Enfermería basada en Evidencia?",
-    "opciones": {
-      "opcion a": "Indicadores hospitalarios y estadísticas epidemiológicas.",
-      "opcion b": "Conocimientos previos y guías clínicas.",
-      "opcion c": "Búsqueda bibliográfica hospitalaria y evaluación crítica.",
-      "opcion d": "Resultados provenientes de evidencia externa y experiencia profesional. 12 7"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 2007,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "sobre Salud Mental y Apoyo Psicosocial en Emergencias Humanitarias y Catástrofes?",
-    "opciones": {
+    {
+      "id": 2007,
+      "pregunta": "sobre Salud Mental y Apoyo Psicosocial en Emergencias Humanitarias y Catástrofes?",
       "opcion a": "Organización de la comunidad y apoyo comunitario.",
       "opcion b": "Realizar derivaciones solamente a hospitales.",
       "opcion c": "Diagnóstico de situación en materia de Salud Mental.",
-      "opcion d": "Coordinación intersectorial de los servicios de Salud Mental."
+      "opcion d": "Coordinación intersectorial de los servicios de Salud Mental.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 71,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué estructuras se proyectan hacia fuera desde la pared lateral de cada fosa nasal?",
-    "opciones": {
-      "opcion a": "Cornetes nasales.",
-      "opcion b": "Amígdalas.",
-      "opcion c": "Paladar.",
-      "opcion d": "Adenoides. 7"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 2,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "Ingresa en la guardia una persona con: actividad verbal y motora aumentada, ansiedad e irritabilidad. Deambula compulsivamente arrojando elementos que se encuentran a su paso. Su discurso es incoherente. ¿Qué manifestaciones presenta según la evaluación de signos y síntomas?",
-    "opciones": {
-      "opcion a": "Excitación psicomotriz.",
-      "opcion b": "Síndrome relacionado con el uso de psicofármacos.",
-      "opcion c": "Inhibición psicomotriz.",
-      "opcion d": "Crisis de ansiedad/ angustia. 7"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 3,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el parámetro que indica el hacinamiento crítico según el informe sobre la Situación de salud de adolescentes y jóvenes de la Argentina 2023?",
-    "opciones": {
+    {
+      "id": 3,
+      "pregunta": "¿Cuál es el parámetro que indica el hacinamiento crítico según el informe sobre la Situación de salud de adolescentes y jóvenes de la Argentina 2023?",
       "opcion a": "Hogares con más de dos personas por cuarto.",
       "opcion b": "Hogares sin acceso a agua potable.",
       "opcion c": "Hogares con acceso a fuentes alternativas de agua.",
-      "opcion d": "Hogares con más de tres personas por cuarto."
+      "opcion d": "Hogares con más de tres personas por cuarto.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 74,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuántos pares de costillas conforman la caja torácica?",
-    "opciones": {
-      "opcion a": "12 pares de costillas.",
-      "opcion b": "14 pares de costillas.",
-      "opcion c": "10 pares de costillas.",
-      "opcion d": "16 pares de costillas. 7"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 5,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el evento adverso más frecuente en los hospitales con una incidencia de 3 a 5 casos por cada 1000 días-cama, según la publicación \"seguridad del paciente\" de la OMS?",
-    "opciones": {
-      "opcion a": "Caídas del paciente.",
-      "opcion b": "Errores en la prescripción de medicamentos.",
-      "opcion c": "Ulceras por decúbito.",
-      "opcion d": "Infecciones asociadas a la internación. 13 7"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 6,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿A qué derecho se refiere la Ley 26.529 donde enuncia que el paciente tiene derecho a que toda persona que participe en la elaboración o manipulación de la documentación clínica, o bien tenga acceso al contenido de la misma, guarde la debida reserva?",
-    "opciones": {
-      "opcion a": "Dignidad.",
-      "opcion b": "Libertad .",
-      "opcion c": "Autonomía.",
-      "opcion d": "Confidencialidad. 7"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 7,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué elementos son fundamentales para el cuidado, según la teoría de Leininger?",
-    "opciones": {
-      "opcion a": "Las acciones interdisciplinarias para la atención.",
-      "opcion b": "La esencia de la práctica y su entorno.",
-      "opcion c": "Las conductas culturales respecto a los cuidados.",
-      "opcion d": "El autocuidado y sus procesos. 7"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 8,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cómo se inicia la maniobra de Heimlich para mayores de 1 año?",
-    "opciones": {
-      "opcion a": "Abrace al paciente comenzando desde el costado y luego hacia atrás.",
-      "opcion b": "Envuelva el puño con la otra mano y haga compresiones.",
-      "opcion c": "Ponga su mano cerrada en puño por debajo del ombligo.",
-      "opcion d": "Abrace al paciente por la cintura, desde atrás. 7"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 9,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿A quiénes se recomienda principalmente administrar las dosis de refuerzo contra COVID-19 por alto riesgo de enfermedad grave?",
-    "opciones": {
-      "opcion a": "Personas menores de 18 años que no adquirieron la enfermedad.",
-      "opcion b": "Todas las personas que no hayan recibido ninguna dosis de vacuna.",
-      "opcion c": "Personas menores de 50 años, los que adquirieron la enfermedad y menores de 2 años.",
-      "opcion d": "Personas de 50 años o mayores, personas con inmunocompromiso y personas gestantes. 8"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 0,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué fuente de datos se obtiene de los familiares de un paciente para realizar diagnósticos comunitarios?",
-    "opciones": {
-      "opcion a": "Primaria.",
-      "opcion b": "Oficial.",
-      "opcion c": "Secundaria.",
-      "opcion d": "Terciaria. 8"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 1,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el gran desafío para el personal de Enfermería en relación con la salud sexual y reproductiva?",
-    "opciones": {
-      "opcion a": "Promover el ejercicio de su autonomía.",
-      "opcion b": "Realizar marcos regulatorios para su promoción.",
-      "opcion c": "Capacitar para competencias en promoción.",
-      "opcion d": "Concientizar en las prácticas educativas. 14"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 82,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué sustancia de abuso es considerada Psicoestimulante?",
-    "opciones": {
-      "opcion a": "Cocaína.",
-      "opcion b": "Cannabis.",
-      "opcion c": "Opiáceos.",
-      "opcion d": "Alcohol. 8"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 3,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el paso previo que debe tener en cuenta al momento de realizar una correcta toma de presión arterial, para no tener resultados erróneos?",
-    "opciones": {
-      "opcion a": "La persona tiene que 5 minutos antes tomar líquidos previos a la toma de PA.",
-      "opcion b": "La persona debe guardar reposo previo a la medicación de 2 -5 minutos.",
-      "opcion c": "La persona debe realizar ayuno de 1 hora antes de la toma de PA.",
-      "opcion d": "La persona tiene que estar sentada 1 hora antes y tomar PA en reposo. 8"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 4,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el esquema de controles prenatales más apropiado en personas gestantes que cursan embarazos de bajo riesgo?",
-    "opciones": {
-      "opcion a": "Se deben realizar cuando realiza la consulta la persona gestante.",
-      "opcion b": "Deben ser 10 (diez) visitas según cronograma de recomendación actualizado.",
-      "opcion c": "Se recomienda la adopción de un esquema de 4 (cuatro) visitas obligatorias y evaluar otras si son necesarias.",
-      "opcion d": "Al menos 8 (ocho) visitas para el seguimiento prenatal y adaptarse a las necesidades particulares de la gestante. 8"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 5,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es parámetro que se utiliza para determinan la acidosis / alcalosis en una gasometría arterial (GA)?",
-    "opciones": {
-      "opcion a": "PaO2.",
-      "opcion b": "PaCO2.",
-      "opcion c": "HCO3.",
-      "opcion d": "pH. 8"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 6,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué características deben tener las soluciones con base de alcohol para la higiene de manos?",
-    "opciones": {
-      "opcion a": "Solo deben ser en forma de espuma hidroalcohólicas.",
-      "opcion b": "Deben tener una concentración de alcohol al 100%.",
-      "opcion c": "Tienen que ser en forma de cremas para el uso cotidiano.",
-      "opcion d": "Deben tener una concentración de alcohol de 60% a 95%. 8"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 7,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles características corresponden a la definición de crepitantes?",
-    "opciones": {
-      "opcion a": "Sonidos musicales continuos se escuchan en pacientes con bronquitis, enfisema o asma.",
-      "opcion b": "Sonido de tono seco, alto de rozamiento, que indica inflamación pleural.",
-      "opcion c": "Sonidos suaves de tono grave.",
-      "opcion d": "Sonidos cortos, definidos, como de crujido o borboteo. 15"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 88,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son los lugares recomendados para la inserción de CVPc?",
-    "opciones": {
-      "opcion a": "Miembro más hábil.",
-      "opcion b": "Zona proximal a distal.",
-      "opcion c": "Antebrazo zona del pliegue.",
-      "opcion d": "Zona distal a la proximal. 8"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 9,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué actividades se deberían realizar al momento que la persona puérpera presenta una hemorragia post parto sin alumbramiento?",
-    "opciones": {
+    {
+      "id": 9,
+      "pregunta": "¿Qué actividades se deberían realizar al momento que la persona puérpera presenta una hemorragia post parto sin alumbramiento?",
       "opcion a": "Evaluar el estado clínico, comprobar hemorragia y realizar masaje uterino.",
       "opcion b": "Administrar solución fisiológica y si es necesario transfusión glóbulos rojos.",
       "opcion c": "Inyección de Oxitócica 10UI (EV), masaje uterino, tracción controlada del cordón.",
-      "opcion d": "Evaluar el estado clínico, físico y preparar a la puérpera para una histerectomía."
+      "opcion d": "Evaluar el estado clínico, físico y preparar a la puérpera para una histerectomía.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 90,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles de estos trastornos crónicos se relacionan con el consumo excesivo de alcohol?",
-    "opciones": {
+    {
+      "id": 90,
+      "pregunta": "¿Cuáles de estos trastornos crónicos se relacionan con el consumo excesivo de alcohol?",
       "opcion a": "Accidentes cerebrales e hipertensión.",
       "opcion b": "Encefalopatía de Wernicke-Korsakoff y enfermedad hepática.",
       "opcion c": "Hipertensión y diabetes.",
-      "opcion d": "Obesidad y cefaleas."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 91,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la clasificación de los peligros ambientales?",
-    "opciones": {
-      "opcion a": "Radiación, Incendios y Erosión.",
-      "opcion b": "Atmosféricos, ambientales y sociales.",
-      "opcion c": "Enfermedades, sequía y radiación.",
-      "opcion d": "Biológicos, químicos y físicos. 9"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 2,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la definición de Ética del cuidado para Enfermería?",
-    "opciones": {
-      "opcion a": "Es la relación y la manera en que las personas se relacionan.",
-      "opcion b": "Es la relación entre las personas, la Enfermería y su actitud hacia los otros.",
-      "opcion c": "Es el modo que las personas piensan, sienten y se comunican.",
-      "opcion d": "Es la manera que los profesionales se relacionan con los otros. 9"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 3,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el primer paso para iniciar Reanimación cardiopulmonar (RCP) en niñas y niños mayores de 1 año, según la recomendación del Ministerio de Salud de la Nación?",
-    "opciones": {
-      "opcion a": "Pedir ayuda.",
-      "opcion b": "Iniciar compresiones.",
-      "opcion c": "Verificar que la escena sea segura.",
-      "opcion d": "Abrir la vía aérea. 16"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 94,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son las vías naturales de administración de una droga?",
-    "opciones": {
-      "opcion a": "Intramuscular, subcutánea y bolo directo.",
-      "opcion b": "Hipodérmica, Subcutánea e intratecal.",
-      "opcion c": "Subaracnoidea, rectal y medular.",
-      "opcion d": "Vías Enterales, Inhalatoria y tópica. 9"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 5,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cómo define Diarrea aguda en menores de 2 años, la Organización Mundial de la Salud (OMS)?",
-    "opciones": {
-      "opcion a": "Es la eliminación de heces acuosas en número de 2 a más en menos de 48hs.",
-      "opcion b": "Es la eliminación de heces semi blandas en número de 5 veces en 24hs.",
-      "opcion c": "Es la eliminación de heces líquidas en número de 1 vez en 72hs.",
-      "opcion d": "Es la eliminación de heces semilíquidas en número de 3 o más en 12hs. 9"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 6,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué medicación debe utilizar para bloquear los efectos de los opioides, en una persona adulta que llega a la guardia con sospecha de intoxicación?",
-    "opciones": {
-      "opcion a": "Desloratadina.",
-      "opcion b": "Naloxona.",
-      "opcion c": "Hidrocortisona.",
-      "opcion d": "Adrenalina. 9"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 7,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué ritmo es desfibrilable en el RCP según el Algoritmo de paro cardíaco en adultos AMERICAN HEART ASSOCIATION (AHA)?",
-    "opciones": {
-      "opcion a": "Fibrilación auricular y latido irregular.",
-      "opcion b": "Asistolia e insuficiencia mitral.",
-      "opcion c": "Fibrilación Ventricular y Taquicardia Ventricular sin pulso.",
-      "opcion d": "Fibrilación Ventricular y Taquicardia Ventricular con pulso. 9"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 8,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Qué nombre recibe el sonido que se escucha al realizar la valoración respiratoria en pacientes con bronquitis, enfisema o asma?",
-    "opciones": {
-      "opcion a": "Roncus.",
-      "opcion b": "Rales crepitantes.",
-      "opcion c": "Sibilancias.",
-      "opcion d": "Soplo por fricción. 9"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 9,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son los procesos de la Farmacocinética?",
-    "opciones": {
-      "opcion a": "Administración, velocidad, metabolización y excreción.",
-      "opcion b": "La absorción, distribución, metabolización y excreción.",
-      "opcion c": "Ingreso, absorción, pasaje a la membrana y eliminación.",
-      "opcion d": "Velocidad, absorción, dilución y secreción. 17 1"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 0,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿A qué edad debe aplicarse el primer refuerzo de la Vacuna \"IPV\" (Vacuna antipoliomielítica Inactivada tipo Salk), según el calendario Nacional de Vacunación 2024?",
-    "opciones": {
-      "opcion a": "5 años.",
-      "opcion b": "18 meses.",
-      "opcion c": "24 meses.",
-      "opcion d": "11 años. 18"
-    },
-    "respuesta_correcta": "opcion a"
-  }
-]
+      "opcion d": "Obesidad y cefaleas.",
+      "respuesta_correcta": "opcion a"
+    }
+  ]
+}

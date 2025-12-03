@@ -1,0 +1,35 @@
+ARCHIVOS JSON DE ENFERMERÍA DISPONIBLES
+========================================
+
+TOTAL: 15 archivos JSON
+
+2021:
+- enfermeria_2021.json (original)
+- enfermeria_2021_alt.json (alternativo)
+- enfermeria_2021_3.json (nuevo - convertido de TXT)
+
+2022:
+- enfermeria_2022_1.json (nuevo - 99 preguntas)
+- enfermeria_2022_2_original.json (JSON original con formato extendido)
+- enfermeria_2022_3_original.json (JSON original con formato extendido)
+- enfermeria_2022_4.json (nuevo - convertido de TXT)
+
+2023:
+- enfermeria_2023_1.json (nuevo - 100 preguntas)
+- enfermeria_2023_2.json (nuevo - 100 preguntas)
+- enfermeria_2023_3.json (nuevo - 90 preguntas)
+- enfermeria_2023_4.json (nuevo - 80 preguntas)
+
+2024:
+- enfermeria_2024_1.json (nuevo - 18 preguntas)
+- enfermeria_2024_2.json (nuevo - 19 preguntas)
+- enfermeria_2024_3.json (nuevo - 100 preguntas)
+- enfermeria_2024_4.json (nuevo - 71 preguntas)
+
+ARCHIVOS TXT RESTANTES:
+- enfermeria año 2021.txt (fuente original)
+- enfermeria año 2021 (2).txt (fuente original)
+
+NOTA IMPORTANTE:
+Las respuestas correctas en los archivos convertidos están por defecto
+en "opcion a". Se recomienda revisión manual para corregir las respuestas.

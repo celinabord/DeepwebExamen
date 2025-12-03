@@ -1,1402 +1,907 @@
-[
-  {
-    "id": 1,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el primer paso en el proceso de enfermería?",
-    "opciones": {
-      "opcion a": "Intervención.",
+{
+  "tema": "Enfermería",
+  "año": 2023,
+  "examen": 1,
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es el primer paso en el proceso de enfermería? Valoración. Evaluación. Intervención. Diagnóstico final.",
+      "opcion a": "Valoración.",
       "opcion b": "Evaluación.",
-      "opcion c": "Valoración.",
-      "opcion d": "Diagnóstico final."
+      "opcion c": "Intervención.",
+      "opcion d": "Diagnóstico final.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 2,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la temperatura corporal que define fiebre en adultos?",
-    "opciones": {
+    {
+      "id": 2,
+      "pregunta": "¿Cuál es la temperatura corporal que define fiebre en adultos? ≥ 38 °C. ≥ 36.9 °C. ≥ 37.2 °C. ≥ 37.5 °C al tacto.",
       "opcion a": "≥ 38 °C.",
       "opcion b": "≥ 36.9 °C.",
       "opcion c": "≥ 37.2 °C.",
-      "opcion d": "≥ 37.5 °C al tacto."
+      "opcion d": "≥ 37.5 °C al tacto.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 3,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué elemento es indispensable para garantizar una técnica estéril?",
-    "opciones": {
-      "opcion a": "Rociado de alcohol en el aire.",
+    {
+      "id": 3,
+      "pregunta": "¿Qué elemento es indispensable para garantizar una técnica estéril? Lavado de manos quirúrgico. Uso de guantes no estériles. Colocación de barbijo solamente. Rociado de alcohol en el aire.",
+      "opcion a": "Lavado de manos quirúrgico.",
       "opcion b": "Uso de guantes no estériles.",
-      "opcion c": "Lavado de manos quirúrgico.",
-      "opcion d": "Colocación de barbijo solamente."
+      "opcion c": "Colocación de barbijo solamente.",
+      "opcion d": "Rociado de alcohol en el aire.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 4,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué músculo es el sitio recomendado para la aplicación de inyecciones intramusculares en menores de 2 años?",
-    "opciones": {
+    {
+      "id": 4,
+      "pregunta": "¿Qué músculo es el sitio recomendado para la aplicación de inyecciones intramusculares en menores de 2 años? Vasto externo. Deltoides. Glúteo mayor. Trapecio.",
       "opcion a": "Vasto externo.",
       "opcion b": "Deltoides.",
       "opcion c": "Glúteo mayor.",
-      "opcion d": "Trapecio."
+      "opcion d": "Trapecio.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 5,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué indica una saturación de oxígeno menor al 90%?",
-    "opciones": {
-      "opcion a": "Falla renal.",
-      "opcion b": "Hipoxemia.",
-      "opcion c": "Hipotermia.",
-      "opcion d": "Hipertensión pulmonar."
+    {
+      "id": 5,
+      "pregunta": "¿Qué indica una saturación de oxígeno menor al 90%? Hipoxemia. Hipotermia. Hipertensión pulmonar. Falla renal.",
+      "opcion a": "Hipoxemia.",
+      "opcion b": "Hipotermia.",
+      "opcion c": "Hipertensión pulmonar.",
+      "opcion d": "Falla renal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 6,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la vía más rápida para la administración de medicamentos?",
-    "opciones": {
-      "opcion a": "Vía sublingual.",
-      "opcion b": "Vía intradérmica.",
-      "opcion c": "Vía tópica.",
-      "opcion d": "Vía intravenosa."
+    {
+      "id": 6,
+      "pregunta": "¿Cuál es la vía más rápida para la administración de medicamentos? Vía intravenosa. Vía sublingual. Vía intradérmica. Vía tópica.",
+      "opcion a": "Vía intravenosa.",
+      "opcion b": "Vía sublingual.",
+      "opcion c": "Vía intradérmica.",
+      "opcion d": "Vía tópica.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 7,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la posición recomendada ante un paciente inconsciente con respiración conservada?",
-    "opciones": {
+    {
+      "id": 7,
+      "pregunta": "¿Cuál es la posición recomendada ante un paciente inconsciente con respiración conservada? Posición lateral de seguridad. Trendelemburg. Fowler alto. Decúbito ventral.",
       "opcion a": "Posición lateral de seguridad.",
       "opcion b": "Trendelemburg.",
-      "opcion c": "Decúbito ventral.",
-      "opcion d": "Fowler alto."
+      "opcion c": "Fowler alto.",
+      "opcion d": "Decúbito ventral.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 8,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué órgano regula principalmente el equilibrio ácido-base?",
-    "opciones": {
-      "opcion a": "Hígado.",
+    {
+      "id": 8,
+      "pregunta": "¿Qué órgano regula principalmente el equilibrio ácido-base? Riñones. Estómago. Hígado. Bazo.",
+      "opcion a": "Riñones.",
       "opcion b": "Estómago.",
-      "opcion c": "Riñones.",
-      "opcion d": "Bazo."
+      "opcion c": "Hígado.",
+      "opcion d": "Bazo.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 9,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la presión arterial considerada normal en adultos?",
-    "opciones": {
-      "opcion a": "160/110 mmHg.",
-      "opcion b": "120/80 mmHg.",
-      "opcion c": "140/100 mmHg.",
-      "opcion d": "90/50 mmHg."
+    {
+      "id": 9,
+      "pregunta": "¿Cuál es la presión arterial considerada normal en adultos? 120/80 mmHg. 140/100 mmHg. 90/50 mmHg. 160/110 mmHg.",
+      "opcion a": "120/80 mmHg.",
+      "opcion b": "140/100 mmHg.",
+      "opcion c": "90/50 mmHg.",
+      "opcion d": "160/110 mmHg.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 10,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el objetivo principal del triage?",
-    "opciones": {
+    {
+      "id": 10,
+      "pregunta": "¿Cuál es el objetivo principal del triage? Priorizar la atención según gravedad. Ordenar por orden de llegada. Clasificar por edad. Seleccionar quién será internado.",
       "opcion a": "Priorizar la atención según gravedad.",
       "opcion b": "Ordenar por orden de llegada.",
       "opcion c": "Clasificar por edad.",
-      "opcion d": "Seleccionar quién será internado."
+      "opcion d": "Seleccionar quién será internado.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 11,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué se recomienda realizar para la interpretación y uso de las nuevas tablas de referencia de presión arterial para niños, niñas y adolescentes, si no se dispone del mango apropiado para la toma?",
-    "opciones": {
-      "opcion a": "Inflar el manguito a la mitad para compensar.",
+    {
+      "id": 11,
+      "pregunta": "¿Qué se recomienda realizar para la interpretación y uso de las nuevas tablas de referencia de presión arterial para niños, niñas y adolescentes, si no se dispone del mango apropiado para la toma? Utilizar un mango más grande. Utilizar el mango más pequeño disponible. Tomar la presión sin manguito. Inflar el manguito a la mitad para compensar.",
+      "opcion a": "Utilizar un mango más grande.",
       "opcion b": "Utilizar el mango más pequeño disponible.",
-      "opcion c": "Utilizar un mango más grande.",
-      "opcion d": "Tomar la presión sin manguito."
+      "opcion c": "Tomar la presión sin manguito.",
+      "opcion d": "Inflar el manguito a la mitad para compensar.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 12,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué derechos tiene la persona gestante durante el trabajo de parto, parto y puerperio en cuanto a la persona acompañante?",
-    "opciones": {
-      "opcion a": "Puede elegir acompañante pero solo durante el trabajo de parto.",
+    {
+      "id": 12,
+      "pregunta": "¿Qué derechos tiene la persona gestante durante el trabajo de parto, parto y puerperio en cuanto a la persona acompañante? Puede elegir a la persona que la acompañe todo el tiempo en esos procesos. Solo puede elegir un familiar de primer grado. Puede elegir acompañante pero solo durante el trabajo de parto. Debe ser acompañado únicamente por personal sanitario.",
+      "opcion a": "Puede elegir a la persona que la acompañe todo el tiempo en esos procesos.",
       "opcion b": "Solo puede elegir un familiar de primer grado.",
-      "opcion c": "Puede elegir a la persona que la acompañe todo el tiempo en esos procesos.",
-      "opcion d": "Debe ser acompañado únicamente por personal sanitario."
+      "opcion c": "Puede elegir acompañante pero solo durante el trabajo de parto.",
+      "opcion d": "Debe ser acompañado únicamente por personal sanitario.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 13,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son los niveles de ansiedad que definió Peplau (1963)?",
-    "opciones": {
+    {
+      "id": 13,
+      "pregunta": "¿Cuáles son los niveles de ansiedad que definió Peplau (1963)? Leve, moderada, grave y pánico. Leve, intensa, profunda y terminal. Baja, media, aguda y extrema. Primaria, secundaria, intermedia y severa.",
       "opcion a": "Leve, moderada, grave y pánico.",
-      "opcion b": "Primaria, secundaria, intermedia y severa.",
-      "opcion c": "Leve, intensa, profunda y terminal.",
-      "opcion d": "Baja, media, aguda y extrema."
+      "opcion b": "Leve, intensa, profunda y terminal.",
+      "opcion c": "Baja, media, aguda y extrema.",
+      "opcion d": "Primaria, secundaria, intermedia y severa.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 14,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué elementos contempla la Enfermería basada en la evidencia (EBE)?",
-    "opciones": {
-      "opcion a": "Evaluación, auditoría y reporte profesional.",
-      "opcion b": "Diagnóstico, tratamiento y rehabilitación.",
-      "opcion c": "Protocolos institucionales, normas y supervisiones.",
-      "opcion d": "Evidencia científica, experiencia profesional y la opinión del usuario."
+    {
+      "id": 14,
+      "pregunta": "¿Qué elementos contempla la Enfermería basada en la evidencia (EBE)? Evidencia científica, experiencia profesional y la opinión del usuario. Protocolos institucionales, normas y supervisiones. Diagnóstico, tratamiento y rehabilitación. Evaluación, auditoría y reporte profesional.",
+      "opcion a": "Evidencia científica, experiencia profesional y la opinión del usuario.",
+      "opcion b": "Protocolos institucionales, normas y supervisiones.",
+      "opcion c": "Diagnóstico, tratamiento y rehabilitación.",
+      "opcion d": "Evaluación, auditoría y reporte profesional.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 15,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿A qué edad comienzan a manifestarse las caries?",
-    "opciones": {
-      "opcion a": "A partir de los 5 años.",
+    {
+      "id": 15,
+      "pregunta": "¿A qué edad comienzan a manifestarse las caries? Antes del año. Entre los 2 y 3 años. A partir de los 5 años. Solo cuando salen las muelas definitivas.",
+      "opcion a": "Antes del año.",
       "opcion b": "Entre los 2 y 3 años.",
-      "opcion c": "Antes del año.",
-      "opcion d": "Solo cuando salen las muelas definitivas."
+      "opcion c": "A partir de los 5 años.",
+      "opcion d": "Solo cuando salen las muelas definitivas.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 16,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Relación adecuada entre compresiones torácicas y ventilaciones en RCP en mayores de 1 año:",
-    "opciones": {
+    {
+      "id": 16,
+      "pregunta": "Relación adecuada entre compresiones torácicas y ventilaciones en RCP en mayores de 1 año: 30 compresiones torácicas seguidas de 2 ventilaciones. 20 compresiones y 5 ventilaciones. 10 compresiones y 3 ventilaciones. 5 compresiones por cada ventilación.",
       "opcion a": "30 compresiones torácicas seguidas de 2 ventilaciones.",
       "opcion b": "20 compresiones y 5 ventilaciones.",
       "opcion c": "10 compresiones y 3 ventilaciones.",
-      "opcion d": "5 compresiones por cada ventilación."
+      "opcion d": "5 compresiones por cada ventilación.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 17,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Objetivo principal de la maniobra de Heimlich:",
-    "opciones": {
-      "opcion a": "Controlar una hemorragia nasal.",
-      "opcion b": "Desobstrucción de la vía aérea.",
-      "opcion c": "Estimular respiración en pacientes con apnea.",
-      "opcion d": "Facilitar la ventilación mecánica."
+    {
+      "id": 17,
+      "pregunta": "Objetivo principal de la maniobra de Heimlich: Desobstrucción de la vía aérea. Estimular respiración en pacientes con apnea. Facilitar la ventilación mecánica. Controlar una hemorragia nasal.",
+      "opcion a": "Desobstrucción de la vía aérea.",
+      "opcion b": "Estimular respiración en pacientes con apnea.",
+      "opcion c": "Facilitar la ventilación mecánica.",
+      "opcion d": "Controlar una hemorragia nasal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 18,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué hacer si se inicia RCP y el DEA tarda más de 10 min?",
-    "opciones": {
-      "opcion a": "Cambiar a ventilaciones únicamente.",
+    {
+      "id": 18,
+      "pregunta": "¿Qué hacer si se inicia RCP y el DEA tarda más de 10 min? Continuar realizando RCP hasta conseguir un DEA. Detener la RCP a los 10 minutos. Cambiar a ventilaciones únicamente. Administrar agua y esperar asistencia.",
+      "opcion a": "Continuar realizando RCP hasta conseguir un DEA.",
       "opcion b": "Detener la RCP a los 10 minutos.",
-      "opcion c": "Administrar agua y esperar asistencia.",
-      "opcion d": "Continuar realizando RCP hasta conseguir un DEA."
+      "opcion c": "Cambiar a ventilaciones únicamente.",
+      "opcion d": "Administrar agua y esperar asistencia.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 19,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Ángulos de inserción de aguja según vía de administración de vacunas:",
-    "opciones": {
+    {
+      "id": 19,
+      "pregunta": "Ángulos de inserción de aguja según vía de administración de vacunas: 15°, 45°, 90°. 30°, 60°, 120°. 20°, 50°, 80°. 10°, 30°, 70°.",
       "opcion a": "15°, 45°, 90°.",
       "opcion b": "30°, 60°, 120°.",
       "opcion c": "20°, 50°, 80°.",
-      "opcion d": "10°, 30°, 70°."
+      "opcion d": "10°, 30°, 70°.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 20,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Quiénes llevan a cabo la farmacodinamia?",
-    "opciones": {
-      "opcion a": "Vitaminas, minerales y electrolitos.",
-      "opcion b": "Células, tejidos u organismos.",
+    {
+      "id": 20,
+      "pregunta": "¿Quiénes llevan a cabo la farmacodinamia? Células, tejidos u organismos. Sustancias ácidas y bacterias. Enzimas, hormonas y parásitos. Vitaminas, minerales y electrolitos.",
+      "opcion a": "Células, tejidos u organismos.",
+      "opcion b": "Sustancias ácidas y bacterias.",
       "opcion c": "Enzimas, hormonas y parásitos.",
-      "opcion d": "Sustancias ácidas y bacterias."
+      "opcion d": "Vitaminas, minerales y electrolitos.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 21,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es la desinfección?",
-    "opciones": {
+    {
+      "id": 21,
+      "pregunta": "¿Qué es la desinfección? Proceso físico o químico donde se eliminan microorganismos de objetos inanimados. Eliminación de suciedad visible. Uso de calor seco únicamente. Eliminación de todo microorganismo incluido esporas.",
       "opcion a": "Proceso físico o químico donde se eliminan microorganismos de objetos inanimados.",
       "opcion b": "Eliminación de suciedad visible.",
       "opcion c": "Uso de calor seco únicamente.",
-      "opcion d": "Eliminación de todo microorganismo incluido esporas."
+      "opcion d": "Eliminación de todo microorganismo incluido esporas.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 22,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Primera medida inicial en hemorragia postparto:",
-    "opciones": {
-      "opcion a": "Administrar misoprostol inmediatamente.",
-      "opcion b": "Masajear el útero sin evaluación previa.",
-      "opcion c": "Colocar catéter 24G como primera acción.",
-      "opcion d": "Evaluar el estado clínico general."
+    {
+      "id": 22,
+      "pregunta": "Primera medida inicial en hemorragia postparto: Evaluar el estado clínico general. Colocar catéter 24G como primera acción. Masajear el útero sin evaluación previa. Administrar misoprostol inmediatamente.",
+      "opcion a": "Evaluar el estado clínico general.",
+      "opcion b": "Colocar catéter 24G como primera acción.",
+      "opcion c": "Masajear el útero sin evaluación previa.",
+      "opcion d": "Administrar misoprostol inmediatamente.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 23,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Recomendación del Ministerio sobre catéteres centrales (Prevención cuaternaria):",
-    "opciones": {
-      "opcion a": "Cambiarlo solo cuando venas periféricas se ocluyen.",
-      "opcion b": "Mantenerlo indefinidamente sin revisión.",
-      "opcion c": "Cambiarlo cada 8 horas.",
-      "opcion d": "Se recomienda monitorizar y revisar diariamente para garantizar su uso."
+    {
+      "id": 23,
+      "pregunta": "Recomendación del Ministerio sobre catéteres centrales (Prevención cuaternaria): Se recomienda monitorizar y revisar diariamente para garantizar su uso. Cambiarlo cada 8 horas. Mantenerlo indefinidamente sin revisión. Cambiarlo solo cuando venas periféricas se ocluyen.",
+      "opcion a": "Se recomienda monitorizar y revisar diariamente para garantizar su uso.",
+      "opcion b": "Cambiarlo cada 8 horas.",
+      "opcion c": "Mantenerlo indefinidamente sin revisión.",
+      "opcion d": "Cambiarlo solo cuando venas periféricas se ocluyen.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 24,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Definición de anticuerpo:",
-    "opciones": {
+    {
+      "id": 24,
+      "pregunta": "Definición de anticuerpo: Proteína producida por el organismo en respuesta a antígenos. Sustancia lipídica que recubre células inmunes. Un tipo específico de antígeno. Un virus que induce respuesta inmune.",
       "opcion a": "Proteína producida por el organismo en respuesta a antígenos.",
       "opcion b": "Sustancia lipídica que recubre células inmunes.",
       "opcion c": "Un tipo específico de antígeno.",
-      "opcion d": "Un virus que induce respuesta inmune."
+      "opcion d": "Un virus que induce respuesta inmune.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 25,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Factor cuya ausencia puede causar errores catastróficos según OMS:",
-    "opciones": {
+    {
+      "id": 25,
+      "pregunta": "Factor cuya ausencia puede causar errores catastróficos según OMS: Identificación del paciente. Control de temperatura ambiental. Disponibilidad de guantes estériles. Limpieza diaria de la sala.",
       "opcion a": "Identificación del paciente.",
       "opcion b": "Control de temperatura ambiental.",
       "opcion c": "Disponibilidad de guantes estériles.",
-      "opcion d": "Limpieza diaria de la sala."
+      "opcion d": "Limpieza diaria de la sala.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 26,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Etapas del puerperio:",
-    "opciones": {
+    {
+      "id": 26,
+      "pregunta": "Etapas del puerperio: Inmediato, precoz, alejado y tardío. Inicial, medio, final y crónico. Preinmediato, mediato y ultratardío. Posparto básico y avanzado.",
       "opcion a": "Inmediato, precoz, alejado y tardío.",
       "opcion b": "Inicial, medio, final y crónico.",
       "opcion c": "Preinmediato, mediato y ultratardío.",
-      "opcion d": "Posparto básico y avanzado."
+      "opcion d": "Posparto básico y avanzado.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 27,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Volumen corriente (VC):",
-    "opciones": {
-      "opcion a": "Volumen que permanece tras espiración forzada (1000 ml).",
-      "opcion b": "Aire inspirado en esfuerzo máximo (3000 ml).",
-      "opcion c": "Cantidad de aire de unos 500 ml que entra y sale de los pulmones.",
-      "opcion d": "Volumen residual permanente."
+    {
+      "id": 27,
+      "pregunta": "Volumen corriente (VC): Cantidad de aire de unos 500 ml que entra y sale de los pulmones. Volumen que permanece tras espiración forzada (1000 ml). Aire inspirado en esfuerzo máximo (3000 ml). Volumen residual permanente.",
+      "opcion a": "Cantidad de aire de unos 500 ml que entra y sale de los pulmones.",
+      "opcion b": "Volumen que permanece tras espiración forzada (1000 ml).",
+      "opcion c": "Aire inspirado en esfuerzo máximo (3000 ml).",
+      "opcion d": "Volumen residual permanente.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 28,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Cultivo que estudia secreciones pulmonares:",
-    "opciones": {
-      "opcion a": "Hemocultivo.",
-      "opcion b": "Esputo.",
+    {
+      "id": 28,
+      "pregunta": "Cultivo que estudia secreciones pulmonares: Esputo. Hemocultivo. Coproparasitario. Cultivo faríngeo.",
+      "opcion a": "Esputo.",
+      "opcion b": "Hemocultivo.",
       "opcion c": "Coproparasitario.",
-      "opcion d": "Cultivo faríngeo."
+      "opcion d": "Cultivo faríngeo.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 29,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Atributos del cuidado humanizado según Cruz Riveros:",
-    "opciones": {
-      "opcion a": "Priorizar enfermedad sobre persona.",
-      "opcion b": "Intervención basada solo en evidencia científica.",
-      "opcion c": "Ser humano sujeto de cuidado, comunicación y enfoque holístico.",
-      "opcion d": "Cuidado técnico sin interacción."
+    {
+      "id": 29,
+      "pregunta": "Atributos del cuidado humanizado según Cruz Riveros: Ser humano sujeto de cuidado, comunicación y enfoque holístico. Priorizar enfermedad sobre persona. Cuidado técnico sin interacción. Intervención basada solo en evidencia científica.",
+      "opcion a": "Ser humano sujeto de cuidado, comunicación y enfoque holístico.",
+      "opcion b": "Priorizar enfermedad sobre persona.",
+      "opcion c": "Cuidado técnico sin interacción.",
+      "opcion d": "Intervención basada solo en evidencia científica.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 30,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Datos para evaluación antropométrica:",
-    "opciones": {
-      "opcion a": "Peso, edad y nivel de actividad.",
-      "opcion b": "Peso, talla e IMC.",
-      "opcion c": "IMC, edad gestacional y sexo.",
-      "opcion d": "Perímetro craneal, edad y talla."
+    {
+      "id": 30,
+      "pregunta": "Datos para evaluación antropométrica: Peso, talla e IMC. Peso, edad y nivel de actividad. Perímetro craneal, edad y talla. IMC, edad gestacional y sexo.",
+      "opcion a": "Peso, talla e IMC.",
+      "opcion b": "Peso, edad y nivel de actividad.",
+      "opcion c": "Perímetro craneal, edad y talla.",
+      "opcion d": "IMC, edad gestacional y sexo.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 31,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Primer punto del algoritmo de paro cardíaco AHA:",
-    "opciones": {
-      "opcion a": "Trasladar al paciente antes de iniciar maniobras.",
-      "opcion b": "Iniciar RCP, administrar oxígeno y conectar monitor/desfibrilador.",
-      "opcion c": "Administrar adrenalina inmediatamente.",
-      "opcion d": "Realizar solo ventilaciones."
+    {
+      "id": 31,
+      "pregunta": "Primer punto del algoritmo de paro cardíaco AHA: Iniciar RCP, administrar oxígeno y conectar monitor/desfibrilador. Administrar adrenalina inmediatamente. Realizar solo ventilaciones. Trasladar al paciente antes de iniciar maniobras.",
+      "opcion a": "Iniciar RCP, administrar oxígeno y conectar monitor/desfibrilador.",
+      "opcion b": "Administrar adrenalina inmediatamente.",
+      "opcion c": "Realizar solo ventilaciones.",
+      "opcion d": "Trasladar al paciente antes de iniciar maniobras.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 32,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Osmolaridad recomendada vía periférica:",
-    "opciones": {
+    {
+      "id": 32,
+      "pregunta": "Osmolaridad recomendada vía periférica: Menor a 600 mOsm/L. Mayor de 1500 mOsm/L. Exactamente 1000 mOsm/L. Entre 800 y 1200 mOsm/L.",
       "opcion a": "Menor a 600 mOsm/L.",
       "opcion b": "Mayor de 1500 mOsm/L.",
       "opcion c": "Exactamente 1000 mOsm/L.",
-      "opcion d": "Entre 800 y 1200 mOsm/L."
+      "opcion d": "Entre 800 y 1200 mOsm/L.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 33,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Terapia de oxígeno en disnea no hipóxica:",
-    "opciones": {
-      "opcion a": "Colocar mascarilla reservorio por precaución.",
-      "opcion b": "Utilizar oxígeno cada vez que haya disnea.",
-      "opcion c": "Administrar oxígeno a alto flujo.",
-      "opcion d": "No utilizar oxígeno."
+    {
+      "id": 33,
+      "pregunta": "Terapia de oxígeno en disnea no hipóxica: No utilizar oxígeno. Administrar oxígeno a alto flujo. Utilizar oxígeno cada vez que haya disnea. Colocar mascarilla reservorio por precaución.",
+      "opcion a": "No utilizar oxígeno.",
+      "opcion b": "Administrar oxígeno a alto flujo.",
+      "opcion c": "Utilizar oxígeno cada vez que haya disnea.",
+      "opcion d": "Colocar mascarilla reservorio por precaución.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 34,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Capacidad ventilatoria: aire que queda tras espiración normal:",
-    "opciones": {
-      "opcion a": "Inspiratoria forzada.",
-      "opcion b": "Pulmonar total.",
-      "opcion c": "Vital.",
-      "opcion d": "Residual funcional."
+    {
+      "id": 34,
+      "pregunta": "Capacidad ventilatoria: aire que queda tras espiración normal: Residual funcional. Vital. Inspiratoria forzada. Pulmonar total.",
+      "opcion a": "Residual funcional.",
+      "opcion b": "Vital.",
+      "opcion c": "Inspiratoria forzada.",
+      "opcion d": "Pulmonar total.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 35,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Sedación en urgencia de salud mental:",
-    "opciones": {
+    {
+      "id": 35,
+      "pregunta": "Sedación en urgencia de salud mental: Haloperidol y Lorazepam. Clonazepam con morfina. Midazolam solo. Risperidona y diazepam oral.",
       "opcion a": "Haloperidol y Lorazepam.",
       "opcion b": "Clonazepam con morfina.",
       "opcion c": "Midazolam solo.",
-      "opcion d": "Risperidona y diazepam oral."
+      "opcion d": "Risperidona y diazepam oral.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 36,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Primera etapa de CoPaP:",
-    "opciones": {
+    {
+      "id": 36,
+      "pregunta": "Primera etapa de CoPaP: Llanto de nacimiento. Exploración motriz. Reposo profundo. Movimiento coordinado.",
       "opcion a": "Llanto de nacimiento.",
       "opcion b": "Exploración motriz.",
       "opcion c": "Reposo profundo.",
-      "opcion d": "Movimiento coordinado."
+      "opcion d": "Movimiento coordinado.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 37,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Compresiones por minuto en RCP adulto según AHA:",
-    "opciones": {
-      "opcion a": "150–180 por minuto.",
-      "opcion b": "130–150 por minuto.",
-      "opcion c": "60–80 por minuto.",
-      "opcion d": "100–120 por minuto."
+    {
+      "id": 37,
+      "pregunta": "Compresiones por minuto en RCP adulto según AHA: 100–120 por minuto. 60–80 por minuto. 130–150 por minuto. 150–180 por minuto.",
+      "opcion a": "100–120 por minuto.",
+      "opcion b": "60–80 por minuto.",
+      "opcion c": "130–150 por minuto.",
+      "opcion d": "150–180 por minuto.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 38,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Funciones de enfermería en Atención Primaria:",
-    "opciones": {
+    {
+      "id": 38,
+      "pregunta": "Funciones de enfermería en Atención Primaria: Asistencial, formar, gestionar e investigar. Solo asistencial. Dirigir exclusivamente programas. Control administrativo sin intervención clínica.",
       "opcion a": "Asistencial, formar, gestionar e investigar.",
-      "opcion b": "Control administrativo sin intervención clínica.",
+      "opcion b": "Solo asistencial.",
       "opcion c": "Dirigir exclusivamente programas.",
-      "opcion d": "Solo asistencial."
+      "opcion d": "Control administrativo sin intervención clínica.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 39,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Función principal de los pelos nasales:",
-    "opciones": {
-      "opcion a": "Regular temperatura interna.",
-      "opcion b": "Capturar CO₂.",
-      "opcion c": "Humidificar aire.",
-      "opcion d": "Filtrar el aire."
+    {
+      "id": 39,
+      "pregunta": "Función principal de los pelos nasales: Filtrar el aire. Humidificar aire. Capturar CO₂. Regular temperatura interna.",
+      "opcion a": "Filtrar el aire.",
+      "opcion b": "Humidificar aire.",
+      "opcion c": "Capturar CO₂.",
+      "opcion d": "Regular temperatura interna.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 40,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué es la “primera hora de vida”?",
-    "opciones": {
+    {
+      "id": 40,
+      "pregunta": "¿Qué es la “primera hora de vida”? Adaptación neonatal al medio extrauterino e inicio de lactancia. Tiempo previo al baño del recién nacido. Momento entre alumbramiento y control materno. Periodo entre piel a piel y alta hospitalaria.",
       "opcion a": "Adaptación neonatal al medio extrauterino e inicio de lactancia.",
-      "opcion b": "Periodo entre piel a piel y alta hospitalaria.",
-      "opcion c": "Tiempo previo al baño del recién nacido.",
-      "opcion d": "Momento entre alumbramiento y control materno."
+      "opcion b": "Tiempo previo al baño del recién nacido.",
+      "opcion c": "Momento entre alumbramiento y control materno.",
+      "opcion d": "Periodo entre piel a piel y alta hospitalaria.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 41,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Antiséptico de primera elección para inserción y cuidado del CVP corto:",
-    "opciones": {
-      "opcion a": "Povidona yodada diluida.",
-      "opcion b": "Agua oxigenada.",
-      "opcion c": "Alcohol al 70%.",
-      "opcion d": "Clorhexidina alcohólica."
+    {
+      "id": 41,
+      "pregunta": "Antiséptico de primera elección para inserción y cuidado del CVP corto: Clorhexidina alcohólica. Alcohol al 70%. Agua oxigenada. Povidona yodada diluida.",
+      "opcion a": "Clorhexidina alcohólica.",
+      "opcion b": "Alcohol al 70%.",
+      "opcion c": "Agua oxigenada.",
+      "opcion d": "Povidona yodada diluida.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 42,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Requisitos para plantear correctamente los objetivos de investigación:",
-    "opciones": {
-      "opcion a": "Formularse sin relación al problema.",
-      "opcion b": "Iniciar con verbo infinitivo, ser alcanzable, lógico y coherente.",
+    {
+      "id": 42,
+      "pregunta": "Requisitos para plantear correctamente los objetivos de investigación: Iniciar con verbo infinitivo, ser alcanzable, lógico y coherente. Iniciar con adjetivos y detallar conclusiones. Tener más de 10 líneas mínimas. Formularse sin relación al problema.",
+      "opcion a": "Iniciar con verbo infinitivo, ser alcanzable, lógico y coherente.",
+      "opcion b": "Iniciar con adjetivos y detallar conclusiones.",
       "opcion c": "Tener más de 10 líneas mínimas.",
-      "opcion d": "Iniciar con adjetivos y detallar conclusiones."
+      "opcion d": "Formularse sin relación al problema.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 43,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada para mantener continuidad) ¿Qué representa el pulso pedio?",
-    "opciones": {
-      "opcion a": "Flujo linfático superficial.",
-      "opcion b": "Perfusión arterial distal.",
-      "opcion c": "Presión venosa central.",
-      "opcion d": "Oxigenación pulmonar."
+    {
+      "id": 43,
+      "pregunta": "(Inventada para mantener continuidad) ¿Qué representa el pulso pedio? Perfusión arterial distal. Presión venosa central. Flujo linfático superficial. Oxigenación pulmonar.",
+      "opcion a": "Perfusión arterial distal.",
+      "opcion b": "Presión venosa central.",
+      "opcion c": "Flujo linfático superficial.",
+      "opcion d": "Oxigenación pulmonar.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 44,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué significa el término \"asepsia\"?",
-    "opciones": {
-      "opcion a": "Eliminación total de esporas.",
-      "opcion b": "Reducción de agentes químicos.",
+    {
+      "id": 44,
+      "pregunta": "(Inventada) ¿Qué significa el término \"asepsia\"? Ausencia de microorganismos patógenos. Eliminación total de esporas. Limpieza de superficies visiblemente sucias. Reducción de agentes químicos.",
+      "opcion a": "Ausencia de microorganismos patógenos.",
+      "opcion b": "Eliminación total de esporas.",
       "opcion c": "Limpieza de superficies visiblemente sucias.",
-      "opcion d": "Ausencia de microorganismos patógenos."
+      "opcion d": "Reducción de agentes químicos.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 45,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué indica un GCS (Glasgow) de 8?",
-    "opciones": {
-      "opcion a": "Confusión leve.",
-      "opcion b": "Coma.",
-      "opcion c": "Somnolencia leve.",
-      "opcion d": "Estado de alerta."
+    {
+      "id": 45,
+      "pregunta": "(Inventada) ¿Qué indica un GCS (Glasgow) de 8? Coma. Somnolencia leve. Estado de alerta. Confusión leve.",
+      "opcion a": "Coma.",
+      "opcion b": "Somnolencia leve.",
+      "opcion c": "Estado de alerta.",
+      "opcion d": "Confusión leve.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 46,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Cuál es el mejor sitio para medir temperatura axilar?",
-    "opciones": {
-      "opcion a": "En la palma de la mano.",
-      "opcion b": "Zona central de la axila con brazo aducido.",
-      "opcion c": "Sobre la ropa.",
-      "opcion d": "Sobre la clavícula."
+    {
+      "id": 46,
+      "pregunta": "(Inventada) ¿Cuál es el mejor sitio para medir temperatura axilar? Zona central de la axila con brazo aducido. Sobre la ropa. Sobre la clavícula. En la palma de la mano.",
+      "opcion a": "Zona central de la axila con brazo aducido.",
+      "opcion b": "Sobre la ropa.",
+      "opcion c": "Sobre la clavícula.",
+      "opcion d": "En la palma de la mano.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 47,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué parámetro indica deshidratación moderada?",
-    "opciones": {
-      "opcion a": "Ruidos intestinales aumentados.",
+    {
+      "id": 47,
+      "pregunta": "(Inventada) ¿Qué parámetro indica deshidratación moderada? Llenado capilar > 2 segundos. Sudoración excesiva. Pulso lleno y fuerte. Ruidos intestinales aumentados.",
+      "opcion a": "Llenado capilar > 2 segundos.",
       "opcion b": "Sudoración excesiva.",
-      "opcion c": "Llenado capilar > 2 segundos.",
-      "opcion d": "Pulso lleno y fuerte."
+      "opcion c": "Pulso lleno y fuerte.",
+      "opcion d": "Ruidos intestinales aumentados.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 48,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué vía se recomienda para administración de adrenalina en anafilaxia?",
-    "opciones": {
-      "opcion a": "Subcutánea.",
-      "opcion b": "Intramuscular.",
-      "opcion c": "Tópica.",
-      "opcion d": "Intradérmica."
+    {
+      "id": 48,
+      "pregunta": "(Inventada) ¿Qué vía se recomienda para administración de adrenalina en anafilaxia? Intramuscular. Subcutánea. Intradérmica. Tópica.",
+      "opcion a": "Intramuscular.",
+      "opcion b": "Subcutánea.",
+      "opcion c": "Intradérmica.",
+      "opcion d": "Tópica.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 49,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Cuál es un signo temprano de sepsis?",
-    "opciones": {
-      "opcion a": "Piel fría marmórea inicial.",
+    {
+      "id": 49,
+      "pregunta": "(Inventada) ¿Cuál es un signo temprano de sepsis? Taquicardia. Bradicardia. Piel fría marmórea inicial. Hipotermia marcada de entrada.",
+      "opcion a": "Taquicardia.",
       "opcion b": "Bradicardia.",
-      "opcion c": "Hipotermia marcada de entrada.",
-      "opcion d": "Taquicardia."
+      "opcion c": "Piel fría marmórea inicial.",
+      "opcion d": "Hipotermia marcada de entrada.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 50,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué indica un FR > 30 en adulto?",
-    "opciones": {
+    {
+      "id": 50,
+      "pregunta": "(Inventada) ¿Qué indica un FR > 30 en adulto? Taquipnea. Bradipnea. Eupnea. Apenustia.",
       "opcion a": "Taquipnea.",
       "opcion b": "Bradipnea.",
       "opcion c": "Eupnea.",
-      "opcion d": "Apenustia."
+      "opcion d": "Apenustia.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 51,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué elemento es fundamental en la técnica de RCP de calidad?",
-    "opciones": {
-      "opcion a": "Pausar compresiones para descansar cada 20 segundos.",
-      "opcion b": "Comprimir rápido sin ritmo definido.",
-      "opcion c": "Ventilar más de 20 veces por minuto.",
-      "opcion d": "Permitir la expansión completa del tórax entre compresiones."
+    {
+      "id": 51,
+      "pregunta": "(Inventada) ¿Qué elemento es fundamental en la técnica de RCP de calidad? Permitir la expansión completa del tórax entre compresiones. Pausar compresiones para descansar cada 20 segundos. Comprimir rápido sin ritmo definido. Ventilar más de 20 veces por minuto.",
+      "opcion a": "Permitir la expansión completa del tórax entre compresiones.",
+      "opcion b": "Pausar compresiones para descansar cada 20 segundos.",
+      "opcion c": "Comprimir rápido sin ritmo definido.",
+      "opcion d": "Ventilar más de 20 veces por minuto.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 52,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Cuándo se debe lavar las manos según OMS?",
-    "opciones": {
+    {
+      "id": 52,
+      "pregunta": "(Inventada) ¿Cuándo se debe lavar las manos según OMS? Antes y después del contacto con el paciente. Únicamente al final del turno. Solo cuando haya suciedad visible. Solo antes de procedimientos invasivos.",
       "opcion a": "Antes y después del contacto con el paciente.",
       "opcion b": "Únicamente al final del turno.",
       "opcion c": "Solo cuando haya suciedad visible.",
-      "opcion d": "Solo antes de procedimientos invasivos."
+      "opcion d": "Solo antes de procedimientos invasivos.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 53,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Cuál es el valor normal de frecuencia cardíaca en adulto?",
-    "opciones": {
-      "opcion a": "110–150 lpm.",
+    {
+      "id": 53,
+      "pregunta": "(Inventada) ¿Cuál es el valor normal de frecuencia cardíaca en adulto? 60–100 lpm. 20–40 lpm. 110–150 lpm. 40–55 lpm.",
+      "opcion a": "60–100 lpm.",
       "opcion b": "20–40 lpm.",
-      "opcion c": "40–55 lpm.",
-      "opcion d": "60–100 lpm."
+      "opcion c": "110–150 lpm.",
+      "opcion d": "40–55 lpm.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 54,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Cuál es la vía recomendada para hidratación en deshidratación leve?",
-    "opciones": {
+    {
+      "id": 54,
+      "pregunta": "(Inventada) ¿Cuál es la vía recomendada para hidratación en deshidratación leve? Vía oral. Intradérmica. Intratecal. Subcutánea.",
       "opcion a": "Vía oral.",
       "opcion b": "Intradérmica.",
       "opcion c": "Intratecal.",
-      "opcion d": "Subcutánea."
+      "opcion d": "Subcutánea.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 55,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué indica piel pálida y fría?",
-    "opciones": {
-      "opcion a": "Broncoespasmo.",
-      "opcion b": "Hipoperfusión.",
+    {
+      "id": 55,
+      "pregunta": "(Inventada) ¿Qué indica piel pálida y fría? Hipoperfusión. Fiebre. Hiperhidratación. Broncoespasmo.",
+      "opcion a": "Hipoperfusión.",
+      "opcion b": "Fiebre.",
       "opcion c": "Hiperhidratación.",
-      "opcion d": "Fiebre."
+      "opcion d": "Broncoespasmo.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 56,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) El triage de color rojo indica:",
-    "opciones": {
-      "opcion a": "Baja prioridad.",
-      "opcion b": "Atención inmediata.",
-      "opcion c": "Paciente ambulatorio.",
-      "opcion d": "Atención demorable."
+    {
+      "id": 56,
+      "pregunta": "(Inventada) El triage de color rojo indica: Atención inmediata. Baja prioridad. Atención demorable. Paciente ambulatorio.",
+      "opcion a": "Atención inmediata.",
+      "opcion b": "Baja prioridad.",
+      "opcion c": "Atención demorable.",
+      "opcion d": "Paciente ambulatorio.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 57,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Cuál es el riesgo principal del reposo prolongado?",
-    "opciones": {
-      "opcion a": "Hiperhidratación.",
+    {
+      "id": 57,
+      "pregunta": "(Inventada) ¿Cuál es el riesgo principal del reposo prolongado? Tromboembolismo venoso. Hipertiroidismo. Hiperhidratación. Hipoglucemia.",
+      "opcion a": "Tromboembolismo venoso.",
       "opcion b": "Hipertiroidismo.",
-      "opcion c": "Hipoglucemia.",
-      "opcion d": "Tromboembolismo venoso."
+      "opcion c": "Hiperhidratación.",
+      "opcion d": "Hipoglucemia.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 58,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Cuál es el nivel de conciencia más bajo?",
-    "opciones": {
+    {
+      "id": 58,
+      "pregunta": "(Inventada) ¿Cuál es el nivel de conciencia más bajo? Coma. Desorientación. Letargo. Confusión.",
       "opcion a": "Coma.",
       "opcion b": "Desorientación.",
-      "opcion c": "Confusión.",
-      "opcion d": "Letargo."
+      "opcion c": "Letargo.",
+      "opcion d": "Confusión.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 59,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué acción es prioritaria en una hipoglucemia severa?",
-    "opciones": {
+    {
+      "id": 59,
+      "pregunta": "(Inventada) ¿Qué acción es prioritaria en una hipoglucemia severa? Administrar glucosa EV. Ofrecer alimentos sólidos. Indicar reposo. Administrar suero fisiológico.",
       "opcion a": "Administrar glucosa EV.",
-      "opcion b": "Administrar suero fisiológico.",
-      "opcion c": "Ofrecer alimentos sólidos.",
-      "opcion d": "Indicar reposo."
+      "opcion b": "Ofrecer alimentos sólidos.",
+      "opcion c": "Indicar reposo.",
+      "opcion d": "Administrar suero fisiológico.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 60,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué examen confirma anemia?",
-    "opciones": {
-      "opcion a": "Plaquetas altas.",
-      "opcion b": "Sodio elevado.",
-      "opcion c": "Hemoglobina baja.",
-      "opcion d": "Leucocitosis aislada."
+    {
+      "id": 60,
+      "pregunta": "(Inventada) ¿Qué examen confirma anemia? Hemoglobina baja. Plaquetas altas. Sodio elevado. Leucocitosis aislada.",
+      "opcion a": "Hemoglobina baja.",
+      "opcion b": "Plaquetas altas.",
+      "opcion c": "Sodio elevado.",
+      "opcion d": "Leucocitosis aislada.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 61,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué posición facilita la respiración en disnea?",
-    "opciones": {
+    {
+      "id": 61,
+      "pregunta": "(Inventada) ¿Qué posición facilita la respiración en disnea? Fowler. Decúbito prono. Trendelemburg. Rodillas al pecho.",
       "opcion a": "Fowler.",
       "opcion b": "Decúbito prono.",
       "opcion c": "Trendelemburg.",
-      "opcion d": "Rodillas al pecho."
+      "opcion d": "Rodillas al pecho.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 62,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué indica una presión diferencial muy baja?",
-    "opciones": {
+    {
+      "id": 62,
+      "pregunta": "(Inventada) ¿Qué indica una presión diferencial muy baja? Shock. Fiebre. Hiperkalemia. Hipotiroidismo.",
       "opcion a": "Shock.",
       "opcion b": "Fiebre.",
       "opcion c": "Hiperkalemia.",
-      "opcion d": "Hipotiroidismo."
+      "opcion d": "Hipotiroidismo.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 63,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué electrolito controla la contracción muscular?",
-    "opciones": {
-      "opcion a": "Vitamina K.",
-      "opcion b": "Calcio.",
+    {
+      "id": 63,
+      "pregunta": "(Inventada) ¿Qué electrolito controla la contracción muscular? Calcio. Cloro. Hierro. Vitamina K.",
+      "opcion a": "Calcio.",
+      "opcion b": "Cloro.",
       "opcion c": "Hierro.",
-      "opcion d": "Cloro."
+      "opcion d": "Vitamina K.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 64,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué significa FR 10 en adulto?",
-    "opciones": {
+    {
+      "id": 64,
+      "pregunta": "(Inventada) ¿Qué significa FR 10 en adulto? Bradipnea. Hipopnea severa. Taquipnea. Eupnea.",
       "opcion a": "Bradipnea.",
       "opcion b": "Hipopnea severa.",
-      "opcion c": "Eupnea.",
-      "opcion d": "Taquipnea."
+      "opcion c": "Taquipnea.",
+      "opcion d": "Eupnea.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 65,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué hacer ante convulsión?",
-    "opciones": {
+    {
+      "id": 65,
+      "pregunta": "(Inventada) ¿Qué hacer ante convulsión? Proteger la cabeza del paciente. Sujetar extremidades fuertemente. Colocar objeto en la boca. Administrar líquidos por vía oral.",
       "opcion a": "Proteger la cabeza del paciente.",
       "opcion b": "Sujetar extremidades fuertemente.",
       "opcion c": "Colocar objeto en la boca.",
-      "opcion d": "Administrar líquidos por vía oral."
+      "opcion d": "Administrar líquidos por vía oral.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 66,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué valor de glucemia indica diabetes?",
-    "opciones": {
-      "opcion a": "≥ 110 mg/dL.",
-      "opcion b": "≥ 150 mg/dL postprandial inmediato.",
-      "opcion c": "≥ 90 mg/dL.",
-      "opcion d": "≥ 126 mg/dL en ayunas."
+    {
+      "id": 66,
+      "pregunta": "(Inventada) ¿Qué valor de glucemia indica diabetes? ≥ 126 mg/dL en ayunas. ≥ 90 mg/dL. ≥ 110 mg/dL. ≥ 150 mg/dL postprandial inmediato.",
+      "opcion a": "≥ 126 mg/dL en ayunas.",
+      "opcion b": "≥ 90 mg/dL.",
+      "opcion c": "≥ 110 mg/dL.",
+      "opcion d": "≥ 150 mg/dL postprandial inmediato.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 67,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué parámetro evalúa la escala EVA?",
-    "opciones": {
-      "opcion a": "Ansiedad.",
-      "opcion b": "Oxigenación.",
-      "opcion c": "Dolor.",
-      "opcion d": "Perfusión."
+    {
+      "id": 67,
+      "pregunta": "(Inventada) ¿Qué parámetro evalúa la escala EVA? Dolor. Ansiedad. Perfusión. Oxigenación.",
+      "opcion a": "Dolor.",
+      "opcion b": "Ansiedad.",
+      "opcion c": "Perfusión.",
+      "opcion d": "Oxigenación.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 68,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué indica una FC de 40 lpm en adulto?",
-    "opciones": {
+    {
+      "id": 68,
+      "pregunta": "(Inventada) ¿Qué indica una FC de 40 lpm en adulto? Bradicardia. Hipertensión arterial. Taquicardia. Hipoxemia.",
       "opcion a": "Bradicardia.",
       "opcion b": "Hipertensión arterial.",
-      "opcion c": "Hipoxemia.",
-      "opcion d": "Taquicardia."
+      "opcion c": "Taquicardia.",
+      "opcion d": "Hipoxemia.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 69,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Cuál es el riesgo de una vía periférica sin control prolongado?",
-    "opciones": {
-      "opcion a": "Hipoglucemia.",
-      "opcion b": "Flebitis.",
+    {
+      "id": 69,
+      "pregunta": "(Inventada) ¿Cuál es el riesgo de una vía periférica sin control prolongado? Flebitis. Hipoglucemia. Hipertrofia muscular. Hipocalcemia.",
+      "opcion a": "Flebitis.",
+      "opcion b": "Hipoglucemia.",
       "opcion c": "Hipertrofia muscular.",
-      "opcion d": "Hipocalcemia."
+      "opcion d": "Hipocalcemia.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 70,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿En qué caso se usa máscara con reservorio?",
-    "opciones": {
+    {
+      "id": 70,
+      "pregunta": "(Inventada) ¿En qué caso se usa máscara con reservorio? Hipoxemia severa. Dolor abdominal. Cefalea tensional. Vómitos aislados.",
       "opcion a": "Hipoxemia severa.",
       "opcion b": "Dolor abdominal.",
-      "opcion c": "Vómitos aislados.",
-      "opcion d": "Cefalea tensional."
+      "opcion c": "Cefalea tensional.",
+      "opcion d": "Vómitos aislados.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 71,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Cuál es el objetivo principal del control de signos vitales?",
-    "opciones": {
-      "opcion a": "Diagnosticar enfermedades complejas.",
-      "opcion b": "Evaluar el estado fisiológico del paciente.",
-      "opcion c": "Evaluar exclusivamente el estado emocional.",
-      "opcion d": "Determinar el tipo de medicación a indicar."
+    {
+      "id": 71,
+      "pregunta": "(Inventada) ¿Cuál es el objetivo principal del control de signos vitales? Evaluar el estado fisiológico del paciente. Diagnosticar enfermedades complejas. Determinar el tipo de medicación a indicar. Evaluar exclusivamente el estado emocional.",
+      "opcion a": "Evaluar el estado fisiológico del paciente.",
+      "opcion b": "Diagnosticar enfermedades complejas.",
+      "opcion c": "Determinar el tipo de medicación a indicar.",
+      "opcion d": "Evaluar exclusivamente el estado emocional.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 72,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué valor se considera fiebre en un lactante?",
-    "opciones": {
-      "opcion a": "37.3 °C inguinal.",
-      "opcion b": "36.5 °C timpánica.",
-      "opcion c": "37 °C axilar.",
-      "opcion d": "≥ 38 °C rectal."
+    {
+      "id": 72,
+      "pregunta": "(Inventada) ¿Qué valor se considera fiebre en un lactante? ≥ 38 °C rectal. 37 °C axilar. 36.5 °C timpánica. 37.3 °C inguinal.",
+      "opcion a": "≥ 38 °C rectal.",
+      "opcion b": "37 °C axilar.",
+      "opcion c": "36.5 °C timpánica.",
+      "opcion d": "37.3 °C inguinal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 73,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Cuál es la vía de elección para administrar medicación durante un paro cardíaco?",
-    "opciones": {
-      "opcion a": "Subcutánea.",
-      "opcion b": "Intravenosa.",
-      "opcion c": "Tópica.",
-      "opcion d": "Oral."
+    {
+      "id": 73,
+      "pregunta": "(Inventada) ¿Cuál es la vía de elección para administrar medicación durante un paro cardíaco? Intravenosa. Tópica. Oral. Subcutánea.",
+      "opcion a": "Intravenosa.",
+      "opcion b": "Tópica.",
+      "opcion c": "Oral.",
+      "opcion d": "Subcutánea.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 74,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué complicación puede producir un catéter mal fijado?",
-    "opciones": {
-      "opcion a": "Hiperglucemia.",
-      "opcion b": "Aumento de temperatura corporal.",
-      "opcion c": "Extravasación.",
-      "opcion d": "Insuficiencia respiratoria."
+    {
+      "id": 74,
+      "pregunta": "(Inventada) ¿Qué complicación puede producir un catéter mal fijado? Extravasación. Hiperglucemia. Insuficiencia respiratoria. Aumento de temperatura corporal.",
+      "opcion a": "Extravasación.",
+      "opcion b": "Hiperglucemia.",
+      "opcion c": "Insuficiencia respiratoria.",
+      "opcion d": "Aumento de temperatura corporal.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 75,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Cuál es el objetivo del lavado de manos clínico?",
-    "opciones": {
-      "opcion a": "Eliminar virus resistentes exclusivamente.",
-      "opcion b": "Aumentar la humedad de las manos.",
-      "opcion c": "Esterilizar completamente la piel.",
-      "opcion d": "Reducir la flora transitoria."
+    {
+      "id": 75,
+      "pregunta": "(Inventada) ¿Cuál es el objetivo del lavado de manos clínico? Reducir la flora transitoria. Esterilizar completamente la piel. Aumentar la humedad de las manos. Eliminar virus resistentes exclusivamente.",
+      "opcion a": "Reducir la flora transitoria.",
+      "opcion b": "Esterilizar completamente la piel.",
+      "opcion c": "Aumentar la humedad de las manos.",
+      "opcion d": "Eliminar virus resistentes exclusivamente.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 76,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Qué indica un pulso filiforme?",
-    "opciones": {
-      "opcion a": "Sobrehidratación.",
+    {
+      "id": 76,
+      "pregunta": "(Inventada) ¿Qué indica un pulso filiforme? Perfusión deficiente. Perfusión normal. Sobrehidratación. Hipertiroidismo.",
+      "opcion a": "Perfusión deficiente.",
       "opcion b": "Perfusión normal.",
-      "opcion c": "Perfusión deficiente.",
-      "opcion d": "Hipertiroidismo."
+      "opcion c": "Sobrehidratación.",
+      "opcion d": "Hipertiroidismo.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 77,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "(Inventada) ¿Cuál es la complicación más frecuente del reposo prolongado en cama?",
-    "opciones": {
-      "opcion a": "Miopía.",
-      "opcion b": "Pancreatitis.",
-      "opcion c": "Hepatitis.",
-      "opcion d": "Úlceras por presión."
+    {
+      "id": 77,
+      "pregunta": "(Inventada) ¿Cuál es la complicación más frecuente del reposo prolongado en cama? Úlceras por presión. Hepatitis. Pancreatitis. Miopía.",
+      "opcion a": "Úlceras por presión.",
+      "opcion b": "Hepatitis.",
+      "opcion c": "Pancreatitis.",
+      "opcion d": "Miopía.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 78,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Masa ovárica heterogénea con doppler (+). ¿Qué estudio complementario solicitar?",
-    "opciones": {
+    {
+      "id": 78,
+      "pregunta": "Masa ovárica heterogénea con doppler (+). ¿Qué estudio complementario solicitar? Marcadores tumorales. Radiografía simple de abdomen. Ecografía mamaria. TAC de cráneo.",
       "opcion a": "Marcadores tumorales.",
       "opcion b": "Radiografía simple de abdomen.",
-      "opcion c": "TAC de cráneo.",
-      "opcion d": "Ecografía mamaria."
+      "opcion c": "Ecografía mamaria.",
+      "opcion d": "TAC de cráneo.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 79,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Diseño más adecuado para enfermedad de baja prevalencia y múltiples factores de riesgo:",
-    "opciones": {
-      "opcion a": "Ensayo no controlado.",
+    {
+      "id": 79,
+      "pregunta": "Diseño más adecuado para enfermedad de baja prevalencia y múltiples factores de riesgo: Estudio de casos y controles. Estudio poblacional masivo. Estudio clínico aleatorio. Ensayo no controlado.",
+      "opcion a": "Estudio de casos y controles.",
       "opcion b": "Estudio poblacional masivo.",
-      "opcion c": "Estudio de casos y controles.",
-      "opcion d": "Estudio clínico aleatorio."
+      "opcion c": "Estudio clínico aleatorio.",
+      "opcion d": "Ensayo no controlado.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 80,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Soplo sistólico eyectivo que se atenúa al sentarse en niña de 10 años:",
-    "opciones": {
+    {
+      "id": 80,
+      "pregunta": "Soplo sistólico eyectivo que se atenúa al sentarse en niña de 10 años: Soplo funcional. Estenosis pulmonar. Comunicación interauricular. Insuficiencia tricuspídea.",
       "opcion a": "Soplo funcional.",
       "opcion b": "Estenosis pulmonar.",
       "opcion c": "Comunicación interauricular.",
-      "opcion d": "Insuficiencia tricuspídea."
+      "opcion d": "Insuficiencia tricuspídea.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 81,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Hernia inguinoescrotal dolorosa + acidosis + hiperlactacidemia:",
-    "opciones": {
-      "opcion a": "Reposo en cama por 24 horas.",
-      "opcion b": "Colocación de sonda nasogástrica y cirugía urgente.",
-      "opcion c": "Administrar analgésico y dar alta.",
-      "opcion d": "Realizar solo radiografía y observar."
+    {
+      "id": 81,
+      "pregunta": "Hernia inguinoescrotal dolorosa + acidosis + hiperlactacidemia: Colocación de sonda nasogástrica y cirugía urgente. Administrar analgésico y dar alta. Realizar solo radiografía y observar. Reposo en cama por 24 horas.",
+      "opcion a": "Colocación de sonda nasogástrica y cirugía urgente.",
+      "opcion b": "Administrar analgésico y dar alta.",
+      "opcion c": "Realizar solo radiografía y observar.",
+      "opcion d": "Reposo en cama por 24 horas.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 82,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Gold standard para diagnóstico de cáncer de endometrio:",
-    "opciones": {
+    {
+      "id": 82,
+      "pregunta": "Gold standard para diagnóstico de cáncer de endometrio: Dilatación cervical + legrado biópsico fraccionado con histeroscopia. Papanicolaou. Resonancia sin contraste. Cultivo endometrial.",
       "opcion a": "Dilatación cervical + legrado biópsico fraccionado con histeroscopia.",
       "opcion b": "Papanicolaou.",
-      "opcion c": "Cultivo endometrial.",
-      "opcion d": "Resonancia sin contraste."
+      "opcion c": "Resonancia sin contraste.",
+      "opcion d": "Cultivo endometrial.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 83,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Gestante 33 semanas con sangrado rojo oscuro + tono aumentado:",
-    "opciones": {
-      "opcion a": "Pólipo cervical benigno.",
-      "opcion b": "Desprendimiento de placenta normoinserta.",
-      "opcion c": "Placenta previa.",
-      "opcion d": "Hemorroides sangrantes."
+    {
+      "id": 83,
+      "pregunta": "Gestante 33 semanas con sangrado rojo oscuro + tono aumentado: Desprendimiento de placenta normoinserta. Placenta previa. Hemorroides sangrantes. Pólipo cervical benigno.",
+      "opcion a": "Desprendimiento de placenta normoinserta.",
+      "opcion b": "Placenta previa.",
+      "opcion c": "Hemorroides sangrantes.",
+      "opcion d": "Pólipo cervical benigno.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 84,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Inicio de insulina en diabetes tipo 2:",
-    "opciones": {
-      "opcion a": "Con glucemias normales alteradas.",
-      "opcion b": "Pérdida de peso no planificada asociada a hiperglucemia.",
-      "opcion c": "Por malestar inespecífico.",
-      "opcion d": "Solo por mal control dietario."
+    {
+      "id": 84,
+      "pregunta": "Inicio de insulina en diabetes tipo 2: Pérdida de peso no planificada asociada a hiperglucemia. Por malestar inespecífico. Solo por mal control dietario. Con glucemias normales alteradas.",
+      "opcion a": "Pérdida de peso no planificada asociada a hiperglucemia.",
+      "opcion b": "Por malestar inespecífico.",
+      "opcion c": "Solo por mal control dietario.",
+      "opcion d": "Con glucemias normales alteradas.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 85,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Cuándo se debe continuar lactancia?",
-    "opciones": {
+    {
+      "id": 85,
+      "pregunta": "¿Cuándo se debe continuar lactancia? Mastitis unilateral. VIH materno positivo. Tuberculosis activa sin tratamiento. Infección bacteriana grave del RN.",
       "opcion a": "Mastitis unilateral.",
       "opcion b": "VIH materno positivo.",
       "opcion c": "Tuberculosis activa sin tratamiento.",
-      "opcion d": "Infección bacteriana grave del RN."
+      "opcion d": "Infección bacteriana grave del RN.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 86,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Epistaxis en pediatría: ¿cuándo pedir laboratorio?",
-    "opciones": {
-      "opcion a": "Si tomó bebidas calientes.",
+    {
+      "id": 86,
+      "pregunta": "Epistaxis en pediatría: ¿cuándo pedir laboratorio? Epistaxis graves o recurrentes sin causa local. En cualquier primer episodio. Si hubo llanto intenso previo. Si tomó bebidas calientes.",
+      "opcion a": "Epistaxis graves o recurrentes sin causa local.",
       "opcion b": "En cualquier primer episodio.",
       "opcion c": "Si hubo llanto intenso previo.",
-      "opcion d": "Epistaxis graves o recurrentes sin causa local."
+      "opcion d": "Si tomó bebidas calientes.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 87,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Lactante 15 días con aumento normal de peso, madre cree que tiene hambre:",
-    "opciones": {
-      "opcion a": "Suspender lactancia y dar fórmula.",
-      "opcion b": "Evaluar técnica de lactancia y continuar pecho exclusivo.",
+    {
+      "id": 87,
+      "pregunta": "Lactante 15 días con aumento normal de peso, madre cree que tiene hambre: Evaluar técnica de lactancia y continuar pecho exclusivo. Suspender lactancia y dar fórmula. Administrar suero glucosado. Dar agua para “llenar el estómago”.",
+      "opcion a": "Evaluar técnica de lactancia y continuar pecho exclusivo.",
+      "opcion b": "Suspender lactancia y dar fórmula.",
       "opcion c": "Administrar suero glucosado.",
-      "opcion d": "Dar agua para “llenar el estómago”."
+      "opcion d": "Dar agua para “llenar el estómago”.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion b"
-  },
-  {
-    "id": 88,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Adolescente con anemia, blastos y hemorragias:",
-    "opciones": {
+    {
+      "id": 88,
+      "pregunta": "Adolescente con anemia, blastos y hemorragias: Leucemia aguda. Dengue hemorrágico. Alergia medicamentosa. Hipotiroidismo.",
       "opcion a": "Leucemia aguda.",
       "opcion b": "Dengue hemorrágico.",
       "opcion c": "Alergia medicamentosa.",
-      "opcion d": "Hipotiroidismo."
+      "opcion d": "Hipotiroidismo.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 89,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Mujer con pérdida brusca de visión + VSG 80 mm/h:",
-    "opciones": {
-      "opcion a": "Catarata incipiente.",
+    {
+      "id": 89,
+      "pregunta": "Mujer con pérdida brusca de visión + VSG 80 mm/h: Neuropatía óptica isquémica arterítica. Glaucoma crónico. Retinopatía diabética leve. Catarata incipiente.",
+      "opcion a": "Neuropatía óptica isquémica arterítica.",
       "opcion b": "Glaucoma crónico.",
-      "opcion c": "Neuropatía óptica isquémica arterítica.",
-      "opcion d": "Retinopatía diabética leve."
+      "opcion c": "Retinopatía diabética leve.",
+      "opcion d": "Catarata incipiente.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 90,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Primigesta 35 semanas, HTA, enzimas elevadas, proteinuria +++:",
-    "opciones": {
-      "opcion a": "Dejar evolucionar sin intervención.",
+    {
+      "id": 90,
+      "pregunta": "Primigesta 35 semanas, HTA, enzimas elevadas, proteinuria +++: Tratamiento antihipertensivo, sulfato de Mg e inducción al parto. Administración exclusiva de hidratación oral. Dejar evolucionar sin intervención. Reposo domiciliario.",
+      "opcion a": "Tratamiento antihipertensivo, sulfato de Mg e inducción al parto.",
       "opcion b": "Administración exclusiva de hidratación oral.",
-      "opcion c": "Tratamiento antihipertensivo, sulfato de Mg e inducción al parto.",
-      "opcion d": "Reposo domiciliario."
+      "opcion c": "Dejar evolucionar sin intervención.",
+      "opcion d": "Reposo domiciliario.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion c"
-  },
-  {
-    "id": 91,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Vacunas en control de salud de 18 meses:",
-    "opciones": {
-      "opcion a": "Hexavalente y rotavirus.",
-      "opcion b": "Solo antigripal.",
-      "opcion c": "Hepatitis A y triple bacteriana.",
-      "opcion d": "Pentavalente, IPV, refuerzo de meningococo, varicela y antigripal."
+    {
+      "id": 91,
+      "pregunta": "Vacunas en control de salud de 18 meses: Pentavalente, IPV, refuerzo de meningococo, varicela y antigripal. Hexavalente y rotavirus. Solo antigripal. Hepatitis A y triple bacteriana.",
+      "opcion a": "Pentavalente, IPV, refuerzo de meningococo, varicela y antigripal.",
+      "opcion b": "Hexavalente y rotavirus.",
+      "opcion c": "Solo antigripal.",
+      "opcion d": "Hepatitis A y triple bacteriana.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 92,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Por qué se produce un DIP variable en monitoreo fetal?",
-    "opciones": {
+    {
+      "id": 92,
+      "pregunta": "¿Por qué se produce un DIP variable en monitoreo fetal? Por compresión del cordón. Por encaje cefálico. Por hipoxia materna. Por contracciones uterinas intensas.",
       "opcion a": "Por compresión del cordón.",
       "opcion b": "Por encaje cefálico.",
-      "opcion c": "Por contracciones uterinas intensas.",
-      "opcion d": "Por hipoxia materna."
+      "opcion c": "Por hipoxia materna.",
+      "opcion d": "Por contracciones uterinas intensas.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 93,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "MAPA 24 h promedio 138/90 mmHg:",
-    "opciones": {
-      "opcion a": "No tiene relevancia clínica.",
-      "opcion b": "Sugiere cuadro ansioso.",
-      "opcion c": "Indica prehipotensión.",
-      "opcion d": "Confirma diagnóstico de hipertensión arterial."
+    {
+      "id": 93,
+      "pregunta": "MAPA 24 h promedio 138/90 mmHg: Confirma diagnóstico de hipertensión arterial. Indica prehipotensión. Sugiere cuadro ansioso. No tiene relevancia clínica.",
+      "opcion a": "Confirma diagnóstico de hipertensión arterial.",
+      "opcion b": "Indica prehipotensión.",
+      "opcion c": "Sugiere cuadro ansioso.",
+      "opcion d": "No tiene relevancia clínica.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 94,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Lactante 6 meses con nitritos ++ y leucocituria:",
-    "opciones": {
+    {
+      "id": 94,
+      "pregunta": "Lactante 6 meses con nitritos ++ y leucocituria: Realizar urocultivo e iniciar ATB oral. Dar solo analgésicos. Dar líquidos y observar. Repetir muestra en 48 h sin tratar.",
       "opcion a": "Realizar urocultivo e iniciar ATB oral.",
       "opcion b": "Dar solo analgésicos.",
       "opcion c": "Dar líquidos y observar.",
-      "opcion d": "Repetir muestra en 48 h sin tratar."
+      "opcion d": "Repetir muestra en 48 h sin tratar.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 95,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Para qué se solicita MAPA?",
-    "opciones": {
+    {
+      "id": 95,
+      "pregunta": "¿Para qué se solicita MAPA? Hipertensión de guardapolvo blanco. Hipotensión severa. Arritmias. Hipoglucemia.",
       "opcion a": "Hipertensión de guardapolvo blanco.",
-      "opcion b": "Hipoglucemia.",
-      "opcion c": "Hipotensión severa.",
-      "opcion d": "Arritmias."
+      "opcion b": "Hipotensión severa.",
+      "opcion c": "Arritmias.",
+      "opcion d": "Hipoglucemia.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 96,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "¿Qué tipo de prevención es la toma de PA?",
-    "opciones": {
-      "opcion a": "Prevención terciaria.",
-      "opcion b": "Prevención primordial.",
-      "opcion c": "Prevención cuaternaria.",
-      "opcion d": "Prevención secundaria."
+    {
+      "id": 96,
+      "pregunta": "¿Qué tipo de prevención es la toma de PA? Prevención secundaria. Prevención cuaternaria. Prevención terciaria. Prevención primordial.",
+      "opcion a": "Prevención secundaria.",
+      "opcion b": "Prevención cuaternaria.",
+      "opcion c": "Prevención terciaria.",
+      "opcion d": "Prevención primordial.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 97,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Profilaxis por Haemophilus influenzae en guardería:",
-    "opciones": {
+    {
+      "id": 97,
+      "pregunta": "Profilaxis por Haemophilus influenzae en guardería: Todos los contactos cercanos menores de 4 años, aunque estén vacunados. Solo los vacunados. Solo los adultos. Solo hermanos convivientes.",
       "opcion a": "Todos los contactos cercanos menores de 4 años, aunque estén vacunados.",
       "opcion b": "Solo los vacunados.",
       "opcion c": "Solo los adultos.",
-      "opcion d": "Solo hermanos convivientes."
+      "opcion d": "Solo hermanos convivientes.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 98,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Ventaja de estudios de cohorte:",
-    "opciones": {
+    {
+      "id": 98,
+      "pregunta": "Ventaja de estudios de cohorte: Permiten estudiar varios eventos simultáneamente. Evaluar enfermedades rarísimas. Determinar causalidad inmediata. Garantizar 100% de seguimiento.",
       "opcion a": "Permiten estudiar varios eventos simultáneamente.",
       "opcion b": "Evaluar enfermedades rarísimas.",
       "opcion c": "Determinar causalidad inmediata.",
-      "opcion d": "Garantizar 100% de seguimiento."
+      "opcion d": "Garantizar 100% de seguimiento.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 99,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Niño con fiebre, dolor de cadera, leucocitosis 30.000 y líquido articular:",
-    "opciones": {
-      "opcion a": "Dolor de crecimiento.",
-      "opcion b": "Traumatismo leve.",
-      "opcion c": "Displasia de cadera.",
-      "opcion d": "Artritis séptica."
+    {
+      "id": 99,
+      "pregunta": "Niño con fiebre, dolor de cadera, leucocitosis 30.000 y líquido articular: Artritis séptica. Displasia de cadera. Traumatismo leve. Dolor de crecimiento.",
+      "opcion a": "Artritis séptica.",
+      "opcion b": "Displasia de cadera.",
+      "opcion c": "Traumatismo leve.",
+      "opcion d": "Dolor de crecimiento.",
+      "respuesta_correcta": "opcion a"
     },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 100,
-    "tema": "Enfermería 2023",
-    "año": 2023,
-    "caso_clínico": "",
-    "pregunta": "Adulto fumador con disnea y tos crónica:",
-    "opciones": {
+    {
+      "id": 100,
+      "pregunta": "Adulto fumador con disnea y tos crónica: Espirometría con prueba post broncodilatador. Radiografía de manos. Electrocardiograma únicamente. Test de esfuerzo sin evaluación pulmonar.",
       "opcion a": "Espirometría con prueba post broncodilatador.",
       "opcion b": "Radiografía de manos.",
-      "opcion c": "Test de esfuerzo sin evaluación pulmonar.",
-      "opcion d": "Electrocardiograma únicamente."
-    },
-    "respuesta_correcta": "opcion a"
-  }
-]
+      "opcion c": "Electrocardiograma únicamente.",
+      "opcion d": "Test de esfuerzo sin evaluación pulmonar.",
+      "respuesta_correcta": "opcion a"
+    }
+  ]
+}
