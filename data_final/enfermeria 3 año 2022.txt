@@ -1,0 +1,2607 @@
+{
+  "exam_title": "Examen de Enfermería Pediátrica y Adolescente 2",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "En el contexto de las urgencias pediátricas, ¿Cuál es la principal función de la **Adrenalina** en la Reanimación Cardiopulmonar (RCP) de un niño?",
+      "options": {
+        "A": {
+          "text": "Disminuir la presión arterial para facilitar el retorno venoso.",
+          "rationale": "La adrenalina es un vasoconstrictor y un inotrópico positivo; su función es aumentar la presión arterial y la contractilidad cardíaca.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Actuar como agente fibrinolítico para disolver posibles coágulos.",
+          "rationale": "La adrenalina no tiene propiedades fibrinolíticas.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Restaurar el volumen circulante en casos de shock hemorrágico.",
+          "rationale": "La adrenalina no es un expansor de volumen; esa función es para los cristaloides.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Aumentar la presión de perfusión coronaria y cerebral (PPC y CPC) mediante la vasoconstricción periférica.",
+          [cite_start]"rationale": "El objetivo principal de la adrenalina en la RCP es aumentar la vasoconstricción periférica (efecto alfa-adrenérgico) para desviar el flujo a los órganos vitales y mejorar la presión de perfusión. [cite: 853-857]",
+          "is_correct": true
+        }
+      }
+    },
+    {
+      "question_number": 2,
+      "question": "¿Cuál es la principal vía de administración para la administración de la **vitamina K** en la **profilaxis** de la **enfermedad hemorrágica del recién nacido**?",
+      "options": {
+        "A": {
+          "text": "Vía oral, inmediatamente después del nacimiento.",
+          "rationale": "La vía oral se utiliza, pero no es la de elección para la profilaxis universal debido a la absorción variable y el riesgo de vómitos.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Vía intravenosa, diluida en solución fisiológica.",
+          "rationale": "La vía intravenosa se utiliza para el tratamiento, no para la profilaxis de rutina, debido a sus riesgos de efectos adversos.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Vía intramuscular, en la cara anterolateral del muslo, en dosis única.",
+          "rationale": "La administración **intramuscular** asegura una absorción lenta y constante, previniendo la enfermedad hemorrágica del recién nacido de forma más efectiva y es la vía de elección.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Vía subcutánea, en la región deltoidea, en dosis fraccionadas.",
+          "rationale": "La vía subcutánea no asegura una absorción tan efectiva y la región deltoidea no es la de elección en el RN.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 3,
+      "question": "¿Cuál es la vía de administración de medicación que ofrece la **absorción más rápida** de la **insulina**?",
+      "options": {
+        "A": {
+          "text": "Abdomen",
+          [cite_start]"rationale": "La absorción de insulina es más rápida y predecible en la zona **abdominal** debido a la mayor vascularización y menor capa de grasa subcutánea. [cite: 794-798]",
+          "is_correct": true
+        },
+        "B": {
+          "text": "Músculo deltoides",
+          "rationale": "La absorción en el músculo deltoides es intermedia y puede variar con la actividad física.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Muslo",
+          "rationale": "La absorción de insulina en el muslo es más lenta que en el abdomen y el deltoides.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Cadera",
+          "rationale": "La absorción de insulina en la cadera es la más lenta y variable, no siendo la de elección para una acción rápida.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 4,
+      "question": "En el cuidado de un **niño** con **Cetoacidosis Diabética (CAD)**, ¿Cuál es la principal prioridad de **Enfermería** en la fase inicial del tratamiento?",
+      "options": {
+        "A": {
+          "text": "Administración de bicarbonato de sodio intravenoso para corregir la acidosis.",
+          "rationale": "El bicarbonato se reserva para casos de acidosis muy grave por su riesgo de efectos adversos; la prioridad es la hidratación y la insulina.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Administración de insulina en bolo subcutáneo de acción rápida.",
+          "rationale": "La insulina debe administrarse por infusión continua y después de la rehidratación inicial para evitar el shock y el edema cerebral.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Resucitación con solución fisiológica intravenosa en bolo para restaurar el volumen circulante y rehidratación con insulina en infusión continua.",
+          "rationale": "La **reposición agresiva de volumen** y la infusión gradual de insulina (después de la primera hora) son cruciales para revertir el shock y la hiperglucemia, respectivamente.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Administración de potasio intravenoso, ya que es la deficiencia electrolítica más grave.",
+          "rationale": "La reposición de potasio solo se inicia cuando la glucemia desciende, y el potasio sérico se normaliza o desciende, pero no en la fase inicial de la rehidratación.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 5,
+      "question": "En el contexto de un paro cardíaco no traumático extrahospitalario (PCEH) en un niño, ¿Cuál es el primer paso para realizar?",
+      "options": {
+        "A": {
+          "text": "Activación de la respuesta a emergencias",
+          "rationale": "La activación de la respuesta a emergencias es importante, pero no es la primera acción vital inmediata.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "RCP de alta calidad",
+          [cite_start]"rationale": "El primer paso vital es iniciar las maniobras de **RCP de alta calidad** para proporcionar oxígeno y perfusión a los órganos vitales hasta la llegada de la ayuda avanzada. [cite: 677-681]",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Desfibrilación",
+          "rationale": "La desfibrilación solo se realiza si el ritmo es desfibrilable (FV/TV sin pulso), lo que no es el primer paso universal.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Soporte vital avanzado",
+          "rationale": "El soporte vital avanzado es la etapa posterior a la RCP básica y solo lo proporciona el personal especializado.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 6,
+      "question": "En el marco de la **Ley N.º 26.529/2009**, si los cuidadores de un **niño** de 3 años tienen un conflicto sobre si realizar o no una transfusión de sangre para salvar su vida, ¿Qué debe hacer el personal de salud del efector?",
+      "options": {
+        "A": {
+          "text": "Respetar el deseo del cuidador que se niega, ya que su autonomía es la que prevalece en la minoridad.",
+          "rationale": "El principio que prevalece en el derecho del niño es el 'interés superior del niño', que se prioriza sobre el desacuerdo de los padres en una situación de riesgo de vida.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Elevar el caso al Comité de Ética de la institución para que emita una opinión, demorando la decisión.",
+          "rationale": "En una urgencia que amenaza la vida, el equipo debe actuar de inmediato, basándose en el mejor interés del paciente; el comité de ética se consulta para dilemas no urgentes.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Le realiza el tratamiento según el criterio médico basándose en el **mejor interés del paciente** y la Ley N.º 26.061 (Protección Integral de NNyA).",
+          [cite_start]"rationale": "En una urgencia con riesgo de vida, la obligación del equipo de salud es priorizar la vida y la salud del niño, tomando la decisión basada en el criterio médico (Lex Artis) y el interés superior del niño. [cite: 481-485]",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Informar el caso al jefe de servicio para que lo eleve al tribunal correspondiente y espere la orden judicial.",
+          "rationale": "Esperar la orden judicial en una urgencia con riesgo de vida (inminente) pondría en peligro la vida del paciente.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 7,
+      "question": "¿Qué acción debe realizar **Enfermería** al finalizar la infusión de una **quimioterapia citotóxica** por **vía intravenosa** en un **niño** con cáncer?",
+      "options": {
+        "A": {
+          "text": "Desechar la jeringa y el equipo de infusión en el contenedor de residuos comunes, después de lavar la línea con solución fisiológica.",
+          "rationale": "Los equipos de quimioterapia deben desecharse en contenedores específicos para residuos peligrosos (residuo patogénico) y no en los residuos comunes.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Desechar la jeringa y el equipo de infusión en un **contenedor específico** para residuos citotóxicos/patogénicos.",
+          "rationale": "El material contaminado con citotóxicos debe ser considerado residuo peligroso y segregarse en contenedores herméticos y rotulados de acuerdo con la normativa.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Realizar la desinfección de la jeringa con alcohol al $70\%$ y reutilizarla para la próxima dosis.",
+          "rationale": "La reutilización de material de quimioterapia está estrictamente contraindicada para evitar la contaminación cruzada y el riesgo para el paciente y el personal.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Guardar el equipo de infusión conectado al catéter para la siguiente dosis, para evitar la punción repetida.",
+          "rationale": "El equipo debe desecharse al finalizar la dosis para prevenir la contaminación e infección de la línea venosa.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 8,
+      "question": "En el marco de la **Ley N.º 26.743 de Identidad de Género**, ¿Cuál es el requisito para que una persona **menor de 16 años** acceda a tratamientos hormonales?",
+      "options": {
+        "A": {
+          "text": "Autorización judicial sin excepción.",
+          "rationale": "La ley permite el acceso con la asistencia de los representantes legales, reservando la vía judicial para el conflicto de voluntades.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Consentimiento de la persona menor de edad con la asistencia de sus representantes legales.",
+          "rationale": "La ley establece que, si existe el **consentimiento del menor con el acompañamiento de sus representantes** (padres/tutores), el acceso a los tratamientos hormonales es posible y debe ser facilitado.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Diagnóstico de Disforia de Género emitido por un psiquiatra.",
+          "rationale": "La ley establece que no se requiere ninguna autorización judicial ni diagnóstico psiquiátrico o psicológico para estas prácticas.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "El acceso solo está permitido a partir de los 16 años de edad.",
+          "rationale": "Si bien la autonomía plena es a los 16 años, la ley permite el acceso a tratamientos hormonales en menores con la asistencia de sus representantes.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 9,
+      "question": "Al realizar la **Auscultación Pulmonar** en un **lactante** con **neumonía**, ¿Qué característica del murmullo bronquial (normal) debe considerar **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Sonidos suaves y de tono grave, audibles en los campos pulmonares periféricos.",
+          "rationale": "Esta es la descripción del murmullo vesicular, el sonido normal en la periferia pulmonar.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Sonidos de intensidad y tono intermedios, audibles cerca del esternón.",
+          "rationale": "Esta es la descripción de la respiración broncovesicular, que es audible en la región de la bifurcación bronquial.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Sonidos altos y de tono agudo, audibles sobre la tráquea y los bronquios principales.",
+          [cite_start]"rationale": "El murmullo bronquial es el sonido de flujo de aire en los grandes bronquios y la tráquea, es fuerte, alto y agudo. [cite: 737-741]",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Sonidos altos y de tono grave, audibles solo en la base pulmonar.",
+          "rationale": "Esta combinación de tono y localización no corresponde a un hallazgo normal del murmullo bronquial.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 10,
+      "question": "En el cuidado de un **niño** con **Hipotiroidismo Congénito** que inicia tratamiento con **Levotiroxina**, ¿Cuál es el principal punto de educación para los padres que debe enfatizar **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Administrar la Levotiroxina con la fórmula láctea o los alimentos para mejorar la absorción.",
+          "rationale": "La fórmula de soya y los alimentos, especialmente la leche, pueden reducir significativamente la absorción de levotiroxina.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Administrar la Levotiroxina en ayunas, 30-60 minutos antes del desayuno o de la primera toma de leche, sin mezclar con alimentos o suplementos de hierro.",
+          "rationale": "La Levotiroxina debe tomarse **en ayunas** para maximizar su absorción, ya que muchos alimentos, la fórmula de soya y los suplementos de hierro/calcio interfieren con su biodisponibilidad.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Suspender la medicación si el niño presenta diarrea o vómitos.",
+          "rationale": "La Levotiroxina es un medicamento de por vida; la suspensión debe ser evaluada por el médico, y solo si el niño no retiene la dosis oral se cambia a la vía intravenosa.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "La dosis de Levotiroxina es la misma desde el nacimiento hasta la adolescencia.",
+          "rationale": "La dosis de Levotiroxina debe ajustarse frecuentemente en la infancia según el peso y los niveles de TSH y T4.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 11,
+      "question": "Para la toma de una muestra de sangre para **Hemocultivo** en un **niño** con sospecha de **sepsis**, ¿Cuál es la técnica de asepsia de la piel más recomendada antes de la punción?",
+      "options": {
+        "A": {
+          "text": "Limpiar con alcohol al $70\%$ y puncionar de inmediato.",
+          "rationale": "El alcohol al $70\%$ es un buen antiséptico, pero requiere un tiempo de secado para ser efectivo; el yodo o la clorhexidina son más efectivos.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Limpiar con solución salina estéril y puncionar.",
+          "rationale": "La solución salina no tiene actividad antimicrobiana; se requiere un antiséptico.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Aplicar clorhexidina al $2\%$ en alcohol al $70\%$ o povidona yodada con un movimiento en espiral y dejar secar completamente.",
+          "rationale": "El uso de **clorhexidina o povidona yodada** con el tiempo de secado adecuado es el estándar de oro para la asepsia cutánea antes de la punción venosa.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Limpiar con agua y jabón antiséptico y secar con una toalla no estéril.",
+          "rationale": "El secado con una toalla no estéril recontamina la zona.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 12,
+      "question": "En el cuidado de un **niño** con **Asma** que utiliza una cámara espaciadora con mascarilla, ¿Cuál es la forma correcta de administrar el puff para garantizar la máxima llegada al pulmón?",
+      "options": {
+        "A": {
+          "text": "Realizar una inhalación lenta y profunda inmediatamente después de activar el puff.",
+          "rationale": "Esta es la técnica para el adolescente; el lactante o preescolar requiere la técnica de respiración a volumen corriente.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Activar el puff en el aire y luego colocar la mascarilla en la cara del niño.",
+          "rationale": "El medicamento debe activarse con la mascarilla ya puesta para que no se escape; de lo contrario, se pierde la dosis.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Activar el puff y permitir que el niño realice **6 a 10 respiraciones a volumen corriente** (normales) a través de la mascarilla ajustada.",
+          "rationale": "La respiración a volumen corriente con la mascarilla ajustada permite que el lactante o preescolar inhale el medicamento de la cámara, siendo la técnica más efectiva para esta edad.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Sellar completamente la mascarilla en la boca y la nariz, y hacer que el niño contenga la respiración durante 10 segundos.",
+          "rationale": "El contener la respiración es difícil o imposible para los niños pequeños; se utiliza la respiración a volumen corriente.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 13,
+      "question": "En el marco de la **Ley N.º 26.529/2009**, si un **adolescente** (14 años) solicita un **Método Anticonceptivo (MAC)** sin que sus padres lo sepan, ¿Cuál es la conducta de **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Informar a los padres del adolescente, ya que son los responsables de su salud.",
+          "rationale": "La ley garantiza la confidencialidad y la autonomía del adolescente en el acceso a la salud sexual y reproductiva.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Negarle el MAC, ya que es menor de edad y el acceso está permitido solo a partir de los 16 años.",
+          "rationale": "La ley garantiza el derecho a la anticoncepción y la consejería a partir de los 14 años, basándose en la autonomía progresiva.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Brindar consejería, garantizar la **confidencialidad** y administrar el MAC solicitado, respetando su autonomía progresiva.",
+          "rationale": "La autonomía progresiva permite a los adolescentes de 14 años acceder a métodos anticonceptivos y consejería sin la necesidad de la autorización o conocimiento de sus padres.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Solicitar la intervención del Comité de Ética para evaluar la madurez del adolescente.",
+          "rationale": "El acceso a la anticoncepción está regulado por ley y no requiere la evaluación del Comité de Ética.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 14,
+      "question": "¿Cuál es la intervención de **Enfermería** más importante en la prevención de la **Dermatitis del Pañal** en un **lactante**?",
+      "options": {
+        "A": {
+          "text": "Aplicar polvos de talco después de cada cambio de pañal para mantener la zona seca.",
+          "rationale": "Los polvos de talco pueden ser inhalados por el lactante, lo que puede causar neumonía por aspiración; su uso está desaconsejado.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Limpiar vigorosamente la zona con toallitas húmedas perfumadas para eliminar los restos de heces y orina.",
+          "rationale": "La limpieza debe ser suave, y los perfumes de las toallitas pueden irritar la piel sensible del lactante.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Cambio frecuente del pañal, limpieza suave con agua y jabón neutro, y aplicación de una crema de barrera (óxido de zinc).",
+          "rationale": "La prevención se basa en **reducir el tiempo de contacto de la piel con la humedad y la irritación**, y la crema de barrera ofrece protección.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Utilizar pañales de tela de forma exclusiva, ya que los pañales descartables causan más irritación.",
+          "rationale": "Los pañales descartables modernos tienen una alta capacidad de absorción y pueden ser más efectivos para mantener la piel seca que los pañales de tela.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 15,
+      "question": "En el marco del **desarrollo psicomotor**, ¿A qué edad se espera que un **lactante** comience a **balbucear** (ej. 'da-da', 'ma-ma') y pueda **alcanzar y agarrar objetos** con ambas manos?",
+      "options": {
+        "A": {
+          "text": "2 meses",
+          "rationale": "A los 2 meses solo se espera la sonrisa social y el control de la cabeza en decúbito prono.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "4-6 meses",
+          "rationale": "A los **4-6 meses**, el lactante desarrolla la coordinación ojo-mano para agarrar objetos y comienza la etapa de balbuceo silábico, lo que son hitos clave en esta etapa del desarrollo.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "9 meses",
+          "rationale": "A los 9 meses se espera que el bebé ya se siente, gatee y use la pinza inferior.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "12 meses",
+          "rationale": "A los 12 meses se espera que el bebé ya camine con apoyo y diga sus primeras palabras con significado.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 16,
+      "question": "En el cuidado de un **niño** con **nefropatía**, ¿Cuál es la restricción dietética más común que debe vigilar **Enfermería** para prevenir la **hiperpotasemia**?",
+      "options": {
+        "A": {
+          "text": "Restricción de sodio.",
+          "rationale": "La restricción de sodio es para controlar la hipertensión y el edema, no la hiperpotasemia.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Restricción de líquidos.",
+          "rationale": "La restricción de líquidos es para controlar la sobrecarga hídrica, no el potasio.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Restricción de alimentos ricos en potasio (ej. Bananas, naranjas, papas, chocolate).",
+          "rationale": "El riñón enfermo no excreta potasio eficientemente, por lo que la restricción de alimentos con **alto contenido de potasio** es esencial para prevenir arritmias cardíacas.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Restricción de proteínas.",
+          "rationale": "La restricción de proteínas es para reducir la uremia y la carga renal, no el potasio.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 17,
+      "question": "En el contexto de la **vacunación**, ¿Cuál es el intervalo de tiempo recomendado entre la administración de la **vacuna Antigripal** y la **vacuna contra COVID-19** en un **adolescente**?",
+      "options": {
+        "A": {
+          "text": "4 semanas (28 días) de separación mínima.",
+          "rationale": "Esta era la recomendación inicial para evitar confusiones en los efectos adversos, pero no es la recomendación actual.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Se pueden administrar simultáneamente o con cualquier intervalo de tiempo.",
+          "rationale": "Las guías actuales recomiendan la **administración simultánea** o con cualquier intervalo de tiempo para maximizar la cobertura, ya que no hay evidencia de interferencia o aumento de efectos adversos.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "3 meses de separación mínima.",
+          "rationale": "Este intervalo es demasiado largo y no tiene justificación en las guías de vacunación.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Se deben administrar el mismo día, en el mismo sitio de punción para no confundir los sitios de inyección.",
+          "rationale": "La administración debe ser simultánea, pero en sitios diferentes (brazos distintos) para evitar una reacción local grave y facilitar la identificación de efectos adversos.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 18,
+      "question": "En el cuidado de un **lactante** con **Reflujo Gastroesofágico (RGE)**, ¿Cuál es la principal recomendación de **Enfermería** después de las tomas para prevenir el reflujo?",
+      "options": {
+        "A": {
+          "text": "Acostar al lactante inmediatamente en decúbito prono (boca abajo) para evitar el vómito.",
+          "rationale": "El decúbito prono aumenta el riesgo de MSL y no es la posición post-toma recomendada.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Acostar al lactante en decúbito lateral derecho para facilitar el vaciamiento gástrico.",
+          "rationale": "El decúbito lateral derecho puede aumentar el reflujo; el izquierdo es mejor para el vaciamiento.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Mantener al lactante en posición vertical o semi-incorporada ($30^{\\circ}$) durante 20-30 minutos después de cada toma.",
+          "rationale": "La **posición vertical** utiliza la gravedad para mantener el contenido gástrico en el estómago, lo que reduce significativamente los episodios de reflujo.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Administrar un antiácido líquido (ej. Hidróxido de aluminio) de forma rutinaria antes de cada toma.",
+          "rationale": "Los antiácidos no son la principal intervención; la intervención postural es más importante y debe ser supervisada por el médico.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 19,
+      "question": "¿Cuál es el principal factor de riesgo para el desarrollo de **caries dental** en la **primera infancia** (menores de 3 años)?",
+      "options": {
+        "A": {
+          "text": "Consumo exclusivo de fórmula láctea infantil.",
+          "rationale": "El consumo de fórmula es menos cariogénico que la lactancia nocturna prolongada y el consumo de bebidas azucaradas.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Uso de chupete o dedo para la succión.",
+          "rationale": "El chupete afecta la formación de los dientes (oclusión), pero no es el principal factor de riesgo para las caries.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Lactancia o tomas de biberón nocturnas prolongadas y la falta de higiene bucal después de las tomas.",
+          "rationale": "La exposición prolongada a azúcares (leche o jugos) durante el sueño, junto con la falta de limpieza, es la principal causa de la **caries del biberón** o la caries temprana de la infancia.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "No utilizar pasta dental con flúor.",
+          "rationale": "La pasta dental con flúor es importante, pero el consumo nocturno de líquidos azucarados es el principal factor de riesgo.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 20,
+      "question": "En la evaluación de la **Escala de Tanner** en una **niña**, ¿Qué estadio se correlaciona con la aparición del **botón mamario** (telarca) como primer signo de desarrollo sexual secundario?",
+      "options": {
+        "A": {
+          "text": "Estadio I",
+          "rationale": "El Estadio I corresponde al estado prepuberal, sin desarrollo mamario ni vello púbico.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Estadio II",
+          "rationale": "El **Estadio II** se caracteriza por el desarrollo del **botón mamario** (telarca) y la aparición de vello púbico escaso, siendo el primer signo de pubertad en las niñas.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Estadio III",
+          "rationale": "El Estadio III se correlaciona con el aumento del tamaño mamario y del vello púbico, pero es posterior al botón mamario.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Estadio IV",
+          "rationale": "El Estadio IV se caracteriza por la proyección de la areola y el pezón, formando un doble contorno, y es un estado más avanzado de la pubertad.",
+          "is_correct": false
+        }
+      }
+    },
+    // Preguntas 21 a 100 del Examen 2
+    {
+      "question_number": 21,
+      "question": "¿Cuál es la principal complicación que puede presentar un **niño** con **Síndrome Nefrótico** por la pérdida masiva de proteínas?",
+      "options": {
+        "A": {
+          "text": "Hipoglucemia por alteración de la síntesis hepática de glucosa.",
+          "rationale": "La hiperglucemia es más común en pacientes con insuficiencia renal; la hipoglucemia es rara.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Hipertensión arterial por la retención de sodio y agua.",
+          "rationale": "La HTA es una complicación, pero el principal riesgo es la hipercoagulabilidad.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Aumento del riesgo de infecciones y episodios de trombosis (hipercoagulabilidad).",
+          "rationale": "La pérdida de Inmunoglobulinas (IgG) aumenta las infecciones, y la pérdida de antitrombina III y proteínas C/S aumenta el riesgo de **trombosis** (hipercoagulabilidad), siendo la complicación más grave.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Acidosis metabólica grave.",
+          "rationale": "La acidosis metabólica se asocia más a la insuficiencia renal aguda o crónica, no directamente a la pérdida de proteínas en el SN.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 22,
+      "question": "En el cuidado de un **lactante** con **Displasia de Cadera**, ¿Cuál es el principal objetivo del uso del arnés de Pavlik que debe priorizar **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Inmovilizar completamente la cadera para permitir la formación del acetábulo.",
+          "rationale": "El arnés de Pavlik permite el movimiento de las rodillas y caderas, pero las mantiene en posición adecuada, la inmovilización completa no es el objetivo.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Promover la extensión forzada de las piernas para estirar los ligamentos.",
+          "rationale": "La extensión forzada está contraindicada; el arnés de Pavlik promueve la flexión y abducción.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Mantener las caderas en posición de **flexión y abducción** para que la cabeza del fémur se centre y profundice el acetábulo.",
+          "rationale": "La posición de flexión y abducción es la posición de reducción ideal que estimula el desarrollo correcto de la cavidad acetabular mediante el contacto adecuado con la cabeza del fémur.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Facilitar la deambulación temprana del lactante.",
+          "rationale": "El objetivo principal es la corrección anatómica, no la deambulación, que se pospone hasta la corrección.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 23,
+      "question": "Para la administración de medicamentos por **vía oftálmica** en un **niño**, ¿Cuál es la técnica correcta que debe realizar **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Colocar las gotas directamente sobre la córnea, en el centro del ojo.",
+          "rationale": "La colocación en el centro de la córnea puede causar molestias y el reflejo de parpadeo, lo que dificulta la administración.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Aplicar las gotas en el canto interno del ojo y pedir al niño que parpadee repetidamente.",
+          "rationale": "El canto interno no es el sitio de elección, ya que las gotas pueden pasar rápidamente al conducto nasolagrimal.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Tirar suavemente del párpado inferior y aplicar las gotas en el **saco conjuntival inferior** (borde interno o externo), pidiendo al niño que cierre el ojo suavemente.",
+          "rationale": "La administración en el saco conjuntival inferior minimiza la irritación y maximiza la retención y la absorción local del medicamento.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Pedir al niño que mire hacia abajo y colocar las gotas en el párpado superior.",
+          "rationale": "La colocación en el párpado superior no es la vía de administración correcta.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 24,
+      "question": "En el cuidado de un **niño** con **Asma** que utiliza una cámara espaciadora con mascarilla, ¿Cuál es la forma correcta de administrar el puff para garantizar la máxima llegada al pulmón?",
+      "options": {
+        "A": {
+          "text": "Realizar una inhalación lenta y profunda inmediatamente después de activar el puff.",
+          "rationale": "Esta es la técnica para el adolescente; el lactante o preescolar requiere la técnica de respiración a volumen corriente.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Activar el puff en el aire y luego colocar la mascarilla en la cara del niño.",
+          "rationale": "El medicamento debe activarse con la mascarilla ya puesta para que no se escape; de lo contrario, se pierde la dosis.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Activar el puff y permitir que el niño realice **6 a 10 respiraciones a volumen corriente** (normales) a través de la mascarilla ajustada.",
+          "rationale": "La respiración a volumen corriente con la mascarilla ajustada permite que el lactante o preescolar inhale el medicamento de la cámara, siendo la técnica más efectiva para esta edad.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Sellar completamente la mascarilla en la boca y la nariz, y hacer que el niño contenga la respiración durante 10 segundos.",
+          "rationale": "El contener la respiración es difícil o imposible para los niños pequeños; se utiliza la respiración a volumen corriente.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 25,
+      "question": "Al educar a un **adolescente** sobre la importancia del uso de **preservativo**, ¿cuál es el beneficio que debe enfatizar la **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "El preservativo es el método más efectivo para prevenir el embarazo.",
+          "rationale": "Los MAC de larga duración y la píldora tienen mayor efectividad teórica para el embarazo; la clave del preservativo es la doble protección.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Previene la aparición de candidiasis vaginal.",
+          "rationale": "Si bien puede ayudar, no es la principal indicación o beneficio del preservativo.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Es el único método que ofrece **doble protección** (previene las Infecciones de Transmisión Sexual (ITS) y el embarazo).",
+          "rationale": "El preservativo es el único método que, utilizado correctamente, reduce significativamente el riesgo de ITS y previene el embarazo.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Es una alternativa a la píldora anticonceptiva en caso de olvido de la toma diaria.",
+          "rationale": "El preservativo no reemplaza la píldora; su uso es un método de barrera con un propósito diferente al de la anticoncepción hormonal.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 26,
+      "question": "En el marco de la **Ley N.º 26.743 de Identidad de Género**, si una **mujer trans** (23 años) desea acceder a una **cirugía de modificación genital**, ¿Qué requisito indica la Ley para esta prestación?",
+      "options": {
+        "A": {
+          "text": "Cambio registral realizado y consentimiento informado de la persona.",
+          "rationale": "El cambio registral no es un requisito indispensable para el acceso a las prestaciones de salud.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Diagnóstico de disforia de género y autorización judicial.",
+          "rationale": "La ley elimina el requisito de patologización (diagnóstico) y la autorización judicial para estas prácticas.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Cambio registral realizado, diagnóstico de disforia de género y consentimiento informado de la persona.",
+          "rationale": "Esta opción incluye dos requisitos (cambio registral y diagnóstico) que fueron explícitamente eliminados por la Ley.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Consentimiento informado de la persona, únicamente.",
+          "rationale": "El único requisito para el acceso a las intervenciones quirúrgicas de modificación corporal en el marco de la Ley N.º 26.743 es el **consentimiento informado** libre de la persona mayor de edad (18 años).",
+          "is_correct": true
+        }
+      }
+    },
+    {
+      "question_number": 27,
+      "question": "¿Cuál es la principal indicación de **Enfermería** en la prevención de la **Otitis del Nadador** (Otitis Externa) en **niños**?",
+      "options": {
+        "A": {
+          "text": "Aplicar gotas óticas antibióticas antes de nadar.",
+          "rationale": "El uso profiláctico de antibióticos no está indicado y puede promover la resistencia bacteriana.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Utilizar hisopos para secar el conducto auditivo después de nadar.",
+          "rationale": "Los hisopos están contraindicados, ya que empujan el cerumen hacia adentro y pueden lesionar el conducto.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Secar suavemente el conducto auditivo externo con una toalla y utilizar gotas de alcohol isopropílico/vinagre después de nadar para acidificar el canal.",
+          "rationale": "La otitis del nadador es causada por la humedad que altera el pH del canal; el secado y la acidificación con gotas apropiadas ayudan a restaurar la barrera protectora.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Utilizar tapones de algodón de forma permanente.",
+          "rationale": "El uso permanente de tapones no se recomienda y puede causar irritación o infección.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 28,
+      "question": "¿Cuál es la principal justificación para el uso de la **bilirrubina transcutánea** en la evaluación de la **ictericia** en un **Recién Nacido**?",
+      "options": {
+        "A": {
+          "text": "Es más precisa que la bilirrubina sérica total (BST) en todos los casos.",
+          "rationale": "La BST sigue siendo el estándar de oro, especialmente en niveles altos o en RN bajo fototerapia.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Permite realizar el diagnóstico de hiperbilirrubinemia de forma no invasiva y reduce la necesidad de punciones venosas repetidas.",
+          "rationale": "La bilirrubina transcutánea es una herramienta de cribado no invasiva que reduce el estrés de las punciones venosas y permite el monitoreo rápido de la ictericia.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Mide la bilirrubina conjugada directamente.",
+          "rationale": "Mide la bilirrubina total (conjugada y no conjugada), pero con menor precisión que la BST en casos de fototerapia.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Es el único método de detección utilizable en recién nacidos de muy bajo peso.",
+          "rationale": "La precisión disminuye en RN pretérmino y de bajo peso, por lo que se prefiere la BST en estos casos.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 29,
+      "question": "Al realizar la **Auscultación Pulmonar** en un **lactante** con **neumonía**, ¿Qué característica del murmullo bronquial (normal) debe considerar **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Sonidos suaves y de tono grave, audibles en los campos pulmonares periféricos.",
+          "rationale": "Esta es la descripción del murmullo vesicular, el sonido normal en la periferia pulmonar.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Sonidos de intensidad y tono intermedios, audibles cerca del esternón.",
+          "rationale": "Esta es la descripción de la respiración broncovesicular, que es audible en la región de la bifurcación bronquial.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Sonidos altos y de tono agudo, audibles sobre la tráquea y los bronquios principales.",
+          [cite_start]"rationale": "El murmullo bronquial es el sonido de flujo de aire en los grandes bronquios y la tráquea, es fuerte, alto y agudo. [cite: 737-741]",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Sonidos altos y de tono grave, audibles solo en la base pulmonar.",
+          "rationale": "Esta combinación de tono y localización no corresponde a un hallazgo normal del murmullo bronquial.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 30,
+      "question": "En el cuidado de un **niño** con **Hipotiroidismo Congénito** que inicia tratamiento con **Levotiroxina**, ¿Cuál es el principal punto de educación para los padres que debe enfatizar **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Administrar la Levotiroxina con la fórmula láctea o los alimentos para mejorar la absorción.",
+          "rationale": "La fórmula de soya y los alimentos, especialmente la leche, pueden reducir significativamente la absorción de levotiroxina.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Administrar la Levotiroxina en ayunas, 30-60 minutos antes del desayuno o de la primera toma de leche, sin mezclar con alimentos o suplementos de hierro.",
+          "rationale": "La Levotiroxina debe tomarse **en ayunas** para maximizar su absorción, ya que muchos alimentos, la fórmula de soya y los suplementos de hierro/calcio interfieren con su biodisponibilidad.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Suspender la medicación si el niño presenta diarrea o vómitos.",
+          "rationale": "La Levotiroxina es un medicamento de por vida; la suspensión debe ser evaluada por el médico, y solo si el niño no retiene la dosis oral se cambia a la vía intravenosa.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "La dosis de Levotiroxina es la misma desde el nacimiento hasta la adolescencia.",
+          "rationale": "La dosis de Levotiroxina debe ajustarse frecuentemente en la infancia según el peso y los niveles de TSH y T4.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 31,
+      "question": "Para la toma de una muestra de sangre para **Hemocultivo** en un **niño** con sospecha de **sepsis**, ¿Cuál es la técnica de asepsia de la piel más recomendada antes de la punción?",
+      "options": {
+        "A": {
+          "text": "Limpiar con alcohol al $70\%$ y puncionar de inmediato.",
+          "rationale": "El alcohol al $70\%$ es un buen antiséptico, pero requiere un tiempo de secado para ser efectivo; el yodo o la clorhexidina son más efectivos.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Limpiar con solución salina estéril y puncionar.",
+          "rationale": "La solución salina no tiene actividad antimicrobiana; se requiere un antiséptico.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Aplicar clorhexidina al $2\%$ en alcohol al $70\%$ o povidona yodada con un movimiento en espiral y dejar secar completamente.",
+          "rationale": "El uso de **clorhexidina o povidona yodada** con el tiempo de secado adecuado es el estándar de oro para la asepsia cutánea antes de la punción venosa.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Limpiar con agua y jabón antiséptico y secar con una toalla no estéril.",
+          "rationale": "El secado con una toalla no estéril recontamina la zona.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 32,
+      "question": "En el cuidado de un **niño** con **Asma** que utiliza una cámara espaciadora con mascarilla, ¿Cuál es la forma correcta de administrar el puff para garantizar la máxima llegada al pulmón?",
+      "options": {
+        "A": {
+          "text": "Realizar una inhalación lenta y profunda inmediatamente después de activar el puff.",
+          "rationale": "Esta es la técnica para el adolescente; el lactante o preescolar requiere la técnica de respiración a volumen corriente.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Activar el puff en el aire y luego colocar la mascarilla en la cara del niño.",
+          "rationale": "El medicamento debe activarse con la mascarilla ya puesta para que no se escape; de lo contrario, se pierde la dosis.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Activar el puff y permitir que el niño realice **6 a 10 respiraciones a volumen corriente** (normales) a través de la mascarilla ajustada.",
+          "rationale": "La respiración a volumen corriente con la mascarilla ajustada permite que el lactante o preescolar inhale el medicamento de la cámara, siendo la técnica más efectiva para esta edad.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Sellar completamente la mascarilla en la boca y la nariz, y hacer que el niño contenga la respiración durante 10 segundos.",
+          "rationale": "El contener la respiración es difícil o imposible para los niños pequeños; se utiliza la respiración a volumen corriente.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 33,
+      "question": "En el marco de la **Ley N.º 26.529/2009**, si un **adolescente** (14 años) solicita un **Método Anticonceptivo (MAC)** sin que sus padres lo sepan, ¿Cuál es la conducta de **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Informar a los padres del adolescente, ya que son los responsables de su salud.",
+          "rationale": "La ley garantiza la confidencialidad y la autonomía del adolescente en el acceso a la salud sexual y reproductiva.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Negarle el MAC, ya que es menor de edad y el acceso está permitido solo a partir de los 16 años.",
+          "rationale": "La ley garantiza el derecho a la anticoncepción y la consejería a partir de los 14 años, basándose en la autonomía progresiva.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Brindar consejería, garantizar la **confidencialidad** y administrar el MAC solicitado, respetando su autonomía progresiva.",
+          "rationale": "La autonomía progresiva permite a los adolescentes de 14 años acceder a métodos anticonceptivos y consejería sin la necesidad de la autorización o conocimiento de sus padres.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Solicitar la intervención del Comité de Ética para evaluar la madurez del adolescente.",
+          "rationale": "El acceso a la anticoncepción está regulado por ley y no requiere la evaluación del Comité de Ética.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 34,
+      "question": "¿Cuál es la intervención de **Enfermería** más importante en la prevención de la **Dermatitis del Pañal** en un **lactante**?",
+      "options": {
+        "A": {
+          "text": "Aplicar polvos de talco después de cada cambio de pañal para mantener la zona seca.",
+          "rationale": "Los polvos de talco pueden ser inhalados por el lactante, lo que puede causar neumonía por aspiración; su uso está desaconsejado.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Limpiar vigorosamente la zona con toallitas húmedas perfumadas para eliminar los restos de heces y orina.",
+          "rationale": "La limpieza debe ser suave, y los perfumes de las toallitas pueden irritar la piel sensible del lactante.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Cambio frecuente del pañal, limpieza suave con agua y jabón neutro, y aplicación de una crema de barrera (óxido de zinc).",
+          "rationale": "La prevención se basa en **reducir el tiempo de contacto de la piel con la humedad y la irritación**, y la crema de barrera ofrece protección.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Utilizar pañales de tela de forma exclusiva, ya que los pañales descartables causan más irritación.",
+          "rationale": "Los pañales descartables modernos tienen una alta capacidad de absorción y pueden ser más efectivos para mantener la piel seca que los pañales de tela.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 35,
+      "question": "En el marco del **desarrollo psicomotor**, ¿A qué edad se espera que un **lactante** comience a **balbucear** (ej. 'da-da', 'ma-ma') y pueda **alcanzar y agarrar objetos** con ambas manos?",
+      "options": {
+        "A": {
+          "text": "2 meses",
+          "rationale": "A los 2 meses solo se espera la sonrisa social y el control de la cabeza en decúbito prono.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "4-6 meses",
+          "rationale": "A los **4-6 meses**, el lactante desarrolla la coordinación ojo-mano para agarrar objetos y comienza la etapa de balbuceo silábico, lo que son hitos clave en esta etapa del desarrollo.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "9 meses",
+          "rationale": "A los 9 meses se espera que el bebé ya se siente, gatee y use la pinza inferior.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "12 meses",
+          "rationale": "A los 12 meses se espera que el bebé ya camine con apoyo y diga sus primeras palabras con significado.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 36,
+      "question": "En el cuidado de un **niño** con **nefropatía**, ¿Cuál es la restricción dietética más común que debe vigilar **Enfermería** para prevenir la **hiperpotasemia**?",
+      "options": {
+        "A": {
+          "text": "Restricción de sodio.",
+          "rationale": "La restricción de sodio es para controlar la hipertensión y el edema, no la hiperpotasemia.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Restricción de líquidos.",
+          "rationale": "La restricción de líquidos es para controlar la sobrecarga hídrica, no el potasio.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Restricción de alimentos ricos en potasio (ej. Bananas, naranjas, papas, chocolate).",
+          "rationale": "El riñón enfermo no excreta potasio eficientemente, por lo que la restricción de alimentos con **alto contenido de potasio** es esencial para prevenir arritmias cardíacas.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Restricción de proteínas.",
+          "rationale": "La restricción de proteínas es para reducir la uremia y la carga renal, no el potasio.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 37,
+      "question": "En el contexto de la **vacunación**, ¿Cuál es el intervalo de tiempo recomendado entre la administración de la **vacuna Antigripal** y la **vacuna contra COVID-19** en un **adolescente**?",
+      "options": {
+        "A": {
+          "text": "4 semanas (28 días) de separación mínima.",
+          "rationale": "Esta era la recomendación inicial para evitar confusiones en los efectos adversos, pero no es la recomendación actual.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Se pueden administrar simultáneamente o con cualquier intervalo de tiempo.",
+          "rationale": "Las guías actuales recomiendan la **administración simultánea** o con cualquier intervalo de tiempo para maximizar la cobertura, ya que no hay evidencia de interferencia o aumento de efectos adversos.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "3 meses de separación mínima.",
+          "rationale": "Este intervalo es demasiado largo y no tiene justificación en las guías de vacunación.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Se deben administrar el mismo día, en el mismo sitio de punción para no confundir los sitios de inyección.",
+          "rationale": "La administración debe ser simultánea, pero en sitios diferentes (brazos distintos) para evitar una reacción local grave y facilitar la identificación de efectos adversos.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 38,
+      "question": "En el cuidado de un **lactante** con **Reflujo Gastroesofágico (RGE)**, ¿Cuál es la principal recomendación de **Enfermería** después de las tomas para prevenir el reflujo?",
+      "options": {
+        "A": {
+          "text": "Acostar al lactante inmediatamente en decúbito prono (boca abajo) para evitar el vómito.",
+          "rationale": "El decúbito prono aumenta el riesgo de MSL y no es la posición post-toma recomendada.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Acostar al lactante en decúbito lateral derecho para facilitar el vaciamiento gástrico.",
+          "rationale": "El decúbito lateral derecho puede aumentar el reflujo; el izquierdo es mejor para el vaciamiento.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Mantener al lactante en posición vertical o semi-incorporada ($30^{\\circ}$) durante 20-30 minutos después de cada toma.",
+          "rationale": "La **posición vertical** utiliza la gravedad para mantener el contenido gástrico en el estómago, lo que reduce significativamente los episodios de reflujo.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Administrar un antiácido líquido (ej. Hidróxido de aluminio) de forma rutinaria antes de cada toma.",
+          "rationale": "Los antiácidos no son la principal intervención; la intervención postural es más importante y debe ser supervisada por el médico.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 39,
+      "question": "¿Cuál es el principal factor de riesgo para el desarrollo de **caries dental** en la **primera infancia** (menores de 3 años)?",
+      "options": {
+        "A": {
+          "text": "Consumo exclusivo de fórmula láctea infantil.",
+          "rationale": "El consumo de fórmula es menos cariogénico que la lactancia nocturna prolongada y el consumo de bebidas azucaradas.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Uso de chupete o dedo para la succión.",
+          "rationale": "El chupete afecta la formación de los dientes (oclusión), pero no es el principal factor de riesgo para las caries.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Lactancia o tomas de biberón nocturnas prolongadas y la falta de higiene bucal después de las tomas.",
+          "rationale": "La exposición prolongada a azúcares (leche o jugos) durante el sueño, junto con la falta de limpieza, es la principal causa de la **caries del biberón** o la caries temprana de la infancia.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "No utilizar pasta dental con flúor.",
+          "rationale": "La pasta dental con flúor es importante, pero el consumo nocturno de líquidos azucarados es el principal factor de riesgo.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 40,
+      "question": "En la evaluación de la **Escala de Tanner** en una **niña**, ¿Qué estadio se correlaciona con la aparición del **botón mamario** (telarca) como primer signo de desarrollo sexual secundario?",
+      "options": {
+        "A": {
+          "text": "Estadio I",
+          "rationale": "El Estadio I corresponde al estado prepuberal, sin desarrollo mamario ni vello púbico.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Estadio II",
+          "rationale": "El **Estadio II** se caracteriza por el desarrollo del **botón mamario** (telarca) y la aparición de vello púbico escaso, siendo el primer signo de pubertad en las niñas.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Estadio III",
+          "rationale": "El Estadio III se correlaciona con el aumento del tamaño mamario y del vello púbico, pero es posterior al botón mamario.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Estadio IV",
+          "rationale": "El Estadio IV se caracteriza por la proyección de la areola y el pezón, formando un doble contorno, y es un estado más avanzado de la pubertad.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 41,
+      "question": "En la administración de medicamentos por **vía oftálmica** en un **niño**, ¿Cuál es la técnica correcta que debe realizar **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Colocar las gotas directamente sobre la córnea, en el centro del ojo.",
+          "rationale": "La colocación en el centro de la córnea puede causar molestias y el reflejo de parpadeo, lo que dificulta la administración.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Aplicar las gotas en el canto interno del ojo y pedir al niño que parpadee repetidamente.",
+          "rationale": "El canto interno no es el sitio de elección, ya que las gotas pueden pasar rápidamente al conducto nasolagrimal.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Tirar suavemente del párpado inferior y aplicar las gotas en el **saco conjuntival inferior** (borde interno o externo), pidiendo al niño que cierre el ojo suavemente.",
+          "rationale": "La administración en el saco conjuntival inferior minimiza la irritación y maximiza la retención y la absorción local del medicamento.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Pedir al niño que mire hacia abajo y colocar las gotas en el párpado superior.",
+          "rationale": "La colocación en el párpado superior no es la vía de administración correcta.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 42,
+      "question": "Para la administración de una dosis de $250 mg$ de un medicamento por **vía intramuscular** a un **adolescente**, ¿Cuál es el calibre de aguja más adecuado?",
+      "options": {
+        "A": {
+          "text": "Aguja $25 G \\times 5/8$ pulgadas",
+          "rationale": "Esta aguja es demasiado corta y fina; se utiliza para la vía subcutánea o intramuscular en lactantes.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Aguja $27 G \\times 1/2$ pulgada",
+          "rationale": "Esta aguja es para la vía intradérmica, no intramuscular.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Aguja $21 G \\times 1$ a $1.5$ pulgadas",
+          "rationale": "Este calibre y longitud son los adecuados para alcanzar el músculo en un adolescente o adulto y asegurar la absorción adecuada del volumen a inyectar.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Aguja $18 G \\times 1.5$ pulgadas",
+          "rationale": "Esta aguja es muy gruesa y se utiliza generalmente para la preparación o carga de medicamentos, no para la inyección intramuscular rutinaria.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 43,
+      "question": "¿Cuál es la principal manifestación clínica de un **niño** con **Hipoglucemia** que el personal de **Enfermería** debe detectar de forma temprana?",
+      "options": {
+        "A": {
+          "text": "Poliuria y polidipsia intensas.",
+          "rationale": "La poliuria y polidipsia son síntomas de hiperglucemia, no de hipoglucemia.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Aumento del apetito y euforia.",
+          "rationale": "El aumento del apetito (hambre) es un signo, pero la euforia es rara; la irritabilidad es más común.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Irritabilidad, sudoración fría, temblor y, en casos graves, convulsiones o pérdida de conciencia.",
+          "rationale": "La hipoglucemia activa el sistema nervioso simpático (temblor, sudoración) y afecta la función cerebral (irritabilidad, confusión, convulsiones).",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Piel caliente y seca, respiración de Kussmaul.",
+          "rationale": "Estos son signos de cetoacidosis diabética, un tipo de hiperglucemia grave.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 44,
+      "question": "En el cuidado de un **lactante** con **Fisura Labio Palatina**, ¿Cuál es la principal complicación que debe manejar y prevenir **Enfermería** durante la alimentación?",
+      "options": {
+        "A": {
+          "text": "Estreñimiento debido a la dificultad en la ingesta de líquidos.",
+          "rationale": "El estreñimiento no es la complicación principal ni la más grave; la complicación principal es la aspiración.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Desnutrición e Infección respiratoria por la aspiración de leche a la vía aérea.",
+          "rationale": "La fisura dificulta la succión y permite el paso de líquido a la vía aérea (**aspiración**), lo que lleva a neumonías aspirativas y una ingesta calórica insuficiente.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Hipoglucemia por el gasto energético adicional de la succión.",
+          "rationale": "El gasto energético no es el problema principal; la falta de sellado que permite la aspiración es el riesgo mayor.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Hiperbilirrubinemia por la dificultad en la alimentación.",
+          "rationale": "Aunque la ictericia puede prolongarse por un bajo aporte calórico, la desnutrición y la aspiración son las complicaciones más críticas.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 45,
+      "question": "Al educar a los padres de un **niño** sobre la administración de un **supositorio**, ¿cuál es la técnica correcta que debe indicar el personal de **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Insertar el supositorio con el extremo romo (plano) hacia adelante y mantener las nalgas unidas por un minuto.",
+          "rationale": "Insertar el supositorio con el extremo puntiagudo hacia adelante facilita la inserción y reduce la estimulación del esfínter anal.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Insertar el supositorio con el extremo puntiagudo hacia adelante y dejar al niño en decúbito lateral derecho por 5 minutos.",
+          "rationale": "Esta posición no ayuda a la retención; la clave es superar el esfínter interno y mantener las nalgas unidas.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Insertar el supositorio con el extremo puntiagudo hacia adelante, asegurándose de que pase el esfínter anal interno y mantener las nalgas unidas por unos minutos.",
+          "rationale": "El extremo puntiagudo es clave para la inserción, y la retención de las nalgas es esencial para evitar la expulsión inmediata del supositorio.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "El supositorio se debe introducir completamente en el recto hasta que ya no se sienta, sin necesidad de mantener las nalgas unidas.",
+          "rationale": "No mantener las nalgas unidas puede resultar en la expulsión del supositorio si se estimula el reflejo anal.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 46,
+      "question": "¿Cuál es la **técnica de higiene** más importante para la prevención de **infección urinaria** en **niñas** y **adolescentes**?",
+      "options": {
+        "A": {
+          "text": "Limpiar la zona genital de atrás hacia adelante después de la defecación.",
+          "rationale": "Esta técnica arrastra las bacterias fecales hacia el meato urinario y aumenta el riesgo de infección urinaria.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Realizar duchas vaginales diarias con jabón neutro.",
+          "rationale": "Las duchas vaginales están desaconsejadas, ya que alteran la flora normal y pueden aumentar el riesgo de infecciones.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Limpiar la zona genital de adelante hacia atrás después de la defecación y la micción.",
+          "rationale": "La **limpieza de adelante hacia atrás** es fundamental para evitar el arrastre de microorganismos de la zona perianal hacia el meato urinario, reduciendo el riesgo de infección.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Utilizar ropa interior ajustada de material sintético para aumentar la ventilación.",
+          "rationale": "Se recomienda el uso de ropa interior de algodón no ajustada para promover la transpiración y reducir la humedad.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 47,
+      "question": "En la monitorización de un **adolescente** con **trauma craneoencefálico (TCE)**, ¿Cuál es el signo de **alerta tardío** que indica un aumento de la **Presión Intracraneal (PIC)**?",
+      "options": {
+        "A": {
+          "text": "Vómitos únicos y cefalea leve.",
+          "rationale": "Estos son signos tempranos de TCE leve; el aumento de la PIC se manifiesta con signos más graves.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Alteración del nivel de conciencia, midriasis unilateral fija y bradicardia con hipertensión (Triada de Cushing).",
+          "rationale": "La **Triada de Cushing** (hipertensión, bradicardia, alteración respiratoria) y los cambios pupilares indican un aumento inminente o inminente de la PIC y herniación cerebral.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Taquicardia e hipotensión.",
+          "rationale": "Estos son signos de shock hipovolémico, no de aumento de la PIC.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Fiebre alta y rigidez de nuca.",
+          "rationale": "Estos son signos de irritación meníngea o infección, no típicos de un aumento agudo de la PIC por trauma.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 48,
+      "question": "En la evaluación del dolor en un **niño** de **3 años** que no habla, ¿qué escala de valoración de enfermería es la más adecuada?",
+      "options": {
+        "A": {
+          "text": "Escala Visual Analógica (EVA)",
+          "rationale": "La EVA requiere que el paciente comprenda conceptos abstractos de gradación numérica y no es apropiada para niños preverbales.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Escala Numérica (EN)",
+          "rationale": "La EN se basa en la autoevaluación con números y es adecuada solo para niños mayores de 8 años.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Escala de Caras de Wong-Baker",
+          "rationale": "Aunque es una escala útil para niños, requiere cierto grado de cooperación y es más adecuada para la edad escolar (a partir de 4 años).",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Escala FLACC (Face, Legs, Activity, Cry, Consolability)",
+          "rationale": "La **escala FLACC** se basa en la observación de la conducta y es ideal para la evaluación del dolor en lactantes y niños preverbales, como un niño de 3 años.",
+          "is_correct": true
+        }
+      }
+    },
+    {
+      "question_number": 49,
+      "question": "Al realizar la técnica de punción venosa en un **lactante**, ¿cuál es el sitio de acceso más comúnmente utilizado por **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Vena yugular externa",
+          "rationale": "Se utiliza en casos de dificultad extrema o en procedimientos específicos, pero no de rutina por su naturaleza invasiva y el riesgo de vasoespasmo.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Venopunción en el cuero cabelludo (venas epicraneales)",
+          "rationale": "Las venas del **cuero cabelludo** se utilizan a menudo en lactantes menores por su fácil acceso y visibilidad, aunque no son el único sitio de elección.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Vena cefálica en el antebrazo",
+          "rationale": "Las venas del antebrazo son pequeñas y colapsables en lactantes; se prefieren en niños mayores.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Vena femoral",
+          "rationale": "La vena femoral se utiliza en situaciones de emergencia o para accesos centrales, pero su uso rutinario no se recomienda por el riesgo de infección.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 50,
+      "question": "¿Cuál es la intervención de **Enfermería** más importante para garantizar el **descanso y el sueño** de un **niño** hospitalizado en Cuidados Intensivos?",
+      "options": {
+        "A": {
+          "text": "Mantener las luces encendidas para facilitar la vigilancia del paciente.",
+          "rationale": "La luz constante interrumpe el ciclo circadiano y el sueño; se debe promover la oscuridad y el silencio.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Realizar la mayor cantidad de procedimientos y extracciones de sangre durante las horas de sueño.",
+          "rationale": "Los procedimientos deben agruparse y realizarse en horarios que interfieran lo menos posible con el sueño y el descanso.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Agrupar los procedimientos y las extracciones, minimizar el ruido y la luz, y mantener una temperatura de confort.",
+          "rationale": "La **agrupación de actividades**, la minimización de ruidos y la luz son esenciales para el descanso y la prevención del delirio en la UCI.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Administrar un sedante de forma rutinaria para asegurar el sueño.",
+          "rationale": "Los sedantes solo deben administrarse si hay una indicación médica estricta y bajo monitoreo, no de forma rutinaria solo para dormir.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 51,
+      "question": "Al realizar la prueba del **reflejo rojo** en la valoración ocular de un **lactante**, ¿Qué hallazgo es un signo de **alerta** para una patología ocular grave (ej. Retinoblastoma)?",
+      "options": {
+        "A": {
+          "text": "El reflejo es de color rojo brillante y simétrico en ambos ojos.",
+          "rationale": "Este es el hallazgo normal, lo que indica un eje visual transparente y saludable.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "El reflejo es de color blanco o ausente (leucocoria).",
+          "rationale": "La **leucocoria** (reflejo pupilar blanco) es un signo de alarma que requiere una derivación urgente, ya que puede indicar catarata congénita, desprendimiento de retina o retinoblastoma.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "El reflejo es de color naranja-amarillento, y es asimétrico en ambos ojos.",
+          "rationale": "El color naranja-amarillento puede ser normal en algunos recién nacidos; la asimetría leve puede ser normal, pero no es el signo de alerta más grave.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "El reflejo es de color azulado-verdoso.",
+          "rationale": "Esta es una coloración que no se correlaciona con ninguna patología ocular específica.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 52,
+      "question": "En el cuidado de un **niño** con **fibrosis quística**, ¿Cuál es el principal objetivo de la **fisioterapia respiratoria** de rutina?",
+      "options": {
+        "A": {
+          "text": "Curar la enfermedad pulmonar subyacente.",
+          "rationale": "La FQ es una enfermedad genética sin cura, y el tratamiento es paliativo y de apoyo.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Disminuir la tos y la producción de moco para aliviar los síntomas.",
+          "rationale": "El objetivo es la movilización y la eliminación, no la disminución de la producción.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Movilizar y eliminar las secreciones bronquiales espesas para prevenir las infecciones respiratorias recurrentes.",
+          "rationale": "La **fisioterapia** ayuda a despejar las vías aéreas del moco espeso característico de la FQ, previniendo las infecciones crónicas y la destrucción pulmonar progresiva.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Mejorar la función pancreática.",
+          "rationale": "La fisioterapia es una intervención respiratoria y no afecta la función pancreática, que requiere la suplementación de enzimas.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 53,
+      "question": "¿Cuál es la indicación de **Enfermería** más importante para garantizar la seguridad de un **lactante** en un vehículo particular?",
+      "options": {
+        "A": {
+          "text": "Colocar el asiento de seguridad en el asiento delantero con el airbag activado.",
+          "rationale": "El asiento debe ir siempre en el asiento trasero y con el bebé mirando hacia atrás.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Utilizar un cinturón de seguridad de dos puntos en el asiento trasero.",
+          "rationale": "El lactante requiere un asiento de seguridad de acuerdo a su peso y talla, no solo el cinturón de seguridad.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Colocar el asiento de seguridad mirando **hacia atrás** (contramarcha) en el **asiento trasero** del vehículo.",
+          "rationale": "La posición contramarcha en el asiento trasero es la única que ofrece protección adecuada a la cabeza y el cuello del lactante en caso de colisión frontal.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Asegurar que el lactante esté sujeto solo con una almohada o manta para su comodidad.",
+          "rationale": "Esto es extremadamente peligroso y no proporciona ninguna protección en caso de accidente.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 54,
+      "question": "En el contexto de la **vacunación**, si un **adolescente** es alérgico al huevo, ¿Cuál es la vacuna que requiere una **precaución especial** o evaluación por un alergista?",
+      "options": {
+        "A": {
+          "text": "Vacuna Antigripal (Influenza)",
+          "rationale": "La vacuna antigripal se cultiva en huevos, y aunque las concentraciones de proteína de huevo son muy bajas en las vacunas modernas, la **alergia al huevo** es una precaución que debe ser evaluada.",
+          "is_correct": true
+        },
+        "B": {
+          "text": "Vacuna Triple Bacteriana Acelular (dTpa)",
+          "rationale": "La dTpa no contiene derivados del huevo, por lo que no requiere una precaución especial en este contexto.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Vacuna contra el Virus del Papiloma Humano (VPH)",
+          "rationale": "La vacuna contra el VPH se produce por tecnología de ADN recombinante y no contiene derivados del huevo.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Vacuna contra la Hepatitis B",
+          "rationale": "La vacuna contra la Hepatitis B no se cultiva en huevo y no presenta riesgo para pacientes alérgicos al huevo.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 55,
+      "question": "Al educar a un **adolescente** sobre la **prevención del acné**, ¿Cuál es la recomendación de **Enfermería** más basada en la evidencia?",
+      "options": {
+        "A": {
+          "text": "Exponer el rostro al sol durante el día para secar las lesiones.",
+          "rationale": "La exposición solar puede empeorar el acné y causar hiperpigmentación e inflamación, además del riesgo de cáncer de piel.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Frotar vigorosamente la piel con jabones astringentes para eliminar la grasa.",
+          "rationale": "El frotamiento y los jabones fuertes irritan la piel, aumentan la inflamación y no mejoran el acné.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Limpieza suave de la piel dos veces al día con un limpiador neutro y evitar manipular (exprimir) las lesiones.",
+          "rationale": "La **limpieza suave** reduce el sebo sin irritar, y no manipular las lesiones previene la infección y la formación de cicatrices.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Aplicar cremas hidratantes con alto contenido de aceites para suavizar la piel.",
+          "rationale": "Las cremas oleosas pueden ser comedogénicas (obstruir los poros) y empeorar el acné.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 56,
+      "question": "¿Cuál es la principal **medida de seguridad** que debe tomar **Enfermería** al preparar y administrar medicación por **vía intravenosa** en un **niño**?",
+      "options": {
+        "A": {
+          "text": "Utilizar agujas de mayor calibre para asegurar una infusión rápida.",
+          "rationale": "Las agujas de mayor calibre causan más daño vascular y no son necesarias para la infusión rutinaria.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Realizar la dilución solo en solución fisiológica, independientemente de la compatibilidad del medicamento.",
+          "rationale": "La dilución debe realizarse en la solución compatible con el medicamento, que puede ser fisiológica, dextrosa o una combinación.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Verificar la dosis, la velocidad de infusión (con bomba de infusión para precisión) y el cálculo en **mg/kg** o **UI/kg** para evitar errores fatales.",
+          "rationale": "El cálculo pediátrico es complejo y el riesgo de sobredosis es alto, por lo que la **doble verificación de la dosis** y la precisión de la bomba de infusión son esenciales.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Administrar el medicamento en bolo rápido para asegurar el efecto inmediato.",
+          "rationale": "La mayoría de los medicamentos intravenosos deben administrarse lentamente o en infusión continua para evitar efectos adversos (ej. hipotensión, arritmias).",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 57,
+      "question": "En el cuidado de un **niño** hospitalizado con **Tuberculosis Pulmonar**, ¿Qué tipo de **aislamiento** debe implementar **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Aislamiento por contacto estricto (uso de guantes y bata).",
+          "rationale": "La TBC pulmonar se transmite por vía aérea a través de gotas respiratorias de pequeño tamaño (núcleos de gotitas).",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Aislamiento protector (inversa) para proteger al niño de los gérmenes ambientales.",
+          "rationale": "El aislamiento protector se utiliza en pacientes inmunosuprimidos, no para el control de una infección activa.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Aislamiento aéreo o respiratorio (uso de mascarilla N95 o KN95 y habitación con presión negativa).",
+          "rationale": "La TBC pulmonar requiere **aislamiento aéreo** debido a la pequeña partícula de las gotitas que permanecen suspendidas en el aire, lo que exige el uso de mascarilla N95 para el personal y una habitación con presión negativa.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Aislamiento por gotas (uso de barbijo quirúrgico).",
+          "rationale": "El barbijo quirúrgico solo protege de gotas grandes; la TBC se transmite por núcleos de gotitas (gotas pequeñas).",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 58,
+      "question": "¿Cuál es la principal manifestación que diferencia el **maltrato infantil** (abuso físico) de una lesión accidental en un **niño**?",
+      "options": {
+        "A": {
+          "text": "La presencia de hematomas en las zonas más expuestas del cuerpo (rodillas, codos).",
+          "rationale": "Los hematomas en zonas óseas prominentes son comunes en las caídas accidentales de los niños.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "La falta de un mecanismo de lesión coherente con la lesión física presentada, fracturas en diferentes estadios de curación, y lesiones en zonas 'blandas' (ej. Glúteos, tronco).",
+          "rationale": "La **incoherencia entre la historia y la lesión**, las lesiones en zonas atípicas y las lesiones múltiples en diferentes estadios de curación son altamente sugestivos de maltrato infantil.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "La presencia de fracturas complejas, como la fractura de fémur o tibia.",
+          "rationale": "Las fracturas complejas también pueden ocurrir en accidentes graves.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "La ausencia de lágrimas al momento de la evaluación.",
+          "rationale": "La ausencia de lágrimas es inespecífica y no es un signo directo de abuso físico.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 59,
+      "question": "¿Cuál es la vía de administración de medicación que se considera más rápida y segura que la intravenosa en un **niño** en situación de **paro cardíaco** extrahospitalario?",
+      "options": {
+        "A": {
+          "text": "Intramuscular",
+          "rationale": "La vía intramuscular tiene una absorción errática y lenta, no siendo adecuada para la administración de medicación crítica en RCP.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Subcutánea",
+          "rationale": "La vía subcutánea es la más lenta, y es inadecuada para la administración de medicación crítica.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Intraóseo",
+          [cite_start]"rationale": "La vía **intraósea** es la de elección en RCP pediátrica cuando el acceso venoso no puede establecerse rápidamente, ya que la absorción es comparable a la vía intravenosa. [cite: 900-904]",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Sublingual",
+          "rationale": "La vía sublingual no es práctica ni segura en un niño en paro cardíaco por el riesgo de aspiración.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 60,
+      "question": "En el contexto de la atención del parto respetado, ¿cuál es la acción prioritaria de **Enfermería** inmediatamente después del nacimiento de un **Recién Nacido** vigoroso?",
+      "options": {
+        "A": {
+          "text": "Traslado al sector de recepción para la evaluación completa.",
+          "rationale": "El examen se realiza sobre la madre para no interrumpir el vínculo, a menos que haya un compromiso evidente.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Pesarlo y derivarlo a la nursery.",
+          "rationale": "La pesada y el traslado deben posponerse después del contacto inicial piel a piel, siempre que el RN esté vigoroso.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Favorecer el **contacto piel a piel con la madre** (o persona gestante) para promover la termorregulación y el vínculo.",
+          "rationale": "El contacto piel a piel es la prioridad, ya que promueve la estabilidad de la temperatura, la adaptación cardiorrespiratoria y el inicio de la lactancia materna.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Realizar la evaluación inicial en sector de recepción junto a su padre.",
+          "rationale": "El contacto piel a piel con la madre es la prioridad en el RN vigoroso, siendo el lugar más cálido y seguro para el recién nacido.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 61,
+      "question": "¿Cuál es la intervención de **Enfermería** más importante para prevenir la **hipotermia** de un **Recién Nacido** durante los cuidados inmediatos?",
+      "options": {
+        "A": {
+          "text": "Aspiración profunda de secreciones orales y nasales.",
+          "rationale": "La aspiración es para la permeabilidad de la vía aérea; no previene la hipotermia.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Administración de oxígeno en carpa de forma continua.",
+          "rationale": "El oxígeno no genera calor; la prioridad es el secado y el abrigo.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Secado inmediato del RN con toallas precalentadas y colocación de gorro.",
+          "rationale": "El **secado** detiene la pérdida de calor por evaporación, y el gorro minimiza la pérdida de calor por la cabeza, siendo una medida crucial de termorregulación.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Colocar al RN bajo una lámpara de rayos UV.",
+          "rationale": "Las lámparas de rayos UV se utilizan para la fototerapia de la ictericia, no para el calentamiento rutinario.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 62,
+      "question": "En la evaluación de la **telarca precoz** en una **niña** (desarrollo mamario antes de los 8 años), ¿qué células deben observarse en una muestra de **urocitograma** para realizar el citodiagnóstico?",
+      "options": {
+        "A": {
+          "text": "Células Uroteliales",
+          "rationale": "Las células uroteliales se encuentran en las capas profundas de la vejiga y no reflejan el estado hormonal.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Células Pavimentosas y Uroteliales",
+          "rationale": "La presencia de células pavimentosas y uroteliales es normal; el interés se centra en el tipo de célula pavimentosa.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Células Pavimentosas (células basales y parabasales) con índice de maduración que refleja estimulación estrogénica",
+          "rationale": "Las células pavimentosas superficiales de la uretra son sensibles a los estrógenos; el urocitograma busca la presencia de células que evidencien un estado de estimulación estrogénica.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Uroteliales y leucocitos",
+          "rationale": "Los leucocitos indicarían una infección urinaria, lo que no es relevante para el diagnóstico hormonal.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 63,
+      "question": "¿Cuál es la principal justificación para el uso de equipos de **microgoteo** (60 gotas/ml) en la administración de soluciones intravenosas a **lactantes** y **niños** pequeños?",
+      "options": {
+        "A": {
+          "text": "Permitir una infusión más rápida del volumen total de líquido.",
+          "rationale": "El microgoteo es para un control más preciso, no para una infusión más rápida.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Asegurar un control estricto y preciso del volumen infundido y prevenir la sobrecarga hídrica.",
+          "rationale": "Debido a que el volumen circulante en niños es mucho menor, el **microgoteo** es esencial para evitar errores en el flujo que podrían llevar a una sobrecarga hídrica potencialmente mortal.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Facilitar la inserción de la vía venosa en venas pequeñas.",
+          "rationale": "El tipo de equipo no influye en la facilidad de la inserción de la vía venosa.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Reducir el riesgo de flebitis en el sitio de punción.",
+          "rationale": "La flebitis está más relacionada con el tipo de solución y el tiempo de permanencia de la vía, no con el microgoteo en sí.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 64,
+      "question": "Un **niño** de **7 años** tiene una orden de $50 mg$ de Amoxicilina oral en suspensión. Si la concentración de la suspensión es de $250 mg/5 ml$, ¿Cuántos **mililitros (ml)** debe administrar **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "0.5 ml",
+          "rationale": "La dosis de $50 mg$ requiere $1 ml$ de la suspensión, no $0.5 ml$ ($250 mg$ en $5 ml$ es igual a $50 mg$ en $1 ml$).",
+          "is_correct": false
+        },
+        "B": {
+          "text": "1 ml",
+          "rationale": "La dosis de $50 mg$ se encuentra en **$1 ml$** de la suspensión: $50 mg \\times 5 ml / 250 mg = 1 ml$.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "2 ml",
+          "rationale": "La dosis de $2 ml$ corresponde a $100 mg$, lo que excede la dosis indicada.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "5 ml",
+          "rationale": "La dosis de $5 ml$ corresponde a $250 mg$, lo que excede la dosis indicada.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 65,
+      "question": "En la evaluación del **desarrollo psicomotor** de un **lactante** de **6 meses**, ¿qué hito se espera que el personal de **Enfermería** observe de forma consistente?",
+      "options": {
+        "A": {
+          "text": "Camina con apoyo lateral.",
+          "rationale": "Caminar con apoyo es un hito de los $10-12$ meses de vida.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Dice sus primeras palabras con significado (ej. 'mamá', 'papá').",
+          "rationale": "Las primeras palabras con significado son un hito de los $10-14$ meses de vida.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Se sienta solo sin apoyo de manos y se voltea (gira) de boca arriba a boca abajo.",
+          "rationale": "El lactante de 6 meses es capaz de **sentarse solo sin apoyo** y girar, lo que es un hito clave en esta etapa del desarrollo.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Mantiene el control de la cabeza (sostén cefálico) al ser levantado.",
+          "rationale": "El sostén cefálico se adquiere mucho antes, alrededor de los $3-4$ meses de vida.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 66,
+      "question": "¿Cuál es la principal fuente de error al utilizar la **pulsioximetría** en la monitorización de un **niño**?",
+      "options": {
+        "A": {
+          "text": "La baja concentración de hemoglobina (anemia).",
+          "rationale": "La anemia afecta el contenido de oxígeno, pero el oxímetro mide la saturación (porcentaje), no el contenido, por lo que no es una fuente principal de error.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "El movimiento del paciente, una incorrecta colocación del sensor o uñas con esmalte.",
+          "rationale": "El **movimiento** (artefacto) y la **mala colocación** (interferencia de la luz) son las causas más frecuentes de lecturas falsas o inexactas en el oxímetro.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "La presencia de hiperbilirrubinemia (ictericia).",
+          "rationale": "La ictericia tiene poco o ningún efecto en la lectura del oxímetro.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "La administración de suplementos de hierro.",
+          "rationale": "El hierro en sí mismo no interfiere con la lectura de la saturación de oxígeno.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 67,
+      "question": "En el cuidado de un **Recién Nacido** de madre con diagnóstico de **VIH (Virus de la Inmunodeficiencia Humana)**, ¿Cuál es la indicación de **Enfermería** respecto a la **alimentación**?",
+      "options": {
+        "A": {
+          "text": "Lactancia materna exclusiva durante los primeros 6 meses, con seguimiento estricto de la carga viral materna.",
+          "rationale": "La lactancia materna está contraindicada en madres con VIH en países donde el acceso a sucedáneos es seguro, debido al riesgo de transmisión viral.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Alimentación con fórmula láctea (sucedáneos de la leche materna) de forma exclusiva.",
+          "rationale": "La OMS y las guías nacionales recomiendan la alimentación con **fórmula láctea** de forma exclusiva para prevenir la transmisión postnatal del VIH a través de la leche materna, cuando se dispone de agua potable y sucedáneos de forma segura.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Lactancia mixta (materna y fórmula) para complementar la alimentación.",
+          "rationale": "La lactancia mixta está contraindicada, ya que el patrón de lactancia no excluye la posibilidad de transmisión viral.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "La alimentación con fórmula solo debe iniciarse si el RN da positivo en la PCR de VIH al nacer.",
+          "rationale": "La prevención debe ser inmediata, independientemente de la PCR al nacer, que puede ser negativa en las primeras horas.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 68,
+      "question": "¿Cuál es la principal manifestación clínica en un **niño** con **Intoxicación por Plomo (Plumbemia)** que el personal de **Enfermería** debe investigar en la anamnesis?",
+      "options": {
+        "A": {
+          "text": "Ictericia y coluria.",
+          "rationale": "Estos son signos de enfermedad hepática o biliar, no específicos de intoxicación por plomo.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Vómitos en proyectil y fiebre alta.",
+          "rationale": "Estos son signos de hipertensión endocraneana o meningitis, no típicos de plumbemia.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Dolor abdominal recurrente (cólicos), anemia y problemas de neurodesarrollo o conducta (irritabilidad, dificultad de aprendizaje).",
+          "rationale": "El plomo es neurotóxico y se acumula en el sistema nervioso y los huesos, causando síntomas gastrointestinales, hematológicos y **neurocognitivos** (saturnismo).",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Erupción cutánea (rash) pruriginosa en el tronco.",
+          "rationale": "Una erupción cutánea es inespecífica y no es un síntoma principal de intoxicación por plomo.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 69,
+      "question": "En el marco de la **Ley N.º 26.529/2009**, si un **adolescente** (14 años) se niega a un tratamiento médico que no pone en riesgo su vida, ¿Cuál es la conducta de **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Administrar el tratamiento a pesar de la negativa, bajo la orden del médico tratante.",
+          "rationale": "Esto violaría la autonomía del adolescente, que tiene derecho a decidir sobre tratamientos que no comprometen gravemente su vida o salud.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Informar a los padres que deben obligar al adolescente a recibir el tratamiento.",
+          "rationale": "La ley reconoce la autonomía del adolescente, lo que invalida la coerción, salvo en situaciones de riesgo vital.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Respetar la decisión del adolescente, siempre que esté basada en la madurez y capacidad, y documentar la negativa con consejería adecuada.",
+          "rationale": "La autonomía progresiva otorga a los adolescentes de 13 a 16 años la capacidad de decidir sobre tratamientos que no sean invasivos ni impliquen riesgo grave para su vida, respetando el **derecho al rechazo terapéutico**.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Solicitar la intervención judicial para determinar la obligatoriedad del tratamiento.",
+          "rationale": "La intervención judicial se reserva para casos de conflicto o riesgo vital grave; para tratamientos de bajo riesgo, prevalece el derecho del paciente a decidir.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 70,
+      "question": "En el contexto de la **Consejería de Salud Sexual y Reproductiva** para **adolescentes**, ¿Cuál es la acción de **Enfermería** más adecuada para manejar un caso de **abuso sexual**?",
+      "options": {
+        "A": {
+          "text": "Interrogar al adolescente sobre los detalles del evento para obtener evidencia para la denuncia.",
+          "rationale": "El interrogatorio debe ser mínimo y realizado por personal forense o psicológico especializado para evitar la revictimización.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Obligar al adolescente a realizar la denuncia ante la policía para proteger sus derechos.",
+          "rationale": "La denuncia es un derecho, pero no una obligación del paciente; se debe asesorar, pero la decisión final es del adolescente o su representante legal.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Garantizar la confidencialidad, ofrecer un espacio de escucha y contención emocional, y realizar una derivación inmediata al servicio de salud integral y legal.",
+          "rationale": "La contención, la confidencialidad y la derivación a equipos interdisciplinarios son cruciales para el manejo integral del caso, incluyendo la profilaxis de ITS y embarazo.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Administrar antibióticos y anticoncepción de emergencia solo si el adolescente lo solicita explícitamente.",
+          "rationale": "La profilaxis (anticoncepción de emergencia e ITS) debe ofrecerse de forma proactiva e inmediata, ya que es parte del manejo médico de la urgencia.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 71,
+      "question": "Al educar a los padres de un **niño** con **Asma** sobre el uso del **medidor de flujo espiratorio máximo (PEF)**, ¿Qué valor debe registrarse para determinar la Zona Verde ('control')?",
+      "options": {
+        "A": {
+          "text": "Menos del $50\%$ del mejor valor personal.",
+          "rationale": "Este rango (Zona Roja) indica una exacerbación grave que requiere atención médica urgente.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Entre el $50\%$ y el $80\%$ del mejor valor personal.",
+          "rationale": "Este rango (Zona Amarilla) indica una exacerbación moderada que requiere un ajuste del tratamiento de rescate.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Más del $80\%$ del mejor valor personal.",
+          "rationale": "Un PEF superior al **$80\\%$ del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Cualquier valor superior a $100$ litros por minuto.",
+          "rationale": "El valor de referencia es el 'mejor valor personal' del paciente, no un valor fijo, para evaluar el control de la enfermedad.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 72,
+      "question": "Al educar a los padres de un **lactante** sobre la prevención de la **Muerte Súbita del Lactante (MSL)**, ¿cuál es la recomendación más importante que debe enfatizar la Enfermería?",
+      "options": {
+        "A": {
+          "text": "Utilizar colchones blandos y ropa de cama suelta para mayor comodidad.",
+          "rationale": "La ropa de cama suelta y los colchones blandos aumentan el riesgo de sofocación y asfixia, siendo un factor de riesgo para la MSL.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Colocar al bebé a dormir boca abajo (decúbito prono) para facilitar la digestión.",
+          "rationale": "El decúbito prono (boca abajo) es el principal factor de riesgo para la MSL; la posición recomendada es el decúbito supino (boca arriba).",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Colocar al lactante a dormir boca arriba (**decúbito supino**) en una superficie firme y libre de objetos (juguetes, almohadas).",
+          "rationale": "El decúbito supino, sobre una superficie firme y sin objetos que puedan causar sofocación, es la principal recomendación para la prevención de la MSL.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Compartir la cama con los padres (colecho) para facilitar el monitoreo nocturno.",
+          "rationale": "El colecho aumenta el riesgo de asfixia accidental, sofocación o atrapamiento, y por ello está desaconsejado en lactantes, especialmente en los primeros meses.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 73,
+      "question": "¿Cuál es el principal factor de riesgo para el desarrollo de **caries dental** en la **primera infancia** (menores de 3 años)?",
+      "options": {
+        "A": {
+          "text": "Consumo exclusivo de fórmula láctea infantil.",
+          "rationale": "El consumo de fórmula es menos cariogénico que la lactancia nocturna prolongada y el consumo de bebidas azucaradas.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Uso de chupete o dedo para la succión.",
+          "rationale": "El chupete afecta la formación de los dientes (oclusión), pero no es el principal factor de riesgo para las caries.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Lactancia o tomas de biberón nocturnas prolongadas y la falta de higiene bucal después de las tomas.",
+          "rationale": "La exposición prolongada a azúcares (leche o jugos) durante el sueño, junto con la falta de limpieza, es la principal causa de la **caries del biberón** o la caries temprana de la infancia.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "No utilizar pasta dental con flúor.",
+          "rationale": "La pasta dental con flúor es importante, pero el consumo nocturno de líquidos azucarados es el principal factor de riesgo.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 74,
+      "question": "En el cuidado de un **niño** con **Convulsiones Febriles**, ¿Cuál es la intervención de **Enfermería** que debe realizarse después de asegurar la vía aérea y proteger al niño de lesiones?",
+      "options": {
+        "A": {
+          "text": "Administrar un antiepiléptico de mantenimiento (ej. Fenitoína) de forma urgente.",
+          "rationale": "Las convulsiones febriles simples no requieren medicación de mantenimiento; la prioridad es bajar la fiebre.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Controlar la temperatura corporal y administrar un antipirético (ej. Ibuprofeno o Paracetamol).",
+          "rationale": "La convulsión febril es causada por el aumento rápido de la temperatura; la **reducción de la fiebre** es esencial para prevenir una recurrencia y es la intervención más importante después de la seguridad.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Realizar una punción lumbar para descartar una meningitis.",
+          "rationale": "La punción lumbar no se realiza de rutina; está indicada solo si hay signos de meningitis o si el niño es menor de 18 meses.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Administrar antibióticos de amplio espectro para prevenir una infección bacteriana.",
+          "rationale": "La mayoría de las convulsiones febriles son benignas y no requieren antibióticos.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 75,
+      "question": "Al educar a los padres de un **niño** con **Asma** sobre el uso del **medidor de flujo espiratorio máximo (PEF)**, ¿Qué valor debe registrarse para determinar la Zona Verde ('control')?",
+      "options": {
+        "A": {
+          "text": "Menos del $50\%$ del mejor valor personal.",
+          "rationale": "Este rango (Zona Roja) indica una exacerbación grave que requiere atención médica urgente.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Entre el $50\%$ y el $80\%$ del mejor valor personal.",
+          "rationale": "Este rango (Zona Amarilla) indica una exacerbación moderada que requiere un ajuste del tratamiento de rescate.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Más del $80\%$ del mejor valor personal.",
+          "rationale": "Un PEF superior al **$80\\%$ del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Cualquier valor superior a $100$ litros por minuto.",
+          "rationale": "El valor de referencia es el 'mejor valor personal' del paciente, no un valor fijo, para evaluar el control de la enfermedad.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 76,
+      "question": "¿Cuál es la principal indicación de **Enfermería** en el manejo de la **fiebre** en un **niño** que utiliza un antipirético (ej. Paracetamol)?",
+      "options": {
+        "A": {
+          "text": "Administrar un segundo antipirético (ej. Ibuprofeno) antes de las 4 horas de la primera dosis.",
+          "rationale": "La administración de dos antipiréticos con un intervalo de menos de 4 horas aumenta el riesgo de sobredosis o toxicidad.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Utilizar únicamente los medios físicos (paños fríos, baños tibios) y evitar el medicamento.",
+          "rationale": "Los medios físicos son coadyuvantes; el antipirético es el tratamiento de elección, y los baños fríos están contraindicados por el riesgo de escalofríos.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Alternar el Paracetamol y el Ibuprofeno cada 4 horas de forma rutinaria para maximizar el efecto.",
+          "rationale": "La alternancia de antipiréticos no está recomendada de rutina por el alto riesgo de error de dosis; es preferible usar un solo agente a la dosis correcta.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Administrar el antipirético a la dosis correcta según el peso (mg/kg) y monitorizar la temperatura después de 30-60 minutos, complementando con medios físicos suaves.",
+          "rationale": "La **dosis por peso** es esencial para evitar la toxicidad o la ineficacia; la monitorización permite evaluar la respuesta y los medios físicos suaves ayudan a la confortabilidad.",
+          "is_correct": true
+        }
+      }
+    },
+    {
+      "question_number": 77,
+      "question": "En el cuidado de un **niño** con **Asma** que presenta una exacerbación leve, ¿Cuál es la intervención de **Enfermería** inicial y prioritaria, según las guías de manejo?",
+      "options": {
+        "A": {
+          "text": "Administrar un corticoide oral (ej. Prednisona).",
+          "rationale": "El corticoide oral se utiliza en exacerbaciones moderadas o graves; la prioridad inicial es la broncodilatación.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Administrar un agonista beta-2 de acción corta (ej. Salbutamol) inhalado con cámara espaciadora.",
+          "rationale": "El **salbutamol inhalado** es el tratamiento de primera línea para la broncodilatación rápida y el alivio de los síntomas en la exacerbación asmática.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Realizar nebulización con solución fisiológica y oxigenoterapia.",
+          "rationale": "La nebulización con solución salina no es el tratamiento de elección; la oxigenoterapia se indica si hay hipoxemia.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Administrar sulfato de magnesio intravenoso.",
+          "rationale": "El sulfato de magnesio se reserva para las crisis asmáticas graves que no responden al tratamiento inicial.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 78,
+      "question": "En la evaluación de la **Escala de Tanner** en un **varón**, ¿Qué estadio se correlaciona con el **aumento del volumen testicular** como primer signo de desarrollo sexual secundario?",
+      "options": {
+        "A": {
+          "text": "Estadio I",
+          "rationale": "El Estadio I es el estado prepuberal, sin aumento del volumen testicular.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Estadio II",
+          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente $> 4 ml$) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Estadio III",
+          "rationale": "El Estadio III se correlaciona con el aumento del tamaño del pene y el desarrollo del vello púbico más denso y rizado.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Estadio IV",
+          "rationale": "El Estadio IV se caracteriza por el crecimiento continuo del pene en longitud y grosor, y el vello púbico de tipo adulto.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 79,
+      "question": "¿Cuál es la principal justificación para el uso de **corticoides sistémicos** (ej. Dexametasona o Prednisona) en el tratamiento de la **laringitis aguda** (crup viral) en **niños**?",
+      "options": {
+        "A": {
+          "text": "Actuar como broncodilatador para abrir las vías aéreas inferiores.",
+          "rationale": "Los corticoides son antiinflamatorios; no son broncodilatadores.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Disminuir el edema de las cuerdas vocales y la tráquea (vía aérea superior) para aliviar la obstrucción.",
+          "rationale": "El efecto antiinflamatorio de los corticoides reduce la inflamación y el edema de la laringe/tráquea, lo que disminuye el estridor y la obstrucción de la vía aérea superior.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Tratar la infección viral subyacente (ej. Virus Parainfluenza).",
+          "rationale": "Los corticoides no tienen actividad antiviral.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Prevenir la sobreinfección bacteriana.",
+          "rationale": "Los corticoides no tienen efecto en la prevención de la infección bacteriana.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 80,
+      "question": "En el marco de la promoción de la salud sexual adolescente, ¿Cuál es el principal rol de **Enfermería** en la consejería de **Métodos Anticonceptivos (MAC)**?",
+      "options": {
+        "A": {
+          "text": "Recomendar los MAC de larga duración como única opción efectiva.",
+          "rationale": "La enfermería debe presentar todas las opciones disponibles, no limitarse a una sola, aunque los MAC de larga duración son altamente eficaces.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Administrar un MAC solo con la autorización expresa de los padres, independientemente de la edad del adolescente.",
+          "rationale": "Según la autonomía progresiva, un adolescente puede acceder a MAC sin la presencia o autorización de sus padres. ",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Proporcionar información completa, objetiva, libre de prejuicios y centrada en la autonomía del adolescente para la elección informada.",
+          "rationale": "La consejería debe ser neutral, garantizar la comprensión de los beneficios y riesgos de cada MAC, y respetar la decisión final del adolescente.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Priorizar los métodos de barrera para prevenir el embarazo, sin mencionar los hormonales.",
+          "rationale": "Los métodos de barrera son importantes para la prevención de ITS, pero el consejo debe incluir todas las opciones disponibles para la prevención del embarazo.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 81,
+      "question": "Al educar a los padres de un **niño** sobre la **prevención de la anemia ferropénica** en el **lactante**, ¿Cuál es la indicación de **Enfermería** más importante después de los 6 meses de vida?",
+      "options": {
+        "A": {
+          "text": "Introducir la leche de vaca de forma temprana para aumentar el aporte de calcio.",
+          "rationale": "La leche de vaca no es una buena fuente de hierro y puede causar pérdidas gastrointestinales de sangre, lo que puede provocar anemia ferropénica.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Suplementación con hierro a partir de los 6 meses de vida y promoción de la alimentación complementaria con alimentos ricos en hierro (carnes rojas, legumbres).",
+          "rationale": "Los depósitos de hierro del RN se agotan alrededor de los 6 meses; por lo tanto, la **suplementación y la alimentación complementaria rica en hierro** son esenciales para prevenir la anemia.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Continuar con lactancia materna exclusiva hasta los 12 meses, sin introducción de alimentos.",
+          "rationale": "La leche materna es insuficiente en hierro después de los 6 meses, por lo que es necesario introducir alimentos complementarios ricos en hierro.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Administración de vitamina C para mejorar la absorción de calcio.",
+          "rationale": "La vitamina C mejora la absorción de hierro, no de calcio, pero la indicación principal es la suplementación con hierro y la dieta.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 82,
+      "question": "Para la administración de una dosis de $500 ml$ de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
+      "options": {
+        "A": {
+          "text": "83 microgotas/min",
+          "rationale": "Fórmula: $V (ml) / T (horas)$. $500 ml / 6 h \\approx 83.33$ microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
+          "is_correct": true
+        },
+        "B": {
+          "text": "21 microgotas/min",
+          "rationale": "Esta sería la velocidad si se usara un equipo de macrogoteo (20 gotas/ml).",
+          "is_correct": false
+        },
+        "C": {
+          "text": "16 microgotas/min",
+          "rationale": "Esta es una velocidad muy lenta y resultaría en una infusión incompleta.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "125 microgotas/min",
+          "rationale": "Esta es la velocidad para infundir $750 ml$ en $6$ horas, lo que sería una sobrecarga.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 83,
+      "question": "En el cuidado de un **niño** con **Hipoglucemia** que está consciente, ¿Cuál es la intervención inicial de **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Administrar $1 mg$ de Glucagón intramuscular.",
+          "rationale": "El Glucagón se administra solo si el niño está inconsciente o es incapaz de tragar.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Administrar una solución de Glucosa al $50\%$ por vía intravenosa.",
+          "rationale": "La glucosa IV se reserva para niños inconscientes o con hipoglucemia grave y persistente.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Administrar de 10 a 15 g de carbohidratos de acción rápida (ej. jugo, glucosa oral) y controlar la glucemia en 15 minutos.",
+          "rationale": "La **administración oral de carbohidratos de acción rápida** es el tratamiento de primera línea para la hipoglucemia en pacientes conscientes y capaces de tragar.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Iniciar una infusión de insulina de acción rápida para estabilizar la glucemia.",
+          "rationale": "La insulina está contraindicada en la hipoglucemia.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 84,
+      "question": "¿Cuál es el principal objetivo del uso de **corticoides inhalados** en el tratamiento de mantenimiento del **asma** en **niños**?",
+      "options": {
+        "A": {
+          "text": "Actuar como broncodilatador de acción rápida para el alivio de la crisis.",
+          "rationale": "Los corticoides inhalados son antiinflamatorios, no broncodilatadores de acción rápida; para el alivio se utilizan los agonistas beta 2.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Reducir la inflamación crónica de la vía aérea, disminuir la hiperreactividad bronquial y prevenir las exacerbaciones.",
+          "rationale": "El corticoide inhalado es el pilar del tratamiento antiinflamatorio, esencial para el **control a largo plazo** de la enfermedad y la reducción de las crisis.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Aumentar la producción de moco para facilitar la expectoración.",
+          "rationale": "Los corticoides tienen un efecto antiinflamatorio y no aumentan la producción de moco.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Disminuir la producción de Inmunoglobulina E (IgE).",
+          "rationale": "El efecto primario es la modulación de la inflamación local, no la disminución de la IgE, que requiere terapias biológicas.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 85,
+      "question": "En el cuidado de un **niño** con **Asma** que utiliza una cámara espaciadora con mascarilla, ¿Cuál es la forma correcta de administrar el puff para garantizar la máxima llegada al pulmón?",
+      "options": {
+        "A": {
+          "text": "Realizar una inhalación lenta y profunda inmediatamente después de activar el puff.",
+          "rationale": "Esta es la técnica para el adolescente; el lactante o preescolar requiere la técnica de respiración a volumen corriente.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Activar el puff en el aire y luego colocar la mascarilla en la cara del niño.",
+          "rationale": "El medicamento debe activarse con la mascarilla ya puesta para que no se escape; de lo contrario, se pierde la dosis.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Activar el puff y permitir que el niño realice **6 a 10 respiraciones a volumen corriente** (normales) a través de la mascarilla ajustada.",
+          "rationale": "La respiración a volumen corriente con la mascarilla ajustada permite que el lactante o preescolar inhale el medicamento de la cámara, siendo la técnica más efectiva para esta edad.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Sellar completamente la mascarilla en la boca y la nariz, y hacer que el niño contenga la respiración durante 10 segundos.",
+          "rationale": "El contener la respiración es difícil o imposible para los niños pequeños; se utiliza la respiración a volumen corriente.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 86,
+      "question": "¿Cuál es la principal justificación para el **Contacto Piel a Piel** (CPP) de forma inmediata en el **Recién Nacido** vigoroso en sala de partos?",
+      "options": {
+        "A": {
+          "text": "Facilitar la recolección de muestras de sangre del RN.",
+          "rationale": "El CPP es por el vínculo y la fisiología, no por la recolección de muestras.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Promover la **estabilidad de la temperatura** (termorregulación) y el **inicio temprano de la lactancia materna**.",
+          "rationale": "El pecho de la madre actúa como un termostato biológico, y el CPP facilita el reflejo de búsqueda y el inicio de la lactancia materna en la primera hora de vida.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Prevenir la ictericia neonatal, ya que el CPP activa el metabolismo de la bilirrubina.",
+          "rationale": "El CPP no activa directamente el metabolismo de la bilirrubina; la ictericia se previene con una alimentación efectiva.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Permitir la ligadura temprana del cordón umbilical.",
+          "rationale": "Las guías recomiendan el clampeo tardío del cordón umbilical, lo que no interfiere con el CPP.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 87,
+      "question": "Al educar a los padres de un **niño** con **Asma** sobre el uso del **medidor de flujo espiratorio máximo (PEF)**, ¿Qué valor debe registrarse para determinar la Zona Verde ('control')?",
+      "options": {
+        "A": {
+          "text": "Menos del $50\%$ del mejor valor personal.",
+          "rationale": "Este rango (Zona Roja) indica una exacerbación grave que requiere atención médica urgente.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Entre el $50\%$ y el $80\%$ del mejor valor personal.",
+          "rationale": "Este rango (Zona Amarilla) indica una exacerbación moderada que requiere un ajuste del tratamiento de rescate.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Más del $80\%$ del mejor valor personal.",
+          "rationale": "Un PEF superior al **$80\\%$ del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Cualquier valor superior a $100$ litros por minuto.",
+          "rationale": "El valor de referencia es el 'mejor valor personal' del paciente, no un valor fijo, para evaluar el control de la enfermedad.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 88,
+      "question": "En el cuidado de un **niño** con **Convulsiones Febriles**, ¿Cuál es la intervención de **Enfermería** que debe realizarse después de asegurar la vía aérea y proteger al niño de lesiones?",
+      "options": {
+        "A": {
+          "text": "Administrar un antiepiléptico de mantenimiento (ej. Fenitoína) de forma urgente.",
+          "rationale": "Las convulsiones febriles simples no requieren medicación de mantenimiento; la prioridad es bajar la fiebre.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Controlar la temperatura corporal y administrar un antipirético (ej. Ibuprofeno o Paracetamol).",
+          "rationale": "La convulsión febril es causada por el aumento rápido de la temperatura; la **reducción de la fiebre** es esencial para prevenir una recurrencia y es la intervención más importante después de la seguridad.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Realizar una punción lumbar para descartar una meningitis.",
+          "rationale": "La punción lumbar no se realiza de rutina; está indicada solo si hay signos de meningitis o si el niño es menor de 18 meses.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Administrar antibióticos de amplio espectro para prevenir una infección bacteriana.",
+          "rationale": "La mayoría de las convulsiones febriles son benignas y no requieren antibióticos.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 89,
+      "question": "¿Cuál es la principal indicación de **Enfermería** en el manejo de la **fiebre** en un **niño** que utiliza un antipirético (ej. Paracetamol)?",
+      "options": {
+        "A": {
+          "text": "Administrar un segundo antipirético (ej. Ibuprofeno) antes de las 4 horas de la primera dosis.",
+          "rationale": "La administración de dos antipiréticos con un intervalo de menos de 4 horas aumenta el riesgo de sobredosis o toxicidad.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Utilizar únicamente los medios físicos (paños fríos, baños tibios) y evitar el medicamento.",
+          "rationale": "Los medios físicos son coadyuvantes; el antipirético es el tratamiento de elección, y los baños fríos están contraindicados por el riesgo de escalofríos.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Alternar el Paracetamol y el Ibuprofeno cada 4 horas de forma rutinaria para maximizar el efecto.",
+          "rationale": "La alternancia de antipiréticos no está recomendada de rutina por el alto riesgo de error de dosis; es preferible usar un solo agente a la dosis correcta.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Administrar el antipirético a la dosis correcta según el peso (mg/kg) y monitorizar la temperatura después de 30-60 minutos, complementando con medios físicos suaves.",
+          "rationale": "La **dosis por peso** es esencial para evitar la toxicidad o la ineficacia; la monitorización permite evaluar la respuesta y los medios físicos suaves ayudan a la confortabilidad.",
+          "is_correct": true
+        }
+      }
+    },
+    {
+      "question_number": 90,
+      "question": "En el cuidado de un **niño** con **Asma** que presenta una exacerbación leve, ¿Cuál es la intervención de **Enfermería** inicial y prioritaria, según las guías de manejo?",
+      "options": {
+        "A": {
+          "text": "Administrar un corticoide oral (ej. Prednisona).",
+          "rationale": "El corticoide oral se utiliza en exacerbaciones moderadas o graves; la prioridad inicial es la broncodilatación.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Administrar un agonista beta-2 de acción corta (ej. Salbutamol) inhalado con cámara espaciadora.",
+          "rationale": "El **salbutamol inhalado** es el tratamiento de primera línea para la broncodilatación rápida y el alivio de los síntomas en la exacerbación asmática.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Realizar nebulización con solución fisiológica y oxigenoterapia.",
+          "rationale": "La nebulización con solución salina no es el tratamiento de elección; la oxigenoterapia se indica si hay hipoxemia.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Administrar sulfato de magnesio intravenoso.",
+          "rationale": "El sulfato de magnesio se reserva para las crisis asmáticas graves que no responden al tratamiento inicial.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 91,
+      "question": "En la evaluación de la **Escala de Tanner** en un **varón**, ¿Qué estadio se correlaciona con el **aumento del volumen testicular** como primer signo de desarrollo sexual secundario?",
+      "options": {
+        "A": {
+          "text": "Estadio I",
+          "rationale": "El Estadio I es el estado prepuberal, sin aumento del volumen testicular.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Estadio II",
+          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente $> 4 ml$) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Estadio III",
+          "rationale": "El Estadio III se correlaciona con el aumento del tamaño del pene y el desarrollo del vello púbico más denso y rizado.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Estadio IV",
+          "rationale": "El Estadio IV se caracteriza por el crecimiento continuo del pene en longitud y grosor, y el vello púbico de tipo adulto.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 92,
+      "question": "¿Cuál es la principal justificación para el uso de **corticoides sistémicos** (ej. Dexametasona o Prednisona) en el tratamiento de la **laringitis aguda** (crup viral) en **niños**?",
+      "options": {
+        "A": {
+          "text": "Actuar como broncodilatador para abrir las vías aéreas inferiores.",
+          "rationale": "Los corticoides son antiinflamatorios; no son broncodilatadores.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Disminuir el edema de las cuerdas vocales y la tráquea (vía aérea superior) para aliviar la obstrucción.",
+          "rationale": "El efecto antiinflamatorio de los corticoides reduce la inflamación y el edema de la laringe/tráquea, lo que disminuye el estridor y la obstrucción de la vía aérea superior.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Tratar la infección viral subyacente (ej. Virus Parainfluenza).",
+          "rationale": "Los corticoides no tienen actividad antiviral.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Prevenir la sobreinfección bacteriana.",
+          "rationale": "Los corticoides no tienen efecto en la prevención de la infección bacteriana.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 93,
+      "question": "En el marco de la promoción de la salud sexual adolescente, ¿Cuál es el principal rol de **Enfermería** en la consejería de **Métodos Anticonceptivos (MAC)**?",
+      "options": {
+        "A": {
+          "text": "Recomendar los MAC de larga duración como única opción efectiva.",
+          "rationale": "La enfermería debe presentar todas las opciones disponibles, no limitarse a una sola, aunque los MAC de larga duración son altamente eficaces.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Administrar un MAC solo con la autorización expresa de los padres, independientemente de la edad del adolescente.",
+          "rationale": "Según la autonomía progresiva, un adolescente puede acceder a MAC sin la presencia o autorización de sus padres. ",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Proporcionar información completa, objetiva, libre de prejuicios y centrada en la autonomía del adolescente para la elección informada.",
+          "rationale": "La consejería debe ser neutral, garantizar la comprensión de los beneficios y riesgos de cada MAC, y respetar la decisión final del adolescente.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Priorizar los métodos de barrera para prevenir el embarazo, sin mencionar los hormonales.",
+          "rationale": "Los métodos de barrera son importantes para la prevención de ITS, pero el consejo debe incluir todas las opciones disponibles para la prevención del embarazo.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 94,
+      "question": "Al educar a los padres de un **niño** sobre la **prevención de la anemia ferropénica** en el **lactante**, ¿Cuál es la indicación de **Enfermería** más importante después de los 6 meses de vida?",
+      "options": {
+        "A": {
+          "text": "Introducir la leche de vaca de forma temprana para aumentar el aporte de calcio.",
+          "rationale": "La leche de vaca no es una buena fuente de hierro y puede causar pérdidas gastrointestinales de sangre, lo que puede provocar anemia ferropénica.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Suplementación con hierro a partir de los 6 meses de vida y promoción de la alimentación complementaria con alimentos ricos en hierro (carnes rojas, legumbres).",
+          "rationale": "Los depósitos de hierro del RN se agotan alrededor de los 6 meses; por lo tanto, la **suplementación y la alimentación complementaria rica en hierro** son esenciales para prevenir la anemia.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Continuar con lactancia materna exclusiva hasta los 12 meses, sin introducción de alimentos.",
+          "rationale": "La leche materna es insuficiente en hierro después de los 6 meses, por lo que es necesario introducir alimentos complementarios ricos en hierro.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Administración de vitamina C para mejorar la absorción de calcio.",
+          "rationale": "La vitamina C mejora la absorción de hierro, no de calcio, pero la indicación principal es la suplementación con hierro y la dieta.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 95,
+      "question": "Para la administración de una dosis de $500 ml$ de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
+      "options": {
+        "A": {
+          "text": "83 microgotas/min",
+          "rationale": "Fórmula: $V (ml) / T (horas)$. $500 ml / 6 h \\approx 83.33$ microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
+          "is_correct": true
+        },
+        "B": {
+          "text": "21 microgotas/min",
+          "rationale": "Esta sería la velocidad si se usara un equipo de macrogoteo (20 gotas/ml).",
+          "is_correct": false
+        },
+        "C": {
+          "text": "16 microgotas/min",
+          "rationale": "Esta es una velocidad muy lenta y resultaría en una infusión incompleta.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "125 microgotas/min",
+          "rationale": "Esta es la velocidad para infundir $750 ml$ en $6$ horas, lo que sería una sobrecarga.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 96,
+      "question": "En el cuidado de un **niño** con **Hipoglucemia** que está consciente, ¿Cuál es la intervención inicial de **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "Administrar $1 mg$ de Glucagón intramuscular.",
+          "rationale": "El Glucagón se administra solo si el niño está inconsciente o es incapaz de tragar.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Administrar una solución de Glucosa al $50\%$ por vía intravenosa.",
+          "rationale": "La glucosa IV se reserva para niños inconscientes o con hipoglucemia grave y persistente.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Administrar de 10 a 15 g de carbohidratos de acción rápida (ej. jugo, glucosa oral) y controlar la glucemia en 15 minutos.",
+          "rationale": "La **administración oral de carbohidratos de acción rápida** es el tratamiento de primera línea para la hipoglucemia en pacientes conscientes y capaces de tragar.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Iniciar una infusión de insulina de acción rápida para estabilizar la glucemia.",
+          "rationale": "La insulina está contraindicada en la hipoglucemia.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 97,
+      "question": "¿Cuál es el principal objetivo del uso de **corticoides inhalados** en el tratamiento de mantenimiento del **asma** en **niños**?",
+      "options": {
+        "A": {
+          "text": "Actuar como broncodilatador de acción rápida para el alivio de la crisis.",
+          "rationale": "Los corticoides inhalados son antiinflamatorios, no broncodilatadores de acción rápida; para el alivio se utilizan los agonistas beta 2.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Reducir la inflamación crónica de la vía aérea, disminuir la hiperreactividad bronquial y prevenir las exacerbaciones.",
+          "rationale": "El corticoide inhalado es el pilar del tratamiento antiinflamatorio, esencial para el **control a largo plazo** de la enfermedad y la reducción de las crisis.",
+          "is_correct": true
+        },
+        "C": {
+          "text": "Aumentar la producción de moco para facilitar la expectoración.",
+          "rationale": "Los corticoides tienen un efecto antiinflamatorio y no aumentan la producción de moco.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Disminuir la producción de Inmunoglobulina E (IgE).",
+          "rationale": "El efecto primario es la modulación de la inflamación local, no la disminución de la IgE, que requiere terapias biológicas.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 98,
+      "question": "En el cuidado de un **niño** con **Asma** que utiliza una cámara espaciadora con mascarilla, ¿Cuál es la forma correcta de administrar el puff para garantizar la máxima llegada al pulmón?",
+      "options": {
+        "A": {
+          "text": "Realizar una inhalación lenta y profunda inmediatamente después de activar el puff.",
+          "rationale": "Esta es la técnica para el adolescente; el lactante o preescolar requiere la técnica de respiración a volumen corriente.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Activar el puff en el aire y luego colocar la mascarilla en la cara del niño.",
+          "rationale": "El medicamento debe activarse con la mascarilla ya puesta para que no se escape; de lo contrario, se pierde la dosis.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Activar el puff y permitir que el niño realice **6 a 10 respiraciones a volumen corriente** (normales) a través de la mascarilla ajustada.",
+          "rationale": "La respiración a volumen corriente con la mascarilla ajustada permite que el lactante o preescolar inhale el medicamento de la cámara, siendo la técnica más efectiva para esta edad.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Sellar completamente la mascarilla en la boca y la nariz, y hacer que el niño contenga la respiración durante 10 segundos.",
+          "rationale": "El contener la respiración es difícil o imposible para los niños pequeños; se utiliza la respiración a volumen corriente.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 99,
+      "question": "Al educar a un **adolescente** sobre la importancia del uso de **preservativo**, ¿cuál es el beneficio que debe enfatizar la **Enfermería**?",
+      "options": {
+        "A": {
+          "text": "El preservativo es el método más efectivo para prevenir el embarazo.",
+          "rationale": "Los MAC de larga duración y la píldora tienen mayor efectividad teórica para el embarazo; la clave del preservativo es la doble protección.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Previene la aparición de candidiasis vaginal.",
+          "rationale": "Si bien puede ayudar, no es la principal indicación o beneficio del preservativo.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Es el único método que ofrece **doble protección** (previene las Infecciones de Transmisión Sexual (ITS) y el embarazo).",
+          "rationale": "El preservativo es el único método que, utilizado correctamente, reduce significativamente el riesgo de ITS y previene el embarazo.",
+          "is_correct": true
+        },
+        "D": {
+          "text": "Es una alternativa a la píldora anticonceptiva en caso de olvido de la toma diaria.",
+          "rationale": "El preservativo no reemplaza la píldora; su uso es un método de barrera con un propósito diferente al de la anticoncepción hormonal.",
+          "is_correct": false
+        }
+      }
+    },
+    {
+      "question_number": 100,
+      "question": "En el marco de la **Ley N.º 26.743 de Identidad de Género**, si una **mujer trans** (23 años) desea acceder a una **cirugía de modificación genital**, ¿Qué requisito indica la Ley para esta prestación?",
+      "options": {
+        "A": {
+          "text": "Cambio registral realizado y consentimiento informado de la persona.",
+          "rationale": "El cambio registral no es un requisito indispensable para el acceso a las prestaciones de salud.",
+          "is_correct": false
+        },
+        "B": {
+          "text": "Diagnóstico de disforia de género y autorización judicial.",
+          "rationale": "La ley elimina el requisito de patologización (diagnóstico) y la autorización judicial para estas prácticas.",
+          "is_correct": false
+        },
+        "C": {
+          "text": "Cambio registral realizado, diagnóstico de disforia de género y consentimiento informado de la persona.",
+          "rationale": "Esta opción incluye dos requisitos (cambio registral y diagnóstico) que fueron explícitamente eliminados por la Ley.",
+          "is_correct": false
+        },
+        "D": {
+          "text": "Consentimiento informado de la persona, únicamente.",
+          "rationale": "El único requisito para el acceso a las intervenciones quirúrgicas de modificación corporal en el marco de la Ley N.º 26.743 es el **consentimiento informado** libre de la persona mayor de edad (18 años).",
+          "is_correct": true
+        }
+      }
+    }
+  ]
+}

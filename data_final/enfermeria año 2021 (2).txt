@@ -1,0 +1,1205 @@
+[
+  {
+    "id": 101,
+    "tema": "Leyes y Derechos (Adolescentes)",
+    "pregunta": "Una adolescente de 15 años solicita un DIU. Marque la opción correcta, según los derechos de adolescentes al acceso de prestaciones en salud: [cite: 970]",
+    "opciones": {
+      "a": "Requiere obligatoriamente la autorización de sus padres o tutor.",
+      "b": "Antonella puede acceder al DIU por tener más de 13 años y autonomía para consentir prácticas anticonceptivas transitorias que no pongan en riesgo su salud.",
+      "c": "Solo puede acceder a métodos de barrera hasta los 18 años.",
+      "d": "La autonomía se aplica solo para consultas médicas, no para procedimientos."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 102,
+    "tema": "Leyes y Derechos (Adolescentes)",
+    "pregunta": "Una chica de 14 años solicita la anticoncepción hormonal de emergencia (AHE). ¿Cuál es la respuesta adecuada desde la guardia? [cite: 993]",
+    "opciones": {
+      "a": "Negarse a proporcionarla sin la presencia de un adulto responsable.",
+      "b": "Proveer la AHE a la adolescente debido a que tiene autonomía suficiente para el uso de esta medicación que no pone en riesgo grave su salud o su vida.",
+      "c": "Solo ofrecer anticonceptivos de barrera.",
+      "d": "Solicitar interconsulta obligatoria con el servicio social."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 103,
+    "tema": "Puericultura (Recién Nacido)",
+    "pregunta": "Recién nacido pretérmino de 33 semanas, peso adecuado. Aún no ha recibido la vacuna BCG. ¿Qué parámetro debe considerar para indicarla? [cite: 998]",
+    "opciones": {
+      "a": "Peso al nacer (debe ser mayor a 2500g).",
+      "b": "Edad gestacional corregida.",
+      "c": "Edad cronológica.",
+      "d": "Resultado de la prueba de Tuberculina."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 104,
+    "tema": "Desarrollo Infantil",
+    "pregunta": "Un niño camina desde hace 3 meses, puede beber desde una taza, dice 'agua', 'mamá' y 'papá', y señala cuando desea un objeto. Su edad más probable es: [cite: 1032]",
+    "opciones": {
+      "a": "9 meses.",
+      "b": "12 meses.",
+      "c": "15 meses.",
+      "d": "24 meses."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 105,
+    "tema": "Leyes y Protocolos (Adolescentes)",
+    "pregunta": "Una médica sospecha abuso sexual en una adolescente con signos de posible embarazo. ¿Cuál es el primer acto administrativo que debería encauzar según la hoja de ruta de atención a menores de 15 años embarazadas? [cite: 1086]",
+    "opciones": {
+      "a": "Iniciar inmediatamente la interrupción legal del embarazo (ILE).",
+      "b": "Informar obligatoriamente a los padres de la adolescente.",
+      "c": "Comunicar al organismo de protección la sospecha de abuso sexual, acordando con la adolescente la forma y contenido de la comunicación.",
+      "d": "Denunciar inmediatamente a la policía sin informar a la adolescente."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 106,
+    "tema": "Enfermedades Infecciosas (Pediátrico)",
+    "pregunta": "Lactante de 4 meses con episodios paroxísticos de tos seguidos por estridor inspiratorio (sospecha de Coqueluche). ¿Cuál es el estudio diagnóstico de primera elección para confirmar la sospecha clínica? [cite: 1094]",
+    "opciones": {
+      "a": "Radiografía de tórax.",
+      "b": "Cultivo de secreciones nasofaríngeas.",
+      "c": "Serología para *Bordetella pertussis*.",
+      "d": "Laringoscopía directa."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 107,
+    "tema": "Leyes y Protocolos (Violencia Sexual)",
+    "pregunta": "Una joven refiere relación sexual no consentida. Según el Protocolo para la Atención Integral de Víctimas de Violaciones Sexuales, el tratamiento inmediato debe incluir: [cite: 1133, 1134]",
+    "opciones": {
+      "a": "Solo contención psicológica y reporte policial obligatorio.",
+      "b": "El abordaje de las lesiones corporales y/o genitales, el tratamiento antirretroviral para prevención de VIH, la medicación para otras ITS y vacunas. Se considerará la anticoncepción hormonal de emergencia (AE) según si fueron o no, más de 5 días de la relación sexual no consentida.",
+      "c": "Únicamente la anticoncepción hormonal de emergencia (AE) sin necesidad de profilaxis para ITS.",
+      "d": "La internación obligatoria para toma de muestras forenses."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 108,
+    "tema": "Leyes y Derechos (Identidad de Género)",
+    "pregunta": "Un varón trans de 16 años (menor de 18 años) con un embarazo de 16 semanas solicita la interrupción de la gestación, alegando que es 'una tortura'. ¿Qué debe hacer el equipo de salud según la ley 27.610? [cite: 1242]",
+    "opciones": {
+      "a": "Negarse por ser menor de 18 años y por superar la semana 14.",
+      "b": "Proceder a la interrupción legal del embarazo justificada bajo la causal salud integral.",
+      "c": "Solicitar la intervención de un juez de familia obligatoriamente.",
+      "d": "Requerir la autorización expresa de los representantes legales."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 109,
+    "tema": "Leyes y Protocolos (Abuso en menores)",
+    "pregunta": "En los casos de violaciones o abusos a menores de 18 años, ¿cuál es responsabilidad del equipo de salud? [cite: 1234]",
+    "opciones": {
+      "a": "Delegar la denuncia penal exclusivamente a la familia.",
+      "b": "Garantizar el secreto profesional total, sin comunicar a otros organismos.",
+      "c": "Realizar un abordaje inicial –valorando el estado y realizando las intervenciones de emergencia-, comunicar el hecho a los organismos de protección de derechos y denunciar ante la justicia en el momento y forma acordada con la niña o adolescente.",
+      "d": "Únicamente ofrecer la interrupción legal del embarazo."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 110,
+    "tema": "Salud Mental",
+    "pregunta": "Según el texto de entrevista a Ineke Dibbits, ¿cuál es la condición fundamental para que haya un diálogo intercultural? [cite: 400]",
+    "opciones": {
+      "a": "Que exista una lengua común y reglas estrictas de debate.",
+      "b": "Que su diseño sea un proceso elegido, permanente e inacabado, en el cual el otro siempre entra en una relación dinámica e interpelante",
+      "c": "Que se priorice la cultura dominante sobre las minoritarias.",
+      "d": "Que haya un mediador profesional en todo momento."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 111,
+    "tema": "Violencia de Género",
+    "pregunta": "Una médica recibe hostigamiento psicológico sistemático de su jefe, quien la culpa de hacer mal tareas por ser mujer, buscando su renuncia. Según el texto de PNUD, ¿cómo se define la violencia ejercida por el jefe de servicio? [cite: 407]",
+    "opciones": {
+      "a": "Familiar.",
+      "b": "Doméstica.",
+      "c": "Institucional.",
+      "d": "Laboral"
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 112,
+    "tema": "Epidemiología (COVID-19)/Bioseguridad",
+    "pregunta": "¿Cuáles son las medidas de bioseguridad mínima que se deben utilizar para la realización las pruebas inmunocromatográficas de detección de antígenos de SARS-CoV-2? [cite: 411, 412]",
+    "opciones": {
+      "a": "Solo guantes y barbijo quirúrgico simple.",
+      "b": "Bata de laboratorio de manga larga (con elástico) o camisolín, gafas o anteojos de protección y guantes desechables adecuados, barbijo quirúrgico doble o N95. Trabajo en ambiente ventilado, y contar con recipientes de desechos adecuados.",
+      "c": "Traje de protección total y escafandra.",
+      "d": "Solo higiene de manos antes y después."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 113,
+    "tema": "Epidemiología (COVID-19)/Diagnóstico",
+    "pregunta": "¿Cuáles son las principales ventajas de la técnica de LAMP (amplificación isotérmica mediada por bucle) para la detección de SARS CoV 2? [cite: 416]",
+    "opciones": {
+      "a": "Tiene mayor sensibilidad que la RT-PCR en tiempo real.",
+      "b": "Utiliza instrumental más sencillo para su realización y es más rápida que la PCR.",
+      "c": "Permite cuantificar la carga viral con alta precisión.",
+      "d": "No requiere de toma de muestras nasofaríngeas."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 114,
+    "tema": "Epidemiología (COVID-19)/Diagnóstico",
+    "pregunta": "¿Qué metodología utilizaría para diagnóstico de SARS-CoV-2 en un área con baja positividad (<10%)? [cite: 420]",
+    "opciones": {
+      "a": "Test rápido de antígenos.",
+      "b": "Serología IgM.",
+      "c": "Detección de material genético por reacción en cadena de la polimerasa en tiempo real (RT-PCRrt).",
+      "d": "Detección de anticuerpos totales."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 115,
+    "tema": "Investigación",
+    "pregunta": "Un estudio de investigación conjunto analiza cifras y razones de la baja en la edad de contagios por Covid 19. Según Hernández Sampieri, ¿qué enfoque de investigación se implementa para realizar este estudio? [cite: 396]",
+    "opciones": {
+      "a": "Cualitativo",
+      "b": "Mixto",
+      "c": "Cuantitativo",
+      "d": "Etnográfico"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 116,
+    "tema": "Ginecología/Obstetricia",
+    "pregunta": "Concurre Lorena, embarazo de 32 semanas con fiebre, taquicardia fetal (165 lpm), sin rotura de membranas. Según la guía de amenaza de parto pretérmino, ¿cuál es la conducta más adecuada? [cite: 1103]",
+    "opciones": {
+      "a": "Solo reposo y control de la temperatura.",
+      "b": "Indicar Betametasona y Uteroinhibición inmediata.",
+      "c": "Indicar betametasona 12mg intramuscular + Ampicilina 2gr cada 6hs + Gentamicina 3-5mg/kg/dia + finalización del embarazo.",
+      "d": "Administrar antibióticos orales ambulatorios."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 117,
+    "tema": "Ginecología/Obstetricia",
+    "pregunta": "Mariana, primigesta de 15 semanas, asintomática, con urocultivo al acecho que informa *E. Coli* >10^5 UFC/ml (Bacteriuria asintomática). ¿Cuál es la conducta inmediata a seguir? [cite: 1109]",
+    "opciones": {
+      "a": "Iniciar tratamiento antibiótico de amplio espectro de inmediato.",
+      "b": "Solicitar un segundo urocultivo tomado al acecho.",
+      "c": "Realizar una punción suprapúbica para obtener una muestra más fiable.",
+      "d": "Indicar únicamente hidratación abundante."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 118,
+    "tema": "Ginecología/Obstetricia (ILE)",
+    "pregunta": "Adolescente de 15 años, embarazo de 8 semanas, producto de relación sexual no consensuada, solicita una ILE. ¿Cuál es la conducta más adecuada? [cite: 1115]",
+    "opciones": {
+      "a": "Requerir una orden judicial por ser menor de edad.",
+      "b": "Solicitar que firme la declaración jurada y llevar a cabo la interrupción.",
+      "c": "Esperar hasta la semana 14 para evaluar la decisión.",
+      "d": "Convencerla de continuar el embarazo por su edad."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 119,
+    "tema": "Ginecología/Obstetricia (Pre-eclampsia/HELLP)",
+    "pregunta": "Silvana, 35 semanas, TA 140/110 mmHg, plaquetas 100.000/mm3, TGO/TGP elevadas, LDH 700 U/L, proteinuria +++. (Síndrome de HELLP). ¿Cuál es la conducta más adecuada? [cite: 1124]",
+    "opciones": {
+      "a": "Solo reposo absoluto y dieta hiposódica.",
+      "b": "Indicar terapia antihipertensiva, sulfato de magnesio y cesárea.",
+      "c": "Esperar a las 37 semanas para la inducción del parto.",
+      "d": "Administrar únicamente Betametasona."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 120,
+    "tema": "Ginecología/Obstetricia (ITS/Sífilis)",
+    "pregunta": "Celeste, 16 semanas, VDRL 1/8 reactivo. ¿Cuál es su conducta luego de valorar los resultados? [cite: 1139]",
+    "opciones": {
+      "a": "Esperar un segundo VDRL de confirmación.",
+      "b": "Indicar penicilina benzatínica 2.400.000 UI, IM. 3 dosis separadas por una semana a ella y a la pareja, controlar con VDRL mensual hasta el parto.",
+      "c": "Solo tratarla a ella y esperar a que nazca el bebé para el tratamiento del recién nacido.",
+      "d": "Indicar Azitromicina oral en dosis única."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 121,
+    "tema": "Ginecología/Obstetricia (Diabetes Gestacional)",
+    "pregunta": "Marta, 26 semanas, con PTOG de 145 mg/dl a las 2 hs. ¿Ante esta situación usted considera? [cite: 1144]",
+    "opciones": {
+      "a": "Que el valor es normal y no requiere seguimiento.",
+      "b": "Repetir la prueba en 4 semanas.",
+      "c": "Comunicar el diagnóstico de diabetes gestacional e iniciar controles.",
+      "d": "Solicitar insulinoterapia de inmediato sin iniciar dieta."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 122,
+    "tema": "Ginecología",
+    "pregunta": "Paciente nulípara con conización previa: H-SIL, foco de infiltración de 1mm (T1a1), márgenes libres. Señale la conducta más adecuada en este caso: [cite: 1150]",
+    "opciones": {
+      "a": "Histerectomía total.",
+      "b": "Control.",
+      "c": "Radioterapia adyuvante.",
+      "d": "Nueva conización inmediata."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 123,
+    "tema": "Ginecología/Obstetricia",
+    "pregunta": "Laura, dolor abdominal, FUM de 8 semanas, TA 100/60, FC 124, Hto 23%, líquido libre, masa anexial (Embarazo Ectópico Roto). ¿Cuál es la conducta terapéutica más adecuada? [cite: 1158]",
+    "opciones": {
+      "a": "Administrar Metotrexate intramuscular.",
+      "b": "Conducta expectante y control de HCG.",
+      "c": "Salpingectomía laparoscópica.",
+      "d": "Histerectomía de urgencia."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 124,
+    "tema": "Ginecología/Obstetricia",
+    "pregunta": "Paciente de 37 semanas, prurito intenso palmo plantar, GOT/GPT elevadas, Ácidos biliares 15 (Colestasis Gravídica). ¿Cuál es el diagnóstico probable y la conducta indicada? [cite: 1163]",
+    "opciones": {
+      "a": "Hepatitis viral. Indicar antivirales.",
+      "b": "Colestasis Gravídica. Internación y finalización del embarazo.",
+      "c": "Hígado graso agudo. Tratamiento sintomático.",
+      "d": "Erupción polimorfa del embarazo. Indicar corticoides."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 125,
+    "tema": "Puerperio/Anticoncepción",
+    "pregunta": "Mujer puérpera hace 20 días, lactancia exclusiva, sin deseos de hijos por el momento. ¿Cuál es la conducta adecuada para esta paciente? [cite: 1169]",
+    "opciones": {
+      "a": "Recomendar solo el método del ritmo.",
+      "b": "Recomendar anticonceptivos orales combinados.",
+      "c": "Recomendar un anticonceptivo de progestágeno de larga duración o dispositivo intrauterino.",
+      "d": "La lactancia exclusiva es suficiente por sí misma."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 126,
+    "tema": "Ginecología (Climaterio)",
+    "pregunta": "Cecilia (58 años), diabética, con sangrado vaginal escaso 18 meses post-menopausia (Sangrado Postmenopáusico). ¿Qué estudios complementarios corresponde realizar? [cite: 1175]",
+    "opciones": {
+      "a": "Solo Glucemia en ayunas y Hemoglobina Glicosilada.",
+      "b": "PAP endo y exocervical, mamografía bilateral, colposcopía y ecografía transvaginal.",
+      "c": "Densitometría ósea únicamente.",
+      "d": "TSH y T4L."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 127,
+    "tema": "Identidad de Género (Ley 26743)",
+    "pregunta": "Varón trans de 19 años consulta para asesorarse sobre adenomastectomía bilateral. ¿Qué información le brinda? [cite: 1180]",
+    "opciones": {
+      "a": "Solo puede acceder a la cirugía después de iniciar hormonización por 5 años.",
+      "b": "Puede acceder a la adenomastectomía bilateral y le propone planificar la cirugía y solicitar los controles prequirúrgicos.",
+      "c": "La cirugía está contraindicada por su edad.",
+      "d": "Requiere la autorización de un Comité de Ética."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 128,
+    "tema": "Ginecología (ITS)",
+    "pregunta": "Sandra, fiebre elevada, dolor abdominal bajo, secreción purulenta, dolor a la exploración bimanual (Enfermedad Pelviana Inflamatoria). ¿Qué tratamiento antibiótico indica? [cite: 1187]",
+    "opciones": {
+      "a": "Amoxicilina + Ácido Clavulánico oral.",
+      "b": "Azitromicina oral en dosis única.",
+      "c": "Ceftriaxona, 500 mg I.M. en dosis única + doxiciclina, 100 mg/12 h VO/ 14 días, + metronidazol, 500 mg/12 h durante 14 días.",
+      "d": "Clindamicina + Gentamicina endovenosa."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 129,
+    "tema": "Salud Pública",
+    "pregunta": "Paciente de 38 años, consumo de dos vasos de vino en la cena (consumo de bajo riesgo). ¿Qué intervención considera más adecuada? [cite: 1194]",
+    "opciones": {
+      "a": "Iniciar tratamiento farmacológico para adicciones.",
+      "b": "Derivación a grupo de Alcohólicos Anónimos.",
+      "c": "Sensibilización e información. Consejería integral de salud.",
+      "d": "Solicitar internación para desintoxicación."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 130,
+    "tema": "Salud Mental (Ley 26657)",
+    "pregunta": "Joven con diagnóstico de esquizofrenia paranoide en situación de calle. Según la normativa vigente en salud mental, ¿cuál es la opción correcta para abordar el problema de vivienda? [cite: 1201]",
+    "opciones": {
+      "a": "Regresar al hospital monovalente para internación indefinida.",
+      "b": "Gestionar recursos a través de organismos públicos competentes",
+      "c": "Obligar a la familia a hacerse cargo de la vivienda.",
+      "d": "Priorizar la medicación sobre la solución habitacional."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 131,
+    "tema": "Salud Mental (COVID-19)",
+    "pregunta": "Mujer aislada por COVID-19, refiere insomnio y consumo de alcohol para descansar. ¿Cuál es la conducta adecuada según las Recomendaciones para asistencia telefónica de salud mental? [cite: 1208]",
+    "opciones": {
+      "a": "Solo indicar pautas de higiene del sueño por teléfono.",
+      "b": "Realizar derivación asistida a red local de salud mental.",
+      "c": "Aconsejar el aumento de la dosis de alcohol hasta que duerma.",
+      "d": "Indicar que resuelva el problema una vez terminado el aislamiento."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 132,
+    "tema": "Epidemiología (COVID-19)/Tratamiento",
+    "pregunta": "Paciente de 72 años con COVID-19 (neumonía bilateral por Rx), obeso, diabético, hipertenso, que requiere oxígeno (evoluciona con desaturación). ¿Cuál de las siguientes opciones de tratamiento ha demostrado disminuir la mortalidad en estos pacientes? [cite: 1218]",
+    "opciones": {
+      "a": "Ivermectina.",
+      "b": "Hidroxicloroquina.",
+      "c": "Dexametasona.",
+      "d": "Azitromicina."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 133,
+    "tema": "Derechos del Paciente (Ética)",
+    "pregunta": "Un médico da una 'buena noticia' de embarazo a una paciente que rompe en llanto. La enfermera dice 'es la emoción' y el médico le explica los controles sin escucharla. ¿Cuál hubiera sido la conducta adecuada del equipo de salud? [cite: 1616]",
+    "opciones": {
+      "a": "Continuar con el protocolo de control de embarazo.",
+      "b": "Suministrarle la información sobre su estado de salud de forma neutra, al observar su reacción (escucha activa) acercar información sobre su derecho a continuar o a interrumpir la gesta, incluso sin una solicitud explícita.",
+      "c": "Derivar a la paciente a psiquiatría inmediatamente.",
+      "d": "Obligarla a declarar si quiere o no continuar el embarazo."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 134,
+    "tema": "Patología Respiratoria",
+    "pregunta": "Hombre de 60 años con neumonía, derrame pleural derecho. Toracocentesis: líquido turbio, pH 7.10, Glucosa 40, LDH 1200 U/L (Empiema/Derrame complicado). ¿Cuál es la conducta a seguir? [cite: 1277]",
+    "opciones": {
+      "a": "Antibióticos orales ambulatorios y seguimiento.",
+      "b": "Internar, tomar 2 muestras de hemocultivo, cultivar el líquido pleural, colocar tubo de avenamiento pleural e iniciar tratamiento con ampicilina sulbactam 1,5 gr c/6hs.",
+      "c": "Solo observación y drenaje postural.",
+      "d": "Antibióticos de amplio espectro por 21 días sin drenaje."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 135,
+    "tema": "Epidemiología (ITS)",
+    "pregunta": "Hombre con serología Hepatitis B: HBs Ag (-), Anti HBs (+), Anti HBc IgG (+). ¿Qué es correcto informarle? [cite: 1282]",
+    "opciones": {
+      "a": "Infección crónica por Hepatitis B.",
+      "b": "Que se encuentra en recuperación de una hepatitis B asintomática.",
+      "c": "Necesita vacunarse inmediatamente.",
+      "d": "Falso positivo, no hay infección."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 136,
+    "tema": "Patología Pediátrica Respiratoria",
+    "pregunta": "Niña de 4 años, estridor inspiratorio marcado, tiraje supraesternal y supraclavicular, tos no productiva (Crup/Laringitis). ¿Cuál es la conducta indicada? [cite: 1289]",
+    "opciones": {
+      "a": "Intubación orotraqueal inmediata.",
+      "b": "Indica nebulización con adrenalina y observación.",
+      "c": "Administración de antibióticos por vía oral.",
+      "d": "Solo hidratación y reposo en casa."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 137,
+    "tema": "Patología Cardiovascular",
+    "pregunta": "Hombre de 79 años con valvulopatía de alto riesgo que será sometido a una extracción dentaria. ¿Qué prescripción elegiría para realizar la profilaxis? [cite: 1299]",
+    "opciones": {
+      "a": "Azitromicina 500 mg, dosis única.",
+      "b": "Clindamicina 600 mg, 1 hora antes.",
+      "c": "Amoxicilina 2 gramos, indicar 1 hora antes de la extracción dentaria.",
+      "d": "No requiere profilaxis."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 138,
+    "tema": "Salud Pública (Tabaquismo)",
+    "pregunta": "Usted atiende a Carlos (38 años) por contractura muscular, pero su HC registra tabaquismo. ¿Cuál es su intervención en relación al tabaquismo? [cite: 1304]",
+    "opciones": {
+      "a": "Derivarlo a un especialista para una intervención de 6 meses.",
+      "b": "Ignorar el tabaquismo ya que el motivo de consulta es otro.",
+      "c": "Realiza una intervención breve, ya que es un abordaje integrado a la atención habitual sin importar el motivo de consulta y puede ser realizado por distintos miembros del equipo de salud.",
+      "d": "Indicar parches de nicotina sin consejería."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 139,
+    "tema": "Cardiología (Emergencia)",
+    "pregunta": "Paciente con dolor precordial, inestabilidad hemodinámica, sin pulsos, y monitor con Fibrilación Ventricular (trazado caótico). Indique la conducta a seguir: [cite: 1310] 
+
+[Image of a ventricular fibrillation ECG tracing]
+",
+    "opciones": {
+      "a": "Administración de Amiodarona endovenosa.",
+      "b": "Desfibrilación inmediata.",
+      "c": "Inicio de compresiones torácicas exclusivamente.",
+      "d": "Cardioversión sincronizada."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 140,
+    "tema": "Cardiología (ECG)",
+    "pregunta": "Se observa en el electrocardiograma elevación del segmento ST en derivaciones precordiales (V1-V6). ¿Cuál es el diagnostico observable? [cite: 1315]",
+    "opciones": {
+      "a": "Fibrilación auricular.",
+      "b": "Bloqueo de rama izquierda.",
+      "c": "Sindrome Coronario Agudo con Elevación del ST anterior extenso.",
+      "d": "Pericarditis aguda."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 141,
+    "tema": "Vacunación (Adultos)",
+    "pregunta": "José, 60 años, con cardiopatía isquémica, EPOC y mieloma múltiple. Consulta si puede colocarse la vacuna antineumocócica conjugada 13 serotipos (VCN-13). ¿Cuál es la conducta apropiada? [cite: 1321]",
+    "opciones": {
+      "a": "Indicar que está contraindicada por el mieloma.",
+      "b": "Indicar que solo necesita la vacuna polisacárida (VPN23).",
+      "c": "Le indica la vacuna para que se la coloquen ahora.",
+      "d": "Esperar a que remita el mieloma para vacunar."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 142,
+    "tema": "Patología Respiratoria",
+    "pregunta": "Adrián (35 años) refiere falta de aire nocturna y con actividad física, con congestión nasal y sibilancias bilaterales. ¿Cuál es la conducta a seguir? [cite: 1328]",
+    "opciones": {
+      "a": "Iniciar antibióticos para bronquitis.",
+      "b": "Solicitar espirometría con respuesta a broncodilatadores, asumiendo diagnóstico presuntivo de asma.",
+      "c": "Indicar solo descongestivos nasales.",
+      "d": "Derivar a cardiología por la disnea."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 143,
+    "tema": "Cardiología",
+    "pregunta": "Andrés (77 años) con Fibrilación Auricular, FE 42%, volumen auricular 74 mL/m2. ¿Cuál es la intervención terapéutica más adecuada? [cite: 1335]",
+    "opciones": {
+      "a": "Solo control de la frecuencia cardíaca con beta bloqueantes.",
+      "b": "Indicar warfarina.",
+      "c": "Realizar cardioversión eléctrica de urgencia.",
+      "d": "Administrar un antiagregante plaquetario (AAS) en monoterapia."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 144,
+    "tema": "Cardiología",
+    "pregunta": "Ana (62 años) con soplo sistólico 4/6, eco Doppler con estenosis aórtica severa (gradiente medio 49 mmHg y área 0.78 cm2) y síntomas (mareos, disnea). ¿Cuál es la conducta correcta? [cite: 1342]",
+    "opciones": {
+      "a": "Tratamiento médico con diuréticos y vasodilatadores.",
+      "b": "Cirugía de reemplazo valvular.",
+      "c": "Conducta expectante y control en 6 meses.",
+      "d": "Balonplastía aórtica percutánea."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 145,
+    "tema": "Endocrinología (Diabetes)",
+    "pregunta": "Amanda (64 años) con PTOG: glucemia en ayunas 99 mg/dL y a las 2 horas 174 mg/dL. ¿Cuál es el diagnóstico acorde? [cite: 1348]",
+    "opciones": {
+      "a": "Diabetes Mellitus.",
+      "b": "Glucemia en ayunas alterada.",
+      "c": "Tolerancia a la glucosa alterada.",
+      "d": "Valores normales."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 146,
+    "tema": "Vacunación (Adultos)",
+    "pregunta": "Jorge (66 años), diabético e hipertenso, recibió VCN13 a los 59 años y VPN23 a los 60 años. ¿Cuál es la estrategia correcta? [cite: 1353]",
+    "opciones": {
+      "a": "Una dosis adicional de VCN13.",
+      "b": "No requiere más dosis por el momento.",
+      "c": "Una dosis adicional de VPN23.",
+      "d": "Solo requiere control serológico."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 147,
+    "tema": "Valoración Física (Lumbalgia)",
+    "pregunta": "Sebastián (35 años) consulta por lumbalgia de 5 semanas, sin irradiación. ¿Cuál de las siguientes se considera 'bandera roja' para tomar una conducta? [cite: 1358]",
+    "opciones": {
+      "a": "Dolor que empeora con el ejercicio.",
+      "b": "Traumatismo reciente.",
+      "c": "Dolor que mejora con el reposo.",
+      "d": "Anticipar el dolor al levantarse."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 148,
+    "tema": "Salud Pública (Rastreo)",
+    "pregunta": "Aníbal (58 años), tabaquista, sobrepeso, hipotiroidismo. Último control hace 2 años. ¿Qué estudio es correcto solicitar para rastreo de cáncer? [cite: 1364]",
+    "opciones": {
+      "a": "Dosaje de PSA.",
+      "b": "Mamografía de control.",
+      "c": "Ecografía abdominal de rutina.",
+      "d": "Sangre oculta en materia fecal para rastreo de cáncer de colon."
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 149,
+    "tema": "Cirugía/Emergencia",
+    "pregunta": "Vicente (80 años) con dolor inguinal, distensión abdominal, vómitos, GB 14000, acidosis metabólica, hernia inguinal izquierda dolorosa (Hernia Incarcerada/Estrangulada). ¿Cuál es la conducta adecuada? [cite: 1371]",
+    "opciones": {
+      "a": "Reducción manual de la hernia y alta con control ambulatorio.",
+      "b": "Colocación de sonda nasogástrica de descompresión e indicar cirugía de urgencia.",
+      "c": "Solo hidratación y antibióticos intravenosos.",
+      "d": "Realizar colonoscopía de urgencia."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 150,
+    "tema": "Farmacología (Dislipemia)",
+    "pregunta": "Gabriel (59 años), hipertenso, ex tabaquista. Colesterol total 295, LDL 220, TG 350. ¿Cuál de las siguientes opciones de tratamiento farmacológico es correcta? [cite: 1379]",
+    "opciones": {
+      "a": "Fibratos solamente.",
+      "b": "Niacina.",
+      "c": "Estatinas.",
+      "d": "Secuestradores de ácidos biliares."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 151,
+    "tema": "Cardiología/Oncología",
+    "pregunta": "Andrea (45 años) con cáncer de mama previo, disnea, dolor torácico, hipotensión (80/65), pulso rápido/débil, distensión yugular, tonos cardíacos apagados (Tríada de Beck). ¿Cuál es el diagnóstico más probable? [cite: 1386]",
+    "opciones": {
+      "a": "Infarto agudo de miocardio.",
+      "b": "Tromboembolismo pulmonar.",
+      "c": "Derrame pericárdico maligno.",
+      "d": "Insuficiencia cardíaca descompensada."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 152,
+    "tema": "Hematología",
+    "pregunta": "Margarita (71 años) con astenia, ictericia, esplenomegalia, Hb 9, Bili total 4.2 (Indirecta 3.0), LDH 800 U/L (Anemia Hemolítica). ¿Qué estudio complementario solicita? [cite: 1393]",
+    "opciones": {
+      "a": "Mielograma y biopsia ósea.",
+      "b": "Prueba de Coombs directa e indirecta.",
+      "c": "Electroforesis de hemoglobina.",
+      "d": "Dosaje de ferritina y hierro sérico."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 153,
+    "tema": "Nefrología",
+    "pregunta": "Germán (34 años) con Hepatitis C, edemas, albúmina 2.5, colesterol 350, proteinuria 6.5 gr/24 hs (Síndrome Nefrótico). ¿Cuál es el diagnóstico más probable? [cite: 1399]",
+    "opciones": {
+      "a": "Nefropatía diabética.",
+      "b": "Glomerulonefritis membranoproliferativa.",
+      "c": "Enfermedad de cambios mínimos.",
+      "d": "Amiloidosis renal."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 154,
+    "tema": "Hepatología",
+    "pregunta": "María Eugenia (41 años) con esteatosis hepática (por ecografía), enzimas normales, IMC 31 (Hígado Graso No Alcohólico). ¿Cuál es la conducta a seguir? [cite: 1405]",
+    "opciones": {
+      "a": "Realizar biopsia hepática de urgencia.",
+      "b": "Solo indicar dieta estricta sin azúcar.",
+      "c": "Estudiar factores metabólicos (hipertensión, diabetes y dislipemias).",
+      "d": "Iniciar tratamiento con Ursodesoxicólico."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 155,
+    "tema": "Cirugía/Emergencia",
+    "pregunta": "Elena (78 años) con dolor en fosa ilíaca izquierda, náuseas, vómitos, fiebre, leucocitosis, engrosamiento de pared colónica en TC (Diverticulitis Aguda). ¿Cuál es la conducta a seguir? [cite: 1412]",
+    "opciones": {
+      "a": "Cirugía de urgencia (colectomía).",
+      "b": "Antibiótico terapia, internación y control evolutivo.",
+      "c": "Colonoscopía de urgencia.",
+      "d": "Alta con dieta líquida."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 156,
+    "tema": "Cirugía",
+    "pregunta": "Gustavo (58 años) con proctorragia, prolapso hemorroidal que debe reducir manualmente con mucha dificultad (Hemorroides Grado III/IV). ¿Cuál es la conducta terapéutica a seguir? [cite: 1420]",
+    "opciones": {
+      "a": "Tratamiento con cremas y supositorios.",
+      "b": "Ligadura con banda elástica.",
+      "c": "Escleroterapia.",
+      "d": "Resección hemorroidal."
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 157,
+    "tema": "Cirugía Vascular",
+    "pregunta": "María Rosa (68 años) con antecedente de insuficiencia venosa crónica, cordón varicoso indurado, eritema, TC venoso: Trombosis Venosa Superficial. ¿Cuál es la estrategia más adecuada? [cite: 1425]",
+    "opciones": {
+      "a": "Anticoagulación con Heparina de bajo peso molecular por 6 meses.",
+      "b": "Flebectomía de urgencia.",
+      "c": "Antiinflamatorios no esteroides y medias de compresión.",
+      "d": "Antibióticos y reposo absoluto."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 158,
+    "tema": "Emergencia (Trauma)",
+    "pregunta": "Graciela (28 años), colisión vehicular, ingresa con collar y tabla. ¿Cuál es la primera acción que realiza en la atención inicial (A de ABCDE)? [cite: 1430]",
+    "opciones": {
+      "a": "Verificar la circulación y hemorragias (C).",
+      "b": "Evaluar la respiración (B).",
+      "c": "Verificar que la vía área se encuentre permeable, con protección de la columna cervical.",
+      "d": "Evaluar el estado neurológico (D)."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 159,
+    "tema": "Cirugía/Imágenes",
+    "pregunta": "Carlos (69 años) con dolor abdominal en fosa ilíaca izquierda de 72 hs, febril, leucocitosis (Diverticulitis). ¿Qué estudio de imágenes solicitaría? [cite: 1435]",
+    "opciones": {
+      "a": "Ecografía abdominal.",
+      "b": "Radiografía simple de abdomen.",
+      "c": "Tomografía axial computada.",
+      "d": "Resonancia magnética."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 160,
+    "tema": "Salud Mental (Comunitario)",
+    "pregunta": "Ante alta demanda de depresión, ansiedad y consumo problemático en un Centro de Salud, ¿qué servicios formales de salud favorecerían la accesibilidad a menor costo para la atención en salud mental? [cite: 1441]",
+    "opciones": {
+      "a": "Hospitales especializados en neuropsiquiatría.",
+      "b": "Servicios de salud mental en la atención primaria de la salud.",
+      "c": "Clínicas privadas de alto costo.",
+      "d": "Programas de internación residencial."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 161,
+    "tema": "Neurocirugía/Oncología",
+    "pregunta": "Julio (60 años) con astenia, debilidad, torpeza en brazo/pierna izquierda, disartria. RM: lesión ocupante de espacio con contraste anular y necrosis central. ¿Cuál es el diagnóstico más probable? [cite: 1448]",
+    "opciones": {
+      "a": "Accidente Cerebrovascular Isquémico.",
+      "b": "Absceso cerebral.",
+      "c": "Glioblastoma.",
+      "d": "Metástasis cerebral única."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 162,
+    "tema": "Cardiología (Infección)",
+    "pregunta": "Alfredo (69 años) con fiebre, pérdida de peso, soplo sistólico, Hb 9, VSG 79, PCR 7.72, RIN 3.4. Antecedente de recambio valvular (Endocarditis Infecciosa). ¿Qué estudio solicita? [cite: 1459]",
+    "opciones": {
+      "a": "Tomografía de tórax.",
+      "b": "Ecocardiograma.",
+      "c": "Angiografía coronaria.",
+      "d": "Radiografía simple de tórax."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 163,
+    "tema": "Cardiología (Insuficiencia Cardíaca)",
+    "pregunta": "Ana María (70 años), HTA, DM, disnea CF IV, TA 170/90, SatO2 88%, crepitantes bilaterales, edemas. (Edema Agudo de Pulmón). ¿Cuál es la conducta más adecuada? [cite: 1467]",
+    "opciones": {
+      "a": "Dieta hiposódica estricta y reposo en casa.",
+      "b": "Solo administrar morfina y sedación.",
+      "c": "Internación, administrar diuréticos de asa y nitroglicerina por vía endovenosa, oxigenoterapia.",
+      "d": "Iniciar antibióticos empíricos."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 164,
+    "tema": "Urología/ITS",
+    "pregunta": "Gladys (28 años) con disuria, polaquiuria, nitritos positivos en tira reactiva (Cistitis aguda). ¿Cuál es la conducta más adecuada? [cite: 1474]",
+    "opciones": {
+      "a": "Internación para antibióticos intravenosos.",
+      "b": "Iniciar tratamiento antibiótico empírico ambulatorio.",
+      "c": "Solo hidratación y analgésicos.",
+      "d": "Esperar el resultado del urocultivo."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 165,
+    "tema": "ITS",
+    "pregunta": "Sergio (33 años) con supuración uretral (Uretritis). ¿Qué tratamiento antibiótico empírico le indica? [cite: 1479]",
+    "opciones": {
+      "a": "Amoxicilina sola.",
+      "b": "Ciprofloxacina oral.",
+      "c": "Ceftriaxona 1gr intramuscular + 1 gr de azitromicina vía oral única dosis.",
+      "d": "Doxiciclina oral por 14 días sola."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 166,
+    "tema": "ITS (Ginecología)",
+    "pregunta": "Paciente joven con prurito y dolor fulgurante, úlceras pequeñas, dolorosas, coalescentes en ramillete en región vulvar. ¿En qué tipo de infección pensaría? [cite: 1485]",
+    "opciones": {
+      "a": "Candidiasis vulvovaginal.",
+      "b": "Sífilis (Chancro).",
+      "c": "Molusco contagioso.",
+      "d": "Primoinfección por virus Herpes Simplex"
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 167,
+    "tema": "Toxicología",
+    "pregunta": "Matrimonio con cefalea intensa, vómitos, decaimiento, inestabilidad, taquicardia, hipotensión, leve midriasis. ¿Cuál es el diagnóstico más probable? [cite: 1491]",
+    "opciones": {
+      "a": "Intoxicación por alimentos.",
+      "b": "Intoxicación por monóxido de carbono.",
+      "c": "Accidente cerebrovascular.",
+      "d": "Crisis hipertensiva."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 168,
+    "tema": "Toxicología",
+    "pregunta": "Paciente en la calle con hipotermia, bradicardia, miosis, bradipnea e hipotensión. ¿Cuál de los siguientes síndrome tóxico puede estar cursando? [cite: 1495]",
+    "opciones": {
+      "a": "Colinergico.",
+      "b": "Anticolinergico.",
+      "c": "Opiáceo.",
+      "d": "Simpaticomimético."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 169,
+    "tema": "Cardiología",
+    "pregunta": "Alicia (90 años), IC, HTA, tabaquismo. FA en ECG (84 lpm). ¿Cuál es la conducta a seguir? [cite: 1501]",
+    "opciones": {
+      "a": "Solo control de la frecuencia.",
+      "b": "Anticoagulación por moderado-alto riesgo de embolia.",
+      "c": "Cardioversión eléctrica.",
+      "d": "Tratamiento antihipertensivo exclusivo."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 170,
+    "tema": "Endocrinología/Nefrología",
+    "pregunta": "Andrea (35 años) con TA 190/100, K 2.5 mEq/L (Hipokalemia) e HTA secundaria. ¿Cuál es el diagnóstico más probable? [cite: 1507]",
+    "opciones": {
+      "a": "Feocromocitoma.",
+      "b": "Estenosis de arteria renal.",
+      "c": "Hiperaldosteronismo primario.",
+      "d": "Enfermedad de Cushing."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 171,
+    "tema": "Dermatología",
+    "pregunta": "Paciente (45 años) con placas eritemato-escamosas de 1 a 10 cm, asintomáticas, en tronco/extremidades y engrosamiento/desmenuzamiento de la placa ungueal. ¿Cuál es el diagnóstico presuntivo? [cite: 1513]",
+    "opciones": {
+      "a": "Dermatitis atópica.",
+      "b": "Liquen plano.",
+      "c": "Psoriasis vulgar.",
+      "d": "Pitiriasis rosada."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 172,
+    "tema": "Cirugía/Emergencia",
+    "pregunta": "Esteban (71 años) con litiasis vesicular múltiple, leve alteración hepática y amilasa sérica 10 veces el valor normal (Pancreatitis aguda biliar). Señale el momento óptimo para realizar la cirugía laparoscópica: [cite: 1519]",
+    "opciones": {
+      "a": "Durante el episodio agudo, en las primeras 72 horas.",
+      "b": "Cuando los síntomas remiten.",
+      "c": "Solo si desarrolla necrosis pancreática.",
+      "d": "A las 6 semanas del alta hospitalaria."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 173,
+    "tema": "Hepatología/Oncología",
+    "pregunta": "Andrés (59 años) con consumo problemático de alcohol, cirrosis hepática. Ecografía: lesión hepática nueva, sólida, de 2 cm. ¿Cuál es el diagnóstico más probable? [cite: 1525]",
+    "opciones": {
+      "a": "Hemangioma hepático.",
+      "b": "Hiperplasia nodular focal.",
+      "c": "Hepatocarcinoma.",
+      "d": "Absceso hepático."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 174,
+    "tema": "Reumatología/Emergencia",
+    "pregunta": "Paciente (30 años) con dolor en rodilla izquierda súbito, síndrome febril, derrame articular a tensión. ¿Cuál sería su conducta inicial? [cite: 1532]",
+    "opciones": {
+      "a": "Indicar reposo y AINES.",
+      "b": "Solicitar resonancia magnética.",
+      "c": "Artrocentesis e iniciar antibióticos.",
+      "d": "Aplicar calor local y fisioterapia."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 175,
+    "tema": "Hematología",
+    "pregunta": "Mujer (58 años) con anemia microcítica hipocrómica (VCM 77, HCM 24.9), Ferritina 5.3 ng/ml (Anemia Ferropénica). Colonoscopía normal hace 5 años. ¿Cuál es la conducta correcta? [cite: 1537]",
+    "opciones": {
+      "a": "Iniciar suplementos de hierro oral y control en 3 meses.",
+      "b": "Solicitar videoendoscopia digestiva alta y videocolonoscopia para estudio de la anemia.",
+      "c": "Solo repetir la colonoscopía.",
+      "d": "Derivar a hematología para transfusión."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 176,
+    "tema": "Nefrología (Pediátrico)",
+    "pregunta": "Matías (16 años) con edemas, albuminemia 2.5, colesterol 300, proteinuria 6 gr/24 hs. ¿Cuál es la etiología más probable? [cite: 1591]",
+    "opciones": {
+      "a": "Glomeruloesclerosis focal y segmentaria.",
+      "b": "Nefropatía por cambios mínimos.",
+      "c": "Glomerulonefritis post-estreptocócica.",
+      "d": "Nefropatía por IgA."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 177,
+    "tema": "Patología Respiratoria/Gastroenterología",
+    "pregunta": "Mujer (76 años), derrame pleural izquierdo, toracocentesis: líquido serohemático, 450 células (linfocitos), relación LDH líquido/plasma: 0,7 y proteínas líquido/plasma: 0,5 (Exudado). ¿Cuál es el diagnóstico más probable? [cite: 1599]",
+    "opciones": {
+      "a": "Derrame pleural paraneumónico.",
+      "b": "Compromiso neoplásico pleural.",
+      "c": "Tuberculosis pleural.",
+      "d": "Embolismo pulmonar."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 178,
+    "tema": "Oncología/Gastroenterología",
+    "pregunta": "Mujer (67 años) con dolor abdominal, fiebre, pérdida de peso. Único hallazgo: ganglio supraclavicular izquierdo (Ganglio de Virchow), adherido, indoloro. ¿Cuál es el diagnóstico más probable? [cite: 1605]",
+    "opciones": {
+      "a": "Linfoma de Hodgkin.",
+      "b": "Cáncer de páncreas.",
+      "c": "Adenitis cervical por micobacteria.",
+      "d": "Cáncer de mama."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 179,
+    "tema": "Leyes y Protocolos",
+    "pregunta": "Según la Ley 26529 sobre derechos de los pacientes, ¿qué autoridad sanitaria debe certificar las copias de la historia clínica cuando se entregan al paciente? [cite: 378]",
+    "opciones": {
+      "a": "El jefe de servicio que atendió al paciente.",
+      "b": "Cualquier empleado administrativo del hospital.",
+      "c": "Profesional a cargo de la Dirección médica del establecimiento",
+      "d": "El profesional de enfermería que realiza el cuidado."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 180,
+    "tema": "Leyes y Protocolos",
+    "pregunta": "De acuerdo con la ley 27.610 de interrupción voluntaria del embarazo, ¿en qué caso queda sin efecto la objeción de conciencia individual y se debe garantizar la práctica? [cite: 382]",
+    "opciones": {
+      "a": "Cuando la persona gestante lo solicita por razones económicas.",
+      "b": "En caso de peligro de la vida o la salud de la persona gestante",
+      "c": "Cuando el embarazo supera la semana 14.",
+      "d": "Si la persona gestante tiene más de 40 años."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 181,
+    "tema": "Leyes y Protocolos",
+    "pregunta": "De acuerdo con la ley 26743/2012 de derecho a identidad de género, ¿cuál de los siguientes es un requisito para solicitar la rectificación registral de sexo? [cite: 386]",
+    "opciones": {
+      "a": "Haberse sometido a cirugías de readecuación corporal.",
+      "b": "Presentar un certificado médico-psiquiátrico.",
+      "c": "Ser mayor de 21 años.",
+      "d": "Expresar el nuevo nombre de pila elegido con el que solicita inscribirse"
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 182,
+    "tema": "Bioquímica/Laboratorio",
+    "pregunta": "¿Cuáles de las siguientes apolipoproteínas se pueden unir a los receptores de membrana para las lipoproteínas de baja densidad? [cite: 5]",
+    "opciones": {
+      "a": "Apo C-II / Apo C-III",
+      "b": "Apo A / Apo E",
+      "c": "Apo B-48 / Apo B-100",
+      "d": "Apo D / Apo H"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 183,
+    "tema": "Bioquímica/Laboratorio",
+    "pregunta": "Las lipoproteínas de alta densidad realizan el transporte reverso del colesterol. ¿Cuál enzimas participan en este proceso? [cite: 9]",
+    "opciones": {
+      "a": "Lipoproteína Lipasa (LPL)",
+      "b": "Lecitina Colesterol Acil Transferasa",
+      "c": "Colesterol Ester Transferasa (CETP)",
+      "d": "Fosfolipasa A2"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 184,
+    "tema": "Bioquímica/Laboratorio",
+    "pregunta": "¿Cuál es el perfil lipídico que acompaña al hipotiroidismo y representa un aumento de riego cardiovascular? [cite: 13]",
+    "opciones": {
+      "a": "Disminución de Colesterol Total y HDL.",
+      "b": "Aumento de Triglicéridos y HDL.",
+      "c": "Aumento de colesterol - LDL y colesterol-No HDL",
+      "d": "Disminución de Triglicéridos y VLDL."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 185,
+    "tema": "Bioquímica/Laboratorio",
+    "pregunta": "En un paciente con riesgo residual y perfil de lípidos dentro de las metas, ¿cuál de las siguientes medidas completa la evaluación del riesgo cardiovascular? [cite: 17]",
+    "opciones": {
+      "a": "Colesterol HDL",
+      "b": "Triglicéridos",
+      "c": "Apo B",
+      "d": "Apo A-I"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 186,
+    "tema": "Bioquímica/Laboratorio",
+    "pregunta": "¿Qué compuesto miden los métodos totalmente enzimáticos para la determinación de la concentración sérica de triglicéridos? [cite: 21]",
+    "opciones": {
+      "a": "Ácidos grasos libres",
+      "b": "Colesterol",
+      "c": "Glicerol",
+      "d": "Fosfolípidos"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 187,
+    "tema": "Bioquímica/Laboratorio",
+    "pregunta": "Para el diagnóstico de la hiperlipemia familiar combinada, ¿cuál de las siguientes determinaciones bioquímicas considera apropiada? [cite: 26]",
+    "opciones": {
+      "a": "Colesterol total - Lipoproteína (a)",
+      "b": "Glucemia - TSH",
+      "c": "Triglicéridos - Apo B",
+      "d": "Creatinina - Urea"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 188,
+    "tema": "Bioquímica/Nefrología",
+    "pregunta": "¿A cuál de las siguientes causas puede deberse la sobreestimación del filtrado glomerular medido con la depuración de creatinina? [cite: 30]",
+    "opciones": {
+      "a": "Reabsorción de creatinina a nivel tubular.",
+      "b": "Unión de la creatinina a proteínas plasmáticas.",
+      "c": "Secreción de creatinina a nivel tubular",
+      "d": "Inactivación de la creatinina por enzimas."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 189,
+    "tema": "Bioquímica/Nefrología",
+    "pregunta": "Si un paciente tiene diagnóstico presuntivo de insuficiencia renal aguda por toxicidad farmacológica, ¿Qué espera encontrar en sus análisis bioquímicos? [cite: 34]",
+    "opciones": {
+      "a": "Excreción fraccional de sodio <1% y cilindros hialinos.",
+      "b": "Elevación de creatininemia, depuración de creatinina < a 20 ml/min/1.73m2, excreción fraccional de sodio >1%, isostenuria, cilindros epiteliales y granulosos en el sedimento urinario",
+      "c": "Depuración de creatinina normal y BUN disminuido.",
+      "d": "Glucosuria y proteinuria selectiva."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 190,
+    "tema": "Bioquímica/Nefrología",
+    "pregunta": "¿En qué estructura renal se reabsorbe el 65 al 75% del calcio? [cite: 38]",
+    "opciones": {
+      "a": "Túbulo colector",
+      "b": "Asa de Henle (rama ascendente gruesa)",
+      "c": "Túbulo próximal",
+      "d": "Túbulo distal"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 191,
+    "tema": "Bioquímica/Nefrología",
+    "pregunta": "Paciente euvolémico, poliuria/nicturia, Na 158 mEq/l, Osm plasmática 326 mOsm/Kg, Osm urinaria 100 mOsm/kg. ¿Qué causa justifican estos resultados? [cite: 45]",
+    "opciones": {
+      "a": "Síndrome de Secreción Inadecuada de ADH (SIADH).",
+      "b": "Ingesta excesiva de agua.",
+      "c": "Diabetes insípida central o nefrogénica",
+      "d": "Insuficiencia renal crónica."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 192,
+    "tema": "Bioquímica/Laboratorio",
+    "pregunta": "¿Qué medida se ve afectada por el fenómeno de exclusión de electrolitos (exclusión de agua plasmática por alta concentración de lípidos/proteínas)? [cite: 49]",
+    "opciones": {
+      "a": "Glucosa y Urea por métodos colorimétricos.",
+      "b": "Na, K y Cl por potenciometría directa.",
+      "c": "Na, K y Cl por potenciometría indirecta",
+      "d": "Calcio total y Magnesio."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 193,
+    "tema": "Bioquímica/Medio Interno",
+    "pregunta": "Paciente con pH=7.18, pCO2=50 mmHg, HCO3-=18 mmol/l, Ácido láctico=5 mmol/l. ¿Cuál es la alteración ácido-base? [cite: 61]",
+    "opciones": {
+      "a": "Alcalosis mixta.",
+      "b": "Acidosis metabólica con anión GAP normal y alcalosis respiratoria.",
+      "c": "Acidosis metabólica con anión GAP aumentado y acidosis respiratoria",
+      "d": "Alcalosis respiratoria con compensación metabólica."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 194,
+    "tema": "Bioquímica/Nefrología",
+    "pregunta": "¿Cuál es la tríada que caracteriza al síndrome nefrótico? [cite: 65]",
+    "opciones": {
+      "a": "Hematuria, hipertensión y azoemia.",
+      "b": "Proteinuria (>3.5g/24hs), hipoalbuminemia y edema",
+      "c": "Glucosuria, poliuria y polidipsia.",
+      "d": "Anuria, oliguria e hiperkalemia."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 195,
+    "tema": "Bioquímica/Enzimología",
+    "pregunta": "¿Qué reacción de resfosforilación cataliza la CK (Creatin Kinasa) durante la contracción muscular? [cite: 69]",
+    "opciones": {
+      "a": "Glucosa a Glucosa-6-fosfato.",
+      "b": "ATP a ADP usando creatina.",
+      "c": "ADP a ATP usando creatin fosfato",
+      "d": "Piruvato a Lactato."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 196,
+    "tema": "Bioquímica/Enzimología",
+    "pregunta": "¿Cuáles unidades componen la estructura del complejo macromolecular que constituye la macrokinasa tipo 1 de CK? [cite: 73]",
+    "opciones": {
+      "a": "CKMM y Albúmina",
+      "b": "CKBB e inmunoglobulinas",
+      "c": "CKMB y Fosfolípidos",
+      "d": "CKMM y Troponinas"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 197,
+    "tema": "Bioquímica/Enzimología",
+    "pregunta": "¿Las alteraciones de qué tejido o sitio anatómico pueden estudiarse con la determinación sérica de Aldolasa? [cite: 77]",
+    "opciones": {
+      "a": "Hígado",
+      "b": "Corazón",
+      "c": "Músculo esquelético",
+      "d": "Riñón"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 198,
+    "tema": "Bioquímica/Enzimología",
+    "pregunta": "¿Cuál es la coenzima requerida en las reacciones catalizadas por las aminotransferasas (AST/ALT)? [cite: 81]",
+    "opciones": {
+      "a": "Tiamina pirofosfato (TPP)",
+      "b": "Piridoxal-5′-fosfato (P5P)",
+      "c": "Flavina adenina dinucleótido (FAD)",
+      "d": "Nicotinamida adenina dinucleótido (NAD+)"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 199,
+    "tema": "Bioquímica/Enzimología",
+    "pregunta": "¿A cuál clase de enzimas pertenece la 5′-Nucleotidase (EC 3.1.3.5)? [cite: 85]",
+    "opciones": {
+      "a": "Oxidorreductasas.",
+      "b": "Transferasas.",
+      "c": "Hidrolasas.",
+      "d": "Liasas."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 200,
+    "tema": "Bioquímica/Enzimología",
+    "pregunta": "¿Qué anticoagulante se debe utilizar al obtener una muestra de sangre para realizar la determinación de la actividad de amilasa en plasma? [cite: 89]",
+    "opciones": {
+      "a": "EDTA",
+      "b": "Citrato de Sodio",
+      "c": "Fluoruro de Sodio",
+      "d": "Heparina"
+    },
+    "respuesta_correcta": "d"
+  }
+]

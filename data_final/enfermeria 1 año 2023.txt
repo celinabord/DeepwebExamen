@@ -1,0 +1,929 @@
+PREGUNTAS 1 A 10 (INVENTADAS)
+1) ¿Cuál es el primer paso en el proceso de enfermería?
+Correcta: Valoración.
+
+Incorrecta 1: Evaluación.
+
+Incorrecta 2: Intervención.
+
+Incorrecta 3: Diagnóstico final.
+
+2) ¿Cuál es la temperatura corporal que define fiebre en adultos?
+Correcta: ≥ 38 °C.
+
+Incorrecta 1: ≥ 36.9 °C.
+
+Incorrecta 2: ≥ 37.2 °C.
+
+Incorrecta 3: ≥ 37.5 °C al tacto.
+
+3) ¿Qué elemento es indispensable para garantizar una técnica estéril?
+Correcta: Lavado de manos quirúrgico.
+
+Incorrecta 1: Uso de guantes no estériles.
+
+Incorrecta 2: Colocación de barbijo solamente.
+
+Incorrecta 3: Rociado de alcohol en el aire.
+
+4) ¿Qué músculo es el sitio recomendado para la aplicación de inyecciones intramusculares en menores de 2 años?
+Correcta: Vasto externo.
+
+Incorrecta 1: Deltoides.
+
+Incorrecta 2: Glúteo mayor.
+
+Incorrecta 3: Trapecio.
+
+5) ¿Qué indica una saturación de oxígeno menor al 90%?
+Correcta: Hipoxemia.
+
+Incorrecta 1: Hipotermia.
+
+Incorrecta 2: Hipertensión pulmonar.
+
+Incorrecta 3: Falla renal.
+
+6) ¿Cuál es la vía más rápida para la administración de medicamentos?
+Correcta: Vía intravenosa.
+
+Incorrecta 1: Vía sublingual.
+
+Incorrecta 2: Vía intradérmica.
+
+Incorrecta 3: Vía tópica.
+
+7) ¿Cuál es la posición recomendada ante un paciente inconsciente con respiración conservada?
+Correcta: Posición lateral de seguridad.
+
+Incorrecta 1: Trendelemburg.
+
+Incorrecta 2: Fowler alto.
+
+Incorrecta 3: Decúbito ventral.
+
+8) ¿Qué órgano regula principalmente el equilibrio ácido-base?
+Correcta: Riñones.
+
+Incorrecta 1: Estómago.
+
+Incorrecta 2: Hígado.
+
+Incorrecta 3: Bazo.
+
+9) ¿Cuál es la presión arterial considerada normal en adultos?
+Correcta: 120/80 mmHg.
+
+Incorrecta 1: 140/100 mmHg.
+
+Incorrecta 2: 90/50 mmHg.
+
+Incorrecta 3: 160/110 mmHg.
+
+10) ¿Cuál es el objetivo principal del triage?
+Correcta: Priorizar la atención según gravedad.
+
+Incorrecta 1: Ordenar por orden de llegada.
+
+Incorrecta 2: Clasificar por edad.
+
+Incorrecta 3: Seleccionar quién será internado.
+11) ¿Qué se recomienda realizar para la interpretación y uso de las nuevas tablas de referencia de presión arterial para niños, niñas y adolescentes, si no se dispone del mango apropiado para la toma?
+
+Correcta: Utilizar un mango más grande.
+
+Incorrecta 1: Utilizar el mango más pequeño disponible.
+
+Incorrecta 2: Tomar la presión sin manguito.
+
+Incorrecta 3: Inflar el manguito a la mitad para compensar.
+
+12) ¿Qué derechos tiene la persona gestante durante el trabajo de parto, parto y puerperio en cuanto a la persona acompañante?
+
+Correcta: Puede elegir a la persona que la acompañe todo el tiempo en esos procesos.
+
+Incorrecta 1: Solo puede elegir un familiar de primer grado.
+
+Incorrecta 2: Puede elegir acompañante pero solo durante el trabajo de parto.
+
+Incorrecta 3: Debe ser acompañado únicamente por personal sanitario.
+
+13) ¿Cuáles son los niveles de ansiedad que definió Peplau (1963)?
+
+Correcta: Leve, moderada, grave y pánico.
+
+Incorrecta 1: Leve, intensa, profunda y terminal.
+
+Incorrecta 2: Baja, media, aguda y extrema.
+
+Incorrecta 3: Primaria, secundaria, intermedia y severa.
+
+14) ¿Qué elementos contempla la Enfermería basada en la evidencia (EBE)?
+
+Correcta: Evidencia científica, experiencia profesional y la opinión del usuario.
+
+Incorrecta 1: Protocolos institucionales, normas y supervisiones.
+
+Incorrecta 2: Diagnóstico, tratamiento y rehabilitación.
+
+Incorrecta 3: Evaluación, auditoría y reporte profesional.
+
+15) ¿A qué edad comienzan a manifestarse las caries?
+
+Correcta: Antes del año.
+
+Incorrecta 1: Entre los 2 y 3 años.
+
+Incorrecta 2: A partir de los 5 años.
+
+Incorrecta 3: Solo cuando salen las muelas definitivas.
+
+16) Relación adecuada entre compresiones torácicas y ventilaciones en RCP en mayores de 1 año:
+
+Correcta: 30 compresiones torácicas seguidas de 2 ventilaciones.
+
+Incorrecta 1: 20 compresiones y 5 ventilaciones.
+
+Incorrecta 2: 10 compresiones y 3 ventilaciones.
+
+Incorrecta 3: 5 compresiones por cada ventilación.
+
+17) Objetivo principal de la maniobra de Heimlich:
+
+Correcta: Desobstrucción de la vía aérea.
+
+Incorrecta 1: Estimular respiración en pacientes con apnea.
+
+Incorrecta 2: Facilitar la ventilación mecánica.
+
+Incorrecta 3: Controlar una hemorragia nasal.
+
+18) ¿Qué hacer si se inicia RCP y el DEA tarda más de 10 min?
+
+Correcta: Continuar realizando RCP hasta conseguir un DEA.
+
+Incorrecta 1: Detener la RCP a los 10 minutos.
+
+Incorrecta 2: Cambiar a ventilaciones únicamente.
+
+Incorrecta 3: Administrar agua y esperar asistencia.
+
+19) Ángulos de inserción de aguja según vía de administración de vacunas:
+
+Correcta: 15°, 45°, 90°.
+
+Incorrecta 1: 30°, 60°, 120°.
+
+Incorrecta 2: 20°, 50°, 80°.
+
+Incorrecta 3: 10°, 30°, 70°.
+
+20) ¿Quiénes llevan a cabo la farmacodinamia?
+
+Correcta: Células, tejidos u organismos.
+
+Incorrecta 1: Sustancias ácidas y bacterias.
+
+Incorrecta 2: Enzimas, hormonas y parásitos.
+
+Incorrecta 3: Vitaminas, minerales y electrolitos.
+
+21) ¿Qué es la desinfección?
+
+Correcta: Proceso físico o químico donde se eliminan microorganismos de objetos inanimados.
+
+Incorrecta 1: Eliminación de suciedad visible.
+
+Incorrecta 2: Uso de calor seco únicamente.
+
+Incorrecta 3: Eliminación de todo microorganismo incluido esporas.
+
+22) Primera medida inicial en hemorragia postparto:
+
+Correcta: Evaluar el estado clínico general.
+
+Incorrecta 1: Colocar catéter 24G como primera acción.
+
+Incorrecta 2: Masajear el útero sin evaluación previa.
+
+Incorrecta 3: Administrar misoprostol inmediatamente.
+
+23) Recomendación del Ministerio sobre catéteres centrales (Prevención cuaternaria):
+
+Correcta: Se recomienda monitorizar y revisar diariamente para garantizar su uso.
+
+Incorrecta 1: Cambiarlo cada 8 horas.
+
+Incorrecta 2: Mantenerlo indefinidamente sin revisión.
+
+Incorrecta 3: Cambiarlo solo cuando venas periféricas se ocluyen.
+
+24) Definición de anticuerpo:
+
+Correcta: Proteína producida por el organismo en respuesta a antígenos.
+
+Incorrecta 1: Sustancia lipídica que recubre células inmunes.
+
+Incorrecta 2: Un tipo específico de antígeno.
+
+Incorrecta 3: Un virus que induce respuesta inmune.
+
+25) Factor cuya ausencia puede causar errores catastróficos según OMS:
+
+Correcta: Identificación del paciente.
+
+Incorrecta 1: Control de temperatura ambiental.
+
+Incorrecta 2: Disponibilidad de guantes estériles.
+
+Incorrecta 3: Limpieza diaria de la sala.
+
+26) Etapas del puerperio:
+
+Correcta: Inmediato, precoz, alejado y tardío.
+
+Incorrecta 1: Inicial, medio, final y crónico.
+
+Incorrecta 2: Preinmediato, mediato y ultratardío.
+
+Incorrecta 3: Posparto básico y avanzado.
+
+27) Volumen corriente (VC):
+
+Correcta: Cantidad de aire de unos 500 ml que entra y sale de los pulmones.
+
+Incorrecta 1: Volumen que permanece tras espiración forzada (1000 ml).
+
+Incorrecta 2: Aire inspirado en esfuerzo máximo (3000 ml).
+
+Incorrecta 3: Volumen residual permanente.
+
+28) Cultivo que estudia secreciones pulmonares:
+
+Correcta: Esputo.
+
+Incorrecta 1: Hemocultivo.
+
+Incorrecta 2: Coproparasitario.
+
+Incorrecta 3: Cultivo faríngeo.
+
+29) Atributos del cuidado humanizado según Cruz Riveros:
+
+Correcta: Ser humano sujeto de cuidado, comunicación y enfoque holístico.
+
+Incorrecta 1: Priorizar enfermedad sobre persona.
+
+Incorrecta 2: Cuidado técnico sin interacción.
+
+Incorrecta 3: Intervención basada solo en evidencia científica.
+
+30) Datos para evaluación antropométrica:
+
+Correcta: Peso, talla e IMC.
+
+Incorrecta 1: Peso, edad y nivel de actividad.
+
+Incorrecta 2: Perímetro craneal, edad y talla.
+
+Incorrecta 3: IMC, edad gestacional y sexo.
+
+31) Primer punto del algoritmo de paro cardíaco AHA:
+
+Correcta: Iniciar RCP, administrar oxígeno y conectar monitor/desfibrilador.
+
+Incorrecta 1: Administrar adrenalina inmediatamente.
+
+Incorrecta 2: Realizar solo ventilaciones.
+
+Incorrecta 3: Trasladar al paciente antes de iniciar maniobras.
+
+32) Osmolaridad recomendada vía periférica:
+
+Correcta: Menor a 600 mOsm/L.
+
+Incorrecta 1: Mayor de 1500 mOsm/L.
+
+Incorrecta 2: Exactamente 1000 mOsm/L.
+
+Incorrecta 3: Entre 800 y 1200 mOsm/L.
+
+33) Terapia de oxígeno en disnea no hipóxica:
+
+Correcta: No utilizar oxígeno.
+
+Incorrecta 1: Administrar oxígeno a alto flujo.
+
+Incorrecta 2: Utilizar oxígeno cada vez que haya disnea.
+
+Incorrecta 3: Colocar mascarilla reservorio por precaución.
+
+34) Capacidad ventilatoria: aire que queda tras espiración normal:
+
+Correcta: Residual funcional.
+
+Incorrecta 1: Vital.
+
+Incorrecta 2: Inspiratoria forzada.
+
+Incorrecta 3: Pulmonar total.
+
+35) Sedación en urgencia de salud mental:
+
+Correcta: Haloperidol y Lorazepam.
+
+Incorrecta 1: Clonazepam con morfina.
+
+Incorrecta 2: Midazolam solo.
+
+Incorrecta 3: Risperidona y diazepam oral.
+
+36) Primera etapa de CoPaP:
+
+Correcta: Llanto de nacimiento.
+
+Incorrecta 1: Exploración motriz.
+
+Incorrecta 2: Reposo profundo.
+
+Incorrecta 3: Movimiento coordinado.
+
+37) Compresiones por minuto en RCP adulto según AHA:
+
+Correcta: 100–120 por minuto.
+
+Incorrecta 1: 60–80 por minuto.
+
+Incorrecta 2: 130–150 por minuto.
+
+Incorrecta 3: 150–180 por minuto.
+
+38) Funciones de enfermería en Atención Primaria:
+
+Correcta: Asistencial, formar, gestionar e investigar.
+
+Incorrecta 1: Solo asistencial.
+
+Incorrecta 2: Dirigir exclusivamente programas.
+
+Incorrecta 3: Control administrativo sin intervención clínica.
+
+39) Función principal de los pelos nasales:
+
+Correcta: Filtrar el aire.
+
+Incorrecta 1: Humidificar aire.
+
+Incorrecta 2: Capturar CO₂.
+
+Incorrecta 3: Regular temperatura interna.
+
+40) ¿Qué es la “primera hora de vida”?
+
+Correcta: Adaptación neonatal al medio extrauterino e inicio de lactancia.
+
+Incorrecta 1: Tiempo previo al baño del recién nacido.
+
+Incorrecta 2: Momento entre alumbramiento y control materno.
+
+Incorrecta 3: Periodo entre piel a piel y alta hospitalaria.
+
+41) Antiséptico de primera elección para inserción y cuidado del CVP corto:
+Correcta: Clorhexidina alcohólica.
+
+Incorrecta 1: Alcohol al 70%.
+
+Incorrecta 2: Agua oxigenada.
+
+Incorrecta 3: Povidona yodada diluida.
+
+42) Requisitos para plantear correctamente los objetivos de investigación:
+Correcta: Iniciar con verbo infinitivo, ser alcanzable, lógico y coherente.
+
+Incorrecta 1: Iniciar con adjetivos y detallar conclusiones.
+
+Incorrecta 2: Tener más de 10 líneas mínimas.
+
+Incorrecta 3: Formularse sin relación al problema.
+
+43) (Inventada para mantener continuidad) ¿Qué representa el pulso pedio?
+Correcta: Perfusión arterial distal.
+
+Incorrecta 1: Presión venosa central.
+
+Incorrecta 2: Flujo linfático superficial.
+
+Incorrecta 3: Oxigenación pulmonar.
+
+44) (Inventada) ¿Qué significa el término "asepsia"?
+Correcta: Ausencia de microorganismos patógenos.
+
+Incorrecta 1: Eliminación total de esporas.
+
+Incorrecta 2: Limpieza de superficies visiblemente sucias.
+
+Incorrecta 3: Reducción de agentes químicos.
+
+45) (Inventada) ¿Qué indica un GCS (Glasgow) de 8?
+Correcta: Coma.
+
+Incorrecta 1: Somnolencia leve.
+
+Incorrecta 2: Estado de alerta.
+
+Incorrecta 3: Confusión leve.
+
+46) (Inventada) ¿Cuál es el mejor sitio para medir temperatura axilar?
+Correcta: Zona central de la axila con brazo aducido.
+
+Incorrecta 1: Sobre la ropa.
+
+Incorrecta 2: Sobre la clavícula.
+
+Incorrecta 3: En la palma de la mano.
+
+47) (Inventada) ¿Qué parámetro indica deshidratación moderada?
+Correcta: Llenado capilar > 2 segundos.
+
+Incorrecta 1: Sudoración excesiva.
+
+Incorrecta 2: Pulso lleno y fuerte.
+
+Incorrecta 3: Ruidos intestinales aumentados.
+
+48) (Inventada) ¿Qué vía se recomienda para administración de adrenalina en anafilaxia?
+Correcta: Intramuscular.
+
+Incorrecta 1: Subcutánea.
+
+Incorrecta 2: Intradérmica.
+
+Incorrecta 3: Tópica.
+
+49) (Inventada) ¿Cuál es un signo temprano de sepsis?
+Correcta: Taquicardia.
+
+Incorrecta 1: Bradicardia.
+
+Incorrecta 2: Piel fría marmórea inicial.
+
+Incorrecta 3: Hipotermia marcada de entrada.
+
+50) (Inventada) ¿Qué indica un FR > 30 en adulto?
+Correcta: Taquipnea.
+
+Incorrecta 1: Bradipnea.
+
+Incorrecta 2: Eupnea.
+
+Incorrecta 3: Apenustia.
+
+51) (Inventada) ¿Qué elemento es fundamental en la técnica de RCP de calidad?
+Correcta: Permitir la expansión completa del tórax entre compresiones.
+
+Incorrecta 1: Pausar compresiones para descansar cada 20 segundos.
+
+Incorrecta 2: Comprimir rápido sin ritmo definido.
+
+Incorrecta 3: Ventilar más de 20 veces por minuto.
+
+52) (Inventada) ¿Cuándo se debe lavar las manos según OMS?
+Correcta: Antes y después del contacto con el paciente.
+
+Incorrecta 1: Únicamente al final del turno.
+
+Incorrecta 2: Solo cuando haya suciedad visible.
+
+Incorrecta 3: Solo antes de procedimientos invasivos.
+
+53) (Inventada) ¿Cuál es el valor normal de frecuencia cardíaca en adulto?
+Correcta: 60–100 lpm.
+
+Incorrecta 1: 20–40 lpm.
+
+Incorrecta 2: 110–150 lpm.
+
+Incorrecta 3: 40–55 lpm.
+
+54) (Inventada) ¿Cuál es la vía recomendada para hidratación en deshidratación leve?
+Correcta: Vía oral.
+
+Incorrecta 1: Intradérmica.
+
+Incorrecta 2: Intratecal.
+
+Incorrecta 3: Subcutánea.
+
+55) (Inventada) ¿Qué indica piel pálida y fría?
+Correcta: Hipoperfusión.
+
+Incorrecta 1: Fiebre.
+
+Incorrecta 2: Hiperhidratación.
+
+Incorrecta 3: Broncoespasmo.
+
+56) (Inventada) El triage de color rojo indica:
+Correcta: Atención inmediata.
+
+Incorrecta 1: Baja prioridad.
+
+Incorrecta 2: Atención demorable.
+
+Incorrecta 3: Paciente ambulatorio.
+
+57) (Inventada) ¿Cuál es el riesgo principal del reposo prolongado?
+Correcta: Tromboembolismo venoso.
+
+Incorrecta 1: Hipertiroidismo.
+
+Incorrecta 2: Hiperhidratación.
+
+Incorrecta 3: Hipoglucemia.
+
+58) (Inventada) ¿Cuál es el nivel de conciencia más bajo?
+Correcta: Coma.
+
+Incorrecta 1: Desorientación.
+
+Incorrecta 2: Letargo.
+
+Incorrecta 3: Confusión.
+
+59) (Inventada) ¿Qué acción es prioritaria en una hipoglucemia severa?
+Correcta: Administrar glucosa EV.
+
+Incorrecta 1: Ofrecer alimentos sólidos.
+
+Incorrecta 2: Indicar reposo.
+
+Incorrecta 3: Administrar suero fisiológico.
+
+60) (Inventada) ¿Qué examen confirma anemia?
+Correcta: Hemoglobina baja.
+
+Incorrecta 1: Plaquetas altas.
+
+Incorrecta 2: Sodio elevado.
+
+Incorrecta 3: Leucocitosis aislada.
+
+61) (Inventada) ¿Qué posición facilita la respiración en disnea?
+Correcta: Fowler.
+
+Incorrecta 1: Decúbito prono.
+
+Incorrecta 2: Trendelemburg.
+
+Incorrecta 3: Rodillas al pecho.
+
+62) (Inventada) ¿Qué indica una presión diferencial muy baja?
+Correcta: Shock.
+
+Incorrecta 1: Fiebre.
+
+Incorrecta 2: Hiperkalemia.
+
+Incorrecta 3: Hipotiroidismo.
+
+63) (Inventada) ¿Qué electrolito controla la contracción muscular?
+Correcta: Calcio.
+
+Incorrecta 1: Cloro.
+
+Incorrecta 2: Hierro.
+
+Incorrecta 3: Vitamina K.
+
+64) (Inventada) ¿Qué significa FR 10 en adulto?
+Correcta: Bradipnea.
+
+Incorrecta 1: Hipopnea severa.
+
+Incorrecta 2: Taquipnea.
+
+Incorrecta 3: Eupnea.
+
+65) (Inventada) ¿Qué hacer ante convulsión?
+Correcta: Proteger la cabeza del paciente.
+
+Incorrecta 1: Sujetar extremidades fuertemente.
+
+Incorrecta 2: Colocar objeto en la boca.
+
+Incorrecta 3: Administrar líquidos por vía oral.
+
+66) (Inventada) ¿Qué valor de glucemia indica diabetes?
+Correcta: ≥ 126 mg/dL en ayunas.
+
+Incorrecta 1: ≥ 90 mg/dL.
+
+Incorrecta 2: ≥ 110 mg/dL.
+
+Incorrecta 3: ≥ 150 mg/dL postprandial inmediato.
+
+67) (Inventada) ¿Qué parámetro evalúa la escala EVA?
+Correcta: Dolor.
+
+Incorrecta 1: Ansiedad.
+
+Incorrecta 2: Perfusión.
+
+Incorrecta 3: Oxigenación.
+
+68) (Inventada) ¿Qué indica una FC de 40 lpm en adulto?
+Correcta: Bradicardia.
+
+Incorrecta 1: Hipertensión arterial.
+
+Incorrecta 2: Taquicardia.
+
+Incorrecta 3: Hipoxemia.
+
+69) (Inventada) ¿Cuál es el riesgo de una vía periférica sin control prolongado?
+Correcta: Flebitis.
+
+Incorrecta 1: Hipoglucemia.
+
+Incorrecta 2: Hipertrofia muscular.
+
+Incorrecta 3: Hipocalcemia.
+
+70) (Inventada) ¿En qué caso se usa máscara con reservorio?
+Correcta: Hipoxemia severa.
+
+Incorrecta 1: Dolor abdominal.
+
+Incorrecta 2: Cefalea tensional.
+
+Incorrecta 3: Vómitos aislados.
+71) (Inventada) ¿Cuál es el objetivo principal del control de signos vitales?
+Correcta: Evaluar el estado fisiológico del paciente.
+
+Incorrecta 1: Diagnosticar enfermedades complejas.
+
+Incorrecta 2: Determinar el tipo de medicación a indicar.
+
+Incorrecta 3: Evaluar exclusivamente el estado emocional.
+
+72) (Inventada) ¿Qué valor se considera fiebre en un lactante?
+Correcta: ≥ 38 °C rectal.
+
+Incorrecta 1: 37 °C axilar.
+
+Incorrecta 2: 36.5 °C timpánica.
+
+Incorrecta 3: 37.3 °C inguinal.
+
+73) (Inventada) ¿Cuál es la vía de elección para administrar medicación durante un paro cardíaco?
+Correcta: Intravenosa.
+
+Incorrecta 1: Tópica.
+
+Incorrecta 2: Oral.
+
+Incorrecta 3: Subcutánea.
+
+74) (Inventada) ¿Qué complicación puede producir un catéter mal fijado?
+Correcta: Extravasación.
+
+Incorrecta 1: Hiperglucemia.
+
+Incorrecta 2: Insuficiencia respiratoria.
+
+Incorrecta 3: Aumento de temperatura corporal.
+
+75) (Inventada) ¿Cuál es el objetivo del lavado de manos clínico?
+Correcta: Reducir la flora transitoria.
+
+Incorrecta 1: Esterilizar completamente la piel.
+
+Incorrecta 2: Aumentar la humedad de las manos.
+
+Incorrecta 3: Eliminar virus resistentes exclusivamente.
+
+76) (Inventada) ¿Qué indica un pulso filiforme?
+Correcta: Perfusión deficiente.
+
+Incorrecta 1: Perfusión normal.
+
+Incorrecta 2: Sobrehidratación.
+
+Incorrecta 3: Hipertiroidismo.
+
+77) (Inventada) ¿Cuál es la complicación más frecuente del reposo prolongado en cama?
+Correcta: Úlceras por presión.
+
+Incorrecta 1: Hepatitis.
+
+Incorrecta 2: Pancreatitis.
+
+Incorrecta 3: Miopía.
+
+78) Masa ovárica heterogénea con doppler (+). ¿Qué estudio complementario solicitar?
+Correcta: Marcadores tumorales.
+
+Incorrecta 1: Radiografía simple de abdomen.
+
+Incorrecta 2: Ecografía mamaria.
+
+Incorrecta 3: TAC de cráneo.
+
+79) Diseño más adecuado para enfermedad de baja prevalencia y múltiples factores de riesgo:
+Correcta: Estudio de casos y controles.
+
+Incorrecta 1: Estudio poblacional masivo.
+
+Incorrecta 2: Estudio clínico aleatorio.
+
+Incorrecta 3: Ensayo no controlado.
+
+80) Soplo sistólico eyectivo que se atenúa al sentarse en niña de 10 años:
+Correcta: Soplo funcional.
+
+Incorrecta 1: Estenosis pulmonar.
+
+Incorrecta 2: Comunicación interauricular.
+
+Incorrecta 3: Insuficiencia tricuspídea.
+
+81) Hernia inguinoescrotal dolorosa + acidosis + hiperlactacidemia:
+Correcta: Colocación de sonda nasogástrica y cirugía urgente.
+
+Incorrecta 1: Administrar analgésico y dar alta.
+
+Incorrecta 2: Realizar solo radiografía y observar.
+
+Incorrecta 3: Reposo en cama por 24 horas.
+
+82) Gold standard para diagnóstico de cáncer de endometrio:
+Correcta: Dilatación cervical + legrado biópsico fraccionado con histeroscopia.
+
+Incorrecta 1: Papanicolaou.
+
+Incorrecta 2: Resonancia sin contraste.
+
+Incorrecta 3: Cultivo endometrial.
+
+83) Gestante 33 semanas con sangrado rojo oscuro + tono aumentado:
+Correcta: Desprendimiento de placenta normoinserta.
+
+Incorrecta 1: Placenta previa.
+
+Incorrecta 2: Hemorroides sangrantes.
+
+Incorrecta 3: Pólipo cervical benigno.
+
+84) Inicio de insulina en diabetes tipo 2:
+Correcta: Pérdida de peso no planificada asociada a hiperglucemia.
+
+Incorrecta 1: Por malestar inespecífico.
+
+Incorrecta 2: Solo por mal control dietario.
+
+Incorrecta 3: Con glucemias normales alteradas.
+
+85) ¿Cuándo se debe continuar lactancia?
+Correcta: Mastitis unilateral.
+
+Incorrecta 1: VIH materno positivo.
+
+Incorrecta 2: Tuberculosis activa sin tratamiento.
+
+Incorrecta 3: Infección bacteriana grave del RN.
+
+86) Epistaxis en pediatría: ¿cuándo pedir laboratorio?
+Correcta: Epistaxis graves o recurrentes sin causa local.
+
+Incorrecta 1: En cualquier primer episodio.
+
+Incorrecta 2: Si hubo llanto intenso previo.
+
+Incorrecta 3: Si tomó bebidas calientes.
+
+87) Lactante 15 días con aumento normal de peso, madre cree que tiene hambre:
+Correcta: Evaluar técnica de lactancia y continuar pecho exclusivo.
+
+Incorrecta 1: Suspender lactancia y dar fórmula.
+
+Incorrecta 2: Administrar suero glucosado.
+
+Incorrecta 3: Dar agua para “llenar el estómago”.
+
+88) Adolescente con anemia, blastos y hemorragias:
+Correcta: Leucemia aguda.
+
+Incorrecta 1: Dengue hemorrágico.
+
+Incorrecta 2: Alergia medicamentosa.
+
+Incorrecta 3: Hipotiroidismo.
+
+89) Mujer con pérdida brusca de visión + VSG 80 mm/h:
+Correcta: Neuropatía óptica isquémica arterítica.
+
+Incorrecta 1: Glaucoma crónico.
+
+Incorrecta 2: Retinopatía diabética leve.
+
+Incorrecta 3: Catarata incipiente.
+
+90) Primigesta 35 semanas, HTA, enzimas elevadas, proteinuria +++:
+Correcta: Tratamiento antihipertensivo, sulfato de Mg e inducción al parto.
+
+Incorrecta 1: Administración exclusiva de hidratación oral.
+
+Incorrecta 2: Dejar evolucionar sin intervención.
+
+Incorrecta 3: Reposo domiciliario.
+
+91) Vacunas en control de salud de 18 meses:
+Correcta: Pentavalente, IPV, refuerzo de meningococo, varicela y antigripal.
+
+Incorrecta 1: Hexavalente y rotavirus.
+
+Incorrecta 2: Solo antigripal.
+
+Incorrecta 3: Hepatitis A y triple bacteriana.
+
+92) ¿Por qué se produce un DIP variable en monitoreo fetal?
+Correcta: Por compresión del cordón.
+
+Incorrecta 1: Por encaje cefálico.
+
+Incorrecta 2: Por hipoxia materna.
+
+Incorrecta 3: Por contracciones uterinas intensas.
+
+93) MAPA 24 h promedio 138/90 mmHg:
+Correcta: Confirma diagnóstico de hipertensión arterial.
+
+Incorrecta 1: Indica prehipotensión.
+
+Incorrecta 2: Sugiere cuadro ansioso.
+
+Incorrecta 3: No tiene relevancia clínica.
+
+94) Lactante 6 meses con nitritos ++ y leucocituria:
+Correcta: Realizar urocultivo e iniciar ATB oral.
+
+Incorrecta 1: Dar solo analgésicos.
+
+Incorrecta 2: Dar líquidos y observar.
+
+Incorrecta 3: Repetir muestra en 48 h sin tratar.
+
+95) ¿Para qué se solicita MAPA?
+Correcta: Hipertensión de guardapolvo blanco.
+
+Incorrecta 1: Hipotensión severa.
+
+Incorrecta 2: Arritmias.
+
+Incorrecta 3: Hipoglucemia.
+
+96) ¿Qué tipo de prevención es la toma de PA?
+Correcta: Prevención secundaria.
+
+Incorrecta 1: Prevención cuaternaria.
+
+Incorrecta 2: Prevención terciaria.
+
+Incorrecta 3: Prevención primordial.
+
+97) Profilaxis por Haemophilus influenzae en guardería:
+Correcta: Todos los contactos cercanos menores de 4 años, aunque estén vacunados.
+
+Incorrecta 1: Solo los vacunados.
+
+Incorrecta 2: Solo los adultos.
+
+Incorrecta 3: Solo hermanos convivientes.
+
+98) Ventaja de estudios de cohorte:
+Correcta: Permiten estudiar varios eventos simultáneamente.
+
+Incorrecta 1: Evaluar enfermedades rarísimas.
+
+Incorrecta 2: Determinar causalidad inmediata.
+
+Incorrecta 3: Garantizar 100% de seguimiento.
+
+99) Niño con fiebre, dolor de cadera, leucocitosis 30.000 y líquido articular:
+Correcta: Artritis séptica.
+
+Incorrecta 1: Displasia de cadera.
+
+Incorrecta 2: Traumatismo leve.
+
+Incorrecta 3: Dolor de crecimiento.
+
+100) Adulto fumador con disnea y tos crónica:
+Correcta: Espirometría con prueba post broncodilatador.
+
+Incorrecta 1: Radiografía de manos.
+
+Incorrecta 2: Electrocardiograma únicamente.
+
+Incorrecta 3: Test de esfuerzo sin evaluación pulmonar.
+

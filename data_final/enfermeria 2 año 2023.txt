@@ -1,0 +1,897 @@
+1) ¿Qué es el proceso de enfermería?
+Correcta: Una metodología científica para organizar el cuidado.
+
+Incorrecta 1: Un sistema para registrar datos administrativos.
+
+Incorrecta 2: Un método exclusivo para emergencias.
+
+Incorrecta 3: Una técnica de comunicación institucional.
+
+2) ¿Cuál es el primer paso del proceso de enfermería?
+Correcta: Valoración.
+
+Incorrecta 1: Diagnóstico.
+
+Incorrecta 2: Intervención.
+
+Incorrecta 3: Evaluación.
+
+3) ¿Cuál es el objetivo del diagnóstico de enfermería?
+Correcta: Identificar respuestas humanas a problemas de salud.
+
+Incorrecta 1: Establecer el tratamiento médico.
+
+Incorrecta 2: Determinar la terapia farmacológica.
+
+Incorrecta 3: Definir pronóstico clínico.
+
+4) ¿Qué caracteriza a un paciente con riesgo de aspiración?
+Correcta: Dificultad para gestionar su secreción salival.
+
+Incorrecta 1: Fiebre persistente sin foco.
+
+Incorrecta 2: Edema en extremidades.
+
+Incorrecta 3: Hiperhidratación.
+
+5) ¿Cuál es el nivel de prevención que corresponde a la educación sanitaria?
+Correcta: Prevención primaria.
+
+Incorrecta 1: Prevención terciaria.
+
+Incorrecta 2: Prevención cuaternaria.
+
+Incorrecta 3: Prevención de soporte.
+
+6) ¿Qué indica taquicardia persistente?
+Correcta: Posible hipovolemia o dolor.
+
+Incorrecta 1: Hiperglucemia compensada.
+
+Incorrecta 2: Recuperación respiratoria.
+
+Incorrecta 3: Ingesta excesiva de proteínas.
+
+7) ¿Qué se evalúa en el Glasgow Coma Scale?
+Correcta: Respuesta ocular, verbal y motora.
+
+Incorrecta 1: Reflejos, postura y pupilas.
+
+Incorrecta 2: Dolor, orientación y movimientos finos.
+
+Incorrecta 3: Presión arterial y saturación.
+
+8) ¿Cuál es el valor normal de saturación de oxígeno?
+Correcta: 95–100%.
+
+Incorrecta 1: 80–85%.
+
+Incorrecta 2: 60–70%.
+
+Incorrecta 3: 88–92% en sujetos sanos.
+
+9) En una hipoglucemia, ¿qué debe administrarse primero en un paciente consciente?
+Correcta: Carbohidratos de acción rápida.
+
+Incorrecta 1: Agua.
+
+Incorrecta 2: Leche descremada.
+
+Incorrecta 3: Sodio intravenoso.
+
+10) ¿Qué indica un llenado capilar mayor a 3 segundos?
+Correcta: Hipoperfusión.
+
+Incorrecta 1: Aumento de gasto cardíaco.
+
+Incorrecta 2: Hidratación adecuada.
+
+Incorrecta 3: Mejora circulatoria.
+
+11) ¿Cuál es el objetivo del lavado de manos quirúrgico?
+Correcta: Reducir al máximo la flora residente y transitoria.
+
+Incorrecta 1: Hidratar la piel.
+
+Incorrecta 2: Aumentar la temperatura corporal.
+
+Incorrecta 3: Desinfectar solamente uñas.
+
+12) ¿Qué vía es preferida para medicación de emergencia?
+Correcta: Intravenosa.
+
+Incorrecta 1: Tópica.
+
+Incorrecta 2: Sublingual.
+
+Incorrecta 3: Rectal.
+
+13) ¿Cuál es el principal riesgo de una vía periférica sin control?
+Correcta: Flebitis.
+
+Incorrecta 1: Hiponatremia.
+
+Incorrecta 2: Taquicardia supraventricular.
+
+Incorrecta 3: Fiebre por ansiedad.
+
+14) ¿Qué indica un pulso débil y rápido?
+Correcta: Shock.
+
+Incorrecta 1: Ansiedad leve.
+
+Incorrecta 2: Hipoglucemia leve.
+
+Incorrecta 3: Digestión lenta.
+
+15) ¿Cuál es la presión arterial considerada hipertensión estadio 1?
+Correcta: ≥ 140/90 mmHg.
+
+Incorrecta 1: ≥ 120/70 mmHg.
+
+Incorrecta 2: ≥ 100/60 mmHg.
+
+Incorrecta 3: ≥ 110/80 mmHg.
+
+16) ¿Qué caracteriza a una respiración Kussmaul?
+Correcta: Profunda y rápida, típica de acidosis metabólica.
+
+Incorrecta 1: Superficial y pausada.
+
+Incorrecta 2: Ruidosa y obstructiva.
+
+Incorrecta 3: Irregular con pausas prolongadas.
+
+17) ¿Qué debe realizarse ante sospecha de sepsis?
+Correcta: Tomar hemocultivos y comenzar antibióticos tempranos.
+
+Incorrecta 1: Administrar líquidos sin evaluación.
+
+Incorrecta 2: Esperar 24 h para observar evolución.
+
+Incorrecta 3: Evaluar solo presión arterial.
+
+18) ¿Cuál es el objetivo de la oxigenoterapia?
+Correcta: Corregir hipoxemia.
+
+Incorrecta 1: Disminuir temperatura corporal.
+
+Incorrecta 2: Mejorar digestión.
+
+Incorrecta 3: Aumentar frecuencia cardíaca.
+
+19) ¿Qué complicación produce la inmovilidad prolongada?
+Correcta: Úlceras por presión.
+
+Incorrecta 1: Hipertensión arterial.
+
+Incorrecta 2: Aumento de masa muscular.
+
+Incorrecta 3: Hipertiroidismo.
+
+20) ¿Cuál es la temperatura febril considerada hipertermia severa?
+Correcta: ≥ 40 °C.
+
+Incorrecta 1: 37.2 °C.
+
+Incorrecta 2: 38.1 °C.
+
+Incorrecta 3: 36.0 °C.
+
+21) ¿Cuál es la posición recomendada para mejorar la ventilación?
+Correcta: Fowler.
+
+Incorrecta 1: Trendelemburg.
+
+Incorrecta 2: Decúbito prono ante fatiga leve.
+
+Incorrecta 3: Posición fetal.
+
+22) ¿Qué indica una PA de 90/40 mmHg?
+Correcta: Hipotensión.
+
+Incorrecta 1: Normotensión.
+
+Incorrecta 2: Hipertensión leve.
+
+Incorrecta 3: Hipertensión sistólica aislada.
+
+23) ¿Qué parámetro indica mejor perfusión tisular?
+Correcta: Llenado capilar.
+
+Incorrecta 1: Peso corporal.
+
+Incorrecta 2: Talla.
+
+Incorrecta 3: Circunferencia torácica.
+
+24) ¿Qué tipo de aislamiento corresponde a tuberculosis?
+Correcta: Aislamiento respiratorio (aire).
+
+Incorrecta 1: Aislamiento entérico.
+
+Incorrecta 2: Aislamiento por contacto.
+
+Incorrecta 3: Aislamiento por gotas pesadas.
+
+25) ¿Cuál es el mejor indicador de hidratación en niños?
+Correcta: Signos clínicos (mucosas, diuresis, perfusión).
+
+Incorrecta 1: Color de piel únicamente.
+
+Incorrecta 2: Frecuencia respiratoria.
+
+Incorrecta 3: Temperatura corporal aislada.
+
+26) ¿Qué sugiere una FR de 6 rpm?
+Correcta: Bradipnea severa.
+
+Incorrecta 1: Eupnea.
+
+Incorrecta 2: Taquipnea leve.
+
+Incorrecta 3: Hiperventilación.
+
+27) ¿Cuál es la acción prioritaria en un paro cardiorrespiratorio?
+Correcta: Iniciar compresiones torácicas.
+
+Incorrecta 1: Buscar historia clínica.
+
+Incorrecta 2: Colocar una vía periférica.
+
+Incorrecta 3: Administrar agua.
+
+28) ¿Qué complicación puede causar un sondaje vesical prolongado?
+Correcta: Infección urinaria.
+
+Incorrecta 1: Hipertensión.
+
+Incorrecta 2: Deshidratación.
+
+Incorrecta 3: Constipación.
+
+29) ¿Qué indica fiebre + rigidez de nuca?
+Correcta: Posible meningitis.
+
+Incorrecta 1: Gastritis severa.
+
+Incorrecta 2: Neumonía.
+
+Incorrecta 3: Infección urinaria.
+
+30) ¿Cuál es la meta principal del cuidado paliativo?
+Correcta: Control del sufrimiento y mejora de la calidad de vida.
+
+Incorrecta 1: Curación acelerada.
+
+Incorrecta 2: Aumento del uso de medicación.
+
+Incorrecta 3: Prolongación de la hospitalización.
+31) ¿Qué indica una piel fría, pálida y sudorosa?
+Correcta: Shock.
+
+Incorrecta 1: Recuperación de fiebre.
+
+Incorrecta 2: Buena perfusión.
+
+Incorrecta 3: Hiperhidratación.
+
+32) ¿Cuál es la frecuencia respiratoria normal en un adulto sano?
+Correcta: 12–20 rpm.
+
+Incorrecta 1: 25–35 rpm.
+
+Incorrecta 2: 6–10 rpm.
+
+Incorrecta 3: 40–45 rpm.
+
+33) ¿Cuál es el objetivo de la educación sanitaria en hipertensión?
+Correcta: Reducir factores de riesgo modificables.
+
+Incorrecta 1: Enseñar a tomar medicación sin control médico.
+
+Incorrecta 2: Evitar que el paciente vuelva a consultar.
+
+Incorrecta 3: Eliminar completamente el estrés del paciente.
+
+34) ¿Qué complicación se asocia con el oxígeno a alto flujo sin control?
+Correcta: Toxicidad por oxígeno.
+
+Incorrecta 1: Hipotermia.
+
+Incorrecta 2: Hipoglucemia.
+
+Incorrecta 3: Digestión lenta.
+
+35) ¿Cuál es el sitio preferido para administrar heparina subcutánea?
+Correcta: Abdomen.
+
+Incorrecta 1: Deltoides.
+
+Incorrecta 2: Muslo lateral profundo.
+
+Incorrecta 3: Región escapular.
+
+36) ¿Qué indica una disminución súbita del nivel de conciencia?
+Correcta: Posible compromiso neurológico.
+
+Incorrecta 1: Estrés emocional leve.
+
+Incorrecta 2: Digestión lenta.
+
+Incorrecta 3: Agotamiento físico común.
+
+37) ¿Qué acción es prioritaria ante un paciente con convulsiones?
+Correcta: Proteger la cabeza del paciente.
+
+Incorrecta 1: Sujetar con fuerza las extremidades.
+
+Incorrecta 2: Colocar un objeto en la boca.
+
+Incorrecta 3: Administrar agua azucarada.
+
+38) ¿Cuál es el objetivo del aislamiento por contacto?
+Correcta: Evitar transmisión por superficies o contacto directo.
+
+Incorrecta 1: Proteger contra gotitas aéreas.
+
+Incorrecta 2: Evitar transmisión hemática.
+
+Incorrecta 3: Controlar enfermedades digestivas exclusivas.
+
+39) ¿Qué indica un pulso regular pero muy lento?
+Correcta: Bradicardia.
+
+Incorrecta 1: Taquicardia.
+
+Incorrecta 2: Hipertensión.
+
+Incorrecta 3: Fiebre.
+
+40) ¿Cuál es la escala utilizada para evaluar dolor en adultos?
+Correcta: EVA (Escala Visual Analógica).
+
+Incorrecta 1: APGAR.
+
+Incorrecta 2: Norton modificada.
+
+Incorrecta 3: Glasgow.
+
+41) ¿Qué medida se recomienda en un paciente con fiebre alta?
+Correcta: Administrar antitérmicos según indicación médica.
+
+Incorrecta 1: Cubrirlo con mantas gruesas.
+
+Incorrecta 2: Suspender ingesta de líquidos.
+
+Incorrecta 3: Forzarlo a realizar ejercicio.
+
+42) ¿Qué puede causar la administración rápida de potasio EV?
+Correcta: Arritmias fatales.
+
+Incorrecta 1: Taquipnea sin riesgo.
+
+Incorrecta 2: Estrechamiento pupilar.
+
+Incorrecta 3: Dolor abdominal leve.
+
+43) ¿Cuál es un signo temprano de insuficiencia respiratoria?
+Correcta: Taquipnea.
+
+Incorrecta 1: Bradipnea.
+
+Incorrecta 2: Fiebre aislada.
+
+Incorrecta 3: Reflejos exaltados.
+
+44) ¿Qué indica un peso corporal que aumenta rápidamente en 48 h?
+Correcta: Retención de líquidos.
+
+Incorrecta 1: Aumento de masa muscular.
+
+Incorrecta 2: Crecimiento óseo.
+
+Incorrecta 3: Mejor absorción intestinal.
+
+45) ¿Qué práctica previene úlceras por presión?
+Correcta: Cambios de posición cada 2 horas.
+
+Incorrecta 1: Usar almohadas únicamente.
+
+Incorrecta 2: Aumentar consumo de sal.
+
+Incorrecta 3: Utilizar medias de compresión sin indicación.
+
+46) ¿Qué significa “PA 200/110”?
+Correcta: Crisis hipertensiva.
+
+Incorrecta 1: Normotensión.
+
+Incorrecta 2: Hipotensión severa.
+
+Incorrecta 3: Hipertensión leve.
+
+47) ¿Qué recomienda enfermería ante dolor torácico súbito?
+Correcta: Evaluar signos vitales y activar sistema de emergencias.
+
+Incorrecta 1: Dar agua fría.
+
+Incorrecta 2: Realizar masaje abdominal.
+
+Incorrecta 3: Colocar al paciente en decúbito prono.
+
+48) ¿Qué indica un murmullo vesicular disminuido?
+Correcta: Alteración de la ventilación pulmonar.
+
+Incorrecta 1: Hambre.
+
+Incorrecta 2: Hipoglucemia.
+
+Incorrecta 3: Cansancio muscular.
+
+49) ¿Qué debe hacerse ante una vía periférica que duele al pasar medicación?
+Correcta: Suspender la administración y evaluar infiltración.
+
+Incorrecta 1: Aumentar la velocidad del goteo.
+
+Incorrecta 2: Colocar compresas calientes sin revisar.
+
+Incorrecta 3: Continuar y avisar después.
+
+50) ¿Qué indica una diuresis menor a 0,5 ml/kg/h?
+Correcta: Oliguria.
+
+Incorrecta 1: Poliuria.
+
+Incorrecta 2: Diuresis normal.
+
+Incorrecta 3: Hematuria inevitable.
+
+51) ¿Cuál es el objetivo del balance hídrico?
+Correcta: Controlar ingresos y egresos de líquidos.
+
+Incorrecta 1: Determinar tipo sanguíneo.
+
+Incorrecta 2: Evaluar dolor.
+
+Incorrecta 3: Medir presión venosa central.
+
+52) ¿Qué se administra ante hipoglucemia severa en paciente inconsciente?
+Correcta: Glucosa EV.
+
+Incorrecta 1: Jugo por boca.
+
+Incorrecta 2: Café.
+
+Incorrecta 3: Agua fría.
+
+53) ¿Qué indica un aumento del perímetro abdominal en horas?
+Correcta: Distensión abdominal o ascitis.
+
+Incorrecta 1: Fortalecimiento muscular.
+
+Incorrecta 2: Retención urinaria.
+
+Incorrecta 3: Crecimiento rápido óseo.
+
+54) ¿Cuál es el sitio ideal para medir temperatura central?
+Correcta: Rectal.
+
+Incorrecta 1: Mano.
+
+Incorrecta 2: Clavícula.
+
+Incorrecta 3: Pierna inferior.
+
+55) ¿Qué indica un exudado purulento en herida?
+Correcta: Infección.
+
+Incorrecta 1: Cicatrización acelerada.
+
+Incorrecta 2: Regeneración dérmica.
+
+Incorrecta 3: Proceso inflamatorio normal sin riesgo.
+
+56) ¿Qué valor de glucemia sugiere hipoglucemia?
+Correcta: < 70 mg/dL.
+
+Incorrecta 1: > 200 mg/dL.
+
+Incorrecta 2: 100 mg/dL.
+
+Incorrecta 3: 150 mg/dL.
+
+57) ¿Qué hacer ante saturación menor a 90% en aire ambiente?
+Correcta: Iniciar oxígeno suplementario.
+
+Incorrecta 1: Suspender ingesta de líquidos.
+
+Incorrecta 2: Dejar en observación sin intervención.
+
+Incorrecta 3: Aplicar compresas tibias.
+
+58) ¿Qué evalúan las pupilas en el examen físico?
+Correcta: Respuesta neurológica.
+
+Incorrecta 1: Estado hepático.
+
+Incorrecta 2: Función renal.
+
+Incorrecta 3: Actividad pancreática.
+
+59) ¿Qué indica un abdomen rígido y doloroso?
+Correcta: Abdomen agudo.
+
+Incorrecta 1: Estreñimiento leve.
+
+Incorrecta 2: Hambre.
+
+Incorrecta 3: Flatulencias comunes.
+
+60) ¿Qué debe realizar enfermería ante vómitos persistentes?
+Correcta: Evaluar hidratación y riesgo de desequilibrio electrolítico.
+
+Incorrecta 1: Suspender líquidos totalmente.
+
+Incorrecta 2: Administrar antiácidos sin indicación.
+
+Incorrecta 3: Indicar reposo sin control.
+61) ¿Qué indica una frecuencia cardíaca mayor a 120 lpm en adulto?
+Correcta: Taquicardia.
+
+Incorrecta 1: Bradicardia.
+
+Incorrecta 2: Eupnea.
+
+Incorrecta 3: Hipotermia.
+
+62) ¿Qué debe realizarse antes de administrar un antibiótico indicado por infección urinaria?
+Correcta: Tomar muestra de orina para cultivo.
+
+Incorrecta 1: Inducir al paciente a tomar líquidos en exceso.
+
+Incorrecta 2: Administrar el antibiótico inmediatamente sin registro.
+
+Incorrecta 3: Colocar sonda sin indicación.
+
+63) ¿Qué indica una respiración superficial y rápida?
+Correcta: Taquipnea.
+
+Incorrecta 1: Bradipnea.
+
+Incorrecta 2: Respiración de Cheyne–Stokes.
+
+Incorrecta 3: Apnea.
+
+64) ¿Qué acción previene infecciones durante la canalización de una vía periférica?
+Correcta: Higiene de manos y técnica aséptica.
+
+Incorrecta 1: No usar guantes.
+
+Incorrecta 2: Colocar el catéter sin limpieza previa.
+
+Incorrecta 3: Reutilizar jeringas limpias.
+
+65) ¿Cuál es el valor normal de temperatura corporal?
+Correcta: 36.5–37.5 °C.
+
+Incorrecta 1: 35.0 °C exactos.
+
+Incorrecta 2: 38 °C siempre.
+
+Incorrecta 3: 34 °C.
+
+66) ¿Qué indica una piel caliente y seca en un paciente febril?
+Correcta: Fase de infección con termorregulación alterada.
+
+Incorrecta 1: Hipotermia.
+
+Incorrecta 2: Hidratación normal.
+
+Incorrecta 3: Baja exposición solar.
+
+67) ¿Qué parámetro es esencial en el control de un paciente diabético?
+Correcta: Glucemia capilar.
+
+Incorrecta 1: Saturación de oxígeno.
+
+Incorrecta 2: Hemoglobina fetal.
+
+Incorrecta 3: Grupo sanguíneo.
+
+68) ¿Qué significa “disnea”?
+Correcta: Dificultad para respirar.
+
+Incorrecta 1: Dolor abdominal.
+
+Incorrecta 2: Ritmo cardíaco irregular.
+
+Incorrecta 3: Náuseas persistentes.
+
+69) ¿Cuál es la medida inicial ante hemorragia externa importante?
+Correcta: Compresión directa.
+
+Incorrecta 1: Colocar hielo únicamente.
+
+Incorrecta 2: Administrar líquidos antes de detener el sangrado.
+
+Incorrecta 3: Retirar coágulos para “limpiar”.
+
+70) ¿Qué indica una saturación del 85%?
+Correcta: Hipoxemia grave.
+
+Incorrecta 1: Saturación normal.
+
+Incorrecta 2: Estado febril.
+
+Incorrecta 3: Hipertensión leve.
+
+71) ¿Qué posición favorece el retorno venoso?
+Correcta: Trendelemburg.
+
+Incorrecta 1: Fowler.
+
+Incorrecta 2: Sedestación.
+
+Incorrecta 3: Decúbito ventral.
+
+72) ¿Qué tipo de vía se utiliza habitualmente para hidratación rápida?
+Correcta: Vía intravenosa periférica.
+
+Incorrecta 1: Vía tópica.
+
+Incorrecta 2: Vía oral estricta.
+
+Incorrecta 3: Vía intradérmica.
+
+73) ¿Qué indica un abdomen distendido y timpánico?
+Correcta: Distensión gaseosa.
+
+Incorrecta 1: Hipoglucemia.
+
+Incorrecta 2: Aumento muscular.
+
+Incorrecta 3: Hidratación excesiva.
+
+74) ¿Qué es una ulcera por presión estadio II?
+Correcta: Pérdida parcial del grosor de la piel.
+
+Incorrecta 1: Pérdida total con exposición ósea.
+
+Incorrecta 2: Eritema no blanqueable únicamente.
+
+Incorrecta 3: Herida seca sin lesión tisular.
+
+75) ¿Qué acción previene broncoaspiración en paciente con disfagia?
+Correcta: Elevar cabecera de la cama.
+
+Incorrecta 1: Dar líquidos muy fríos.
+
+Incorrecta 2: Mantener en decúbito supino.
+
+Incorrecta 3: Indicar ayuno sin evaluación.
+
+76) ¿Qué parámetro indica deshidratación moderada?
+Correcta: Mucosas secas.
+
+Incorrecta 1: Diuresis abundante.
+
+Incorrecta 2: Temperatura baja.
+
+Incorrecta 3: Piel caliente.
+
+77) ¿Qué indica un registro de PA con diferencia marcada entre brazos?
+Correcta: Posible problema vascular.
+
+Incorrecta 1: Medición correcta.
+
+Incorrecta 2: Ansiedad únicamente.
+
+Incorrecta 3: Fiebre.
+
+78) ¿Cuál es el objetivo del oxígeno por cánula nasal?
+Correcta: Aumentar aporte de O₂ en hipoxemia leve a moderada.
+
+Incorrecta 1: Tratar dolor torácico.
+
+Incorrecta 2: Reducir temperatura.
+
+Incorrecta 3: Aumentar frecuencia cardíaca.
+
+79) ¿Cuál es el mejor indicador de perfusión cerebral?
+Correcta: Nivel de conciencia.
+
+Incorrecta 1: Diuresis.
+
+Incorrecta 2: Frecuencia respiratoria.
+
+Incorrecta 3: Temperatura corporal.
+
+80) ¿Qué indica un paciente con FR 32 rpm?
+Correcta: Taquipnea.
+
+Incorrecta 1: Bradipnea.
+
+Incorrecta 2: Eupnea.
+
+Incorrecta 3: Respiración profunda normal.
+
+81) ¿Qué complicación puede causar una sonda nasogástrica mal colocada?
+Correcta: Aspiración pulmonar.
+
+Incorrecta 1: Hipertensión.
+
+Incorrecta 2: Hiperglucemia.
+
+Incorrecta 3: Insomnio.
+
+82) ¿Qué indica un hematoma progresivo en zona de punción?
+Correcta: Extravasación.
+
+Incorrecta 1: Hidratación correcta.
+
+Incorrecta 2: Perfusión adecuada.
+
+Incorrecta 2: Reacción alérgica.
+
+83) ¿Cuál es el objetivo del aislamiento respiratorio?
+Correcta: Evitar propagación de microorganismos por aerosol.
+
+Incorrecta 1: Evitar transmisión por contacto con sangre.
+
+Incorrecta 2: Prevenir deshidratación.
+
+Incorrecta 3: Reducir exposición al sol.
+
+84) ¿Qué indica una presión arterial de 90/60 en un adulto delgado?
+Correcta: Puede ser normal para el paciente si no hay síntomas.
+
+Incorrecta 1: Siempre indica shock.
+
+Incorrecta 2: Es hipertensión leve.
+
+Incorrecta 3: Indica falta de hierro.
+
+85) ¿Qué se debe hacer ante un paciente que refiere dolor torácico irradiado al brazo?
+Correcta: Activar protocolo de dolor torácico.
+
+Incorrecta 1: Administrar agua.
+
+Incorrecta 2: Indicar descanso sin evaluación.
+
+Incorrecta 3: Enviar a domicilio.
+
+86) ¿Qué es un balance hídrico positivo?
+Correcta: Ingresos de líquidos mayores que egresos.
+
+Incorrecta 1: Pérdida de líquidos excesiva.
+
+Incorrecta 2: Ingesta nula.
+
+Incorrecta 3: Estado de deshidratación.
+
+87) ¿Qué indica “piel de gallina” en un paciente febril?
+Correcta: Escalofríos y fase inicial de fiebre.
+
+Incorrecta 1: Deshidratación severa.
+
+Incorrecta 2: Sudoración excesiva.
+
+Incorrecta 3: Hiperglucemia.
+
+88) ¿Qué valor de Glasgow requiere atención inmediata?
+Correcta: ≤ 8.
+
+Incorrecta 1: 15.
+
+Incorrecta 2: 12.
+
+Incorrecta 3: 14.
+
+89) ¿Cuál es el riesgo principal en un paciente con vómitos y diarrea?
+Correcta: Deshidratación.
+
+Incorrecta 1: Hipervitaminosis.
+
+Incorrecta 2: Broncoespasmo.
+
+Incorrecta 3: Hipertermia.
+
+90) ¿Qué sugiere una frecuencia cardíaca de 45 lpm?
+Correcta: Bradicardia.
+
+Incorrecta 1: Taquicardia.
+
+Incorrecta 2: Ansiedad.
+
+Incorrecta 3: Hiperglucemia.
+
+91) ¿Qué indica la presencia de petequias?
+Correcta: Alteración de la coagulación.
+
+Incorrecta 1: Deshidratación.
+
+Incorrecta 2: Alergia leve.
+
+Incorrecta 3: Irritación por roce.
+
+92) ¿Cuál es el principal riesgo de un nivel de sodio muy bajo?
+Correcta: Convulsiones.
+
+Incorrecta 1: Hipotermia.
+
+Incorrecta 2: Diarrea.
+
+Incorrecta 3: Hiperhidratación.
+
+93) ¿Qué indica polidipsia en un paciente?
+Correcta: Posible diabetes descompensada.
+
+Incorrecta 1: Baja frecuencia cardíaca.
+
+Incorrecta 2: Taquipnea.
+
+Incorrecta 3: Déficit vitamínico.
+
+94) ¿Qué hacer ante signos de anafilaxia?
+Correcta: Administrar adrenalina IM.
+
+Incorrecta 1: Dar agua fría.
+
+Incorrecta 2: Colocar compresas.
+
+Incorrecta 3: Indicar reposo sin medicación.
+
+95) ¿Qué indica hipoventilación?
+Correcta: Producción insuficiente de ventilación alveolar.
+
+Incorrecta 1: Aumento exagerado de FR.
+
+Incorrecta 2: Hidratación excesiva.
+
+Incorrecta 3: Trastorno digestivo.
+
+96) ¿Qué se recomienda en un paciente con riesgo de broncoaspiración?
+Correcta: Mantener cabecera elevada.
+
+Incorrecta 1: Administrar alimentos líquidos rápidamente.
+
+Incorrecta 2: Mantenerlo recostado boca abajo.
+
+Incorrecta 3: Hacerlo hablar mucho durante comidas.
+
+97) ¿Qué indica un llenado capilar menor a 2 segundos?
+Correcta: Buena perfusión.
+
+Incorrecta 1: Shock.
+
+Incorrecta 2: Hipoxia.
+
+Incorrecta 3: Insuficiencia cardíaca.
+
+98) ¿Qué es la taquicardia supraventricular?
+Correcta: Ritmo cardíaco acelerado originado sobre los ventrículos.
+
+Incorrecta 1: Pausa respiratoria prolongada.
+
+Incorrecta 2: Alteración renal.
+
+Incorrecta 3: Movimientos involuntarios.
+
+99) ¿Qué indica cianosis periférica?
+Correcta: Baja oxigenación en extremidades.
+
+Incorrecta 1: Hiperhidratación.
+
+Incorrecta 2: Aumento de masa muscular.
+
+Incorrecta 3: Digestión lenta.
+
+100) ¿Cuál es la intervención prioritaria ante un paro cardiorrespiratorio?
+Correcta: Iniciar RCP de alta calidad inmediatamente.
+
+Incorrecta 1: Buscar historia clínica del paciente.
+
+Incorrecta 2: Trasladarlo antes de comenzar maniobras.
+
+Incorrecta 3: Intentar despertarlo durante varios minutos.

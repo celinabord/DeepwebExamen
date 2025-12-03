@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "tema": "Teorías de Enfermería",
+    "pregunta": "Según Virginia Henderson, ¿en qué tipo de atención se basa su teoría, afirmando que los receptores de los cuidados requieren ayuda profesional para mantener su salud?",
+    "opciones": {
+      "a": "En la atención de la Enfermería Transcultural.",
+      "b": "En la Atención de necesidades basicas en el individuo",
+      "c": "En la atención del Sistema Abierto.",
+      "d": "En la atención de la adaptación humana."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 2,
+    "tema": "Teorías de Enfermería",
+    "pregunta": "¿Cuál autora explica en su modelo de atención de enfermería que 'las fuerzas del estrés son estímulos productores de tensión que poseen el potencial suficiente para provocar crisis y desequilibrios tanto intrapersonales, interpersonales y extrapersonales'?",
+    "opciones": {
+      "a": "Dorotea Orem",
+      "b": "Myra Levine",
+      "c": "Callista Roy",
+      "d": "Betty Neuman"
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 3,
+    "tema": "Teorías de Enfermería",
+    "pregunta": "Para Roy, la adaptación está determinada por estímulos. ¿Cuáles son esos estímulos?",
+    "opciones": {
+      "a": "Funcionales, emocionales y ambientales.",
+      "b": "Residuales, de control y de respuesta.",
+      "c": "Locales, contextuales y residuales.",
+      "d": "Regionales, globales y de adaptación."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 4,
+    "tema": "Teorías de Enfermería",
+    "pregunta": "Según la Teoría de Dorotea Orem, las acciones de enfermería consisten en proporcionar asistencia a aquellos que son incapaces de cubrir sus necesidades de autocuidado. ¿Cuáles son los componentes para el autocuidado?",
+    "opciones": {
+      "a": "Los sistemas compensatorios, parciales y de apoyo.",
+      "b": "El déficit de autocuidado, el agente y las demandas.",
+      "c": "El ser biopsicosocial, el entorno y la salud.",
+      "d": "La familia, la comunidad y el medio ambiente"
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 5,
+    "tema": "Teorías de Enfermería",
+    "pregunta": "¿Cuáles son las dos Teóricas que describen que 'el paciente es el núcleo de la atención de enfermería'?",
+    "opciones": {
+      "a": "Virginia Henderson y Callista Roy",
+      "b": "Dorotea Orem y Myra Levine",
+      "c": "Hildegard Peplau y Florence Nightingale",
+      "d": "Martha Rogers y Jean Watson"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 6,
+    "tema": "Salud Pública y Leyes",
+    "pregunta": "¿Qué definición de salud es la correcta, según la Organización Mundial de la Salud en 1945?",
+    "opciones": {
+      "a": "La ausencia de patologías y afecciones.",
+      "b": "El equilibrio biopsicosocial y ambiental.",
+      "c": "El estado de completo bienestar físico, mental y social y no solamente la ausencia de enfermedad",
+      "d": "La capacidad de funcionar adecuadamente en la sociedad."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 7,
+    "tema": "Leyes y Derechos (Niños/Adolescentes)",
+    "pregunta": "¿Qué principio elemental describe el artículo 12 de la Ley 26.743 de Identidad de Género al mencionar que deberá respetarse la identidad de género adoptada por las personas, en especial por niñas, niños y adolescentes?",
+    "opciones": {
+      "a": "Trato digno",
+      "b": "Libre desarrollo personal",
+      "c": "No discriminación",
+      "d": "Interés superior del niño"
+    },
+    "respuesta_correcta": "a"
+  },
+  {
+    "id": 8,
+    "tema": "Leyes y Derechos",
+    "pregunta": "La Ley 25.673 del Programa Nacional de Salud Sexual y Procreación Responsable menciona siete objetivos. ¿Cuál es uno de los objetivos para garantizar la implementación de la ley?",
+    "opciones": {
+      "a": "Reducir la tasa de mortalidad materna e infantil en un 50%.",
+      "b": "Garantizar a toda la población el acceso a la información, orientación, métodos y prestaciones de servicios referidos a la salud sexual y procreación responsable.",
+      "c": "Promover la abstinencia como único método anticonceptivo primario.",
+      "d": "Establecer la obligatoriedad del testeo de VIH antes de contraer matrimonio."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 9,
+    "tema": "Leyes y Derechos (Niños/Adolescentes)",
+    "pregunta": "La Ley 26.061 de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes en su Artículo 14 menciona el derecho a la atención integral de su salud. ¿Qué intervenciones debe garantizar el estado?",
+    "opciones": {
+      "a": "Garantizar la hospitalización inmediata en caso de enfermedad grave.",
+      "b": "Promover la judicialización de los casos de negligencia médica.",
+      "c": "Asegurar el acceso a servicios de salud de alta complejidad sin costo.",
+      "d": "Respetar las pautas familiares y culturales reconocidas por la familia y la comunidad que pertenecen siempre que no constituyan peligro para su vida e integridad."
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 10,
+    "tema": "Salud Pública",
+    "pregunta": "La Salud integral de las personas trans, travestis y no binarias requiere cualidades en los profesionales de salud para brindar atención de calidad. ¿Cuáles son esas cualidades?",
+    "opciones": {
+      "a": "Enfocarse en la patologización de la identidad de género.",
+      "b": "Priorizar la derivación a especialistas en endocrinología.",
+      "c": "Requiere el despliegue de una escucha activa, atenta y respetuosa, que habilite una relación de confianza.",
+      "d": "Limitar la atención a la consejería psicológica únicamente."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 11,
+    "tema": "Epidemiología (Dengue)",
+    "pregunta": "El Dengue es una enfermedad causada por un virus transmitido a través de la picadura del mosquito *Aedes aegypti*. ¿Cómo se transmite esta enfermedad?",
+    "opciones": {
+      "a": "Por contacto directo con sangre de una persona infectada.",
+      "b": "Por la picadura de un mosquito infectado con el virus",
+      "c": "Por el consumo de agua o alimentos contaminados.",
+      "d": "Por contacto con objetos o ropa de un enfermo."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 12,
+    "tema": "Epidemiología (Dengue)",
+    "pregunta": "Si se detectó la circulación del virus del Dengue en su comunidad, ¿qué medidas de prevención se deben realizar para evitar la propagación del dengue en la familia y la comunidad?",
+    "opciones": {
+      "a": "El uso masivo de repelentes personales como única medida.",
+      "b": "Fumigación aérea diaria en toda la comunidad.",
+      "c": "El control del mosquito y sus criaderos",
+      "d": "Aislamiento obligatorio de todos los casos sospechosos."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 13,
+    "tema": "Salud Pública",
+    "pregunta": "¿Cuáles son algunos de los objetivos del Programa Nacional de Control del Tabaco y la Ley Nacional 26.687?",
+    "opciones": {
+      "a": "Incrementar la producción de cigarrillos con bajo contenido de nicotina.",
+      "b": "Facilitar la venta de productos de tabaco en todos los comercios.",
+      "c": "Disminuir la accesibilidad, Promover estilos de vida sin tabaco, Concientizar y promover Ambientes Libres de Humo.",
+      "d": "Promover la terapia de reemplazo nicotínico exclusivamente."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 14,
+    "tema": "Epidemiología (COVID-19)",
+    "pregunta": "¿Cuáles son las medidas fundamentales para limitar la posibilidad de transmisión comunitaria y en conglomerados del SARS-CoV-2?",
+    "opciones": {
+      "a": "La realización de pruebas PCR solo a pacientes sintomáticos graves.",
+      "b": "El uso de mascarillas N95 en todo momento y lugar.",
+      "c": "El rastreo y aislamiento precoz de contactos estrechos en todos los casos sospechosos o confirmados de COVID-19.",
+      "d": "La cuarentena de 30 días para todos los viajeros internacionales."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 15,
+    "tema": "Epidemiología (COVID-19)",
+    "pregunta": "El Dispositivo Estratégico de Testeo para Coronavirus en Terreno Argentino (DETECTAR) busca el diagnóstico oportuno. En la toma de muestras y diagnóstico ¿qué actividades se realizan?",
+    "opciones": {
+      "a": "Realización obligatoria de serología IgG e IgM.",
+      "b": "Confirmación por criterios clínico-epidemiológicos o realización de hisopado diagnóstico",
+      "c": "Solo la toma de muestras de saliva para análisis viral.",
+      "d": "Únicamente la valoración de la saturación de oxígeno."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 16,
+    "tema": "Promoción de la Salud",
+    "pregunta": "La educación y la promoción de la salud son funciones esenciales de la enfermería. ¿A qué actividades se encuentra dirigida la atención de Enfermería?",
+    "opciones": {
+      "a": "Asistir exclusivamente en el ámbito hospitalario.",
+      "b": "Administrar medicación y realizar procedimientos invasivos.",
+      "c": "Promover, mantener y restablecer la salud, prevenir enfermedades y ayudar a las personas a adaptarse a los efectos residuales de la enfermedad.",
+      "d": "Gestionar los recursos financieros del sistema de salud."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 17,
+    "tema": "Proceso de Enfermería",
+    "pregunta": "El personal de enfermería construye un plan de cuidado individualizado para satisfacer las necesidades de enseñanza y aprendizaje del paciente. ¿Cómo se llama dicho proceso?",
+    "opciones": {
+      "a": "NIC (Clasificación de Intervenciones de Enfermería)",
+      "b": "NANDA (Diagnósticos de Enfermería)",
+      "c": "PAE (Proceso de Atención de Enfermería)",
+      "d": "NOC (Clasificación de Resultados de Enfermería)"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 18,
+    "tema": "Promoción de la Salud",
+    "pregunta": "Usted realiza talleres de alimentación en una comunidad con propósitos de promoción de la salud. ¿Qué propósitos quiere realizar con esas actividades?",
+    "opciones": {
+      "a": "Asegurar que toda la comunidad consuma suplementos vitamínicos.",
+      "b": "Realizar cambios apropiados en los hábitos personales, el estilo de vida y el entorno para reducir los riesgos y mejorar la salud y el bienestar.",
+      "c": "Prohibir el consumo de alimentos procesados en la comunidad.",
+      "d": "Solo la detección precoz de enfermedades crónicas."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 19,
+    "tema": "Promoción de la Salud",
+    "pregunta": "¿Cuáles son los componentes de la promoción de la salud?",
+    "opciones": {
+      "a": "Diagnóstico, tratamiento y rehabilitación.",
+      "b": "Responsabilidad individual, conocimiento sobre nutrición, reducción y tratamiento del estrés y condición física.",
+      "c": "Agentes, huésped y entorno.",
+      "d": "Curación, prevención y cuidados paliativos."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 20,
+    "tema": "Maternidad y Anticoncepción",
+    "pregunta": "¿Cuál es el mecanismo de acción de los métodos anticonceptivos hormonales anovulatorios?",
+    "opciones": {
+      "a": "Engrosamiento del moco cervical.",
+      "b": "Inhibición de la ovulación",
+      "c": "Atrofia del endometrio.",
+      "d": "Bloqueo de la implantación."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 21,
+    "tema": "Maternidad",
+    "pregunta": "El concepto de Maternidades centradas en la familia promueve la idea de que la mujer y su entorno deben tomar un rol activo en el cuidado de su embarazo. ¿Qué promueve este concepto?",
+    "opciones": {
+      "a": "La delegación total de los cuidados al equipo de salud.",
+      "b": "La restricción de la participación de la pareja durante el parto.",
+      "c": "La idea de que la mujer y su entorno deben tomar un rol activo en el cuidado de su embarazo y participar en el desarrollo y la evaluación del mismo.",
+      "d": "La priorización exclusiva de los procedimientos médicos."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 22,
+    "tema": "Maternidad",
+    "pregunta": "Un objetivo de la consejería preconcepcional es lograr la comunicación y la reflexión para asumir la responsabilidad de llevar adelante un embarazo y el proyecto de familia esperado. ¿Qué objetivo debería alcanzar esta consejería?",
+    "opciones": {
+      "a": "Identificar riesgos genéticos y solo recomendar la interrupción.",
+      "b": "Asegurar un plan de parto medicalizado y sin sorpresas.",
+      "c": "Lograr la comunicación y la reflexión para asumir la responsabilidad de llevar adelante un embarazo y el proyecto de familia esperado.",
+      "d": "Promover la fertilización in vitro como primera opción."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 23,
+    "tema": "Obstetricia",
+    "pregunta": "La inserción total o parcial de la placenta en el segmento uterino inferior (placenta previa) es la causa más frecuente de hemorragias en un periodo del embarazo. ¿En qué trimestre aparece este tipo de hemorragias?",
+    "opciones": {
+      "a": "Primer trimestre de embarazo",
+      "b": "Segundo trimestre de embarazo",
+      "c": "Tercer trimestre de embarazo",
+      "d": "Durante el alumbramiento"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 24,
+    "tema": "Puericultura (Recién Nacido)",
+    "pregunta": "Usted realiza la recepción de un recién nacido entre las semanas 28-31 o un peso de entre 1000 g.-1500g. ¿Qué clasificación le corresponde?",
+    "opciones": {
+      "a": "Recién nacido a término (RNAT)",
+      "b": "Recién nacido prematuro tardío",
+      "c": "Recién nacido prematuro extremo",
+      "d": "Recién nacido con bajo peso al nacer"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 25,
+    "tema": "Puericultura (Recién Nacido)",
+    "pregunta": "Existe la clasificación para los recién nacidos por edad gestacional. Usted realiza la recepción de un Recién Nacido (RN) que se clasifica de término. ¿Cuál es el intervalo de semanas para definir dicha clasificación?",
+    "opciones": {
+      "a": "Entre 35-37 semanas de gestación",
+      "b": "Entre 37-42 semanas de gestación",
+      "c": "Más de 42 semanas de gestación",
+      "d": "Menos de 37 semanas de gestación"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 26,
+    "tema": "Reanimación Neonatal",
+    "pregunta": "La mayoría de los recién nacidos que requieren reanimación tienen un corazón saludable. Si un recién nacido requiere reanimación en la sala de parto, se relaciona a una insuficiencia:",
+    "opciones": {
+      "a": "Cardíaca.",
+      "b": "Renal.",
+      "c": "Respiratoria.",
+      "d": "Hepática."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 27,
+    "tema": "Puericultura (Recién Nacido)",
+    "pregunta": "Cuando la administración de oxígeno se prolonga en niños prematuros, este deberá calentar y humidificar. ¿Cuáles son los valores de saturación de 02 que deben mantener los prematuros para evitar complicaciones?",
+    "opciones": {
+      "a": "70% a 80%",
+      "b": "85% a 90%",
+      "c": "92% a 94%",
+      "d": "95% a 100%"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 28,
+    "tema": "Lactancia Materna",
+    "pregunta": "Usted explica los beneficios de la lactancia materna. ¿Cuáles son algunos de esos beneficios?",
+    "opciones": {
+      "a": "Requiere esterilización constante y puede contener alérgenos.",
+      "b": "Poco alergénica y estéril. Papel inmunógeno. Contiene todos los requerimientos nutricionales.",
+      "c": "Solo proporciona nutrientes básicos y debe complementarse pronto.",
+      "d": "Es difícil de digerir y aumenta el riesgo de infecciones."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 29,
+    "tema": "Puericultura (Lactante)",
+    "pregunta": "¿Qué medidas aconsejaría para prevenir la muerte súbita en el lactante?",
+    "opciones": {
+      "a": "Dormir en decúbito lateral y colchón blando.",
+      "b": "Posición para dormir en decúbito supino, colchón plano y duro, evite los juguetes en su cuna. T° ambiente ideal 20 º C",
+      "c": "Compartir la cama con los padres y arroparlo fuertemente.",
+      "d": "Acostarlo en posición prona para evitar el ahogo."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 30,
+    "tema": "Reanimación Neonatal",
+    "pregunta": "La Reanimación en el Recién Nacido se basa en la evaluación permanente, integrada y simultánea de tres parámetros vitales. ¿Cuáles son esos parámetros?",
+    "opciones": {
+      "a": "Peso, talla, perímetro cefálico.",
+      "b": "Reflejos, tono muscular, temperatura.",
+      "c": "Respiración, frecuencia cardíaca, color.",
+      "d": "Gases arteriales, presión arterial, diuresis."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 31,
+    "tema": "Lactancia Materna",
+    "pregunta": "Una mujer refiere que tiene un lactante de 2 meses y debe volver a trabajar, sin espacio para refrigerar la leche. ¿Hasta qué tiempo es aceptable mantener la leche materna a temperatura ambiente?",
+    "opciones": {
+      "a": "No más de 4 horas",
+      "b": "No más de 6 horas",
+      "c": "No más de 8 horas",
+      "d": "No más de 12 horas"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 32,
+    "tema": "Puericultura (Recién Nacido)",
+    "pregunta": "¿Qué valora el Test de Apgar?",
+    "opciones": {
+      "a": "El desarrollo neurológico a largo plazo.",
+      "b": "La madurez pulmonar fetal.",
+      "c": "Valora las capacidades fisiológicas del RN para adaptarse a la vida extrauterina",
+      "d": "El peso y la talla del recién nacido."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 33,
+    "tema": "Puericultura (Recién Nacido)",
+    "pregunta": "¿Cuáles son los mecanismos de pérdida de calor en el recién nacido?",
+    "opciones": {
+      "a": "Solo por evaporación y conducción.",
+      "b": "Por vasodilatación y sudoración.",
+      "c": "Mediante conducción, radiación, convección, evaporación",
+      "d": "Por termogénesis sin escalofríos."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 34,
+    "tema": "Puericultura (Recién Nacido)",
+    "pregunta": "¿Cómo se llama la línea fibroelástica de unión entre los huesos craneales del Recién Nacido que permite el moldeo de la cabeza en el parto?",
+    "opciones": {
+      "a": "Fontanelas",
+      "b": "Cisuras",
+      "c": "Suturas",
+      "d": "Sinostosis"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 35,
+    "tema": "Desarrollo Infantil",
+    "pregunta": "¿Cómo se define el desarrollo que se produce desde la cabeza hacia los pies?",
+    "opciones": {
+      "a": "Próximodistal.",
+      "b": "Cefalocaudal.",
+      "c": "Holístico.",
+      "d": "Secuencial."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 36,
+    "tema": "Psicología/Niño Hospitalizado",
+    "pregunta": "Un niño de 4 años internado por 5 días comienza con episodios de incontinencia, habiendo controlado esfínteres previamente. ¿Según Freud qué mecanismo de defensa se encuentra presente?",
+    "opciones": {
+      "a": "Negación",
+      "b": "Proyección",
+      "c": "Regresión",
+      "d": "Desplazamiento"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 37,
+    "tema": "Desarrollo Infantil",
+    "pregunta": "Un niño sube la escalera con ayuda, garabatea, juega en paralelo y combina dos palabras. ¿Cuál es la edad que corresponde según la evolución esquemática de las conductas de desarrollo de la OPS?",
+    "opciones": {
+      "a": "12 meses.",
+      "b": "15 meses.",
+      "c": "18 meses.",
+      "d": "24 meses."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 38,
+    "tema": "Vacunación (Niño)",
+    "pregunta": "Un niño de 15 meses solo tiene pendiente una única vacuna. ¿Qué vacuna debe aplicar como única dosis a esa edad?",
+    "opciones": {
+      "a": "Triple Viral",
+      "b": "Hepatitis A",
+      "c": "Rotavirus",
+      "d": "Varicela."
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 39,
+    "tema": "Vacunación (Niño)",
+    "pregunta": "Un niño de 5 años debe aplicarse el 2º refuerzo de la vacuna para su ingreso escolar. ¿Qué vacuna debe aplicar?",
+    "opciones": {
+      "a": "Doble Viral.",
+      "b": "Triple bacteriana acelular (DPTa).",
+      "c": "Neumococo conjugada.",
+      "d": "Triple bacteriana celular."
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 40,
+    "tema": "Vacunación",
+    "pregunta": "Usted debe administrar la vacuna Pentavalente a un lactante de 6 meses. ¿Dónde debe preparar el sitio de aplicación para la inoculación de la vacuna?",
+    "opciones": {
+      "a": "Músculo deltoides.",
+      "b": "Región glútea.",
+      "c": "Anterolateral del muslo.",
+      "d": "Región subescapular."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 41,
+    "tema": "Vacunación",
+    "pregunta": "Usted debe realizar la aplicación de una vacuna que se administra de forma Intradérmica (ID). ¿Cuál es la vacuna que se debe aplicar?",
+    "opciones": {
+      "a": "DPT",
+      "b": "BCG.",
+      "c": "Sabin",
+      "d": "Hepatitis B"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 42,
+    "tema": "Vacunación",
+    "pregunta": "¿Cuál es la situación en la cual está contraindicado vacunar a una persona (contraindicación absoluta)?",
+    "opciones": {
+      "a": "Fiebre leve (37.5°C).",
+      "b": "Reacción anafiláctica.",
+      "c": "Enfermedad leve sin fiebre.",
+      "d": "Tratamiento con antibióticos."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 43,
+    "tema": "Vacunación",
+    "pregunta": "¿Qué vacunas se inactivan si utilizamos alcohol en la limpieza de la piel antes de la aplicación?",
+    "opciones": {
+      "a": "Vacunas inactivadas.",
+      "b": "Vacunas recombinantes.",
+      "c": "Virus vivos atenuados.",
+      "d": "Toxoides."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 44,
+    "tema": "Bioseguridad/Aislamiento (Pediátrico)",
+    "pregunta": "Usted tiene en la sala de internación pediátrica un lactante de 2 meses diagnosticado con rotavirus. ¿Qué tipo de aislamiento corresponde para el paciente?",
+    "opciones": {
+      "a": "Aéreo",
+      "b": "Gotitas",
+      "c": "Estricto",
+      "d": "Contacto"
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 45,
+    "tema": "Valoración de Enfermería",
+    "pregunta": "Se han desarrollado varios formatos para recabar los antecedentes de salud de los pacientes. ¿Qué tipo de dato es la exploración física?",
+    "opciones": {
+      "a": "Son datos subjetivos sobre las emociones del paciente.",
+      "b": "Son datos objetivos sobre la salud del sujeto",
+      "c": "Son datos inferenciales del personal de salud.",
+      "d": "Son datos históricos de la enfermedad actual."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 46,
+    "tema": "Valoración de Enfermería",
+    "pregunta": "¿Qué signos específicos se valoran en la exploración física en un paciente con deficiencia nutricional?",
+    "opciones": {
+      "a": "Aumento del IMC y perímetro abdominal normal.",
+      "b": "Pérdida de masa muscular, integridad deficiente de la piel, pérdida de tejido subcutáneo.",
+      "c": "Hepatomegalia y esplenomegalia.",
+      "d": "Hipertensión arterial y taquicardia."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 47,
+    "tema": "Diagnóstico de Enfermería",
+    "pregunta": "Paciente de 49 años cursando 24hs de posoperatorio de cirugía abdominal. Presenta molestia en abdomen bajo y distensión con diuresis negativa de más de 24 hs de evolución. ¿Qué diagnóstico de enfermería es primordial para dicha situación?",
+    "opciones": {
+      "a": "Riesgo de infección de la herida quirúrgica.",
+      "b": "Estreñimiento relacionado con la cirugía.",
+      "c": "Deterioro de la movilidad física.",
+      "d": "Eliminación ineficaz de orina"
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 48,
+    "tema": "Signos Vitales",
+    "pregunta": "¿Cuáles son los signos vitales que Enfermería realiza sin la necesidad de tecnología avanzada?",
+    "opciones": {
+      "a": "Presión venosa central, índice cardíaco, saturación.",
+      "b": "TA, la frecuencia del pulso, FR y la temperatura corporal.",
+      "c": "Electrocardiograma, capnografía y PVC.",
+      "d": "Gasto cardíaco, presión arterial media y diuresis horaria."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 49,
+    "tema": "Fisiopatología Respiratoria",
+    "pregunta": "¿Cuáles son los signos y síntomas más frecuentes de la Apnea Obstructiva del Sueño (AOS)?",
+    "opciones": {
+      "a": "Hipertensión arterial y taquipnea diurna.",
+      "b": "Ronquidos, somnolencia y apnea del sueño nocturnos",
+      "c": "Náuseas, vómitos y dolor torácico.",
+      "d": "Hipoglucemia y convulsiones nocturnas."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 50,
+    "tema": "Bioseguridad",
+    "pregunta": "¿Cómo se define “un conjunto de partículas que se producen cuando una corriente de aire atraviesa la superficie de una película de fluido, generando pequeñas partículas en el cruce de aire y líquido”?",
+    "opciones": {
+      "a": "Gotitas (Droplets)",
+      "b": "Fómites",
+      "c": "Aerosoles",
+      "d": "Esputo"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 51,
+    "tema": "Bioseguridad",
+    "pregunta": "¿Por qué las manos son una fuente de transmisión de microorganismos que pueden causar Infecciones Asociadas a la Atención de Salud (IAAS)?",
+    "opciones": {
+      "a": "Porque solo se transmiten patógenos por vía aérea.",
+      "b": "En las manos se pueden distinguir dos tipos de flora microbiana: la residente y la transitoria.",
+      "c": "Debido a que el uso de guantes es siempre inadecuado.",
+      "d": "Solo si la persona está inmunosuprimida."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 52,
+    "tema": "Bioseguridad",
+    "pregunta": "La higiene de las manos, ¿es la única medida para prevenir Infecciones Asociadas a la Atención de Salud (IAAS)?",
+    "opciones": {
+      "a": "Sí, es la única medida probada.",
+      "b": "La higiene de las manos es un componente necesario, pero no para la prevención de IAAS.",
+      "c": "Solo si se utiliza jabón antiséptico y agua.",
+      "d": "Es la medida más importante y suficiente para el 100% de los casos."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 53,
+    "tema": "Bioseguridad",
+    "pregunta": "La higiene de las manos con técnica de frotación con soluciones de alcohol permite eliminar los microorganismos. ¿Según la OMS cuánto es el tiempo de duración que se recomienda?",
+    "opciones": {
+      "a": "5-10 segundos",
+      "b": "10-20 segundos",
+      "c": "20-30 segundos",
+      "d": "40-60 segundos"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 54,
+    "tema": "Vacunación (Salud Pública)",
+    "pregunta": "Existe en el Calendario Nacional de Vacunación la vacuna antigripal. ¿Cuáles son los propósitos para la aplicación de esa vacuna?",
+    "opciones": {
+      "a": "Erradicar el virus de la influenza de la población mundial.",
+      "b": "Prevenir el resfriado común en la población general.",
+      "c": "Reducir las complicaciones, hospitalizaciones, muertes y secuelas ocasionadas por el virus de influenza en la población de riesgo.",
+      "d": "Asegurar inmunidad de por vida contra el virus de influenza."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 55,
+    "tema": "Reanimación",
+    "pregunta": "En el Algoritmo de paro cardíaco en adultos, para realizar RCP de calidad se comienza con compresiones. ¿Cuántas compresiones deberá realizar para realizar RCP de calidad?",
+    "opciones": {
+      "a": "Secuencia 5:1 (compresiones:ventilaciones)",
+      "b": "Secuencia 15:2",
+      "c": "Secuencia 30:2",
+      "d": "Secuencia 10:1"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 56,
+    "tema": "Fisiopatología",
+    "pregunta": "Si los vasos sanguíneos no se dilatan en respuesta a la necesidad de un mayor flujo sanguíneo, ¿qué se podría producir?",
+    "opciones": {
+      "a": "Hiperemia",
+      "b": "Vasoconstricción refleja",
+      "c": "Trombosis",
+      "d": "Isquemia"
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 57,
+    "tema": "Valoración Física",
+    "pregunta": "¿Cómo se llama el pulso que se debe tomar en el dorso del pie?",
+    "opciones": {
+      "a": "Pulso tibial posterior",
+      "b": "Pulso femoral",
+      "c": "Pulso pedio",
+      "d": "Pulso poplíteo"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 58,
+    "tema": "Diagnóstico de Enfermería",
+    "pregunta": "¿Cuál diagnóstico de Enfermería corresponde a un paciente con Neumonía que presenta dolor pleurítico, fatiga, taquipnea, uso de músculos accesorios, tos y esputo purulento?",
+    "opciones": {
+      "a": "Deterioro del intercambio gaseoso relacionado con la neumonía.",
+      "b": "Limpieza ineficaz de las vías respiratorias relacionada con secreciones traqueobronquiales abundantes",
+      "c": "Patrón respiratorio ineficaz relacionado con el dolor.",
+      "d": "Riesgo de desequilibrio de volumen de líquidos."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 59,
+    "tema": "Valoración Física",
+    "pregunta": "El método de cuatro cuadrantes incluye el empleo de una línea imaginaria dibujada en el abdomen. ¿Qué órgano vital se encuentra localizado en el Cuadrante Superior derecho?",
+    "opciones": {
+      "a": "Estómago",
+      "b": "Bazo",
+      "c": "Hígado",
+      "d": "Colon sigmoides"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 60,
+    "tema": "Epidemiología (COVID-19)/Triage",
+    "pregunta": "El Triage es un proceso que permite la gestión del riesgo clínico. ¿Cuáles son los pasos para la detección en el Triage de un paciente con sospecha por COVID-19?",
+    "opciones": {
+      "a": "Diagnosticar, Medicar, Derivar.",
+      "b": "Identificar, aislar, informar",
+      "c": "Examinar, Hospitalizar, Tratar.",
+      "d": "Registrar, Contactar, Vacunar."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 61,
+    "tema": "Bioseguridad",
+    "pregunta": "¿Ante qué exposición se aplican las medidas estándares de precaución (Precauciones Universales)?",
+    "opciones": {
+      "a": "Solo ante pacientes con diagnóstico de VIH/SIDA.",
+      "b": "Ante Sangre, fluidos corporales, piel no intacta, membranas y mucosa",
+      "c": "Exclusivamente ante pacientes con aislamiento por vía aérea.",
+      "d": "Únicamente en procedimientos quirúrgicos mayores."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 62,
+    "tema": "Bioseguridad (EPP)",
+    "pregunta": "Usted se encuentra realizando cuidados de Enfermería en el área COVID y está por salir de la unidad. ¿Cómo realiza la secuencia de retiro de los Elementos de Protección Personal (EPP)?",
+    "opciones": {
+      "a": "Retira barbijo, luego guantes y finalmente camisolín.",
+      "b": "Retira guantes, barbijo, antiparras y luego camisolín.",
+      "c": "Retira el camisolín (descartar en bolsa roja). Retira guantes (descartar en bolsa roja). Higiene de manos. Retira antiparras (limpiar y desinfectar). Retirar el barbijo (proceder según tipo de elemento utilizado). Higiene de manos.",
+      "d": "Retira antiparras, luego camisolín, barbijo y guantes al final."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 63,
+    "tema": "Epidemiología (COVID-19)/Recomendaciones",
+    "pregunta": "Usted es Enfermero del área COVID y le indican movilizar a un paciente para la realización de una Radiografía como rutina. ¿Qué menciona la recomendación sobre el manejo de los pacientes con insuficiencia respiratoria aguda por COVID-19 ante ese procedimiento?",
+    "opciones": {
+      "a": "Realizar radiografías de tórax de rutinarias diarias obligatoriamente.",
+      "b": "No realizar radiografías de tórax de rutinarias diarias",
+      "c": "Realizar la radiografía solo si el paciente satura menos de 90%.",
+      "d": "Solo se realizan radiografías de tórax post-intubación."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 64,
+    "tema": "Bioseguridad (EPP)",
+    "pregunta": "Usted está en el área COVID con pacientes que presentan síntomas leves, sin procedimientos que generen aerosoles. ¿Qué equipo de protección debe utilizar?",
+    "opciones": {
+      "a": "Barbijo N95 y traje de bioseguridad completo.",
+      "b": "Barbijo quirúrgico, camisolín, guantes, protección ocular o facial",
+      "c": "Solo guantes y camisolín, sin protección respiratoria.",
+      "d": "Cualquier tipo de mascarilla de tela."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 65,
+    "tema": "Bioseguridad (EPP)",
+    "pregunta": "Usted se encuentra realizando cuidados de Enfermería en el área de guardia COVID. ¿En cuál de las actividades usted sabe que **no requiere** el uso de barbijo N95?",
+    "opciones": {
+      "a": "Intubación orotraqueal.",
+      "b": "Aspiración de secreciones.",
+      "c": "Recepción de pacientes en sector Triage.",
+      "d": "Broncoscopía."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 66,
+    "tema": "Bioseguridad (EPP)",
+    "pregunta": "¿Durante qué tipo de procedimientos deberán utilizar los barbijos N95 para la atención del paciente COVID-19?",
+    "opciones": {
+      "a": "Control de temperatura y presión arterial.",
+      "b": "Administración de medicación oral.",
+      "c": "Aspiración, intubación, toma de hisopado naso/ orofaríngeo, broncoscopía",
+      "d": "Cambio de ropa de cama."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 67,
+    "tema": "Bioseguridad (EPP)",
+    "pregunta": "¿Cuál es la función de los elementos de protección personal (EPP)?",
+    "opciones": {
+      "a": "Solo aumentar la sensación de seguridad del personal.",
+      "b": "Reducir la ansiedad del paciente ante la enfermedad.",
+      "c": "Se utilizan para proteger al personal de salud, proteger a los pacientes de infectarse o prevenir que infecten a otros",
+      "d": "Únicamente cumplir con los requisitos legales de la institución."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 68,
+    "tema": "Epidemiología (COVID-19)/Atención Primaria",
+    "pregunta": "Las recomendaciones para el primer nivel de atención mencionan diagramar los circuitos de atención para pacientes en contexto de pandemia. ¿Como debe realizarse ese circuito?",
+    "opciones": {
+      "a": "Fusionar todos los consultorios para una atención más rápida.",
+      "b": "Atender a todos los pacientes en el exterior del centro de salud.",
+      "c": "Diagramar un circuito de pacientes sospechosos y contar con un consultorio de aislamiento respiratorio.",
+      "d": "Suspender toda atención que no sea de emergencia."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 69,
+    "tema": "Bioseguridad",
+    "pregunta": "Los productos de limpieza y desinfección son utilizados habitualmente en los establecimientos sanitarios. ¿Qué capacidad tienen estos contra el SARS-CoV-2?",
+    "opciones": {
+      "a": "No son efectivos contra el virus.",
+      "b": "Solo inhiben su replicación.",
+      "c": "Tienen la capacidad para inactivar el virus",
+      "d": "Únicamente previenen la contaminación bacteriana."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 70,
+    "tema": "Salud Mental (Ley 26657)",
+    "pregunta": "¿Qué objetivo se proponen los tratamientos para personas con consumo problemático de sustancias según el marco de la Ley N° 26657 de Salud Mental?",
+    "opciones": {
+      "a": "La internación compulsiva y prolongada en hospitales monovalentes.",
+      "b": "El proceso de atención debe realizarse preferentemente fuera del ámbito de internación hospitalario con abordaje interdisciplinario.",
+      "c": "La abstinencia total como único criterio de éxito.",
+      "d": "Priorizar el tratamiento farmacológico sobre la psicoterapia."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 71,
+    "tema": "Salud Mental",
+    "pregunta": "Un paciente con taquicardia, hiperventilación, sudoración y miedo a 'morirse o volverse loco' sufre una crisis de ansiedad. ¿Qué estrategia debe adoptar el profesional del equipo de salud?",
+    "opciones": {
+      "a": "Internar al paciente de inmediato para observación psiquiátrica.",
+      "b": "Administrar un sedante fuerte sin evaluar la causa.",
+      "c": "Descartar que su sintomatología tenga causas orgánicas, y luego implementar un abordaje psicoterapéutico y psicofarmacológico ya que estaría sufriendo de una crisis de ansiedad.",
+      "d": "Solo derivar a un psicólogo para manejo ambulatorio."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 72,
+    "tema": "Salud Mental/Farmacología",
+    "pregunta": "Un paciente con esquizofrenia y excitación psicomotriz, alucinación y agresividad. El médico indica 2 medicaciones para calmar el cuadro. ¿Cuáles son las medicaciones indicadas que debe administrarse (ejemplo de contención farmacológica)?",
+    "opciones": {
+      "a": "Paracetamol y Omeprazol.",
+      "b": "Haloperidol y Lorazepam",
+      "c": "Sertralina y Litio.",
+      "d": "Diazepam y Fluoxetina."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 73,
+    "tema": "Salud Mental",
+    "pregunta": "Un paciente presenta depresión, pide ayuda y refiere 'quiero curarme', ¿le recomendaría internarse?",
+    "opciones": {
+      "a": "Sí, toda depresión requiere internación para monitoreo.",
+      "b": "Solo si la familia lo solicita expresamente.",
+      "c": "Presenta riesgo leve, se evalúa situación particular para informar estrategias de cuidado personalizado",
+      "d": "No, nunca es necesario internar por depresión."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 74,
+    "tema": "Farmacología",
+    "pregunta": "¿Por qué vía se metabolizan y se excretan los AINES (Antiinflamatorios no esteroideos)?",
+    "opciones": {
+      "a": "Se metabolizan por vía renal y se excretan por vía hepática.",
+      "b": "Se metabolizan por vía pulmonar y se excretan por vía biliar.",
+      "c": "Se metabolizan por vía hepática y se excretan por vía renal",
+      "d": "Se metabolizan y se excretan por vía gastrointestinal."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 75,
+    "tema": "Farmacología",
+    "pregunta": "Los corticoides pueden clasificarse en tres grandes grupos. ¿Cómo se llaman esos grupos?",
+    "opciones": {
+      "a": "Esteroides, triterpenos y saponinas.",
+      "b": "Glucocorticoides, mineralocorticoides, andrógenos",
+      "c": "Estrogenoides, progestagenos y testosteronas.",
+      "d": "Antiinflamatorios, inmunosupresores y antialérgicos."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 76,
+    "tema": "Farmacología",
+    "pregunta": "¿A qué clasificación se refiere cuando definimos que el antibiótico destruye bacterias Gram positivas, Gram negativas y tienen capacidad para destruir gérmenes de naturaleza distinta a la bacteria?",
+    "opciones": {
+      "a": "Antibióticos de espectro reducido",
+      "b": "Antibióticos amplio espectro",
+      "c": "Bacteriostáticos",
+      "d": "Bactericidas"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 77,
+    "tema": "Farmacología",
+    "pregunta": "La Ceftriaxona pertenece a la familia de las cefalosporinas de tercera generación. ¿Cuáles son las vías de administración de la Ceftriaxona?",
+    "opciones": {
+      "a": "Vía oral únicamente.",
+      "b": "Intratecal e intraarticular.",
+      "c": "IM-EV",
+      "d": "Tópica y subcutánea."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 78,
+    "tema": "Farmacología",
+    "pregunta": "Los aminoglucósidos tienen efectos adversos. ¿Cuáles son esos efectos adversos que se previenen con una administración lenta?",
+    "opciones": {
+      "a": "Hepatotoxicidad, hiperglucemia, miocardiopatía.",
+      "b": "Ototoxicidad, nefrotoxicidad, bloqueo de acetilcolina",
+      "c": "Fotosensibilidad, xerostomía, diarrea.",
+      "d": "Trombocitopenia, anemia aplásica, convulsiones."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 79,
+    "tema": "Derechos del Paciente (Ley 26529)",
+    "pregunta": "Según la Ley N.º 26529/2009, ¿quiénes están legitimados para solicitar la Historia Clínica que se menciona en el artículo 4?",
+    "opciones": {
+      "a": "Solo el médico tratante y el director del hospital.",
+      "b": "Cualquier familiar sin distinción.",
+      "c": "La compañía de seguros del paciente.",
+      "d": "Paciente y representante legal"
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 80,
+    "tema": "Derechos del Paciente (Ley 26529)",
+    "pregunta": "Según la ley Nacional 26529/2009, ¿cuál es uno de los derechos esenciales que les corresponden a los pacientes?",
+    "opciones": {
+      "a": "El derecho a elegir el horario de todas las comidas.",
+      "b": "El derecho a la curación garantizada.",
+      "c": "Trato digno y respetuoso",
+      "d": "El derecho a recibir obsequios del personal de salud."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 81,
+    "tema": "Identidad de Género (Ley 26743)",
+    "pregunta": "Según la ley 26.743/2012 de Identidad de Género, en su artículo 11, habla del derecho al libre desarrollo personal en personas mayores de 18 años. ¿Qué se garantiza en dicho artículo?",
+    "opciones": {
+      "a": "Acceso a cirugías estéticas ilimitadas.",
+      "b": "El goce de su salud integral, Cambio de imagen y cambio de identidad",
+      "c": "El cambio de nombre y sexo solo por orden judicial.",
+      "d": "La prioridad en listas de espera médicas."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 82,
+    "tema": "Identidad de Género (Ley 26743)",
+    "pregunta": "Según la ley 26.743/2012 de Identidad de Género, en su Artículo 5 menciona las situaciones de personas menos de 18 años. ¿Quiénes darán su consentimiento para solicitud de dicho trámite?",
+    "opciones": {
+      "a": "Solo el Juez de Menores.",
+      "b": "Unicamente el menor sin intervención de adultos.",
+      "c": "Cualquier persona que actúe como su tutor.",
+      "d": "Representante legal con expresa conformidad del menor"
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 83,
+    "tema": "Ética Profesional",
+    "pregunta": "Según el Código deontológico del Consejo Internacional de Enfermeras, ¿Con quién debe tener ese compromiso de discreción el profesional de Enfermería al mantener confidencial toda información personal?",
+    "opciones": {
+      "a": "Solo con el médico tratante.",
+      "b": "La enfermera y las personas",
+      "c": "Con el Ministerio de Salud.",
+      "d": "Con el empleador del paciente."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 84,
+    "tema": "Ética Profesional",
+    "pregunta": "La enfermería debe reconocer y respetar la privacidad de cada individuo, siendo consciente de la información obtenida. ¿A qué cualidad moral corresponde lo mencionada?",
+    "opciones": {
+      "a": "Beneficencia",
+      "b": "Confidencialidad",
+      "c": "Justicia",
+      "d": "Veracidad"
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 85,
+    "tema": "Ética Profesional",
+    "pregunta": "Una paciente mentalmente competente rechaza un tratamiento oncológico, pero el médico y la hija insisten en que lo reciba. La enfermera defiende el derecho de la paciente a decidir. ¿Qué principio ético está defendiendo la enfermera?",
+    "opciones": {
+      "a": "No Maleficencia",
+      "b": "Justicia",
+      "c": "Autonomía",
+      "d": "Beneficencia"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 86,
+    "tema": "Interrupción del Embarazo (Ley 27610)",
+    "pregunta": "Una mujer con hemorragia genital abundante y deterioro del sensorio por un embarazo de 12 semanas. Un profesional es objetor de conciencia. Según la Ley 27610, ¿cómo se debe proceder ante esta situación de riesgo de vida?",
+    "opciones": {
+      "a": "El paciente debe ser trasladado a otra institución.",
+      "b": "El profesional debe ser reemplazado por otro en el siguiente turno.",
+      "c": "El personal de salud no podrá negarse dado que la vida o salud de la persona gestante está en peligro y requiere atención inmediata e impostergable.",
+      "d": "Se debe solicitar una orden judicial para el procedimiento."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 87,
+    "tema": "Violencia Laboral",
+    "pregunta": "Usted presencia violencia laboral (elevar la voz, tirar medicación) de un colega con su jefe directo en servicios asistenciales. ¿Cómo se debe proceder ante esta situación?",
+    "opciones": {
+      "a": "Ignorar la situación para evitar problemas personales.",
+      "b": "Denunciar el hecho de violencia según los términos de la presente ley, ya que se desempeñan en servicios asistenciales",
+      "c": "Solo realizar un diálogo informal con el jefe.",
+      "d": "Solicitar el cambio de servicio del colega afectado."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 88,
+    "tema": "Interrupción del Embarazo (Ley 27610)",
+    "pregunta": "¿Qué plazo dispone la Ley 27.610 para la interrupción voluntaria del embarazo (IVE)?",
+    "opciones": {
+      "a": "Hasta la semana 12 inclusive del proceso gestacional.",
+      "b": "Hasta la semana 14 inclusive del proceso gestacional",
+      "c": "Hasta la semana 24 inclusive del proceso gestacional.",
+      "d": "Cualquier momento, si es por causal salud."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 89,
+    "tema": "Ejercicio Profesional (Ley 24004)",
+    "pregunta": "La ley 24.004 del Ejercicio profesional de Enfermería menciona en su artículo 2 funciones específicas para el desarrollo profesional. ¿Qué funciones menciona el articulo 2?",
+    "opciones": {
+      "a": "Solo funciones administrativas y de registro.",
+      "b": "Funciones de promoción, recuperación y rehabilitación de la salud, como la de prevención de enfermedades",
+      "c": "Funciones exclusivas de diagnóstico médico y tratamiento farmacológico.",
+      "d": "Funciones solo en el ámbito hospitalario."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 90,
+    "tema": "Administración y Gestión",
+    "pregunta": "George Terry describe 'un conjunto de funciones que se estimen necesarias para lograr objetivos, una indicación de la autoridad y responsabilidad que tienen a su cargo la ejecución de funciones respectivas'. ¿Qué definición está describiendo el autor?",
+    "opciones": {
+      "a": "Planificación",
+      "b": "Dirección",
+      "c": "Organización",
+      "d": "Control"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 91,
+    "tema": "Administración y Gestión",
+    "pregunta": "¿En qué tipo de organización se acepta romper el principio de unidad de mando (un solo jefe)?",
+    "opciones": {
+      "a": "Líneal",
+      "b": "Militar",
+      "c": "Staff",
+      "d": "Funcional"
+    },
+    "respuesta_correcta": "d"
+  },
+  {
+    "id": 92,
+    "tema": "Administración y Gestión",
+    "pregunta": "La enseñanza en servicio involucra 4 áreas para lograr la eficiencia del personal. ¿Cuales son esas áreas de enseñanza?",
+    "opciones": {
+      "a": "Remuneración, sanciones, ascensos y vacaciones.",
+      "b": "Diagnóstico, tratamiento, seguimiento y evaluación.",
+      "c": "Orientación, adiestramiento, liderazgo y educacion continua.",
+      "d": "Teoría, práctica, investigación y docencia."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 93,
+    "tema": "Administración y Gestión",
+    "pregunta": "¿Cuál es la herramienta básica de calidad, aportada por el ingeniero Kaoru Ishikawa, que se utiliza para identificar, clasificar y analizar las causas de un problema?",
+    "opciones": {
+      "a": "Diagrama de Pareto",
+      "b": "Diagrama de dispersión",
+      "c": "Diagrama de causa-efecto",
+      "d": "Gráfico de control"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 94,
+    "tema": "Administración y Gestión",
+    "pregunta": "¿Cuáles son estos métodos básicos de la comunicación que aseguran una recepción y respuesta eficaz?",
+    "opciones": {
+      "a": "El correo electrónico y el teléfono.",
+      "b": "La palabra escrita, el lenguaje corporal y el lenguaje oral",
+      "c": "Los informes y los comunicados de prensa.",
+      "d": "Las redes sociales y la mensajería instantánea."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 95,
+    "tema": "Administración y Gestión",
+    "pregunta": "La educación continua debe llevarse a cabo periódicamente. ¿Cuál es uno de sus propósitos?",
+    "opciones": {
+      "a": "Aumentar el número de horas extras.",
+      "b": "Reducir el salario del personal.",
+      "c": "Reforzar la confianza del trabajador en su organización",
+      "d": "Automatizar todas las tareas manuales."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 96,
+    "tema": "Administración y Gestión",
+    "pregunta": "¿A qué definición se hace referencia al hablar de la definición y difusión de pautas que son fundamentales para tener la certeza de que los procesos se realizan dentro de un marco de responsabilidad compartida?",
+    "opciones": {
+      "a": "Misión",
+      "b": "Visión",
+      "c": "Valores",
+      "d": "Metas"
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 97,
+    "tema": "Liderazgo",
+    "pregunta": "El coach se define como un líder con visión inspiradora. ¿Qué elementos son necesarios para ser un coach?",
+    "opciones": {
+      "a": "Solo carisma y ambición.",
+      "b": "Poder absoluto y riqueza.",
+      "c": "Tener resultados, disciplina, valores y entrenamiento.",
+      "d": "Ser el más antiguo de la institución."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 98,
+    "tema": "Investigación",
+    "pregunta": "¿Cómo se define la investigación según Hernández Sampieri?",
+    "opciones": {
+      "a": "Un proceso de recolección de datos sin un método específico.",
+      "b": "La búsqueda de información en internet y libros.",
+      "c": "La investigación es un conjunto de procesos sistemáticos, críticos y empíricos que se aplican al estudio de un fenómeno o problema.",
+      "d": "La formulación de hipótesis sin comprobación."
+    },
+    "respuesta_correcta": "c"
+  },
+  {
+    "id": 99,
+    "tema": "Investigación",
+    "pregunta": "En el caso de un estudio de alcance descriptivo, ¿Qué utilidad aporta como 'Valor'?",
+    "opciones": {
+      "a": "Establece relaciones causales entre variables.",
+      "b": "Es útil para mostrar con precisión los ángulos o dimensiones de un fenómeno, suceso, comunidad, contexto o situación.",
+      "c": "Predice el comportamiento futuro de una variable.",
+      "d": "Comprueba teorías y modelos existentes."
+    },
+    "respuesta_correcta": "b"
+  },
+  {
+    "id": 100,
+    "tema": "Leyes y Derechos",
+    "pregunta": "Según Artaza Barrios, ¿cuál es una de las principales expresiones operativas del enfoque de la Atención Primaria de la Salud a nivel de los servicios de salud? [cite: 390]",
+    "opciones": {
+      "a": "Hospitales de Alta Complejidad.",
+      "b": "Redes Integradas de Servicios de Salud",
+      "c": "Unidades de Terapia Intensiva.",
+      "d": "Programas de Trasplantes."
+    },
+    "respuesta_correcta": "b"
+  }
+]
