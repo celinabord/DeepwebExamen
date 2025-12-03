@@ -6,20 +6,20 @@
     {
       "id": 1,
       "pregunta": "¿Cuál es el primer paso en el proceso de enfermería? Valoración. Evaluación. Intervención. Diagnóstico final.",
-      "opcion a": "Valoración.",
-      "opcion b": "Evaluación.",
+      "opcion a": "Evaluación.",
+      "opcion b": "Valoración.",
       "opcion c": "Intervención.",
       "opcion d": "Diagnóstico final.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 2,
       "pregunta": "¿Cuál es la temperatura corporal que define fiebre en adultos? ≥ 38 °C. ≥ 36.9 °C. ≥ 37.2 °C. ≥ 37.5 °C al tacto.",
-      "opcion a": "≥ 38 °C.",
+      "opcion a": "≥ 37.2 °C.",
       "opcion b": "≥ 36.9 °C.",
-      "opcion c": "≥ 37.2 °C.",
+      "opcion c": "≥ 38 °C.",
       "opcion d": "≥ 37.5 °C al tacto.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 3,
@@ -33,11 +33,11 @@
     {
       "id": 4,
       "pregunta": "¿Qué músculo es el sitio recomendado para la aplicación de inyecciones intramusculares en menores de 2 años? Vasto externo. Deltoides. Glúteo mayor. Trapecio.",
-      "opcion a": "Vasto externo.",
+      "opcion a": "Glúteo mayor.",
       "opcion b": "Deltoides.",
-      "opcion c": "Glúteo mayor.",
+      "opcion c": "Vasto externo.",
       "opcion d": "Trapecio.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 5,
@@ -69,20 +69,20 @@
     {
       "id": 8,
       "pregunta": "¿Qué órgano regula principalmente el equilibrio ácido-base? Riñones. Estómago. Hígado. Bazo.",
-      "opcion a": "Riñones.",
+      "opcion a": "Hígado.",
       "opcion b": "Estómago.",
-      "opcion c": "Hígado.",
+      "opcion c": "Riñones.",
       "opcion d": "Bazo.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 9,
       "pregunta": "¿Cuál es la presión arterial considerada normal en adultos? 120/80 mmHg. 140/100 mmHg. 90/50 mmHg. 160/110 mmHg.",
-      "opcion a": "120/80 mmHg.",
-      "opcion b": "140/100 mmHg.",
+      "opcion a": "140/100 mmHg.",
+      "opcion b": "120/80 mmHg.",
       "opcion c": "90/50 mmHg.",
       "opcion d": "160/110 mmHg.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 10,
@@ -96,20 +96,20 @@
     {
       "id": 11,
       "pregunta": "¿Qué se recomienda realizar para la interpretación y uso de las nuevas tablas de referencia de presión arterial para niños, niñas y adolescentes, si no se dispone del mango apropiado para la toma? Utilizar un mango más grande. Utilizar el mango más pequeño disponible. Tomar la presión sin manguito. Inflar el manguito a la mitad para compensar.",
-      "opcion a": "Utilizar un mango más grande.",
+      "opcion a": "Inflar el manguito a la mitad para compensar.",
       "opcion b": "Utilizar el mango más pequeño disponible.",
       "opcion c": "Tomar la presión sin manguito.",
-      "opcion d": "Inflar el manguito a la mitad para compensar.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Utilizar un mango más grande.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 12,
       "pregunta": "¿Qué derechos tiene la persona gestante durante el trabajo de parto, parto y puerperio en cuanto a la persona acompañante? Puede elegir a la persona que la acompañe todo el tiempo en esos procesos. Solo puede elegir un familiar de primer grado. Puede elegir acompañante pero solo durante el trabajo de parto. Debe ser acompañado únicamente por personal sanitario.",
-      "opcion a": "Puede elegir a la persona que la acompañe todo el tiempo en esos procesos.",
+      "opcion a": "Debe ser acompañado únicamente por personal sanitario.",
       "opcion b": "Solo puede elegir un familiar de primer grado.",
       "opcion c": "Puede elegir acompañante pero solo durante el trabajo de parto.",
-      "opcion d": "Debe ser acompañado únicamente por personal sanitario.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Puede elegir a la persona que la acompañe todo el tiempo en esos procesos.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 13,
@@ -123,47 +123,47 @@
     {
       "id": 14,
       "pregunta": "¿Qué elementos contempla la Enfermería basada en la evidencia (EBE)? Evidencia científica, experiencia profesional y la opinión del usuario. Protocolos institucionales, normas y supervisiones. Diagnóstico, tratamiento y rehabilitación. Evaluación, auditoría y reporte profesional.",
-      "opcion a": "Evidencia científica, experiencia profesional y la opinión del usuario.",
+      "opcion a": "Diagnóstico, tratamiento y rehabilitación.",
       "opcion b": "Protocolos institucionales, normas y supervisiones.",
-      "opcion c": "Diagnóstico, tratamiento y rehabilitación.",
+      "opcion c": "Evidencia científica, experiencia profesional y la opinión del usuario.",
       "opcion d": "Evaluación, auditoría y reporte profesional.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 15,
       "pregunta": "¿A qué edad comienzan a manifestarse las caries? Antes del año. Entre los 2 y 3 años. A partir de los 5 años. Solo cuando salen las muelas definitivas.",
-      "opcion a": "Antes del año.",
+      "opcion a": "A partir de los 5 años.",
       "opcion b": "Entre los 2 y 3 años.",
-      "opcion c": "A partir de los 5 años.",
+      "opcion c": "Antes del año.",
       "opcion d": "Solo cuando salen las muelas definitivas.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 16,
       "pregunta": "Relación adecuada entre compresiones torácicas y ventilaciones en RCP en mayores de 1 año: 30 compresiones torácicas seguidas de 2 ventilaciones. 20 compresiones y 5 ventilaciones. 10 compresiones y 3 ventilaciones. 5 compresiones por cada ventilación.",
-      "opcion a": "30 compresiones torácicas seguidas de 2 ventilaciones.",
+      "opcion a": "10 compresiones y 3 ventilaciones.",
       "opcion b": "20 compresiones y 5 ventilaciones.",
-      "opcion c": "10 compresiones y 3 ventilaciones.",
+      "opcion c": "30 compresiones torácicas seguidas de 2 ventilaciones.",
       "opcion d": "5 compresiones por cada ventilación.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 17,
       "pregunta": "Objetivo principal de la maniobra de Heimlich: Desobstrucción de la vía aérea. Estimular respiración en pacientes con apnea. Facilitar la ventilación mecánica. Controlar una hemorragia nasal.",
-      "opcion a": "Desobstrucción de la vía aérea.",
-      "opcion b": "Estimular respiración en pacientes con apnea.",
+      "opcion a": "Estimular respiración en pacientes con apnea.",
+      "opcion b": "Desobstrucción de la vía aérea.",
       "opcion c": "Facilitar la ventilación mecánica.",
       "opcion d": "Controlar una hemorragia nasal.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 18,
       "pregunta": "¿Qué hacer si se inicia RCP y el DEA tarda más de 10 min? Continuar realizando RCP hasta conseguir un DEA. Detener la RCP a los 10 minutos. Cambiar a ventilaciones únicamente. Administrar agua y esperar asistencia.",
-      "opcion a": "Continuar realizando RCP hasta conseguir un DEA.",
+      "opcion a": "Cambiar a ventilaciones únicamente.",
       "opcion b": "Detener la RCP a los 10 minutos.",
-      "opcion c": "Cambiar a ventilaciones únicamente.",
+      "opcion c": "Continuar realizando RCP hasta conseguir un DEA.",
       "opcion d": "Administrar agua y esperar asistencia.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 19,
@@ -177,11 +177,11 @@
     {
       "id": 20,
       "pregunta": "¿Quiénes llevan a cabo la farmacodinamia? Células, tejidos u organismos. Sustancias ácidas y bacterias. Enzimas, hormonas y parásitos. Vitaminas, minerales y electrolitos.",
-      "opcion a": "Células, tejidos u organismos.",
+      "opcion a": "Vitaminas, minerales y electrolitos.",
       "opcion b": "Sustancias ácidas y bacterias.",
       "opcion c": "Enzimas, hormonas y parásitos.",
-      "opcion d": "Vitaminas, minerales y electrolitos.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Células, tejidos u organismos.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 21,
@@ -204,47 +204,47 @@
     {
       "id": 23,
       "pregunta": "Recomendación del Ministerio sobre catéteres centrales (Prevención cuaternaria): Se recomienda monitorizar y revisar diariamente para garantizar su uso. Cambiarlo cada 8 horas. Mantenerlo indefinidamente sin revisión. Cambiarlo solo cuando venas periféricas se ocluyen.",
-      "opcion a": "Se recomienda monitorizar y revisar diariamente para garantizar su uso.",
-      "opcion b": "Cambiarlo cada 8 horas.",
+      "opcion a": "Cambiarlo cada 8 horas.",
+      "opcion b": "Se recomienda monitorizar y revisar diariamente para garantizar su uso.",
       "opcion c": "Mantenerlo indefinidamente sin revisión.",
       "opcion d": "Cambiarlo solo cuando venas periféricas se ocluyen.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 24,
       "pregunta": "Definición de anticuerpo: Proteína producida por el organismo en respuesta a antígenos. Sustancia lipídica que recubre células inmunes. Un tipo específico de antígeno. Un virus que induce respuesta inmune.",
-      "opcion a": "Proteína producida por el organismo en respuesta a antígenos.",
+      "opcion a": "Un tipo específico de antígeno.",
       "opcion b": "Sustancia lipídica que recubre células inmunes.",
-      "opcion c": "Un tipo específico de antígeno.",
+      "opcion c": "Proteína producida por el organismo en respuesta a antígenos.",
       "opcion d": "Un virus que induce respuesta inmune.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 25,
       "pregunta": "Factor cuya ausencia puede causar errores catastróficos según OMS: Identificación del paciente. Control de temperatura ambiental. Disponibilidad de guantes estériles. Limpieza diaria de la sala.",
-      "opcion a": "Identificación del paciente.",
+      "opcion a": "Limpieza diaria de la sala.",
       "opcion b": "Control de temperatura ambiental.",
       "opcion c": "Disponibilidad de guantes estériles.",
-      "opcion d": "Limpieza diaria de la sala.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Identificación del paciente.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 26,
       "pregunta": "Etapas del puerperio: Inmediato, precoz, alejado y tardío. Inicial, medio, final y crónico. Preinmediato, mediato y ultratardío. Posparto básico y avanzado.",
-      "opcion a": "Inmediato, precoz, alejado y tardío.",
+      "opcion a": "Posparto básico y avanzado.",
       "opcion b": "Inicial, medio, final y crónico.",
       "opcion c": "Preinmediato, mediato y ultratardío.",
-      "opcion d": "Posparto básico y avanzado.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Inmediato, precoz, alejado y tardío.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 27,
       "pregunta": "Volumen corriente (VC): Cantidad de aire de unos 500 ml que entra y sale de los pulmones. Volumen que permanece tras espiración forzada (1000 ml). Aire inspirado en esfuerzo máximo (3000 ml). Volumen residual permanente.",
-      "opcion a": "Cantidad de aire de unos 500 ml que entra y sale de los pulmones.",
+      "opcion a": "Aire inspirado en esfuerzo máximo (3000 ml).",
       "opcion b": "Volumen que permanece tras espiración forzada (1000 ml).",
-      "opcion c": "Aire inspirado en esfuerzo máximo (3000 ml).",
+      "opcion c": "Cantidad de aire de unos 500 ml que entra y sale de los pulmones.",
       "opcion d": "Volumen residual permanente.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 28,
@@ -258,29 +258,29 @@
     {
       "id": 29,
       "pregunta": "Atributos del cuidado humanizado según Cruz Riveros: Ser humano sujeto de cuidado, comunicación y enfoque holístico. Priorizar enfermedad sobre persona. Cuidado técnico sin interacción. Intervención basada solo en evidencia científica.",
-      "opcion a": "Ser humano sujeto de cuidado, comunicación y enfoque holístico.",
-      "opcion b": "Priorizar enfermedad sobre persona.",
+      "opcion a": "Priorizar enfermedad sobre persona.",
+      "opcion b": "Ser humano sujeto de cuidado, comunicación y enfoque holístico.",
       "opcion c": "Cuidado técnico sin interacción.",
       "opcion d": "Intervención basada solo en evidencia científica.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 30,
       "pregunta": "Datos para evaluación antropométrica: Peso, talla e IMC. Peso, edad y nivel de actividad. Perímetro craneal, edad y talla. IMC, edad gestacional y sexo.",
-      "opcion a": "Peso, talla e IMC.",
-      "opcion b": "Peso, edad y nivel de actividad.",
+      "opcion a": "Peso, edad y nivel de actividad.",
+      "opcion b": "Peso, talla e IMC.",
       "opcion c": "Perímetro craneal, edad y talla.",
       "opcion d": "IMC, edad gestacional y sexo.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 31,
       "pregunta": "Primer punto del algoritmo de paro cardíaco AHA: Iniciar RCP, administrar oxígeno y conectar monitor/desfibrilador. Administrar adrenalina inmediatamente. Realizar solo ventilaciones. Trasladar al paciente antes de iniciar maniobras.",
-      "opcion a": "Iniciar RCP, administrar oxígeno y conectar monitor/desfibrilador.",
-      "opcion b": "Administrar adrenalina inmediatamente.",
+      "opcion a": "Administrar adrenalina inmediatamente.",
+      "opcion b": "Iniciar RCP, administrar oxígeno y conectar monitor/desfibrilador.",
       "opcion c": "Realizar solo ventilaciones.",
       "opcion d": "Trasladar al paciente antes de iniciar maniobras.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 32,
@@ -294,29 +294,29 @@
     {
       "id": 33,
       "pregunta": "Terapia de oxígeno en disnea no hipóxica: No utilizar oxígeno. Administrar oxígeno a alto flujo. Utilizar oxígeno cada vez que haya disnea. Colocar mascarilla reservorio por precaución.",
-      "opcion a": "No utilizar oxígeno.",
-      "opcion b": "Administrar oxígeno a alto flujo.",
+      "opcion a": "Administrar oxígeno a alto flujo.",
+      "opcion b": "No utilizar oxígeno.",
       "opcion c": "Utilizar oxígeno cada vez que haya disnea.",
       "opcion d": "Colocar mascarilla reservorio por precaución.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 34,
       "pregunta": "Capacidad ventilatoria: aire que queda tras espiración normal: Residual funcional. Vital. Inspiratoria forzada. Pulmonar total.",
-      "opcion a": "Residual funcional.",
+      "opcion a": "Pulmonar total.",
       "opcion b": "Vital.",
       "opcion c": "Inspiratoria forzada.",
-      "opcion d": "Pulmonar total.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Residual funcional.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 35,
       "pregunta": "Sedación en urgencia de salud mental: Haloperidol y Lorazepam. Clonazepam con morfina. Midazolam solo. Risperidona y diazepam oral.",
-      "opcion a": "Haloperidol y Lorazepam.",
+      "opcion a": "Midazolam solo.",
       "opcion b": "Clonazepam con morfina.",
-      "opcion c": "Midazolam solo.",
+      "opcion c": "Haloperidol y Lorazepam.",
       "opcion d": "Risperidona y diazepam oral.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 36,
@@ -339,29 +339,29 @@
     {
       "id": 38,
       "pregunta": "Funciones de enfermería en Atención Primaria: Asistencial, formar, gestionar e investigar. Solo asistencial. Dirigir exclusivamente programas. Control administrativo sin intervención clínica.",
-      "opcion a": "Asistencial, formar, gestionar e investigar.",
-      "opcion b": "Solo asistencial.",
+      "opcion a": "Solo asistencial.",
+      "opcion b": "Asistencial, formar, gestionar e investigar.",
       "opcion c": "Dirigir exclusivamente programas.",
       "opcion d": "Control administrativo sin intervención clínica.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 39,
       "pregunta": "Función principal de los pelos nasales: Filtrar el aire. Humidificar aire. Capturar CO₂. Regular temperatura interna.",
-      "opcion a": "Filtrar el aire.",
+      "opcion a": "Capturar CO₂.",
       "opcion b": "Humidificar aire.",
-      "opcion c": "Capturar CO₂.",
+      "opcion c": "Filtrar el aire.",
       "opcion d": "Regular temperatura interna.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 40,
       "pregunta": "¿Qué es la “primera hora de vida”? Adaptación neonatal al medio extrauterino e inicio de lactancia. Tiempo previo al baño del recién nacido. Momento entre alumbramiento y control materno. Periodo entre piel a piel y alta hospitalaria.",
-      "opcion a": "Adaptación neonatal al medio extrauterino e inicio de lactancia.",
+      "opcion a": "Periodo entre piel a piel y alta hospitalaria.",
       "opcion b": "Tiempo previo al baño del recién nacido.",
       "opcion c": "Momento entre alumbramiento y control materno.",
-      "opcion d": "Periodo entre piel a piel y alta hospitalaria.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Adaptación neonatal al medio extrauterino e inicio de lactancia.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 41,
@@ -393,128 +393,128 @@
     {
       "id": 44,
       "pregunta": "(Inventada) ¿Qué significa el término \"asepsia\"? Ausencia de microorganismos patógenos. Eliminación total de esporas. Limpieza de superficies visiblemente sucias. Reducción de agentes químicos.",
-      "opcion a": "Ausencia de microorganismos patógenos.",
+      "opcion a": "Limpieza de superficies visiblemente sucias.",
       "opcion b": "Eliminación total de esporas.",
-      "opcion c": "Limpieza de superficies visiblemente sucias.",
+      "opcion c": "Ausencia de microorganismos patógenos.",
       "opcion d": "Reducción de agentes químicos.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 45,
       "pregunta": "(Inventada) ¿Qué indica un GCS (Glasgow) de 8? Coma. Somnolencia leve. Estado de alerta. Confusión leve.",
-      "opcion a": "Coma.",
-      "opcion b": "Somnolencia leve.",
+      "opcion a": "Somnolencia leve.",
+      "opcion b": "Coma.",
       "opcion c": "Estado de alerta.",
       "opcion d": "Confusión leve.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 46,
       "pregunta": "(Inventada) ¿Cuál es el mejor sitio para medir temperatura axilar? Zona central de la axila con brazo aducido. Sobre la ropa. Sobre la clavícula. En la palma de la mano.",
-      "opcion a": "Zona central de la axila con brazo aducido.",
-      "opcion b": "Sobre la ropa.",
+      "opcion a": "Sobre la ropa.",
+      "opcion b": "Zona central de la axila con brazo aducido.",
       "opcion c": "Sobre la clavícula.",
       "opcion d": "En la palma de la mano.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 47,
       "pregunta": "(Inventada) ¿Qué parámetro indica deshidratación moderada? Llenado capilar > 2 segundos. Sudoración excesiva. Pulso lleno y fuerte. Ruidos intestinales aumentados.",
-      "opcion a": "Llenado capilar > 2 segundos.",
+      "opcion a": "Pulso lleno y fuerte.",
       "opcion b": "Sudoración excesiva.",
-      "opcion c": "Pulso lleno y fuerte.",
+      "opcion c": "Llenado capilar > 2 segundos.",
       "opcion d": "Ruidos intestinales aumentados.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 48,
       "pregunta": "(Inventada) ¿Qué vía se recomienda para administración de adrenalina en anafilaxia? Intramuscular. Subcutánea. Intradérmica. Tópica.",
-      "opcion a": "Intramuscular.",
+      "opcion a": "Tópica.",
       "opcion b": "Subcutánea.",
       "opcion c": "Intradérmica.",
-      "opcion d": "Tópica.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Intramuscular.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 49,
       "pregunta": "(Inventada) ¿Cuál es un signo temprano de sepsis? Taquicardia. Bradicardia. Piel fría marmórea inicial. Hipotermia marcada de entrada.",
-      "opcion a": "Taquicardia.",
+      "opcion a": "Hipotermia marcada de entrada.",
       "opcion b": "Bradicardia.",
       "opcion c": "Piel fría marmórea inicial.",
-      "opcion d": "Hipotermia marcada de entrada.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Taquicardia.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 50,
       "pregunta": "(Inventada) ¿Qué indica un FR > 30 en adulto? Taquipnea. Bradipnea. Eupnea. Apenustia.",
-      "opcion a": "Taquipnea.",
-      "opcion b": "Bradipnea.",
+      "opcion a": "Bradipnea.",
+      "opcion b": "Taquipnea.",
       "opcion c": "Eupnea.",
       "opcion d": "Apenustia.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 51,
       "pregunta": "(Inventada) ¿Qué elemento es fundamental en la técnica de RCP de calidad? Permitir la expansión completa del tórax entre compresiones. Pausar compresiones para descansar cada 20 segundos. Comprimir rápido sin ritmo definido. Ventilar más de 20 veces por minuto.",
-      "opcion a": "Permitir la expansión completa del tórax entre compresiones.",
-      "opcion b": "Pausar compresiones para descansar cada 20 segundos.",
+      "opcion a": "Pausar compresiones para descansar cada 20 segundos.",
+      "opcion b": "Permitir la expansión completa del tórax entre compresiones.",
       "opcion c": "Comprimir rápido sin ritmo definido.",
       "opcion d": "Ventilar más de 20 veces por minuto.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 52,
       "pregunta": "(Inventada) ¿Cuándo se debe lavar las manos según OMS? Antes y después del contacto con el paciente. Únicamente al final del turno. Solo cuando haya suciedad visible. Solo antes de procedimientos invasivos.",
-      "opcion a": "Antes y después del contacto con el paciente.",
+      "opcion a": "Solo cuando haya suciedad visible.",
       "opcion b": "Únicamente al final del turno.",
-      "opcion c": "Solo cuando haya suciedad visible.",
+      "opcion c": "Antes y después del contacto con el paciente.",
       "opcion d": "Solo antes de procedimientos invasivos.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 53,
       "pregunta": "(Inventada) ¿Cuál es el valor normal de frecuencia cardíaca en adulto? 60–100 lpm. 20–40 lpm. 110–150 lpm. 40–55 lpm.",
-      "opcion a": "60–100 lpm.",
-      "opcion b": "20–40 lpm.",
+      "opcion a": "20–40 lpm.",
+      "opcion b": "60–100 lpm.",
       "opcion c": "110–150 lpm.",
       "opcion d": "40–55 lpm.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 54,
       "pregunta": "(Inventada) ¿Cuál es la vía recomendada para hidratación en deshidratación leve? Vía oral. Intradérmica. Intratecal. Subcutánea.",
-      "opcion a": "Vía oral.",
-      "opcion b": "Intradérmica.",
+      "opcion a": "Intradérmica.",
+      "opcion b": "Vía oral.",
       "opcion c": "Intratecal.",
       "opcion d": "Subcutánea.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 55,
       "pregunta": "(Inventada) ¿Qué indica piel pálida y fría? Hipoperfusión. Fiebre. Hiperhidratación. Broncoespasmo.",
-      "opcion a": "Hipoperfusión.",
+      "opcion a": "Broncoespasmo.",
       "opcion b": "Fiebre.",
       "opcion c": "Hiperhidratación.",
-      "opcion d": "Broncoespasmo.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Hipoperfusión.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 56,
       "pregunta": "(Inventada) El triage de color rojo indica: Atención inmediata. Baja prioridad. Atención demorable. Paciente ambulatorio.",
-      "opcion a": "Atención inmediata.",
+      "opcion a": "Paciente ambulatorio.",
       "opcion b": "Baja prioridad.",
       "opcion c": "Atención demorable.",
-      "opcion d": "Paciente ambulatorio.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Atención inmediata.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 57,
       "pregunta": "(Inventada) ¿Cuál es el riesgo principal del reposo prolongado? Tromboembolismo venoso. Hipertiroidismo. Hiperhidratación. Hipoglucemia.",
-      "opcion a": "Tromboembolismo venoso.",
-      "opcion b": "Hipertiroidismo.",
+      "opcion a": "Hipertiroidismo.",
+      "opcion b": "Tromboembolismo venoso.",
       "opcion c": "Hiperhidratación.",
       "opcion d": "Hipoglucemia.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 58,
@@ -528,65 +528,65 @@
     {
       "id": 59,
       "pregunta": "(Inventada) ¿Qué acción es prioritaria en una hipoglucemia severa? Administrar glucosa EV. Ofrecer alimentos sólidos. Indicar reposo. Administrar suero fisiológico.",
-      "opcion a": "Administrar glucosa EV.",
-      "opcion b": "Ofrecer alimentos sólidos.",
+      "opcion a": "Ofrecer alimentos sólidos.",
+      "opcion b": "Administrar glucosa EV.",
       "opcion c": "Indicar reposo.",
       "opcion d": "Administrar suero fisiológico.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 60,
       "pregunta": "(Inventada) ¿Qué examen confirma anemia? Hemoglobina baja. Plaquetas altas. Sodio elevado. Leucocitosis aislada.",
-      "opcion a": "Hemoglobina baja.",
+      "opcion a": "Leucocitosis aislada.",
       "opcion b": "Plaquetas altas.",
       "opcion c": "Sodio elevado.",
-      "opcion d": "Leucocitosis aislada.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Hemoglobina baja.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 61,
       "pregunta": "(Inventada) ¿Qué posición facilita la respiración en disnea? Fowler. Decúbito prono. Trendelemburg. Rodillas al pecho.",
-      "opcion a": "Fowler.",
-      "opcion b": "Decúbito prono.",
+      "opcion a": "Decúbito prono.",
+      "opcion b": "Fowler.",
       "opcion c": "Trendelemburg.",
       "opcion d": "Rodillas al pecho.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 62,
       "pregunta": "(Inventada) ¿Qué indica una presión diferencial muy baja? Shock. Fiebre. Hiperkalemia. Hipotiroidismo.",
-      "opcion a": "Shock.",
+      "opcion a": "Hipotiroidismo.",
       "opcion b": "Fiebre.",
       "opcion c": "Hiperkalemia.",
-      "opcion d": "Hipotiroidismo.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Shock.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 63,
       "pregunta": "(Inventada) ¿Qué electrolito controla la contracción muscular? Calcio. Cloro. Hierro. Vitamina K.",
-      "opcion a": "Calcio.",
+      "opcion a": "Hierro.",
       "opcion b": "Cloro.",
-      "opcion c": "Hierro.",
+      "opcion c": "Calcio.",
       "opcion d": "Vitamina K.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 64,
       "pregunta": "(Inventada) ¿Qué significa FR 10 en adulto? Bradipnea. Hipopnea severa. Taquipnea. Eupnea.",
-      "opcion a": "Bradipnea.",
+      "opcion a": "Eupnea.",
       "opcion b": "Hipopnea severa.",
       "opcion c": "Taquipnea.",
-      "opcion d": "Eupnea.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Bradipnea.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 65,
       "pregunta": "(Inventada) ¿Qué hacer ante convulsión? Proteger la cabeza del paciente. Sujetar extremidades fuertemente. Colocar objeto en la boca. Administrar líquidos por vía oral.",
-      "opcion a": "Proteger la cabeza del paciente.",
-      "opcion b": "Sujetar extremidades fuertemente.",
+      "opcion a": "Sujetar extremidades fuertemente.",
+      "opcion b": "Proteger la cabeza del paciente.",
       "opcion c": "Colocar objeto en la boca.",
       "opcion d": "Administrar líquidos por vía oral.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 66,
@@ -609,20 +609,20 @@
     {
       "id": 68,
       "pregunta": "(Inventada) ¿Qué indica una FC de 40 lpm en adulto? Bradicardia. Hipertensión arterial. Taquicardia. Hipoxemia.",
-      "opcion a": "Bradicardia.",
+      "opcion a": "Taquicardia.",
       "opcion b": "Hipertensión arterial.",
-      "opcion c": "Taquicardia.",
+      "opcion c": "Bradicardia.",
       "opcion d": "Hipoxemia.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 69,
       "pregunta": "(Inventada) ¿Cuál es el riesgo de una vía periférica sin control prolongado? Flebitis. Hipoglucemia. Hipertrofia muscular. Hipocalcemia.",
-      "opcion a": "Flebitis.",
+      "opcion a": "Hipocalcemia.",
       "opcion b": "Hipoglucemia.",
       "opcion c": "Hipertrofia muscular.",
-      "opcion d": "Hipocalcemia.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Flebitis.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 70,
@@ -654,29 +654,29 @@
     {
       "id": 73,
       "pregunta": "(Inventada) ¿Cuál es la vía de elección para administrar medicación durante un paro cardíaco? Intravenosa. Tópica. Oral. Subcutánea.",
-      "opcion a": "Intravenosa.",
-      "opcion b": "Tópica.",
+      "opcion a": "Tópica.",
+      "opcion b": "Intravenosa.",
       "opcion c": "Oral.",
       "opcion d": "Subcutánea.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 74,
       "pregunta": "(Inventada) ¿Qué complicación puede producir un catéter mal fijado? Extravasación. Hiperglucemia. Insuficiencia respiratoria. Aumento de temperatura corporal.",
-      "opcion a": "Extravasación.",
+      "opcion a": "Aumento de temperatura corporal.",
       "opcion b": "Hiperglucemia.",
       "opcion c": "Insuficiencia respiratoria.",
-      "opcion d": "Aumento de temperatura corporal.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Extravasación.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 75,
       "pregunta": "(Inventada) ¿Cuál es el objetivo del lavado de manos clínico? Reducir la flora transitoria. Esterilizar completamente la piel. Aumentar la humedad de las manos. Eliminar virus resistentes exclusivamente.",
-      "opcion a": "Reducir la flora transitoria.",
+      "opcion a": "Aumentar la humedad de las manos.",
       "opcion b": "Esterilizar completamente la piel.",
-      "opcion c": "Aumentar la humedad de las manos.",
+      "opcion c": "Reducir la flora transitoria.",
       "opcion d": "Eliminar virus resistentes exclusivamente.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 76,
@@ -690,47 +690,47 @@
     {
       "id": 77,
       "pregunta": "(Inventada) ¿Cuál es la complicación más frecuente del reposo prolongado en cama? Úlceras por presión. Hepatitis. Pancreatitis. Miopía.",
-      "opcion a": "Úlceras por presión.",
+      "opcion a": "Pancreatitis.",
       "opcion b": "Hepatitis.",
-      "opcion c": "Pancreatitis.",
+      "opcion c": "Úlceras por presión.",
       "opcion d": "Miopía.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 78,
       "pregunta": "Masa ovárica heterogénea con doppler (+). ¿Qué estudio complementario solicitar? Marcadores tumorales. Radiografía simple de abdomen. Ecografía mamaria. TAC de cráneo.",
-      "opcion a": "Marcadores tumorales.",
-      "opcion b": "Radiografía simple de abdomen.",
+      "opcion a": "Radiografía simple de abdomen.",
+      "opcion b": "Marcadores tumorales.",
       "opcion c": "Ecografía mamaria.",
       "opcion d": "TAC de cráneo.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 79,
       "pregunta": "Diseño más adecuado para enfermedad de baja prevalencia y múltiples factores de riesgo: Estudio de casos y controles. Estudio poblacional masivo. Estudio clínico aleatorio. Ensayo no controlado.",
-      "opcion a": "Estudio de casos y controles.",
+      "opcion a": "Estudio clínico aleatorio.",
       "opcion b": "Estudio poblacional masivo.",
-      "opcion c": "Estudio clínico aleatorio.",
+      "opcion c": "Estudio de casos y controles.",
       "opcion d": "Ensayo no controlado.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 80,
       "pregunta": "Soplo sistólico eyectivo que se atenúa al sentarse en niña de 10 años: Soplo funcional. Estenosis pulmonar. Comunicación interauricular. Insuficiencia tricuspídea.",
-      "opcion a": "Soplo funcional.",
+      "opcion a": "Comunicación interauricular.",
       "opcion b": "Estenosis pulmonar.",
-      "opcion c": "Comunicación interauricular.",
+      "opcion c": "Soplo funcional.",
       "opcion d": "Insuficiencia tricuspídea.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 81,
       "pregunta": "Hernia inguinoescrotal dolorosa + acidosis + hiperlactacidemia: Colocación de sonda nasogástrica y cirugía urgente. Administrar analgésico y dar alta. Realizar solo radiografía y observar. Reposo en cama por 24 horas.",
-      "opcion a": "Colocación de sonda nasogástrica y cirugía urgente.",
+      "opcion a": "Realizar solo radiografía y observar.",
       "opcion b": "Administrar analgésico y dar alta.",
-      "opcion c": "Realizar solo radiografía y observar.",
+      "opcion c": "Colocación de sonda nasogástrica y cirugía urgente.",
       "opcion d": "Reposo en cama por 24 horas.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 82,
@@ -744,65 +744,65 @@
     {
       "id": 83,
       "pregunta": "Gestante 33 semanas con sangrado rojo oscuro + tono aumentado: Desprendimiento de placenta normoinserta. Placenta previa. Hemorroides sangrantes. Pólipo cervical benigno.",
-      "opcion a": "Desprendimiento de placenta normoinserta.",
+      "opcion a": "Hemorroides sangrantes.",
       "opcion b": "Placenta previa.",
-      "opcion c": "Hemorroides sangrantes.",
+      "opcion c": "Desprendimiento de placenta normoinserta.",
       "opcion d": "Pólipo cervical benigno.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 84,
       "pregunta": "Inicio de insulina en diabetes tipo 2: Pérdida de peso no planificada asociada a hiperglucemia. Por malestar inespecífico. Solo por mal control dietario. Con glucemias normales alteradas.",
-      "opcion a": "Pérdida de peso no planificada asociada a hiperglucemia.",
+      "opcion a": "Con glucemias normales alteradas.",
       "opcion b": "Por malestar inespecífico.",
       "opcion c": "Solo por mal control dietario.",
-      "opcion d": "Con glucemias normales alteradas.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Pérdida de peso no planificada asociada a hiperglucemia.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 85,
       "pregunta": "¿Cuándo se debe continuar lactancia? Mastitis unilateral. VIH materno positivo. Tuberculosis activa sin tratamiento. Infección bacteriana grave del RN.",
-      "opcion a": "Mastitis unilateral.",
+      "opcion a": "Infección bacteriana grave del RN.",
       "opcion b": "VIH materno positivo.",
       "opcion c": "Tuberculosis activa sin tratamiento.",
-      "opcion d": "Infección bacteriana grave del RN.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Mastitis unilateral.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 86,
       "pregunta": "Epistaxis en pediatría: ¿cuándo pedir laboratorio? Epistaxis graves o recurrentes sin causa local. En cualquier primer episodio. Si hubo llanto intenso previo. Si tomó bebidas calientes.",
-      "opcion a": "Epistaxis graves o recurrentes sin causa local.",
-      "opcion b": "En cualquier primer episodio.",
+      "opcion a": "En cualquier primer episodio.",
+      "opcion b": "Epistaxis graves o recurrentes sin causa local.",
       "opcion c": "Si hubo llanto intenso previo.",
       "opcion d": "Si tomó bebidas calientes.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 87,
       "pregunta": "Lactante 15 días con aumento normal de peso, madre cree que tiene hambre: Evaluar técnica de lactancia y continuar pecho exclusivo. Suspender lactancia y dar fórmula. Administrar suero glucosado. Dar agua para “llenar el estómago”.",
-      "opcion a": "Evaluar técnica de lactancia y continuar pecho exclusivo.",
+      "opcion a": "Administrar suero glucosado.",
       "opcion b": "Suspender lactancia y dar fórmula.",
-      "opcion c": "Administrar suero glucosado.",
+      "opcion c": "Evaluar técnica de lactancia y continuar pecho exclusivo.",
       "opcion d": "Dar agua para “llenar el estómago”.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 88,
       "pregunta": "Adolescente con anemia, blastos y hemorragias: Leucemia aguda. Dengue hemorrágico. Alergia medicamentosa. Hipotiroidismo.",
-      "opcion a": "Leucemia aguda.",
-      "opcion b": "Dengue hemorrágico.",
+      "opcion a": "Dengue hemorrágico.",
+      "opcion b": "Leucemia aguda.",
       "opcion c": "Alergia medicamentosa.",
       "opcion d": "Hipotiroidismo.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 89,
       "pregunta": "Mujer con pérdida brusca de visión + VSG 80 mm/h: Neuropatía óptica isquémica arterítica. Glaucoma crónico. Retinopatía diabética leve. Catarata incipiente.",
-      "opcion a": "Neuropatía óptica isquémica arterítica.",
+      "opcion a": "Retinopatía diabética leve.",
       "opcion b": "Glaucoma crónico.",
-      "opcion c": "Retinopatía diabética leve.",
+      "opcion c": "Neuropatía óptica isquémica arterítica.",
       "opcion d": "Catarata incipiente.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 90,
@@ -816,20 +816,20 @@
     {
       "id": 91,
       "pregunta": "Vacunas en control de salud de 18 meses: Pentavalente, IPV, refuerzo de meningococo, varicela y antigripal. Hexavalente y rotavirus. Solo antigripal. Hepatitis A y triple bacteriana.",
-      "opcion a": "Pentavalente, IPV, refuerzo de meningococo, varicela y antigripal.",
+      "opcion a": "Solo antigripal.",
       "opcion b": "Hexavalente y rotavirus.",
-      "opcion c": "Solo antigripal.",
+      "opcion c": "Pentavalente, IPV, refuerzo de meningococo, varicela y antigripal.",
       "opcion d": "Hepatitis A y triple bacteriana.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 92,
       "pregunta": "¿Por qué se produce un DIP variable en monitoreo fetal? Por compresión del cordón. Por encaje cefálico. Por hipoxia materna. Por contracciones uterinas intensas.",
-      "opcion a": "Por compresión del cordón.",
-      "opcion b": "Por encaje cefálico.",
+      "opcion a": "Por encaje cefálico.",
+      "opcion b": "Por compresión del cordón.",
       "opcion c": "Por hipoxia materna.",
       "opcion d": "Por contracciones uterinas intensas.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 93,
@@ -843,11 +843,11 @@
     {
       "id": 94,
       "pregunta": "Lactante 6 meses con nitritos ++ y leucocituria: Realizar urocultivo e iniciar ATB oral. Dar solo analgésicos. Dar líquidos y observar. Repetir muestra en 48 h sin tratar.",
-      "opcion a": "Realizar urocultivo e iniciar ATB oral.",
-      "opcion b": "Dar solo analgésicos.",
+      "opcion a": "Dar solo analgésicos.",
+      "opcion b": "Realizar urocultivo e iniciar ATB oral.",
       "opcion c": "Dar líquidos y observar.",
       "opcion d": "Repetir muestra en 48 h sin tratar.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 95,
@@ -861,11 +861,11 @@
     {
       "id": 96,
       "pregunta": "¿Qué tipo de prevención es la toma de PA? Prevención secundaria. Prevención cuaternaria. Prevención terciaria. Prevención primordial.",
-      "opcion a": "Prevención secundaria.",
+      "opcion a": "Prevención terciaria.",
       "opcion b": "Prevención cuaternaria.",
-      "opcion c": "Prevención terciaria.",
+      "opcion c": "Prevención secundaria.",
       "opcion d": "Prevención primordial.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 97,
@@ -879,11 +879,11 @@
     {
       "id": 98,
       "pregunta": "Ventaja de estudios de cohorte: Permiten estudiar varios eventos simultáneamente. Evaluar enfermedades rarísimas. Determinar causalidad inmediata. Garantizar 100% de seguimiento.",
-      "opcion a": "Permiten estudiar varios eventos simultáneamente.",
-      "opcion b": "Evaluar enfermedades rarísimas.",
+      "opcion a": "Evaluar enfermedades rarísimas.",
+      "opcion b": "Permiten estudiar varios eventos simultáneamente.",
       "opcion c": "Determinar causalidad inmediata.",
       "opcion d": "Garantizar 100% de seguimiento.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 99,
@@ -897,11 +897,11 @@
     {
       "id": 100,
       "pregunta": "Adulto fumador con disnea y tos crónica: Espirometría con prueba post broncodilatador. Radiografía de manos. Electrocardiograma únicamente. Test de esfuerzo sin evaluación pulmonar.",
-      "opcion a": "Espirometría con prueba post broncodilatador.",
+      "opcion a": "Electrocardiograma únicamente.",
       "opcion b": "Radiografía de manos.",
-      "opcion c": "Electrocardiograma únicamente.",
+      "opcion c": "Espirometría con prueba post broncodilatador.",
       "opcion d": "Test de esfuerzo sin evaluación pulmonar.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     }
   ]
 }

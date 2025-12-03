@@ -6,11 +6,11 @@
     {
       "id": 3,
       "pregunta": "¿Qué es inherente a la profesión Enfermera según el Código de Ética del Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Los derechos humanos.",
+      "opcion a": "El conocimiento .",
       "opcion b": "La sociedad.",
-      "opcion c": "El conocimiento .",
+      "opcion c": "Los derechos humanos.",
       "opcion d": "Los valores.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 3,
@@ -33,11 +33,11 @@
     {
       "id": 5,
       "pregunta": "¿Cuál es parámetro que se utiliza para determinan la acidosis / alcalosis en una gasometría arterial (GA)?",
-      "opcion a": "PaO2.",
+      "opcion a": "pH.",
       "opcion b": "PaCO2.",
       "opcion c": "HCO3.",
-      "opcion d": "pH.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "PaO2.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 3,
@@ -78,20 +78,20 @@
     {
       "id": 59,
       "pregunta": "¿Qué sustancia de abuso es considerada Psicoestimulante?",
-      "opcion a": "Cocaína.",
+      "opcion a": "Alcohol.",
       "opcion b": "Cannabis.",
       "opcion c": "Opiáceos.",
-      "opcion d": "Alcohol.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Cocaína.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 3,
       "pregunta": "¿Cuáles características corresponden a la definición de crepitantes?",
-      "opcion a": "Sonidos musicales continuos se escuchan en pacientes con bronquitis, enfisema o asma.",
+      "opcion a": "Sonidos cortos, definidos, como de crujido o borboteo.",
       "opcion b": "Sonido de tono seco, alto de rozamiento, que indica inflamación pleural.",
       "opcion c": "Sonidos suaves de tono grave.",
-      "opcion d": "Sonidos cortos, definidos, como de crujido o borboteo.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Sonidos musicales continuos se escuchan en pacientes con bronquitis, enfisema o asma.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 64,
@@ -105,38 +105,38 @@
     {
       "id": 6,
       "pregunta": "¿Qué vacuna se administra como única dosis en lactantes, antes de egresar de la maternidad según el calendario Nacional de Vacunación 2024?",
-      "opcion a": "Virus sincicial.",
+      "opcion a": "Gripe.",
       "opcion b": "Hepatitis B.",
-      "opcion c": "Gripe.",
+      "opcion c": "Virus sincicial.",
       "opcion d": "BCG.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 8,
       "pregunta": "¿Qué intervención se requiere para llevar a cabo una internación involuntaria, según los Lineamientos para la atención de la urgencia en Salud Mental (2020)?",
-      "opcion a": "De un médico de guardia.",
+      "opcion a": "Del Servicio Policial.",
       "opcion b": "De un familiar responsable.",
-      "opcion c": "Del Servicio Policial.",
+      "opcion c": "De un médico de guardia.",
       "opcion d": "Del Poder Judicial.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 0,
       "pregunta": "¿Cuál es el paso previo que debe tener en cuenta al momento de realizar una correcta toma de presión arterial, para no tener resultados erróneos?",
-      "opcion a": "La persona tiene que 5 minutos antes tomar líquidos previos a la toma de PA.",
+      "opcion a": "La persona tiene que estar sentada 1 hora antes y tomar PA en reposo.",
       "opcion b": "La persona debe guardar reposo previo a la medicación de 2 -5 minutos.",
       "opcion c": "La persona debe realizar ayuno de 1 hora antes de la toma de PA.",
-      "opcion d": "La persona tiene que estar sentada 1 hora antes y tomar PA en reposo.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "La persona tiene que 5 minutos antes tomar líquidos previos a la toma de PA.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 81,
       "pregunta": "¿Cuáles son las etapas del puerperio?",
-      "opcion a": "Puerperio mediato, alejado, tardío y post tardío.",
+      "opcion a": "Puerperio inmediato, precoz, alejado y tardío.",
       "opcion b": "Puerperio pre inmediato, preciso, adecuado y lejano.",
       "opcion c": "Puerperio inmediato, completo, concreto y tardío.",
-      "opcion d": "Puerperio inmediato, precoz, alejado y tardío.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Puerperio mediato, alejado, tardío y post tardío.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 4,
@@ -150,29 +150,29 @@
     {
       "id": 2,
       "pregunta": "Usted tiene una paciente internada en cuidados progresivos por patología intestinal crónica. Presenta colocado un CVPc en miembro superior derecho por tratamiento prolongado de 14 días de antibioticoterapia. Se realiza prescripción de nutrición parenteral estándar por 2 semanas para recuperación nutricional cuya osmolaridad es de 1300 mOsmol/L, ¿Cuál es la osmolaridad recomendada para la administración por vía periférica?",
-      "opcion a": "Osmolaridad de 800 mOsm/L.",
-      "opcion b": "Osmolaridad mayor 1200 mOsm/L.",
+      "opcion a": "Osmolaridad mayor 1200 mOsm/L.",
+      "opcion b": "Osmolaridad de 800 mOsm/L.",
       "opcion c": "Osmolaridad mayor a 600 mOsm/L.",
       "opcion d": "Osmolaridad menor a 600 mOsm/L.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 5,
       "pregunta": "¿Cuáles son las vacunas que se deben colocar a los 5 años para el ingreso escolar, según el calendario Nacional de Vacunación 2024?",
-      "opcion a": "salk, triple viral, varicela, triple bacteriana.",
+      "opcion a": "IPV, Triple Viral, varicela y Triple Bacteriana Celular.",
       "opcion b": "salk , triple bacteriana, pentavalente.",
       "opcion c": "salk, triple bacteriana acelular, triple viral.",
-      "opcion d": "IPV, Triple Viral, varicela y Triple Bacteriana Celular.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "salk, triple viral, varicela, triple bacteriana.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 0,
       "pregunta": "¿Cuál es la recomendación de terapia de oxígeno para tratar la disnea no hipóxica según las recomendaciones del Ministerio de salud de prevención cuaternaria?",
-      "opcion a": "Administrar oxígeno humidificados a todos los pacientes.",
+      "opcion a": "Utilizar cánulas de alto flujo para pacientes con enfisema.",
       "opcion b": "Administrar oxígeno suplementario mezclado.",
-      "opcion c": "Utilizar cánulas de alto flujo para pacientes con enfisema.",
+      "opcion c": "Administrar oxígeno humidificados a todos los pacientes.",
       "opcion d": "Para tratar la disnea no hipóxica no utilizar oxígeno.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     }
   ]
 }

@@ -6,20 +6,20 @@
     {
       "id": 1,
       "pregunta": "¿En qué situación se utilizan las precauciones estándares?",
-      "opcion a": "Exposición a fluidos corporales visibles",
+      "opcion a": "Supervisión del uso de medicamentos ambulatorios",
       "opcion b": "Control de temperatura en pacientes febriles",
       "opcion c": "Higiene ambiental de superficies no clínicas",
-      "opcion d": "Supervisión del uso de medicamentos ambulatorios",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Exposición a fluidos corporales visibles",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 2,
       "pregunta": "Existen dos tipos de factores de riesgo en personas mayores en relación con caídas. ¿Cuáles son los factores de riesgo externos o ambientales?",
-      "opcion a": "Superficies irregulares, iluminación deficiente y obstáculos domésticos",
+      "opcion a": "Exceso de medicación antihipertensiva",
       "opcion b": "Pérdida de masa muscular por envejecimiento",
       "opcion c": "Incontinencia urinaria prolongada",
-      "opcion d": "Exceso de medicación antihipertensiva",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Superficies irregulares, iluminación deficiente y obstáculos domésticos",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 3,
@@ -33,11 +33,11 @@
     {
       "id": 4,
       "pregunta": "¿Qué refiere la Ley 26.743 sobre identidad de género respecto al derecho al libre desarrollo personal en mayores de 18 años?",
-      "opcion a": "Acceso a intervenciones quirúrgicas y/o tratamientos hormonales integrales",
+      "opcion a": "Acceso automático a subsidios estatales por identidad autopercibida",
       "opcion b": "El derecho exclusivo a recibir apoyo psicológico gratuito",
       "opcion c": "La prohibición de cirugías de afirmación de género",
-      "opcion d": "Acceso automático a subsidios estatales por identidad autopercibida",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Acceso a intervenciones quirúrgicas y/o tratamientos hormonales integrales",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 5,
@@ -60,101 +60,101 @@
     {
       "id": 7,
       "pregunta": "Según la Ley de Identidad de Género 26.743, ¿qué sala debe asignarse a un paciente trans internado?",
-      "opcion a": "Habitación acorde a su identidad de género autopercibida",
+      "opcion a": "Sala especialmente designada para personas trans",
       "opcion b": "Habitación de aislamiento obligatorio",
       "opcion c": "Habitación mixta independiente del género",
-      "opcion d": "Sala especialmente designada para personas trans",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Habitación acorde a su identidad de género autopercibida",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 8,
       "pregunta": "¿Quién(es) están legitimados para solicitar la historia clínica según Ley 26.529?",
-      "opcion a": "Paciente y representante legal",
-      "opcion b": "Cualquier familiar directo",
+      "opcion a": "Cualquier familiar directo",
+      "opcion b": "Paciente y representante legal",
       "opcion c": "Obras sociales sin consentimiento escrito",
       "opcion d": "Personal administrativo del hospital",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 9,
       "pregunta": "¿Cuál es la primera acción según precauciones estándar ante una persona con sangre en el brazo y suero caído?",
-      "opcion a": "Colocar elementos de protección personal",
+      "opcion a": "Verificar signos vitales antes de cualquier otra acción",
       "opcion b": "Retirar la sabana contaminada sin guantes",
       "opcion c": "Lavar el brazo del paciente inmediatamente",
-      "opcion d": "Verificar signos vitales antes de cualquier otra acción",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Colocar elementos de protección personal",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 10,
       "pregunta": "Alteración cutánea fisiológica del RN: pápulas blanquecinas en nariz, frente y mentón.",
-      "opcion a": "Millium",
+      "opcion a": "Eritema por calor",
       "opcion b": "Dermatitis seborreica temprana",
-      "opcion c": "Eritema por calor",
+      "opcion c": "Millium",
       "opcion d": "Acné neonatal tardío",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 11,
       "pregunta": "¿Qué es una hipótesis en investigación?",
-      "opcion a": "Explicación tentativa del fenómeno, enunciada como proposición",
+      "opcion a": "Interpretación de resultados finales",
       "opcion b": "Registro inicial de datos estadísticos",
-      "opcion c": "Interpretación de resultados finales",
+      "opcion c": "Explicación tentativa del fenómeno, enunciada como proposición",
       "opcion d": "Supuesto teórico sin relación con el estudio",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 12,
       "pregunta": "¿Cuál es la incidencia de fractura de cadera en personas mayores de 65 años después de una caída?",
-      "opcion a": "5%",
+      "opcion a": "25%",
       "opcion b": "18%",
       "opcion c": "1%",
-      "opcion d": "25%",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "5%",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 13,
       "pregunta": "¿Cuándo estamos ante un trastorno bipolar tipo 1?",
-      "opcion a": "Episodios maníacos con posibilidad de hospitalización",
+      "opcion a": "Hipomanía breve sin riesgo de internación",
       "opcion b": "Episodios mixtos con duración mayor a 48 horas",
       "opcion c": "Depresión severa sin síntomas maníacos",
-      "opcion d": "Hipomanía breve sin riesgo de internación",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Episodios maníacos con posibilidad de hospitalización",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 14,
       "pregunta": "Estrategia comunicacional para pacientes con trastornos de salud mental:",
-      "opcion a": "Empatía",
+      "opcion a": "Orden directa",
       "opcion b": "Confrontación",
-      "opcion c": "Orden directa",
+      "opcion c": "Empatía",
       "opcion d": "Diagnóstico inmediato sin diálogo",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 15,
       "pregunta": "Precaución estándar utilizada en todos los ámbitos ante contacto con paciente:",
-      "opcion a": "Higiene de manos",
-      "opcion b": "Uso obligatorio de camisolín",
+      "opcion a": "Uso obligatorio de camisolín",
+      "opcion b": "Higiene de manos",
       "opcion c": "Colocación previa de mascarilla N95",
       "opcion d": "Desinfección del calzado clínico",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 16,
       "pregunta": "¿Cuál es el porcentaje de pérdida de peso fisiológica normal en el RN?",
-      "opcion a": "10%",
+      "opcion a": "18%",
       "opcion b": "3%",
-      "opcion c": "18%",
+      "opcion c": "10%",
       "opcion d": "1%",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 17,
       "pregunta": "Derecho que plantea la Ley Nacional 26.529/2009:",
-      "opcion a": "Trato digno y respetuoso",
+      "opcion a": "Exención del consentimiento informado",
       "opcion b": "Acceso prioritario a medicamentos importados",
       "opcion c": "Derecho vitalicio a internación",
-      "opcion d": "Exención del consentimiento informado",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Trato digno y respetuoso",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 18,
@@ -168,83 +168,83 @@
     {
       "id": 19,
       "pregunta": "Valores normales de TA en embarazo:",
-      "opcion a": "110 ± 12 / 75 ± 7 mmHg",
+      "opcion a": "130 ± 15 / 85 ± 10 mmHg",
       "opcion b": "95 ± 10 / 60 ± 7 mmHg",
-      "opcion c": "130 ± 15 / 85 ± 10 mmHg",
+      "opcion c": "110 ± 12 / 75 ± 7 mmHg",
       "opcion d": "120 ± 8 / 70 ± 12 mmHg",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 20,
       "pregunta": "¿Qué es una dosis adicional en la campaña COVID-19?",
-      "opcion a": "Tercera dosis por respuesta inmune inicial insuficiente",
+      "opcion a": "Vacuna especial de alta concentración",
       "opcion b": "Vacuna reforzada cada 3 meses",
       "opcion c": "Dosis aplicada solo a mayores de 80 años",
-      "opcion d": "Vacuna especial de alta concentración",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Tercera dosis por respuesta inmune inicial insuficiente",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 21,
       "pregunta": "Prueba recomendada para detección de EPOC",
-      "opcion a": "Espirometría en fumadores/exfumadores con carga ≥ 40 paquetes/año",
+      "opcion a": "Radiografía de tórax anual en toda la población",
       "opcion b": "Oximetría de pulso en reposo prolongado",
       "opcion c": "Gasometría por punción venosa",
-      "opcion d": "Radiografía de tórax anual en toda la población",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Espirometría en fumadores/exfumadores con carga ≥ 40 paquetes/año",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 22,
       "pregunta": "Inhibidor fisiológico de la coagulación",
-      "opcion a": "Antitrombina III",
+      "opcion a": "Hemoglobina reducida",
       "opcion b": "Bilirrubina indirecta",
-      "opcion c": "Hemoglobina reducida",
+      "opcion c": "Antitrombina III",
       "opcion d": "Plaquetas activadas",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 23,
       "pregunta": "Lactante de 8 meses con fiebre 72 h y exantema rosado → agente causal",
-      "opcion a": "Herpes virus humano tipo 6",
+      "opcion a": "Enterobacter cloacae",
       "opcion b": "Coccidioides immitis",
       "opcion c": "Norovirus pediátrico",
-      "opcion d": "Enterobacter cloacae",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Herpes virus humano tipo 6",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 24,
       "pregunta": "Hernia inguinal indirecta:",
-      "opcion a": "Entra al conducto inguinal por el orificio inguinal profundo",
-      "opcion b": "Se forma solo por traumatismos",
+      "opcion a": "Se forma solo por traumatismos",
+      "opcion b": "Entra al conducto inguinal por el orificio inguinal profundo",
       "opcion c": "No atraviesa el canal inguinal",
       "opcion d": "Se presenta exclusivamente en ancianos",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 25,
       "pregunta": "Incidencia de RUPTURA PREMATURA DE MEMBRANAS pretérmino",
-      "opcion a": "20–25%",
+      "opcion a": "35–40%",
       "opcion b": "2–5%",
-      "opcion c": "35–40%",
+      "opcion c": "20–25%",
       "opcion d": "55–60%",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 26,
       "pregunta": "Paciente de 80 años con rotación externa y acortamiento del miembro",
-      "opcion a": "Fractura de cadera",
-      "opcion b": "Luxación acromioclavicular",
+      "opcion a": "Luxación acromioclavicular",
+      "opcion b": "Fractura de cadera",
       "opcion c": "Rotura del tendón del psoas",
       "opcion d": "Fractura patelar desviada",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 27,
       "pregunta": "Patología causa de restricción ventilatoria",
-      "opcion a": "Espondilitis anquilosante",
+      "opcion a": "Tabaquismo pasivo",
       "opcion b": "Asma bronquial recurrente",
-      "opcion c": "Tabaquismo pasivo",
+      "opcion c": "Espondilitis anquilosante",
       "opcion d": "Bronquitis viral aguda",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 28,
@@ -276,38 +276,38 @@
     {
       "id": 31,
       "pregunta": "Alteraciones esperadas en insuficiencia renal crónica",
-      "opcion a": "Anemia, hipocalcemia, hiperfosfatemia",
+      "opcion a": "Hiperuricemia aislada",
       "opcion b": "Policitemia, hiponatremia",
       "opcion c": "Acidosis respiratoria pura",
-      "opcion d": "Hiperuricemia aislada",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Anemia, hipocalcemia, hiperfosfatemia",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 32,
       "pregunta": "Insuficiencia cardíaca: síntomas atribuibles a",
-      "opcion a": "Aumento de presiones de llenado intracardiaco",
+      "opcion a": "Hiperventilación reactiva",
       "opcion b": "Disminución de eritropoyetina",
-      "opcion c": "Hiperventilación reactiva",
+      "opcion c": "Aumento de presiones de llenado intracardiaco",
       "opcion d": "Vasodilatación sistémica persistente",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 33,
       "pregunta": "Test GDS",
-      "opcion a": "Escala de depresión geriátrica",
-      "opcion b": "Escala de deterioro psicosocial",
+      "opcion a": "Escala de deterioro psicosocial",
+      "opcion b": "Escala de depresión geriátrica",
       "opcion c": "Evaluación de memoria inmediata",
       "opcion d": "Índice de marcha funcional",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 34,
       "pregunta": "Insuficiencia cardíaca sistólica",
-      "opcion a": "Contracción ventricular inadecuada",
+      "opcion a": "Presión venosa central siempre normal",
       "opcion b": "Hipertrofia concéntrica pura",
-      "opcion c": "Presión venosa central siempre normal",
+      "opcion c": "Contracción ventricular inadecuada",
       "opcion d": "Gasto cardíaco elevado en reposo",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 35,
@@ -321,11 +321,11 @@
     {
       "id": 36,
       "pregunta": "Situación contraindicada para irrigación de colostomía",
-      "opcion a": "Resección abdominoperineal del recto",
+      "opcion a": "Colitis por antibióticos",
       "opcion b": "Estreñimiento episódico",
       "opcion c": "Hemorroides internas grado I",
-      "opcion d": "Colitis por antibióticos",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Resección abdominoperineal del recto",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 37,
@@ -339,29 +339,29 @@
     {
       "id": 38,
       "pregunta": "RN con tumefacción edematosa que atraviesa línea media",
-      "opcion a": "Caput succedaneum",
+      "opcion a": "Fractura lineal temporal",
       "opcion b": "Quiste dermoide bilateral",
       "opcion c": "Hematoma epicraneal tardío",
-      "opcion d": "Fractura lineal temporal",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Caput succedaneum",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 39,
       "pregunta": "Tratamiento en preeclampsia con convulsiones sin vía IV",
-      "opcion a": "Sulfato de magnesio IM 10 g (5 g por glúteo)",
+      "opcion a": "Adrenalina intramuscular 1 mg",
       "opcion b": "Lidocaína intradérmica",
-      "opcion c": "Adrenalina intramuscular 1 mg",
+      "opcion c": "Sulfato de magnesio IM 10 g (5 g por glúteo)",
       "opcion d": "Furosemida IM en bolo",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 40,
       "pregunta": "Conducta ante aborto con Rh negativo",
-      "opcion a": "Administrar Ig anti-D independientemente de edad gestacional",
+      "opcion a": "Aplicar sólo si ecografía muestra saco gestacional",
       "opcion b": "No administrar si hay dolor pélvico",
-      "opcion c": "Aplicar sólo si ecografía muestra saco gestacional",
+      "opcion c": "Administrar Ig anti-D independientemente de edad gestacional",
       "opcion d": "Administrar siempre doble dosis",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 41,
@@ -384,56 +384,56 @@
     {
       "id": 43,
       "pregunta": "Característica del barbijo quirúrgico",
-      "opcion a": "Descartable y de un solo uso",
+      "opcion a": "Puede hervirse para reutilizar",
       "opcion b": "Filtra virus al 99% como N95",
-      "opcion c": "Puede hervirse para reutilizar",
+      "opcion c": "Descartable y de un solo uso",
       "opcion d": "Requiere filtro interno recambiable",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 44,
       "pregunta": "Mecanismos de pérdida de calor en RN",
-      "opcion a": "Conducción, radiación, convección y evaporación",
+      "opcion a": "Transpiración abundante",
       "opcion b": "Dilatación capilar térmica",
-      "opcion c": "Transpiración abundante",
+      "opcion c": "Conducción, radiación, convección y evaporación",
       "opcion d": "Enfriamiento por succión",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 45,
       "pregunta": "Vía más usada en reanimación avanzada",
-      "opcion a": "Intravenosa",
+      "opcion a": "Sistémica oral rápida",
       "opcion b": "Subcutánea",
       "opcion c": "Intradérmica",
-      "opcion d": "Sistémica oral rápida",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Intravenosa",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 46,
       "pregunta": "Finalidad de investigación en enfermería",
-      "opcion a": "Generar conocimientos para la práctica profesional",
+      "opcion a": "Elaborar manuales de gestión administrativa",
       "opcion b": "Sustituir estudios médicos tradicionales",
-      "opcion c": "Elaborar manuales de gestión administrativa",
+      "opcion c": "Generar conocimientos para la práctica profesional",
       "opcion d": "Capacitar solo personal directivo",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 47,
       "pregunta": "RN de término: semanas",
-      "opcion a": "37–42 semanas",
-      "opcion b": "32–35 semanas",
+      "opcion a": "32–35 semanas",
+      "opcion b": "37–42 semanas",
       "opcion c": "28–30 semanas",
       "opcion d": "42–45 semanas",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 48,
       "pregunta": "Principal complicación tras fractura de cadera",
-      "opcion a": "Afección cardiopulmonar",
+      "opcion a": "Falla tiroidea",
       "opcion b": "Hemorragia digestiva alta",
-      "opcion c": "Falla tiroidea",
+      "opcion c": "Afección cardiopulmonar",
       "opcion d": "Neuropatía periférica simple",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 49,
@@ -456,11 +456,11 @@
     {
       "id": 51,
       "pregunta": "Farmacodinamia:",
-      "opcion a": "Interacción de droga con biofase y efectos derivados",
+      "opcion a": "Absorción en mucosas digestivas",
       "opcion b": "Excreción renal de metabolitos",
-      "opcion c": "Absorción en mucosas digestivas",
+      "opcion c": "Interacción de droga con biofase y efectos derivados",
       "opcion d": "Cinética de dosificación horaria",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 52,
@@ -474,83 +474,83 @@
     {
       "id": 53,
       "pregunta": "Enfermedad yatrogénica",
-      "opcion a": "Enfermedad causada por tratamiento médico",
+      "opcion a": "Infección por alimentos contaminados",
       "opcion b": "De origen exclusivamente genético",
-      "opcion c": "Infección por alimentos contaminados",
+      "opcion c": "Enfermedad causada por tratamiento médico",
       "opcion d": "Trastorno causado por estrés ambiental",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 54,
       "pregunta": "Drogas agonistas parciales",
-      "opcion a": "Se unen al receptor y desencadenan respuesta biológica",
+      "opcion a": "Solo funcionan vía intratecal",
       "opcion b": "Bloquean irreversiblemente todos los receptores",
       "opcion c": "Generan inmunidad activa",
-      "opcion d": "Solo funcionan vía intratecal",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Se unen al receptor y desencadenan respuesta biológica",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 55,
       "pregunta": "Acciones inclusivas según Ley de Identidad de Género",
-      "opcion a": "Transformar prácticas, protocolos y procedimientos de atención",
+      "opcion a": "Suspender cirugías no urgentes",
       "opcion b": "Crear salas exclusivas para personas trans",
-      "opcion c": "Suspender cirugías no urgentes",
+      "opcion c": "Transformar prácticas, protocolos y procedimientos de atención",
       "opcion d": "Exigir estudios de ADN para identidad",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 57,
       "pregunta": "Uso de barbijo quirúrgico",
-      "opcion a": "Es descartable y de un solo uso",
+      "opcion a": "Requiere doble capa de algodón interno",
       "opcion b": "Sirve como respirador para tuberculosis",
       "opcion c": "Puede compartirse si está limpio",
-      "opcion d": "Requiere doble capa de algodón interno",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Es descartable y de un solo uso",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 58,
       "pregunta": "Mecanismo principal de pérdida de calor en RN",
-      "opcion a": "Evaporación",
-      "opcion b": "Fermentación",
+      "opcion a": "Fermentación",
+      "opcion b": "Evaporación",
       "opcion c": "Irradiación sanguínea",
       "opcion d": "Termólisis central",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 59,
       "pregunta": "¿Cuándo administrar medicación intraósea?",
-      "opcion a": "Cuando no se logra vía venosa en reanimación",
-      "opcion b": "En procedimientos ambulatorios",
+      "opcion a": "En procedimientos ambulatorios",
+      "opcion b": "Cuando no se logra vía venosa en reanimación",
       "opcion c": "En vacunación múltiple",
       "opcion d": "Cuando el paciente está consciente y estable",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 60,
       "pregunta": "Teoría más aceptada del inicio del parto",
-      "opcion a": "Teoría hormonal: pérdida de equilibrio hormonal",
+      "opcion a": "Activación intestinal refleja",
       "opcion b": "Impacto mecánico del abdomen",
       "opcion c": "Elevación de glucosa sérica",
-      "opcion d": "Activación intestinal refleja",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Teoría hormonal: pérdida de equilibrio hormonal",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 61,
       "pregunta": "¿Cuándo está indicado test de sangre oculta inmunohistoquímica?",
-      "opcion a": "Personas entre 50 y 75 años",
+      "opcion a": "Mujeres embarazadas con anemia leve",
       "opcion b": "Niños con diarrea",
-      "opcion c": "Mujeres embarazadas con anemia leve",
+      "opcion c": "Personas entre 50 y 75 años",
       "opcion d": "Pacientes internados por neumonía",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 62,
       "pregunta": "Mujer en 3er trimestre: cefalea, vómitos, ictericia y convulsiones",
-      "opcion a": "Eclampsia",
+      "opcion a": "Anemia hemolítica",
       "opcion b": "Pancreatitis aguda",
-      "opcion c": "Anemia hemolítica",
+      "opcion c": "Eclampsia",
       "opcion d": "Hipotiroidismo severo",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 63,
@@ -564,101 +564,101 @@
     {
       "id": 64,
       "pregunta": "Meta actual HbA1c en diabéticos",
-      "opcion a": "7%",
+      "opcion a": "≤ 12%",
       "opcion b": "4%",
       "opcion c": "10%",
-      "opcion d": "≤ 12%",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "7%",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 65,
       "pregunta": "Tratamiento paliativo tumores irresecables de páncreas",
-      "opcion a": "Hepaticoyeyunoanastomosis + gastroenteroanastomosis",
+      "opcion a": "Hepatorrafia selectiva",
       "opcion b": "Pancreatectomía total parcial",
-      "opcion c": "Hepatorrafia selectiva",
+      "opcion c": "Hepaticoyeyunoanastomosis + gastroenteroanastomosis",
       "opcion d": "Colecistostomía percutánea",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 66,
       "pregunta": "RN con lesión blanda que atraviesa línea media",
-      "opcion a": "Caput succedaneum",
+      "opcion a": "Hematoma occipital",
       "opcion b": "Edema postural",
-      "opcion c": "Hematoma occipital",
+      "opcion c": "Caput succedaneum",
       "opcion d": "Quiste epidérmico",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 67,
       "pregunta": "Dosis de mantenimiento de sulfato de magnesio",
-      "opcion a": "5 g en 500 cc, 21 microg/min",
-      "opcion b": "2 g en bolo rápido",
+      "opcion a": "2 g en bolo rápido",
+      "opcion b": "5 g en 500 cc, 21 microg/min",
       "opcion c": "25 g en solución hipertónica",
       "opcion d": "1 g SC cada 30 min",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 68,
       "pregunta": "¿Cuál es el test para riesgo de caídas?",
-      "opcion a": "Test Timed Up and Go",
+      "opcion a": "Prueba de salto unipodal",
       "opcion b": "Test de Romberg",
-      "opcion c": "Prueba de salto unipodal",
+      "opcion c": "Test Timed Up and Go",
       "opcion d": "Prueba de resistencia de gemelos",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 69,
       "pregunta": "Característica barbijo quirúrgico",
-      "opcion a": "Descartable, 1 solo uso",
-      "opcion b": "Reutilizable tras lavado",
+      "opcion a": "Reutilizable tras lavado",
+      "opcion b": "Descartable, 1 solo uso",
       "opcion c": "Necesita filtro HEPA",
       "opcion d": "Capta partículas > 0,1 micras",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 70,
       "pregunta": "Mecanismo de pérdida de calor",
-      "opcion a": "Conducción, radiación, convección y evaporación",
-      "opcion b": "Transpiración voluntaria",
+      "opcion a": "Transpiración voluntaria",
+      "opcion b": "Conducción, radiación, convección y evaporación",
       "opcion c": "Movimiento muscular",
       "opcion d": "Ingesta de líquidos fríos",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 71,
       "pregunta": "Vía de administración en reanimación avanzada",
-      "opcion a": "Intraósea",
+      "opcion a": "Dermal",
       "opcion b": "Oral rápida",
-      "opcion c": "Dermal",
+      "opcion c": "Intraósea",
       "opcion d": "Rectal",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 72,
       "pregunta": "Finalidad de investigación en enfermería",
-      "opcion a": "Generar conocimiento para la práctica científica",
+      "opcion a": "reemplazar investigación médica",
       "opcion b": "solo capacitar auxiliares",
       "opcion c": "reducir costos de atención",
-      "opcion d": "reemplazar investigación médica",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Generar conocimiento para la práctica científica",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 73,
       "pregunta": "Recién nacido de término",
-      "opcion a": "37–42 semanas",
+      "opcion a": "26–29",
       "opcion b": "20–30",
       "opcion c": "35–36",
-      "opcion d": "26–29",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "37–42 semanas",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 74,
       "pregunta": "Complicación por fractura de cadera",
-      "opcion a": "Afección cardiopulmonar",
-      "opcion b": "Hemorragia nasal",
+      "opcion a": "Hemorragia nasal",
+      "opcion b": "Afección cardiopulmonar",
       "opcion c": "Gastritis aguda",
       "opcion d": "Apendicitis reactiva",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 75,
@@ -672,20 +672,20 @@
     {
       "id": 76,
       "pregunta": "Dolor fantasma",
-      "opcion a": "Síndrome post amputación",
+      "opcion a": "Dolor por neuropatía diabética",
       "opcion b": "Dolor somático por trauma",
       "opcion c": "Dolor muscular tardío",
-      "opcion d": "Dolor por neuropatía diabética",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Síndrome post amputación",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 77,
       "pregunta": "Farmacodinamia",
-      "opcion a": "Relación droga-efecto",
+      "opcion a": "Fijación ósea",
       "opcion b": "Eliminación hepática",
       "opcion c": "Distribución lipídica",
-      "opcion d": "Fijación ósea",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Relación droga-efecto",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 78,
@@ -708,11 +708,11 @@
     {
       "id": 80,
       "pregunta": "Agonistas parciales",
-      "opcion a": "Se unen al receptor y activan parcialmente",
+      "opcion a": "No generan efecto",
       "opcion b": "Bloquean totalmente",
-      "opcion c": "No generan efecto",
+      "opcion c": "Se unen al receptor y activan parcialmente",
       "opcion d": "Solo actúan en hígado",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 81,
@@ -726,38 +726,38 @@
     {
       "id": 82,
       "pregunta": "Tratamiento inicial pielonefritis por enterococcus",
-      "opcion a": "Ampicilina",
+      "opcion a": "Amoxicilina–ácido clavulánico",
       "opcion b": "Amikacina",
       "opcion c": "Ciprofloxacino",
-      "opcion d": "Amoxicilina–ácido clavulánico",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Ampicilina",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 83,
       "pregunta": "Antibiótico elección",
-      "opcion a": "Ampicilina",
+      "opcion a": "Azitromicina",
       "opcion b": "Imipenem",
       "opcion c": "Tigeciclina",
-      "opcion d": "Azitromicina",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Ampicilina",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 84,
       "pregunta": "Síndrome de Swyer",
-      "opcion a": "Genitales externos femeninos + cariotipo 46,XY",
+      "opcion a": "Masculinos 47,XYY",
       "opcion b": "Masculinos 46,XX",
       "opcion c": "Femeninos 47,XXX",
-      "opcion d": "Masculinos 47,XYY",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Genitales externos femeninos + cariotipo 46,XY",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 85,
       "pregunta": "Deficiencia enzimática que causa anemia hemolítica aguda",
-      "opcion a": "Déficit de G6PD",
+      "opcion a": "Déficit de amilasa",
       "opcion b": "Déficit de vitamina K",
       "opcion c": "Déficit de aldolasa",
-      "opcion d": "Déficit de amilasa",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Déficit de G6PD",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 86,
@@ -780,74 +780,74 @@
     {
       "id": 88,
       "pregunta": "Variación preanalítica FAL",
-      "opcion a": "Anticonvulsivantes aumentan FAL hepática",
+      "opcion a": "Dieta rica en lácteos normaliza FAL",
       "opcion b": "Reposo prolongado disminuye FAL",
       "opcion c": "Exposición al sol aumenta FAL",
-      "opcion d": "Dieta rica en lácteos normaliza FAL",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Anticonvulsivantes aumentan FAL hepática",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 89,
       "pregunta": "Antibiótico para E. faecalis",
-      "opcion a": "Ampicilina",
+      "opcion a": "Eritromicina",
       "opcion b": "Metronidazol",
       "opcion c": "Vancomicina oral",
-      "opcion d": "Eritromicina",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Ampicilina",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 90,
       "pregunta": "Síndrome de Swyer",
-      "opcion a": "46,XY con genitales femeninos",
-      "opcion b": "46,XX masculinos",
+      "opcion a": "46,XX masculinos",
+      "opcion b": "46,XY con genitales femeninos",
       "opcion c": "47,XXY",
       "opcion d": "47,XXX",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 91,
       "pregunta": "Enzimopatía tras ingesta de fármacos",
-      "opcion a": "Déficit G6PD",
+      "opcion a": "Déficit de fosfatasa",
       "opcion b": "Déficit de lipasa",
-      "opcion c": "Déficit de fosfatasa",
+      "opcion c": "Déficit G6PD",
       "opcion d": "Déficit de succinato DH",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 92,
       "pregunta": "Patología con acantocitos",
-      "opcion a": "Abetalipoproteinemia",
+      "opcion a": "Talasemia menor",
       "opcion b": "Anemia perinatal",
-      "opcion c": "Talasemia menor",
+      "opcion c": "Abetalipoproteinemia",
       "opcion d": "Hemorragia digestiva",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 93,
       "pregunta": "Mieloma múltiple: pronóstico",
-      "opcion a": "Beta 2 microglobulina",
-      "opcion b": "Fosfatasa alcalina",
+      "opcion a": "Fosfatasa alcalina",
+      "opcion b": "Beta 2 microglobulina",
       "opcion c": "Sodio sérico",
       "opcion d": "Lipasa",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 94,
       "pregunta": "Derechos Ley 26.529",
-      "opcion a": "Trato digno",
-      "opcion b": "Recibir medicación gratuita siempre",
+      "opcion a": "Recibir medicación gratuita siempre",
+      "opcion b": "Trato digno",
       "opcion c": "Internación indefinida",
       "opcion d": "Suspensión de consentimiento",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 95,
       "pregunta": "Evaluación de fuerza en miembros inferiores",
-      "opcion a": "Flexores plantares, extensores de cadera y abductores",
+      "opcion a": "Dinamómetro braquial",
       "opcion b": "Test de umbral auditivo",
       "opcion c": "Test de rotación ocular",
-      "opcion d": "Dinamómetro braquial",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Flexores plantares, extensores de cadera y abductores",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 96,
@@ -861,29 +861,29 @@
     {
       "id": 97,
       "pregunta": "Dosis adicional COVID",
-      "opcion a": "Tercera dosis por respuesta insuficiente",
-      "opcion b": "Dosis anual estándar",
+      "opcion a": "Dosis anual estándar",
+      "opcion b": "Tercera dosis por respuesta insuficiente",
       "opcion c": "Dosis pediátrica extra",
       "opcion d": "Cuarta dosis cada 4 meses",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 98,
       "pregunta": "Dolor agudo",
-      "opcion a": "Inicio brusco y localizado",
+      "opcion a": "Dolor psicógeno sin explicación",
       "opcion b": "Dolor migratorio sin causa",
       "opcion c": "Dolor crónico de más de 3 meses",
-      "opcion d": "Dolor psicógeno sin explicación",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Inicio brusco y localizado",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 99,
       "pregunta": "Proceso de investigación",
-      "opcion a": "Genera conocimientos para práctica sanitaria",
+      "opcion a": "Es opcional y subjetivo",
       "opcion b": "Se utiliza solo en hospitales privados",
-      "opcion c": "Es opcional y subjetivo",
+      "opcion c": "Genera conocimientos para práctica sanitaria",
       "opcion d": "No requiere metodología",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 100,

@@ -6,29 +6,29 @@
     {
       "id": 1,
       "pregunta": "¿Qué funciones menciona La Ley 24.004 del Ejercicio de la Enfermería?",
-      "opcion a": "Cuidar y colaborar con las personas de todas las edades y familias.",
+      "opcion a": "Regular la matrícula de todo el personal de salud.",
       "opcion b": "Supervisar y evaluar hospitales privados.",
-      "opcion c": "Regular la matrícula de todo el personal de salud.",
+      "opcion c": "Cuidar y colaborar con las personas de todas las edades y familias.",
       "opcion d": "Administrar exclusivamente cuidados críticos.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 2,
       "pregunta": "¿Cuáles son los lugares recomendados para la inserción de CVPc?",
-      "opcion a": "Zona proximal a distal.",
+      "opcion a": "Únicamente en extremidades inferiores.",
       "opcion b": "En cualquier vena palpable sin criterios.",
       "opcion c": "Preferentemente en pliegue del codo.",
-      "opcion d": "Únicamente en extremidades inferiores.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Zona proximal a distal.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 3,
       "pregunta": "¿Cuál es la clasificación de los peligros ambientales?",
-      "opcion a": "Biológicos, químicos y físicos.",
+      "opcion a": "Biológicos, políticos y comunitarios.",
       "opcion b": "Físicos, emocionales y sociales.",
       "opcion c": "Naturales, humanos y mixtos.",
-      "opcion d": "Biológicos, políticos y comunitarios.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Biológicos, químicos y físicos.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 4,
@@ -42,47 +42,47 @@
     {
       "id": 5,
       "pregunta": "¿Cuáles son los lugares recomendados para la inserción de CVPc?",
-      "opcion a": "Zona distal a la proximal.",
-      "opcion b": "Zona media del muslo.",
+      "opcion a": "Zona media del muslo.",
+      "opcion b": "Zona distal a la proximal.",
       "opcion c": "Cualquier vena inflamada.",
       "opcion d": "Exclusivamente vena yugular externa.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 6,
       "pregunta": "¿Cuál es la primera medida inicial para manejar hemorragia postparto?",
-      "opcion a": "Evaluar el estado clínico general.",
+      "opcion a": "Colocar compresas frías en abdomen.",
       "opcion b": "Administrar uterotónicos de inmediato sin valoración.",
       "opcion c": "Realizar masaje uterino sin evaluar signos vitales.",
-      "opcion d": "Colocar compresas frías en abdomen.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Evaluar el estado clínico general.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 7,
       "pregunta": "¿Cuáles son las vías naturales de administración de una droga?",
-      "opcion a": "Vías enterales, inhalatoria y tópica.",
-      "opcion b": "Parenteral, intramedular y dérmica profunda.",
+      "opcion a": "Parenteral, intramedular y dérmica profunda.",
+      "opcion b": "Vías enterales, inhalatoria y tópica.",
       "opcion c": "Intravenosa, subcutánea y epidural.",
       "opcion d": "Intraósea, rectal profunda y intrapleural.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 8,
       "pregunta": "¿Qué es inherente a la profesión según el Código de Ética del CIE?",
-      "opcion a": "Los derechos humanos.",
+      "opcion a": "La gestión administrativa del sistema de salud.",
       "opcion b": "El desarrollo económico del país.",
-      "opcion c": "La gestión administrativa del sistema de salud.",
+      "opcion c": "Los derechos humanos.",
       "opcion d": "La protección jurídica del Estado.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 9,
       "pregunta": "¿Cuál es el objetivo del profesional de Enfermería para la atención comunitaria?",
-      "opcion a": "Ayudar al individuo, su familia y comunidad a conservar la salud y afrontar la enfermedad.",
+      "opcion a": "Ejecutar acciones de emergencia exclusivamente.",
       "opcion b": "Realizar seguimiento exclusivo de enfermedades crónicas.",
       "opcion c": "Hacer controles solo en adultos mayores.",
-      "opcion d": "Ejecutar acciones de emergencia exclusivamente.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Ayudar al individuo, su familia y comunidad a conservar la salud y afrontar la enfermedad.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 10,
@@ -114,20 +114,20 @@
     {
       "id": 13,
       "pregunta": "¿Qué es Ética del cuidado en Enfermería?",
-      "opcion a": "Relación entre personas, Enfermería y su actitud hacia los otros.",
+      "opcion a": "Técnicas de comunicación institucional.",
       "opcion b": "Métodos de gestión y liderazgo.",
-      "opcion c": "Técnicas de comunicación institucional.",
+      "opcion c": "Relación entre personas, Enfermería y su actitud hacia los otros.",
       "opcion d": "Evaluación de riesgos laborales.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 14,
       "pregunta": "¿Definición de Salud Pública según Vázquez?",
-      "opcion a": "Ciencia que protege y mejora la salud mediante educación y promoción.",
+      "opcion a": "Disciplina de gestión hospitalaria.",
       "opcion b": "Conjunto de trámites para validar prácticas clínicas.",
-      "opcion c": "Disciplina de gestión hospitalaria.",
+      "opcion c": "Ciencia que protege y mejora la salud mediante educación y promoción.",
       "opcion d": "Evaluación económica de programas sanitarios.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 15,
@@ -141,11 +141,11 @@
     {
       "id": 16,
       "pregunta": "Profundidad adecuada de compresiones (RCP) en niños >1 año.",
-      "opcion a": "Hasta 5 cm de profundidad.",
+      "opcion a": "8 cm profundos.",
       "opcion b": "1 cm máximo.",
-      "opcion c": "8 cm profundos.",
+      "opcion c": "Hasta 5 cm de profundidad.",
       "opcion d": "Solo presión superficial.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 17,
@@ -159,47 +159,47 @@
     {
       "id": 18,
       "pregunta": "Recomendación sobre catéteres centrales (Prevención cuaternaria).",
-      "opcion a": "Monitorizar y revisar diariamente para garantizar su uso.",
+      "opcion a": "Mantenerlos indefinidamente aunque no se utilicen.",
       "opcion b": "Cambiarlos cada 24 h por rutina.",
       "opcion c": "Lavar con heparina ante cualquier duda.",
-      "opcion d": "Mantenerlos indefinidamente aunque no se utilicen.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Monitorizar y revisar diariamente para garantizar su uso.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 19,
       "pregunta": "Clasificación de los peligros ambientales.",
-      "opcion a": "Biológicos, químicos y físicos.",
+      "opcion a": "Físicos, políticos y migratorios.",
       "opcion b": "Urbanos, rurales y mixtos.",
       "opcion c": "Hídricos, estructurales y sociales.",
-      "opcion d": "Físicos, políticos y migratorios.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Biológicos, químicos y físicos.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 20,
       "pregunta": "Lugares recomendados para inserción de CVPc.",
-      "opcion a": "Zona distal a la proximal.",
-      "opcion b": "Vena femoral siempre primero.",
+      "opcion a": "Vena femoral siempre primero.",
+      "opcion b": "Zona distal a la proximal.",
       "opcion c": "Pliegue del codo obligatorio.",
       "opcion d": "Cualquier vena inflamada.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 21,
       "pregunta": "Metaparadigma de Enfermería – fenómenos.",
-      "opcion a": "Persona, entorno, salud y cuidado.",
+      "opcion a": "Cuidados paliativos, entorno, terapia y rehabilitación.",
       "opcion b": "Sociedad, gobierno, ambiente y economía.",
-      "opcion c": "Cuidados paliativos, entorno, terapia y rehabilitación.",
+      "opcion c": "Persona, entorno, salud y cuidado.",
       "opcion d": "Comunidad, familia, salud y bienestar.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 22,
       "pregunta": "Compresiones por minuto (AHA – adultos).",
-      "opcion a": "100–120 compresiones por minuto.",
+      "opcion a": "30–40 por minuto.",
       "opcion b": "60–80 por minuto.",
       "opcion c": "150–160 por minuto.",
-      "opcion d": "30–40 por minuto.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "100–120 compresiones por minuto.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 23,
@@ -213,20 +213,20 @@
     {
       "id": 24,
       "pregunta": "Primera medida inicial para hemorragia postparto.",
-      "opcion a": "Evaluar estado clínico general.",
-      "opcion b": "Administrar líquidos sin control.",
+      "opcion a": "Administrar líquidos sin control.",
+      "opcion b": "Evaluar estado clínico general.",
       "opcion c": "Colocar compresas frías.",
       "opcion d": "Pedir transfusión inmediata.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 25,
       "pregunta": "Factores que causan daño en sistemas de información sanitaria.",
-      "opcion a": "Factores tecnológicos.",
+      "opcion a": "Factores culturales.",
       "opcion b": "Factores nutricionales.",
-      "opcion c": "Factores culturales.",
+      "opcion c": "Factores tecnológicos.",
       "opcion d": "Factores recreativos.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 26,
@@ -240,20 +240,20 @@
     {
       "id": 27,
       "pregunta": "¿Qué elemento del Código de Ética del CIE es fundamental para la práctica profesional?",
-      "opcion a": "Respeto por los derechos humanos.",
+      "opcion a": "Obediencia a jerarquías sin criterio propio.",
       "opcion b": "Preferencia por decisiones institucionales.",
       "opcion c": "Priorización de intereses económicos.",
-      "opcion d": "Obediencia a jerarquías sin criterio propio.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Respeto por los derechos humanos.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 28,
       "pregunta": "¿Cuál es el objetivo central de la Atención Primaria de la Salud?",
-      "opcion a": "Promover el autocuidado y la participación comunitaria.",
+      "opcion a": "Centralizar la atención en hospitales.",
       "opcion b": "Garantizar derivaciones a niveles superiores.",
-      "opcion c": "Centralizar la atención en hospitales.",
+      "opcion c": "Promover el autocuidado y la participación comunitaria.",
       "opcion d": "Sustituir intervenciones de especialistas.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 29,
@@ -267,20 +267,20 @@
     {
       "id": 30,
       "pregunta": "¿Cuál es un signo de alarma en diarrea infantil?",
-      "opcion a": "Signos de shock.",
-      "opcion b": "Hipoactividad leve.",
+      "opcion a": "Hipoactividad leve.",
+      "opcion b": "Signos de shock.",
       "opcion c": "Sudoración aislada.",
       "opcion d": "Llanto intermitente sin fiebre.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 31,
       "pregunta": "¿Cuál es el rol de Enfermería en el enfoque comunitario?",
-      "opcion a": "Favorecer el autocuidado del individuo, la familia y la comunidad.",
+      "opcion a": "Realizar únicamente administración de medicación.",
       "opcion b": "Sustituir funciones médicas.",
-      "opcion c": "Realizar únicamente administración de medicación.",
+      "opcion c": "Favorecer el autocuidado del individuo, la familia y la comunidad.",
       "opcion d": "Intervenir solo en situaciones de emergencia.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 32,
@@ -294,74 +294,74 @@
     {
       "id": 33,
       "pregunta": "¿Qué indica la clasificación de peligros ambientales? (real: examen-unico-2024-bioquimica-en… )",
-      "opcion a": "Biológicos, químicos y físicos.",
+      "opcion a": "Climáticos, culturales y estructurales.",
       "opcion b": "Sociales, emocionales y afectivos.",
-      "opcion c": "Climáticos, culturales y estructurales.",
+      "opcion c": "Biológicos, químicos y físicos.",
       "opcion d": "Urbanos, rurales y mixtos.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 34,
       "pregunta": "¿Qué lugares son recomendados para inserción de CVPc? (real: examen-unico-2024-bioquimica-en… )",
-      "opcion a": "Zona distal a la proximal.",
-      "opcion b": "Cualquier vena visible.",
+      "opcion a": "Cualquier vena visible.",
+      "opcion b": "Zona distal a la proximal.",
       "opcion c": "Pliegue del codo.",
       "opcion d": "Venas en miembros inferiores siempre.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 35,
       "pregunta": "Medida inicial en hemorragia postparto. (real: examen-unico-2024-bioquimica-en… )",
-      "opcion a": "Evaluar estado clínico general.",
+      "opcion a": "Realizar masaje uterino sin examen previo.",
       "opcion b": "Administrar líquidos sin monitorización.",
-      "opcion c": "Realizar masaje uterino sin examen previo.",
+      "opcion c": "Evaluar estado clínico general.",
       "opcion d": "Derivar sin evaluar signos vitales.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 36,
       "pregunta": "¿Cuáles son vías naturales de administración? (real: examen-unico-2024-bioquimica-en… )",
-      "opcion a": "Vías enterales, inhalatoria y tópica.",
+      "opcion a": "Epidural y subdural.",
       "opcion b": "Intravenosa e intraósea.",
-      "opcion c": "Epidural y subdural.",
+      "opcion c": "Vías enterales, inhalatoria y tópica.",
       "opcion d": "Intramuscular rectal profunda.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 37,
       "pregunta": "¿Qué es inherente a la profesión según CIE? (real: examen-unico-2024-bioquimica-en… )",
-      "opcion a": "Derechos humanos.",
-      "opcion b": "Regulación económica.",
+      "opcion a": "Regulación económica.",
+      "opcion b": "Derechos humanos.",
       "opcion c": "Gestión administrativa.",
       "opcion d": "Políticas laborales.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 38,
       "pregunta": "Objetivo en atención comunitaria. (real: examen-unico-2024-bioquimica-en… )",
-      "opcion a": "Ayudar al individuo y comunidad en acciones de autocuidado.",
+      "opcion a": "Administrar programas sin participación activa.",
       "opcion b": "Realizar tratamientos invasivos.",
       "opcion c": "Mantener las enfermedades crónicas.",
-      "opcion d": "Administrar programas sin participación activa.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Ayudar al individuo y comunidad en acciones de autocuidado.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 39,
       "pregunta": "Clasificación de métodos cualitativos.",
-      "opcion a": "Métodos no estandarizados.",
+      "opcion a": "Técnicas de laboratorio.",
       "opcion b": "Protocolos rígidos.",
       "opcion c": "Métodos exclusivamente cuantitativos.",
-      "opcion d": "Técnicas de laboratorio.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Métodos no estandarizados.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 40,
       "pregunta": "Metas del enfoque cuantitativo.",
-      "opcion a": "Describir, explicar, comprobar y predecir fenómenos.",
-      "opcion b": "Interpretar únicamente.",
+      "opcion a": "Interpretar únicamente.",
+      "opcion b": "Describir, explicar, comprobar y predecir fenómenos.",
       "opcion c": "Explorar sin medir.",
       "opcion d": "Identificar emociones subjetivas.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 41,
@@ -375,11 +375,11 @@
     {
       "id": 42,
       "pregunta": "Primera acción en shock hipovolémico.",
-      "opcion a": "Reconocer signos y activar protocolo de urgencia.",
+      "opcion a": "Solicitar estudios antes de intervenir.",
       "opcion b": "Administrar sedantes.",
       "opcion c": "Inmovilizar sin evaluación.",
-      "opcion d": "Solicitar estudios antes de intervenir.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Reconocer signos y activar protocolo de urgencia.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 43,
@@ -411,65 +411,65 @@
     {
       "id": 46,
       "pregunta": "Factor crítico en seguridad del paciente.",
-      "opcion a": "Identificación del paciente.",
+      "opcion a": "Registro de visitas.",
       "opcion b": "Listado administrativo actualizado.",
       "opcion c": "Uso de uniformes diferenciados.",
-      "opcion d": "Registro de visitas.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Identificación del paciente.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 47,
       "pregunta": "Prevención cuaternaria: catéteres centrales. (real: examen-unico-2024-bioquimica-en… )",
-      "opcion a": "Monitorizar y revisar diariamente para garantizar su uso.",
+      "opcion a": "Usarlos indefinidamente.",
       "opcion b": "Cambiarlos cada 8 h.",
-      "opcion c": "Usarlos indefinidamente.",
+      "opcion c": "Monitorizar y revisar diariamente para garantizar su uso.",
       "opcion d": "Curarlos sin valoración.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 48,
       "pregunta": "Región con mayor proporción de adolescentes.",
-      "opcion a": "Misiones.",
+      "opcion a": "La Pampa.",
       "opcion b": "San Luis.",
       "opcion c": "Mendoza.",
-      "opcion d": "La Pampa.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Misiones.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 49,
       "pregunta": "Tipo de datos obtenidos de familiares para diagnóstico comunitario.",
-      "opcion a": "Fuente primaria.",
+      "opcion a": "Secundaria.",
       "opcion b": "Oficial.",
-      "opcion c": "Secundaria.",
+      "opcion c": "Fuente primaria.",
       "opcion d": "Indirecta.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 50,
       "pregunta": "Objetivos de investigación (formulación correcta).",
-      "opcion a": "Iniciar con verbo en infinitivo, alcanzables y coherentes.",
-      "opcion b": "Formularse en pasado.",
+      "opcion a": "Formularse en pasado.",
+      "opcion b": "Iniciar con verbo en infinitivo, alcanzables y coherentes.",
       "opcion c": "Escribirlos como hipótesis cerradas.",
       "opcion d": "Redactarlos sin criterios metodológicos.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 51,
       "pregunta": "¿Cuál es la profundidad adecuada de compresiones en niños mayores de 1 año?",
-      "opcion a": "Hasta 5 cm de profundidad.",
+      "opcion a": "10 cm.",
       "opcion b": "Hasta 2 cm.",
-      "opcion c": "10 cm.",
+      "opcion c": "Hasta 5 cm de profundidad.",
       "opcion d": "3 cm.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 52,
       "pregunta": "Procesos de la farmacocinética.",
-      "opcion a": "Absorción, distribución, metabolización y excreción.",
+      "opcion a": "Ingreso, pasaje membrana y eliminación.",
       "opcion b": "Administración, velocidad y metabolización.",
-      "opcion c": "Ingreso, pasaje membrana y eliminación.",
+      "opcion c": "Absorción, distribución, metabolización y excreción.",
       "opcion d": "Velocidad, dilución y secreción.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 53,
@@ -492,92 +492,92 @@
     {
       "id": 55,
       "pregunta": "Primera medida en hemorragia postparto.",
-      "opcion a": "Evaluar estado clínico general.",
+      "opcion a": "Intervenir sin evaluación.",
       "opcion b": "Pedir hemoterapia de inmediato.",
       "opcion c": "Colocar venoclisis 24G.",
-      "opcion d": "Intervenir sin evaluación.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Evaluar estado clínico general.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 56,
       "pregunta": "Requisitos para formular objetivos de investigación.",
-      "opcion a": "Iniciar con verbo infinitivo, ser alcanzable y coherente.",
+      "opcion a": "Contener juicios de valor.",
       "opcion b": "Deben ser subjetivos y abiertos.",
       "opcion c": "Formularse como conclusiones.",
-      "opcion d": "Contener juicios de valor.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Iniciar con verbo infinitivo, ser alcanzable y coherente.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 57,
       "pregunta": "PA normal en adolescentes ≥16 años.",
-      "opcion a": "PA sistólica <130 mmHg y diastólica <85 mmHg.",
+      "opcion a": ">90 / >75 mmHg.",
       "opcion b": "≥90 / ≥95 mmHg.",
       "opcion c": "<70 / >75 mmHg.",
-      "opcion d": ">90 / >75 mmHg.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "PA sistólica <130 mmHg y diastólica <85 mmHg.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 58,
       "pregunta": "Región con mayor proporción de adolescentes (Argentina 2023).",
-      "opcion a": "Misiones.",
+      "opcion a": "San Juan.",
       "opcion b": "Buenos Aires.",
-      "opcion c": "San Juan.",
+      "opcion c": "Misiones.",
       "opcion d": "Neuquén.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 59,
       "pregunta": "Objetivo en atención comunitaria.",
-      "opcion a": "Ayudar al individuo, su familia y la comunidad en acciones de autocuidado.",
+      "opcion a": "Reemplazar al equipo interdisciplinario.",
       "opcion b": "Asumir el rol médico.",
-      "opcion c": "Reemplazar al equipo interdisciplinario.",
+      "opcion c": "Ayudar al individuo, su familia y la comunidad en acciones de autocuidado.",
       "opcion d": "Intervenir solo ante urgencias.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 60,
       "pregunta": "Rol del enfoque de investigación cuantitativo.",
-      "opcion a": "Describir, explicar, comprobar y predecir fenómenos.",
+      "opcion a": "Analizar sin medir.",
       "opcion b": "Solo interpretar narrativas.",
       "opcion c": "Centrarse solo en experiencias subjetivas.",
-      "opcion d": "Analizar sin medir.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Describir, explicar, comprobar y predecir fenómenos.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 61,
       "pregunta": "Rol del enfoque cualitativo según Sampieri.",
-      "opcion a": "Métodos no estandarizados.",
-      "opcion b": "Predeterminados.",
+      "opcion a": "Predeterminados.",
+      "opcion b": "Métodos no estandarizados.",
       "opcion c": "Mixtos.",
       "opcion d": "Lineales estrictos.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 62,
       "pregunta": "Enfoque del profesional de Enfermería en APS.",
-      "opcion a": "Promover participación activa de la comunidad.",
+      "opcion a": "Derivar siempre al segundo nivel.",
       "opcion b": "Garantizar tratamientos costosos.",
-      "opcion c": "Derivar siempre al segundo nivel.",
+      "opcion c": "Promover participación activa de la comunidad.",
       "opcion d": "Realizar solo tareas administrativas.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 63,
       "pregunta": "¿Qué elemento del CIE es inherente a la enfermería?",
-      "opcion a": "Los derechos humanos.",
+      "opcion a": "La planificación económica.",
       "opcion b": "La gestión política.",
       "opcion c": "La administración presupuestaria.",
-      "opcion d": "La planificación económica.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Los derechos humanos.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 64,
       "pregunta": "Vías naturales de administración de fármacos.",
-      "opcion a": "Enterales, inhalatoria y tópica.",
+      "opcion a": "Medular y subpleural.",
       "opcion b": "Intraósea y epidural.",
       "opcion c": "Intradérmica profunda.",
-      "opcion d": "Medular y subpleural.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Enterales, inhalatoria y tópica.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 65,
@@ -600,11 +600,11 @@
     {
       "id": 67,
       "pregunta": "Prevención cuaternaria sobre catéteres centrales.",
-      "opcion a": "Monitorizar y revisar diariamente para garantizar su uso.",
+      "opcion a": "Cambiarlo por rutina cada día.",
       "opcion b": "Cambiar curación cada 8 h.",
       "opcion c": "Mantenerlo siempre aunque no se use.",
-      "opcion d": "Cambiarlo por rutina cada día.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Monitorizar y revisar diariamente para garantizar su uso.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 68,
@@ -618,29 +618,29 @@
     {
       "id": 69,
       "pregunta": "Compresiones por minuto en adultos (AHA).",
-      "opcion a": "100–120 por minuto.",
-      "opcion b": "80–90.",
+      "opcion a": "80–90.",
+      "opcion b": "100–120 por minuto.",
       "opcion c": "150–180.",
       "opcion d": "40–60.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 70,
       "pregunta": "Factor crítico de seguridad del paciente según OMS.",
-      "opcion a": "Identificación del paciente.",
+      "opcion a": "Listas de asistencia.",
       "opcion b": "Información administrativa.",
-      "opcion c": "Listas de asistencia.",
+      "opcion c": "Identificación del paciente.",
       "opcion d": "Rotación de personal.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 71,
       "pregunta": "Gestión de investigaciones: objetivos correctos.",
-      "opcion a": "Iniciar con verbo en infinitivo y ser coherente.",
-      "opcion b": "Redactar con verbos en pasado.",
+      "opcion a": "Redactar con verbos en pasado.",
+      "opcion b": "Iniciar con verbo en infinitivo y ser coherente.",
       "opcion c": "Incluir opinión personal del investigador.",
       "opcion d": "Iniciar con conclusiones.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 72,
@@ -654,11 +654,11 @@
     {
       "id": 73,
       "pregunta": "Prevención cuaternaria en catéteres venosos.",
-      "opcion a": "Monitorizar y revisar diariamente.",
-      "opcion b": "Reemplazar a diario sin necesidad.",
+      "opcion a": "Reemplazar a diario sin necesidad.",
+      "opcion b": "Monitorizar y revisar diariamente.",
       "opcion c": "Dejarlo sin uso prolongado.",
       "opcion d": "Hacer curación cada 6 h.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 74,
@@ -681,11 +681,11 @@
     {
       "id": 76,
       "pregunta": "Según APS, ¿qué nivel realiza la mayor parte de la promoción y prevención?",
-      "opcion a": "Primer nivel de atención.",
+      "opcion a": "Centros quirúrgicos.",
       "opcion b": "Segundo nivel.",
       "opcion c": "Tercer nivel.",
-      "opcion d": "Centros quirúrgicos.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Primer nivel de atención.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 77,
@@ -699,20 +699,20 @@
     {
       "id": 78,
       "pregunta": "¿Qué profundidad deben tener las compresiones torácicas en niños?",
-      "opcion a": "Hasta 5 cm.",
+      "opcion a": "3 cm.",
       "opcion b": "1 cm.",
-      "opcion c": "3 cm.",
+      "opcion c": "Hasta 5 cm.",
       "opcion d": "7 cm.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 79,
       "pregunta": "Según OMS, ¿qué evento adverso es más frecuente en hospitales?",
-      "opcion a": "Infecciones asociadas a la internación.",
+      "opcion a": "Reacciones por alimentos.",
       "opcion b": "Intoxicación medicamentosa leve.",
       "opcion c": "Caídas por mala iluminación.",
-      "opcion d": "Reacciones por alimentos.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Infecciones asociadas a la internación.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 80,
@@ -726,20 +726,20 @@
     {
       "id": 81,
       "pregunta": "¿Qué elemento es esencial en seguridad del paciente?",
-      "opcion a": "Identificación del paciente.",
+      "opcion a": "Firma de terceros.",
       "opcion b": "Registro de visitas.",
       "opcion c": "Confirmación telefónica.",
-      "opcion d": "Firma de terceros.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Identificación del paciente.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 82,
       "pregunta": "Vía natural de administración de medicamentos.",
-      "opcion a": "Enteral, inhalatoria y tópica.",
-      "opcion b": "Intraósea y epidural.",
+      "opcion a": "Intraósea y epidural.",
+      "opcion b": "Enteral, inhalatoria y tópica.",
       "opcion c": "Subdérmica profunda.",
       "opcion d": "Intracoronaria.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 83,
@@ -753,11 +753,11 @@
     {
       "id": 84,
       "pregunta": "¿Cuál es el objetivo de Enfermería comunitaria?",
-      "opcion a": "Ayudar a individuo, familia y comunidad en acciones de autocuidado.",
-      "opcion b": "Reemplazar funciones médicas.",
+      "opcion a": "Reemplazar funciones médicas.",
+      "opcion b": "Ayudar a individuo, familia y comunidad en acciones de autocuidado.",
       "opcion c": "Realizar únicamente curaciones.",
       "opcion d": "Enfocarse sólo en urgencias.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 85,
@@ -789,101 +789,101 @@
     {
       "id": 88,
       "pregunta": "Metas del enfoque cuantitativo.",
-      "opcion a": "Describir, explicar, comprobar y predecir fenómenos.",
+      "opcion a": "Interpretar narrativas.",
       "opcion b": "Explorar sin medir.",
-      "opcion c": "Interpretar narrativas.",
+      "opcion c": "Describir, explicar, comprobar y predecir fenómenos.",
       "opcion d": "Realizar análisis subjetivos.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 89,
       "pregunta": "Métodos del enfoque cualitativo.",
-      "opcion a": "No estandarizados.",
-      "opcion b": "Rígidos.",
+      "opcion a": "Rígidos.",
+      "opcion b": "No estandarizados.",
       "opcion c": "Estandarizados.",
       "opcion d": "Matemáticos.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 90,
       "pregunta": "Nivel donde se realizan políticas de promoción de la salud.",
-      "opcion a": "Primer nivel de atención.",
+      "opcion a": "Servicios especializados.",
       "opcion b": "Tercer nivel.",
       "opcion c": "Cuarto nivel.",
-      "opcion d": "Servicios especializados.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Primer nivel de atención.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 91,
       "pregunta": "Parámetro fundamental de trastornos ácido-base.",
-      "opcion a": "pH.",
+      "opcion a": "Hemoglobina.",
       "opcion b": "Glucemia.",
       "opcion c": "Sodio.",
-      "opcion d": "Hemoglobina.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "pH.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 92,
       "pregunta": "Eventos adversos más frecuentes (OMS).",
-      "opcion a": "Infecciones asociadas a la atención de salud.",
+      "opcion a": "Malestar por ayuno.",
       "opcion b": "Errores de facturación.",
-      "opcion c": "Malestar por ayuno.",
+      "opcion c": "Infecciones asociadas a la atención de salud.",
       "opcion d": "Dolores inespecíficos.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 93,
       "pregunta": "Componentes del metaparadigma.",
-      "opcion a": "Persona, entorno, salud y cuidado.",
-      "opcion b": "Familia, sociedad, ambiente, economía.",
+      "opcion a": "Familia, sociedad, ambiente, economía.",
+      "opcion b": "Persona, entorno, salud y cuidado.",
       "opcion c": "Prevención, promoción, tratamiento.",
       "opcion d": "Cultura, política, salud mental.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 94,
       "pregunta": "Signo crítico en diarrea.",
-      "opcion a": "Signos de shock.",
-      "opcion b": "Aumento del apetito.",
+      "opcion a": "Aumento del apetito.",
+      "opcion b": "Signos de shock.",
       "opcion c": "Palidez aislada.",
       "opcion d": "Sueño prolongado.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 95,
       "pregunta": "Inserción de CVPc adecuada.",
-      "opcion a": "Zona distal a proximal.",
+      "opcion a": "Venas profundas del pie.",
       "opcion b": "Brazo dominante siempre.",
       "opcion c": "Codo.",
-      "opcion d": "Venas profundas del pie.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Zona distal a proximal.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 96,
       "pregunta": "Recomendación en catéteres centrales (Prevención cuaternaria).",
-      "opcion a": "Monitorizar y revisar diariamente.",
-      "opcion b": "Cambiar por rutina cada día.",
+      "opcion a": "Cambiar por rutina cada día.",
+      "opcion b": "Monitorizar y revisar diariamente.",
       "opcion c": "Mantener aunque esté ocioso.",
       "opcion d": "No registrar curación.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 97,
       "pregunta": "Metodología cuantitativa.",
-      "opcion a": "Explica, describe, comprueba y predice fenómenos.",
-      "opcion b": "Solo observa sin medir.",
+      "opcion a": "Solo observa sin medir.",
+      "opcion b": "Explica, describe, comprueba y predice fenómenos.",
       "opcion c": "Prioriza experiencias subjetivas.",
       "opcion d": "Analiza sin hipótesis.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 98,
       "pregunta": "Vías naturales de administración.",
-      "opcion a": "Enterales, inhalatoria y tópica.",
+      "opcion a": "Subcutánea profunda.",
       "opcion b": "Intravenosa y epidural.",
-      "opcion c": "Subcutánea profunda.",
+      "opcion c": "Enterales, inhalatoria y tópica.",
       "opcion d": "Intraósea.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 99,
@@ -897,11 +897,11 @@
     {
       "id": 100,
       "pregunta": "Profundidad de compresiones torácicas en niños.",
-      "opcion a": "Hasta 5 cm.",
+      "opcion a": "3 cm.",
       "opcion b": "2 cm.",
       "opcion c": "8 cm.",
-      "opcion d": "3 cm.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Hasta 5 cm.",
+      "respuesta_correcta": "opcion d"
     }
   ]
 }

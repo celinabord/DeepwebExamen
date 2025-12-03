@@ -268,12 +268,12 @@
       "options": {
         "A": {
           "text": "Camina con apoyo lateral.",
-          "rationale": "Caminar con apoyo es un hito de los $10-12$ meses de vida.",
+          "rationale": "Caminar con apoyo es un hito de los 10-12 meses de vida.",
           "is_correct": false
         },
         "B": {
           "text": "Dice sus primeras palabras con significado (ej. 'mamá', 'papá').",
-          "rationale": "Las primeras palabras con significado son un hito de los $10-14$ meses de vida.",
+          "rationale": "Las primeras palabras con significado son un hito de los 10-14 meses de vida.",
           "is_correct": false
         },
         "C": {
@@ -283,7 +283,7 @@
         },
         "D": {
           "text": "Mantiene el control de la cabeza (sostén cefálico) al ser levantado.",
-          "rationale": "El sostén cefálico se adquiere mucho antes, alrededor de los $3-4$ meses de vida.",
+          "rationale": "El sostén cefálico se adquiere mucho antes, alrededor de los 3-4 meses de vida.",
           "is_correct": false
         }
       }
@@ -888,26 +888,26 @@
     },
     {
       "question_number": 35,
-      "question": "Un **niño** de **7 años** tiene una orden de $50 mg$ de Amoxicilina oral en suspensión. Si la concentración de la suspensión es de $250 mg/5 ml$, ¿Cuántos **mililitros (ml)** debe administrar **Enfermería**?",
+      "question": "Un **niño** de **7 años** tiene una orden de 50 mg de Amoxicilina oral en suspensión. Si la concentración de la suspensión es de 250 mg/5 ml, ¿Cuántos **mililitros (ml)** debe administrar **Enfermería**?",
       "options": {
         "A": {
           "text": "0.5 ml",
-          "rationale": "La dosis de $50 mg$ requiere $1 ml$ de la suspensión, no $0.5 ml$ ($250 mg$ en $5 ml$ es igual a $50 mg$ en $1 ml$).",
+          "rationale": "La dosis de 50 mg requiere 1 ml de la suspensión, no 0.5 ml (250 mg en 5 ml es igual a 50 mg en 1 ml).",
           "is_correct": false
         },
         "B": {
           "text": "1 ml",
-          "rationale": "La dosis de $50 mg$ se encuentra en **$1 ml$** de la suspensión: $50 mg \\times 5 ml / 250 mg = 1 ml$.",
+          "rationale": "La dosis de 50 mg se encuentra en **1 ml** de la suspensión: 50 mg × 5 ml / 250 mg = 1 ml.",
           "is_correct": true
         },
         "C": {
           "text": "2 ml",
-          "rationale": "La dosis de $2 ml$ corresponde a $100 mg$, lo que excede la dosis indicada.",
+          "rationale": "La dosis de 2 ml corresponde a 100 mg, lo que excede la dosis indicada.",
           "is_correct": false
         },
         "D": {
           "text": "5 ml",
-          "rationale": "La dosis de $5 ml$ corresponde a $250 mg$, lo que excede la dosis indicada.",
+          "rationale": "La dosis de 5 ml corresponde a 250 mg, lo que excede la dosis indicada.",
           "is_correct": false
         }
       }
@@ -918,12 +918,12 @@
       "options": {
         "A": {
           "text": "Camina con apoyo lateral.",
-          "rationale": "Caminar con apoyo es un hito de los $10-12$ meses de vida.",
+          "rationale": "Caminar con apoyo es un hito de los 10-12 meses de vida.",
           "is_correct": false
         },
         "B": {
           "text": "Dice sus primeras palabras con significado (ej. 'mamá', 'papá').",
-          "rationale": "Las primeras palabras con significado son un hito de los $10-14$ meses de vida.",
+          "rationale": "Las primeras palabras con significado son un hito de los 10-14 meses de vida.",
           "is_correct": false
         },
         "C": {
@@ -933,7 +933,7 @@
         },
         "D": {
           "text": "Mantiene el control de la cabeza (sostén cefálico) al ser levantado.",
-          "rationale": "El sostén cefálico se adquiere mucho antes, alrededor de los $3-4$ meses de vida.",
+          "rationale": "El sostén cefálico se adquiere mucho antes, alrededor de los 3-4 meses de vida.",
           "is_correct": false
         }
       }
@@ -1073,22 +1073,22 @@
       "question": "Al educar a los padres de un **niño** con **Asma** sobre el uso del **medidor de flujo espiratorio máximo (PEF)**, ¿Qué valor debe registrarse para determinar la Zona Verde ('control')?",
       "options": {
         "A": {
-          "text": "Menos del $50\%$ del mejor valor personal.",
+          "text": "Menos del 50% del mejor valor personal.",
           "rationale": "Este rango (Zona Roja) indica una exacerbación grave que requiere atención médica urgente.",
           "is_correct": false
         },
         "B": {
-          "text": "Entre el $50\%$ y el $80\%$ del mejor valor personal.",
+          "text": "Entre el 50% y el 80% del mejor valor personal.",
           "rationale": "Este rango (Zona Amarilla) indica una exacerbación moderada que requiere un ajuste del tratamiento de rescate.",
           "is_correct": false
         },
         "C": {
-          "text": "Más del $80\%$ del mejor valor personal.",
-          "rationale": "Un PEF superior al **$80\\%$ del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
+          "text": "Más del 80% del mejor valor personal.",
+          "rationale": "Un PEF superior al **80% del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
           "is_correct": true
         },
         "D": {
-          "text": "Cualquier valor superior a $100$ litros por minuto.",
+          "text": "Cualquier valor superior a 100 litros por minuto.",
           "rationale": "El valor de referencia es el 'mejor valor personal' del paciente, no un valor fijo, para evaluar el control de la enfermedad.",
           "is_correct": false
         }
@@ -1177,22 +1177,22 @@
       "question": "Al educar a los padres de un **niño** con **Asma** sobre el uso del **medidor de flujo espiratorio máximo (PEF)**, ¿Qué valor debe registrarse para determinar la Zona Verde ('control')?",
       "options": {
         "A": {
-          "text": "Menos del $50\%$ del mejor valor personal.",
+          "text": "Menos del 50% del mejor valor personal.",
           "rationale": "Este rango (Zona Roja) indica una exacerbación grave que requiere atención médica urgente.",
           "is_correct": false
         },
         "B": {
-          "text": "Entre el $50\%$ y el $80\%$ del mejor valor personal.",
+          "text": "Entre el 50% y el 80% del mejor valor personal.",
           "rationale": "Este rango (Zona Amarilla) indica una exacerbación moderada que requiere un ajuste del tratamiento de rescate.",
           "is_correct": false
         },
         "C": {
-          "text": "Más del $80\%$ del mejor valor personal.",
-          "rationale": "Un PEF superior al **$80\\%$ del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
+          "text": "Más del 80% del mejor valor personal.",
+          "rationale": "Un PEF superior al **80% del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
           "is_correct": true
         },
         "D": {
-          "text": "Cualquier valor superior a $100$ litros por minuto.",
+          "text": "Cualquier valor superior a 100 litros por minuto.",
           "rationale": "El valor de referencia es el 'mejor valor personal' del paciente, no un valor fijo, para evaluar el control de la enfermedad.",
           "is_correct": false
         }
@@ -1261,7 +1261,7 @@
         },
         "B": {
           "text": "Estadio II",
-          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente $> 4 ml$) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
+          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente > 4 ml) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
           "is_correct": true
         },
         "C": {
@@ -1356,11 +1356,11 @@
     },
     {
       "question_number": 53,
-      "question": "Para la administración de una dosis de $500 ml$ de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
+      "question": "Para la administración de una dosis de 500 ml de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
       "options": {
         "A": {
           "text": "83 microgotas/min",
-          "rationale": "Fórmula: $V (ml) / T (horas)$. $500 ml / 6 h \\approx 83.33$ microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
+          "rationale": "Fórmula: V (ml) / T (horas). 500 ml / 6 h \\approx 83.33 microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
           "is_correct": true
         },
         "B": {
@@ -1375,7 +1375,7 @@
         },
         "D": {
           "text": "125 microgotas/min",
-          "rationale": "Esta es la velocidad para infundir $750 ml$ en $6$ horas, lo que sería una sobrecarga.",
+          "rationale": "Esta es la velocidad para infundir 750 ml en 6 horas, lo que sería una sobrecarga.",
           "is_correct": false
         }
       }
@@ -1385,12 +1385,12 @@
       "question": "En el cuidado de un **niño** con **Hipoglucemia** que está consciente, ¿Cuál es la intervención inicial de **Enfermería**?",
       "options": {
         "A": {
-          "text": "Administrar $1 mg$ de Glucagón intramuscular.",
+          "text": "Administrar 1 mg de Glucagón intramuscular.",
           "rationale": "El Glucagón se administra solo si el niño está inconsciente o es incapaz de tragar.",
           "is_correct": false
         },
         "B": {
-          "text": "Administrar una solución de Glucosa al $50\%$ por vía intravenosa.",
+          "text": "Administrar una solución de Glucosa al 50% por vía intravenosa.",
           "rationale": "La glucosa IV se reserva para niños inconscientes o con hipoglucemia grave y persistente.",
           "is_correct": false
         },
@@ -1564,26 +1564,26 @@
     },
     {
       "question_number": 61,
-      "question": "Un **niño** de **7 años** tiene una orden de $50 mg$ de Amoxicilina oral en suspensión. Si la concentración de la suspensión es de $250 mg/5 ml$, ¿Cuántos **mililitros (ml)** debe administrar **Enfermería**?",
+      "question": "Un **niño** de **7 años** tiene una orden de 50 mg de Amoxicilina oral en suspensión. Si la concentración de la suspensión es de 250 mg/5 ml, ¿Cuántos **mililitros (ml)** debe administrar **Enfermería**?",
       "options": {
         "A": {
           "text": "0.5 ml",
-          "rationale": "La dosis de $50 mg$ requiere $1 ml$ de la suspensión, no $0.5 ml$ ($250 mg$ en $5 ml$ es igual a $50 mg$ en $1 ml$).",
+          "rationale": "La dosis de 50 mg requiere 1 ml de la suspensión, no 0.5 ml (250 mg en 5 ml es igual a 50 mg en 1 ml).",
           "is_correct": false
         },
         "B": {
           "text": "1 ml",
-          "rationale": "La dosis de $50 mg$ se encuentra en **$1 ml$** de la suspensión: $50 mg \\times 5 ml / 250 mg = 1 ml$.",
+          "rationale": "La dosis de 50 mg se encuentra en **1 ml** de la suspensión: 50 mg × 5 ml / 250 mg = 1 ml.",
           "is_correct": true
         },
         "C": {
           "text": "2 ml",
-          "rationale": "La dosis de $2 ml$ corresponde a $100 mg$, lo que excede la dosis indicada.",
+          "rationale": "La dosis de 2 ml corresponde a 100 mg, lo que excede la dosis indicada.",
           "is_correct": false
         },
         "D": {
           "text": "5 ml",
-          "rationale": "La dosis de $5 ml$ corresponde a $250 mg$, lo que excede la dosis indicada.",
+          "rationale": "La dosis de 5 ml corresponde a 250 mg, lo que excede la dosis indicada.",
           "is_correct": false
         }
       }
@@ -1594,12 +1594,12 @@
       "options": {
         "A": {
           "text": "Camina con apoyo lateral.",
-          "rationale": "Caminar con apoyo es un hito de los $10-12$ meses de vida.",
+          "rationale": "Caminar con apoyo es un hito de los 10-12 meses de vida.",
           "is_correct": false
         },
         "B": {
           "text": "Dice sus primeras palabras con significado (ej. 'mamá', 'papá').",
-          "rationale": "Las primeras palabras con significado son un hito de los $10-14$ meses de vida.",
+          "rationale": "Las primeras palabras con significado son un hito de los 10-14 meses de vida.",
           "is_correct": false
         },
         "C": {
@@ -1609,7 +1609,7 @@
         },
         "D": {
           "text": "Mantiene el control de la cabeza (sostén cefálico) al ser levantado.",
-          "rationale": "El sostén cefálico se adquiere mucho antes, alrededor de los $3-4$ meses de vida.",
+          "rationale": "El sostén cefálico se adquiere mucho antes, alrededor de los 3-4 meses de vida.",
           "is_correct": false
         }
       }
@@ -1749,22 +1749,22 @@
       "question": "Al educar a los padres de un **niño** con **Asma** sobre el uso del **medidor de flujo espiratorio máximo (PEF)**, ¿Qué valor debe registrarse para determinar la Zona Verde ('control')?",
       "options": {
         "A": {
-          "text": "Menos del $50\%$ del mejor valor personal.",
+          "text": "Menos del 50% del mejor valor personal.",
           "rationale": "Este rango (Zona Roja) indica una exacerbación grave que requiere atención médica urgente.",
           "is_correct": false
         },
         "B": {
-          "text": "Entre el $50\%$ y el $80\%$ del mejor valor personal.",
+          "text": "Entre el 50 y el 80% del mejor valor personal.",
           "rationale": "Este rango (Zona Amarilla) indica una exacerbación moderada que requiere un ajuste del tratamiento de rescate.",
           "is_correct": false
         },
         "C": {
-          "text": "Más del $80\%$ del mejor valor personal.",
-          "rationale": "Un PEF superior al **$80\\%$ del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
+          "text": "Más del 80% del mejor valor personal.",
+          "rationale": "Un PEF superior al **80% del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
           "is_correct": true
         },
         "D": {
-          "text": "Cualquier valor superior a $100$ litros por minuto.",
+          "text": "Cualquier valor superior a 100 litros por minuto.",
           "rationale": "El valor de referencia es el 'mejor valor personal' del paciente, no un valor fijo, para evaluar el control de la enfermedad.",
           "is_correct": false
         }
@@ -1853,22 +1853,22 @@
       "question": "Al educar a los padres de un **niño** con **Asma** sobre el uso del **medidor de flujo espiratorio máximo (PEF)**, ¿Qué valor debe registrarse para determinar la Zona Verde ('control')?",
       "options": {
         "A": {
-          "text": "Menos del $50\%$ del mejor valor personal.",
+          "text": "Menos del 50% del mejor valor personal.",
           "rationale": "Este rango (Zona Roja) indica una exacerbación grave que requiere atención médica urgente.",
           "is_correct": false
         },
         "B": {
-          "text": "Entre el $50\%$ y el $80\%$ del mejor valor personal.",
+          "text": "Entre el 50% y el 80% del mejor valor personal.",
           "rationale": "Este rango (Zona Amarilla) indica una exacerbación moderada que requiere un ajuste del tratamiento de rescate.",
           "is_correct": false
         },
         "C": {
-          "text": "Más del $80\%$ del mejor valor personal.",
-          "rationale": "Un PEF superior al **$80\\%$ del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
+          "text": "Más del 80% del mejor valor personal.",
+          "rationale": "Un PEF superior al **80% del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
           "is_correct": true
         },
         "D": {
-          "text": "Cualquier valor superior a $100$ litros por minuto.",
+          "text": "Cualquier valor superior a 100 litros por minuto.",
           "rationale": "El valor de referencia es el 'mejor valor personal' del paciente, no un valor fijo, para evaluar el control de la enfermedad.",
           "is_correct": false
         }
@@ -1937,7 +1937,7 @@
         },
         "B": {
           "text": "Estadio II",
-          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente $> 4 ml$) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
+          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente > 4 ml) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
           "is_correct": true
         },
         "C": {
@@ -2032,11 +2032,11 @@
     },
     {
       "question_number": 79,
-      "question": "Para la administración de una dosis de $500 ml$ de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
+      "question": "Para la administración de una dosis de 500 ml de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
       "options": {
         "A": {
           "text": "83 microgotas/min",
-          "rationale": "Fórmula: $V (ml) / T (horas)$. $500 ml / 6 h \\approx 83.33$ microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
+          "rationale": "Fórmula: V (ml) / T (horas). 500 ml / 6 h \\approx 83.33 microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
           "is_correct": true
         },
         "B": {
@@ -2051,7 +2051,7 @@
         },
         "D": {
           "text": "125 microgotas/min",
-          "rationale": "Esta es la velocidad para infundir $750 ml$ en $6$ horas, lo que sería una sobrecarga.",
+          "rationale": "Esta es la velocidad para infundir 750 ml en 6 horas, lo que sería una sobrecarga.",
           "is_correct": false
         }
       }
@@ -2061,12 +2061,12 @@
       "question": "En el cuidado de un **niño** con **Hipoglucemia** que está consciente, ¿Cuál es la intervención inicial de **Enfermería**?",
       "options": {
         "A": {
-          "text": "Administrar $1 mg$ de Glucagón intramuscular.",
+          "text": "Administrar 1 mg de Glucagón intramuscular.",
           "rationale": "El Glucagón se administra solo si el niño está inconsciente o es incapaz de tragar.",
           "is_correct": false
         },
         "B": {
-          "text": "Administrar una solución de Glucosa al $50\%$ por vía intravenosa.",
+          "text": "Administrar una solución de Glucosa al 50% por vía intravenosa.",
           "rationale": "La glucosa IV se reserva para niños inconscientes o con hipoglucemia grave y persistente.",
           "is_correct": false
         },
@@ -2197,7 +2197,7 @@
         },
         "B": {
           "text": "Estadio II",
-          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente $> 4 ml$) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
+          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente > 4 ml) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
           "is_correct": true
         },
         "C": {
@@ -2292,11 +2292,11 @@
     },
     {
       "question_number": 89,
-      "question": "Para la administración de una dosis de $500 ml$ de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
+      "question": "Para la administración de una dosis de 500 ml de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
       "options": {
         "A": {
           "text": "83 microgotas/min",
-          "rationale": "Fórmula: $V (ml) / T (horas)$. $500 ml / 6 h \\approx 83.33$ microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
+          "rationale": "Fórmula: V (ml) / T (horas). 500 ml / 6 h \\approx 83.33 microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
           "is_correct": true
         },
         "B": {
@@ -2311,7 +2311,7 @@
         },
         "D": {
           "text": "125 microgotas/min",
-          "rationale": "Esta es la velocidad para infundir $750 ml$ en $6$ horas, lo que sería una sobrecarga.",
+          "rationale": "Esta es la velocidad para infundir 750 ml en 6 horas, lo que sería una sobrecarga.",
           "is_correct": false
         }
       }
@@ -2321,12 +2321,12 @@
       "question": "En el cuidado de un **niño** con **Hipoglucemia** que está consciente, ¿Cuál es la intervención inicial de **Enfermería**?",
       "options": {
         "A": {
-          "text": "Administrar $1 mg$ de Glucagón intramuscular.",
+          "text": "Administrar 1 mg de Glucagón intramuscular.",
           "rationale": "El Glucagón se administra solo si el niño está inconsciente o es incapaz de tragar.",
           "is_correct": false
         },
         "B": {
-          "text": "Administrar una solución de Glucosa al $50\%$ por vía intravenosa.",
+          "text": "Administrar una solución de Glucosa al 50% por vía intravenosa.",
           "rationale": "La glucosa IV se reserva para niños inconscientes o con hipoglucemia grave y persistente.",
           "is_correct": false
         },
@@ -2457,7 +2457,7 @@
         },
         "B": {
           "text": "Estadio II",
-          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente $> 4 ml$) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
+          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente > 4 ml) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
           "is_correct": true
         },
         "C": {
@@ -2552,11 +2552,11 @@
     },
     {
       "question_number": 99,
-      "question": "Para la administración de una dosis de $500 ml$ de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
+      "question": "Para la administración de una dosis de 500 ml de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
       "options": {
         "A": {
           "text": "83 microgotas/min",
-          "rationale": "Fórmula: $V (ml) / T (horas)$. $500 ml / 6 h \\approx 83.33$ microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
+          "rationale": "Fórmula: V (ml) / T (horas). 500 ml / 6 h \\approx 83.33 microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
           "is_correct": true
         },
         "B": {
@@ -2571,7 +2571,7 @@
         },
         "D": {
           "text": "125 microgotas/min",
-          "rationale": "Esta es la velocidad para infundir $750 ml$ en $6$ horas, lo que sería una sobrecarga.",
+          "rationale": "Esta es la velocidad para infundir 750 ml en 6 horas, lo que sería una sobrecarga.",
           "is_correct": false
         }
       }
@@ -2581,12 +2581,12 @@
       "question": "En el cuidado de un **niño** con **Hipoglucemia** que está consciente, ¿Cuál es la intervención inicial de **Enfermería**?",
       "options": {
         "A": {
-          "text": "Administrar $1 mg$ de Glucagón intramuscular.",
+          "text": "Administrar 1 mg de Glucagón intramuscular.",
           "rationale": "El Glucagón se administra solo si el niño está inconsciente o es incapaz de tragar.",
           "is_correct": false
         },
         "B": {
-          "text": "Administrar una solución de Glucosa al $50\%$ por vía intravenosa.",
+          "text": "Administrar una solución de Glucosa al 50%$ por vía intravenosa.",
           "rationale": "La glucosa IV se reserva para niños inconscientes o con hipoglucemia grave y persistente.",
           "is_correct": false
         },

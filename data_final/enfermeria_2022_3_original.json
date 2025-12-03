@@ -23,7 +23,7 @@
         },
         "D": {
           "text": "Aumentar la presión de perfusión coronaria y cerebral (PPC y CPC) mediante la vasoconstricción periférica.",
-          [cite_start]"rationale": "El objetivo principal de la adrenalina en la RCP es aumentar la vasoconstricción periférica (efecto alfa-adrenérgico) para desviar el flujo a los órganos vitales y mejorar la presión de perfusión. [cite: 853-857]",
+          "rationale": "El objetivo principal de la adrenalina en la RCP es aumentar la vasoconstricción periférica (efecto alfa-adrenérgico) para desviar el flujo a los órganos vitales y mejorar la presión de perfusión.",
           "is_correct": true
         }
       }
@@ -60,7 +60,7 @@
       "options": {
         "A": {
           "text": "Abdomen",
-          [cite_start]"rationale": "La absorción de insulina es más rápida y predecible en la zona **abdominal** debido a la mayor vascularización y menor capa de grasa subcutánea. [cite: 794-798]",
+          "rationale": "La absorción de insulina es más rápida y predecible en la zona **abdominal** debido a la mayor vascularización y menor capa de grasa subcutánea.",
           "is_correct": true
         },
         "B": {
@@ -117,7 +117,7 @@
         },
         "B": {
           "text": "RCP de alta calidad",
-          [cite_start]"rationale": "El primer paso vital es iniciar las maniobras de **RCP de alta calidad** para proporcionar oxígeno y perfusión a los órganos vitales hasta la llegada de la ayuda avanzada. [cite: 677-681]",
+          "rationale": "El primer paso vital es iniciar las maniobras de **RCP de alta calidad** para proporcionar oxígeno y perfusión a los órganos vitales hasta la llegada de la ayuda avanzada.",
           "is_correct": true
         },
         "C": {
@@ -148,7 +148,7 @@
         },
         "C": {
           "text": "Le realiza el tratamiento según el criterio médico basándose en el **mejor interés del paciente** y la Ley N.º 26.061 (Protección Integral de NNyA).",
-          [cite_start]"rationale": "En una urgencia con riesgo de vida, la obligación del equipo de salud es priorizar la vida y la salud del niño, tomando la decisión basada en el criterio médico (Lex Artis) y el interés superior del niño. [cite: 481-485]",
+          "rationale": "En una urgencia con riesgo de vida, la obligación del equipo de salud es priorizar la vida y la salud del niño, tomando la decisión basada en el criterio médico (Lex Artis) y el interés superior del niño.",
           "is_correct": true
         },
         "D": {
@@ -173,7 +173,7 @@
           "is_correct": true
         },
         "C": {
-          "text": "Realizar la desinfección de la jeringa con alcohol al $70\%$ y reutilizarla para la próxima dosis.",
+          "text": "Realizar la desinfección de la jeringa con alcohol al 70% y reutilizarla para la próxima dosis.",
           "rationale": "La reutilización de material de quimioterapia está estrictamente contraindicada para evitar la contaminación cruzada y el riesgo para el paciente y el personal.",
           "is_correct": false
         },
@@ -226,7 +226,7 @@
         },
         "C": {
           "text": "Sonidos altos y de tono agudo, audibles sobre la tráquea y los bronquios principales.",
-          [cite_start]"rationale": "El murmullo bronquial es el sonido de flujo de aire en los grandes bronquios y la tráquea, es fuerte, alto y agudo. [cite: 737-741]",
+          "rationale": "El murmullo bronquial es el sonido de flujo de aire en los grandes bronquios y la tráquea, es fuerte, alto y agudo.",
           "is_correct": true
         },
         "D": {
@@ -267,8 +267,8 @@
       "question": "Para la toma de una muestra de sangre para **Hemocultivo** en un **niño** con sospecha de **sepsis**, ¿Cuál es la técnica de asepsia de la piel más recomendada antes de la punción?",
       "options": {
         "A": {
-          "text": "Limpiar con alcohol al $70\%$ y puncionar de inmediato.",
-          "rationale": "El alcohol al $70\%$ es un buen antiséptico, pero requiere un tiempo de secado para ser efectivo; el yodo o la clorhexidina son más efectivos.",
+          "text": "Limpiar con alcohol al 70% y puncionar de inmediato.",
+          "rationale": "El alcohol al 70% es un buen antiséptico, pero requiere un tiempo de secado para ser efectivo; el yodo o la clorhexidina son más efectivos.",
           "is_correct": false
         },
         "B": {
@@ -277,7 +277,7 @@
           "is_correct": false
         },
         "C": {
-          "text": "Aplicar clorhexidina al $2\%$ en alcohol al $70\%$ o povidona yodada con un movimiento en espiral y dejar secar completamente.",
+          "text": "Aplicar clorhexidina al 2% en alcohol al 70% o povidona yodada con un movimiento en espiral y dejar secar completamente.",
           "rationale": "El uso de **clorhexidina o povidona yodada** con el tiempo de secado adecuado es el estándar de oro para la asepsia cutánea antes de la punción venosa.",
           "is_correct": true
         },
@@ -459,7 +459,7 @@
           "is_correct": false
         },
         "C": {
-          "text": "Mantener al lactante en posición vertical o semi-incorporada ($30^{\\circ}$) durante 20-30 minutos después de cada toma.",
+          "text": "Mantener al lactante en posición vertical o semi-incorporada (30^{\\circ}) durante 20-30 minutos después de cada toma.",
           "rationale": "La **posición vertical** utiliza la gravedad para mantener el contenido gástrico en el estómago, lo que reduce significativamente los episodios de reflujo.",
           "is_correct": true
         },
@@ -522,7 +522,6 @@
         }
       }
     },
-    // Preguntas 21 a 100 del Examen 2
     {
       "question_number": 21,
       "question": "¿Cuál es la principal complicación que puede presentar un **niño** con **Síndrome Nefrótico** por la pérdida masiva de proteínas?",
@@ -747,7 +746,7 @@
         },
         "C": {
           "text": "Sonidos altos y de tono agudo, audibles sobre la tráquea y los bronquios principales.",
-          [cite_start]"rationale": "El murmullo bronquial es el sonido de flujo de aire en los grandes bronquios y la tráquea, es fuerte, alto y agudo. [cite: 737-741]",
+          "rationale": "El murmullo bronquial es el sonido de flujo de aire en los grandes bronquios y la tráquea, es fuerte, alto y agudo.",
           "is_correct": true
         },
         "D": {
@@ -788,8 +787,8 @@
       "question": "Para la toma de una muestra de sangre para **Hemocultivo** en un **niño** con sospecha de **sepsis**, ¿Cuál es la técnica de asepsia de la piel más recomendada antes de la punción?",
       "options": {
         "A": {
-          "text": "Limpiar con alcohol al $70\%$ y puncionar de inmediato.",
-          "rationale": "El alcohol al $70\%$ es un buen antiséptico, pero requiere un tiempo de secado para ser efectivo; el yodo o la clorhexidina son más efectivos.",
+          "text": "Limpiar con alcohol al 70% y puncionar de inmediato.",
+          "rationale": "El alcohol al 70% es un buen antiséptico, pero requiere un tiempo de secado para ser efectivo; el yodo o la clorhexidina son más efectivos.",
           "is_correct": false
         },
         "B": {
@@ -798,7 +797,7 @@
           "is_correct": false
         },
         "C": {
-          "text": "Aplicar clorhexidina al $2\%$ en alcohol al $70\%$ o povidona yodada con un movimiento en espiral y dejar secar completamente.",
+          "text": "Aplicar clorhexidina al 2% en alcohol al 70% o povidona yodada con un movimiento en espiral y dejar secar completamente.",
           "rationale": "El uso de **clorhexidina o povidona yodada** con el tiempo de secado adecuado es el estándar de oro para la asepsia cutánea antes de la punción venosa.",
           "is_correct": true
         },
@@ -980,7 +979,7 @@
           "is_correct": false
         },
         "C": {
-          "text": "Mantener al lactante en posición vertical o semi-incorporada ($30^{\\circ}$) durante 20-30 minutos después de cada toma.",
+          "text": "Mantener al lactante en posición vertical o semi-incorporada (30^{\\circ}) durante 20-30 minutos después de cada toma.",
           "rationale": "La **posición vertical** utiliza la gravedad para mantener el contenido gástrico en el estómago, lo que reduce significativamente los episodios de reflujo.",
           "is_correct": true
         },
@@ -1071,25 +1070,25 @@
     },
     {
       "question_number": 42,
-      "question": "Para la administración de una dosis de $250 mg$ de un medicamento por **vía intramuscular** a un **adolescente**, ¿Cuál es el calibre de aguja más adecuado?",
+      "question": "Para la administración de una dosis de 250 mg de un medicamento por **vía intramuscular** a un **adolescente**, ¿Cuál es el calibre de aguja más adecuado?",
       "options": {
         "A": {
-          "text": "Aguja $25 G \\times 5/8$ pulgadas",
+          "text": "Aguja 25 G × 5/8 pulgadas",
           "rationale": "Esta aguja es demasiado corta y fina; se utiliza para la vía subcutánea o intramuscular en lactantes.",
           "is_correct": false
         },
         "B": {
-          "text": "Aguja $27 G \\times 1/2$ pulgada",
+          "text": "Aguja 27 G × 1/2 pulgada",
           "rationale": "Esta aguja es para la vía intradérmica, no intramuscular.",
           "is_correct": false
         },
         "C": {
-          "text": "Aguja $21 G \\times 1$ a $1.5$ pulgadas",
+          "text": "Aguja 21 G × 1 a 1.5 pulgadas",
           "rationale": "Este calibre y longitud son los adecuados para alcanzar el músculo en un adolescente o adulto y asegurar la absorción adecuada del volumen a inyectar.",
           "is_correct": true
         },
         "D": {
-          "text": "Aguja $18 G \\times 1.5$ pulgadas",
+          "text": "Aguja 18 G × 1.5 pulgadas",
           "rationale": "Esta aguja es muy gruesa y se utiliza generalmente para la preparación o carga de medicamentos, no para la inyección intramuscular rutinaria.",
           "is_correct": false
         }
@@ -1527,7 +1526,7 @@
         },
         "C": {
           "text": "Intraóseo",
-          [cite_start]"rationale": "La vía **intraósea** es la de elección en RCP pediátrica cuando el acceso venoso no puede establecerse rápidamente, ya que la absorción es comparable a la vía intravenosa. [cite: 900-904]",
+          "rationale": "La vía **intraósea** es la de elección en RCP pediátrica cuando el acceso venoso no puede establecerse rápidamente, ya que la absorción es comparable a la vía intravenosa.",
           "is_correct": true
         },
         "D": {
@@ -1643,26 +1642,26 @@
     },
     {
       "question_number": 64,
-      "question": "Un **niño** de **7 años** tiene una orden de $50 mg$ de Amoxicilina oral en suspensión. Si la concentración de la suspensión es de $250 mg/5 ml$, ¿Cuántos **mililitros (ml)** debe administrar **Enfermería**?",
+      "question": "Un **niño** de **7 años** tiene una orden de 50 mg de Amoxicilina oral en suspensión. Si la concentración de la suspensión es de 250 mg/5 ml, ¿Cuántos **mililitros (ml)** debe administrar **Enfermería**?",
       "options": {
         "A": {
           "text": "0.5 ml",
-          "rationale": "La dosis de $50 mg$ requiere $1 ml$ de la suspensión, no $0.5 ml$ ($250 mg$ en $5 ml$ es igual a $50 mg$ en $1 ml$).",
+          "rationale": "La dosis de 50 mg requiere 1 ml de la suspensión, no 0.5 ml (250 mg en 5 ml es igual a 50 mg en 1 ml).",
           "is_correct": false
         },
         "B": {
           "text": "1 ml",
-          "rationale": "La dosis de $50 mg$ se encuentra en **$1 ml$** de la suspensión: $50 mg \\times 5 ml / 250 mg = 1 ml$.",
+          "rationale": "La dosis de 50 mg se encuentra en **1 ml** de la suspensión: 50 mg × 5 ml / 250 mg = 1 ml.",
           "is_correct": true
         },
         "C": {
           "text": "2 ml",
-          "rationale": "La dosis de $2 ml$ corresponde a $100 mg$, lo que excede la dosis indicada.",
+          "rationale": "La dosis de 2 ml corresponde a 100 mg, lo que excede la dosis indicada.",
           "is_correct": false
         },
         "D": {
           "text": "5 ml",
-          "rationale": "La dosis de $5 ml$ corresponde a $250 mg$, lo que excede la dosis indicada.",
+          "rationale": "La dosis de 5 ml corresponde a 250 mg, lo que excede la dosis indicada.",
           "is_correct": false
         }
       }
@@ -1673,12 +1672,12 @@
       "options": {
         "A": {
           "text": "Camina con apoyo lateral.",
-          "rationale": "Caminar con apoyo es un hito de los $10-12$ meses de vida.",
+          "rationale": "Caminar con apoyo es un hito de los 10-12 meses de vida.",
           "is_correct": false
         },
         "B": {
           "text": "Dice sus primeras palabras con significado (ej. 'mamá', 'papá').",
-          "rationale": "Las primeras palabras con significado son un hito de los $10-14$ meses de vida.",
+          "rationale": "Las primeras palabras con significado son un hito de los 10-14 meses de vida.",
           "is_correct": false
         },
         "C": {
@@ -1688,7 +1687,7 @@
         },
         "D": {
           "text": "Mantiene el control de la cabeza (sostén cefálico) al ser levantado.",
-          "rationale": "El sostén cefálico se adquiere mucho antes, alrededor de los $3-4$ meses de vida.",
+          "rationale": "El sostén cefálico se adquiere mucho antes, alrededor de los 3-4 meses de vida.",
           "is_correct": false
         }
       }
@@ -1828,22 +1827,22 @@
       "question": "Al educar a los padres de un **niño** con **Asma** sobre el uso del **medidor de flujo espiratorio máximo (PEF)**, ¿Qué valor debe registrarse para determinar la Zona Verde ('control')?",
       "options": {
         "A": {
-          "text": "Menos del $50\%$ del mejor valor personal.",
+          "text": "Menos del 50% del mejor valor personal.",
           "rationale": "Este rango (Zona Roja) indica una exacerbación grave que requiere atención médica urgente.",
           "is_correct": false
         },
         "B": {
-          "text": "Entre el $50\%$ y el $80\%$ del mejor valor personal.",
+          "text": "Entre el 50% y el 80% del mejor valor personal.",
           "rationale": "Este rango (Zona Amarilla) indica una exacerbación moderada que requiere un ajuste del tratamiento de rescate.",
           "is_correct": false
         },
         "C": {
-          "text": "Más del $80\%$ del mejor valor personal.",
-          "rationale": "Un PEF superior al **$80\\%$ del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
+          "text": "Más del 80% del mejor valor personal.",
+          "rationale": "Un PEF superior al **80% del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
           "is_correct": true
         },
         "D": {
-          "text": "Cualquier valor superior a $100$ litros por minuto.",
+          "text": "Cualquier valor superior a 100 litros por minuto.",
           "rationale": "El valor de referencia es el 'mejor valor personal' del paciente, no un valor fijo, para evaluar el control de la enfermedad.",
           "is_correct": false
         }
@@ -1932,22 +1931,22 @@
       "question": "Al educar a los padres de un **niño** con **Asma** sobre el uso del **medidor de flujo espiratorio máximo (PEF)**, ¿Qué valor debe registrarse para determinar la Zona Verde ('control')?",
       "options": {
         "A": {
-          "text": "Menos del $50\%$ del mejor valor personal.",
+          "text": "Menos del 50% del mejor valor personal.",
           "rationale": "Este rango (Zona Roja) indica una exacerbación grave que requiere atención médica urgente.",
           "is_correct": false
         },
         "B": {
-          "text": "Entre el $50\%$ y el $80\%$ del mejor valor personal.",
+          "text": "Entre el 50% y el 80% del mejor valor personal.",
           "rationale": "Este rango (Zona Amarilla) indica una exacerbación moderada que requiere un ajuste del tratamiento de rescate.",
           "is_correct": false
         },
         "C": {
-          "text": "Más del $80\%$ del mejor valor personal.",
-          "rationale": "Un PEF superior al **$80\\%$ del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
+          "text": "Más del 80% del mejor valor personal.",
+          "rationale": "Un PEF superior al **80% del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
           "is_correct": true
         },
         "D": {
-          "text": "Cualquier valor superior a $100$ litros por minuto.",
+          "text": "Cualquier valor superior a 100 litros por minuto.",
           "rationale": "El valor de referencia es el 'mejor valor personal' del paciente, no un valor fijo, para evaluar el control de la enfermedad.",
           "is_correct": false
         }
@@ -2016,7 +2015,7 @@
         },
         "B": {
           "text": "Estadio II",
-          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente $> 4 ml$) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
+          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente > 4 ml) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
           "is_correct": true
         },
         "C": {
@@ -2111,11 +2110,11 @@
     },
     {
       "question_number": 82,
-      "question": "Para la administración de una dosis de $500 ml$ de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
+      "question": "Para la administración de una dosis de 500 ml de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
       "options": {
         "A": {
           "text": "83 microgotas/min",
-          "rationale": "Fórmula: $V (ml) / T (horas)$. $500 ml / 6 h \\approx 83.33$ microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
+          "rationale": "Fórmula: V (ml) / T (horas). 500 ml / 6 h \\approx 83.33 microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
           "is_correct": true
         },
         "B": {
@@ -2130,7 +2129,7 @@
         },
         "D": {
           "text": "125 microgotas/min",
-          "rationale": "Esta es la velocidad para infundir $750 ml$ en $6$ horas, lo que sería una sobrecarga.",
+          "rationale": "Esta es la velocidad para infundir 750 ml en 6 horas, lo que sería una sobrecarga.",
           "is_correct": false
         }
       }
@@ -2140,12 +2139,12 @@
       "question": "En el cuidado de un **niño** con **Hipoglucemia** que está consciente, ¿Cuál es la intervención inicial de **Enfermería**?",
       "options": {
         "A": {
-          "text": "Administrar $1 mg$ de Glucagón intramuscular.",
+          "text": "Administrar 1 mg de Glucagón intramuscular.",
           "rationale": "El Glucagón se administra solo si el niño está inconsciente o es incapaz de tragar.",
           "is_correct": false
         },
         "B": {
-          "text": "Administrar una solución de Glucosa al $50\%$ por vía intravenosa.",
+          "text": "Administrar una solución de Glucosa al 50% por vía intravenosa.",
           "rationale": "La glucosa IV se reserva para niños inconscientes o con hipoglucemia grave y persistente.",
           "is_correct": false
         },
@@ -2244,22 +2243,22 @@
       "question": "Al educar a los padres de un **niño** con **Asma** sobre el uso del **medidor de flujo espiratorio máximo (PEF)**, ¿Qué valor debe registrarse para determinar la Zona Verde ('control')?",
       "options": {
         "A": {
-          "text": "Menos del $50\%$ del mejor valor personal.",
+          "text": "Menos del 50% del mejor valor personal.",
           "rationale": "Este rango (Zona Roja) indica una exacerbación grave que requiere atención médica urgente.",
           "is_correct": false
         },
         "B": {
-          "text": "Entre el $50\%$ y el $80\%$ del mejor valor personal.",
+          "text": "Entre el 50% y el 80% del mejor valor personal.",
           "rationale": "Este rango (Zona Amarilla) indica una exacerbación moderada que requiere un ajuste del tratamiento de rescate.",
           "is_correct": false
         },
         "C": {
-          "text": "Más del $80\%$ del mejor valor personal.",
-          "rationale": "Un PEF superior al **$80\\%$ del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
+          "text": "Más del 80% del mejor valor personal.",
+          "rationale": "Un PEF superior al **80% del mejor valor personal** indica que el asma está bajo control (Zona Verde) y el tratamiento de mantenimiento es efectivo.",
           "is_correct": true
         },
         "D": {
-          "text": "Cualquier valor superior a $100$ litros por minuto.",
+          "text": "Cualquier valor superior a 100 litros por minuto.",
           "rationale": "El valor de referencia es el 'mejor valor personal' del paciente, no un valor fijo, para evaluar el control de la enfermedad.",
           "is_correct": false
         }
@@ -2354,7 +2353,7 @@
         },
         "B": {
           "text": "Estadio II",
-          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente $> 4 ml$) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
+          "rationale": "El **Estadio II** se define por el aumento del **volumen testicular** (generalmente > 4 ml) y el escaso vello púbico, siendo el primer signo de pubertad en los varones.",
           "is_correct": true
         },
         "C": {
@@ -2449,11 +2448,11 @@
     },
     {
       "question_number": 95,
-      "question": "Para la administración de una dosis de $500 ml$ de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
+      "question": "Para la administración de una dosis de 500 ml de solución fisiológica a un **lactante** en **6 horas** con un equipo de microgoteo (60 gotas/ml), ¿A cuántas **microgotas por minuto** debe regularse el goteo?",
       "options": {
         "A": {
           "text": "83 microgotas/min",
-          "rationale": "Fórmula: $V (ml) / T (horas)$. $500 ml / 6 h \\approx 83.33$ microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
+          "rationale": "Fórmula: V (ml) / T (horas). 500 ml / 6 h \\approx 83.33 microgotas/min. La fórmula de microgoteo es directa: 1 microgota/min = 1 ml/h.",
           "is_correct": true
         },
         "B": {
@@ -2468,7 +2467,7 @@
         },
         "D": {
           "text": "125 microgotas/min",
-          "rationale": "Esta es la velocidad para infundir $750 ml$ en $6$ horas, lo que sería una sobrecarga.",
+          "rationale": "Esta es la velocidad para infundir 750 ml en 6 horas, lo que sería una sobrecarga.",
           "is_correct": false
         }
       }
@@ -2478,12 +2477,12 @@
       "question": "En el cuidado de un **niño** con **Hipoglucemia** que está consciente, ¿Cuál es la intervención inicial de **Enfermería**?",
       "options": {
         "A": {
-          "text": "Administrar $1 mg$ de Glucagón intramuscular.",
+          "text": "Administrar 1 mg de Glucagón intramuscular.",
           "rationale": "El Glucagón se administra solo si el niño está inconsciente o es incapaz de tragar.",
           "is_correct": false
         },
         "B": {
-          "text": "Administrar una solución de Glucosa al $50\%$ por vía intravenosa.",
+          "text": "Administrar una solución de Glucosa al 50% por vía intravenosa.",
           "rationale": "La glucosa IV se reserva para niños inconscientes o con hipoglucemia grave y persistente.",
           "is_correct": false
         },

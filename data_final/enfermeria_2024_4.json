@@ -6,38 +6,38 @@
     {
       "id": 1,
       "pregunta": "¿Qué recomendaría realizar en un paciente que presenta una glucemia plasmática en ayunas (GPA) de 119 mg/dl?",
-      "opcion a": "Una segunda prueba para detección DM2: nueva glucemia y POTG 75.",
+      "opcion a": "Indicar ayuno prolongado y controlar glucemia en 12 horas.",
       "opcion b": "Repetir glucemia capilar postprandial en 24 horas.",
-      "opcion c": "Indicar ayuno prolongado y controlar glucemia en 12 horas.",
+      "opcion c": "Una segunda prueba para detección DM2: nueva glucemia y POTG 75.",
       "opcion d": "Solicitar únicamente perfil lipídico de control.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 2,
       "pregunta": "Según el examen, ¿qué acción se debe realizar frente a sospecha diagnóstica de trastorno glucémico en fase inicial?",
-      "opcion a": "Solicito Hemoglobina glicosilada.",
-      "opcion b": "Suspender la alimentación por 48 horas.",
+      "opcion a": "Suspender la alimentación por 48 horas.",
+      "opcion b": "Solicito Hemoglobina glicosilada.",
       "opcion c": "Iniciar tratamiento con insulina basal.",
       "opcion d": "Indicar glucemia capilar cada 2 horas durante un día.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 3,
       "pregunta": "¿Cuál es la conducta recomendada ante valores límite de glucemia en ayunas?",
-      "opcion a": "Cito en 3 meses para repetir laboratorios.",
-      "opcion b": "Indicar dieta líquida por 7 días.",
+      "opcion a": "Indicar dieta líquida por 7 días.",
+      "opcion b": "Cito en 3 meses para repetir laboratorios.",
       "opcion c": "Iniciar actividad física intensa inmediata.",
       "opcion d": "Solicitar radiografía de abdomen.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 4,
       "pregunta": "¿Qué etapa del cambio de conducta se caracteriza por reconocer la necesidad de modificar hábitos pero sin iniciar acción?",
-      "opcion a": "Etapa contemplativa.",
+      "opcion a": "Etapa formativa.",
       "opcion b": "Etapa transformativa.",
       "opcion c": "Etapa resolutiva.",
-      "opcion d": "Etapa formativa.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Etapa contemplativa.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 5,
@@ -60,20 +60,20 @@
     {
       "id": 7,
       "pregunta": "¿Qué estudio es el indicado ante masa ovárica heterogénea con doppler positivo?",
-      "opcion a": "Marcadores tumorales.",
+      "opcion a": "Test ergométrico.",
       "opcion b": "Urocultivo seriado.",
       "opcion c": "TAC de cráneo.",
-      "opcion d": "Test ergométrico.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Marcadores tumorales.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 8,
       "pregunta": "¿Cuál es la complicación más probable tras tiroidectomía total con signos de Chvostek y Trousseau positivos?",
-      "opcion a": "Hipocalcemia.",
-      "opcion b": "Hematoma retroperitoneal.",
+      "opcion a": "Hematoma retroperitoneal.",
+      "opcion b": "Hipocalcemia.",
       "opcion c": "Hipoglucemia severa.",
       "opcion d": "Lesión del nervio frénico.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 9,
@@ -87,56 +87,56 @@
     {
       "id": 10,
       "pregunta": "Niña de 10 años con soplo sistólico eyectivo en foco aórtico que se atenúa al sentarse. Sospecha:",
-      "opcion a": "Soplo funcional.",
-      "opcion b": "Miocardiopatía restrictiva.",
+      "opcion a": "Miocardiopatía restrictiva.",
+      "opcion b": "Soplo funcional.",
       "opcion c": "Coartación aórtica severa.",
       "opcion d": "Tetralogía de Fallot.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 11,
       "pregunta": "Según el PNUD, ¿qué horarios deben cubrir los servicios de guardia para violencia de género?",
-      "opcion a": "Nocturnos, fines de semana y feriados.",
-      "opcion b": "Solo turnos matutinos.",
+      "opcion a": "Solo turnos matutinos.",
+      "opcion b": "Nocturnos, fines de semana y feriados.",
       "opcion c": "Horario administrativo.",
       "opcion d": "Solo días hábiles.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 12,
       "pregunta": "¿Qué metas corresponden al enfoque cuantitativo según Hernández Sampieri?",
-      "opcion a": "Describir, explicar, comprobar y predecir los fenómenos.",
-      "opcion b": "Ordenar, clasificar y corregir procesos.",
+      "opcion a": "Ordenar, clasificar y corregir procesos.",
+      "opcion b": "Describir, explicar, comprobar y predecir los fenómenos.",
       "opcion c": "Evaluar, sintetizar y proyectar resultados.",
       "opcion d": "Observar, interpretar y consensuar.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 13,
       "pregunta": "¿Qué tipo de métodos de recolección utiliza la aproximación cualitativa?",
-      "opcion a": "No estandarizados.",
+      "opcion a": "De laboratorio puro.",
       "opcion b": "Uniformes.",
-      "opcion c": "De laboratorio puro.",
+      "opcion c": "No estandarizados.",
       "opcion d": "Paramétricos obligatorios.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 14,
       "pregunta": "¿Qué sonido respiratorio se asocia a bronquitis, enfisema o asma?",
-      "opcion a": "Sibilancias.",
+      "opcion a": "Murmullo vesicular aumentado.",
       "opcion b": "Soplo cavernoso.",
       "opcion c": "Estridor inspiratorio puro.",
-      "opcion d": "Murmullo vesicular aumentado.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Sibilancias.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 15,
       "pregunta": "¿Cuáles son los procesos de la farmacocinética?",
-      "opcion a": "La absorción, distribución, metabolización y excreción.",
+      "opcion a": "Neutralización, acople, degradación y reciclado.",
       "opcion b": "Dilución, fijación, expansión y filtrado.",
       "opcion c": "Oxigenación, difusión, circulación y expulsión.",
-      "opcion d": "Neutralización, acople, degradación y reciclado.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "La absorción, distribución, metabolización y excreción.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 16,
@@ -150,20 +150,20 @@
     {
       "id": 17,
       "pregunta": "Según modelo asistencial, ¿a dónde debe acudir una persona gestante para controles?",
-      "opcion a": "1° nivel de atención.",
-      "opcion b": "Solo hospitales de alta complejidad.",
+      "opcion a": "Solo hospitales de alta complejidad.",
+      "opcion b": "1° nivel de atención.",
       "opcion c": "Centro quirúrgico programado.",
       "opcion d": "Servicios privados obligatorios.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 18,
       "pregunta": "De acuerdo con Fayol, ¿qué se busca al gestionar por procesos?",
-      "opcion a": "Objetivos.",
+      "opcion a": "Recursos humanos.",
       "opcion b": "Redes.",
       "opcion c": "Actores.",
-      "opcion d": "Recursos humanos.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Objetivos.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 19,
@@ -186,29 +186,29 @@
     {
       "id": 21,
       "pregunta": "¿Cuál es la acción recomendada para confirmar infección tuberculosa latente con PPD positivo?",
-      "opcion a": "Indicar radiografía de tórax.",
+      "opcion a": "Administrar profilaxis antibiótica inmediata.",
       "opcion b": "Solicitar electrocardiograma.",
       "opcion c": "Indicar prueba de esfuerzo.",
-      "opcion d": "Administrar profilaxis antibiótica inmediata.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Indicar radiografía de tórax.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 22,
       "pregunta": "¿Qué estudio indica el inicio de tratamiento en un paciente con síntomas respiratorios y hallazgos compatibles con neumonía adquirida en la comunidad?",
-      "opcion a": "Radiografía de tórax.",
+      "opcion a": "Prueba de tuberculina de urgencia.",
       "opcion b": "TAC de abdomen.",
       "opcion c": "Ecografía hepática.",
-      "opcion d": "Prueba de tuberculina de urgencia.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Radiografía de tórax.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 23,
       "pregunta": "¿Qué variable se considera al evaluar riesgo cardiovascular global en adultos?",
-      "opcion a": "Edad y tensión arterial.",
-      "opcion b": "Color de piel y tipo de dieta.",
+      "opcion a": "Color de piel y tipo de dieta.",
+      "opcion b": "Edad y tensión arterial.",
       "opcion c": "Estado civil y ocupación.",
       "opcion d": "Nivel educativo y actividad recreativa.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 24,
@@ -222,47 +222,47 @@
     {
       "id": 25,
       "pregunta": "¿Cuál es el primer paso para realizar una correcta auscultación respiratoria?",
-      "opcion a": "Indicar al paciente que respire profundo por la boca.",
-      "opcion b": "Pedir inspiración nasal forzada.",
+      "opcion a": "Pedir inspiración nasal forzada.",
+      "opcion b": "Indicar al paciente que respire profundo por la boca.",
       "opcion c": "Solicitar cierre de glotis por 10 segundos.",
       "opcion d": "Indicar respiración abdominal exclusivamente.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 26,
       "pregunta": "¿Qué estudio se utiliza para valorar compromiso cardíaco estructural?",
-      "opcion a": "Ecocardiograma.",
-      "opcion b": "Radiografía de cráneo.",
+      "opcion a": "Radiografía de cráneo.",
+      "opcion b": "Ecocardiograma.",
       "opcion c": "Electromiografía.",
       "opcion d": "TAC de miembros inferiores.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 27,
       "pregunta": "¿Qué tratamiento inicial debe indicarse en sospecha de accidente cerebrovascular agudo?",
-      "opcion a": "Solicitar TAC de cerebro sin contraste.",
-      "opcion b": "Iniciar anticoagulación inmediata sin estudios.",
+      "opcion a": "Iniciar anticoagulación inmediata sin estudios.",
+      "opcion b": "Solicitar TAC de cerebro sin contraste.",
       "opcion c": "Solicitar radiografía de columna cervical.",
       "opcion d": "Administrar antiinflamatorios orales.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 57,
       "pregunta": "¿Qué define la etapa de acción en el modelo de Prochaska?",
-      "opcion a": "El paciente ya inició cambios efectivos.",
-      "opcion b": "El paciente solo reflexiona sobre el cambio.",
+      "opcion a": "El paciente solo reflexiona sobre el cambio.",
+      "opcion b": "El paciente ya inició cambios efectivos.",
       "opcion c": "El paciente regresa a hábitos previos.",
       "opcion d": "El paciente no reconoce el problema.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 58,
       "pregunta": "¿Qué sonido respiratorio indica broncoespasmo?",
-      "opcion a": "Sibilancias.",
+      "opcion a": "Murmullo aumentado.",
       "opcion b": "Estertores húmedos gruesos.",
       "opcion c": "Roce pleural.",
-      "opcion d": "Murmullo aumentado.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Sibilancias.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 59,
@@ -285,29 +285,29 @@
     {
       "id": 61,
       "pregunta": "Según modelo asistencial, ¿a qué nivel debe asistir una persona gestante para controles prenatales?",
-      "opcion a": "1º nivel de atención.",
+      "opcion a": "Solo al servicio de emergencias.",
       "opcion b": "Únicamente a un hospital de alta complejidad.",
-      "opcion c": "Solo al servicio de emergencias.",
+      "opcion c": "1º nivel de atención.",
       "opcion d": "Consultorio privado exclusivo.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 62,
       "pregunta": "Según Fayol, la gestión por procesos se orienta a:",
-      "opcion a": "Objetivos.",
-      "opcion b": "Estructuras.",
+      "opcion a": "Estructuras.",
+      "opcion b": "Objetivos.",
       "opcion c": "Puestos de trabajo.",
       "opcion d": "Recursos financieros.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 63,
       "pregunta": "¿Cómo se inicia la maniobra de Heimlich en mayores de 1 año?",
-      "opcion a": "Abrace al paciente por la cintura desde atrás.",
+      "opcion a": "Aplique golpes torácicos laterales.",
       "opcion b": "Coloque manos en el esternón.",
       "opcion c": "Empuje el abdomen hacia los costados.",
-      "opcion d": "Aplique golpes torácicos laterales.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Abrace al paciente por la cintura desde atrás.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 64,
@@ -339,29 +339,29 @@
     {
       "id": 67,
       "pregunta": "¿Qué factor se considera clave para evaluar riesgo cardiovascular?",
-      "opcion a": "Edad y tensión arterial.",
+      "opcion a": "Frecuencia de actividad recreativa.",
       "opcion b": "Estado civil y ocupación.",
-      "opcion c": "Frecuencia de actividad recreativa.",
+      "opcion c": "Edad y tensión arterial.",
       "opcion d": "Tipo de alimentación materna en infancia.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 68,
       "pregunta": "Mecanismo fundamental del intercambio gaseoso pulmonar:",
-      "opcion a": "Difusión.",
+      "opcion a": "Filtración hormonal.",
       "opcion b": "Osmosis pura.",
       "opcion c": "Presurización activa.",
-      "opcion d": "Filtración hormonal.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Difusión.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 69,
       "pregunta": "Para realizar auscultación respiratoria, primer paso:",
-      "opcion a": "Indicar respiración profunda por la boca.",
+      "opcion a": "Pedir respiración diafragmática exclusiva.",
       "opcion b": "Mantener apnea voluntaria.",
       "opcion c": "Solicitar inspiración nasal rápida.",
-      "opcion d": "Pedir respiración diafragmática exclusiva.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Indicar respiración profunda por la boca.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 70,
@@ -375,11 +375,11 @@
     {
       "id": 71,
       "pregunta": "Sospecha de ACV agudo: primer estudio indicado:",
-      "opcion a": "TAC de cerebro sin contraste.",
+      "opcion a": "Electroencefalograma urgente.",
       "opcion b": "RMN con contraste inmediato.",
       "opcion c": "Radiografía cervical.",
-      "opcion d": "Electroencefalograma urgente.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "TAC de cerebro sin contraste.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 72,
@@ -393,11 +393,11 @@
     {
       "id": 73,
       "pregunta": "En embarazo de bajo riesgo, suplementación diaria recomendada:",
-      "opcion a": "Ácido fólico + hierro.",
+      "opcion a": "Vitamina E + yodo.",
       "opcion b": "Magnesio + potasio.",
-      "opcion c": "Vitamina E + yodo.",
+      "opcion c": "Ácido fólico + hierro.",
       "opcion d": "Omega 3 solo.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 74,
@@ -420,11 +420,11 @@
     {
       "id": 76,
       "pregunta": "¿Qué es el volumen corriente?",
-      "opcion a": "Cantidad de aire (~500 ml) intercambiado en respiración normal.",
+      "opcion a": "Capacidad vital forzada.",
       "opcion b": "Volumen residual total.",
-      "opcion c": "Capacidad vital forzada.",
+      "opcion c": "Cantidad de aire (~500 ml) intercambiado en respiración normal.",
       "opcion d": "Reserva inspiratoria.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 77,
@@ -438,20 +438,20 @@
     {
       "id": 78,
       "pregunta": "Mujer 55 años, IMC 34, glucemia 240 mg%. Tratamiento inicial:",
-      "opcion a": "Metformina + dieta + actividad física.",
+      "opcion a": "Dieta exclusiva sin medicación.",
       "opcion b": "Insulina rápida sin monitoreo.",
-      "opcion c": "Dieta exclusiva sin medicación.",
+      "opcion c": "Metformina + dieta + actividad física.",
       "opcion d": "Antiinflamatorios por 7 días.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 79,
       "pregunta": "Niño con NAC sin respuesta 36 h a amoxicilina. Conducta:",
-      "opcion a": "Internación para antibiótico EV.",
-      "opcion b": "Aumentar dosis oral.",
+      "opcion a": "Aumentar dosis oral.",
+      "opcion b": "Internación para antibiótico EV.",
       "opcion c": "Dar alta con control en una semana.",
       "opcion d": "Añadir solo broncodilatadores.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 80,
@@ -483,20 +483,20 @@
     {
       "id": 83,
       "pregunta": "Etapa de cambio donde el paciente reconoce el problema pero aún no actúa:",
-      "opcion a": "Etapa contemplativa.",
-      "opcion b": "Etapa de acción.",
+      "opcion a": "Etapa de acción.",
+      "opcion b": "Etapa contemplativa.",
       "opcion c": "Etapa de recaída.",
       "opcion d": "Etapa de mantenimiento.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 84,
       "pregunta": "¿Qué sonido respiratorio indica obstrucción bronquial?",
-      "opcion a": "Sibilancias.",
+      "opcion a": "Murmullo vesicular abolido.",
       "opcion b": "Estertores húmedos.",
       "opcion c": "Roce pleural.",
-      "opcion d": "Murmullo vesicular abolido.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Sibilancias.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 85,
@@ -510,83 +510,83 @@
     {
       "id": 86,
       "pregunta": "¿Cuándo se aplica el primer refuerzo de IPV?",
-      "opcion a": "18 meses.",
-      "opcion b": "6 meses.",
+      "opcion a": "6 meses.",
+      "opcion b": "18 meses.",
       "opcion c": "4 años.",
       "opcion d": "11 años.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 87,
       "pregunta": "Nivel recomendado para control prenatal en personas gestantes:",
-      "opcion a": "Primer nivel de atención.",
-      "opcion b": "Solo hospitales de alta complejidad.",
+      "opcion a": "Solo hospitales de alta complejidad.",
+      "opcion b": "Primer nivel de atención.",
       "opcion c": "Guardia de emergencias.",
       "opcion d": "Servicios especializados privados.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 88,
       "pregunta": "Según Fayol, la gestión por procesos se orienta a:",
-      "opcion a": "Objetivos.",
+      "opcion a": "Infraestructura.",
       "opcion b": "Jerarquías.",
-      "opcion c": "Infraestructura.",
+      "opcion c": "Objetivos.",
       "opcion d": "Recursos materiales.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 89,
       "pregunta": "Maniobra de Heimlich en mayores de 1 año, primer paso:",
-      "opcion a": "Abrace al paciente por la cintura desde atrás.",
+      "opcion a": "Elevar brazos del paciente.",
       "opcion b": "Compresiones sobre esternón.",
       "opcion c": "Golpes en espalda exclusivamente.",
-      "opcion d": "Elevar brazos del paciente.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Abrace al paciente por la cintura desde atrás.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 90,
       "pregunta": "Primera etapa de coordinación sensorial CoPaP:",
-      "opcion a": "Familiarización.",
-      "opcion b": "Integración inicial.",
+      "opcion a": "Integración inicial.",
+      "opcion b": "Familiarización.",
       "opcion c": "Ajuste sensorial.",
       "opcion d": "Activación preparatoria.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 91,
       "pregunta": "Niña con ITU, ecografía normal, buen estado general. Conducta:",
-      "opcion a": "Dar pautas de alarma y no solicitar otro estudio.",
+      "opcion a": "Internación preventiva.",
       "opcion b": "Profilaxis antibiótica 6 meses.",
-      "opcion c": "Internación preventiva.",
+      "opcion c": "Dar pautas de alarma y no solicitar otro estudio.",
       "opcion d": "Cistografía miccional inmediata.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 92,
       "pregunta": "Tratamiento de elección en C. difficile no grave:",
-      "opcion a": "Vancomicina 125 mg cada 6 h VO.",
-      "opcion b": "Amoxicilina VO.",
+      "opcion a": "Amoxicilina VO.",
+      "opcion b": "Vancomicina 125 mg cada 6 h VO.",
       "opcion c": "Ibuprofeno.",
       "opcion d": "Eritromicina.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 93,
       "pregunta": "Hipertensión en embarazo ambulatoria:",
-      "opcion a": "Alfametildopa, Labetalol, Nifedipina.",
+      "opcion a": "Diuréticos tiazídicos exclusivos.",
       "opcion b": "Enalapril + espironolactona.",
       "opcion c": "Propranolol solo.",
-      "opcion d": "Diuréticos tiazídicos exclusivos.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Alfametildopa, Labetalol, Nifedipina.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 94,
       "pregunta": "Vía de finalización en embarazada con HIV y CV >1000 copias:",
-      "opcion a": "Cesárea electiva + AZT intraparto.",
+      "opcion a": "Inducción con oxitocina.",
       "opcion b": "Parto vaginal sin medicación.",
-      "opcion c": "Inducción con oxitocina.",
+      "opcion c": "Cesárea electiva + AZT intraparto.",
       "opcion d": "Cesárea sin profilaxis.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 95,
@@ -600,29 +600,29 @@
     {
       "id": 96,
       "pregunta": "Pielonefritis con fiebre, náuseas y puño-percusión positiva:",
-      "opcion a": "Solicita urocultivo y deriva para internación urgente.",
+      "opcion a": "Indicar analgésicos únicamente.",
       "opcion b": "Dar alta con hidratación oral.",
-      "opcion c": "Indicar analgésicos únicamente.",
+      "opcion c": "Solicita urocultivo y deriva para internación urgente.",
       "opcion d": "Citar en 48 horas.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 97,
       "pregunta": "Hombre con ITU y fiebre. Conducta inicial:",
-      "opcion a": "Solicita urocultivo y evalúa tolerancia oral + CIPROVO.",
+      "opcion a": "Hemocultivos exclusivamente.",
       "opcion b": "TAC abdominal inmediata.",
-      "opcion c": "Hemocultivos exclusivamente.",
+      "opcion c": "Solicita urocultivo y evalúa tolerancia oral + CIPROVO.",
       "opcion d": "No iniciar antibiótico hasta 72 h.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 98,
       "pregunta": "Niño con NAC sin mejoría en 36 h con amoxi VO:",
-      "opcion a": "Internación para antibiótico EV.",
+      "opcion a": "Corticoides solos.",
       "opcion b": "Aumentar dosis oral.",
-      "opcion c": "Corticoides solos.",
+      "opcion c": "Internación para antibiótico EV.",
       "opcion d": "Control en una semana.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 99,

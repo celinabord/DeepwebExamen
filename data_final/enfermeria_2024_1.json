@@ -6,20 +6,20 @@
     {
       "id": 2,
       "pregunta": "¿Qué derechos tiene la persona gestante durante el trabajo de parto, parto y puerperio en cuanto a la persona acompañante?",
-      "opcion a": "Puede elegir solo a un familiar directo para que la acompañe.",
+      "opcion a": "Puede elegir al padre de la persona por nacer.",
       "opcion b": "Puede elegir solo a la madre de la persona gestante para que la acompañe.",
       "opcion c": "Puede elegir a la persona que acompañe todo el tiempo en esos procesos.",
-      "opcion d": "Puede elegir al padre de la persona por nacer.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Puede elegir solo a un familiar directo para que la acompañe.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 4,
       "pregunta": "¿Qué elementos contempla la Enfermería basada en la evidencia (EBE)?",
-      "opcion a": "Evidencia científica, experiencia profesional y la opinión del usuario",
-      "opcion b": "Valoración, diagnóstico y evaluación de Enfermería.",
+      "opcion a": "Valoración, diagnóstico y evaluación de Enfermería.",
+      "opcion b": "Evidencia científica, experiencia profesional y la opinión del usuario",
       "opcion c": "Paciente, problemas e intervenciones.",
       "opcion d": "Problemas reales, decisiones y objeto de estudio.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 9,
@@ -42,47 +42,47 @@
     {
       "id": 3,
       "pregunta": "¿Qué recomendación existe sobre los catéteres centrales venosos desde el Ministerio de Salud de la Nación, sobre la Prevención cuaternaria \"No Hacer\" en Enfermería?",
-      "opcion a": "Se recomienda cambiar el catéter si el paciente refiere dolor y picazón en el sitio de inserción.",
+      "opcion a": "Por debe utilizar de manera prolongada los catéteres centrales de inserción periférica.",
       "opcion b": "Se recomienda monitorizar y revisar diariamente para garantizar su uso.",
       "opcion c": "Se debe realizar curación cada 8 horas para evaluación de sitio de inserción del catéter.",
-      "opcion d": "Por debe utilizar de manera prolongada los catéteres centrales de inserción periférica.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Se recomienda cambiar el catéter si el paciente refiere dolor y picazón en el sitio de inserción.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 5,
       "pregunta": "¿Cuál es el factor que, al no realizarlo involucra consecuencias catastróficas como prácticas de intervenciones quirúrgicas en un lugar erróneo, según un informe sobre seguridad del paciente de la OMS?",
-      "opcion a": "Historia clínica electrónica.",
+      "opcion a": "Prácticas riesgosas de inyección.",
       "opcion b": "Identificación de paciente.",
       "opcion c": "Informatización de la prescripción.",
-      "opcion d": "Prácticas riesgosas de inyección.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Historia clínica electrónica.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 7,
       "pregunta": "¿Como se define volumen corriente (VC) al realizar la valoración de la capacidad respiratoria?",
-      "opcion a": "Es el volumen de aire de 1100ml que permanecen dentro de los pulmones.",
+      "opcion a": "Es la cantidad de aire de unos 500ml que entran y salen de los pulmones.",
       "opcion b": "Es aproximadamente 1000ml de aire que se pueden expirar.",
       "opcion c": "Es la cantidad de aire de unos 2100-3100ml que se pueden inhalar con fuerza.",
-      "opcion d": "Es la cantidad de aire de unos 500ml que entran y salen de los pulmones.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Es el volumen de aire de 1100ml que permanecen dentro de los pulmones.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 7,
       "pregunta": "¿Cuántas compresiones torácicas se deben realizar en 1 minuto, según el Algoritmo de paro cardíaco en adultos AMERICAN HEART ASSOCIATION (AHA)?",
-      "opcion a": "Entre 80-90 compresiones por minuto.",
+      "opcion a": "Entre 130-140 compresiones por minuto.",
       "opcion b": "Entre 100-120 compresiones por minuto.",
-      "opcion c": "Entre 130-140 compresiones por minuto.",
+      "opcion c": "Entre 80-90 compresiones por minuto.",
       "opcion d": "Entre 180-200 compresiones por minuto.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 38,
       "pregunta": "¿Qué funciones tiene el personal de enfermería de Atención Primaria?",
-      "opcion a": "Asistencial, formar, gestionar e investigar.",
-      "opcion b": "Formar e investigar, consultor y gestor de casos.",
+      "opcion a": "Formar e investigar, consultor y gestor de casos.",
+      "opcion b": "Asistencial, formar, gestionar e investigar.",
       "opcion c": "Asistencial, mediador, mentor y organizador.",
       "opcion d": "Dirigir, diseñar, gestionar e investigar.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion b"
     },
     {
       "id": 39,
@@ -105,38 +105,38 @@
     {
       "id": 53,
       "pregunta": "¿Qué patología es la más frecuente ante la contaminación del aire en las viviendas?",
-      "opcion a": "Patologías respiratorias agudas.",
+      "opcion a": "Intoxicaciones.",
       "opcion b": "Diferentes tipos de cáncer.",
       "opcion c": "Infecciones cutáneas.",
-      "opcion d": "Intoxicaciones.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Patologías respiratorias agudas.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 59,
       "pregunta": "¿Qué tipos de flora microbiana se encuentran en las manos?",
-      "opcion a": "Flora autóctona y nativa.",
+      "opcion a": "Flora colonizada y reducida.",
       "opcion b": "Flora inmunológica y microbiótica.",
       "opcion c": "Flora resistente y transitoria.",
-      "opcion d": "Flora colonizada y reducida.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Flora autóctona y nativa.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 6,
       "pregunta": "¿Qué región de la Argentina tiene la mayor proporción de adolescentes en comparación con el resto del país, según el informe sobre la Situación de salud de adolescentes y jóvenes de la Argentina 2023?",
-      "opcion a": "Misiones.",
+      "opcion a": "Córdoba.",
       "opcion b": "Ciudad Autónoma de Buenos Aires.",
       "opcion c": "Santa Fe .",
-      "opcion d": "Córdoba.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Misiones.",
+      "respuesta_correcta": "opcion d"
     },
     {
       "id": 2007,
       "pregunta": "sobre Salud Mental y Apoyo Psicosocial en Emergencias Humanitarias y Catástrofes?",
-      "opcion a": "Organización de la comunidad y apoyo comunitario.",
+      "opcion a": "Diagnóstico de situación en materia de Salud Mental.",
       "opcion b": "Realizar derivaciones solamente a hospitales.",
-      "opcion c": "Diagnóstico de situación en materia de Salud Mental.",
+      "opcion c": "Organización de la comunidad y apoyo comunitario.",
       "opcion d": "Coordinación intersectorial de los servicios de Salud Mental.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 3,
@@ -150,20 +150,20 @@
     {
       "id": 9,
       "pregunta": "¿Qué actividades se deberían realizar al momento que la persona puérpera presenta una hemorragia post parto sin alumbramiento?",
-      "opcion a": "Evaluar el estado clínico, comprobar hemorragia y realizar masaje uterino.",
+      "opcion a": "Inyección de Oxitócica 10UI (EV), masaje uterino, tracción controlada del cordón.",
       "opcion b": "Administrar solución fisiológica y si es necesario transfusión glóbulos rojos.",
-      "opcion c": "Inyección de Oxitócica 10UI (EV), masaje uterino, tracción controlada del cordón.",
+      "opcion c": "Evaluar el estado clínico, comprobar hemorragia y realizar masaje uterino.",
       "opcion d": "Evaluar el estado clínico, físico y preparar a la puérpera para una histerectomía.",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion c"
     },
     {
       "id": 90,
       "pregunta": "¿Cuáles de estos trastornos crónicos se relacionan con el consumo excesivo de alcohol?",
-      "opcion a": "Accidentes cerebrales e hipertensión.",
+      "opcion a": "Obesidad y cefaleas.",
       "opcion b": "Encefalopatía de Wernicke-Korsakoff y enfermedad hepática.",
       "opcion c": "Hipertensión y diabetes.",
-      "opcion d": "Obesidad y cefaleas.",
-      "respuesta_correcta": "opcion a"
+      "opcion d": "Accidentes cerebrales e hipertensión.",
+      "respuesta_correcta": "opcion d"
     }
   ]
 }
