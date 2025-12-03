@@ -1,9 +1,4 @@
-{
-  "tema": "Enfermería",
-  "año": 2024,
-  "examen": 4,
-  "preguntas": [
-    {
+
       "id": 1,
       "pregunta": "¿Qué recomendaría realizar en un paciente que presenta una glucemia plasmática en ayunas (GPA) de 119 mg/dl?",
       "opcion a": "Indicar ayuno prolongado y controlar glucemia en 12 horas.",
