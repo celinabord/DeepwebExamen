@@ -1,731 +1,731 @@
 1) ¿Qué indica un aumento súbito de la frecuencia cardíaca en reposo?
-Correcta: Taquicardia.
+Taquicardia.
 
-Incorrecta 1: Hipotermia.
+Hipotermia.
 
-Incorrecta 2: Bradipnea.
+Bradipnea.
 
-Incorrecta 3: Desnutrición.
+Desnutrición.
 
 2) ¿Qué es la asepsia?
-Correcta: Conjunto de medidas para evitar la contaminación por microorganismos.
+Conjunto de medidas para evitar la contaminación por microorganismos.
 
-Incorrecta 1: Limpieza básica del entorno.
+Limpieza básica del entorno.
 
-Incorrecta 2: Uso exclusivo de guantes estériles.
+Uso exclusivo de guantes estériles.
 
-Incorrecta 3: Desinfección del instrumental únicamente.
+Desinfección del instrumental únicamente.
 
 3) ¿Cuál es un efecto adverso común de los diuréticos?
-Correcta: Hipopotasemia.
+Hipopotasemia.
 
-Incorrecta 1: Hiperglucemia siempre.
+Hiperglucemia siempre.
 
-Incorrecta 2: Aumento de peso.
+Aumento de peso.
 
-Incorrecta 3: Hipertensión.
+Hipertensión.
 
 4) ¿Qué indica cianosis periférica?
-Correcta: Disminución de perfusión en extremidades.
+Disminución de perfusión en extremidades.
 
-Incorrecta 1: Infección urinaria.
+Infección urinaria.
 
-Incorrecta 2: Reacción alérgica leve.
+Reacción alérgica leve.
 
-Incorrecta 3: Buena oxigenación.
+Buena oxigenación.
 
 5) ¿Cuál es la posición recomendada para vómitos?
-Correcta: Decúbito lateral.
+Decúbito lateral.
 
-Incorrecta 1: Prono.
+Prono.
 
-Incorrecta 2: Trendelemburg.
+Trendelemburg.
 
-Incorrecta 3: Rodillas al pecho.
+Rodillas al pecho.
 
 6) ¿Qué parámetro indica perfusión periférica adecuada?
-Correcta: Llenado capilar <2 s.
+Llenado capilar <2 s.
 
-Incorrecta 1: Palidez marcada.
+Palidez marcada.
 
-Incorrecta 2: Extremidades frías.
+Extremidades frías.
 
-Incorrecta 3: Cianosis leve.
+Cianosis leve.
 
 7) ¿Qué es la hipovolemia?
-Correcta: Disminución del volumen sanguíneo circulante.
+Disminución del volumen sanguíneo circulante.
 
-Incorrecta 1: Aumento de temperatura.
+Aumento de temperatura.
 
-Incorrecta 2: Falta de vitaminas.
+Falta de vitaminas.
 
-Incorrecta 3: Hiperglucemia.
+Hiperglucemia.
 
 8) ¿Qué indica un abdomen distendido y doloroso?
-Correcta: Posible obstrucción intestinal.
+Posible obstrucción intestinal.
 
-Incorrecta 1: Digestión normal.
+Digestión normal.
 
-Incorrecta 2: Hambre.
+Hambre.
 
-Incorrecta 3: Sed.
+Sed.
 
 9) ¿Cuál es el mejor sitio para inyección subcutánea?
-Correcta: Abdomen.
+Abdomen.
 
-Incorrecta 1: Frente.
+Frente.
 
-Incorrecta 2: Región escapular.
+Región escapular.
 
-Incorrecta 3: Cuello.
+Cuello.
 
 10) ¿Qué indica una presión arterial de 160/100 mmHg?
-Correcta: Hipertensión.
+Hipertensión.
 
-Incorrecta 1: Normotensión.
+Normotensión.
 
-Incorrecta 2: Hipotensión.
+Hipotensión.
 
-Incorrecta 3: Shock.
+Shock.
 
 11) ¿Qué es una infección nosocomial?
-Correcta: Infección adquirida dentro del hospital.
+Infección adquirida dentro del hospital.
 
-Incorrecta 1: Infección previa al ingreso.
+Infección previa al ingreso.
 
-Incorrecta 2: Alergia.
+Alergia.
 
-Incorrecta 3: Trastorno hematológico.
+Trastorno hematológico.
 
 12) ¿Cuál es el primer paso ante una hemorragia externa?
-Correcta: Compresión directa.
+Compresión directa.
 
-Incorrecta 1: Lavar con suero.
+Lavar con suero.
 
-Incorrecta 2: Colocar hielo solo.
+Colocar hielo solo.
 
-Incorrecta 3: Elevar piernas.
+Elevar piernas.
 
 13) ¿Qué indica un pulso filiforme?
-Correcta: Shock.
+Shock.
 
-Incorrecta 1: Buena perfusión.
+Buena perfusión.
 
-Incorrecta 2: Hipertensión leve.
+Hipertensión leve.
 
-Incorrecta 3: Estado de ansiedad.
+Estado de ansiedad.
 
 14) ¿Qué vía es preferida para medicación en emergencia?
-Correcta: Intravenosa.
+Intravenosa.
 
-Incorrecta 1: Oral.
+Oral.
 
-Incorrecta 2: Intradérmica.
+Intradérmica.
 
-Incorrecta 3: Sublingual siempre.
+Sublingual siempre.
 
 15) ¿Cuál es una complicación de los corticoides?
-Correcta: Inmunosupresión.
+Inmunosupresión.
 
-Incorrecta 1: Hipotermia.
+Hipotermia.
 
-Incorrecta 2: Anemia.
+Anemia.
 
-Incorrecta 3: Trombocitosis severa.
+Trombocitosis severa.
 
 16) ¿Qué indica un RN hipotónico?
-Correcta: Depresión del sistema nervioso central.
+Depresión del sistema nervioso central.
 
-Incorrecta 1: Hambre.
+Hambre.
 
-Incorrecta 2: Exceso de sueño fisiológico.
+Exceso de sueño fisiológico.
 
-Incorrecta 3: Buena adaptación neonatal.
+Buena adaptación neonatal.
 
 17) ¿Qué tipo de guantes requiere un procedimiento estéril?
-Correcta: Guantes estériles.
+Guantes estériles.
 
-Incorrecta 1: Guantes domésticos.
+Guantes domésticos.
 
-Incorrecta 2: Sin guantes.
+Sin guantes.
 
-Incorrecta 3: Guantes de látex rotos.
+Guantes de látex rotos.
 
 18) ¿Qué indica un hematoma blando en zona de inyección?
-Correcta: Hematoma por punción.
+Hematoma por punción.
 
-Incorrecta 1: Necrosis tisular.
+Necrosis tisular.
 
-Incorrecta 2: Absceso profundo.
+Absceso profundo.
 
-Incorrecta 3: Buena absorción.
+Buena absorción.
 
 19) ¿Qué parámetro indica shock?
-Correcta: Hipotensión y taquicardia.
+Hipotensión y taquicardia.
 
-Incorrecta 1: Fiebre y vómitos.
+Fiebre y vómitos.
 
-Incorrecta 2: Bradicardia.
+Bradicardia.
 
-Incorrecta 3: Hiperreflexia.
+Hiperreflexia.
 
 20) ¿Qué medida previene úlceras por presión?
-Correcta: Cambios posturales cada 2 horas.
+Cambios posturales cada 2 horas.
 
-Incorrecta 1: Aumentar sodio en dieta.
+Aumentar sodio en dieta.
 
-Incorrecta 2: Colocar hielo en zonas de apoyo.
+Colocar hielo en zonas de apoyo.
 
-Incorrecta 3: Evitar mover al paciente.
+Evitar mover al paciente.
 
 ⭐ PREGUNTAS 21 a 40
 (continúo…)
 
 21) ¿Qué indica un paciente con FR de 36 rpm?
-Correcta: Taquipnea.
+Taquipnea.
 
-Incorrecta 1: Eupnea.
+Eupnea.
 
-Incorrecta 2: Bradipnea.
+Bradipnea.
 
-Incorrecta 3: Apnea parcial.
+Apnea parcial.
 
 22) ¿Qué significa “enteral”?
-Correcta: A través del aparato digestivo.
+A través del aparato digestivo.
 
-Incorrecta 1: A través de vena.
+A través de vena.
 
-Incorrecta 2: A través de piel.
+A través de piel.
 
-Incorrecta 3: Por inhalación.
+Por inhalación.
 
 23) ¿Qué sugiere un vómito en “posos de café”?
-Correcta: Sangre digerida.
+Sangre digerida.
 
-Incorrecta 1: Intolerancia a alimentos.
+Intolerancia a alimentos.
 
-Incorrecta 2: Reflujo leve.
+Reflujo leve.
 
-Incorrecta 3: Gastritis sin importancia.
+Gastritis sin importancia.
 
 24) ¿Qué indica una saturación del 80%?
-Correcta: Hipoxemia severa.
+Hipoxemia severa.
 
-Incorrecta 1: Nivel normal bajo.
+Nivel normal bajo.
 
-Incorrecta 2: Problema digestivo.
+Problema digestivo.
 
-Incorrecta 3: Ansiedad.
+Ansiedad.
 
 25) ¿Qué es un broncoespasmo?
-Correcta: Contracción de músculos bronquiales.
+Contracción de músculos bronquiales.
 
-Incorrecta 1: Dilatación pulmonar.
+Dilatación pulmonar.
 
-Incorrecta 2: Aumento del volumen cardíaco.
+Aumento del volumen cardíaco.
 
-Incorrecta 3: Infección leve.
+Infección leve.
 
 26) ¿Qué vía se usa para administrar insulina?
-Correcta: Subcutánea.
+Subcutánea.
 
-Incorrecta 1: Intradérmica.
+Intradérmica.
 
-Incorrecta 2: Intravenosa siempre.
+Intravenosa siempre.
 
-Incorrecta 3: Sublingual.
+Sublingual.
 
 27) ¿Qué indica fiebre y rigidez de nuca?
-Correcta: Meningitis posible.
+Meningitis posible.
 
-Incorrecta 1: Migraña.
+Migraña.
 
-Incorrecta 2: Amigdalitis.
+Amigdalitis.
 
-Incorrecta 3: Deshidratación simple.
+Deshidratación simple.
 
 28) ¿Cuál es el antídoto de la intoxicación por opioides?
-Correcta: Naloxona.
+Naloxona.
 
-Incorrecta 1: Vitamina C.
+Vitamina C.
 
-Incorrecta 2: Omeprazol.
+Omeprazol.
 
-Incorrecta 3: Suero glucosado.
+Suero glucosado.
 
 29) ¿Qué indica un aumento de creatinina?
-Correcta: Disfunción renal.
+Disfunción renal.
 
-Incorrecta 1: Infección de piel.
+Infección de piel.
 
-Incorrecta 2: Anemia.
+Anemia.
 
-Incorrecta 3: Hiperhidratación.
+Hiperhidratación.
 
 30) ¿Qué significa “polipnea”?
-Correcta: Respiración rápida.
+Respiración rápida.
 
-Incorrecta 1: Respiración lenta.
+Respiración lenta.
 
-Incorrecta 2: Ausencia de respiración.
+Ausencia de respiración.
 
-Incorrecta 3: Respiración ruidosa.
+Respiración ruidosa.
 
 ⭐ PREGUNTAS 31 a 60
 (continúo en este mensaje)
 
 31) ¿Qué indica dolor torácico opresivo?
-Correcta: Posible síndrome coronario.
+Posible síndrome coronario.
 
-Incorrecta 1: Hambre.
+Hambre.
 
-Incorrecta 2: Mala postura.
+Mala postura.
 
-Incorrecta 3: Contractura dorsal.
+Contractura dorsal.
 
 32) ¿Qué es una reacción febril post-transfusional?
-Correcta: Elevación de temperatura tras transfusión.
+Elevación de temperatura tras transfusión.
 
-Incorrecta 1: Fiebre por neumonía.
+Fiebre por neumonía.
 
-Incorrecta 2: Fiebre por resfrío.
+Fiebre por resfrío.
 
-Incorrecta 3: Fiebre por insolación.
+Fiebre por insolación.
 
 33) ¿Qué indica un paciente desorientado?
-Correcta: Alteración neurológica aguda.
+Alteración neurológica aguda.
 
-Incorrecta 1: Sueño.
+Sueño.
 
-Incorrecta 2: Hambre.
+Hambre.
 
-Incorrecta 3: Hipervitaminosis.
+Hipervitaminosis.
 
 34) ¿Qué se controla antes de administrar digoxina?
-Correcta: Frecuencia cardíaca.
+Frecuencia cardíaca.
 
-Incorrecta 1: Temperatura.
+Temperatura.
 
-Incorrecta 2: Reflejos.
+Reflejos.
 
-Incorrecta 3: Peso.
+Peso.
 
 35) ¿Qué indica un aumento abrupto de peso en 48 horas?
-Correcta: Retención hídrica.
+Retención hídrica.
 
-Incorrecta 1: Obesidad.
+Obesidad.
 
-Incorrecta 2: Masa muscular.
+Masa muscular.
 
-Incorrecta 3: Crecimiento óseo.
+Crecimiento óseo.
 
 36) ¿Qué hace la adrenalina en paro?
-Correcta: Aumenta perfusión coronaria.
+Aumenta perfusión coronaria.
 
-Incorrecta 1: Baja la presión.
+Baja la presión.
 
-Incorrecta 2: Cierra vías aéreas.
+Cierra vías aéreas.
 
-Incorrecta 3: Disminuye la FC.
+Disminuye la FC.
 
 37) ¿Qué indica un lactante con llanto débil y piel azulada?
-Correcta: Asfixia.
+Asfixia.
 
-Incorrecta 1: Hambre.
+Hambre.
 
-Incorrecta 2: Somnolencia.
+Somnolencia.
 
-Incorrecta 3: Sueño profundo.
+Sueño profundo.
 
 38) ¿Qué indica hipopotasemia?
-Correcta: Debilidad muscular.
+Debilidad muscular.
 
-Incorrecta 1: Fiebre.
+Fiebre.
 
-Incorrecta 2: Aumento de apetito.
+Aumento de apetito.
 
-Incorrecta 3: Tos.
+Tos.
 
 39) ¿Qué causa la deshidratación extrema?
-Correcta: Shock hipovolémico.
+Shock hipovolémico.
 
-Incorrecta 1: Hipertensión.
+Hipertensión.
 
-Incorrecta 2: Hiperventilación.
+Hiperventilación.
 
-Incorrecta 3: Bronquitis.
+Bronquitis.
 
 40) ¿Qué indica sudoración fría y palidez?
-Correcta: Perfusión deficiente.
+Perfusión deficiente.
 
-Incorrecta 1: Buena circulación.
+Buena circulación.
 
-Incorrecta 2: Tensión emocional leve.
+Tensión emocional leve.
 
-Incorrecta 3: Ejercicio reciente.
+Ejercicio reciente.
 
 ⭐ PREGUNTAS 61 a 80
 (continúo…)
 
 61) ¿Qué indica orina espumosa persistente?
-Correcta: Proteinuria.
+Proteinuria.
 
-Incorrecta 1: Hidratación normal.
+Hidratación normal.
 
-Incorrecta 2: Infección leve.
+Infección leve.
 
-Incorrecta 3: Hipoxemia.
+Hipoxemia.
 
 62) ¿Qué se controla en un paciente anticoagulado?
-Correcta: INR.
+INR.
 
-Incorrecta 1: Glucosa.
+Glucosa.
 
-Incorrecta 2: Calcio.
+Calcio.
 
-Incorrecta 3: Creatina.
+Creatina.
 
 63) ¿Cuál es el objetivo de la vía central?
-Correcta: Infundir líquidos o fármacos de alta osmolaridad.
+Infundir líquidos o fármacos de alta osmolaridad.
 
-Incorrecta 1: Medir glucosa.
+Medir glucosa.
 
-Incorrecta 2: Reducir la sed.
+Reducir la sed.
 
-Incorrecta 3: Administrar oxígeno.
+Administrar oxígeno.
 
 64) ¿Qué indica una FR de 8 rpm?
-Correcta: Bradipnea.
+Bradipnea.
 
-Incorrecta 1: Eupnea.
+Eupnea.
 
-Incorrecta 2: Taquipnea.
+Taquipnea.
 
-Incorrecta 3: Respiración normal.
+Respiración normal.
 
 65) ¿Qué indica un soplo cardíaco?
-Correcta: Turbulencia en el flujo sanguíneo.
+Turbulencia en el flujo sanguíneo.
 
-Incorrecta 1: Tos.
+Tos.
 
-Incorrecta 2: Gastritis.
+Gastritis.
 
-Incorrecta 3: Anemia aguda.
+Anemia aguda.
 
 66) ¿Qué indica la piel seca y lengua raspada?
-Correcta: Deshidratación.
+Deshidratación.
 
-Incorrecta 1: Fiebre.
+Fiebre.
 
-Incorrecta 2: Hemorragia.
+Hemorragia.
 
-Incorrecta 3: Hiperglucemia.
+Hiperglucemia.
 
 67) ¿Qué indica un aumento de temperatura corporal >40 °C?
-Correcta: Hipertermia grave.
+Hipertermia grave.
 
-Incorrecta 1: Fiebre leve.
+Fiebre leve.
 
-Incorrecta 2: Hipotermia.
+Hipotermia.
 
-Incorrecta 3: Hipotensión.
+Hipotensión.
 
 68) ¿Qué indica dolor en fosa ilíaca derecha?
-Correcta: Apendicitis posible.
+Apendicitis posible.
 
-Incorrecta 1: Gastritis.
+Gastritis.
 
-Incorrecta 2: Cólico renal izquierdo.
+Cólico renal izquierdo.
 
-Incorrecta 3: Distensión gástrica.
+Distensión gástrica.
 
 69) ¿Qué indica una frecuencia cardíaca irregular?
-Correcta: Arritmia.
+Arritmia.
 
-Incorrecta 1: Fiebre.
+Fiebre.
 
-Incorrecta 2: Hiperventilación.
+Hiperventilación.
 
-Incorrecta 3: Estreñimiento.
+Estreñimiento.
 
 70) ¿Qué indica el enrojecimiento en zona de catéter?
-Correcta: Infección local.
+Infección local.
 
-Incorrecta 1: Buena perfusión.
+Buena perfusión.
 
-Incorrecta 2: Sensibilidad térmica.
+Sensibilidad térmica.
 
-Incorrecta 3: Alergia leve.
+Alergia leve.
 
 71) ¿Qué es la escala EVA?
-Correcta: Escala subjetiva de dolor.
+Escala subjetiva de dolor.
 
-Incorrecta 1: Escala de sueño.
+Escala de sueño.
 
-Incorrecta 2: Escala nutricional.
+Escala nutricional.
 
-Incorrecta 3: Escala de movilidad.
+Escala de movilidad.
 
 72) ¿Qué indica un ECG con ondas ST elevadas?
-Correcta: Infarto agudo de miocardio.
+Infarto agudo de miocardio.
 
-Incorrecta 1: Hipoglucemia.
+Hipoglucemia.
 
-Incorrecta 2: Hipotermia.
+Hipotermia.
 
-Incorrecta 3: Infección pulmonar.
+Infección pulmonar.
 
 73) ¿Qué parámetro indica hipoxia?
-Correcta: SpO₂ baja.
+SpO₂ baja.
 
-Incorrecta 1: Frecuencia cardíaca normal.
+Frecuencia cardíaca normal.
 
-Incorrecta 2: Piel caliente.
+Piel caliente.
 
-Incorrecta 3: Diuresis elevada.
+Diuresis elevada.
 
 74) ¿Qué hacer ante convulsión activa?
-Correcta: Proteger cabeza y vía aérea.
+Proteger cabeza y vía aérea.
 
-Incorrecta 1: Sujetar brazos.
+Sujetar brazos.
 
-Incorrecta 2: Colocar objetos en boca.
+Colocar objetos en boca.
 
-Incorrecta 3: Administrar líquidos por boca.
+Administrar líquidos por boca.
 
 75) ¿Qué indica el síndrome febril prolongado?
-Correcta: Infección o inflamación persistente.
+Infección o inflamación persistente.
 
-Incorrecta 1: Estrés.
+Estrés.
 
-Incorrecta 2: Hipertensión.
+Hipertensión.
 
-Incorrecta 3: Resfrío común.
+Resfrío común.
 
 76) ¿Qué es la fiebre neutropénica?
-Correcta: Fiebre en paciente con neutrófilos muy bajos.
+Fiebre en paciente con neutrófilos muy bajos.
 
-Incorrecta 1: Fiebre con anemia.
+Fiebre con anemia.
 
-Incorrecta 2: Fiebre por insolación.
+Fiebre por insolación.
 
-Incorrecta 3: Fiebre sin riesgo.
+Fiebre sin riesgo.
 
 77) ¿Qué indica un paciente con disnea, sudoración y ansiedad?
-Correcta: Dificultad respiratoria aguda.
+Dificultad respiratoria aguda.
 
-Incorrecta 1: Emoción fuerte.
+Emoción fuerte.
 
-Incorrecta 2: Hambre.
+Hambre.
 
-Incorrecta 3: Reflujo.
+Reflujo.
 
 78) ¿Para qué se usa la sonda NG?
-Correcta: Drenaje o alimentación.
+Drenaje o alimentación.
 
-Incorrecta 1: Ventilación.
+Ventilación.
 
-Incorrecta 2: Drenaje urinario.
+Drenaje urinario.
 
-Incorrecta 3: Control térmico.
+Control térmico.
 
 79) ¿Qué indica una glucemia de 300 mg/dL?
-Correcta: Hiperglucemia.
+Hiperglucemia.
 
-Incorrecta 1: Norma.
+Norma.
 
-Incorrecta 2: Hipoglucemia.
+Hipoglucemia.
 
-Incorrecta 3: Estado estable.
+Estado estable.
 
 80) ¿Qué indica un color amarillento de piel?
-Correcta: Ictericia.
+Ictericia.
 
-Incorrecta 1: Fiebre.
+Fiebre.
 
-Incorrecta 2: Hipotermia.
+Hipotermia.
 
-Incorrecta 3: Falta de sueño.
+Falta de sueño.
 
 ⭐ PREGUNTAS 81 a 100
 (último tramo)
 
 81) ¿Qué indica ingesta insuficiente de líquidos?
-Correcta: Riesgo de deshidratación.
+Riesgo de deshidratación.
 
-Incorrecta 1: Hiperglucemia.
+Hiperglucemia.
 
-Incorrecta 2: Hipotermia.
+Hipotermia.
 
-Incorrecta 3: Exceso de sodio.
+Exceso de sodio.
 
 82) ¿Qué es la evaluación primaria en urgencias?
-Correcta: ABC (vía aérea, respiración, circulación).
+ABC (vía aérea, respiración, circulación).
 
-Incorrecta 1: Peso, talla, IMC.
+Peso, talla, IMC.
 
-Incorrecta 2: Toma de sangre.
+Toma de sangre.
 
-Incorrecta 3: Control de temperatura.
+Control de temperatura.
 
 83) ¿Qué indica un aumento de leucocitos?
-Correcta: Infección.
+Infección.
 
-Incorrecta 1: Deshidratación.
+Deshidratación.
 
-Incorrecta 2: Dolor muscular.
+Dolor muscular.
 
-Incorrecta 3: Insomnio.
+Insomnio.
 
 84) ¿Qué indica un paciente con respiración ruidosa y secreciones?
-Correcta: Necesidad de aspiración.
+Necesidad de aspiración.
 
-Incorrecta 1: Hambre.
+Hambre.
 
-Incorrecta 2: Fiebre.
+Fiebre.
 
-Incorrecta 3: Hipertensión.
+Hipertensión.
 
 85) ¿Qué indica somnolencia excesiva y pupilas puntiformes?
-Correcta: Intoxicación por opioides.
+Intoxicación por opioides.
 
-Incorrecta 1: Hiperglucemia.
+Hiperglucemia.
 
-Incorrecta 2: Deshidratación.
+Deshidratación.
 
-Incorrecta 3: Golpe de calor.
+Golpe de calor.
 
 86) ¿Qué se controla en paciente con heparina?
-Correcta: TTPa.
+TTPa.
 
-Incorrecta 1: Calcio.
+Calcio.
 
-Incorrecta 2: Ácido úrico.
+Ácido úrico.
 
-Incorrecta 3: Hemoglobina fetal.
+Hemoglobina fetal.
 
 87) ¿Qué indica un paciente con piel seca y taquicardia?
-Correcta: Deshidratación moderada.
+Deshidratación moderada.
 
-Incorrecta 1: Hipotermia.
+Hipotermia.
 
-Incorrecta 2: Infección urinaria.
+Infección urinaria.
 
-Incorrecta 3: Hiperglucemia.
+Hiperglucemia.
 
 88) ¿Cuál es el signo de alarma en un traumatismo craneal?
-Correcta: Vómitos persistentes.
+Vómitos persistentes.
 
-Incorrecta 1: Hambre.
+Hambre.
 
-Incorrecta 2: Hipo.
+Hipo.
 
-Incorrecta 3: Voz ronca.
+Voz ronca.
 
 89) ¿Qué indica un abdomen silencioso sin ruidos intestinales?
-Correcta: Íleo paralítico.
+Íleo paralítico.
 
-Incorrecta 1: Digestión rápida.
+Digestión rápida.
 
-Incorrecta 2: Estreñimiento leve.
+Estreñimiento leve.
 
-Incorrecta 3: Gas acumulado.
+Gas acumulado.
 
 90) ¿Qué indica un pulso rápido e irregular?
-Correcta: Fibrilación auricular.
+Fibrilación auricular.
 
-Incorrecta 1: Taquicardia sinusal.
+Taquicardia sinusal.
 
-Incorrecta 2: Bradicardia.
+Bradicardia.
 
-Incorrecta 3: ECG normal.
+ECG normal.
 
 91) ¿Qué indica un sangrado vaginal abundante?
-Correcta: Hemorragia activa.
+Hemorragia activa.
 
-Incorrecta 1: Menstruación normal.
+Menstruación normal.
 
-Incorrecta 2: Estrés.
+Estrés.
 
-Incorrecta 3: Anemia previa.
+Anemia previa.
 
 92) ¿Qué indica una piel muy caliente y seca?
-Correcta: Golpe de calor.
+Golpe de calor.
 
-Incorrecta 1: Hipotermia.
+Hipotermia.
 
-Incorrecta 2: Deshidratación leve.
+Deshidratación leve.
 
-Incorrecta 3: Shock.
+Shock.
 
 93) ¿Qué indica dolor súbito en pantorrilla?
-Correcta: Trombosis venosa profunda.
+Trombosis venosa profunda.
 
-Incorrecta 1: Calambre leve.
+Calambre leve.
 
-Incorrecta 2: Deshidratación.
+Deshidratación.
 
-Incorrecta 3: Dolor muscular por ejercicio.
+Dolor muscular por ejercicio.
 
 94) ¿Qué indica fiebre + tos + disnea?
-Correcta: Infección respiratoria.
+Infección respiratoria.
 
-Incorrecta 1: Gastritis.
+Gastritis.
 
-Incorrecta 2: Reflujo.
+Reflujo.
 
-Incorrecta 3: Constipación.
+Constipación.
 
 95) ¿Qué requiere un paciente con insuficiencia respiratoria aguda?
-Correcta: Oxígeno suplementario.
+Oxígeno suplementario.
 
-Incorrecta 1: Aumentar ingesta de agua.
+Aumentar ingesta de agua.
 
-Incorrecta 2: Dar comida sólida.
+Dar comida sólida.
 
-Incorrecta 3: Colocar manta pesada.
+Colocar manta pesada.
 
 96) ¿Qué indica un paciente somnoliento y deshidratado?
-Correcta: Hipovolemia posible.
+Hipovolemia posible.
 
-Incorrecta 1: Hipoglucemia leve.
+Hipoglucemia leve.
 
-Incorrecta 2: Anemia.
+Anemia.
 
-Incorrecta 3: Gastritis.
+Gastritis.
 
 97) ¿Qué es la diuresis normal?
-Correcta: 1–2 L/24 h.
+1–2 L/24 h.
 
-Incorrecta 1: 4–5 L.
+4–5 L.
 
-Incorrecta 2: <200 ml.
+<200 ml.
 
-Incorrecta 3: >10 L.
+>10 L.
 
 98) ¿Qué indica dolor lumbar + disuria + fiebre?
-Correcta: Pielonefritis.
+Pielonefritis.
 
-Incorrecta 1: Gastritis.
+Gastritis.
 
-Incorrecta 2: Migraña.
+Migraña.
 
-Incorrecta 3: Sinusitis.
+Sinusitis.
 
 99) ¿Qué indica un paciente inconsciente pero con pulso?
-Correcta: Iniciar soporte vital básico sin RCP.
+Iniciar soporte vital básico sin RCP.
 
-Incorrecta 1: Iniciar RCP inmediatamente.
+Iniciar RCP inmediatamente.
 
-Incorrecta 2: Dar agua.
+Dar agua.
 
-Incorrecta 3: Caminarlo.
+Caminarlo.
 
 100) ¿Cuál es la prioridad ante un paro cardiorrespiratorio?
-Correcta: RCP inmediata.
+RCP inmediata.
 
-Incorrecta 1: Buscar familiares.
+Buscar familiares.
 
-Incorrecta 2: Administrar alimentos.
+Administrar alimentos.
 
-Incorrecta 3: Esperar asistencia sin actuar.
+Esperar asistencia sin actuar.

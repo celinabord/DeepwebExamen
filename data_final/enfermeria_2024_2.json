@@ -1,80 +1,10 @@
 [
   {
-    "id": 2,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el Antiséptico de primera elección para el procedimiento de inserción y cuidado del Catéter Venoso Periférico Corto (CVP",
-    "opciones": {
-      "opcion c": "Alcohol al 100 % .",
-      "opcion a": "Iodopovidona 10%.",
-      "opcion b": "Clorhexidina alcohólica.",
-      "opcion d": "Alcohol yodado."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 3,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿A quiénes se recomienda principalmente administrar las dosis de refuerzo contra COVID-19 por alto riesgo de enfermedad grave?",
-    "opciones": {
-      "opcion a": "Personas menores de 18 años que no adquirieron la enfermedad.",
-      "opcion b": "Todas las personas que no hayan recibido ninguna dosis de vacuna.",
-      "opcion c": "Personas menores de 50 años, los que adquirieron la enfermedad y menores de 2 años.",
-      "opcion d": "Personas de 50 años o mayores, personas con inmunocompromiso y personas gestantes."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 4,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son los atributos indispensables para la realización del Cuidado Humanizado, según el artículo \"La naturaleza del cuidado humanizado\" de Cruz Riveros?",
-    "opciones": {
-      "opcion a": "El usuario, su cultura y religión como prioridad.",
-      "opcion b": "La relación profesional y el cuidado de su enfermedad únicamente.",
-      "opcion c": "La comunicación entre el usuario y profesional, su salud y la religión.",
-      "opcion d": "El ser humano, sujeto del cuidado, comunicación y enfoque holístico."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 5,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son los objetivos específicos de las recomendaciones \"No Hacer\" que indica el Ministerio de salud sobre prevención cuaternaria?",
-    "opciones": {
-      "opcion a": "Aumentar las consecuencias negativas derivadas de las intervenciones, mejorar la calidad de atención sanitaria y reducir costos innecesarios al sistema de salud.",
-      "opcion b": "Reducir la mortalidad relacionada a patologías que son consecuencias de las internaciones, mejorar la calidad de atención en las internaciones y reducir costos al sistema de salud.",
-      "opcion c": "Reducir la posibilidad de consecuencias negativas derivadas de las intervenciones desaconsejadas, mejorar la calidad de atención sanitaria y reducir costos innecesarios al sistema de salud.",
-      "opcion d": "Aumentar la posibilidad de consecuencias negativas derivadas de las intervenciones desaconsejadas, mejorar la calidad de atención sanitaria y reducir costos innecesarios al sistema de salud. 1"
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
     "id": 6,
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
     "pregunta": "¿Qué elementos son fundamentales para el cuidado, según la teoría de Leininger?",
-    "opciones": {
-      "opcion a": "Las acciones interdisciplinarias para la atención.",
-      "opcion b": "La esencia de la práctica y su entorno.",
-      "opcion c": "Las conductas culturales respecto a los cuidados.",
-      "opcion d": "El autocuidado y sus procesos."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 7,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la combinación recomendada para lograr la sedación de la persona y disminuir el sufrimiento en el caso de urgencia de salud mental?",
     "opciones": {
       "opcion a": "Uso de Clorpromazina y clonazepam.",
       "opcion b": "Uso de Risperidona y Quetiapina.",
@@ -89,20 +19,6 @@
     "año": 2024,
     "caso_clínico": "",
     "pregunta": "¿Cuál es la clasificación de los peligros ambientales?",
-    "opciones": {
-      "opcion a": "Radiación, Incendios y Erosión.",
-      "opcion b": "Atmosféricos, ambientales y sociales.",
-      "opcion c": "Enfermedades, sequía y radiación.",
-      "opcion d": "Biológicos, químicos y físicos."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 9,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es el signo de alarma que puede tener un niño con diagnóstico de diarrea con deshidratación?",
     "opciones": {
       "opcion a": "Sed.",
       "opcion b": "Dolor.",

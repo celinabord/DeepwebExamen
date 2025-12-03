@@ -1,33 +1,5 @@
 [
   {
-    "id": 1,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles son los componentes contemporáneos que menciona para la Enfermería con visión a futuro?",
-    "opciones": {
-      "opcion a": "Las leyes de Enfermería, el código de ética para Enfermería, los cuidados centrados en la persona y la educación continua para la actualización de los cuidados.",
-      "opcion b": "El cuidado integral, la cultura del cuidado y el desarrollo de tecnologías para informatizar los cuidados de Enfermería.",
-      "opcion c": "La cristalización de la formación técnica y universitaria, la incorporación de nuevas prácticas y la cultura organizacional.",
-      "opcion d": "Los derechos humanos y diversidades, la humanización de los cuidados, los cuidados progresivos y el desarrollo de las tecnologías de la información y comunicación."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 2,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuál es la profundidad adecuada de compresiones torácicas al realizar Reanimación cardiopulmonar (RCP) a niños y niñas mayores de 1 año?",
-    "opciones": {
-      "opcion a": "Hasta 2 cm de profundidad.",
-      "opcion b": "10 cm de profundidad.",
-      "opcion c": "3 cm de profundidad.",
-      "opcion d": "Hasta 5 cm de profundidad."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
     "id": 3,
     "tema": "Enfermería 2024",
     "año": 2024,
@@ -48,20 +20,6 @@
     "caso_clínico": "",
     "pregunta": "¿Cuál es la finalidad del Código de Ética del Consejo Internacional de Enfermeras (CIE)?",
     "opciones": {
-      "opcion a": "Regular la asistencia sanitaria de profesionales en sus actividades de formación.",
-      "opcion b": "Regular el ejercicio profesional, su formación y sus actividades dentro del ámbito de la investigación.",
-      "opcion c": "Es una declaración de posición y deberes que deben cumplir los profesionales en ejercicio para realizar sus actividades asistenciales.",
-      "opcion d": "Es una declaración de valores, responsabilidades profesionales y ámbitos de competencias."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 5,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cómo se define el concepto de \"cultura de seguridad en salud\" según el manual de seguridad del paciente del Ministerio de Salud?",
-    "opciones": {
       "opcion a": "Creencias subjetivas y cultura individual que tienen los profesionales de salud en pos de evitar accidentes o eventos adversos.",
       "opcion b": "Valores, actitudes, competencias y patrones de conducta individuales y grupales que determinan el compromiso con la ejecución de los programas de seguridad.",
       "opcion c": "Actitudes grupales dentro de los equipos de salud relacionados con los cuidados y prevención de la enfermedad y su atención.",
@@ -75,48 +33,6 @@
     "año": 2024,
     "caso_clínico": "",
     "pregunta": "¿Cuál es el objetivo del profesional de Enfermería para la atención comunitaria?",
-    "opciones": {
-      "opcion a": "Dar soporte físico o psicológico como profesional de contrarreferencia para sobrellevar situaciones de salud o de un familiar.",
-      "opcion b": "Ayudar al individuo, su familia y comunidad en acciones de autocuidado para conservar la salud, recuperarse de la enfermedad y afrontar la misma.",
-      "opcion c": "Mantener la enfermedad y rehabilitar las complicaciones de la persona para posibles adaptaciones en su entorno.",
-      "opcion d": "Cuidar y mantener la salud, a través de brindar servicios de calidad, eficaces y efectivos sólo mediante la promoción."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 7,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "Usted recibe en la guardia a una persona que refiere sentir temor a realizar actividades públicas, de participar en conversación con otras personas y manifestar sus síntomas. ¿Qué tipo de fobia presenta?",
-    "opciones": {
-      "opcion a": "Agorafobia.",
-      "opcion b": "Claustrofobia.",
-      "opcion c": "Fobia social.",
-      "opcion d": "Fobia específica."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 8,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "¿Cuáles es la suplementación prenatal diaria sistemática de gestantes de bajo riesgo que mejoran los resultados maternos y neonatales?",
-    "opciones": {
-      "opcion a": "Magnesio y calcio.",
-      "opcion b": "Ácido fólico y hierro.",
-      "opcion c": "Vitamina C y B12.",
-      "opcion d": "Zinc y vitamina A."
-    },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 9,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "Los patrones funcionales son una configuración de comportamientos comunes a todas las personas, que contribuyen a la salud de los individuos, familias y comunidades. ¿Quién desarrolló el modelo de cuidados basado en los 11 patrones funcionales?",
     "opciones": {
       "opcion a": "Maryori Gordon.",
       "opcion b": "Calista Roy.",
@@ -564,7 +480,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿Cuál es el Antiséptico de primera elección para el procedimiento de inserción y cuidado del Catéter Venoso Periférico Corto (CVP",
+    "pregunta": "¿Cuál es el Antiséptico de primera elección para el procedimiento de inserción y cuidado del",
     "opciones": {
       "opcion c": "Alcohol al 100 %.",
       "opcion a": "Iodopovidona 10%.",
