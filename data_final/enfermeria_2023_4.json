@@ -5,7 +5,7 @@
   "preguntas": [
     {
       "id": 1,
-      "pregunta": "¿Qué indica un aumento súbito de la frecuencia cardíaca en reposo? Taquicardia. Hipotermia. Bradipnea. Desnutrición.",
+      "pregunta": "¿Qué indica un aumento súbito de la frecuencia cardíaca en reposo?",
       "opcion a": "Bradipnea.",
       "opcion b": "Hipotermia.",
       "opcion c": "Taquicardia.",
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "pregunta": "¿Qué es la asepsia? Conjunto de medidas para evitar la contaminación por microorganismos. Limpieza básica del entorno. Uso exclusivo de guantes estériles. Desinfección del instrumental únicamente.",
+      "pregunta": "¿Qué es la asepsia?",
       "opcion a": "Limpieza básica del entorno.",
       "opcion b": "Conjunto de medidas para evitar la contaminación por microorganismos.",
       "opcion c": "Uso exclusivo de guantes estériles.",
@@ -23,7 +23,7 @@
     },
     {
       "id": 3,
-      "pregunta": "¿Cuál es un efecto adverso común de los diuréticos? Hipopotasemia. Hiperglucemia siempre. Aumento de peso. Hipertensión.",
+      "pregunta": "¿Cuál es un efecto adverso común de los diuréticos?",
       "opcion a": "Aumento de peso.",
       "opcion b": "Hiperglucemia siempre.",
       "opcion c": "Hipopotasemia.",
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "pregunta": "¿Qué indica cianosis periférica? Disminución de perfusión en extremidades. Infección urinaria. Reacción alérgica leve. Buena oxigenación.",
+      "pregunta": "¿Qué indica cianosis periférica?",
       "opcion a": "Buena oxigenación.",
       "opcion b": "Infección urinaria.",
       "opcion c": "Reacción alérgica leve.",
@@ -41,7 +41,7 @@
     },
     {
       "id": 5,
-      "pregunta": "¿Cuál es la posición recomendada para vómitos? Decúbito lateral. Prono. Trendelemburg. Rodillas al pecho.",
+      "pregunta": "¿Cuál es la posición recomendada para vómitos?",
       "opcion a": "Prono.",
       "opcion b": "Decúbito lateral.",
       "opcion c": "Trendelemburg.",
@@ -50,7 +50,7 @@
     },
     {
       "id": 6,
-      "pregunta": "¿Qué parámetro indica perfusión periférica adecuada? Llenado capilar <2 s. Palidez marcada. Extremidades frías. Cianosis leve.",
+      "pregunta": "¿Qué parámetro indica perfusión periférica adecuada?",
       "opcion a": "Extremidades frías.",
       "opcion b": "Palidez marcada.",
       "opcion c": "Llenado capilar <2 s.",
@@ -59,7 +59,7 @@
     },
     {
       "id": 7,
-      "pregunta": "¿Qué es la hipovolemia? Disminución del volumen sanguíneo circulante. Aumento de temperatura. Falta de vitaminas. Hiperglucemia.",
+      "pregunta": "¿Qué es la hipovolemia?",
       "opcion a": "Hiperglucemia.",
       "opcion b": "Aumento de temperatura.",
       "opcion c": "Falta de vitaminas.",
@@ -68,7 +68,7 @@
     },
     {
       "id": 8,
-      "pregunta": "¿Qué indica un abdomen distendido y doloroso? Posible obstrucción intestinal. Digestión normal. Hambre. Sed.",
+      "pregunta": "¿Qué indica un abdomen distendido y doloroso?",
       "opcion a": "Hambre.",
       "opcion b": "Digestión normal.",
       "opcion c": "Posible obstrucción intestinal.",
@@ -77,7 +77,7 @@
     },
     {
       "id": 9,
-      "pregunta": "¿Cuál es el mejor sitio para inyección subcutánea? Abdomen. Frente. Región escapular. Cuello.",
+      "pregunta": "¿Cuál es el mejor sitio para inyección subcutánea?",
       "opcion a": "Cuello.",
       "opcion b": "Frente.",
       "opcion c": "Región escapular.",
@@ -86,7 +86,7 @@
     },
     {
       "id": 10,
-      "pregunta": "¿Qué indica una presión arterial de 160/100 mmHg? Hipertensión. Normotensión. Hipotensión. Shock.",
+      "pregunta": "¿Qué indica una presión arterial de 160/100 mmHg?",
       "opcion a": "Hipotensión.",
       "opcion b": "Normotensión.",
       "opcion c": "Hipertensión.",
@@ -95,7 +95,7 @@
     },
     {
       "id": 11,
-      "pregunta": "¿Qué es una infección nosocomial? Infección adquirida dentro del hospital. Infección previa al ingreso. Alergia. Trastorno hematológico.",
+      "pregunta": "¿Qué es una infección nosocomial?",
       "opcion a": "Trastorno hematológico.",
       "opcion b": "Infección previa al ingreso.",
       "opcion c": "Alergia.",
@@ -104,7 +104,7 @@
     },
     {
       "id": 12,
-      "pregunta": "¿Cuál es el primer paso ante una hemorragia externa? Compresión directa. Lavar con suero. Colocar hielo solo. Elevar piernas.",
+      "pregunta": "¿Cuál es el primer paso ante una hemorragia externa?",
       "opcion a": "Lavar con suero.",
       "opcion b": "Compresión directa.",
       "opcion c": "Colocar hielo solo.",
@@ -113,7 +113,7 @@
     },
     {
       "id": 13,
-      "pregunta": "¿Qué indica un pulso filiforme? Shock. Buena perfusión. Hipertensión leve. Estado de ansiedad.",
+      "pregunta": "¿Qué indica un pulso filiforme?",
       "opcion a": "Buena perfusión.",
       "opcion b": "Shock.",
       "opcion c": "Hipertensión leve.",
@@ -122,7 +122,7 @@
     },
     {
       "id": 14,
-      "pregunta": "¿Qué vía es preferida para medicación en emergencia? Intravenosa. Oral. Intradérmica. Sublingual siempre.",
+      "pregunta": "¿Qué vía es preferida para medicación en emergencia?",
       "opcion a": "Sublingual siempre.",
       "opcion b": "Oral.",
       "opcion c": "Intradérmica.",
@@ -131,7 +131,7 @@
     },
     {
       "id": 15,
-      "pregunta": "¿Cuál es una complicación de los corticoides? Inmunosupresión. Hipotermia. Anemia. Trombocitosis severa.",
+      "pregunta": "¿Cuál es una complicación de los corticoides?",
       "opcion a": "Trombocitosis severa.",
       "opcion b": "Hipotermia.",
       "opcion c": "Anemia.",
@@ -140,7 +140,7 @@
     },
     {
       "id": 16,
-      "pregunta": "¿Qué indica un RN hipotónico? Depresión del sistema nervioso central. Hambre. Exceso de sueño fisiológico. Buena adaptación neonatal.",
+      "pregunta": "¿Qué indica un RN hipotónico?",
       "opcion a": "Depresión del sistema nervioso central.",
       "opcion b": "Hambre.",
       "opcion c": "Exceso de sueño fisiológico.",
@@ -149,7 +149,7 @@
     },
     {
       "id": 17,
-      "pregunta": "¿Qué tipo de guantes requiere un procedimiento estéril? Guantes estériles. Guantes domésticos. Sin guantes. Guantes de látex rotos.",
+      "pregunta": "¿Qué tipo de guantes requiere un procedimiento estéril?",
       "opcion a": "Guantes domésticos.",
       "opcion b": "Guantes estériles.",
       "opcion c": "Sin guantes.",
@@ -158,7 +158,7 @@
     },
     {
       "id": 18,
-      "pregunta": "¿Qué indica un hematoma blando en zona de inyección? Hematoma por punción. Necrosis tisular. Absceso profundo. Buena absorción.",
+      "pregunta": "¿Qué indica un hematoma blando en zona de inyección?",
       "opcion a": "Absceso profundo.",
       "opcion b": "Necrosis tisular.",
       "opcion c": "Hematoma por punción.",
@@ -167,7 +167,7 @@
     },
     {
       "id": 19,
-      "pregunta": "¿Qué parámetro indica shock? Hipotensión y taquicardia. Fiebre y vómitos. Bradicardia. Hiperreflexia.",
+      "pregunta": "¿Qué parámetro indica shock?",
       "opcion a": "Fiebre y vómitos.",
       "opcion b": "Hipotensión y taquicardia.",
       "opcion c": "Bradicardia.",
@@ -176,7 +176,7 @@
     },
     {
       "id": 20,
-      "pregunta": "¿Qué medida previene úlceras por presión? Cambios posturales cada 2 horas. Aumentar sodio en dieta. Colocar hielo en zonas de apoyo. Evitar mover al paciente. ⭐ PREGUNTAS 21 a 40 (continúo…)",
+      "pregunta": "¿Qué medida previene úlceras por presión?",
       "opcion a": "Cambios posturales cada 2 horas.",
       "opcion b": "Aumentar sodio en dieta.",
       "opcion c": "Colocar hielo en zonas de apoyo.",
@@ -185,7 +185,7 @@
     },
     {
       "id": 21,
-      "pregunta": "¿Qué indica un paciente con FR de 36 rpm? Taquipnea. Eupnea. Bradipnea. Apnea parcial.",
+      "pregunta": "¿Qué indica un paciente con FR de 36 rpm?",
       "opcion a": "Eupnea.",
       "opcion b": "Taquipnea.",
       "opcion c": "Bradipnea.",
@@ -194,7 +194,7 @@
     },
     {
       "id": 22,
-      "pregunta": "¿Qué significa “enteral”? A través del aparato digestivo. A través de vena. A través de piel. Por inhalación.",
+      "pregunta": "¿Qué significa “enteral”?",
       "opcion a": "A través de piel.",
       "opcion b": "A través de vena.",
       "opcion c": "A través del aparato digestivo.",
@@ -203,7 +203,7 @@
     },
     {
       "id": 23,
-      "pregunta": "¿Qué sugiere un vómito en “posos de café”? Sangre digerida. Intolerancia a alimentos. Reflujo leve. Gastritis sin importancia.",
+      "pregunta": "¿Qué sugiere un vómito en “posos de café”?",
       "opcion a": "Reflujo leve.",
       "opcion b": "Intolerancia a alimentos.",
       "opcion c": "Sangre digerida.",
@@ -212,7 +212,7 @@
     },
     {
       "id": 24,
-      "pregunta": "¿Qué indica una saturación del 80%? Hipoxemia severa. Nivel normal bajo. Problema digestivo. Ansiedad.",
+      "pregunta": "¿Qué indica una saturación del 80%?",
       "opcion a": "Ansiedad.",
       "opcion b": "Nivel normal bajo.",
       "opcion c": "Problema digestivo.",
@@ -221,7 +221,7 @@
     },
     {
       "id": 25,
-      "pregunta": "¿Qué es un broncoespasmo? Contracción de músculos bronquiales. Dilatación pulmonar. Aumento del volumen cardíaco. Infección leve.",
+      "pregunta": "¿Qué es un broncoespasmo?",
       "opcion a": "Infección leve.",
       "opcion b": "Dilatación pulmonar.",
       "opcion c": "Aumento del volumen cardíaco.",
@@ -230,7 +230,7 @@
     },
     {
       "id": 26,
-      "pregunta": "¿Qué vía se usa para administrar insulina? Subcutánea. Intradérmica. Intravenosa siempre. Sublingual.",
+      "pregunta": "¿Qué vía se usa para administrar insulina?",
       "opcion a": "Sublingual.",
       "opcion b": "Intradérmica.",
       "opcion c": "Intravenosa siempre.",
@@ -239,7 +239,7 @@
     },
     {
       "id": 27,
-      "pregunta": "¿Qué indica fiebre y rigidez de nuca? Meningitis posible. Migraña. Amigdalitis. Deshidratación simple.",
+      "pregunta": "¿Qué indica fiebre y rigidez de nuca?",
       "opcion a": "Amigdalitis.",
       "opcion b": "Migraña.",
       "opcion c": "Meningitis posible.",
@@ -248,7 +248,7 @@
     },
     {
       "id": 28,
-      "pregunta": "¿Cuál es el antídoto de la intoxicación por opioides? Naloxona. Vitamina C. Omeprazol. Suero glucosado.",
+      "pregunta": "¿Cuál es el antídoto de la intoxicación por opioides?",
       "opcion a": "Vitamina C.",
       "opcion b": "Naloxona.",
       "opcion c": "Omeprazol.",
@@ -257,7 +257,7 @@
     },
     {
       "id": 29,
-      "pregunta": "¿Qué indica un aumento de creatinina? Disfunción renal. Infección de piel. Anemia. Hiperhidratación.",
+      "pregunta": "¿Qué indica un aumento de creatinina?",
       "opcion a": "Hiperhidratación.",
       "opcion b": "Infección de piel.",
       "opcion c": "Anemia.",
@@ -266,7 +266,7 @@
     },
     {
       "id": 30,
-      "pregunta": "¿Qué significa “polipnea”? Respiración rápida. Respiración lenta. Ausencia de respiración. Respiración ruidosa. ⭐ PREGUNTAS 31 a 60 (continúo en este mensaje)",
+      "pregunta": "¿Qué significa “polipnea”?",
       "opcion a": "Respiración ruidosa.",
       "opcion b": "Respiración lenta.",
       "opcion c": "Ausencia de respiración.",
@@ -275,7 +275,7 @@
     },
     {
       "id": 31,
-      "pregunta": "¿Qué indica dolor torácico opresivo? Posible síndrome coronario. Hambre. Mala postura. Contractura dorsal.",
+      "pregunta": "¿Qué indica dolor torácico opresivo?",
       "opcion a": "Posible síndrome coronario.",
       "opcion b": "Hambre.",
       "opcion c": "Mala postura.",
@@ -284,7 +284,7 @@
     },
     {
       "id": 32,
-      "pregunta": "¿Qué es una reacción febril post-transfusional? Elevación de temperatura tras transfusión. Fiebre por neumonía. Fiebre por resfrío. Fiebre por insolación.",
+      "pregunta": "¿Qué es una reacción febril post-transfusional?",
       "opcion a": "Fiebre por resfrío.",
       "opcion b": "Fiebre por neumonía.",
       "opcion c": "Elevación de temperatura tras transfusión.",
@@ -293,7 +293,7 @@
     },
     {
       "id": 33,
-      "pregunta": "¿Qué indica un paciente desorientado? Alteración neurológica aguda. Sueño. Hambre. Hipervitaminosis.",
+      "pregunta": "¿Qué indica un paciente desorientado?",
       "opcion a": "Alteración neurológica aguda.",
       "opcion b": "Sueño.",
       "opcion c": "Hambre.",
@@ -302,7 +302,7 @@
     },
     {
       "id": 34,
-      "pregunta": "¿Qué se controla antes de administrar digoxina? Frecuencia cardíaca. Temperatura. Reflejos. Peso.",
+      "pregunta": "¿Qué se controla antes de administrar digoxina?",
       "opcion a": "Temperatura.",
       "opcion b": "Frecuencia cardíaca.",
       "opcion c": "Reflejos.",
@@ -311,7 +311,7 @@
     },
     {
       "id": 35,
-      "pregunta": "¿Qué indica un aumento abrupto de peso en 48 horas? Retención hídrica. Obesidad. Masa muscular. Crecimiento óseo.",
+      "pregunta": "¿Qué indica un aumento abrupto de peso en 48 horas?",
       "opcion a": "Crecimiento óseo.",
       "opcion b": "Obesidad.",
       "opcion c": "Masa muscular.",
@@ -320,7 +320,7 @@
     },
     {
       "id": 36,
-      "pregunta": "¿Qué hace la adrenalina en paro? Aumenta perfusión coronaria. Baja la presión. Cierra vías aéreas. Disminuye la FC.",
+      "pregunta": "¿Qué hace la adrenalina en paro?",
       "opcion a": "Cierra vías aéreas.",
       "opcion b": "Baja la presión.",
       "opcion c": "Aumenta perfusión coronaria.",
@@ -329,7 +329,7 @@
     },
     {
       "id": 37,
-      "pregunta": "¿Qué indica un lactante con llanto débil y piel azulada? Asfixia. Hambre. Somnolencia. Sueño profundo.",
+      "pregunta": "¿Qué indica un lactante con llanto débil y piel azulada?",
       "opcion a": "Hambre.",
       "opcion b": "Asfixia.",
       "opcion c": "Somnolencia.",
@@ -338,7 +338,7 @@
     },
     {
       "id": 38,
-      "pregunta": "¿Qué indica hipopotasemia? Debilidad muscular. Fiebre. Aumento de apetito. Tos.",
+      "pregunta": "¿Qué indica hipopotasemia?",
       "opcion a": "Fiebre.",
       "opcion b": "Debilidad muscular.",
       "opcion c": "Aumento de apetito.",
@@ -347,7 +347,7 @@
     },
     {
       "id": 39,
-      "pregunta": "¿Qué causa la deshidratación extrema? Shock hipovolémico. Hipertensión. Hiperventilación. Bronquitis.",
+      "pregunta": "¿Qué causa la deshidratación extrema?",
       "opcion a": "Hiperventilación.",
       "opcion b": "Hipertensión.",
       "opcion c": "Shock hipovolémico.",
@@ -356,7 +356,7 @@
     },
     {
       "id": 40,
-      "pregunta": "¿Qué indica sudoración fría y palidez? Perfusión deficiente. Buena circulación. Tensión emocional leve. Ejercicio reciente. ⭐ PREGUNTAS 61 a 80 (continúo…)",
+      "pregunta": "¿Qué indica sudoración fría y palidez?",
       "opcion a": "Ejercicio reciente.",
       "opcion b": "Buena circulación.",
       "opcion c": "Tensión emocional leve.",
@@ -365,7 +365,7 @@
     },
     {
       "id": 61,
-      "pregunta": "¿Qué indica orina espumosa persistente? Proteinuria. Hidratación normal. Infección leve. Hipoxemia.",
+      "pregunta": "¿Qué indica orina espumosa persistente?",
       "opcion a": "Hidratación normal.",
       "opcion b": "Proteinuria.",
       "opcion c": "Infección leve.",
@@ -374,7 +374,7 @@
     },
     {
       "id": 62,
-      "pregunta": "¿Qué se controla en un paciente anticoagulado? INR. Glucosa. Calcio. Creatina.",
+      "pregunta": "¿Qué se controla en un paciente anticoagulado?",
       "opcion a": "Creatina.",
       "opcion b": "Glucosa.",
       "opcion c": "Calcio.",
@@ -383,7 +383,7 @@
     },
     {
       "id": 63,
-      "pregunta": "¿Cuál es el objetivo de la vía central? Infundir líquidos o fármacos de alta osmolaridad. Medir glucosa. Reducir la sed. Administrar oxígeno.",
+      "pregunta": "¿Cuál es el objetivo de la vía central?",
       "opcion a": "Infundir líquidos o fármacos de alta osmolaridad.",
       "opcion b": "Medir glucosa.",
       "opcion c": "Reducir la sed.",
@@ -392,7 +392,7 @@
     },
     {
       "id": 64,
-      "pregunta": "¿Qué indica una FR de 8 rpm? Bradipnea. Eupnea. Taquipnea. Respiración normal.",
+      "pregunta": "¿Qué indica una FR de 8 rpm?",
       "opcion a": "Bradipnea.",
       "opcion b": "Eupnea.",
       "opcion c": "Taquipnea.",
@@ -401,7 +401,7 @@
     },
     {
       "id": 65,
-      "pregunta": "¿Qué indica un soplo cardíaco? Turbulencia en el flujo sanguíneo. Tos. Gastritis. Anemia aguda.",
+      "pregunta": "¿Qué indica un soplo cardíaco?",
       "opcion a": "Turbulencia en el flujo sanguíneo.",
       "opcion b": "Tos.",
       "opcion c": "Gastritis.",
@@ -410,7 +410,7 @@
     },
     {
       "id": 66,
-      "pregunta": "¿Qué indica la piel seca y lengua raspada? Deshidratación. Fiebre. Hemorragia. Hiperglucemia.",
+      "pregunta": "¿Qué indica la piel seca y lengua raspada?",
       "opcion a": "Hiperglucemia.",
       "opcion b": "Fiebre.",
       "opcion c": "Hemorragia.",
@@ -419,7 +419,7 @@
     },
     {
       "id": 67,
-      "pregunta": "¿Qué indica un aumento de temperatura corporal >40 °C? Hipertermia grave. Fiebre leve. Hipotermia. Hipotensión.",
+      "pregunta": "¿Qué indica un aumento de temperatura corporal >40 °C?",
       "opcion a": "Hipertermia grave.",
       "opcion b": "Fiebre leve.",
       "opcion c": "Hipotermia.",
@@ -428,7 +428,7 @@
     },
     {
       "id": 68,
-      "pregunta": "¿Qué indica dolor en fosa ilíaca derecha? Apendicitis posible. Gastritis. Cólico renal izquierdo. Distensión gástrica.",
+      "pregunta": "¿Qué indica dolor en fosa ilíaca derecha?",
       "opcion a": "Apendicitis posible.",
       "opcion b": "Gastritis.",
       "opcion c": "Cólico renal izquierdo.",
@@ -437,7 +437,7 @@
     },
     {
       "id": 69,
-      "pregunta": "¿Qué indica una frecuencia cardíaca irregular? Arritmia. Fiebre. Hiperventilación. Estreñimiento.",
+      "pregunta": "¿Qué indica una frecuencia cardíaca irregular?",
       "opcion a": "Arritmia.",
       "opcion b": "Fiebre.",
       "opcion c": "Hiperventilación.",
@@ -446,7 +446,7 @@
     },
     {
       "id": 70,
-      "pregunta": "¿Qué indica el enrojecimiento en zona de catéter? Infección local. Buena perfusión. Sensibilidad térmica. Alergia leve.",
+      "pregunta": "¿Qué indica el enrojecimiento en zona de catéter?",
       "opcion a": "Infección local.",
       "opcion b": "Buena perfusión.",
       "opcion c": "Sensibilidad térmica.",
@@ -455,7 +455,7 @@
     },
     {
       "id": 71,
-      "pregunta": "¿Qué es la escala EVA? Escala subjetiva de dolor. Escala de sueño. Escala nutricional. Escala de movilidad.",
+      "pregunta": "¿Qué es la escala EVA?",
       "opcion a": "Escala subjetiva de dolor.",
       "opcion b": "Escala de sueño.",
       "opcion c": "Escala nutricional.",
@@ -464,7 +464,7 @@
     },
     {
       "id": 72,
-      "pregunta": "¿Qué indica un ECG con ondas ST elevadas? Infarto agudo de miocardio. Hipoglucemia. Hipotermia. Infección pulmonar.",
+      "pregunta": "¿Qué indica un ECG con ondas ST elevadas?",
       "opcion a": "Infección pulmonar.",
       "opcion b": "Hipoglucemia.",
       "opcion c": "Hipotermia.",
@@ -473,7 +473,7 @@
     },
     {
       "id": 73,
-      "pregunta": "¿Qué parámetro indica hipoxia? SpO₂ baja. Frecuencia cardíaca normal. Piel caliente. Diuresis elevada.",
+      "pregunta": "¿Qué parámetro indica hipoxia?",
       "opcion a": "SpO₂ baja.",
       "opcion b": "Frecuencia cardíaca normal.",
       "opcion c": "Piel caliente.",
@@ -482,7 +482,7 @@
     },
     {
       "id": 74,
-      "pregunta": "¿Qué hacer ante convulsión activa? Proteger cabeza y vía aérea. Sujetar brazos. Colocar objetos en boca. Administrar líquidos por boca.",
+      "pregunta": "¿Qué hacer ante convulsión activa?",
       "opcion a": "Proteger cabeza y vía aérea.",
       "opcion b": "Sujetar brazos.",
       "opcion c": "Colocar objetos en boca.",
@@ -491,7 +491,7 @@
     },
     {
       "id": 75,
-      "pregunta": "¿Qué indica el síndrome febril prolongado? Infección o inflamación persistente. Estrés. Hipertensión. Resfrío común.",
+      "pregunta": "¿Qué indica el síndrome febril prolongado?",
       "opcion a": "Hipertensión.",
       "opcion b": "Estrés.",
       "opcion c": "Infección o inflamación persistente.",
@@ -500,7 +500,7 @@
     },
     {
       "id": 76,
-      "pregunta": "¿Qué es la fiebre neutropénica? Fiebre en paciente con neutrófilos muy bajos. Fiebre con anemia. Fiebre por insolación. Fiebre sin riesgo.",
+      "pregunta": "¿Qué es la fiebre neutropénica?",
       "opcion a": "Fiebre en paciente con neutrófilos muy bajos.",
       "opcion b": "Fiebre con anemia.",
       "opcion c": "Fiebre por insolación.",
@@ -509,7 +509,7 @@
     },
     {
       "id": 77,
-      "pregunta": "¿Qué indica un paciente con disnea, sudoración y ansiedad? Dificultad respiratoria aguda. Emoción fuerte. Hambre. Reflujo.",
+      "pregunta": "¿Qué indica un paciente con disnea, sudoración y ansiedad?",
       "opcion a": "Hambre.",
       "opcion b": "Emoción fuerte.",
       "opcion c": "Dificultad respiratoria aguda.",
@@ -518,7 +518,7 @@
     },
     {
       "id": 78,
-      "pregunta": "¿Para qué se usa la sonda NG? Drenaje o alimentación. Ventilación. Drenaje urinario. Control térmico.",
+      "pregunta": "¿Para qué se usa la sonda NG?",
       "opcion a": "Drenaje o alimentación.",
       "opcion b": "Ventilación.",
       "opcion c": "Drenaje urinario.",
@@ -527,7 +527,7 @@
     },
     {
       "id": 79,
-      "pregunta": "¿Qué indica una glucemia de 300 mg/dL? Hiperglucemia. Norma. Hipoglucemia. Estado estable.",
+      "pregunta": "¿Qué indica una glucemia de 300 mg/dL?",
       "opcion a": "Estado estable.",
       "opcion b": "Norma.",
       "opcion c": "Hipoglucemia.",
@@ -536,7 +536,7 @@
     },
     {
       "id": 80,
-      "pregunta": "¿Qué indica un color amarillento de piel? Ictericia. Fiebre. Hipotermia. Falta de sueño. ⭐ PREGUNTAS 81 a 100 (último tramo)",
+      "pregunta": "¿Qué indica un color amarillento de piel?",
       "opcion a": "Falta de sueño.",
       "opcion b": "Fiebre.",
       "opcion c": "Hipotermia.",
@@ -545,7 +545,7 @@
     },
     {
       "id": 81,
-      "pregunta": "¿Qué indica ingesta insuficiente de líquidos? Riesgo de deshidratación. Hiperglucemia. Hipotermia. Exceso de sodio.",
+      "pregunta": "¿Qué indica ingesta insuficiente de líquidos?",
       "opcion a": "Hipotermia.",
       "opcion b": "Hiperglucemia.",
       "opcion c": "Riesgo de deshidratación.",
@@ -554,7 +554,7 @@
     },
     {
       "id": 82,
-      "pregunta": "¿Qué es la evaluación primaria en urgencias? ABC (vía aérea, respiración, circulación). Peso, talla, IMC. Toma de sangre. Control de temperatura.",
+      "pregunta": "¿Qué es la evaluación primaria en urgencias?",
       "opcion a": "Peso, talla, IMC.",
       "opcion b": "ABC (vía aérea, respiración, circulación).",
       "opcion c": "Toma de sangre.",
@@ -563,7 +563,7 @@
     },
     {
       "id": 83,
-      "pregunta": "¿Qué indica un aumento de leucocitos? Infección. Deshidratación. Dolor muscular. Insomnio.",
+      "pregunta": "¿Qué indica un aumento de leucocitos?",
       "opcion a": "Infección.",
       "opcion b": "Deshidratación.",
       "opcion c": "Dolor muscular.",
@@ -572,7 +572,7 @@
     },
     {
       "id": 84,
-      "pregunta": "¿Qué indica un paciente con respiración ruidosa y secreciones? Necesidad de aspiración. Hambre. Fiebre. Hipertensión.",
+      "pregunta": "¿Qué indica un paciente con respiración ruidosa y secreciones?",
       "opcion a": "Fiebre.",
       "opcion b": "Hambre.",
       "opcion c": "Necesidad de aspiración.",
@@ -581,7 +581,7 @@
     },
     {
       "id": 85,
-      "pregunta": "¿Qué indica somnolencia excesiva y pupilas puntiformes? Intoxicación por opioides. Hiperglucemia. Deshidratación. Golpe de calor.",
+      "pregunta": "¿Qué indica somnolencia excesiva y pupilas puntiformes?",
       "opcion a": "Deshidratación.",
       "opcion b": "Hiperglucemia.",
       "opcion c": "Intoxicación por opioides.",
@@ -590,7 +590,7 @@
     },
     {
       "id": 86,
-      "pregunta": "¿Qué se controla en paciente con heparina? TTPa. Calcio. Ácido úrico. Hemoglobina fetal.",
+      "pregunta": "¿Qué se controla en paciente con heparina?",
       "opcion a": "Hemoglobina fetal.",
       "opcion b": "Calcio.",
       "opcion c": "Ácido úrico.",
@@ -599,7 +599,7 @@
     },
     {
       "id": 87,
-      "pregunta": "¿Qué indica un paciente con piel seca y taquicardia? Deshidratación moderada. Hipotermia. Infección urinaria. Hiperglucemia.",
+      "pregunta": "¿Qué indica un paciente con piel seca y taquicardia?",
       "opcion a": "Infección urinaria.",
       "opcion b": "Hipotermia.",
       "opcion c": "Deshidratación moderada.",
@@ -608,7 +608,7 @@
     },
     {
       "id": 88,
-      "pregunta": "¿Cuál es el signo de alarma en un traumatismo craneal? Vómitos persistentes. Hambre. Hipo. Voz ronca.",
+      "pregunta": "¿Cuál es el signo de alarma en un traumatismo craneal?",
       "opcion a": "Vómitos persistentes.",
       "opcion b": "Hambre.",
       "opcion c": "Hipo.",
@@ -617,7 +617,7 @@
     },
     {
       "id": 89,
-      "pregunta": "¿Qué indica un abdomen silencioso sin ruidos intestinales? Íleo paralítico. Digestión rápida. Estreñimiento leve. Gas acumulado.",
+      "pregunta": "¿Qué indica un abdomen silencioso sin ruidos intestinales?",
       "opcion a": "Digestión rápida.",
       "opcion b": "Íleo paralítico.",
       "opcion c": "Estreñimiento leve.",
@@ -626,7 +626,7 @@
     },
     {
       "id": 90,
-      "pregunta": "¿Qué indica un pulso rápido e irregular? Fibrilación auricular. Taquicardia sinusal. Bradicardia. ECG normal.",
+      "pregunta": "¿Qué indica un pulso rápido e irregular?",
       "opcion a": "Taquicardia sinusal.",
       "opcion b": "Fibrilación auricular.",
       "opcion c": "Bradicardia.",
@@ -635,7 +635,7 @@
     },
     {
       "id": 91,
-      "pregunta": "¿Qué indica un sangrado vaginal abundante? Hemorragia activa. Menstruación normal. Estrés. Anemia previa.",
+      "pregunta": "¿Qué indica un sangrado vaginal abundante?",
       "opcion a": "Estrés.",
       "opcion b": "Menstruación normal.",
       "opcion c": "Hemorragia activa.",
@@ -644,7 +644,7 @@
     },
     {
       "id": 92,
-      "pregunta": "¿Qué indica una piel muy caliente y seca? Golpe de calor. Hipotermia. Deshidratación leve. Shock.",
+      "pregunta": "¿Qué indica una piel muy caliente y seca?",
       "opcion a": "Hipotermia.",
       "opcion b": "Golpe de calor.",
       "opcion c": "Deshidratación leve.",
@@ -653,7 +653,7 @@
     },
     {
       "id": 93,
-      "pregunta": "¿Qué indica dolor súbito en pantorrilla? Trombosis venosa profunda. Calambre leve. Deshidratación. Dolor muscular por ejercicio.",
+      "pregunta": "¿Qué indica dolor súbito en pantorrilla?",
       "opcion a": "Calambre leve.",
       "opcion b": "Trombosis venosa profunda.",
       "opcion c": "Deshidratación.",
@@ -662,7 +662,7 @@
     },
     {
       "id": 94,
-      "pregunta": "¿Qué indica fiebre + tos + disnea? Infección respiratoria. Gastritis. Reflujo. Constipación.",
+      "pregunta": "¿Qué indica fiebre + tos + disnea?",
       "opcion a": "Infección respiratoria.",
       "opcion b": "Gastritis.",
       "opcion c": "Reflujo.",
@@ -671,7 +671,7 @@
     },
     {
       "id": 95,
-      "pregunta": "¿Qué requiere un paciente con insuficiencia respiratoria aguda? Oxígeno suplementario. Aumentar ingesta de agua. Dar comida sólida. Colocar manta pesada.",
+      "pregunta": "¿Qué requiere un paciente con insuficiencia respiratoria aguda?",
       "opcion a": "Colocar manta pesada.",
       "opcion b": "Aumentar ingesta de agua.",
       "opcion c": "Dar comida sólida.",
@@ -680,7 +680,7 @@
     },
     {
       "id": 96,
-      "pregunta": "¿Qué indica un paciente somnoliento y deshidratado? Hipovolemia posible. Hipoglucemia leve. Anemia. Gastritis.",
+      "pregunta": "¿Qué indica un paciente somnoliento y deshidratado?",
       "opcion a": "Anemia.",
       "opcion b": "Hipoglucemia leve.",
       "opcion c": "Hipovolemia posible.",
@@ -689,7 +689,7 @@
     },
     {
       "id": 97,
-      "pregunta": "¿Qué es la diuresis normal? 1–2 L/24 h. 4–5 L. <200 ml. >10 L.",
+      "pregunta": "¿Qué es la diuresis normal?",
       "opcion a": "4–5 L.",
       "opcion b": "1–2 L/24 h.",
       "opcion c": "<200 ml.",
@@ -698,7 +698,7 @@
     },
     {
       "id": 98,
-      "pregunta": "¿Qué indica dolor lumbar + disuria + fiebre? Pielonefritis. Gastritis. Migraña. Sinusitis.",
+      "pregunta": "¿Qué indica dolor lumbar + disuria + fiebre?",
       "opcion a": "Pielonefritis.",
       "opcion b": "Gastritis.",
       "opcion c": "Migraña.",
@@ -707,7 +707,7 @@
     },
     {
       "id": 99,
-      "pregunta": "¿Qué indica un paciente inconsciente pero con pulso? Iniciar soporte vital básico sin RCP. Iniciar RCP inmediatamente. Dar agua. Caminarlo.",
+      "pregunta": "¿Qué indica un paciente inconsciente pero con pulso?",
       "opcion a": "Iniciar RCP inmediatamente.",
       "opcion b": "Iniciar soporte vital básico sin RCP.",
       "opcion c": "Dar agua.",
@@ -716,7 +716,7 @@
     },
     {
       "id": 100,
-      "pregunta": "¿Cuál es la prioridad ante un paro cardiorrespiratorio? RCP inmediata. Buscar familiares. Administrar alimentos. Esperar asistencia sin actuar.",
+      "pregunta": "¿Cuál es la prioridad ante un paro cardiorrespiratorio?",
       "opcion a": "RCP inmediata.",
       "opcion b": "Buscar familiares.",
       "opcion c": "Administrar alimentos.",

@@ -5,7 +5,7 @@
   "preguntas": [
     {
       "id": 1,
-      "pregunta": "¿Qué es el proceso de enfermería? Una metodología científica para organizar el cuidado. Un sistema para registrar datos administrativos. Un método exclusivo para emergencias. Una técnica de comunicación institucional.",
+      "pregunta": "¿Qué es el proceso de enfermería?",
       "opcion a": "Una técnica de comunicación institucional.",
       "opcion b": "Un sistema para registrar datos administrativos.",
       "opcion c": "Un método exclusivo para emergencias.",
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "pregunta": "¿Cuál es el primer paso del proceso de enfermería? Valoración. Diagnóstico. Intervención. Evaluación.",
+      "pregunta": "¿Cuál es el primer paso del proceso de enfermería?",
       "opcion a": "Diagnóstico.",
       "opcion b": "Valoración.",
       "opcion c": "Intervención.",
@@ -23,7 +23,7 @@
     },
     {
       "id": 3,
-      "pregunta": "¿Cuál es el objetivo del diagnóstico de enfermería? Identificar respuestas humanas a problemas de salud. Establecer el tratamiento médico. Determinar la terapia farmacológica. Definir pronóstico clínico.",
+      "pregunta": "¿Cuál es el objetivo del diagnóstico de enfermería?",
       "opcion a": "Establecer el tratamiento médico.",
       "opcion b": "Identificar respuestas humanas a problemas de salud.",
       "opcion c": "Determinar la terapia farmacológica.",
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "pregunta": "¿Qué caracteriza a un paciente con riesgo de aspiración? Dificultad para gestionar su secreción salival. Fiebre persistente sin foco. Edema en extremidades. Hiperhidratación.",
+      "pregunta": "¿Qué caracteriza a un paciente con riesgo de aspiración?",
       "opcion a": "Hiperhidratación.",
       "opcion b": "Fiebre persistente sin foco.",
       "opcion c": "Edema en extremidades.",
@@ -41,7 +41,7 @@
     },
     {
       "id": 5,
-      "pregunta": "¿Cuál es el nivel de prevención que corresponde a la educación sanitaria? Prevención primaria. Prevención terciaria. Prevención cuaternaria. Prevención de soporte.",
+      "pregunta": "¿Cuál es el nivel de prevención que corresponde a la educación sanitaria?",
       "opcion a": "Prevención primaria.",
       "opcion b": "Prevención terciaria.",
       "opcion c": "Prevención cuaternaria.",
@@ -50,7 +50,7 @@
     },
     {
       "id": 6,
-      "pregunta": "¿Qué indica taquicardia persistente? Posible hipovolemia o dolor. Hiperglucemia compensada. Recuperación respiratoria. Ingesta excesiva de proteínas.",
+      "pregunta": "¿Qué indica taquicardia persistente?",
       "opcion a": "Ingesta excesiva de proteínas.",
       "opcion b": "Hiperglucemia compensada.",
       "opcion c": "Recuperación respiratoria.",
@@ -59,7 +59,7 @@
     },
     {
       "id": 7,
-      "pregunta": "¿Qué se evalúa en el Glasgow Coma Scale? Respuesta ocular, verbal y motora. Reflejos, postura y pupilas. Dolor, orientación y movimientos finos. Presión arterial y saturación.",
+      "pregunta": "¿Qué se evalúa en el Glasgow Coma Scale?",
       "opcion a": "Reflejos, postura y pupilas.",
       "opcion b": "Respuesta ocular, verbal y motora.",
       "opcion c": "Dolor, orientación y movimientos finos.",
@@ -68,7 +68,7 @@
     },
     {
       "id": 8,
-      "pregunta": "¿Cuál es el valor normal de saturación de oxígeno? 95–100%. 80–85%. 60–70%. 88–92% en sujetos sanos.",
+      "pregunta": "¿Cuál es el valor normal de saturación de oxígeno?",
       "opcion a": "95–100%.",
       "opcion b": "80–85%.",
       "opcion c": "60–70%.",
@@ -77,7 +77,7 @@
     },
     {
       "id": 9,
-      "pregunta": "En una hipoglucemia, ¿qué debe administrarse primero en un paciente consciente? Carbohidratos de acción rápida. Agua. Leche descremada. Sodio intravenoso.",
+      "pregunta": "En una hipoglucemia, ¿qué debe administrarse primero en un paciente consciente?",
       "opcion a": "Sodio intravenoso.",
       "opcion b": "Agua.",
       "opcion c": "Leche descremada.",
@@ -86,7 +86,7 @@
     },
     {
       "id": 10,
-      "pregunta": "¿Qué indica un llenado capilar mayor a 3 segundos? Hipoperfusión. Aumento de gasto cardíaco. Hidratación adecuada. Mejora circulatoria.",
+      "pregunta": "¿Qué indica un llenado capilar mayor a 3 segundos?",
       "opcion a": "Hipoperfusión.",
       "opcion b": "Aumento de gasto cardíaco.",
       "opcion c": "Hidratación adecuada.",
@@ -95,7 +95,7 @@
     },
     {
       "id": 11,
-      "pregunta": "¿Cuál es el objetivo del lavado de manos quirúrgico? Reducir al máximo la flora residente y transitoria. Hidratar la piel. Aumentar la temperatura corporal. Desinfectar solamente uñas.",
+      "pregunta": "¿Cuál es el objetivo del lavado de manos quirúrgico?",
       "opcion a": "Hidratar la piel.",
       "opcion b": "Reducir al máximo la flora residente y transitoria.",
       "opcion c": "Aumentar la temperatura corporal.",
@@ -104,7 +104,7 @@
     },
     {
       "id": 12,
-      "pregunta": "¿Qué vía es preferida para medicación de emergencia? Intravenosa. Tópica. Sublingual. Rectal.",
+      "pregunta": "¿Qué vía es preferida para medicación de emergencia?",
       "opcion a": "Tópica.",
       "opcion b": "Intravenosa.",
       "opcion c": "Sublingual.",
@@ -113,7 +113,7 @@
     },
     {
       "id": 13,
-      "pregunta": "¿Cuál es el principal riesgo de una vía periférica sin control? Flebitis. Hiponatremia. Taquicardia supraventricular. Fiebre por ansiedad.",
+      "pregunta": "¿Cuál es el principal riesgo de una vía periférica sin control?",
       "opcion a": "Taquicardia supraventricular.",
       "opcion b": "Hiponatremia.",
       "opcion c": "Flebitis.",
@@ -122,7 +122,7 @@
     },
     {
       "id": 14,
-      "pregunta": "¿Qué indica un pulso débil y rápido? Shock. Ansiedad leve. Hipoglucemia leve. Digestión lenta.",
+      "pregunta": "¿Qué indica un pulso débil y rápido?",
       "opcion a": "Digestión lenta.",
       "opcion b": "Ansiedad leve.",
       "opcion c": "Hipoglucemia leve.",
@@ -131,7 +131,7 @@
     },
     {
       "id": 15,
-      "pregunta": "¿Cuál es la presión arterial considerada hipertensión estadio 1? ≥ 140/90 mmHg. ≥ 120/70 mmHg. ≥ 100/60 mmHg. ≥ 110/80 mmHg.",
+      "pregunta": "¿Cuál es la presión arterial considerada hipertensión estadio 1?",
       "opcion a": "≥ 140/90 mmHg.",
       "opcion b": "≥ 120/70 mmHg.",
       "opcion c": "≥ 100/60 mmHg.",
@@ -140,7 +140,7 @@
     },
     {
       "id": 16,
-      "pregunta": "¿Qué caracteriza a una respiración Kussmaul? Profunda y rápida, típica de acidosis metabólica. Superficial y pausada. Ruidosa y obstructiva. Irregular con pausas prolongadas.",
+      "pregunta": "¿Qué caracteriza a una respiración Kussmaul?",
       "opcion a": "Superficial y pausada.",
       "opcion b": "Profunda y rápida, típica de acidosis metabólica.",
       "opcion c": "Ruidosa y obstructiva.",
@@ -149,7 +149,7 @@
     },
     {
       "id": 17,
-      "pregunta": "¿Qué debe realizarse ante sospecha de sepsis? Tomar hemocultivos y comenzar antibióticos tempranos. Administrar líquidos sin evaluación. Esperar 24 h para observar evolución. Evaluar solo presión arterial.",
+      "pregunta": "¿Qué debe realizarse ante sospecha de sepsis?",
       "opcion a": "Tomar hemocultivos y comenzar antibióticos tempranos.",
       "opcion b": "Administrar líquidos sin evaluación.",
       "opcion c": "Esperar 24 h para observar evolución.",
@@ -158,7 +158,7 @@
     },
     {
       "id": 18,
-      "pregunta": "¿Cuál es el objetivo de la oxigenoterapia? Corregir hipoxemia. Disminuir temperatura corporal. Mejorar digestión. Aumentar frecuencia cardíaca.",
+      "pregunta": "¿Cuál es el objetivo de la oxigenoterapia?",
       "opcion a": "Corregir hipoxemia.",
       "opcion b": "Disminuir temperatura corporal.",
       "opcion c": "Mejorar digestión.",
@@ -167,7 +167,7 @@
     },
     {
       "id": 19,
-      "pregunta": "¿Qué complicación produce la inmovilidad prolongada? Úlceras por presión. Hipertensión arterial. Aumento de masa muscular. Hipertiroidismo.",
+      "pregunta": "¿Qué complicación produce la inmovilidad prolongada?",
       "opcion a": "Hipertensión arterial.",
       "opcion b": "Úlceras por presión.",
       "opcion c": "Aumento de masa muscular.",
@@ -176,7 +176,7 @@
     },
     {
       "id": 20,
-      "pregunta": "¿Cuál es la temperatura febril considerada hipertermia severa? ≥ 40 °C. 37.2 °C. 38.1 °C. 36.0 °C.",
+      "pregunta": "¿Cuál es la temperatura febril considerada hipertermia severa?",
       "opcion a": "37.2 °C.",
       "opcion b": "≥ 40 °C.",
       "opcion c": "38.1 °C.",
@@ -185,7 +185,7 @@
     },
     {
       "id": 21,
-      "pregunta": "¿Cuál es la posición recomendada para mejorar la ventilación? Fowler. Trendelemburg. Decúbito prono ante fatiga leve. Posición fetal.",
+      "pregunta": "¿Cuál es la posición recomendada para mejorar la ventilación?",
       "opcion a": "Fowler.",
       "opcion b": "Trendelemburg.",
       "opcion c": "Decúbito prono ante fatiga leve.",
@@ -194,7 +194,7 @@
     },
     {
       "id": 22,
-      "pregunta": "¿Qué indica una PA de 90/40 mmHg? Hipotensión. Normotensión. Hipertensión leve. Hipertensión sistólica aislada.",
+      "pregunta": "¿Qué indica una PA de 90/40 mmHg?",
       "opcion a": "Hipertensión sistólica aislada.",
       "opcion b": "Normotensión.",
       "opcion c": "Hipertensión leve.",
@@ -203,7 +203,7 @@
     },
     {
       "id": 23,
-      "pregunta": "¿Qué parámetro indica mejor perfusión tisular? Llenado capilar. Peso corporal. Talla. Circunferencia torácica.",
+      "pregunta": "¿Qué parámetro indica mejor perfusión tisular?",
       "opcion a": "Circunferencia torácica.",
       "opcion b": "Peso corporal.",
       "opcion c": "Talla.",
@@ -212,7 +212,7 @@
     },
     {
       "id": 24,
-      "pregunta": "¿Qué tipo de aislamiento corresponde a tuberculosis? Aislamiento respiratorio (aire). Aislamiento entérico. Aislamiento por contacto. Aislamiento por gotas pesadas.",
+      "pregunta": "¿Qué tipo de aislamiento corresponde a tuberculosis?",
       "opcion a": "Aislamiento entérico.",
       "opcion b": "Aislamiento respiratorio (aire).",
       "opcion c": "Aislamiento por contacto.",
@@ -221,7 +221,7 @@
     },
     {
       "id": 25,
-      "pregunta": "¿Cuál es el mejor indicador de hidratación en niños? Signos clínicos (mucosas, diuresis, perfusión). Color de piel únicamente. Frecuencia respiratoria. Temperatura corporal aislada.",
+      "pregunta": "¿Cuál es el mejor indicador de hidratación en niños?",
       "opcion a": "Frecuencia respiratoria.",
       "opcion b": "Color de piel únicamente.",
       "opcion c": "Signos clínicos (mucosas, diuresis, perfusión).",
@@ -230,7 +230,7 @@
     },
     {
       "id": 26,
-      "pregunta": "¿Qué sugiere una FR de 6 rpm? Bradipnea severa. Eupnea. Taquipnea leve. Hiperventilación.",
+      "pregunta": "¿Qué sugiere una FR de 6 rpm?",
       "opcion a": "Hiperventilación.",
       "opcion b": "Eupnea.",
       "opcion c": "Taquipnea leve.",
@@ -239,7 +239,7 @@
     },
     {
       "id": 27,
-      "pregunta": "¿Cuál es la acción prioritaria en un paro cardiorrespiratorio? Iniciar compresiones torácicas. Buscar historia clínica. Colocar una vía periférica. Administrar agua.",
+      "pregunta": "¿Cuál es la acción prioritaria en un paro cardiorrespiratorio?",
       "opcion a": "Colocar una vía periférica.",
       "opcion b": "Buscar historia clínica.",
       "opcion c": "Iniciar compresiones torácicas.",
@@ -248,7 +248,7 @@
     },
     {
       "id": 28,
-      "pregunta": "¿Qué complicación puede causar un sondaje vesical prolongado? Infección urinaria. Hipertensión. Deshidratación. Constipación.",
+      "pregunta": "¿Qué complicación puede causar un sondaje vesical prolongado?",
       "opcion a": "Infección urinaria.",
       "opcion b": "Hipertensión.",
       "opcion c": "Deshidratación.",
@@ -257,7 +257,7 @@
     },
     {
       "id": 29,
-      "pregunta": "¿Qué indica fiebre + rigidez de nuca? Posible meningitis. Gastritis severa. Neumonía. Infección urinaria.",
+      "pregunta": "¿Qué indica fiebre + rigidez de nuca?",
       "opcion a": "Gastritis severa.",
       "opcion b": "Posible meningitis.",
       "opcion c": "Neumonía.",
@@ -266,7 +266,7 @@
     },
     {
       "id": 30,
-      "pregunta": "¿Cuál es la meta principal del cuidado paliativo? Control del sufrimiento y mejora de la calidad de vida. Curación acelerada. Aumento del uso de medicación. Prolongación de la hospitalización.",
+      "pregunta": "¿Cuál es la meta principal del cuidado paliativo?",
       "opcion a": "Control del sufrimiento y mejora de la calidad de vida.",
       "opcion b": "Curación acelerada.",
       "opcion c": "Aumento del uso de medicación.",
@@ -275,7 +275,7 @@
     },
     {
       "id": 31,
-      "pregunta": "¿Qué indica una piel fría, pálida y sudorosa? Shock. Recuperación de fiebre. Buena perfusión. Hiperhidratación.",
+      "pregunta": "¿Qué indica una piel fría, pálida y sudorosa?",
       "opcion a": "Recuperación de fiebre.",
       "opcion b": "Shock.",
       "opcion c": "Buena perfusión.",
@@ -284,7 +284,7 @@
     },
     {
       "id": 32,
-      "pregunta": "¿Cuál es la frecuencia respiratoria normal en un adulto sano? 12–20 rpm. 25–35 rpm. 6–10 rpm. 40–45 rpm.",
+      "pregunta": "¿Cuál es la frecuencia respiratoria normal en un adulto sano?",
       "opcion a": "25–35 rpm.",
       "opcion b": "12–20 rpm.",
       "opcion c": "6–10 rpm.",
@@ -293,7 +293,7 @@
     },
     {
       "id": 33,
-      "pregunta": "¿Cuál es el objetivo de la educación sanitaria en hipertensión? Reducir factores de riesgo modificables. Enseñar a tomar medicación sin control médico. Evitar que el paciente vuelva a consultar. Eliminar completamente el estrés del paciente.",
+      "pregunta": "¿Cuál es el objetivo de la educación sanitaria en hipertensión?",
       "opcion a": "Enseñar a tomar medicación sin control médico.",
       "opcion b": "Reducir factores de riesgo modificables.",
       "opcion c": "Evitar que el paciente vuelva a consultar.",
@@ -302,7 +302,7 @@
     },
     {
       "id": 34,
-      "pregunta": "¿Qué complicación se asocia con el oxígeno a alto flujo sin control? Toxicidad por oxígeno. Hipotermia. Hipoglucemia. Digestión lenta.",
+      "pregunta": "¿Qué complicación se asocia con el oxígeno a alto flujo sin control?",
       "opcion a": "Digestión lenta.",
       "opcion b": "Hipotermia.",
       "opcion c": "Hipoglucemia.",
@@ -311,7 +311,7 @@
     },
     {
       "id": 35,
-      "pregunta": "¿Cuál es el sitio preferido para administrar heparina subcutánea? Abdomen. Deltoides. Muslo lateral profundo. Región escapular.",
+      "pregunta": "¿Cuál es el sitio preferido para administrar heparina subcutánea?",
       "opcion a": "Deltoides.",
       "opcion b": "Abdomen.",
       "opcion c": "Muslo lateral profundo.",
@@ -320,7 +320,7 @@
     },
     {
       "id": 36,
-      "pregunta": "¿Qué indica una disminución súbita del nivel de conciencia? Posible compromiso neurológico. Estrés emocional leve. Digestión lenta. Agotamiento físico común.",
+      "pregunta": "¿Qué indica una disminución súbita del nivel de conciencia?",
       "opcion a": "Digestión lenta.",
       "opcion b": "Estrés emocional leve.",
       "opcion c": "Posible compromiso neurológico.",
@@ -329,7 +329,7 @@
     },
     {
       "id": 37,
-      "pregunta": "¿Qué acción es prioritaria ante un paciente con convulsiones? Proteger la cabeza del paciente. Sujetar con fuerza las extremidades. Colocar un objeto en la boca. Administrar agua azucarada.",
+      "pregunta": "¿Qué acción es prioritaria ante un paciente con convulsiones?",
       "opcion a": "Colocar un objeto en la boca.",
       "opcion b": "Sujetar con fuerza las extremidades.",
       "opcion c": "Proteger la cabeza del paciente.",
@@ -338,7 +338,7 @@
     },
     {
       "id": 38,
-      "pregunta": "¿Cuál es el objetivo del aislamiento por contacto? Evitar transmisión por superficies o contacto directo. Proteger contra gotitas aéreas. Evitar transmisión hemática. Controlar enfermedades digestivas exclusivas.",
+      "pregunta": "¿Cuál es el objetivo del aislamiento por contacto?",
       "opcion a": "Evitar transmisión por superficies o contacto directo.",
       "opcion b": "Proteger contra gotitas aéreas.",
       "opcion c": "Evitar transmisión hemática.",
@@ -347,7 +347,7 @@
     },
     {
       "id": 39,
-      "pregunta": "¿Qué indica un pulso regular pero muy lento? Bradicardia. Taquicardia. Hipertensión. Fiebre.",
+      "pregunta": "¿Qué indica un pulso regular pero muy lento?",
       "opcion a": "Fiebre.",
       "opcion b": "Taquicardia.",
       "opcion c": "Hipertensión.",
@@ -356,7 +356,7 @@
     },
     {
       "id": 40,
-      "pregunta": "¿Cuál es la escala utilizada para evaluar dolor en adultos? EVA (Escala Visual Analógica). APGAR. Norton modificada. Glasgow.",
+      "pregunta": "¿Cuál es la escala utilizada para evaluar dolor en adultos?",
       "opcion a": "Norton modificada.",
       "opcion b": "APGAR.",
       "opcion c": "EVA (Escala Visual Analógica).",
@@ -365,7 +365,7 @@
     },
     {
       "id": 41,
-      "pregunta": "¿Qué medida se recomienda en un paciente con fiebre alta? Administrar antitérmicos según indicación médica. Cubrirlo con mantas gruesas. Suspender ingesta de líquidos. Forzarlo a realizar ejercicio.",
+      "pregunta": "¿Qué medida se recomienda en un paciente con fiebre alta?",
       "opcion a": "Administrar antitérmicos según indicación médica.",
       "opcion b": "Cubrirlo con mantas gruesas.",
       "opcion c": "Suspender ingesta de líquidos.",
@@ -374,7 +374,7 @@
     },
     {
       "id": 42,
-      "pregunta": "¿Qué puede causar la administración rápida de potasio EV? Arritmias fatales. Taquipnea sin riesgo. Estrechamiento pupilar. Dolor abdominal leve.",
+      "pregunta": "¿Qué puede causar la administración rápida de potasio EV?",
       "opcion a": "Dolor abdominal leve.",
       "opcion b": "Taquipnea sin riesgo.",
       "opcion c": "Estrechamiento pupilar.",
@@ -383,7 +383,7 @@
     },
     {
       "id": 43,
-      "pregunta": "¿Cuál es un signo temprano de insuficiencia respiratoria? Taquipnea. Bradipnea. Fiebre aislada. Reflejos exaltados.",
+      "pregunta": "¿Cuál es un signo temprano de insuficiencia respiratoria?",
       "opcion a": "Reflejos exaltados.",
       "opcion b": "Bradipnea.",
       "opcion c": "Fiebre aislada.",
@@ -392,7 +392,7 @@
     },
     {
       "id": 44,
-      "pregunta": "¿Qué indica un peso corporal que aumenta rápidamente en 48 h? Retención de líquidos. Aumento de masa muscular. Crecimiento óseo. Mejor absorción intestinal.",
+      "pregunta": "¿Qué indica un peso corporal que aumenta rápidamente en 48 h?",
       "opcion a": "Crecimiento óseo.",
       "opcion b": "Aumento de masa muscular.",
       "opcion c": "Retención de líquidos.",
@@ -401,7 +401,7 @@
     },
     {
       "id": 45,
-      "pregunta": "¿Qué práctica previene úlceras por presión? Cambios de posición cada 2 horas. Usar almohadas únicamente. Aumentar consumo de sal. Utilizar medias de compresión sin indicación.",
+      "pregunta": "¿Qué práctica previene úlceras por presión?",
       "opcion a": "Utilizar medias de compresión sin indicación.",
       "opcion b": "Usar almohadas únicamente.",
       "opcion c": "Aumentar consumo de sal.",
@@ -410,7 +410,7 @@
     },
     {
       "id": 46,
-      "pregunta": "¿Qué significa “PA 200/110”? Crisis hipertensiva. Normotensión. Hipotensión severa. Hipertensión leve.",
+      "pregunta": "¿Qué significa “PA 200/110”?",
       "opcion a": "Normotensión.",
       "opcion b": "Crisis hipertensiva.",
       "opcion c": "Hipotensión severa.",
@@ -419,7 +419,7 @@
     },
     {
       "id": 47,
-      "pregunta": "¿Qué recomienda enfermería ante dolor torácico súbito? Evaluar signos vitales y activar sistema de emergencias. Dar agua fría. Realizar masaje abdominal. Colocar al paciente en decúbito prono.",
+      "pregunta": "¿Qué recomienda enfermería ante dolor torácico súbito?",
       "opcion a": "Colocar al paciente en decúbito prono.",
       "opcion b": "Dar agua fría.",
       "opcion c": "Realizar masaje abdominal.",
@@ -428,7 +428,7 @@
     },
     {
       "id": 48,
-      "pregunta": "¿Qué indica un murmullo vesicular disminuido? Alteración de la ventilación pulmonar. Hambre. Hipoglucemia. Cansancio muscular.",
+      "pregunta": "¿Qué indica un murmullo vesicular disminuido?",
       "opcion a": "Cansancio muscular.",
       "opcion b": "Hambre.",
       "opcion c": "Hipoglucemia.",
@@ -437,7 +437,7 @@
     },
     {
       "id": 49,
-      "pregunta": "¿Qué debe hacerse ante una vía periférica que duele al pasar medicación? Suspender la administración y evaluar infiltración. Aumentar la velocidad del goteo. Colocar compresas calientes sin revisar. Continuar y avisar después.",
+      "pregunta": "¿Qué debe hacerse ante una vía periférica que duele al pasar medicación?",
       "opcion a": "Continuar y avisar después.",
       "opcion b": "Aumentar la velocidad del goteo.",
       "opcion c": "Colocar compresas calientes sin revisar.",
@@ -446,7 +446,7 @@
     },
     {
       "id": 50,
-      "pregunta": "¿Qué indica una diuresis menor a 0,5 ml/kg/h? Oliguria. Poliuria. Diuresis normal. Hematuria inevitable.",
+      "pregunta": "¿Qué indica una diuresis menor a 0,5 ml/kg/h?",
       "opcion a": "Poliuria.",
       "opcion b": "Oliguria.",
       "opcion c": "Diuresis normal.",
@@ -455,7 +455,7 @@
     },
     {
       "id": 51,
-      "pregunta": "¿Cuál es el objetivo del balance hídrico? Controlar ingresos y egresos de líquidos. Determinar tipo sanguíneo. Evaluar dolor. Medir presión venosa central.",
+      "pregunta": "¿Cuál es el objetivo del balance hídrico?",
       "opcion a": "Medir presión venosa central.",
       "opcion b": "Determinar tipo sanguíneo.",
       "opcion c": "Evaluar dolor.",
@@ -464,7 +464,7 @@
     },
     {
       "id": 52,
-      "pregunta": "¿Qué se administra ante hipoglucemia severa en paciente inconsciente? Glucosa EV. Jugo por boca. Café. Agua fría.",
+      "pregunta": "¿Qué se administra ante hipoglucemia severa en paciente inconsciente?",
       "opcion a": "Jugo por boca.",
       "opcion b": "Glucosa EV.",
       "opcion c": "Café.",
@@ -473,7 +473,7 @@
     },
     {
       "id": 53,
-      "pregunta": "¿Qué indica un aumento del perímetro abdominal en horas? Distensión abdominal o ascitis. Fortalecimiento muscular. Retención urinaria. Crecimiento rápido óseo.",
+      "pregunta": "¿Qué indica un aumento del perímetro abdominal en horas?",
       "opcion a": "Crecimiento rápido óseo.",
       "opcion b": "Fortalecimiento muscular.",
       "opcion c": "Retención urinaria.",
@@ -482,7 +482,7 @@
     },
     {
       "id": 54,
-      "pregunta": "¿Cuál es el sitio ideal para medir temperatura central? Rectal. Mano. Clavícula. Pierna inferior.",
+      "pregunta": "¿Cuál es el sitio ideal para medir temperatura central?",
       "opcion a": "Clavícula.",
       "opcion b": "Mano.",
       "opcion c": "Rectal.",
@@ -491,7 +491,7 @@
     },
     {
       "id": 55,
-      "pregunta": "¿Qué indica un exudado purulento en herida? Infección. Cicatrización acelerada. Regeneración dérmica. Proceso inflamatorio normal sin riesgo.",
+      "pregunta": "¿Qué indica un exudado purulento en herida?",
       "opcion a": "Regeneración dérmica.",
       "opcion b": "Cicatrización acelerada.",
       "opcion c": "Infección.",
@@ -500,7 +500,7 @@
     },
     {
       "id": 56,
-      "pregunta": "¿Qué valor de glucemia sugiere hipoglucemia? < 70 mg/dL. > 200 mg/dL. 100 mg/dL. 150 mg/dL.",
+      "pregunta": "¿Qué valor de glucemia sugiere hipoglucemia?",
       "opcion a": "< 70 mg/dL.",
       "opcion b": "> 200 mg/dL.",
       "opcion c": "100 mg/dL.",
@@ -509,7 +509,7 @@
     },
     {
       "id": 57,
-      "pregunta": "¿Qué hacer ante saturación menor a 90% en aire ambiente? Iniciar oxígeno suplementario. Suspender ingesta de líquidos. Dejar en observación sin intervención. Aplicar compresas tibias.",
+      "pregunta": "¿Qué hacer ante saturación menor a 90% en aire ambiente?",
       "opcion a": "Dejar en observación sin intervención.",
       "opcion b": "Suspender ingesta de líquidos.",
       "opcion c": "Iniciar oxígeno suplementario.",
@@ -518,7 +518,7 @@
     },
     {
       "id": 58,
-      "pregunta": "¿Qué evalúan las pupilas en el examen físico? Respuesta neurológica. Estado hepático. Función renal. Actividad pancreática.",
+      "pregunta": "¿Qué evalúan las pupilas en el examen físico?",
       "opcion a": "Función renal.",
       "opcion b": "Estado hepático.",
       "opcion c": "Respuesta neurológica.",
@@ -527,7 +527,7 @@
     },
     {
       "id": 59,
-      "pregunta": "¿Qué indica un abdomen rígido y doloroso? Abdomen agudo. Estreñimiento leve. Hambre. Flatulencias comunes.",
+      "pregunta": "¿Qué indica un abdomen rígido y doloroso?",
       "opcion a": "Estreñimiento leve.",
       "opcion b": "Abdomen agudo.",
       "opcion c": "Hambre.",
@@ -536,7 +536,7 @@
     },
     {
       "id": 60,
-      "pregunta": "¿Qué debe realizar enfermería ante vómitos persistentes? Evaluar hidratación y riesgo de desequilibrio electrolítico. Suspender líquidos totalmente. Administrar antiácidos sin indicación. Indicar reposo sin control.",
+      "pregunta": "¿Qué debe realizar enfermería ante vómitos persistentes?",
       "opcion a": "Indicar reposo sin control.",
       "opcion b": "Suspender líquidos totalmente.",
       "opcion c": "Administrar antiácidos sin indicación.",
@@ -545,7 +545,7 @@
     },
     {
       "id": 61,
-      "pregunta": "¿Qué indica una frecuencia cardíaca mayor a 120 lpm en adulto? Taquicardia. Bradicardia. Eupnea. Hipotermia.",
+      "pregunta": "¿Qué indica una frecuencia cardíaca mayor a 120 lpm en adulto?",
       "opcion a": "Bradicardia.",
       "opcion b": "Taquicardia.",
       "opcion c": "Eupnea.",
@@ -554,7 +554,7 @@
     },
     {
       "id": 62,
-      "pregunta": "¿Qué debe realizarse antes de administrar un antibiótico indicado por infección urinaria? Tomar muestra de orina para cultivo. Inducir al paciente a tomar líquidos en exceso. Administrar el antibiótico inmediatamente sin registro. Colocar sonda sin indicación.",
+      "pregunta": "¿Qué debe realizarse antes de administrar un antibiótico indicado por infección urinaria?",
       "opcion a": "Colocar sonda sin indicación.",
       "opcion b": "Inducir al paciente a tomar líquidos en exceso.",
       "opcion c": "Administrar el antibiótico inmediatamente sin registro.",
@@ -563,7 +563,7 @@
     },
     {
       "id": 63,
-      "pregunta": "¿Qué indica una respiración superficial y rápida? Taquipnea. Bradipnea. Respiración de Cheyne–Stokes. Apnea.",
+      "pregunta": "¿Qué indica una respiración superficial y rápida?",
       "opcion a": "Bradipnea.",
       "opcion b": "Taquipnea.",
       "opcion c": "Respiración de Cheyne–Stokes.",
@@ -572,7 +572,7 @@
     },
     {
       "id": 64,
-      "pregunta": "¿Qué acción previene infecciones durante la canalización de una vía periférica? Higiene de manos y técnica aséptica. No usar guantes. Colocar el catéter sin limpieza previa. Reutilizar jeringas limpias.",
+      "pregunta": "¿Qué acción previene infecciones durante la canalización de una vía periférica?",
       "opcion a": "Colocar el catéter sin limpieza previa.",
       "opcion b": "No usar guantes.",
       "opcion c": "Higiene de manos y técnica aséptica.",
@@ -581,7 +581,7 @@
     },
     {
       "id": 65,
-      "pregunta": "¿Cuál es el valor normal de temperatura corporal? 36.5–37.5 °C. 35.0 °C exactos. 38 °C siempre. 34 °C.",
+      "pregunta": "¿Cuál es el valor normal de temperatura corporal?",
       "opcion a": "38 °C siempre.",
       "opcion b": "35.0 °C exactos.",
       "opcion c": "36.5–37.5 °C.",
@@ -590,7 +590,7 @@
     },
     {
       "id": 66,
-      "pregunta": "¿Qué indica una piel caliente y seca en un paciente febril? Fase de infección con termorregulación alterada. Hipotermia. Hidratación normal. Baja exposición solar.",
+      "pregunta": "¿Qué indica una piel caliente y seca en un paciente febril?",
       "opcion a": "Hidratación normal.",
       "opcion b": "Hipotermia.",
       "opcion c": "Fase de infección con termorregulación alterada.",
@@ -599,7 +599,7 @@
     },
     {
       "id": 67,
-      "pregunta": "¿Qué parámetro es esencial en el control de un paciente diabético? Glucemia capilar. Saturación de oxígeno. Hemoglobina fetal. Grupo sanguíneo.",
+      "pregunta": "¿Qué parámetro es esencial en el control de un paciente diabético?",
       "opcion a": "Glucemia capilar.",
       "opcion b": "Saturación de oxígeno.",
       "opcion c": "Hemoglobina fetal.",
@@ -608,7 +608,7 @@
     },
     {
       "id": 68,
-      "pregunta": "¿Qué significa “disnea”? Dificultad para respirar. Dolor abdominal. Ritmo cardíaco irregular. Náuseas persistentes.",
+      "pregunta": "¿Qué significa “disnea”?",
       "opcion a": "Náuseas persistentes.",
       "opcion b": "Dolor abdominal.",
       "opcion c": "Ritmo cardíaco irregular.",
@@ -617,7 +617,7 @@
     },
     {
       "id": 69,
-      "pregunta": "¿Cuál es la medida inicial ante hemorragia externa importante? Compresión directa. Colocar hielo únicamente. Administrar líquidos antes de detener el sangrado. Retirar coágulos para “limpiar”.",
+      "pregunta": "¿Cuál es la medida inicial ante hemorragia externa importante?",
       "opcion a": "Compresión directa.",
       "opcion b": "Colocar hielo únicamente.",
       "opcion c": "Administrar líquidos antes de detener el sangrado.",
@@ -626,7 +626,7 @@
     },
     {
       "id": 70,
-      "pregunta": "¿Qué indica una saturación del 85%? Hipoxemia grave. Saturación normal. Estado febril. Hipertensión leve.",
+      "pregunta": "¿Qué indica una saturación del 85%?",
       "opcion a": "Hipertensión leve.",
       "opcion b": "Saturación normal.",
       "opcion c": "Estado febril.",
@@ -635,7 +635,7 @@
     },
     {
       "id": 71,
-      "pregunta": "¿Qué posición favorece el retorno venoso? Trendelemburg. Fowler. Sedestación. Decúbito ventral.",
+      "pregunta": "¿Qué posición favorece el retorno venoso?",
       "opcion a": "Decúbito ventral.",
       "opcion b": "Fowler.",
       "opcion c": "Sedestación.",
@@ -644,7 +644,7 @@
     },
     {
       "id": 72,
-      "pregunta": "¿Qué tipo de vía se utiliza habitualmente para hidratación rápida? Vía intravenosa periférica. Vía tópica. Vía oral estricta. Vía intradérmica.",
+      "pregunta": "¿Qué tipo de vía se utiliza habitualmente para hidratación rápida?",
       "opcion a": "Vía tópica.",
       "opcion b": "Vía intravenosa periférica.",
       "opcion c": "Vía oral estricta.",
@@ -653,7 +653,7 @@
     },
     {
       "id": 73,
-      "pregunta": "¿Qué indica un abdomen distendido y timpánico? Distensión gaseosa. Hipoglucemia. Aumento muscular. Hidratación excesiva.",
+      "pregunta": "¿Qué indica un abdomen distendido y timpánico?",
       "opcion a": "Hidratación excesiva.",
       "opcion b": "Hipoglucemia.",
       "opcion c": "Aumento muscular.",
@@ -662,7 +662,7 @@
     },
     {
       "id": 74,
-      "pregunta": "¿Qué es una ulcera por presión estadio II? Pérdida parcial del grosor de la piel. Pérdida total con exposición ósea. Eritema no blanqueable únicamente. Herida seca sin lesión tisular.",
+      "pregunta": "¿Qué es una ulcera por presión estadio II?",
       "opcion a": "Pérdida total con exposición ósea.",
       "opcion b": "Pérdida parcial del grosor de la piel.",
       "opcion c": "Eritema no blanqueable únicamente.",
@@ -671,7 +671,7 @@
     },
     {
       "id": 75,
-      "pregunta": "¿Qué acción previene broncoaspiración en paciente con disfagia? Elevar cabecera de la cama. Dar líquidos muy fríos. Mantener en decúbito supino. Indicar ayuno sin evaluación.",
+      "pregunta": "¿Qué acción previene broncoaspiración en paciente con disfagia?",
       "opcion a": "Elevar cabecera de la cama.",
       "opcion b": "Dar líquidos muy fríos.",
       "opcion c": "Mantener en decúbito supino.",
@@ -680,7 +680,7 @@
     },
     {
       "id": 76,
-      "pregunta": "¿Qué parámetro indica deshidratación moderada? Mucosas secas. Diuresis abundante. Temperatura baja. Piel caliente.",
+      "pregunta": "¿Qué parámetro indica deshidratación moderada?",
       "opcion a": "Diuresis abundante.",
       "opcion b": "Mucosas secas.",
       "opcion c": "Temperatura baja.",
@@ -689,7 +689,7 @@
     },
     {
       "id": 77,
-      "pregunta": "¿Qué indica un registro de PA con diferencia marcada entre brazos? Posible problema vascular. Medición correcta. Ansiedad únicamente. Fiebre.",
+      "pregunta": "¿Qué indica un registro de PA con diferencia marcada entre brazos?",
       "opcion a": "Medición correcta.",
       "opcion b": "Posible problema vascular.",
       "opcion c": "Ansiedad únicamente.",
@@ -698,7 +698,7 @@
     },
     {
       "id": 78,
-      "pregunta": "¿Cuál es el objetivo del oxígeno por cánula nasal? Aumentar aporte de O₂ en hipoxemia leve a moderada. Tratar dolor torácico. Reducir temperatura. Aumentar frecuencia cardíaca.",
+      "pregunta": "¿Cuál es el objetivo del oxígeno por cánula nasal?",
       "opcion a": "Tratar dolor torácico.",
       "opcion b": "Aumentar aporte de O₂ en hipoxemia leve a moderada.",
       "opcion c": "Reducir temperatura.",
@@ -707,7 +707,7 @@
     },
     {
       "id": 79,
-      "pregunta": "¿Cuál es el mejor indicador de perfusión cerebral? Nivel de conciencia. Diuresis. Frecuencia respiratoria. Temperatura corporal.",
+      "pregunta": "¿Cuál es el mejor indicador de perfusión cerebral?",
       "opcion a": "Diuresis.",
       "opcion b": "Nivel de conciencia.",
       "opcion c": "Frecuencia respiratoria.",
@@ -716,7 +716,7 @@
     },
     {
       "id": 80,
-      "pregunta": "¿Qué indica un paciente con FR 32 rpm? Taquipnea. Bradipnea. Eupnea. Respiración profunda normal.",
+      "pregunta": "¿Qué indica un paciente con FR 32 rpm?",
       "opcion a": "Taquipnea.",
       "opcion b": "Bradipnea.",
       "opcion c": "Eupnea.",
@@ -725,7 +725,7 @@
     },
     {
       "id": 81,
-      "pregunta": "¿Qué complicación puede causar una sonda nasogástrica mal colocada? Aspiración pulmonar. Hipertensión. Hiperglucemia. Insomnio.",
+      "pregunta": "¿Qué complicación puede causar una sonda nasogástrica mal colocada?",
       "opcion a": "Insomnio.",
       "opcion b": "Hipertensión.",
       "opcion c": "Hiperglucemia.",
@@ -734,7 +734,7 @@
     },
     {
       "id": 82,
-      "pregunta": "¿Qué indica un hematoma progresivo en zona de punción? Extravasación. Hidratación correcta. Perfusión adecuada. Reacción alérgica.",
+      "pregunta": "¿Qué indica un hematoma progresivo en zona de punción?",
       "opcion a": "Hidratación correcta.",
       "opcion b": "Extravasación.",
       "opcion c": "Perfusión adecuada.",
@@ -743,7 +743,7 @@
     },
     {
       "id": 83,
-      "pregunta": "¿Cuál es el objetivo del aislamiento respiratorio? Evitar propagación de microorganismos por aerosol. Evitar transmisión por contacto con sangre. Prevenir deshidratación. Reducir exposición al sol.",
+      "pregunta": "¿Cuál es el objetivo del aislamiento respiratorio?",
       "opcion a": "Evitar propagación de microorganismos por aerosol.",
       "opcion b": "Evitar transmisión por contacto con sangre.",
       "opcion c": "Prevenir deshidratación.",
@@ -752,7 +752,7 @@
     },
     {
       "id": 84,
-      "pregunta": "¿Qué indica una presión arterial de 90/60 en un adulto delgado? Puede ser normal para el paciente si no hay síntomas. Siempre indica shock. Es hipertensión leve. Indica falta de hierro.",
+      "pregunta": "¿Qué indica una presión arterial de 90/60 en un adulto delgado?",
       "opcion a": "Es hipertensión leve.",
       "opcion b": "Siempre indica shock.",
       "opcion c": "Puede ser normal para el paciente si no hay síntomas.",
@@ -761,7 +761,7 @@
     },
     {
       "id": 85,
-      "pregunta": "¿Qué se debe hacer ante un paciente que refiere dolor torácico irradiado al brazo? Activar protocolo de dolor torácico. Administrar agua. Indicar descanso sin evaluación. Enviar a domicilio.",
+      "pregunta": "¿Qué se debe hacer ante un paciente que refiere dolor torácico irradiado al brazo?",
       "opcion a": "Indicar descanso sin evaluación.",
       "opcion b": "Administrar agua.",
       "opcion c": "Activar protocolo de dolor torácico.",
@@ -770,7 +770,7 @@
     },
     {
       "id": 86,
-      "pregunta": "¿Qué es un balance hídrico positivo? Ingresos de líquidos mayores que egresos. Pérdida de líquidos excesiva. Ingesta nula. Estado de deshidratación.",
+      "pregunta": "¿Qué es un balance hídrico positivo?",
       "opcion a": "Ingesta nula.",
       "opcion b": "Pérdida de líquidos excesiva.",
       "opcion c": "Ingresos de líquidos mayores que egresos.",
@@ -779,7 +779,7 @@
     },
     {
       "id": 87,
-      "pregunta": "¿Qué indica “piel de gallina” en un paciente febril? Escalofríos y fase inicial de fiebre. Deshidratación severa. Sudoración excesiva. Hiperglucemia.",
+      "pregunta": "¿Qué indica “piel de gallina” en un paciente febril?",
       "opcion a": "Deshidratación severa.",
       "opcion b": "Escalofríos y fase inicial de fiebre.",
       "opcion c": "Sudoración excesiva.",
@@ -788,7 +788,7 @@
     },
     {
       "id": 88,
-      "pregunta": "¿Qué valor de Glasgow requiere atención inmediata? ≤ 8. 15. 12. 14.",
+      "pregunta": "¿Qué valor de Glasgow requiere atención inmediata?",
       "opcion a": "≤ 8.",
       "opcion b": "15.",
       "opcion c": "12.",
@@ -797,7 +797,7 @@
     },
     {
       "id": 89,
-      "pregunta": "¿Cuál es el riesgo principal en un paciente con vómitos y diarrea? Deshidratación. Hipervitaminosis. Broncoespasmo. Hipertermia.",
+      "pregunta": "¿Cuál es el riesgo principal en un paciente con vómitos y diarrea?",
       "opcion a": "Broncoespasmo.",
       "opcion b": "Hipervitaminosis.",
       "opcion c": "Deshidratación.",
@@ -806,7 +806,7 @@
     },
     {
       "id": 90,
-      "pregunta": "¿Qué sugiere una frecuencia cardíaca de 45 lpm? Bradicardia. Taquicardia. Ansiedad. Hiperglucemia.",
+      "pregunta": "¿Qué sugiere una frecuencia cardíaca de 45 lpm?",
       "opcion a": "Hiperglucemia.",
       "opcion b": "Taquicardia.",
       "opcion c": "Ansiedad.",
@@ -815,7 +815,7 @@
     },
     {
       "id": 91,
-      "pregunta": "¿Qué indica la presencia de petequias? Alteración de la coagulación. Deshidratación. Alergia leve. Irritación por roce.",
+      "pregunta": "¿Qué indica la presencia de petequias?",
       "opcion a": "Alteración de la coagulación.",
       "opcion b": "Deshidratación.",
       "opcion c": "Alergia leve.",
@@ -824,7 +824,7 @@
     },
     {
       "id": 92,
-      "pregunta": "¿Cuál es el principal riesgo de un nivel de sodio muy bajo? Convulsiones. Hipotermia. Diarrea. Hiperhidratación.",
+      "pregunta": "¿Cuál es el principal riesgo de un nivel de sodio muy bajo?",
       "opcion a": "Hiperhidratación.",
       "opcion b": "Hipotermia.",
       "opcion c": "Diarrea.",
@@ -833,7 +833,7 @@
     },
     {
       "id": 93,
-      "pregunta": "¿Qué indica polidipsia en un paciente? Posible diabetes descompensada. Baja frecuencia cardíaca. Taquipnea. Déficit vitamínico.",
+      "pregunta": "¿Qué indica polidipsia en un paciente?",
       "opcion a": "Posible diabetes descompensada.",
       "opcion b": "Baja frecuencia cardíaca.",
       "opcion c": "Taquipnea.",
@@ -842,7 +842,7 @@
     },
     {
       "id": 94,
-      "pregunta": "¿Qué hacer ante signos de anafilaxia? Administrar adrenalina IM. Dar agua fría. Colocar compresas. Indicar reposo sin medicación.",
+      "pregunta": "¿Qué hacer ante signos de anafilaxia?",
       "opcion a": "Dar agua fría.",
       "opcion b": "Administrar adrenalina IM.",
       "opcion c": "Colocar compresas.",
@@ -851,7 +851,7 @@
     },
     {
       "id": 95,
-      "pregunta": "¿Qué indica hipoventilación? Producción insuficiente de ventilación alveolar. Aumento exagerado de FR. Hidratación excesiva. Trastorno digestivo.",
+      "pregunta": "¿Qué indica hipoventilación?",
       "opcion a": "Trastorno digestivo.",
       "opcion b": "Aumento exagerado de FR.",
       "opcion c": "Hidratación excesiva.",
@@ -860,7 +860,7 @@
     },
     {
       "id": 96,
-      "pregunta": "¿Qué se recomienda en un paciente con riesgo de broncoaspiración? Mantener cabecera elevada. Administrar alimentos líquidos rápidamente. Mantenerlo recostado boca abajo. Hacerlo hablar mucho durante comidas.",
+      "pregunta": "¿Qué se recomienda en un paciente con riesgo de broncoaspiración?",
       "opcion a": "Mantener cabecera elevada.",
       "opcion b": "Administrar alimentos líquidos rápidamente.",
       "opcion c": "Mantenerlo recostado boca abajo.",
@@ -869,7 +869,7 @@
     },
     {
       "id": 97,
-      "pregunta": "¿Qué indica un llenado capilar menor a 2 segundos? Buena perfusión. Shock. Hipoxia. Insuficiencia cardíaca.",
+      "pregunta": "¿Qué indica un llenado capilar menor a 2 segundos?",
       "opcion a": "Shock.",
       "opcion b": "Buena perfusión.",
       "opcion c": "Hipoxia.",
@@ -878,7 +878,7 @@
     },
     {
       "id": 98,
-      "pregunta": "¿Qué es la taquicardia supraventricular? Ritmo cardíaco acelerado originado sobre los ventrículos. Pausa respiratoria prolongada. Alteración renal. Movimientos involuntarios.",
+      "pregunta": "¿Qué es la taquicardia supraventricular?",
       "opcion a": "Ritmo cardíaco acelerado originado sobre los ventrículos.",
       "opcion b": "Pausa respiratoria prolongada.",
       "opcion c": "Alteración renal.",
@@ -887,7 +887,7 @@
     },
     {
       "id": 99,
-      "pregunta": "¿Qué indica cianosis periférica? Baja oxigenación en extremidades. Hiperhidratación. Aumento de masa muscular. Digestión lenta.",
+      "pregunta": "¿Qué indica cianosis periférica?",
       "opcion a": "Baja oxigenación en extremidades.",
       "opcion b": "Hiperhidratación.",
       "opcion c": "Aumento de masa muscular.",
@@ -896,7 +896,7 @@
     },
     {
       "id": 100,
-      "pregunta": "¿Cuál es la intervención prioritaria ante un paro cardiorrespiratorio? Iniciar RCP de alta calidad inmediatamente. Buscar historia clínica del paciente. Trasladarlo antes de comenzar maniobras. Intentar despertarlo durante varios minutos.",
+      "pregunta": "¿Cuál es la intervención prioritaria ante un paro cardiorrespiratorio?",
       "opcion a": "Intentar despertarlo durante varios minutos.",
       "opcion b": "Buscar historia clínica del paciente.",
       "opcion c": "Trasladarlo antes de comenzar maniobras.",

@@ -5,7 +5,7 @@
   "preguntas": [
     {
       "id": 1,
-      "pregunta": "¿Cuál es el primer paso en el proceso de enfermería? Valoración. Evaluación. Intervención. Diagnóstico final.",
+      "pregunta": "¿Cuál es el primer paso en el proceso de enfermería?",
       "opcion a": "Evaluación.",
       "opcion b": "Valoración.",
       "opcion c": "Intervención.",
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "pregunta": "¿Cuál es la temperatura corporal que define fiebre en adultos? ≥ 38 °C. ≥ 36.9 °C. ≥ 37.2 °C. ≥ 37.5 °C al tacto.",
+      "pregunta": "¿Cuál es la temperatura corporal que define fiebre en adultos?",
       "opcion a": "≥ 37.2 °C.",
       "opcion b": "≥ 36.9 °C.",
       "opcion c": "≥ 38 °C.",
@@ -23,7 +23,7 @@
     },
     {
       "id": 3,
-      "pregunta": "¿Qué elemento es indispensable para garantizar una técnica estéril? Lavado de manos quirúrgico. Uso de guantes no estériles. Colocación de barbijo solamente. Rociado de alcohol en el aire.",
+      "pregunta": "¿Qué elemento es indispensable para garantizar una técnica estéril?",
       "opcion a": "Lavado de manos quirúrgico.",
       "opcion b": "Uso de guantes no estériles.",
       "opcion c": "Colocación de barbijo solamente.",
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "pregunta": "¿Qué músculo es el sitio recomendado para la aplicación de inyecciones intramusculares en menores de 2 años? Vasto externo. Deltoides. Glúteo mayor. Trapecio.",
+      "pregunta": "¿Qué músculo es el sitio recomendado para la aplicación de inyecciones intramusculares en menores de 2 años?",
       "opcion a": "Glúteo mayor.",
       "opcion b": "Deltoides.",
       "opcion c": "Vasto externo.",
@@ -41,7 +41,7 @@
     },
     {
       "id": 5,
-      "pregunta": "¿Qué indica una saturación de oxígeno menor al 90%? Hipoxemia. Hipotermia. Hipertensión pulmonar. Falla renal.",
+      "pregunta": "¿Qué indica una saturación de oxígeno menor al 90%?",
       "opcion a": "Hipoxemia.",
       "opcion b": "Hipotermia.",
       "opcion c": "Hipertensión pulmonar.",
@@ -50,7 +50,7 @@
     },
     {
       "id": 6,
-      "pregunta": "¿Cuál es la vía más rápida para la administración de medicamentos? Vía intravenosa. Vía sublingual. Vía intradérmica. Vía tópica.",
+      "pregunta": "¿Cuál es la vía más rápida para la administración de medicamentos?",
       "opcion a": "Vía intravenosa.",
       "opcion b": "Vía sublingual.",
       "opcion c": "Vía intradérmica.",
@@ -59,7 +59,7 @@
     },
     {
       "id": 7,
-      "pregunta": "¿Cuál es la posición recomendada ante un paciente inconsciente con respiración conservada? Posición lateral de seguridad. Trendelemburg. Fowler alto. Decúbito ventral.",
+      "pregunta": "¿Cuál es la posición recomendada ante un paciente inconsciente con respiración conservada?",
       "opcion a": "Posición lateral de seguridad.",
       "opcion b": "Trendelemburg.",
       "opcion c": "Fowler alto.",
@@ -68,7 +68,7 @@
     },
     {
       "id": 8,
-      "pregunta": "¿Qué órgano regula principalmente el equilibrio ácido-base? Riñones. Estómago. Hígado. Bazo.",
+      "pregunta": "¿Qué órgano regula principalmente el equilibrio ácido-base?",
       "opcion a": "Hígado.",
       "opcion b": "Estómago.",
       "opcion c": "Riñones.",
@@ -77,7 +77,7 @@
     },
     {
       "id": 9,
-      "pregunta": "¿Cuál es la presión arterial considerada normal en adultos? 120/80 mmHg. 140/100 mmHg. 90/50 mmHg. 160/110 mmHg.",
+      "pregunta": "¿Cuál es la presión arterial considerada normal en adultos?",
       "opcion a": "140/100 mmHg.",
       "opcion b": "120/80 mmHg.",
       "opcion c": "90/50 mmHg.",
@@ -86,7 +86,7 @@
     },
     {
       "id": 10,
-      "pregunta": "¿Cuál es el objetivo principal del triage? Priorizar la atención según gravedad. Ordenar por orden de llegada. Clasificar por edad. Seleccionar quién será internado.",
+      "pregunta": "¿Cuál es el objetivo principal del triage?",
       "opcion a": "Priorizar la atención según gravedad.",
       "opcion b": "Ordenar por orden de llegada.",
       "opcion c": "Clasificar por edad.",
@@ -95,7 +95,7 @@
     },
     {
       "id": 11,
-      "pregunta": "¿Qué se recomienda realizar para la interpretación y uso de las nuevas tablas de referencia de presión arterial para niños, niñas y adolescentes, si no se dispone del mango apropiado para la toma? Utilizar un mango más grande. Utilizar el mango más pequeño disponible. Tomar la presión sin manguito. Inflar el manguito a la mitad para compensar.",
+      "pregunta": "¿Qué se recomienda realizar para la interpretación y uso de las nuevas tablas de referencia de presión arterial para niños, niñas y adolescentes, si no se dispone del mango apropiado para la toma?",
       "opcion a": "Inflar el manguito a la mitad para compensar.",
       "opcion b": "Utilizar el mango más pequeño disponible.",
       "opcion c": "Tomar la presión sin manguito.",
@@ -104,7 +104,7 @@
     },
     {
       "id": 12,
-      "pregunta": "¿Qué derechos tiene la persona gestante durante el trabajo de parto, parto y puerperio en cuanto a la persona acompañante? Puede elegir a la persona que la acompañe todo el tiempo en esos procesos. Solo puede elegir un familiar de primer grado. Puede elegir acompañante pero solo durante el trabajo de parto. Debe ser acompañado únicamente por personal sanitario.",
+      "pregunta": "¿Qué derechos tiene la persona gestante durante el trabajo de parto, parto y puerperio en cuanto a la persona acompañante?",
       "opcion a": "Debe ser acompañado únicamente por personal sanitario.",
       "opcion b": "Solo puede elegir un familiar de primer grado.",
       "opcion c": "Puede elegir acompañante pero solo durante el trabajo de parto.",
@@ -113,7 +113,7 @@
     },
     {
       "id": 13,
-      "pregunta": "¿Cuáles son los niveles de ansiedad que definió Peplau (1963)? Leve, moderada, grave y pánico. Leve, intensa, profunda y terminal. Baja, media, aguda y extrema. Primaria, secundaria, intermedia y severa.",
+      "pregunta": "¿Cuáles son los niveles de ansiedad que definió Peplau (1963)?",
       "opcion a": "Leve, moderada, grave y pánico.",
       "opcion b": "Leve, intensa, profunda y terminal.",
       "opcion c": "Baja, media, aguda y extrema.",
@@ -122,7 +122,7 @@
     },
     {
       "id": 14,
-      "pregunta": "¿Qué elementos contempla la Enfermería basada en la evidencia (EBE)? Evidencia científica, experiencia profesional y la opinión del usuario. Protocolos institucionales, normas y supervisiones. Diagnóstico, tratamiento y rehabilitación. Evaluación, auditoría y reporte profesional.",
+      "pregunta": "¿Qué elementos contempla la Enfermería basada en la evidencia (EBE)?",
       "opcion a": "Diagnóstico, tratamiento y rehabilitación.",
       "opcion b": "Protocolos institucionales, normas y supervisiones.",
       "opcion c": "Evidencia científica, experiencia profesional y la opinión del usuario.",
@@ -131,7 +131,7 @@
     },
     {
       "id": 15,
-      "pregunta": "¿A qué edad comienzan a manifestarse las caries? Antes del año. Entre los 2 y 3 años. A partir de los 5 años. Solo cuando salen las muelas definitivas.",
+      "pregunta": "¿A qué edad comienzan a manifestarse las caries?",
       "opcion a": "A partir de los 5 años.",
       "opcion b": "Entre los 2 y 3 años.",
       "opcion c": "Antes del año.",
@@ -158,7 +158,7 @@
     },
     {
       "id": 18,
-      "pregunta": "¿Qué hacer si se inicia RCP y el DEA tarda más de 10 min? Continuar realizando RCP hasta conseguir un DEA. Detener la RCP a los 10 minutos. Cambiar a ventilaciones únicamente. Administrar agua y esperar asistencia.",
+      "pregunta": "¿Qué hacer si se inicia RCP y el DEA tarda más de 10 min?",
       "opcion a": "Cambiar a ventilaciones únicamente.",
       "opcion b": "Detener la RCP a los 10 minutos.",
       "opcion c": "Continuar realizando RCP hasta conseguir un DEA.",
@@ -176,7 +176,7 @@
     },
     {
       "id": 20,
-      "pregunta": "¿Quiénes llevan a cabo la farmacodinamia? Células, tejidos u organismos. Sustancias ácidas y bacterias. Enzimas, hormonas y parásitos. Vitaminas, minerales y electrolitos.",
+      "pregunta": "¿Quiénes llevan a cabo la farmacodinamia?",
       "opcion a": "Vitaminas, minerales y electrolitos.",
       "opcion b": "Sustancias ácidas y bacterias.",
       "opcion c": "Enzimas, hormonas y parásitos.",
@@ -185,7 +185,7 @@
     },
     {
       "id": 21,
-      "pregunta": "¿Qué es la desinfección? Proceso físico o químico donde se eliminan microorganismos de objetos inanimados. Eliminación de suciedad visible. Uso de calor seco únicamente. Eliminación de todo microorganismo incluido esporas.",
+      "pregunta": "¿Qué es la desinfección?",
       "opcion a": "Proceso físico o químico donde se eliminan microorganismos de objetos inanimados.",
       "opcion b": "Eliminación de suciedad visible.",
       "opcion c": "Uso de calor seco únicamente.",
@@ -356,7 +356,7 @@
     },
     {
       "id": 40,
-      "pregunta": "¿Qué es la “primera hora de vida”? Adaptación neonatal al medio extrauterino e inicio de lactancia. Tiempo previo al baño del recién nacido. Momento entre alumbramiento y control materno. Periodo entre piel a piel y alta hospitalaria.",
+      "pregunta": "¿Qué es la “primera hora de vida”?",
       "opcion a": "Periodo entre piel a piel y alta hospitalaria.",
       "opcion b": "Tiempo previo al baño del recién nacido.",
       "opcion c": "Momento entre alumbramiento y control materno.",
@@ -383,7 +383,7 @@
     },
     {
       "id": 43,
-      "pregunta": "(Inventada para mantener continuidad) ¿Qué representa el pulso pedio? Perfusión arterial distal. Presión venosa central. Flujo linfático superficial. Oxigenación pulmonar.",
+      "pregunta": "(Inventada para mantener continuidad) ¿Qué representa el pulso pedio?",
       "opcion a": "Perfusión arterial distal.",
       "opcion b": "Presión venosa central.",
       "opcion c": "Flujo linfático superficial.",
@@ -392,7 +392,7 @@
     },
     {
       "id": 44,
-      "pregunta": "(Inventada) ¿Qué significa el término \"asepsia\"? Ausencia de microorganismos patógenos. Eliminación total de esporas. Limpieza de superficies visiblemente sucias. Reducción de agentes químicos.",
+      "pregunta": "(Inventada) ¿Qué significa el término \"asepsia\"?",
       "opcion a": "Limpieza de superficies visiblemente sucias.",
       "opcion b": "Eliminación total de esporas.",
       "opcion c": "Ausencia de microorganismos patógenos.",
@@ -401,7 +401,7 @@
     },
     {
       "id": 45,
-      "pregunta": "(Inventada) ¿Qué indica un GCS (Glasgow) de 8? Coma. Somnolencia leve. Estado de alerta. Confusión leve.",
+      "pregunta": "(Inventada) ¿Qué indica un GCS (Glasgow) de 8?",
       "opcion a": "Somnolencia leve.",
       "opcion b": "Coma.",
       "opcion c": "Estado de alerta.",
@@ -410,7 +410,7 @@
     },
     {
       "id": 46,
-      "pregunta": "(Inventada) ¿Cuál es el mejor sitio para medir temperatura axilar? Zona central de la axila con brazo aducido. Sobre la ropa. Sobre la clavícula. En la palma de la mano.",
+      "pregunta": "(Inventada) ¿Cuál es el mejor sitio para medir temperatura axilar?",
       "opcion a": "Sobre la ropa.",
       "opcion b": "Zona central de la axila con brazo aducido.",
       "opcion c": "Sobre la clavícula.",
@@ -419,7 +419,7 @@
     },
     {
       "id": 47,
-      "pregunta": "(Inventada) ¿Qué parámetro indica deshidratación moderada? Llenado capilar > 2 segundos. Sudoración excesiva. Pulso lleno y fuerte. Ruidos intestinales aumentados.",
+      "pregunta": "(Inventada) ¿Qué parámetro indica deshidratación moderada?",
       "opcion a": "Pulso lleno y fuerte.",
       "opcion b": "Sudoración excesiva.",
       "opcion c": "Llenado capilar > 2 segundos.",
@@ -428,7 +428,7 @@
     },
     {
       "id": 48,
-      "pregunta": "(Inventada) ¿Qué vía se recomienda para administración de adrenalina en anafilaxia? Intramuscular. Subcutánea. Intradérmica. Tópica.",
+      "pregunta": "(Inventada) ¿Qué vía se recomienda para administración de adrenalina en anafilaxia?",
       "opcion a": "Tópica.",
       "opcion b": "Subcutánea.",
       "opcion c": "Intradérmica.",
@@ -437,7 +437,7 @@
     },
     {
       "id": 49,
-      "pregunta": "(Inventada) ¿Cuál es un signo temprano de sepsis? Taquicardia. Bradicardia. Piel fría marmórea inicial. Hipotermia marcada de entrada.",
+      "pregunta": "(Inventada) ¿Cuál es un signo temprano de sepsis?",
       "opcion a": "Hipotermia marcada de entrada.",
       "opcion b": "Bradicardia.",
       "opcion c": "Piel fría marmórea inicial.",
@@ -446,7 +446,7 @@
     },
     {
       "id": 50,
-      "pregunta": "(Inventada) ¿Qué indica un FR > 30 en adulto? Taquipnea. Bradipnea. Eupnea. Apenustia.",
+      "pregunta": "(Inventada) ¿Qué indica un FR > 30 en adulto?",
       "opcion a": "Bradipnea.",
       "opcion b": "Taquipnea.",
       "opcion c": "Eupnea.",
@@ -455,7 +455,7 @@
     },
     {
       "id": 51,
-      "pregunta": "(Inventada) ¿Qué elemento es fundamental en la técnica de RCP de calidad? Permitir la expansión completa del tórax entre compresiones. Pausar compresiones para descansar cada 20 segundos. Comprimir rápido sin ritmo definido. Ventilar más de 20 veces por minuto.",
+      "pregunta": "(Inventada) ¿Qué elemento es fundamental en la técnica de RCP de calidad?",
       "opcion a": "Pausar compresiones para descansar cada 20 segundos.",
       "opcion b": "Permitir la expansión completa del tórax entre compresiones.",
       "opcion c": "Comprimir rápido sin ritmo definido.",
@@ -464,7 +464,7 @@
     },
     {
       "id": 52,
-      "pregunta": "(Inventada) ¿Cuándo se debe lavar las manos según OMS? Antes y después del contacto con el paciente. Únicamente al final del turno. Solo cuando haya suciedad visible. Solo antes de procedimientos invasivos.",
+      "pregunta": "(Inventada) ¿Cuándo se debe lavar las manos según OMS?",
       "opcion a": "Solo cuando haya suciedad visible.",
       "opcion b": "Únicamente al final del turno.",
       "opcion c": "Antes y después del contacto con el paciente.",
@@ -473,7 +473,7 @@
     },
     {
       "id": 53,
-      "pregunta": "(Inventada) ¿Cuál es el valor normal de frecuencia cardíaca en adulto? 60–100 lpm. 20–40 lpm. 110–150 lpm. 40–55 lpm.",
+      "pregunta": "(Inventada) ¿Cuál es el valor normal de frecuencia cardíaca en adulto?",
       "opcion a": "20–40 lpm.",
       "opcion b": "60–100 lpm.",
       "opcion c": "110–150 lpm.",
@@ -482,7 +482,7 @@
     },
     {
       "id": 54,
-      "pregunta": "(Inventada) ¿Cuál es la vía recomendada para hidratación en deshidratación leve? Vía oral. Intradérmica. Intratecal. Subcutánea.",
+      "pregunta": "(Inventada) ¿Cuál es la vía recomendada para hidratación en deshidratación leve?",
       "opcion a": "Intradérmica.",
       "opcion b": "Vía oral.",
       "opcion c": "Intratecal.",
@@ -491,7 +491,7 @@
     },
     {
       "id": 55,
-      "pregunta": "(Inventada) ¿Qué indica piel pálida y fría? Hipoperfusión. Fiebre. Hiperhidratación. Broncoespasmo.",
+      "pregunta": "(Inventada) ¿Qué indica piel pálida y fría?",
       "opcion a": "Broncoespasmo.",
       "opcion b": "Fiebre.",
       "opcion c": "Hiperhidratación.",
@@ -509,7 +509,7 @@
     },
     {
       "id": 57,
-      "pregunta": "(Inventada) ¿Cuál es el riesgo principal del reposo prolongado? Tromboembolismo venoso. Hipertiroidismo. Hiperhidratación. Hipoglucemia.",
+      "pregunta": "(Inventada) ¿Cuál es el riesgo principal del reposo prolongado?",
       "opcion a": "Hipertiroidismo.",
       "opcion b": "Tromboembolismo venoso.",
       "opcion c": "Hiperhidratación.",
@@ -518,7 +518,7 @@
     },
     {
       "id": 58,
-      "pregunta": "(Inventada) ¿Cuál es el nivel de conciencia más bajo? Coma. Desorientación. Letargo. Confusión.",
+      "pregunta": "(Inventada) ¿Cuál es el nivel de conciencia más bajo?",
       "opcion a": "Coma.",
       "opcion b": "Desorientación.",
       "opcion c": "Letargo.",
@@ -527,7 +527,7 @@
     },
     {
       "id": 59,
-      "pregunta": "(Inventada) ¿Qué acción es prioritaria en una hipoglucemia severa? Administrar glucosa EV. Ofrecer alimentos sólidos. Indicar reposo. Administrar suero fisiológico.",
+      "pregunta": "(Inventada) ¿Qué acción es prioritaria en una hipoglucemia severa?",
       "opcion a": "Ofrecer alimentos sólidos.",
       "opcion b": "Administrar glucosa EV.",
       "opcion c": "Indicar reposo.",
@@ -536,7 +536,7 @@
     },
     {
       "id": 60,
-      "pregunta": "(Inventada) ¿Qué examen confirma anemia? Hemoglobina baja. Plaquetas altas. Sodio elevado. Leucocitosis aislada.",
+      "pregunta": "(Inventada) ¿Qué examen confirma anemia?",
       "opcion a": "Leucocitosis aislada.",
       "opcion b": "Plaquetas altas.",
       "opcion c": "Sodio elevado.",
@@ -545,7 +545,7 @@
     },
     {
       "id": 61,
-      "pregunta": "(Inventada) ¿Qué posición facilita la respiración en disnea? Fowler. Decúbito prono. Trendelemburg. Rodillas al pecho.",
+      "pregunta": "(Inventada) ¿Qué posición facilita la respiración en disnea?",
       "opcion a": "Decúbito prono.",
       "opcion b": "Fowler.",
       "opcion c": "Trendelemburg.",
@@ -554,7 +554,7 @@
     },
     {
       "id": 62,
-      "pregunta": "(Inventada) ¿Qué indica una presión diferencial muy baja? Shock. Fiebre. Hiperkalemia. Hipotiroidismo.",
+      "pregunta": "(Inventada) ¿Qué indica una presión diferencial muy baja?",
       "opcion a": "Hipotiroidismo.",
       "opcion b": "Fiebre.",
       "opcion c": "Hiperkalemia.",
@@ -563,7 +563,7 @@
     },
     {
       "id": 63,
-      "pregunta": "(Inventada) ¿Qué electrolito controla la contracción muscular? Calcio. Cloro. Hierro. Vitamina K.",
+      "pregunta": "(Inventada) ¿Qué electrolito controla la contracción muscular?",
       "opcion a": "Hierro.",
       "opcion b": "Cloro.",
       "opcion c": "Calcio.",
@@ -572,7 +572,7 @@
     },
     {
       "id": 64,
-      "pregunta": "(Inventada) ¿Qué significa FR 10 en adulto? Bradipnea. Hipopnea severa. Taquipnea. Eupnea.",
+      "pregunta": "(Inventada) ¿Qué significa FR 10 en adulto?",
       "opcion a": "Eupnea.",
       "opcion b": "Hipopnea severa.",
       "opcion c": "Taquipnea.",
@@ -581,7 +581,7 @@
     },
     {
       "id": 65,
-      "pregunta": "(Inventada) ¿Qué hacer ante convulsión? Proteger la cabeza del paciente. Sujetar extremidades fuertemente. Colocar objeto en la boca. Administrar líquidos por vía oral.",
+      "pregunta": "(Inventada) ¿Qué hacer ante convulsión?",
       "opcion a": "Sujetar extremidades fuertemente.",
       "opcion b": "Proteger la cabeza del paciente.",
       "opcion c": "Colocar objeto en la boca.",
@@ -590,7 +590,7 @@
     },
     {
       "id": 66,
-      "pregunta": "(Inventada) ¿Qué valor de glucemia indica diabetes? ≥ 126 mg/dL en ayunas. ≥ 90 mg/dL. ≥ 110 mg/dL. ≥ 150 mg/dL postprandial inmediato.",
+      "pregunta": "(Inventada) ¿Qué valor de glucemia indica diabetes?",
       "opcion a": "≥ 126 mg/dL en ayunas.",
       "opcion b": "≥ 90 mg/dL.",
       "opcion c": "≥ 110 mg/dL.",
@@ -599,7 +599,7 @@
     },
     {
       "id": 67,
-      "pregunta": "(Inventada) ¿Qué parámetro evalúa la escala EVA? Dolor. Ansiedad. Perfusión. Oxigenación.",
+      "pregunta": "(Inventada) ¿Qué parámetro evalúa la escala EVA?",
       "opcion a": "Dolor.",
       "opcion b": "Ansiedad.",
       "opcion c": "Perfusión.",
@@ -608,7 +608,7 @@
     },
     {
       "id": 68,
-      "pregunta": "(Inventada) ¿Qué indica una FC de 40 lpm en adulto? Bradicardia. Hipertensión arterial. Taquicardia. Hipoxemia.",
+      "pregunta": "(Inventada) ¿Qué indica una FC de 40 lpm en adulto?",
       "opcion a": "Taquicardia.",
       "opcion b": "Hipertensión arterial.",
       "opcion c": "Bradicardia.",
@@ -617,7 +617,7 @@
     },
     {
       "id": 69,
-      "pregunta": "(Inventada) ¿Cuál es el riesgo de una vía periférica sin control prolongado? Flebitis. Hipoglucemia. Hipertrofia muscular. Hipocalcemia.",
+      "pregunta": "(Inventada) ¿Cuál es el riesgo de una vía periférica sin control prolongado?",
       "opcion a": "Hipocalcemia.",
       "opcion b": "Hipoglucemia.",
       "opcion c": "Hipertrofia muscular.",
@@ -626,7 +626,7 @@
     },
     {
       "id": 70,
-      "pregunta": "(Inventada) ¿En qué caso se usa máscara con reservorio? Hipoxemia severa. Dolor abdominal. Cefalea tensional. Vómitos aislados.",
+      "pregunta": "(Inventada) ¿En qué caso se usa máscara con reservorio?",
       "opcion a": "Hipoxemia severa.",
       "opcion b": "Dolor abdominal.",
       "opcion c": "Cefalea tensional.",
@@ -635,7 +635,7 @@
     },
     {
       "id": 71,
-      "pregunta": "(Inventada) ¿Cuál es el objetivo principal del control de signos vitales? Evaluar el estado fisiológico del paciente. Diagnosticar enfermedades complejas. Determinar el tipo de medicación a indicar. Evaluar exclusivamente el estado emocional.",
+      "pregunta": "(Inventada) ¿Cuál es el objetivo principal del control de signos vitales?",
       "opcion a": "Evaluar el estado fisiológico del paciente.",
       "opcion b": "Diagnosticar enfermedades complejas.",
       "opcion c": "Determinar el tipo de medicación a indicar.",
@@ -644,7 +644,7 @@
     },
     {
       "id": 72,
-      "pregunta": "(Inventada) ¿Qué valor se considera fiebre en un lactante? ≥ 38 °C rectal. 37 °C axilar. 36.5 °C timpánica. 37.3 °C inguinal.",
+      "pregunta": "(Inventada) ¿Qué valor se considera fiebre en un lactante?",
       "opcion a": "≥ 38 °C rectal.",
       "opcion b": "37 °C axilar.",
       "opcion c": "36.5 °C timpánica.",
@@ -653,7 +653,7 @@
     },
     {
       "id": 73,
-      "pregunta": "(Inventada) ¿Cuál es la vía de elección para administrar medicación durante un paro cardíaco? Intravenosa. Tópica. Oral. Subcutánea.",
+      "pregunta": "(Inventada) ¿Cuál es la vía de elección para administrar medicación durante un paro cardíaco?",
       "opcion a": "Tópica.",
       "opcion b": "Intravenosa.",
       "opcion c": "Oral.",
@@ -662,7 +662,7 @@
     },
     {
       "id": 74,
-      "pregunta": "(Inventada) ¿Qué complicación puede producir un catéter mal fijado? Extravasación. Hiperglucemia. Insuficiencia respiratoria. Aumento de temperatura corporal.",
+      "pregunta": "(Inventada) ¿Qué complicación puede producir un catéter mal fijado?",
       "opcion a": "Aumento de temperatura corporal.",
       "opcion b": "Hiperglucemia.",
       "opcion c": "Insuficiencia respiratoria.",
@@ -671,7 +671,7 @@
     },
     {
       "id": 75,
-      "pregunta": "(Inventada) ¿Cuál es el objetivo del lavado de manos clínico? Reducir la flora transitoria. Esterilizar completamente la piel. Aumentar la humedad de las manos. Eliminar virus resistentes exclusivamente.",
+      "pregunta": "(Inventada) ¿Cuál es el objetivo del lavado de manos clínico?",
       "opcion a": "Aumentar la humedad de las manos.",
       "opcion b": "Esterilizar completamente la piel.",
       "opcion c": "Reducir la flora transitoria.",
@@ -680,7 +680,7 @@
     },
     {
       "id": 76,
-      "pregunta": "(Inventada) ¿Qué indica un pulso filiforme? Perfusión deficiente. Perfusión normal. Sobrehidratación. Hipertiroidismo.",
+      "pregunta": "(Inventada) ¿Qué indica un pulso filiforme?",
       "opcion a": "Perfusión deficiente.",
       "opcion b": "Perfusión normal.",
       "opcion c": "Sobrehidratación.",
@@ -689,7 +689,7 @@
     },
     {
       "id": 77,
-      "pregunta": "(Inventada) ¿Cuál es la complicación más frecuente del reposo prolongado en cama? Úlceras por presión. Hepatitis. Pancreatitis. Miopía.",
+      "pregunta": "(Inventada) ¿Cuál es la complicación más frecuente del reposo prolongado en cama?",
       "opcion a": "Pancreatitis.",
       "opcion b": "Hepatitis.",
       "opcion c": "Úlceras por presión.",
@@ -698,7 +698,7 @@
     },
     {
       "id": 78,
-      "pregunta": "Masa ovárica heterogénea con doppler (+). ¿Qué estudio complementario solicitar? Marcadores tumorales. Radiografía simple de abdomen. Ecografía mamaria. TAC de cráneo.",
+      "pregunta": "Masa ovárica heterogénea con doppler (+). ¿Qué estudio complementario solicitar?",
       "opcion a": "Radiografía simple de abdomen.",
       "opcion b": "Marcadores tumorales.",
       "opcion c": "Ecografía mamaria.",
@@ -761,7 +761,7 @@
     },
     {
       "id": 85,
-      "pregunta": "¿Cuándo se debe continuar lactancia? Mastitis unilateral. VIH materno positivo. Tuberculosis activa sin tratamiento. Infección bacteriana grave del RN.",
+      "pregunta": "¿Cuándo se debe continuar lactancia?",
       "opcion a": "Infección bacteriana grave del RN.",
       "opcion b": "VIH materno positivo.",
       "opcion c": "Tuberculosis activa sin tratamiento.",
@@ -770,7 +770,7 @@
     },
     {
       "id": 86,
-      "pregunta": "Epistaxis en pediatría: ¿cuándo pedir laboratorio? Epistaxis graves o recurrentes sin causa local. En cualquier primer episodio. Si hubo llanto intenso previo. Si tomó bebidas calientes.",
+      "pregunta": "Epistaxis en pediatría: ¿cuándo pedir laboratorio?",
       "opcion a": "En cualquier primer episodio.",
       "opcion b": "Epistaxis graves o recurrentes sin causa local.",
       "opcion c": "Si hubo llanto intenso previo.",
@@ -824,7 +824,7 @@
     },
     {
       "id": 92,
-      "pregunta": "¿Por qué se produce un DIP variable en monitoreo fetal? Por compresión del cordón. Por encaje cefálico. Por hipoxia materna. Por contracciones uterinas intensas.",
+      "pregunta": "¿Por qué se produce un DIP variable en monitoreo fetal?",
       "opcion a": "Por encaje cefálico.",
       "opcion b": "Por compresión del cordón.",
       "opcion c": "Por hipoxia materna.",
@@ -851,7 +851,7 @@
     },
     {
       "id": 95,
-      "pregunta": "¿Para qué se solicita MAPA? Hipertensión de guardapolvo blanco. Hipotensión severa. Arritmias. Hipoglucemia.",
+      "pregunta": "¿Para qué se solicita MAPA?",
       "opcion a": "Hipertensión de guardapolvo blanco.",
       "opcion b": "Hipotensión severa.",
       "opcion c": "Arritmias.",
@@ -860,7 +860,7 @@
     },
     {
       "id": 96,
-      "pregunta": "¿Qué tipo de prevención es la toma de PA? Prevención secundaria. Prevención cuaternaria. Prevención terciaria. Prevención primordial.",
+      "pregunta": "¿Qué tipo de prevención es la toma de PA?",
       "opcion a": "Prevención terciaria.",
       "opcion b": "Prevención cuaternaria.",
       "opcion c": "Prevención secundaria.",

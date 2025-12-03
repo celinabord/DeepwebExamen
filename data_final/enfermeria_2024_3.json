@@ -293,7 +293,7 @@
     },
     {
       "id": 33,
-      "pregunta": "¿Qué indica la clasificación de peligros ambientales? (real: examen-unico-2024-bioquimica-en… )",
+      "pregunta": "¿Qué indica la clasificación de peligros ambientales?",
       "opcion a": "Climáticos, culturales y estructurales.",
       "opcion b": "Sociales, emocionales y afectivos.",
       "opcion c": "Biológicos, químicos y físicos.",
@@ -302,7 +302,7 @@
     },
     {
       "id": 34,
-      "pregunta": "¿Qué lugares son recomendados para inserción de CVPc? (real: examen-unico-2024-bioquimica-en… )",
+      "pregunta": "¿Qué lugares son recomendados para inserción de CVPc?",
       "opcion a": "Cualquier vena visible.",
       "opcion b": "Zona distal a la proximal.",
       "opcion c": "Pliegue del codo.",
@@ -320,7 +320,7 @@
     },
     {
       "id": 36,
-      "pregunta": "¿Cuáles son vías naturales de administración? (real: examen-unico-2024-bioquimica-en… )",
+      "pregunta": "¿Cuáles son vías naturales de administración?",
       "opcion a": "Epidural y subdural.",
       "opcion b": "Intravenosa e intraósea.",
       "opcion c": "Vías enterales, inhalatoria y tópica.",
@@ -329,7 +329,7 @@
     },
     {
       "id": 37,
-      "pregunta": "¿Qué es inherente a la profesión según CIE? (real: examen-unico-2024-bioquimica-en… )",
+      "pregunta": "¿Qué es inherente a la profesión según CIE?",
       "opcion a": "Regulación económica.",
       "opcion b": "Derechos humanos.",
       "opcion c": "Gestión administrativa.",
