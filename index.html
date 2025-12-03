@@ -136,16 +136,28 @@
                         </select>
                         
                         <div id="selectorAnoEnfermeria" style="display: none; margin-top: 15px;">
-                            <label for="selectAnoEnfermeria">Año y Año de Carrera:</label>
+                            <label for="selectAnoEnfermeria">Seleccione el Año del Examen:</label>
                             <select id="selectAnoEnfermeria" class="input-field">
-                                <option value="">-- Seleccionar --</option>
-                                <option value="2016">2016</option>
-                                <option value="2019">2019</option>
-                                <option value="2021">2021</option>
-                                <option value="1_2024">2024 - Primer Año</option>
-                                <option value="2_2024">2024 - Segundo Año</option>
-                                <option value="3_2024">2024 - Tercer Año</option>
-                                <option value="4_2024">2024 - Cuarto Año</option>
+                                <option value="">-- Seleccionar Año --</option>
+                                <optgroup label="2021">
+                                    <option value="2021">2021 - Examen Principal (100 preguntas)</option>
+                                    <option value="2021_alt">2021 - Examen Alternativo (100 preguntas)</option>
+                                </optgroup>
+                                <optgroup label="2022">
+                                    <option value="2022_1">2022 - Primer Año (1 pregunta)</option>
+                                </optgroup>
+                                <optgroup label="2023">
+                                    <option value="2023_1">2023 - Primer Año (100 preguntas)</option>
+                                    <option value="2023_2">2023 - Segundo Año (100 preguntas)</option>
+                                    <option value="2023_3">2023 - Tercer Año (90 preguntas)</option>
+                                    <option value="2023_4">2023 - Cuarto Año (80 preguntas)</option>
+                                </optgroup>
+                                <optgroup label="2024">
+                                    <option value="2024_1">2024 - Primer Año (57 preguntas)</option>
+                                    <option value="2024_2">2024 - Segundo Año (57 preguntas)</option>
+                                    <option value="2024_3">2024 - Tercer Año (100 preguntas)</option>
+                                    <option value="2024_4">2024 - Cuarto Año (100 preguntas)</option>
+                                </optgroup>
                             </select>
                         </div>
                         
