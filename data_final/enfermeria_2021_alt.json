@@ -1,906 +1,906 @@
 {
   "tema": "Enfermería",
   "año": 2021,
-  "examen": 1,
+  "examen": 2,
   "preguntas": [
     {
-      "id": 201,
-      "pregunta": "¿Cuáles son las isoenzimas de Lacticodehidrogenasa (LD) que contribuyen al aumento sérico de la actividad total en una anemia megaloblástica? [cite: 93]",
-      "opcion a": "LD-4 y LD-5",
-      "opcion b": "LD-1 y LD-2",
-      "opcion c": "LD-3 y LD-4",
-      "opcion d": "Solo LD-5",
+      "id": 1,
+      "pregunta": "¿Cuál es la relación compresiones-ventilaciones en RCP adulto?",
+      "opcion a": "20 compresiones : 1 ventilación",
+      "opcion b": "30 compresiones : 2 ventilaciones",
+      "opcion c": "15 compresiones : 2 ventilaciones",
+      "opcion d": "5 compresiones : 1 ventilación",
       "respuesta_correcta": "opcion b"
     },
     {
-      "id": 202,
-      "pregunta": "¿Cuál es el fenotipo de la pseudocolinesterasa (EC 3.1.1.8) resistente a la inhibición con Dibucaína? [cite: 97]",
-      "opcion a": "Atypico",
-      "opcion b": "Silente",
-      "opcion c": "Intermedio",
-      "opcion d": "Usual",
+      "id": 2,
+      "pregunta": "¿Cuáles son las vías parenterales?",
+      "opcion a": "Tópica, oftálmica, ótica",
+      "opcion b": "Oral, sublingual, rectal",
+      "opcion c": "Nasal, inhalatoria, transdérmica",
+      "opcion d": "Intravenosa, intramuscular, subcutánea, intradérmica",
       "respuesta_correcta": "opcion d"
     },
     {
-      "id": 203,
-      "pregunta": "¿En cuál de las siguientes situaciones disminuye el cociente urea sérica/creatinina sérica? [cite: 101]",
-      "opcion a": "Deshidratación prerrenal.",
-      "opcion b": "Obstrucción urinaria posrenal.",
-      "opcion c": "Dieta alta en proteínas.",
-      "opcion d": "Rabdomiólisis",
+      "id": 3,
+      "pregunta": "¿Qué es el dolor crónico?",
+      "opcion a": "Dolor de inicio súbito y severo",
+      "opcion b": "Dolor relacionado con actividad física",
+      "opcion c": "Dolor que aparece solo por la noche",
+      "opcion d": "Dolor persistente mayor a 3-6 meses",
       "respuesta_correcta": "opcion d"
     },
     {
-      "id": 204,
-      "pregunta": "¿Cuál es la determinación correcta de las cadenas livianas monoclonales libres en orina? [cite: 105]",
-      "opcion a": "Electroforesis de proteínas en orina.",
-      "opcion b": "Inmunofijación con antisueros anti-kappa y anti-lambda",
-      "opcion c": "Dosaje de Beta-2 microglobulina.",
-      "opcion d": "Inmunodifusión radial simple.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 205,
-      "pregunta": "¿Cuál de las siguientes situaciones puede causar la elevación de la fracción beta en la electroforesis de proteínas séricas? [cite: 109]",
-      "opcion a": "Síndrome nefrótico.",
-      "opcion b": "Déficit de alfa-1 antitripsina.",
-      "opcion c": "Presencia de una inmunoglobulina monoclonal",
-      "opcion d": "Insuficiencia hepática grave.",
+      "id": 4,
+      "pregunta": "¿Qué es la eutanasia?",
+      "opcion a": "Cuidados paliativos en fase terminal",
+      "opcion b": "Suspensión de tratamiento inútil",
+      "opcion c": "Acción u omisión para provocar muerte sin sufrimiento en enfermo terminal",
+      "opcion d": "Donación de órganos post-mortem",
       "respuesta_correcta": "opcion c"
     },
     {
-      "id": 206,
-      "pregunta": "En un cuadro inflamatorio sistémico se altera la síntesis hepática. ¿Cuál de las siguientes proteínas se considera un reactante de fase aguda y se incrementa? [cite: 114]",
-      "opcion a": "Albúmina",
-      "opcion b": "Prealbúmina",
-      "opcion c": "Transferrina",
-      "opcion d": "Haptoglobina",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 207,
-      "pregunta": "El patrón electroforético sérico de malnutrición muestra hipoproteinemia. ¿Con qué otra característica se acompaña dicha disproteinemia? [cite: 118]",
-      "opcion a": "Aumento selectivo de la fracción gamma.",
-      "opcion b": "Reducción de todas las fracciones y más intensa en albúmina",
-      "opcion c": "Aumento compensatorio de la fracción beta.",
-      "opcion d": "Elevación de la alfa-2 globulina.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 208,
-      "pregunta": "En un sedimento urinario de un paciente con síntomas confusionales y deshidratación, se observan cilindros claros, incoloros y sin ninguna estructuración. ¿Cuál es la posible significancia de este hallazgo? [cite: 123]",
-      "opcion a": "Glomerulonefritis aguda.",
-      "opcion b": "Necrosis tubular aguda.",
-      "opcion c": "Orina normal concentrada",
-      "opcion d": "Pielonefritis.",
+      "id": 5,
+      "pregunta": "¿Qué es el duelo?",
+      "opcion a": "Trastorno de ansiedad generalizada",
+      "opcion b": "Reacción de estrés postraumático",
+      "opcion c": "Proceso de adaptación emocional ante una pérdida",
+      "opcion d": "Depresión severa que requiere medicación",
       "respuesta_correcta": "opcion c"
     },
     {
-      "id": 209,
-      "pregunta": "¿Con qué estudio de las proteínas séricas debe comenzar el algoritmo diagnóstico de un paciente con sospecha clínica de discrasia de células plasmáticas? [cite: 127]",
-      "opcion a": "Dosaje de inmunoglobulinas séricas.",
-      "opcion b": "Inmunofijación sérica.",
-      "opcion c": "Proteinograma",
-      "opcion d": "Cadena liviana libre sérica.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 210,
-      "pregunta": "¿Qué tipo de error denota la regla R 4SD de Westgard? [cite: 131]",
-      "opcion a": "Denota la existencia de un error sistemático.",
-      "opcion b": "Denota la existencia de un error aleatorio.",
-      "opcion c": "Denota la necesidad de recalibración.",
-      "opcion d": "Denota la inaceptabilidad del lote de reactivos.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 211,
-      "pregunta": "Un paciente presenta en repetidas ocasiones glucemias en ayunas entre 115 y 120 mg/dl (Glucemia Alterada en Ayunas). ¿Qué estudio es el más apropiado para definir un diagnóstico? [cite: 135]",
-      "opcion a": "Hemoglobina Glicosilada (HbA1c).",
-      "opcion b": "Glucemia postprandial.",
-      "opcion c": "Prueba de tolerancia oral a la glucosa",
-      "opcion d": "Insulina basal.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 212,
-      "pregunta": "¿Qué espera observar en la serie roja de un paciente con mieloma múltiple? [cite: 139]",
-      "opcion a": "Anemia microcítica hipocrómica con esferocitos.",
-      "opcion b": "Anemia normocítica normocrómica con eritrocitos en pilas de monedas",
-      "opcion c": "Anemia macrocítica con cuerpos de Howell-Jolly.",
-      "opcion d": "Policitemia con dacriocitos.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 213,
-      "pregunta": "¿Cuál es la metodología utilizada por los contadores automatizados para hematimetría que se fundamenta en la medida de los cambios en la resistencia al paso de la corriente continua? [cite: 143]",
-      "opcion a": "Citometría de flujo.",
-      "opcion b": "Dispersión de luz (Scatter).",
-      "opcion c": "Colorimetría.",
-      "opcion d": "Impedancia",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 214,
-      "pregunta": "¿Cuáles son las causas más frecuentes de la disminución del volumen corpuscular medio (VCM) de los eritrocitos? [cite: 147]",
-      "opcion a": "Déficit de folatos y Vitamina B12.",
-      "opcion b": "Anemia de enfermedad crónica e insuficiencia renal.",
-      "opcion c": "Déficit de hierro y talasemias",
-      "opcion d": "Hemólisis autoinmune.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 215,
-      "pregunta": "¿Cuáles valores de los siguientes parámetros caracterizan a la anemia de los trastornos inflamatorios? [cite: 151]",
-      "opcion a": "VCM disminuido, ferritina sérica disminuida.",
-      "opcion b": "VCM normal, ferremia disminuida, índice de saturación de la transferrina normal, ferritina sérica aumentada",
-      "opcion c": "VCM aumentado, ferremia normal.",
-      "opcion d": "VCM normal, ferritina sérica disminuida.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 216,
-      "pregunta": "¿En cuál de las siguientes anemias hemolíticas es positivo el resultado de la prueba de Coombs directa? [cite: 155]",
-      "opcion a": "Esferocitosis hereditaria.",
-      "opcion b": "Anemia por déficit de G6PD.",
-      "opcion c": "Anemia hemolítica autoinmune",
-      "opcion d": "Talasemia mayor.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 217,
-      "pregunta": "¿Qué tipo de moléculas se pueden evidenciar con la técnica de inmunocitoquímica? [cite: 159]",
-      "opcion a": "Ácidos Nucleicos (ADN/ARN).",
-      "opcion b": "Lípidos.",
-      "opcion c": "Proteínas",
-      "opcion d": "Glúcidos.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 218,
-      "pregunta": "¿En qué patología autoinmune es frecuente la presencia de anticuerpos anticentrómero? [cite: 163]",
-      "opcion a": "Lupus Eritematoso Sistémico (LES).",
-      "opcion b": "Esclerosis sistémica localizada",
-      "opcion c": "Artritis Reumatoide.",
-      "opcion d": "Dermatomiositis.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 219,
-      "pregunta": "¿Cuál de las siguientes alternativas es la indicada para el tamizaje de enfermedad celíaca? [cite: 167]",
-      "opcion a": "Anticuerpos anti-endomisio IgG y anticuerpos anti-gliadina IgG.",
-      "opcion b": "Anticuerpos anti-transglutaminasa tisular IgA y dosaje de inmunoglobulinas IgA",
-      "opcion c": "Dosaje de IgA e IgM séricas.",
-      "opcion d": "Test de avidez de IgG.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 220,
-      "pregunta": "Paciente con astenia, artralgias, dolor en hipocondrio derecho y aumento de transaminasas (Hepatitis Autoinmune). ¿Cuál de las siguientes combinaciones de autoanticuerpos y métodos deben llevarse a cabo? [cite: 172]",
-      "opcion a": "Anticuerpos anti-cardiolipina por ELISA.",
-      "opcion b": "Anticuerpos anti-nucleocitoplasmáticos por inmunofluorescencia indirecta en improntas de línea celular HEp-2 y anti-músculo liso por inmunofluorescencia indirecta en improntas de triple corte de tejido",
-      "opcion c": "Anticuerpos anti-CCP.",
-      "opcion d": "Anticuerpos anti-citoplasma de neutrófilo (ANCA).",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 221,
-      "pregunta": "¿Cuál es el porcentaje mínimo de blastos para el diagnóstico de una leucemia aguda según la clasificación de la OMS? [cite: 176]",
-      "opcion a": "10%",
-      "opcion b": "20%",
-      "opcion c": "30%",
-      "opcion d": "50%",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 222,
-      "pregunta": "Paciente con leucocitosis (50.0x10^9/L) y desviación a la izquierda (Blast: 1%, Promiel: 9%, Mielo: 17%, Meta: 7%, Cayado: 10%, Neutro: 40%). Sospecha de Leucemia Mieloide Crónica. ¿Qué prueba citoquímica sería útil? [cite: 188]",
-      "opcion a": "Mieloperoxidasa (MPO).",
-      "opcion b": "Esterasa inespecífica.",
-      "opcion c": "Fosfatasa alcalina leucocitaria",
-      "opcion d": "PAS (Ácido peryódico de Schiff).",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 223,
-      "pregunta": "¿Qué tipo de anemia sugieren la combinación de volumen corpuscular (VCM) disminuido, hemoglobina corpuscular media (HCM) disminuida y amplitud de distribución de eritrocitos (ADE) elevada? [cite: 192]",
-      "opcion a": "Anemia de trastornos crónicos.",
-      "opcion b": "Anemia ferropénica",
-      "opcion c": "Talasemia (rasgo).",
-      "opcion d": "Anemia megaloblástica.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 224,
-      "pregunta": "¿Cómo se encuentra, la prueba de fragilidad osmótica en un paciente que padece una eliptocitosis congénita? [cite: 196]",
-      "opcion a": "Aumentada (curva desviada a la izquierda).",
-      "opcion b": "Normal",
-      "opcion c": "Disminuida (curva desviada a la derecha).",
-      "opcion d": "Siempre no reproducible.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 225,
-      "pregunta": "Los cuerpos de Howell-Jolly son inclusiones eritrocitarias de fragmentos nucleares. ¿En cuál situación clínica se observan? [cite: 201]",
-      "opcion a": "Déficit de Vitamina B12.",
-      "opcion b": "Talasemia.",
-      "opcion c": "Anemia hemolítica.",
-      "opcion d": "Asplenia",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 226,
-      "pregunta": "Paciente con TP 40%, APTT 46 seg, TT 22 seg (Normal 20 seg). Ambas pruebas corrigen al mezclar con plasma normal. ¿Qué anticoagulante por vía oral deberá utilizarse en la terapia? [cite: 208]",
-      "opcion a": "Heparina de bajo peso molecular (HBPM).",
-      "opcion b": "Dabigatrán (Inhibidor directo de la trombina).",
-      "opcion c": "Acenocumarol",
-      "opcion d": "Rivaroxabán (Inhibidor del Factor Xa).",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 227,
-      "pregunta": "¿Cuál es la causa más probable para que un Tiempo de Trombina prolongado corrija cuando se mezcla plasma del paciente con plasma normal? [cite: 212]",
-      "opcion a": "Presencia de un inhibidor de la trombina.",
-      "opcion b": "Deficiencia del Factor XIII.",
-      "opcion c": "Hipofibrinogenemia",
-      "opcion d": "Déficit de Vitamina K.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 228,
-      "pregunta": "En un paciente que presenta hemorragia, ¿cuál de los siguientes resultados es compatible con déficit de alfa 2 antiplasmina (inhibidor de la fibrinólisis)? [cite: 216]",
-      "opcion a": "Tiempo de Trombina prolongado.",
-      "opcion b": "Acortamiento del tiempo de lisis del coágulo",
-      "opcion c": "APTT acortado.",
-      "opcion d": "Aumento del Dímero D.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 229,
-      "pregunta": "¿Cuál de los siguientes resultados de la prueba de agregación plaquetaria corresponde a un paciente en tratamiento con 100 mg/día de aspirina? [cite: 220]",
-      "opcion a": "Agregación inhibida con ADP.",
-      "opcion b": "Agregación normal con Ristocetina.",
-      "opcion c": "Agregación inhibida con ácido araquidónico",
-      "opcion d": "Agregación aumentada con colágeno.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 230,
-      "pregunta": "¿Cuál de los siguientes receptores presentes en la membrana plaquetaria, participa en la aglutinación plaquetaria con ristocetina? [cite: 224]",
-      "opcion a": "Glicoproteína IIb/IIIa",
-      "opcion b": "Receptor de ADP (P2Y12)",
-      "opcion c": "Glicoproteína Ib",
-      "opcion d": "Receptor de Trombina (PAR-1)",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 231,
-      "pregunta": "¿Cuál de los siguientes factores son vitamina K dependiente? [cite: 228]",
-      "opcion a": "I, V, VIII y XIII",
-      "opcion b": "II, VII, IX y X",
-      "opcion c": "VIII y vWF",
-      "opcion d": "XII, XI, IX y X",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 232,
-      "pregunta": "¿A qué se asocia la alteración de la prueba de resistencia a la proteína C activada? [cite: 232]",
-      "opcion a": "Déficit de Proteína S.",
-      "opcion b": "Anticoagulante lúpico.",
-      "opcion c": "Mutación del Factor V Leiden",
-      "opcion d": "Déficit de Antitrombina.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 233,
-      "pregunta": "Niña (12 años) con epistaxis y menorragia. APTT prolongado (44 seg), Factor VIII 40%, vWF antígeno 28%, vWF cofactor de ristocetina 25%, Razón vWF:RCo/vWF:Ag = 0.89. ¿Cuál es el diagnóstico más probable? [cite: 241]",
-      "opcion a": "Hemofilia A.",
-      "opcion b": "Enfermedad de von Willebrand tipo 1",
-      "opcion c": "Déficit de Factor VII.",
-      "opcion d": "Enfermedad de von Willebrand tipo 2B.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 234,
-      "pregunta": "En el curso de un embarazo normal, ¿cuál de los siguientes resultados se puede encontrar durante el tercer trimestre de gestación? [cite: 246]",
-      "opcion a": "Disminución del Fibrinógeno.",
-      "opcion b": "Aumento de Fibrinógeno",
-      "opcion c": "Prolongación del Tiempo de Protrombina.",
-      "opcion d": "Aumento del APTT.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 235,
-      "pregunta": "¿A qué receptor del endotelio se debe unir la trombina para formar el complejo que activa a la Proteína C? [cite: 250]",
-      "opcion a": "Factor Tisular (FT).",
-      "opcion b": "Receptor de Proteína C Endotelial (EPCR).",
-      "opcion c": "Trombomodulina",
-      "opcion d": "Glicoproteína Ib.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 236,
-      "pregunta": "¿Cuál es la variación del título de una prueba para sífilis que evidencia la eficacia del tratamiento? [cite: 254]",
-      "opcion a": "El título de una prueba treponémica disminuye cuatro títulos en los primeros seis meses post tratamiento.",
-      "opcion b": "El título de una prueba no treponémica disminuye cuatro títulos en los primeros seis meses post tratamiento.",
-      "opcion c": "El título de una prueba treponémica aumenta dos títulos.",
-      "opcion d": "La serología treponémica se vuelve negativa.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 237,
-      "pregunta": "¿Mediante que determinación se realiza el diagnóstico de toxoplasmosis congénita en un recién nacido de una madre con infección aguda en el segundo trimestre? [cite: 258]",
-      "opcion a": "Detección de IgG por ELISA en suero del recién nacido.",
-      "opcion b": "Determinación de IgA e IgM mediante la técnica de ISAGA en suero del recién nacido.",
-      "opcion c": "PCR en sangre periférica.",
-      "opcion d": "Western Blot para IgM.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 238,
-      "pregunta": "¿En cuál estadío de la infección crónica por el Virus de Hepatitis B se encuentra elevada viremia plasmática, transaminasas séricas normales y presencia del antígeno e (HBeAg)? [cite: 262]",
-      "opcion a": "Inmunotolerancia",
-      "opcion b": "Inmunoactiva",
-      "opcion c": "Portador inactivo",
-      "opcion d": "HBeAg negativo",
+      "id": 6,
+      "pregunta": "¿Qué es la oxigenoterapia?",
+      "opcion a": "Administración de oxígeno suplementario para tratar hipoxemia",
+      "opcion b": "Fisioterapia pulmonar",
+      "opcion c": "Administración de broncodilatadores nebulizados",
+      "opcion d": "Terapia respiratoria con vapor de agua",
       "respuesta_correcta": "opcion a"
     },
     {
-      "id": 239,
-      "pregunta": "¿Cómo debe realizarse el diagnóstico bioquímico de encefalitis por virus Herpes simplex I (HSV I) en un paciente inmunosuprimido? [cite: 266]",
-      "opcion a": "Serología IgM en suero.",
-      "opcion b": "Detección de antígenos virales en orina.",
-      "opcion c": "PCR ADN HSV I en muestra de líquido cefalorraquídeo.",
-      "opcion d": "Cultivo viral en hisopado faríngeo.",
+      "id": 7,
+      "pregunta": "¿Qué es el triaje o triage?",
+      "opcion a": "Alta de pacientes hospitalizados",
+      "opcion b": "Registro de pacientes en admisión",
+      "opcion c": "Clasificación de pacientes según gravedad y prioridad",
+      "opcion d": "Derivación de pacientes a especialistas",
       "respuesta_correcta": "opcion c"
     },
     {
-      "id": 240,
-      "pregunta": "¿Cuál determinación bioquímica realizaría para el diagnóstico de infección respiratoria aguda viral por virus sincicial respiratorio en un paciente pediátrico? [cite: 270]",
-      "opcion a": "Detección de anticuerpos IgG en sangre.",
-      "opcion b": "Hemocultivo.",
-      "opcion c": "Antígenos virales secreción nasofaríngea por inmunofluorescencia directa (IFD).",
-      "opcion d": "Cultivo bacteriano de esputo.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 241,
-      "pregunta": "Mujer embarazada: *Toxoplasma gondii* IgG (94 UI/mL, reactivo), IgM (0,80 index, reactivo), Test de avidez IgG (80%, alta avidez). ¿Cómo interpreta los resultados? [cite: 281, 282]",
-      "opcion a": "Infección aguda reciente (menos de 3 meses).",
-      "opcion b": "Infección reactivada por inmunosupresión.",
-      "opcion c": "La paciente cursó una infección por Toxoplasma gondii en el pasado. No es necesario realizar tratamiento ni diagnóstico neonatal.",
-      "opcion d": "Falso positivo de IgM por interferencia.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 242,
-      "pregunta": "¿Con qué patología está asociada la infección por el Virus de Epstein Barr? [cite: 286]",
-      "opcion a": "Sarcoma de Kaposi.",
-      "opcion b": "Linfoma de Burkitt",
-      "opcion c": "Carcinoma de células escamosas.",
-      "opcion d": "Leucemia promielocítica aguda.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 243,
-      "pregunta": "¿Cuáles de las siguientes características metabólicas corresponden al género *Aeromonas* spp? [cite: 290]",
-      "opcion a": "Requerimiento de NaCl para crecer y sensibilidad al compuesto vibriostático O129.",
-      "opcion b": "No presentar requerimiento de cloruro de sodio para crecer y pre- sentar resistencia al compuesto vibriostático O129 (150 μg).",
-      "opcion c": "Ausencia de catalasa y oxidasa.",
-      "opcion d": "Fermentación de glucosa con producción de gas.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 244,
-      "pregunta": "¿Cuál de los siguientes métodos es el adecuado o recomendado para determinar la sensibilidad a la penicilina en el grupo *Streptococcus viridans*? [cite: 294]",
-      "opcion a": "Difusión en disco con disco de oxacilina.",
-      "opcion b": "Microdilución en placa.",
-      "opcion c": "E-Test sobre agar Mueller Hinton.",
-      "opcion d": "Dilución en caldo (Mueller Hinton-sangre lisada de caballo)",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 245,
-      "pregunta": "¿Qué significa que un aislado de *Enterobacter cloacae* sea hiperproductor de la beta-lactamasa cromosómica inducible de tipo ampC? [cite: 298]",
-      "opcion a": "Es sensible a todas las cefalosporinas y carbapenemes.",
-      "opcion b": "Es resistente a cefalosporinas de 1,2, 3, piperacilina-tazobactama y sensible a cefalosporinas de 4 (cefepima), cefatazidima-avi- bactama y carbapenemes.",
-      "opcion c": "Es resistente a carbapenemes y sensible a penicilinas.",
-      "opcion d": "Es sensible a penicilinas y resistente solo a cefalosporinas de 1ra generación.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 246,
-      "pregunta": "¿Cuál es la utilidad diagnóstica de la coloración de Ziehl-Neelsen en una muestra de origen respiratorio? [cite: 302]",
-      "opcion a": "Permite clasificar bacterias Gram positivas y Gram negativas.",
-      "opcion b": "Permite visualizar esporas bacterianas.",
-      "opcion c": "Permite visualizar bacilos ácido alcohol resistentes (BAAR) del género Mycobacterium spp.",
-      "opcion d": "Permite la detección de hongos levaduriformes.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 247,
-      "pregunta": "Paciente con fiebre y lesión en la pierna (tejido subcutáneo y músculo). Cultivo y hemocultivo desarrollan un coco gram positivo en cadena. ¿Cuál es la etiología más probable (Fascitis Necrotizante)? [cite: 307]",
-      "opcion a": "Staphylococcus aureus.",
-      "opcion b": "Streptococcus pyogenes",
-      "opcion c": "Enterococcus faecalis.",
-      "opcion d": "Streptococcus pneumoniae.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 248,
-      "pregunta": "¿A qué especie de los siguientes *Plasmodios* corresponde las formas en banda? [cite: 311]",
-      "opcion a": "Plasmodium vivax",
-      "opcion b": "Plasmodium falciparum",
-      "opcion c": "Plasmodium malariae",
-      "opcion d": "Plasmodium ovale",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 249,
-      "pregunta": "En el informe de un BACOVA (balance del contenido vaginal) ¿cuál es el parámetro compatible con una vaginosis bacteriana? [cite: 315]",
-      "opcion a": "Presencia de *Candida albicans* y pH ácido.",
-      "opcion b": "Score en base a los morfotipos observados en la coloración de Giemsa entre 7 y 10",
-      "opcion c": "Alto número de leucocitos y diplococos Gram negativos.",
-      "opcion d": "Ausencia de células clave.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 250,
-      "pregunta": "¿Con qué prueba bioquímica de screening Ud. puede identificar en forma preliminar *Streptococcus agalactiae* (Estreptococo grupo B)? [cite: 319]",
-      "opcion a": "Prueba de la catalasa.",
-      "opcion b": "Prueba de la coagulasa.",
-      "opcion c": "Prueba de la oxidasa.",
-      "opcion d": "Factor CAMP",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 251,
-      "pregunta": "Pescador deportivo que elimina proglótides trapezoidales con útero en forma de roseta (Finlandia). ¿De qué parásito sospecha? [cite: 324]",
-      "opcion a": "Taenia saginata",
-      "opcion b": "Taenia solium",
-      "opcion c": "Dibothriocephalus latus",
-      "opcion d": "Hymenolepis nana",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 252,
-      "pregunta": "¿Cuál entre las siguientes amebas se comporta como patógena? [cite: 328]",
-      "opcion a": "Entamoeba coli",
-      "opcion b": "Entamoeba histolytica",
-      "opcion c": "Entamoeba dispar",
-      "opcion d": "Iodamoeba bütschlii",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 253,
-      "pregunta": "¿Cuál es el parásito que produce la cisticercosis en humanos? [cite: 332]",
-      "opcion a": "Taenia saginata",
-      "opcion b": "Diphyllobothrium latum",
-      "opcion c": "Echinococcus granulosus",
-      "opcion d": "Taenia solium",
-      "respuesta_correcta": "opcion d"
-    },
-    {
-      "id": 254,
-      "pregunta": "¿Cuál es el parásito responsable de la tricomonosis genitourinaria en el humano? [cite: 336]",
-      "opcion a": "Giardia lamblia",
-      "opcion b": "Trypanosoma cruzi",
-      "opcion c": "Trichomonas vaginalis",
-      "opcion d": "Leishmania braziliensis",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 255,
-      "pregunta": "¿Cuál de las siguientes características corresponde al micelio de *Aspergillus* spp? [cite: 340]",
-      "opcion a": "Micelio no tabicado, cenocítico.",
-      "opcion b": "Hialino tabicado con ramificaciones dicotómicas",
-      "opcion c": "Micelio pigmentado, dematiáceo.",
-      "opcion d": "Formación de clamidosporas.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 256,
-      "pregunta": "¿Cuál es el hongo levaduriforme intracelular que más comúnmente causa infección pulmonar en pacientes con SIDA? [cite: 344]",
-      "opcion a": "*Candida albicans*",
-      "opcion b": "*Histoplasma capsulatum*",
-      "opcion c": "*Cryptococcus neoformans*",
-      "opcion d": "*Pneumocystis jirovecii*",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 257,
-      "pregunta": "¿Cuál de los siguientes hongos es a menudo conocido como agente causal de infección grave invasiva rino-sinusal en pacientes diabéticos o neutropénicos? [cite: 348]",
-      "opcion a": "Aspergillus fumigatus",
-      "opcion b": "Cryptococcus neoformans",
-      "opcion c": "Mucorales",
-      "opcion d": "Candida glabrata",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 258,
-      "pregunta": "¿Cuál de las siguientes hormonas hipofisarias es regulada en forma predominantemente inhibitoria desde el hipotálamo? [cite: 352]",
-      "opcion a": "Hormona Luteinizante (LH).",
-      "opcion b": "Hormona Adrenocorticotropa (ACTH).",
-      "opcion c": "Prolactina",
-      "opcion d": "Hormona del Crecimiento (GH).",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 259,
-      "pregunta": "¿Cómo espera encontrar los niveles de tirotrofina (TSH) y tiroxina libre (T4L) en un hipotiroidismo secundario o central? [cite: 356]",
-      "opcion a": "T4L alta y TSH alta.",
-      "opcion b": "T4L baja y TSH baja o indetectable.",
-      "opcion c": "T4L baja y TSH normal o baja",
-      "opcion d": "T4L normal y TSH alta.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 260,
-      "pregunta": "Mujer (28 años) con TSH disminuida, T4L aumentada, anticuerpos anti receptor de TSH positivos (Hipertiroidismo). ¿Con qué patología es compatible el cuadro? [cite: 362]",
-      "opcion a": "Tiroiditis de Hashimoto.",
-      "opcion b": "Enfermedad de Graves",
-      "opcion c": "Adenoma tóxico.",
-      "opcion d": "Tiroiditis subaguda.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 261,
-      "pregunta": "¿Cuál de las siguientes condiciones puede ser causa de amenorrea hipotalámica funcional? [cite: 366]",
-      "opcion a": "Hiperprolactinemia.",
-      "opcion b": "Tumor hipofisario.",
-      "opcion c": "Marcado estrés",
-      "opcion d": "Insuficiencia ovárica precoz.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 262,
-      "pregunta": "Mujer (38 años) con virilización marcada de rápido inicio y Testosterona sérica > 200 ng/dl. ¿Cuál es el diagnóstico más probable? [cite: 370]",
-      "opcion a": "Síndrome de Ovario Poliquístico (SOP).",
-      "opcion b": "Hiperplasia suprarrenal congénita de inicio tardío.",
-      "opcion c": "Tumor secretor de andrógenos suprarrenal u ovárico",
-      "opcion d": "Uso de anabólicos esteroides exógenos.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 263,
-      "pregunta": "¿Cuál de las siguientes determinaciones es de utilidad en el diagnóstico de la deficiencia de hormona de crecimiento (GH) en la infancia? [cite: 374]",
-      "opcion a": "Dosaje de GH basal.",
-      "opcion b": "Dosaje de Somatomedina C (IGF-1) basal.",
-      "opcion c": "Concentración de GH en respuesta a pruebas de estímulo",
-      "opcion d": "TSH y T4L.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 264,
-      "pregunta": "En el urocitograma de una niña de 5 años, ¿qué células epiteliales planas predominan? [cite: 432]",
-      "opcion a": "Células superficiales.",
-      "opcion b": "Células intermedias.",
-      "opcion c": "Células parabasales",
-      "opcion d": "Células glandulares endocervicales.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 265,
-      "pregunta": "¿Cómo se explica la ausencia de neutrófilos en los extendidos colpocitológicos con vaginosis anaeróbica? [cite: 436]",
-      "opcion a": "Disminución del pH vaginal.",
-      "opcion b": "Aumento de *Gardnerella vaginalis*.",
-      "opcion c": "Aumento de IL1 y disminución de IL8",
-      "opcion d": "Colonización por *Trichomonas vaginalis*.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 266,
-      "pregunta": "Líquido ascítico: Recuento celular 2880 x mm3, Neutrófilos 95% (Peritonitis Bacteriana Secundaria). ¿Qué patología podría estar cursando? [cite: 444]",
-      "opcion a": "Ascitis de origen cardíaco.",
-      "opcion b": "Peritonitis",
-      "opcion c": "Ascitis neoplásica.",
-      "opcion d": "Ascitis cirrótica no complicada.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 267,
-      "pregunta": "¿Qué tipo de células están presentes en un líquido de derrame de tipo trasudado (p. ej., insuficiencia cardíaca)? [cite: 448]",
-      "opcion a": "Células mesoteliales reactivas, neutrófilos > 50%.",
-      "opcion b": "Células mesoteliales, macrófagos y linfocitos",
-      "opcion c": "Células malignas.",
-      "opcion d": "Alto recuento de neutrófilos.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 268,
-      "pregunta": "¿Para cuál enfermedad autoinmune se consideran patognomónicos los anticuerpos anti-DNA nativo de alta avidez? [cite: 452]",
-      "opcion a": "Síndrome de Sjögren.",
-      "opcion b": "Lupus eritematoso sistémico",
-      "opcion c": "Esclerosis Sistémica.",
-      "opcion d": "Polimiositis.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 269,
-      "pregunta": "Mujer (54 años) con hipotiroidismo, HTA, artralgias, ojo seco, sequedad oral. HEP-2: patrón 1/640 granular fino (posible anti-Ro/La). ¿Cuál es su diagnóstico más probable? [cite: 459]",
-      "opcion a": "Lupus Eritematoso Sistémico.",
-      "opcion b": "Síndrome de Sjögren.",
-      "opcion c": "Artritis Reumatoide.",
-      "opcion d": "Dermatomiositis.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 270,
-      "pregunta": "Niño (10 años) con fiebre, somnolencia, rigidez de nuca, petequias/púrpuras, GB 18000. Sospecha de Meningitis Bacteriana. ¿LCR compatible? [cite: 957]",
-      "opcion a": "LCR con 100 leucocitos /mm3, 200 mg/dl de proteínas y 30 mg/dl de glucosa (glucemia simultánea de 120 mg/dl).",
-      "opcion b": "LCR con 500 leucocitos (a predominio mononuclear), proteínas normales, glucosa normal.",
-      "opcion c": "LCR con 5 leucocitos, proteínas normales, glucosa normal.",
-      "opcion d": "LCR hemorrágico con xantocromía.",
+      "id": 8,
+      "pregunta": "¿Qué es la prevención terciaria?",
+      "opcion a": "Prevención de complicaciones y rehabilitación",
+      "opcion b": "Evitar la aparición de enfermedades",
+      "opcion c": "Educación en salud",
+      "opcion d": "Diagnóstico temprano",
       "respuesta_correcta": "opcion a"
     },
     {
-      "id": 271,
-      "pregunta": "Ignacio (10 años) con hematuria, proteinuria leve, antecedente de faringitis hace 15 días. ¿Qué síntomas/signos esperaría para confirmar Síndrome Nefrítico (GNAPE)? [cite: 964]",
-      "opcion a": "Proteinuria masiva (>3.5g/24hs) y dislipemia.",
-      "opcion b": "Oliguria y edemas leves.",
-      "opcion c": "Poliuria y glucosuria.",
-      "opcion d": "Ausencia de hipertensión arterial.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 272,
-      "pregunta": "Bebé (8 meses) con ambos testículos en bolsa, líquido bilateral (transiluminación positiva). ¿Cuál es la conducta más adecuada (Hidrocele Comunicante)? [cite: 976]",
-      "opcion a": "Referir a cirugía pediátrica urgente.",
-      "opcion b": "Realizar punción aspiración de líquido.",
-      "opcion c": "Tranquilizar a la familia y mantener conducta expectante.",
-      "opcion d": "Indicar ecografía de control inmediato.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 273,
-      "pregunta": "Bebé (3 meses) sano, sin cicatriz de BCG. El carnet registra su colocación. ¿Qué conducta asume? [cite: 981]",
-      "opcion a": "Revacunar inmediatamente con una segunda dosis.",
-      "opcion b": "Solicitar prueba de tuberculina antes de revacunar.",
-      "opcion c": "Observa el carnet de vacunación, si hay registro de colocación de BCG, explica que no requiere revacunar.",
-      "opcion d": "Iniciar antibióticos profilácticos.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 274,
-      "pregunta": "Octavio (4 meses), fiebre y decaimiento. Urocultivo: 100.000 colonias/*Klebsiella* (ITU alta). ¿Cuál es la conducta adecuada? [cite: 986]",
-      "opcion a": "Mantener cefalexina oral y control en 72 hs.",
-      "opcion b": "Iniciar tratamiento parenteral, solicitar ecografía renovesical de urgencia y cistouretrografía miccional diferida.",
-      "opcion c": "Solo realizar ecografía renovesical de urgencia.",
-      "opcion d": "Realizar punción suprapúbica para reconfirmar.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 275,
-      "pregunta": "Paciente (15 meses) con incurvación simétrica de miembros inferiores con convexidad externa (Genu Varo Fisiológico). El crecimiento es normal. ¿Cuál es la conducta más adecuada? [cite: 1006]",
-      "opcion a": "Derivar a ortopedia para colocación de férulas.",
-      "opcion b": "Solicitar radiografía de miembros inferiores urgente.",
-      "opcion c": "Conducta expectante y tranquilizar a la familia.",
-      "opcion d": "Iniciar suplementos de Vitamina D en dosis altas.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 276,
-      "pregunta": "Paciente (2 años) con prurito anal nocturno. ¿Qué estudio se debe solicitar para confirmar el diagnóstico (*Enterobius vermicularis*)? [cite: 1012]",
-      "opcion a": "Coproparasitológico seriado.",
-      "opcion b": "Cultivo de materia fecal.",
-      "opcion c": "Escobillado anal y test de Graham.",
-      "opcion d": "PCR en materia fecal.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 277,
-      "pregunta": "Mateo (7 años) con dolor precordial, decaimiento, FC 136 (irregular), TA en p5, relleno capilar enlentecido, hepatomegalia (Miocarditis). ¿Cuál es el diagnóstico presuntivo y manejo inicial? [cite: 1020]",
-      "opcion a": "Disfunción valvular aguda, indicar diuréticos.",
-      "opcion b": "Crisis asmática, aumentar dosis de corticoides inhalados.",
-      "opcion c": "Sospecha miocarditis infecciosa o postinfecciosa viral o por mycoplasma, solicita ECG y ecocardiograma, serologías y PCR virales, interna para control y monitoreo estricto.",
-      "opcion d": "Pericarditis aguda, iniciar AINES y reposo.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 278,
-      "pregunta": "Sofía (12 años), sin carnet, vacunas completas solo hasta los 6 meses. ¿Qué vacunas corresponde aplicarle? [cite: 1026]",
-      "opcion a": "Solo BCG y Hepatitis B.",
-      "opcion b": "Una dosis de Triple Viral y una dosis de DPT.",
-      "opcion c": "2 dosis de HPV; 2 dosis de triple viral; 1 dosis de antimeningocóccica; 1 dosis de triple bacteriana acelular.",
-      "opcion d": "Solo PAI y Sabin.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 279,
-      "pregunta": "Tobías (24 días), vómitos 'en proyectil' con cada alimento, irritable. Sospecha de Estenosis Hipertrófica del Píloro. ¿Qué estudio complementario solicita? [cite: 1040]",
-      "opcion a": "Serie esófago-gastroduodenal.",
-      "opcion b": "Ecografía abdominal.",
-      "opcion c": "Tomografía axial computada.",
-      "opcion d": "Endoscopía digestiva alta.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 280,
-      "pregunta": "Recién nacido a término, examen físico normal. Madre tratada por sífilis en la semana 30 con 3 dosis de Penicilina Benz., separadas por una semana. ¿Cuál es la conducta adecuada para seguimiento del niño? [cite: 1048]",
-      "opcion a": "Tratamiento con Penicilina G Sódica por 10 días.",
-      "opcion b": "Conducta expectante, no requiere seguimiento.",
-      "opcion c": "Seguimiento clínico y serológico durante el primer año.",
-      "opcion d": "Solo seguimiento clínico.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 281,
-      "pregunta": "Matías (9 años) con otitis media aguda en tto con Amoxicilina. Consulta por fiebre, dolor retroauricular izquierdo, edema/eritema retroauricular (Mastoiditis). ¿Qué estudio complementario solicita? [cite: 1056]",
-      "opcion a": "Radiografía simple de mastoides.",
-      "opcion b": "Audiometría.",
-      "opcion c": "TAC cerebral con contraste endovenoso.",
-      "opcion d": "Cultivo de secreción nasal.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 282,
-      "pregunta": "Lucas (8 años), varicela (6º día), lesiones vesículo costrosas, costra mielicérica en pierna, lesión indurada eritematosa caliente de 6 cm (Impétigo, Celulitis). Señale la conducta a seguir: [cite: 1063]",
-      "opcion a": "Alta con antibióticos orales.",
-      "opcion b": "Solicita laboratorio, hemocultivos e internación para antibióticos parenterales.",
-      "opcion c": "Solo tratamiento tópico con Mupirocina.",
-      "opcion d": "Aislamiento y aciclovir oral.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 283,
-      "pregunta": "Niña (4 años) con claudicación de la marcha, fiebre, dolor a movilización de cadera derecha, derrame articular con ecos internos (Artritis Séptica de Cadera). ¿Cuál es la conducta inicial? [cite: 1070]",
-      "opcion a": "Reposo y antiinflamatorios.",
-      "opcion b": "Antibióticos orales y observación.",
-      "opcion c": "Indica exploración quirúrgica.",
-      "opcion d": "Aspiración del derrame y alta.",
-      "respuesta_correcta": "opcion c"
-    },
-    {
-      "id": 284,
-      "pregunta": "Juan (10 años) con hematomas generalizados, hipertrofia gingival, sangrado de encías, síndrome confusional, plaquetas 15.000, TP 45% (Leucemia Mieloide Aguda). ¿Cuál es su principal sospecha diagnóstica? [cite: 1076]",
-      "opcion a": "Púrpura Trombocitopénica Inmune.",
-      "opcion b": "Anemia Aplásica.",
-      "opcion c": "Hemofilia.",
-      "opcion d": "Leucemia mieloide aguda.",
+      "id": 9,
+      "pregunta": "¿Qué es la analgesia?",
+      "opcion a": "Pérdida de la conciencia",
+      "opcion b": "Parálisis muscular",
+      "opcion c": "Pérdida de la sensibilidad",
+      "opcion d": "Ausencia o alivio del dolor",
       "respuesta_correcta": "opcion d"
     },
     {
-      "id": 285,
-      "pregunta": "Facundo, múltiples episodios de palpitaciones, ahogo, hormigueos, mareo, miedo, sin causa orgánica (Trastorno de Pánico). ¿Cuál es la conducta más adecuada? [cite: 1265]",
-      "opcion a": "Solo solicitar un nuevo electrocardiograma y control semanal.",
-      "opcion b": "Indicar Alprazolam sublingual, contener; ampliar anamnesis para decidir inicio de tratamiento con benzodiacepinas e inhibidores de la recaptación de serotonina y pautar seguimiento.",
-      "opcion c": "Derivación a cardiología para Holter de 24 hs.",
-      "opcion d": "Explicarle que es estrés y darle el alta.",
-      "respuesta_correcta": "opcion b"
-    },
-    {
-      "id": 286,
-      "pregunta": "Hombre (71 años) con hipertensión portal (cirrosis), disnea, fiebre, derrame pleural, toracocentesis con pH 6.8, LDH 900, Glucosa 20, Proteínas líquido 3.1. ¿Diagnóstico y tratamiento? [cite: 1545]",
-      "opcion a": "Derrame pleural paraneumónico no complicado. Antibióticos orales.",
-      "opcion b": "Derrame pleural por Insuficiencia Cardíaca. Diuréticos.",
-      "opcion c": "Exudado complicado/empiema que requiere de drenaje pleural y antibioticoterapia.",
-      "opcion d": "Ascitis Pleural (Hidrotórax Hepático). Albúmina IV.",
+      "id": 10,
+      "pregunta": "¿Qué es la epidemiología?",
+      "opcion a": "Estudio de epidemias únicamente",
+      "opcion b": "Tratamiento de enfermedades infecciosas",
+      "opcion c": "Estudio de la distribución y determinantes de enfermedades en poblaciones",
+      "opcion d": "Prevención de enfermedades crónicas",
       "respuesta_correcta": "opcion c"
     },
     {
-      "id": 287,
-      "pregunta": "Paciente (68 años) con tos, disnea, crepitantes en base derecha, compatible con neumonía. CURB-65 = 1. ¿Cuál es la conducta más adecuada? [cite: 1553]",
-      "opcion a": "Internación hospitalaria con doble esquema antibiótico IV.",
-      "opcion b": "Indica Amoxicilina/Clavulánico por 7 días. Mantiene control ambulatorio.",
-      "opcion c": "Internación en Unidad de Cuidados Intensivos.",
-      "opcion d": "Solo reposo e hidratación.",
+      "id": 11,
+      "pregunta": "¿Qué incluye el ingreso en el balance hídrico?",
+      "opcion a": "Líquidos orales, intravenosos, alimentación enteral",
+      "opcion b": "Únicamente sueros intravenosos",
+      "opcion c": "Solamente la alimentación",
+      "opcion d": "Solo agua que bebe el paciente",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 12,
+      "pregunta": "¿Qué es la bradicardia?",
+      "opcion a": "Frecuencia cardíaca menor a 60 latidos por minuto",
+      "opcion b": "Respiración lenta y profunda",
+      "opcion c": "Frecuencia cardíaca mayor a 100 latidos por minuto",
+      "opcion d": "Presión arterial baja",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Qué es el antibiograma?",
+      "opcion a": "Análisis de concentración de antibióticos en sangre",
+      "opcion b": "Prueba para determinar sensibilidad de bacterias a antibióticos",
+      "opcion c": "Registro de antibióticos administrados",
+      "opcion d": "Evaluación de efectos adversos de antibióticos",
       "respuesta_correcta": "opcion b"
     },
     {
-      "id": 288,
-      "pregunta": "José (23 años) con herida importante por mordedura humana de joven alcoholizado con SIDA. ¿Cuál sería el procedimiento adecuado, además de la limpieza? [cite: 1558]",
-      "opcion a": "Solo profilaxis antitetánica.",
-      "opcion b": "Profilaxis frente al HIV y amoxicilina-ácido clavulánico por 5 días.",
-      "opcion c": "Solo amoxicilina-ácido clavulánico por 14 días.",
-      "opcion d": "No requiere profilaxis de HIV si el agresor estaba alcoholizado.",
-      "respuesta_correcta": "opcion b"
+      "id": 14,
+      "pregunta": "¿Cuáles son las precauciones estándar?",
+      "opcion a": "Lavado de manos, uso de guantes, bata, mascarilla y protección ocular",
+      "opcion b": "Uso de antibióticos profilácticos antes de procedimientos",
+      "opcion c": "Desinfección diaria de todas las superficies hospitalarias",
+      "opcion d": "Aislamiento de todos los pacientes en habitaciones individuales",
+      "respuesta_correcta": "opcion a"
     },
     {
-      "id": 289,
-      "pregunta": "Pamela (37 años) con TB pulmonar, abandonó el tto RHZE a los 3 meses. A los 9 meses, baciloscopia positiva (Recaída/Fracaso). ¿Cuál es la conducta más adecuada? [cite: 1565]",
-      "opcion a": "Reiniciar el esquema RHZ por 6 meses.",
-      "opcion b": "Tomar muestra para cultivo y antibiograma e iniciar tratamiento empírico con R-H-Z-E",
-      "opcion c": "Derivar a cirugía para resección pulmonar.",
-      "opcion d": "Confirmar si la cepa es sensible a RHZE con nuevo antibiograma.",
-      "respuesta_correcta": "opcion b"
+      "id": 15,
+      "pregunta": "¿Qué es la maniobra de Heimlich?",
+      "opcion a": "Técnica para desobstruir vía aérea por cuerpo extraño",
+      "opcion b": "Maniobra para controlar hemorragias",
+      "opcion c": "Método de inmovilización cervical",
+      "opcion d": "Técnica de ventilación artificial",
+      "respuesta_correcta": "opcion a"
     },
     {
-      "id": 290,
-      "pregunta": "Joven (19 años) agresivo, verborrágico, desinhibido, atáxico, rubicundez facial, halitosis enólica. ¿Cuál es su diagnóstico presuntivo? [cite: 1572]",
-      "opcion a": "Intoxicación por cocaína.",
-      "opcion b": "Intoxicación por marihuana.",
-      "opcion c": "Intoxicación alcohólica moderada o grave.",
-      "opcion d": "Crisis psicótica aguda.",
+      "id": 16,
+      "pregunta": "¿Qué es la vía tópica?",
+      "opcion a": "Inyección del medicamento en vena",
+      "opcion b": "Administración del medicamento por boca",
+      "opcion c": "Inhalación del medicamento",
+      "opcion d": "Aplicación del medicamento sobre la piel o mucosas",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Qué es una vacuna?",
+      "opcion a": "Medicamento para tratar infecciones",
+      "opcion b": "Antibiótico de amplio espectro",
+      "opcion c": "Suero con anticuerpos preformados",
+      "opcion d": "Preparación biológica que proporciona inmunidad contra una enfermedad",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 18,
+      "pregunta": "¿Qué es la cianosis?",
+      "opcion a": "Coloración amarillenta por exceso de bilirrubina",
+      "opcion b": "Enrojecimiento de la piel por inflamación",
+      "opcion c": "Coloración azulada de piel y mucosas por falta de oxígeno",
+      "opcion d": "Palidez extrema por pérdida de sangre",
       "respuesta_correcta": "opcion c"
     },
     {
-      "id": 291,
-      "pregunta": "Varón (70 años) con temblor en reposo solo en la mano derecha y bradicinesia. ¿Qué enfermedad puede padecer? [cite: 1579]",
-      "opcion a": "Parkinsonismo vascular.",
-      "opcion b": "Enfermedad de Parkinson.",
-      "opcion c": "Temblor esencial.",
-      "opcion d": "Hipertiroidismo recurrente.",
+      "id": 19,
+      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
+      "opcion a": "38 - 39 °C",
+      "opcion b": "36.5 - 37.5 °C",
+      "opcion c": "35 - 36 °C",
+      "opcion d": "34 - 35.5 °C",
       "respuesta_correcta": "opcion b"
     },
     {
-      "id": 292,
-      "pregunta": "Paciente con ascitis. Paracentesis: gradiente de albúmina > 1.1 g/dl y neutrófilos 300/mm3. ¿El diagnóstico más probable es? [cite: 1584]",
-      "opcion a": "Peritonitis tuberculosa.",
-      "opcion b": "Ascitis por carcinomatosis peritoneal.",
-      "opcion c": "Peritonitis bacteriana espontánea en paciente con hipertensión portal.",
-      "opcion d": "Ascitis pancreática.",
+      "id": 20,
+      "pregunta": "¿Qué es la escala de Braden?",
+      "opcion a": "Escala para evaluar el riesgo de úlceras por presión",
+      "opcion b": "Escala de evaluación nutricional",
+      "opcion c": "Escala de riesgo de caídas",
+      "opcion d": "Escala para medir el nivel de dolor",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 21,
+      "pregunta": "¿Qué es el calendario de vacunación?",
+      "opcion a": "Registro de pacientes vacunados",
+      "opcion b": "Horario de atención del vacunatorio",
+      "opcion c": "Lista de vacunas disponibles",
+      "opcion d": "Esquema que indica qué vacunas aplicar según edad",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 22,
+      "pregunta": "¿Qué es el aislamiento hospitalario?",
+      "opcion a": "Separación de pacientes agresivos",
+      "opcion b": "Hospitalización en sala privada",
+      "opcion c": "Medidas para prevenir transmisión de infecciones",
+      "opcion d": "Restricción de visitas familiares",
       "respuesta_correcta": "opcion c"
     },
     {
-      "id": 293,
-      "pregunta": "¿Qué compuesto miden los métodos totalmente enzimáticos para la determinación de la concentración sérica de triglicéridos? [cite: 21]",
-      "opcion a": "Ácidos grasos libres.",
-      "opcion b": "Colesterol.",
-      "opcion c": "Glicerol",
-      "opcion d": "Fosfolípidos.",
+      "id": 23,
+      "pregunta": "¿Cuál es la vía de administración más rápida para medicamentos?",
+      "opcion a": "Oral",
+      "opcion b": "Intramuscular",
+      "opcion c": "Intravenosa",
+      "opcion d": "Subcutánea",
       "respuesta_correcta": "opcion c"
     },
     {
-      "id": 294,
-      "pregunta": "¿Cuál es la tríada que caracteriza al síndrome nefrótico? [cite: 65]",
-      "opcion a": "Hematuria, hipertensión y azoemia.",
-      "opcion b": "Proteinuria (>3.5g/24hs), hipoalbuminemia y edema",
-      "opcion c": "Glucosuria, poliuria y polidipsia.",
-      "opcion d": "Anuria, oliguria e hiperkalemia.",
+      "id": 24,
+      "pregunta": "¿Qué es la anuria?",
+      "opcion a": "Ausencia o producción menor a 100 ml de orina en 24 horas",
+      "opcion b": "Dolor al orinar",
+      "opcion c": "Presencia de sangre en la orina",
+      "opcion d": "Producción excesiva de orina",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 25,
+      "pregunta": "¿Qué es la tromboflebitis?",
+      "opcion a": "Infección bacteriana de la vena",
+      "opcion b": "Inflamación de una vena con formación de trombo",
+      "opcion c": "Ruptura de la pared venosa",
+      "opcion d": "Vasodilatación venosa excesiva",
       "respuesta_correcta": "opcion b"
     },
     {
-      "id": 295,
-      "pregunta": "¿A cuál clase de enzimas pertenece la 5′-Nucleotidase (EC 3.1.3.5)? [cite: 85]",
-      "opcion a": "Oxidorreductasas.",
-      "opcion b": "Transferasas.",
-      "opcion c": "Hidrolasas.",
-      "opcion d": "Liasas.",
+      "id": 26,
+      "pregunta": "¿Qué es una úlcera por presión?",
+      "opcion a": "Herida quirúrgica infectada",
+      "opcion b": "Lesión traumática con pérdida de tejido",
+      "opcion c": "Quemadura por exposición solar",
+      "opcion d": "Lesión de la piel por presión prolongada sobre prominencias óseas",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 27,
+      "pregunta": "¿A qué temperatura se conservan la mayoría de las vacunas?",
+      "opcion a": "+15 a +20 °C",
+      "opcion b": "-20 °C",
+      "opcion c": "+2 a +8 °C",
+      "opcion d": "0 a +2 °C",
       "respuesta_correcta": "opcion c"
     },
     {
-      "id": 296,
-      "pregunta": "¿En qué patología autoinmune es frecuente la presencia de anticuerpos anticentrómero? [cite: 163]",
-      "opcion a": "Lupus Eritematoso Sistémico (LES).",
-      "opcion b": "Esclerosis sistémica localizada",
-      "opcion c": "Artritis Reumatoide.",
-      "opcion d": "Dermatomiositis.",
+      "id": 28,
+      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
+      "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+      "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
+      "opcion c": "Es la técnica de administración hospitalaria",
+      "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 29,
+      "pregunta": "¿Qué es la hipertensión arterial?",
+      "opcion a": "Frecuencia cardíaca mayor a 120 lpm",
+      "opcion b": "Presión arterial sistólica ≥140 mmHg y/o diastólica ≥90 mmHg",
+      "opcion c": "Presión arterial sistólica <100 mmHg",
+      "opcion d": "Presión arterial 120/80 mmHg",
       "respuesta_correcta": "opcion b"
     },
     {
-      "id": 297,
-      "pregunta": "¿Cuál de las siguientes hormonas hipofisarias es regulada en forma predominantemente inhibitoria desde el hipotálamo? [cite: 352]",
-      "opcion a": "Hormona Luteinizante (LH).",
-      "opcion b": "Hormona Adrenocorticotropa (ACTH).",
-      "opcion c": "Prolactina",
-      "opcion d": "Hormona del Crecimiento (GH).",
+      "id": 30,
+      "pregunta": "¿Qué es la bioseguridad en enfermería?",
+      "opcion a": "Conjunto de medidas para proteger la salud del personal y pacientes",
+      "opcion b": "Protocolo de administración de medicamentos",
+      "opcion c": "Sistema de seguros médicos para enfermeros",
+      "opcion d": "Técnica de esterilización de material quirúrgico",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 31,
+      "pregunta": "¿Cuánto dura el lavado de manos clínico?",
+      "opcion a": "40 - 60 segundos",
+      "opcion b": "5 - 10 minutos",
+      "opcion c": "2 - 3 minutos",
+      "opcion d": "10 - 15 segundos",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 32,
+      "pregunta": "¿Qué es la anestesia?",
+      "opcion a": "Relajación muscular profunda",
+      "opcion b": "Sedación superficial",
+      "opcion c": "Alivio del dolor sin pérdida de sensibilidad",
+      "opcion d": "Pérdida de la sensibilidad con o sin pérdida de conciencia",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 33,
+      "pregunta": "¿Cuál es la frecuencia de compresiones en RCP?",
+      "opcion a": "140-160 por minuto",
+      "opcion b": "80-100 por minuto",
+      "opcion c": "100-120 por minuto",
+      "opcion d": "60-80 por minuto",
       "respuesta_correcta": "opcion c"
     },
     {
-      "id": 298,
-      "pregunta": "¿Cuál de las siguientes determinaciones es de utilidad en el diagnóstico de la deficiencia de hormona de crecimiento (GH) en la infancia? [cite: 374]",
-      "opcion a": "Dosaje de GH basal.",
-      "opcion b": "Dosaje de Somatomedina C (IGF-1) basal.",
-      "opcion c": "Concentración de GH en respuesta a pruebas de estímulo",
-      "opcion d": "TSH y T4L.",
-      "respuesta_correcta": "opcion c"
+      "id": 34,
+      "pregunta": "¿Qué es la cadena de frío?",
+      "opcion a": "Sistema para mantener vacunas a temperatura adecuada",
+      "opcion b": "Conservación de medicamentos termolábiles",
+      "opcion c": "Método de esterilización por congelación",
+      "opcion d": "Transporte de órganos para trasplante",
+      "respuesta_correcta": "opcion a"
     },
     {
-      "id": 299,
-      "pregunta": "¿Qué tipo de células están presentes en un líquido de derrame de tipo trasudado (p. ej., insuficiencia cardíaca)? [cite: 448]",
-      "opcion a": "Células mesoteliales reactivas, neutrófilos > 50%.",
-      "opcion b": "Células mesoteliales, macrófagos y linfocitos",
-      "opcion c": "Células malignas.",
-      "opcion d": "Alto recuento de neutrófilos.",
+      "id": 35,
+      "pregunta": "¿Cuál es el volumen normal de diuresis en 24 horas?",
+      "opcion a": "500 - 700 ml",
+      "opcion b": "1000 - 1500 ml",
+      "opcion c": "2500 - 3000 ml",
+      "opcion d": "300 - 500 ml",
       "respuesta_correcta": "opcion b"
     },
     {
-      "id": 300,
-      "pregunta": "¿Para cuál enfermedad autoinmune se consideran patognomónicos los anticuerpos anti-DNA nativo de alta avidez? [cite: 452]",
-      "opcion a": "Síndrome de Sjögren.",
-      "opcion b": "Lupus eritematoso sistémico",
-      "opcion c": "Esclerosis Sistémica.",
-      "opcion d": "Polimiositis.",
+      "id": 36,
+      "pregunta": "¿Qué es la vía parenteral?",
+      "opcion a": "Administración de medicamentos por inyección",
+      "opcion b": "Administración por inhalación",
+      "opcion c": "Administración por vía oral",
+      "opcion d": "Aplicación sobre la piel",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 37,
+      "pregunta": "¿Qué es la autonomía del paciente?",
+      "opcion a": "Autorización para salir del hospital",
+      "opcion b": "Capacidad del paciente para cuidarse solo",
+      "opcion c": "Derecho del paciente a tomar decisiones sobre su salud",
+      "opcion d": "Independencia económica del paciente",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 38,
+      "pregunta": "¿Cuál es la profundidad de compresiones en RCP adulto?",
+      "opcion a": "5-6 cm",
+      "opcion b": "1-2 cm",
+      "opcion c": "8-10 cm",
+      "opcion d": "2-3 cm",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 39,
+      "pregunta": "¿Cuáles son los grados de úlceras por presión?",
+      "opcion a": "Tipo A, B y C",
+      "opcion b": "Estadio 1, 2 y 3",
+      "opcion c": "Grado I, II, III y IV",
+      "opcion d": "Leve, moderado y severo",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 40,
+      "pregunta": "¿Qué es la educación para la salud?",
+      "opcion a": "Capacitación técnica de profesionales de salud",
+      "opcion b": "Enseñanza de primeros auxilios",
+      "opcion c": "Proceso que informa y motiva para adoptar conductas saludables",
+      "opcion d": "Instrucción sobre uso de medicamentos",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 41,
+      "pregunta": "¿Qué es la trombocitopenia?",
+      "opcion a": "Aumento de glóbulos rojos",
+      "opcion b": "Aumento de factores de coagulación",
+      "opcion c": "Disminución de leucocitos",
+      "opcion d": "Disminución del número de plaquetas",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 42,
+      "pregunta": "¿Qué es el shock séptico?",
+      "opcion a": "Fiebre alta con escalofríos",
+      "opcion b": "Sepsis con hipotensión persistente que requiere vasopresores",
+      "opcion c": "Infección generalizada sin compromiso hemodinámico",
+      "opcion d": "Infección resistente a antibióticos",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 43,
+      "pregunta": "¿Cuál es el tratamiento de primera línea en anafilaxia?",
+      "opcion a": "Oxígeno por mascarilla",
+      "opcion b": "Antihistamínicos orales",
+      "opcion c": "Adrenalina (epinefrina) intramuscular",
+      "opcion d": "Corticoides intravenosos",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 44,
+      "pregunta": "¿Cuál es el flujo de oxígeno con cánula nasal?",
+      "opcion a": "1 - 6 litros por minuto",
+      "opcion b": "0.5 - 1 litros por minuto",
+      "opcion c": "20 - 30 litros por minuto",
+      "opcion d": "10 - 15 litros por minuto",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 45,
+      "pregunta": "¿Cuál es el orden correcto del lavado de manos clínico?",
+      "opcion a": "Mojar, enjabonar, frotar, enjuagar, secar",
+      "opcion b": "Secar, mojar, enjabonar, enjuagar, frotar",
+      "opcion c": "Enjabonar, mojar, frotar, secar, enjuagar",
+      "opcion d": "Frotar, enjabonar, mojar, secar, enjuagar",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 46,
+      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
+      "opcion a": "Valoración del paciente",
+      "opcion b": "Evaluación de resultados",
+      "opcion c": "Aplicación del tratamiento",
+      "opcion d": "Diagnóstico médico",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 47,
+      "pregunta": "¿Para qué se usa la vía intradérmica?",
+      "opcion a": "Aplicación de insulina",
+      "opcion b": "Pruebas de alergia y tuberculina (PPD)",
+      "opcion c": "Transfusión de sangre",
+      "opcion d": "Administración de antibióticos",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 48,
+      "pregunta": "¿Qué es la sonda vesical o Foley?",
+      "opcion a": "Catéter que se introduce en la vejiga para drenar orina",
+      "opcion b": "Tubo para alimentación gástrica",
+      "opcion c": "Sonda para aspiración de secreciones",
+      "opcion d": "Catéter para administrar medicamentos",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 49,
+      "pregunta": "¿Qué es la poliuria?",
+      "opcion a": "Micción nocturna frecuente",
+      "opcion b": "Producción excesiva de orina mayor a 2500 ml en 24 horas",
+      "opcion c": "Producción escasa de orina",
+      "opcion d": "Ausencia de producción de orina",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 50,
+      "pregunta": "¿Qué es el secreto profesional?",
+      "opcion a": "Obligación de mantener confidencial la información del paciente",
+      "opcion b": "Información clasificada del hospital",
+      "opcion c": "Procedimientos de enfermería",
+      "opcion d": "Protocolos de medicación",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 51,
+      "pregunta": "¿Cuáles son las etapas del duelo según Kübler-Ross?",
+      "opcion a": "Shock, llanto, tristeza, recuperación",
+      "opcion b": "Sorpresa, dolor, nostalgia, superación",
+      "opcion c": "Negación, ira, negociación, depresión, aceptación",
+      "opcion d": "Miedo, angustia, resignación, olvido",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 52,
+      "pregunta": "¿Qué es la mascarilla de Venturi?",
+      "opcion a": "Equipo de ventilación mecánica",
+      "opcion b": "Filtro para aire contaminado",
+      "opcion c": "Dispositivo que administra oxígeno a concentraciones controladas",
+      "opcion d": "Mascarilla para protección respiratoria",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 53,
+      "pregunta": "¿Qué es el consentimiento informado?",
+      "opcion a": "Documento de alta hospitalaria",
+      "opcion b": "Permiso familiar para hospitalización",
+      "opcion c": "Autorización voluntaria del paciente tras recibir información adecuada",
+      "opcion d": "Registro de ingreso al hospital",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 54,
+      "pregunta": "¿Cuáles son los síntomas de hipoglucemia?",
+      "opcion a": "Fiebre, escalofríos, malestar general",
+      "opcion b": "Sed excesiva, poliuria, visión borrosa",
+      "opcion c": "Dolor abdominal, náuseas, vómitos",
+      "opcion d": "Sudoración, temblor, palpitaciones, confusión",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 55,
+      "pregunta": "¿Cuáles son los principios bioéticos fundamentales?",
+      "opcion a": "Autonomía, beneficencia, no maleficencia, justicia",
+      "opcion b": "Eficiencia, eficacia, calidad, seguridad",
+      "opcion c": "Honestidad, lealtad, respeto, responsabilidad",
+      "opcion d": "Prevención, diagnóstico, tratamiento, rehabilitación",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 56,
+      "pregunta": "¿Qué es la escala de Glasgow?",
+      "opcion a": "Escala de riesgo de caídas",
+      "opcion b": "Escala de evaluación nutricional",
+      "opcion c": "Escala para medir el dolor",
+      "opcion d": "Escala para evaluar el nivel de conciencia",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 57,
+      "pregunta": "¿Qué es la hiperglucemia?",
+      "opcion a": "Glucosa en orina positiva",
+      "opcion b": "Nivel de glucosa menor a 70 mg/dl",
+      "opcion c": "Nivel normal de glucosa postprandial",
+      "opcion d": "Nivel de glucosa en sangre mayor a 126 mg/dl en ayunas",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 58,
+      "pregunta": "¿Qué son los 5 correctos en administración de medicamentos?",
+      "opcion a": "Hospital, sala, cama, turno, registro",
+      "opcion b": "Nombre, apellido, edad, peso, altura",
+      "opcion c": "Paciente, medicamento, dosis, vía, hora correctos",
+      "opcion d": "Fecha, lugar, médico, enfermera, testigo",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 59,
+      "pregunta": "¿Qué es la disnea?",
+      "opcion a": "Dificultad para respirar",
+      "opcion b": "Tos persistente",
+      "opcion c": "Dolor en el pecho",
+      "opcion d": "Aumento de la frecuencia cardíaca",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 60,
+      "pregunta": "¿Cuál es la frecuencia respiratoria normal en adultos?",
+      "opcion a": "12 - 20 respiraciones por minuto",
+      "opcion b": "25 - 35 respiraciones por minuto",
+      "opcion c": "8 - 12 respiraciones por minuto",
+      "opcion d": "20 - 30 respiraciones por minuto",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 61,
+      "pregunta": "¿Qué es la neutropenia?",
+      "opcion a": "Aumento de glóbulos blancos",
+      "opcion b": "Disminución de neutrófilos en sangre",
+      "opcion c": "Aumento de eosinófilos",
+      "opcion d": "Disminución de plaquetas",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 62,
+      "pregunta": "¿Qué es la posición de decúbito lateral?",
+      "opcion a": "Paciente acostado de lado",
+      "opcion b": "Paciente sentado",
+      "opcion c": "Paciente boca arriba",
+      "opcion d": "Paciente boca abajo",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 63,
+      "pregunta": "¿Qué es la hemostasia?",
+      "opcion a": "Proceso de detención de una hemorragia",
+      "opcion b": "Equilibrio de líquidos corporales",
+      "opcion c": "Mantenimiento del pH sanguíneo",
+      "opcion d": "Regulación de la temperatura corporal",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 64,
+      "pregunta": "¿Qué es el shock hipovolémico?",
+      "opcion a": "Obstrucción del flujo sanguíneo por émbolo",
+      "opcion b": "Infección generalizada con falla multiorgánica",
+      "opcion c": "Estado de hipoperfusión tisular por pérdida de volumen sanguíneo",
+      "opcion d": "Reacción alérgica grave con colapso cardiovascular",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 65,
+      "pregunta": "¿Cuál es el ángulo correcto para inyección intramuscular?",
+      "opcion a": "15 grados",
+      "opcion b": "45 grados",
+      "opcion c": "90 grados",
+      "opcion d": "30 grados",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 66,
+      "pregunta": "¿Qué es la aspiración de secreciones?",
+      "opcion a": "Drenaje postural del paciente",
+      "opcion b": "Procedimiento para eliminar secreciones de las vías respiratorias",
+      "opcion c": "Administración de mucolíticos nebulizados",
+      "opcion d": "Técnica de fisioterapia respiratoria",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 67,
+      "pregunta": "¿Qué es la hipoglucemia?",
+      "opcion a": "Presencia de cetonas en sangre",
+      "opcion b": "Nivel de glucosa mayor a 180 mg/dl",
+      "opcion c": "Glucosa en ayunas de 100 mg/dl",
+      "opcion d": "Nivel de glucosa en sangre menor a 70 mg/dl",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 68,
+      "pregunta": "¿Qué ángulo se usa en inyección intradérmica?",
+      "opcion a": "10-15 grados",
+      "opcion b": "90 grados",
+      "opcion c": "45 grados",
+      "opcion d": "30 grados",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 69,
+      "pregunta": "¿Qué es una pandemia?",
+      "opcion a": "Epidemia que afecta a varios países o continentes",
+      "opcion b": "Enfermedad endémica de una región",
+      "opcion c": "Enfermedad rara sin tratamiento",
+      "opcion d": "Brote localizado de una enfermedad",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 70,
+      "pregunta": "¿Qué es la oliguria?",
+      "opcion a": "Ausencia total de orina",
+      "opcion b": "Micción frecuente en pequeñas cantidades",
+      "opcion c": "Producción excesiva de orina clara",
+      "opcion d": "Producción de orina menor a 400 ml en 24 horas",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 71,
+      "pregunta": "¿Qué es el dolor agudo?",
+      "opcion a": "Dolor de inicio reciente, generalmente menor a 3 meses",
+      "opcion b": "Dolor persistente mayor a 6 meses",
+      "opcion c": "Dolor de intensidad muy severa",
+      "opcion d": "Dolor sin causa identificable",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 72,
+      "pregunta": "¿Qué es la ética en enfermería?",
+      "opcion a": "Conjunto de principios morales que guían la práctica profesional",
+      "opcion b": "Reglamento interno del hospital",
+      "opcion c": "Normas de bioseguridad",
+      "opcion d": "Leyes que regulan la profesión",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 73,
+      "pregunta": "¿Qué es un factor de riesgo?",
+      "opcion a": "Complicación de un tratamiento",
+      "opcion b": "Síntoma inicial de una enfermedad",
+      "opcion c": "Característica que aumenta la probabilidad de desarrollar una enfermedad",
+      "opcion d": "Causa directa de una enfermedad",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 74,
+      "pregunta": "¿Cuál es la zona recomendada para inyección subcutánea de insulina?",
+      "opcion a": "Solamente en la región deltoidea",
+      "opcion b": "Únicamente en el dorso de la mano",
+      "opcion c": "Exclusivamente en la región lumbar",
+      "opcion d": "Abdomen, muslos, brazos y glúteos",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 75,
+      "pregunta": "¿Qué es un hematoma?",
+      "opcion a": "Inflamación de un vaso sanguíneo",
+      "opcion b": "Deficiencia de factores de coagulación",
+      "opcion c": "Acumulación de sangre fuera de los vasos sanguíneos",
+      "opcion d": "Aumento del número de glóbulos rojos",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 76,
+      "pregunta": "¿Qué incluye el egreso en el balance hídrico?",
+      "opcion a": "Solo la orina",
+      "opcion b": "Orina, heces, vómitos, drenajes, sudoración",
+      "opcion c": "Solamente pérdidas insensibles",
+      "opcion d": "Únicamente vómitos y diarrea",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 77,
+      "pregunta": "¿Qué ángulo se usa en inyección subcutánea?",
+      "opcion a": "60 grados",
+      "opcion b": "15 grados",
+      "opcion c": "45 grados",
+      "opcion d": "90 grados",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 78,
+      "pregunta": "¿Qué evalúa la escala de Glasgow?",
+      "opcion a": "Frecuencia cardíaca, respiratoria y presión arterial",
+      "opcion b": "Apertura ocular, respuesta verbal y respuesta motora",
+      "opcion c": "Reflejos, sensibilidad y movilidad",
+      "opcion d": "Orientación, memoria y lenguaje",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 79,
+      "pregunta": "¿Qué es la saturación de oxígeno normal (SpO2)?",
+      "opcion a": "80% - 85%",
+      "opcion b": "85% - 90%",
+      "opcion c": "70% - 80%",
+      "opcion d": "95% - 100%",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 80,
+      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
+      "opcion a": "Servicio, Observación, Atención, Protocolo",
+      "opcion b": "Subjetivo, Objetivo, Análisis, Plan",
+      "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
+      "opcion d": "Sistema, Organización, Aplicación, Procedimiento",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 81,
+      "pregunta": "¿Cuáles son los colores del triaje?",
+      "opcion a": "Blanco, gris, negro, rojo",
+      "opcion b": "Rojo (crítico), amarillo (urgente), verde (no urgente), negro (fallecido)",
+      "opcion c": "Verde, naranja, morado, negro",
+      "opcion d": "Azul, verde, amarillo, rojo",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 82,
+      "pregunta": "¿Cuáles son los signos de flebitis?",
+      "opcion a": "Prurito, descamación, sequedad",
+      "opcion b": "Cianosis, edema, dolor intenso",
+      "opcion c": "Palidez, frialdad, ausencia de pulso",
+      "opcion d": "Dolor, enrojecimiento, calor, induración en el trayecto venoso",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 83,
+      "pregunta": "¿Cuál es la presión arterial normal en adultos?",
+      "opcion a": "160/100 mmHg",
+      "opcion b": "140/90 mmHg",
+      "opcion c": "100/60 mmHg",
+      "opcion d": "120/80 mmHg (sistólica/diastólica)",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 84,
+      "pregunta": "¿Qué es la anemia?",
+      "opcion a": "Aumento de plaquetas",
+      "opcion b": "Disminución de factores de coagulación",
+      "opcion c": "Disminución de hemoglobina o glóbulos rojos",
+      "opcion d": "Disminución de glóbulos blancos",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 85,
+      "pregunta": "¿Qué es la técnica aséptica?",
+      "opcion a": "Técnica de sutura quirúrgica",
+      "opcion b": "Protocolo de aislamiento respiratorio",
+      "opcion c": "Método de esterilización química de instrumentos",
+      "opcion d": "Conjunto de procedimientos para evitar la contaminación con microorganismos",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 86,
+      "pregunta": "¿Qué es la taquicardia?",
+      "opcion a": "Frecuencia cardíaca menor a 60 latidos por minuto",
+      "opcion b": "Irregularidad en el ritmo cardíaco",
+      "opcion c": "Frecuencia cardíaca mayor a 100 latidos por minuto",
+      "opcion d": "Dolor precordial intenso",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 87,
+      "pregunta": "¿Qué es la sonda nasogástrica?",
+      "opcion a": "Tubo que se introduce por la nariz hasta el estómago",
+      "opcion b": "Tubo para administrar oxígeno",
+      "opcion c": "Catéter para drenar la vejiga",
+      "opcion d": "Sonda para nutrición parenteral",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 88,
+      "pregunta": "¿Qué es la salud según la OMS?",
+      "opcion a": "Estado de completo bienestar físico, mental y social",
+      "opcion b": "Capacidad de realizar actividades diarias",
+      "opcion c": "Ausencia de enfermedad únicamente",
+      "opcion d": "Equilibrio entre trabajo y descanso",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 89,
+      "pregunta": "¿Cuál es el sitio correcto para tomar el pulso carotídeo?",
+      "opcion a": "Lateral del cuello, entre la tráquea y el músculo esternocleidomastoideo",
+      "opcion b": "En la parte posterior del cuello",
+      "opcion c": "En la región submandibular",
+      "opcion d": "En la región temporal de la frente",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 90,
+      "pregunta": "¿Cuál es el calibre de aguja más grueso?",
+      "opcion a": "25 G",
+      "opcion b": "21 G",
+      "opcion c": "14 G (gauge)",
+      "opcion d": "30 G",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 91,
+      "pregunta": "¿Qué es la vía oral?",
+      "opcion a": "Administración por vía rectal",
+      "opcion b": "Administración de medicamentos por la boca",
+      "opcion c": "Aplicación de medicamentos en la piel",
+      "opcion d": "Inyección en el músculo",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 92,
+      "pregunta": "¿Qué es el balance hídrico?",
+      "opcion a": "Evaluación del estado nutricional",
+      "opcion b": "Control de peso diario del paciente",
+      "opcion c": "Registro de ingresos y egresos de líquidos en 24 horas",
+      "opcion d": "Medición de la presión arterial",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 93,
+      "pregunta": "¿Cuál es el sitio de inyección intramuscular más usado en adultos?",
+      "opcion a": "Músculo deltoides y región ventroglútea",
+      "opcion b": "Región abdominal periumbilical",
+      "opcion c": "Cara anterior del antebrazo",
+      "opcion d": "Región plantar del pie",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 94,
+      "pregunta": "¿Qué es la cetoacidosis diabética?",
+      "opcion a": "Nivel bajo de glucosa por exceso de insulina",
+      "opcion b": "Daño renal crónico por diabetes",
+      "opcion c": "Infección urinaria en paciente diabético",
+      "opcion d": "Complicación aguda de la diabetes por deficiencia severa de insulina",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 95,
+      "pregunta": "¿Qué es un evento adverso post-vacunación?",
+      "opcion a": "Dolor en el sitio de inyección solamente",
+      "opcion b": "Cualquier situación no deseada que ocurre después de la vacunación",
+      "opcion c": "Reacción alérgica exclusivamente",
+      "opcion d": "Fiebre mayor a 39°C únicamente",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 96,
+      "pregunta": "¿Cuál es el dispositivo de oxigenoterapia más común?",
+      "opcion a": "Cánula nasal",
+      "opcion b": "Cámara hiperbárica",
+      "opcion c": "Nebulizador ultrasónico",
+      "opcion d": "Ventilador mecánico",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 97,
+      "pregunta": "¿Qué es la hipoxia?",
+      "opcion a": "Aumento de dióxido de carbono en sangre",
+      "opcion b": "Deficiencia de hemoglobina en sangre",
+      "opcion c": "Disminución de oxígeno en los tejidos",
+      "opcion d": "Exceso de oxígeno en los pulmones",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 98,
+      "pregunta": "¿Qué es la vía intradérmica?",
+      "opcion a": "Inyección en la dermis, entre epidermis y tejido subcutáneo",
+      "opcion b": "Inyección en el tejido graso subcutáneo",
+      "opcion c": "Inyección profunda en el músculo",
+      "opcion d": "Inyección directa en vena",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 99,
+      "pregunta": "¿Qué es la ictericia?",
+      "opcion a": "Coloración amarillenta de piel y mucosas por aumento de bilirrubina",
+      "opcion b": "Palidez por anemia severa",
+      "opcion c": "Enrojecimiento facial por fiebre",
+      "opcion d": "Coloración azulada por falta de oxígeno",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 100,
+      "pregunta": "¿Qué es la promoción de la salud?",
+      "opcion a": "Tratamiento de enfermedades existentes",
+      "opcion b": "Proceso que permite a las personas mejorar su salud",
+      "opcion c": "Rehabilitación de pacientes crónicos",
+      "opcion d": "Diagnóstico precoz de enfermedades",
       "respuesta_correcta": "opcion b"
     }
   ]
