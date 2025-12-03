@@ -5,1103 +5,1203 @@
   "preguntas": [
     {
       "id": 1,
-      "pregunta": "¿Qué es una vacuna?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "Los productos de limpieza y desinfección son utilizados habitualmente en los establecimientos sanitarios. ¿Qué capacidad tienen estos contra el SARS-CoV-2?",
+      "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Preparación biológica que proporciona inmunidad contra una enfermedad",
-        "opcion b": "Medicamento para tratar infecciones",
-        "opcion c": "Suero con anticuerpos preformados",
-        "opcion d": "Antibiótico de amplio espectro"
-      }
+        "opcion a": "No son efectivos contra el virus.",
+        "opcion b": "Únicamente previenen la contaminación bacteriana.",
+        "opcion c": "Tienen la capacidad para inactivar el virus",
+        "opcion d": "Solo inhiben su replicación."
+      },
+      "caso_clinico": "Bioseguridad"
     },
     {
       "id": 2,
-      "pregunta": "¿Qué es la aspiración de secreciones?",
+      "pregunta": "¿Cómo se llama el pulso que se debe tomar en el dorso del pie?",
       "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Administración de mucolíticos nebulizados",
-        "opcion b": "Técnica de fisioterapia respiratoria",
-        "opcion c": "Drenaje postural del paciente",
-        "opcion d": "Procedimiento para eliminar secreciones de las vías respiratorias"
-      }
+        "opcion a": "Pulso poplíteo",
+        "opcion b": "Pulso femoral",
+        "opcion c": "Pulso tibial posterior",
+        "opcion d": "Pulso pedio"
+      },
+      "caso_clinico": "Valoración Física"
     },
     {
       "id": 3,
-      "pregunta": "¿Qué es la ética en enfermería?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "Usted realiza la recepción de un recién nacido entre las semanas 28-31 o un peso de entre 1000 g.-1500g. ¿Qué clasificación le corresponde?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Normas de bioseguridad",
-        "opcion b": "Leyes que regulan la profesión",
-        "opcion c": "Reglamento interno del hospital",
-        "opcion d": "Conjunto de principios morales que guían la práctica profesional"
-      }
+        "opcion a": "Recién nacido prematuro extremo",
+        "opcion b": "Recién nacido prematuro tardío",
+        "opcion c": "Recién nacido con bajo peso al nacer",
+        "opcion d": "Recién nacido a término (RNAT)"
+      },
+      "caso_clinico": "Puericultura (Recién Nacido)"
     },
     {
       "id": 4,
-      "pregunta": "¿Cuáles son las vías parenterales?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "¿Cuáles son estos métodos básicos de la comunicación que aseguran una recepción y respuesta eficaz?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Oral, sublingual, rectal",
-        "opcion b": "Tópica, oftálmica, ótica",
-        "opcion c": "Nasal, inhalatoria, transdérmica",
-        "opcion d": "Intravenosa, intramuscular, subcutánea, intradérmica"
-      }
+        "opcion a": "La palabra escrita, el lenguaje corporal y el lenguaje oral",
+        "opcion b": "Las redes sociales y la mensajería instantánea.",
+        "opcion c": "Los informes y los comunicados de prensa.",
+        "opcion d": "El correo electrónico y el teléfono."
+      },
+      "caso_clinico": "Administración y Gestión"
     },
     {
       "id": 5,
-      "pregunta": "¿Cuál es el sitio correcto para tomar el pulso carotídeo?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "El concepto de Maternidades centradas en la familia promueve la idea de que la mujer y su entorno deben tomar un rol activo en el cuidado de su embarazo. ¿Qué promueve este concepto?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "En la región submandibular",
-        "opcion b": "Lateral del cuello, entre la tráquea y el músculo esternocleidomastoideo",
-        "opcion c": "En la parte posterior del cuello",
-        "opcion d": "En la región temporal de la frente"
-      }
+        "opcion a": "La delegación total de los cuidados al equipo de salud.",
+        "opcion b": "La restricción de la participación de la pareja durante el parto.",
+        "opcion c": "La priorización exclusiva de los procedimientos médicos.",
+        "opcion d": "La idea de que la mujer y su entorno deben tomar un rol activo en el cuidado de su embarazo y participar en el desarrollo y la evaluación del mismo."
+      },
+      "caso_clinico": "Maternidad"
     },
     {
       "id": 6,
-      "pregunta": "¿Qué es la vía sublingual?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "La educación continua debe llevarse a cabo periódicamente. ¿Cuál es uno de sus propósitos?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Administración del medicamento con agua",
-        "opcion b": "Aplicación del medicamento en las encías",
-        "opcion c": "Colocación del medicamento debajo de la lengua",
-        "opcion d": "Colocación del medicamento en la mejilla"
-      }
+        "opcion a": "Reducir el salario del personal.",
+        "opcion b": "Reforzar la confianza del trabajador en su organización",
+        "opcion c": "Aumentar el número de horas extras.",
+        "opcion d": "Automatizar todas las tareas manuales."
+      },
+      "caso_clinico": "Administración y Gestión"
     },
     {
       "id": 7,
-      "pregunta": "¿Qué es la posición de Trendelenburg?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "¿Cuál es la situación en la cual está contraindicado vacunar a una persona (contraindicación absoluta)?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Paciente sentado con cabeza elevada",
-        "opcion b": "Paciente boca abajo con cabeza de lado",
-        "opcion c": "Paciente acostado con cabeza más baja que los pies",
-        "opcion d": "Paciente de lado en posición fetal"
-      }
+        "opcion a": "Reacción anafiláctica.",
+        "opcion b": "Enfermedad leve sin fiebre.",
+        "opcion c": "Fiebre leve (37.5°C).",
+        "opcion d": "Tratamiento con antibióticos."
+      },
+      "caso_clinico": "Vacunación"
     },
     {
       "id": 8,
-      "pregunta": "¿Qué incluye el egreso en el balance hídrico?",
+      "pregunta": "Usted está en el área COVID con pacientes que presentan síntomas leves, sin procedimientos que generen aerosoles. ¿Qué equipo de protección debe utilizar?",
       "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Solo la orina",
-        "opcion b": "Orina, heces, vómitos, drenajes, sudoración",
-        "opcion c": "Solamente pérdidas insensibles",
-        "opcion d": "Únicamente vómitos y diarrea"
-      }
+        "opcion a": "Solo guantes y camisolín, sin protección respiratoria.",
+        "opcion b": "Barbijo quirúrgico, camisolín, guantes, protección ocular o facial",
+        "opcion c": "Cualquier tipo de mascarilla de tela.",
+        "opcion d": "Barbijo N95 y traje de bioseguridad completo."
+      },
+      "caso_clinico": "Bioseguridad (EPP)"
     },
     {
       "id": 9,
-      "pregunta": "¿Qué es la oxigenoterapia?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "Los corticoides pueden clasificarse en tres grandes grupos. ¿Cómo se llaman esos grupos?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Terapia respiratoria con vapor de agua",
-        "opcion b": "Administración de broncodilatadores nebulizados",
-        "opcion c": "Administración de oxígeno suplementario para tratar hipoxemia",
-        "opcion d": "Fisioterapia pulmonar"
-      }
+        "opcion a": "Esteroides, triterpenos y saponinas.",
+        "opcion b": "Glucocorticoides, mineralocorticoides, andrógenos",
+        "opcion c": "Estrogenoides, progestagenos y testosteronas.",
+        "opcion d": "Antiinflamatorios, inmunosupresores y antialérgicos."
+      },
+      "caso_clinico": "Farmacología"
     },
     {
       "id": 10,
-      "pregunta": "¿Qué es el shock hipovolémico?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "¿Cuál diagnóstico de Enfermería corresponde a un paciente con Neumonía que presenta dolor pleurítico, fatiga, taquipnea, uso de músculos accesorios, tos y esputo purulento?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Infección generalizada con falla multiorgánica",
-        "opcion b": "Obstrucción del flujo sanguíneo por émbolo",
-        "opcion c": "Reacción alérgica grave con colapso cardiovascular",
-        "opcion d": "Estado de hipoperfusión tisular por pérdida de volumen sanguíneo"
-      }
+        "opcion a": "Riesgo de desequilibrio de volumen de líquidos.",
+        "opcion b": "Limpieza ineficaz de las vías respiratorias relacionada con secreciones traqueobronquiales abundantes",
+        "opcion c": "Deterioro del intercambio gaseoso relacionado con la neumonía.",
+        "opcion d": "Patrón respiratorio ineficaz relacionado con el dolor."
+      },
+      "caso_clinico": "Diagnóstico de Enfermería"
     },
     {
       "id": 11,
-      "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "Existe la clasificación para los recién nacidos por edad gestacional. Usted realiza la recepción de un Recién Nacido (RN) que se clasifica de término. ¿Cuál es el intervalo de semanas para definir dicha clasificación?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "34 - 35.5 °C",
-        "opcion b": "38 - 39 °C",
-        "opcion c": "36.5 - 37.5 °C",
-        "opcion d": "35 - 36 °C"
-      }
+        "opcion a": "Entre 35-37 semanas de gestación",
+        "opcion b": "Entre 37-42 semanas de gestación",
+        "opcion c": "Menos de 37 semanas de gestación",
+        "opcion d": "Más de 42 semanas de gestación"
+      },
+      "caso_clinico": "Puericultura (Recién Nacido)"
     },
     {
       "id": 12,
-      "pregunta": "¿Cuál es el flujo de oxígeno con cánula nasal?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "La Reanimación en el Recién Nacido se basa en la evaluación permanente, integrada y simultánea de tres parámetros vitales. ¿Cuáles son esos parámetros?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "20 - 30 litros por minuto",
-        "opcion b": "1 - 6 litros por minuto",
-        "opcion c": "0.5 - 1 litros por minuto",
-        "opcion d": "10 - 15 litros por minuto"
-      }
+        "opcion a": "Peso, talla, perímetro cefálico.",
+        "opcion b": "Reflejos, tono muscular, temperatura.",
+        "opcion c": "Gases arteriales, presión arterial, diuresis.",
+        "opcion d": "Respiración, frecuencia cardíaca, color."
+      },
+      "caso_clinico": "Reanimación Neonatal"
     },
     {
       "id": 13,
-      "pregunta": "¿Qué es el secreto profesional?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "¿Cuáles son algunos de los objetivos del Programa Nacional de Control del Tabaco y la Ley Nacional 26.687?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Protocolos de medicación",
-        "opcion b": "Procedimientos de enfermería",
-        "opcion c": "Obligación de mantener confidencial la información del paciente",
-        "opcion d": "Información clasificada del hospital"
-      }
+        "opcion a": "Disminuir la accesibilidad, Promover estilos de vida sin tabaco, Concientizar y promover Ambientes Libres de Humo.",
+        "opcion b": "Facilitar la venta de productos de tabaco en todos los comercios.",
+        "opcion c": "Incrementar la producción de cigarrillos con bajo contenido de nicotina.",
+        "opcion d": "Promover la terapia de reemplazo nicotínico exclusivamente."
+      },
+      "caso_clinico": "Salud Pública"
     },
     {
       "id": 14,
-      "pregunta": "¿Cuál es la vía de administración más rápida para medicamentos?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "El coach se define como un líder con visión inspiradora. ¿Qué elementos son necesarios para ser un coach?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Intramuscular",
-        "opcion b": "Intravenosa",
-        "opcion c": "Subcutánea",
-        "opcion d": "Oral"
-      }
+        "opcion a": "Ser el más antiguo de la institución.",
+        "opcion b": "Solo carisma y ambición.",
+        "opcion c": "Poder absoluto y riqueza.",
+        "opcion d": "Tener resultados, disciplina, valores y entrenamiento."
+      },
+      "caso_clinico": "Liderazgo"
     },
     {
       "id": 15,
-      "pregunta": "¿Qué es el balance hídrico?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "Para Roy, la adaptación está determinada por estímulos. ¿Cuáles son esos estímulos?",
+      "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Evaluación del estado nutricional",
-        "opcion b": "Medición de la presión arterial",
-        "opcion c": "Control de peso diario del paciente",
-        "opcion d": "Registro de ingresos y egresos de líquidos en 24 horas"
-      }
+        "opcion a": "Regionales, globales y de adaptación.",
+        "opcion b": "Residuales, de control y de respuesta.",
+        "opcion c": "Locales, contextuales y residuales.",
+        "opcion d": "Funcionales, emocionales y ambientales."
+      },
+      "caso_clinico": "Teorías de Enfermería"
     },
     {
       "id": 16,
-      "pregunta": "¿Qué es la vía tópica?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "El personal de enfermería construye un plan de cuidado individualizado para satisfacer las necesidades de enseñanza y aprendizaje del paciente. ¿Cómo se llama dicho proceso?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Inhalación del medicamento",
-        "opcion b": "Inyección del medicamento en vena",
-        "opcion c": "Aplicación del medicamento sobre la piel o mucosas",
-        "opcion d": "Administración del medicamento por boca"
-      }
+        "opcion a": "NANDA (Diagnósticos de Enfermería)",
+        "opcion b": "PAE (Proceso de Atención de Enfermería)",
+        "opcion c": "NOC (Clasificación de Resultados de Enfermería)",
+        "opcion d": "NIC (Clasificación de Intervenciones de Enfermería)"
+      },
+      "caso_clinico": "Proceso de Enfermería"
     },
     {
       "id": 17,
-      "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "Una mujer refiere que tiene un lactante de 2 meses y debe volver a trabajar, sin espacio para refrigerar la leche. ¿Hasta qué tiempo es aceptable mantener la leche materna a temperatura ambiente?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-        "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
-        "opcion c": "Es la técnica de administración hospitalaria",
-        "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos"
-      }
+        "opcion a": "No más de 4 horas",
+        "opcion b": "No más de 12 horas",
+        "opcion c": "No más de 6 horas",
+        "opcion d": "No más de 8 horas"
+      },
+      "caso_clinico": "Lactancia Materna"
     },
     {
       "id": 18,
-      "pregunta": "¿Cuál es la relación compresiones-ventilaciones en RCP adulto?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "Si los vasos sanguíneos no se dilatan en respuesta a la necesidad de un mayor flujo sanguíneo, ¿qué se podría producir?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "15 compresiones : 2 ventilaciones",
-        "opcion b": "20 compresiones : 1 ventilación",
-        "opcion c": "30 compresiones : 2 ventilaciones",
-        "opcion d": "5 compresiones : 1 ventilación"
-      }
+        "opcion a": "Isquemia",
+        "opcion b": "Trombosis",
+        "opcion c": "Vasoconstricción refleja",
+        "opcion d": "Hiperemia"
+      },
+      "caso_clinico": "Fisiopatología"
     },
     {
       "id": 19,
-      "pregunta": "¿Qué incluye el ingreso en el balance hídrico?",
+      "pregunta": "La Ley 25.673 del Programa Nacional de Salud Sexual y Procreación Responsable menciona siete objetivos. ¿Cuál es uno de los objetivos para garantizar la implementación de la ley?",
       "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Solo agua que bebe el paciente",
-        "opcion b": "Líquidos orales, intravenosos, alimentación enteral",
-        "opcion c": "Únicamente sueros intravenosos",
-        "opcion d": "Solamente la alimentación"
-      }
+        "opcion a": "Promover la abstinencia como único método anticonceptivo primario.",
+        "opcion b": "Garantizar a toda la población el acceso a la información, orientación, métodos y prestaciones de servicios referidos a la salud sexual y procreación responsable.",
+        "opcion c": "Establecer la obligatoriedad del testeo de VIH antes de contraer matrimonio.",
+        "opcion d": "Reducir la tasa de mortalidad materna e infantil en un 50%."
+      },
+      "caso_clinico": "Leyes y Derechos"
     },
     {
       "id": 20,
-      "pregunta": "¿Qué es la poliuria?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "El Triage es un proceso que permite la gestión del riesgo clínico. ¿Cuáles son los pasos para la detección en el Triage de un paciente con sospecha por COVID-19?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Micción nocturna frecuente",
-        "opcion b": "Producción excesiva de orina mayor a 2500 ml en 24 horas",
-        "opcion c": "Producción escasa de orina",
-        "opcion d": "Ausencia de producción de orina"
-      }
+        "opcion a": "Examinar, Hospitalizar, Tratar.",
+        "opcion b": "Diagnosticar, Medicar, Derivar.",
+        "opcion c": "Registrar, Contactar, Vacunar.",
+        "opcion d": "Identificar, aislar, informar"
+      },
+      "caso_clinico": "Epidemiología (COVID-19)/Triage"
     },
     {
       "id": 21,
-      "pregunta": "¿Cuál es la frecuencia de compresiones en RCP?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "¿Cómo se llama la línea fibroelástica de unión entre los huesos craneales del Recién Nacido que permite el moldeo de la cabeza en el parto?",
+      "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "80-100 por minuto",
-        "opcion b": "100-120 por minuto",
-        "opcion c": "140-160 por minuto",
-        "opcion d": "60-80 por minuto"
-      }
+        "opcion a": "Sinostosis",
+        "opcion b": "Fontanelas",
+        "opcion c": "Suturas",
+        "opcion d": "Cisuras"
+      },
+      "caso_clinico": "Puericultura (Recién Nacido)"
     },
     {
       "id": 22,
-      "pregunta": "¿Qué es el cuidado paliativo?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "Según la Teoría de Dorotea Orem, las acciones de enfermería consisten en proporcionar asistencia a aquellos que son incapaces de cubrir sus necesidades de autocuidado. ¿Cuáles son los componentes para el autocuidado?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Tratamiento curativo de enfermedades crónicas",
-        "opcion b": "Rehabilitación post-quirúrgica",
-        "opcion c": "Prevención de enfermedades graves",
-        "opcion d": "Atención para mejorar calidad de vida en enfermedades terminales"
-      }
+        "opcion a": "La familia, la comunidad y el medio ambiente",
+        "opcion b": "Los sistemas compensatorios, parciales y de apoyo.",
+        "opcion c": "El ser biopsicosocial, el entorno y la salud.",
+        "opcion d": "El déficit de autocuidado, el agente y las demandas."
+      },
+      "caso_clinico": "Teorías de Enfermería"
     },
     {
       "id": 23,
-      "pregunta": "¿Qué es la oliguria?",
+      "pregunta": "¿A qué definición se hace referencia al hablar de la definición y difusión de pautas que son fundamentales para tener la certeza de que los procesos se realizan dentro de un marco de responsabilidad compartida?",
       "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Producción de orina menor a 400 ml en 24 horas",
-        "opcion b": "Micción frecuente en pequeñas cantidades",
-        "opcion c": "Ausencia total de orina",
-        "opcion d": "Producción excesiva de orina clara"
-      }
+        "opcion a": "Valores",
+        "opcion b": "Metas",
+        "opcion c": "Misión",
+        "opcion d": "Visión"
+      },
+      "caso_clinico": "Administración y Gestión"
     },
     {
       "id": 24,
-      "pregunta": "¿Cuál es la presión arterial normal en adultos?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "Según el Código deontológico del Consejo Internacional de Enfermeras, ¿Con quién debe tener ese compromiso de discreción el profesional de Enfermería al mantener confidencial toda información personal?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "140/90 mmHg",
-        "opcion b": "120/80 mmHg (sistólica/diastólica)",
-        "opcion c": "100/60 mmHg",
-        "opcion d": "160/100 mmHg"
-      }
+        "opcion a": "Solo con el médico tratante.",
+        "opcion b": "Con el Ministerio de Salud.",
+        "opcion c": "Con el empleador del paciente.",
+        "opcion d": "La enfermera y las personas"
+      },
+      "caso_clinico": "Ética Profesional"
     },
     {
       "id": 25,
-      "pregunta": "¿Qué son los 5 correctos en administración de medicamentos?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "Según la ley 26.743/2012 de Identidad de Género, en su artículo 11, habla del derecho al libre desarrollo personal en personas mayores de 18 años. ¿Qué se garantiza en dicho artículo?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Paciente, medicamento, dosis, vía, hora correctos",
-        "opcion b": "Hospital, sala, cama, turno, registro",
-        "opcion c": "Nombre, apellido, edad, peso, altura",
-        "opcion d": "Fecha, lugar, médico, enfermera, testigo"
-      }
+        "opcion a": "El cambio de nombre y sexo solo por orden judicial.",
+        "opcion b": "El goce de su salud integral, Cambio de imagen y cambio de identidad",
+        "opcion c": "Acceso a cirugías estéticas ilimitadas.",
+        "opcion d": "La prioridad en listas de espera médicas."
+      },
+      "caso_clinico": "Identidad de Género (Ley 26743)"
     },
     {
       "id": 26,
-      "pregunta": "¿Qué es un hematoma?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "Un niño de 5 años debe aplicarse el 2º refuerzo de la vacuna para su ingreso escolar. ¿Qué vacuna debe aplicar?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Acumulación de sangre fuera de los vasos sanguíneos",
-        "opcion b": "Deficiencia de factores de coagulación",
-        "opcion c": "Inflamación de un vaso sanguíneo",
-        "opcion d": "Aumento del número de glóbulos rojos"
-      }
+        "opcion a": "Neumococo conjugada.",
+        "opcion b": "Triple bacteriana celular.",
+        "opcion c": "Triple bacteriana acelular (DPTa).",
+        "opcion d": "Doble Viral."
+      },
+      "caso_clinico": "Vacunación (Niño)"
     },
     {
       "id": 27,
-      "pregunta": "¿Cuáles son los principios bioéticos fundamentales?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "Un objetivo de la consejería preconcepcional es lograr la comunicación y la reflexión para asumir la responsabilidad de llevar adelante un embarazo y el proyecto de familia esperado. ¿Qué objetivo debería alcanzar esta consejería?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Honestidad, lealtad, respeto, responsabilidad",
-        "opcion b": "Autonomía, beneficencia, no maleficencia, justicia",
-        "opcion c": "Prevención, diagnóstico, tratamiento, rehabilitación",
-        "opcion d": "Eficiencia, eficacia, calidad, seguridad"
-      }
+        "opcion a": "Identificar riesgos genéticos y solo recomendar la interrupción.",
+        "opcion b": "Asegurar un plan de parto medicalizado y sin sorpresas.",
+        "opcion c": "Promover la fertilización in vitro como primera opción.",
+        "opcion d": "Lograr la comunicación y la reflexión para asumir la responsabilidad de llevar adelante un embarazo y el proyecto de familia esperado."
+      },
+      "caso_clinico": "Maternidad"
     },
     {
       "id": 28,
-      "pregunta": "¿Qué es la traqueostomía?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "¿Qué signos específicos se valoran en la exploración física en un paciente con deficiencia nutricional?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Intubación endotraqueal de emergencia",
-        "opcion b": "Cirugía de las cuerdas vocales",
-        "opcion c": "Procedimiento de broncoscopía",
-        "opcion d": "Abertura quirúrgica en la tráquea para facilitar la respiración"
-      }
+        "opcion a": "Pérdida de masa muscular, integridad deficiente de la piel, pérdida de tejido subcutáneo.",
+        "opcion b": "Aumento del IMC y perímetro abdominal normal.",
+        "opcion c": "Hipertensión arterial y taquicardia.",
+        "opcion d": "Hepatomegalia y esplenomegalia."
+      },
+      "caso_clinico": "Valoración de Enfermería"
     },
     {
       "id": 29,
-      "pregunta": "¿Qué es el aislamiento hospitalario?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "¿Cuáles son las dos Teóricas que describen que 'el paciente es el núcleo de la atención de enfermería'?",
+      "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Hospitalización en sala privada",
-        "opcion b": "Separación de pacientes agresivos",
-        "opcion c": "Restricción de visitas familiares",
-        "opcion d": "Medidas para prevenir transmisión de infecciones"
-      }
+        "opcion a": "Virginia Henderson y Callista Roy",
+        "opcion b": "Hildegard Peplau y Florence Nightingale",
+        "opcion c": "Dorotea Orem y Myra Levine",
+        "opcion d": "Martha Rogers y Jean Watson"
+      },
+      "caso_clinico": "Teorías de Enfermería"
     },
     {
       "id": 30,
-      "pregunta": "¿Qué es la inmunización?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "Un niño sube la escalera con ayuda, garabatea, juega en paralelo y combina dos palabras. ¿Cuál es la edad que corresponde según la evolución esquemática de las conductas de desarrollo de la OPS?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Proceso de generar protección contra enfermedades mediante vacunas",
-        "opcion b": "Aislamiento de pacientes infecciosos",
-        "opcion c": "Tratamiento con antibióticos",
-        "opcion d": "Desinfección de superficies"
-      }
+        "opcion a": "15 meses.",
+        "opcion b": "24 meses.",
+        "opcion c": "12 meses.",
+        "opcion d": "18 meses."
+      },
+      "caso_clinico": "Desarrollo Infantil"
     },
     {
       "id": 31,
-      "pregunta": "¿Qué es la trombocitopenia?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "Un paciente presenta depresión, pide ayuda y refiere 'quiero curarme', ¿le recomendaría internarse?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Aumento de glóbulos rojos",
-        "opcion b": "Disminución de leucocitos",
-        "opcion c": "Disminución del número de plaquetas",
-        "opcion d": "Aumento de factores de coagulación"
-      }
+        "opcion a": "Presenta riesgo leve, se evalúa situación particular para informar estrategias de cuidado personalizado",
+        "opcion b": "Solo si la familia lo solicita expresamente.",
+        "opcion c": "No, nunca es necesario internar por depresión.",
+        "opcion d": "Sí, toda depresión requiere internación para monitoreo."
+      },
+      "caso_clinico": "Salud Mental"
     },
     {
       "id": 32,
-      "pregunta": "¿Qué es la hipertensión arterial?",
+      "pregunta": "La Salud integral de las personas trans, travestis y no binarias requiere cualidades en los profesionales de salud para brindar atención de calidad. ¿Cuáles son esas cualidades?",
       "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Presión arterial sistólica <100 mmHg",
-        "opcion b": "Presión arterial sistólica ≥140 mmHg y/o diastólica ≥90 mmHg",
-        "opcion c": "Presión arterial 120/80 mmHg",
-        "opcion d": "Frecuencia cardíaca mayor a 120 lpm"
-      }
+        "opcion a": "Limitar la atención a la consejería psicológica únicamente.",
+        "opcion b": "Requiere el despliegue de una escucha activa, atenta y respetuosa, que habilite una relación de confianza.",
+        "opcion c": "Priorizar la derivación a especialistas en endocrinología.",
+        "opcion d": "Enfocarse en la patologización de la identidad de género."
+      },
+      "caso_clinico": "Salud Pública"
     },
     {
       "id": 33,
-      "pregunta": "¿Qué es la prevención primaria?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "¿Qué vacunas se inactivan si utilizamos alcohol en la limpieza de la piel antes de la aplicación?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Diagnóstico precoz de enfermedades",
-        "opcion b": "Tratamiento de enfermedades establecidas",
-        "opcion c": "Prevención de complicaciones",
-        "opcion d": "Medidas para evitar la aparición de enfermedades"
-      }
+        "opcion a": "Vacunas inactivadas.",
+        "opcion b": "Virus vivos atenuados.",
+        "opcion c": "Toxoides.",
+        "opcion d": "Vacunas recombinantes."
+      },
+      "caso_clinico": "Vacunación"
     },
     {
       "id": 34,
-      "pregunta": "¿Cuál es el glucosa normal en ayunas?",
+      "pregunta": "La higiene de las manos con técnica de frotación con soluciones de alcohol permite eliminar los microorganismos. ¿Según la OMS cuánto es el tiempo de duración que se recomienda?",
       "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "50 - 70 mg/dl",
-        "opcion b": "70 - 100 mg/dl",
-        "opcion c": "140 - 180 mg/dl",
-        "opcion d": "110 - 140 mg/dl"
-      }
+        "opcion a": "5-10 segundos",
+        "opcion b": "20-30 segundos",
+        "opcion c": "40-60 segundos",
+        "opcion d": "10-20 segundos"
+      },
+      "caso_clinico": "Bioseguridad"
     },
     {
       "id": 35,
-      "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "En el caso de un estudio de alcance descriptivo, ¿Qué utilidad aporta como 'Valor'?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Servicio, Observación, Atención, Protocolo",
-        "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
-        "opcion c": "Subjetivo, Objetivo, Análisis, Plan",
-        "opcion d": "Sistema, Organización, Aplicación, Procedimiento"
-      }
+        "opcion a": "Comprueba teorías y modelos existentes.",
+        "opcion b": "Es útil para mostrar con precisión los ángulos o dimensiones de un fenómeno, suceso, comunidad, contexto o situación.",
+        "opcion c": "Establece relaciones causales entre variables.",
+        "opcion d": "Predice el comportamiento futuro de una variable."
+      },
+      "caso_clinico": "Investigación"
     },
     {
       "id": 36,
-      "pregunta": "¿Qué es la promoción de la salud?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "¿Por qué las manos son una fuente de transmisión de microorganismos que pueden causar Infecciones Asociadas a la Atención de Salud (IAAS)?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Tratamiento de enfermedades existentes",
-        "opcion b": "Diagnóstico precoz de enfermedades",
-        "opcion c": "Rehabilitación de pacientes crónicos",
-        "opcion d": "Proceso que permite a las personas mejorar su salud"
-      }
+        "opcion a": "Debido a que el uso de guantes es siempre inadecuado.",
+        "opcion b": "En las manos se pueden distinguir dos tipos de flora microbiana: la residente y la transitoria.",
+        "opcion c": "Porque solo se transmiten patógenos por vía aérea.",
+        "opcion d": "Solo si la persona está inmunosuprimida."
+      },
+      "caso_clinico": "Bioseguridad"
     },
     {
       "id": 37,
-      "pregunta": "¿Para qué se usa la vía intradérmica?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "Usted se encuentra realizando cuidados de Enfermería en el área COVID y está por salir de la unidad. ¿Cómo realiza la secuencia de retiro de los Elementos de Protección Personal (EPP)?",
+      "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Pruebas de alergia y tuberculina (PPD)",
-        "opcion b": "Transfusión de sangre",
-        "opcion c": "Administración de antibióticos",
-        "opcion d": "Aplicación de insulina"
-      }
+        "opcion a": "Retira antiparras, luego camisolín, barbijo y guantes al final.",
+        "opcion b": "Retira barbijo, luego guantes y finalmente camisolín.",
+        "opcion c": "Retira el camisolín (descartar en bolsa roja). Retira guantes (descartar en bolsa roja). Higiene de manos. Retira antiparras (limpiar y desinfectar). Retirar el barbijo (proceder según tipo de elemento utilizado). Higiene de manos.",
+        "opcion d": "Retira guantes, barbijo, antiparras y luego camisolín."
+      },
+      "caso_clinico": "Bioseguridad (EPP)"
     },
     {
       "id": 38,
-      "pregunta": "¿Qué es la salud según la OMS?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "Usted realiza talleres de alimentación en una comunidad con propósitos de promoción de la salud. ¿Qué propósitos quiere realizar con esas actividades?",
+      "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Equilibrio entre trabajo y descanso",
-        "opcion b": "Ausencia de enfermedad únicamente",
-        "opcion c": "Capacidad de realizar actividades diarias",
-        "opcion d": "Estado de completo bienestar físico, mental y social"
-      }
+        "opcion a": "Asegurar que toda la comunidad consuma suplementos vitamínicos.",
+        "opcion b": "Prohibir el consumo de alimentos procesados en la comunidad.",
+        "opcion c": "Realizar cambios apropiados en los hábitos personales, el estilo de vida y el entorno para reducir los riesgos y mejorar la salud y el bienestar.",
+        "opcion d": "Solo la detección precoz de enfermedades crónicas."
+      },
+      "caso_clinico": "Promoción de la Salud"
     },
     {
       "id": 39,
-      "pregunta": "¿Qué es un evento adverso post-vacunación?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "Una mujer con hemorragia genital abundante y deterioro del sensorio por un embarazo de 12 semanas. Un profesional es objetor de conciencia. Según la Ley 27610, ¿cómo se debe proceder ante esta situación de riesgo de vida?",
+      "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Reacción alérgica exclusivamente",
-        "opcion b": "Dolor en el sitio de inyección solamente",
-        "opcion c": "Fiebre mayor a 39°C únicamente",
-        "opcion d": "Cualquier situación no deseada que ocurre después de la vacunación"
-      }
+        "opcion a": "El paciente debe ser trasladado a otra institución.",
+        "opcion b": "Se debe solicitar una orden judicial para el procedimiento.",
+        "opcion c": "El personal de salud no podrá negarse dado que la vida o salud de la persona gestante está en peligro y requiere atención inmediata e impostergable.",
+        "opcion d": "El profesional debe ser reemplazado por otro en el siguiente turno."
+      },
+      "caso_clinico": "Interrupción del Embarazo (Ley 27610)"
     },
     {
       "id": 40,
-      "pregunta": "¿Qué es la vía oral?",
+      "pregunta": "Un paciente con esquizofrenia y excitación psicomotriz, alucinación y agresividad. El médico indica 2 medicaciones para calmar el cuadro. ¿Cuáles son las medicaciones indicadas que debe administrarse (ejemplo de contención farmacológica)?",
       "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Administración de medicamentos por la boca",
-        "opcion b": "Aplicación de medicamentos en la piel",
-        "opcion c": "Administración por vía rectal",
-        "opcion d": "Inyección en el músculo"
-      }
+        "opcion a": "Haloperidol y Lorazepam",
+        "opcion b": "Diazepam y Fluoxetina.",
+        "opcion c": "Paracetamol y Omeprazol.",
+        "opcion d": "Sertralina y Litio."
+      },
+      "caso_clinico": "Salud Mental/Farmacología"
     },
     {
       "id": 41,
-      "pregunta": "¿Cuáles son los signos de flebitis?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "¿Qué medidas aconsejaría para prevenir la muerte súbita en el lactante?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Cianosis, edema, dolor intenso",
-        "opcion b": "Dolor, enrojecimiento, calor, induración en el trayecto venoso",
-        "opcion c": "Prurito, descamación, sequedad",
-        "opcion d": "Palidez, frialdad, ausencia de pulso"
-      }
+        "opcion a": "Posición para dormir en decúbito supino, colchón plano y duro, evite los juguetes en su cuna. T° ambiente ideal 20 º C",
+        "opcion b": "Compartir la cama con los padres y arroparlo fuertemente.",
+        "opcion c": "Acostarlo en posición prona para evitar el ahogo.",
+        "opcion d": "Dormir en decúbito lateral y colchón blando."
+      },
+      "caso_clinico": "Puericultura (Lactante)"
     },
     {
       "id": 42,
-      "pregunta": "¿Qué es el duelo?",
+      "pregunta": "¿Cuál es la herramienta básica de calidad, aportada por el ingeniero Kaoru Ishikawa, que se utiliza para identificar, clasificar y analizar las causas de un problema?",
       "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Depresión severa que requiere medicación",
-        "opcion b": "Proceso de adaptación emocional ante una pérdida",
-        "opcion c": "Reacción de estrés postraumático",
-        "opcion d": "Trastorno de ansiedad generalizada"
-      }
+        "opcion a": "Diagrama de dispersión",
+        "opcion b": "Diagrama de causa-efecto",
+        "opcion c": "Gráfico de control",
+        "opcion d": "Diagrama de Pareto"
+      },
+      "caso_clinico": "Administración y Gestión"
     },
     {
       "id": 43,
-      "pregunta": "¿Qué es la cadena de frío?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "Un paciente con taquicardia, hiperventilación, sudoración y miedo a 'morirse o volverse loco' sufre una crisis de ansiedad. ¿Qué estrategia debe adoptar el profesional del equipo de salud?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Método de esterilización por congelación",
-        "opcion b": "Conservación de medicamentos termolábiles",
-        "opcion c": "Sistema para mantener vacunas a temperatura adecuada",
-        "opcion d": "Transporte de órganos para trasplante"
-      }
+        "opcion a": "Solo derivar a un psicólogo para manejo ambulatorio.",
+        "opcion b": "Descartar que su sintomatología tenga causas orgánicas, y luego implementar un abordaje psicoterapéutico y psicofarmacológico ya que estaría sufriendo de una crisis de ansiedad.",
+        "opcion c": "Administrar un sedante fuerte sin evaluar la causa.",
+        "opcion d": "Internar al paciente de inmediato para observación psiquiátrica."
+      },
+      "caso_clinico": "Salud Mental"
     },
     {
       "id": 44,
-      "pregunta": "¿Qué es la educación para la salud?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "Se han desarrollado varios formatos para recabar los antecedentes de salud de los pacientes. ¿Qué tipo de dato es la exploración física?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Proceso que informa y motiva para adoptar conductas saludables",
-        "opcion b": "Capacitación técnica de profesionales de salud",
-        "opcion c": "Enseñanza de primeros auxilios",
-        "opcion d": "Instrucción sobre uso de medicamentos"
-      }
+        "opcion a": "Son datos históricos de la enfermedad actual.",
+        "opcion b": "Son datos objetivos sobre la salud del sujeto",
+        "opcion c": "Son datos inferenciales del personal de salud.",
+        "opcion d": "Son datos subjetivos sobre las emociones del paciente."
+      },
+      "caso_clinico": "Valoración de Enfermería"
     },
     {
       "id": 45,
-      "pregunta": "¿Cuánto dura el lavado de manos clínico?",
+      "pregunta": "Usted presencia violencia laboral (elevar la voz, tirar medicación) de un colega con su jefe directo en servicios asistenciales. ¿Cómo se debe proceder ante esta situación?",
       "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "2 - 3 minutos",
-        "opcion b": "10 - 15 segundos",
-        "opcion c": "5 - 10 minutos",
-        "opcion d": "40 - 60 segundos"
-      }
+        "opcion a": "Solicitar el cambio de servicio del colega afectado.",
+        "opcion b": "Solo realizar un diálogo informal con el jefe.",
+        "opcion c": "Ignorar la situación para evitar problemas personales.",
+        "opcion d": "Denunciar el hecho de violencia según los términos de la presente ley, ya que se desempeñan en servicios asistenciales"
+      },
+      "caso_clinico": "Violencia Laboral"
     },
     {
       "id": 46,
-      "pregunta": "¿Qué es la sonda vesical o Foley?",
+      "pregunta": "Usted explica los beneficios de la lactancia materna. ¿Cuáles son algunos de esos beneficios?",
       "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Tubo para alimentación gástrica",
-        "opcion b": "Sonda para aspiración de secreciones",
-        "opcion c": "Catéter para administrar medicamentos",
-        "opcion d": "Catéter que se introduce en la vejiga para drenar orina"
-      }
+        "opcion a": "Requiere esterilización constante y puede contener alérgenos.",
+        "opcion b": "Es difícil de digerir y aumenta el riesgo de infecciones.",
+        "opcion c": "Solo proporciona nutrientes básicos y debe complementarse pronto.",
+        "opcion d": "Poco alergénica y estéril. Papel inmunógeno. Contiene todos los requerimientos nutricionales."
+      },
+      "caso_clinico": "Lactancia Materna"
     },
     {
       "id": 47,
-      "pregunta": "¿Cuáles son los grados de úlceras por presión?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "Usted se encuentra realizando cuidados de Enfermería en el área de guardia COVID. ¿En cuál de las actividades usted sabe que **no requiere** el uso de barbijo N95?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Grado I, II, III y IV",
-        "opcion b": "Leve, moderado y severo",
-        "opcion c": "Estadio 1, 2 y 3",
-        "opcion d": "Tipo A, B y C"
-      }
+        "opcion a": "Aspiración de secreciones.",
+        "opcion b": "Recepción de pacientes en sector Triage.",
+        "opcion c": "Broncoscopía.",
+        "opcion d": "Intubación orotraqueal."
+      },
+      "caso_clinico": "Bioseguridad (EPP)"
     },
     {
       "id": 48,
-      "pregunta": "¿Qué es la cetoacidosis diabética?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "El Dengue es una enfermedad causada por un virus transmitido a través de la picadura del mosquito *Aedes aegypti*. ¿Cómo se transmite esta enfermedad?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Nivel bajo de glucosa por exceso de insulina",
-        "opcion b": "Daño renal crónico por diabetes",
-        "opcion c": "Infección urinaria en paciente diabético",
-        "opcion d": "Complicación aguda de la diabetes por deficiencia severa de insulina"
-      }
+        "opcion a": "Por la picadura de un mosquito infectado con el virus",
+        "opcion b": "Por contacto directo con sangre de una persona infectada.",
+        "opcion c": "Por contacto con objetos o ropa de un enfermo.",
+        "opcion d": "Por el consumo de agua o alimentos contaminados."
+      },
+      "caso_clinico": "Epidemiología (Dengue)"
     },
     {
       "id": 49,
-      "pregunta": "¿Cuál es el ángulo correcto para inyección intramuscular?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "La Ley 26.061 de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes en su Artículo 14 menciona el derecho a la atención integral de su salud. ¿Qué intervenciones debe garantizar el estado?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "45 grados",
-        "opcion b": "90 grados",
-        "opcion c": "30 grados",
-        "opcion d": "15 grados"
-      }
+        "opcion a": "Asegurar el acceso a servicios de salud de alta complejidad sin costo.",
+        "opcion b": "Promover la judicialización de los casos de negligencia médica.",
+        "opcion c": "Garantizar la hospitalización inmediata en caso de enfermedad grave.",
+        "opcion d": "Respetar las pautas familiares y culturales reconocidas por la familia y la comunidad que pertenecen siempre que no constituyan peligro para su vida e integridad."
+      },
+      "caso_clinico": "Leyes y Derechos (Niños/Adolescentes)"
     },
     {
       "id": 50,
-      "pregunta": "¿Qué es el triaje o triage?",
+      "pregunta": "Usted debe administrar la vacuna Pentavalente a un lactante de 6 meses. ¿Dónde debe preparar el sitio de aplicación para la inoculación de la vacuna?",
       "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Derivación de pacientes a especialistas",
-        "opcion b": "Alta de pacientes hospitalizados",
-        "opcion c": "Clasificación de pacientes según gravedad y prioridad",
-        "opcion d": "Registro de pacientes en admisión"
-      }
+        "opcion a": "Región subescapular.",
+        "opcion b": "Músculo deltoides.",
+        "opcion c": "Anterolateral del muslo.",
+        "opcion d": "Región glútea."
+      },
+      "caso_clinico": "Vacunación"
     },
     {
       "id": 51,
-      "pregunta": "¿Qué es la hipoxia?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "Un niño de 4 años internado por 5 días comienza con episodios de incontinencia, habiendo controlado esfínteres previamente. ¿Según Freud qué mecanismo de defensa se encuentra presente?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Disminución de oxígeno en los tejidos",
-        "opcion b": "Exceso de oxígeno en los pulmones",
-        "opcion c": "Deficiencia de hemoglobina en sangre",
-        "opcion d": "Aumento de dióxido de carbono en sangre"
-      }
+        "opcion a": "Proyección",
+        "opcion b": "Regresión",
+        "opcion c": "Desplazamiento",
+        "opcion d": "Negación"
+      },
+      "caso_clinico": "Psicología/Niño Hospitalizado"
     },
     {
       "id": 52,
-      "pregunta": "¿Qué es la eutanasia?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "¿Cuáles son los componentes de la promoción de la salud?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Donación de órganos post-mortem",
-        "opcion b": "Suspensión de tratamiento inútil",
-        "opcion c": "Acción u omisión para provocar muerte sin sufrimiento en enfermo terminal",
-        "opcion d": "Cuidados paliativos en fase terminal"
-      }
+        "opcion a": "Responsabilidad individual, conocimiento sobre nutrición, reducción y tratamiento del estrés y condición física.",
+        "opcion b": "Diagnóstico, tratamiento y rehabilitación.",
+        "opcion c": "Curación, prevención y cuidados paliativos.",
+        "opcion d": "Agentes, huésped y entorno."
+      },
+      "caso_clinico": "Promoción de la Salud"
     },
     {
       "id": 53,
-      "pregunta": "¿Qué es la hipoglucemia?",
+      "pregunta": "Según Artaza Barrios, ¿cuál es una de las principales expresiones operativas del enfoque de la Atención Primaria de la Salud a nivel de los servicios de salud? [cite: 390]",
       "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Presencia de cetonas en sangre",
-        "opcion b": "Nivel de glucosa en sangre menor a 70 mg/dl",
-        "opcion c": "Glucosa en ayunas de 100 mg/dl",
-        "opcion d": "Nivel de glucosa mayor a 180 mg/dl"
-      }
+        "opcion a": "Hospitales de Alta Complejidad.",
+        "opcion b": "Redes Integradas de Servicios de Salud",
+        "opcion c": "Programas de Trasplantes.",
+        "opcion d": "Unidades de Terapia Intensiva."
+      },
+      "caso_clinico": "Leyes y Derechos"
     },
     {
       "id": 54,
-      "pregunta": "¿Qué es el consentimiento informado?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "¿Cuáles son las medidas fundamentales para limitar la posibilidad de transmisión comunitaria y en conglomerados del SARS-CoV-2?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Registro de ingreso al hospital",
-        "opcion b": "Documento de alta hospitalaria",
-        "opcion c": "Autorización voluntaria del paciente tras recibir información adecuada",
-        "opcion d": "Permiso familiar para hospitalización"
-      }
+        "opcion a": "El uso de mascarillas N95 en todo momento y lugar.",
+        "opcion b": "La realización de pruebas PCR solo a pacientes sintomáticos graves.",
+        "opcion c": "La cuarentena de 30 días para todos los viajeros internacionales.",
+        "opcion d": "El rastreo y aislamiento precoz de contactos estrechos en todos los casos sospechosos o confirmados de COVID-19."
+      },
+      "caso_clinico": "Epidemiología (COVID-19)"
     },
     {
       "id": 55,
-      "pregunta": "¿Qué es un cultivo bacteriológico?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "¿En qué tipo de organización se acepta romper el principio de unidad de mando (un solo jefe)?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Estudio de función renal",
-        "opcion b": "Análisis de células sanguíneas",
-        "opcion c": "Examen para identificar microorganismos causantes de infección",
-        "opcion d": "Prueba para detectar alergias"
-      }
+        "opcion a": "Militar",
+        "opcion b": "Staff",
+        "opcion c": "Líneal",
+        "opcion d": "Funcional"
+      },
+      "caso_clinico": "Administración y Gestión"
     },
     {
       "id": 56,
-      "pregunta": "¿Cuál es la profundidad de compresiones en RCP adulto?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "Existe en el Calendario Nacional de Vacunación la vacuna antigripal. ¿Cuáles son los propósitos para la aplicación de esa vacuna?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "5-6 cm",
-        "opcion b": "2-3 cm",
-        "opcion c": "8-10 cm",
-        "opcion d": "1-2 cm"
-      }
+        "opcion a": "Asegurar inmunidad de por vida contra el virus de influenza.",
+        "opcion b": "Reducir las complicaciones, hospitalizaciones, muertes y secuelas ocasionadas por el virus de influenza en la población de riesgo.",
+        "opcion c": "Erradicar el virus de la influenza de la población mundial.",
+        "opcion d": "Prevenir el resfriado común en la población general."
+      },
+      "caso_clinico": "Vacunación (Salud Pública)"
     },
     {
       "id": 57,
-      "pregunta": "¿Qué es la autonomía del paciente?",
+      "pregunta": "George Terry describe 'un conjunto de funciones que se estimen necesarias para lograr objetivos, una indicación de la autoridad y responsabilidad que tienen a su cargo la ejecución de funciones respectivas'. ¿Qué definición está describiendo el autor?",
       "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Autorización para salir del hospital",
-        "opcion b": "Derecho del paciente a tomar decisiones sobre su salud",
-        "opcion c": "Independencia económica del paciente",
-        "opcion d": "Capacidad del paciente para cuidarse solo"
-      }
+        "opcion a": "Planificación",
+        "opcion b": "Organización",
+        "opcion c": "Control",
+        "opcion d": "Dirección"
+      },
+      "caso_clinico": "Administración y Gestión"
     },
     {
       "id": 58,
-      "pregunta": "¿Qué es el shock séptico?",
+      "pregunta": "Las recomendaciones para el primer nivel de atención mencionan diagramar los circuitos de atención para pacientes en contexto de pandemia. ¿Como debe realizarse ese circuito?",
       "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Infección generalizada sin compromiso hemodinámico",
-        "opcion b": "Fiebre alta con escalofríos",
-        "opcion c": "Sepsis con hipotensión persistente que requiere vasopresores",
-        "opcion d": "Infección resistente a antibióticos"
-      }
+        "opcion a": "Suspender toda atención que no sea de emergencia.",
+        "opcion b": "Atender a todos los pacientes en el exterior del centro de salud.",
+        "opcion c": "Diagramar un circuito de pacientes sospechosos y contar con un consultorio de aislamiento respiratorio.",
+        "opcion d": "Fusionar todos los consultorios para una atención más rápida."
+      },
+      "caso_clinico": "Epidemiología (COVID-19)/Atención Primaria"
     },
     {
       "id": 59,
-      "pregunta": "¿Cuál es la frecuencia respiratoria normal en adultos?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "Los aminoglucósidos tienen efectos adversos. ¿Cuáles son esos efectos adversos que se previenen con una administración lenta?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "20 - 30 respiraciones por minuto",
-        "opcion b": "12 - 20 respiraciones por minuto",
-        "opcion c": "25 - 35 respiraciones por minuto",
-        "opcion d": "8 - 12 respiraciones por minuto"
-      }
+        "opcion a": "Hepatotoxicidad, hiperglucemia, miocardiopatía.",
+        "opcion b": "Fotosensibilidad, xerostomía, diarrea.",
+        "opcion c": "Trombocitopenia, anemia aplásica, convulsiones.",
+        "opcion d": "Ototoxicidad, nefrotoxicidad, bloqueo de acetilcolina"
+      },
+      "caso_clinico": "Farmacología"
     },
     {
       "id": 60,
-      "pregunta": "¿Qué es el calendario de vacunación?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "Según la Ley N.º 26529/2009, ¿quiénes están legitimados para solicitar la Historia Clínica que se menciona en el artículo 4?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Horario de atención del vacunatorio",
-        "opcion b": "Lista de vacunas disponibles",
-        "opcion c": "Esquema que indica qué vacunas aplicar según edad",
-        "opcion d": "Registro de pacientes vacunados"
-      }
+        "opcion a": "La compañía de seguros del paciente.",
+        "opcion b": "Paciente y representante legal",
+        "opcion c": "Solo el médico tratante y el director del hospital.",
+        "opcion d": "Cualquier familiar sin distinción."
+      },
+      "caso_clinico": "Derechos del Paciente (Ley 26529)"
     },
     {
       "id": 61,
-      "pregunta": "¿Cuál es la zona recomendada para inyección subcutánea de insulina?",
+      "pregunta": "Usted debe realizar la aplicación de una vacuna que se administra de forma Intradérmica (ID). ¿Cuál es la vacuna que se debe aplicar?",
       "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Únicamente en el dorso de la mano",
-        "opcion b": "Abdomen, muslos, brazos y glúteos",
-        "opcion c": "Solamente en la región deltoidea",
-        "opcion d": "Exclusivamente en la región lumbar"
-      }
+        "opcion a": "Sabin",
+        "opcion b": "BCG.",
+        "opcion c": "Hepatitis B",
+        "opcion d": "DPT"
+      },
+      "caso_clinico": "Vacunación"
     },
     {
       "id": 62,
-      "pregunta": "¿Qué es la saturación de oxígeno normal (SpO2)?",
+      "pregunta": "¿Cuál autora explica en su modelo de atención de enfermería que 'las fuerzas del estrés son estímulos productores de tensión que poseen el potencial suficiente para provocar crisis y desequilibrios tanto intrapersonales, interpersonales y extrapersonales'?",
       "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "95% - 100%",
-        "opcion b": "80% - 85%",
-        "opcion c": "70% - 80%",
-        "opcion d": "85% - 90%"
-      }
+        "opcion a": "Betty Neuman",
+        "opcion b": "Myra Levine",
+        "opcion c": "Callista Roy",
+        "opcion d": "Dorotea Orem"
+      },
+      "caso_clinico": "Teorías de Enfermería"
     },
     {
       "id": 63,
-      "pregunta": "¿Cuál es el orden correcto del lavado de manos clínico?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "¿Ante qué exposición se aplican las medidas estándares de precaución (Precauciones Universales)?",
+      "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Frotar, enjabonar, mojar, secar, enjuagar",
-        "opcion b": "Enjabonar, mojar, frotar, secar, enjuagar",
-        "opcion c": "Secar, mojar, enjabonar, enjuagar, frotar",
-        "opcion d": "Mojar, enjabonar, frotar, enjuagar, secar"
-      }
+        "opcion a": "Solo ante pacientes con diagnóstico de VIH/SIDA.",
+        "opcion b": "Exclusivamente ante pacientes con aislamiento por vía aérea.",
+        "opcion c": "Ante Sangre, fluidos corporales, piel no intacta, membranas y mucosa",
+        "opcion d": "Únicamente en procedimientos quirúrgicos mayores."
+      },
+      "caso_clinico": "Bioseguridad"
     },
     {
       "id": 64,
-      "pregunta": "¿Qué son los signos vitales?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "La higiene de las manos, ¿es la única medida para prevenir Infecciones Asociadas a la Atención de Salud (IAAS)?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Temperatura, pulso, respiración y presión arterial",
-        "opcion b": "Frecuencia cardíaca, electrocardiograma, peso y tensión",
-        "opcion c": "Saturación de oxígeno, glucemia, peso y diuresis",
-        "opcion d": "Peso, talla, índice de masa corporal y glucemia"
-      }
+        "opcion a": "Solo si se utiliza jabón antiséptico y agua.",
+        "opcion b": "La higiene de las manos es un componente necesario, pero no para la prevención de IAAS.",
+        "opcion c": "Sí, es la única medida probada.",
+        "opcion d": "Es la medida más importante y suficiente para el 100% de los casos."
+      },
+      "caso_clinico": "Bioseguridad"
     },
     {
       "id": 65,
-      "pregunta": "¿A qué temperatura se conservan la mayoría de las vacunas?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "La ley 24.004 del Ejercicio profesional de Enfermería menciona en su artículo 2 funciones específicas para el desarrollo profesional. ¿Qué funciones menciona el articulo 2?",
+      "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "+2 a +8 °C",
-        "opcion b": "-20 °C",
-        "opcion c": "0 a +2 °C",
-        "opcion d": "+15 a +20 °C"
-      }
+        "opcion a": "Funciones solo en el ámbito hospitalario.",
+        "opcion b": "Funciones exclusivas de diagnóstico médico y tratamiento farmacológico.",
+        "opcion c": "Funciones de promoción, recuperación y rehabilitación de la salud, como la de prevención de enfermedades",
+        "opcion d": "Solo funciones administrativas y de registro."
+      },
+      "caso_clinico": "Ejercicio Profesional (Ley 24004)"
     },
     {
       "id": 66,
-      "pregunta": "¿Qué es la sonda nasogástrica?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "Usted tiene en la sala de internación pediátrica un lactante de 2 meses diagnosticado con rotavirus. ¿Qué tipo de aislamiento corresponde para el paciente?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Catéter para drenar la vejiga",
-        "opcion b": "Sonda para nutrición parenteral",
-        "opcion c": "Tubo para administrar oxígeno",
-        "opcion d": "Tubo que se introduce por la nariz hasta el estómago"
-      }
+        "opcion a": "Estricto",
+        "opcion b": "Contacto",
+        "opcion c": "Aéreo",
+        "opcion d": "Gotitas"
+      },
+      "caso_clinico": "Bioseguridad/Aislamiento (Pediátrico)"
     },
     {
       "id": 67,
-      "pregunta": "¿Qué es el aislamiento de contacto?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "¿Cuáles son los signos vitales que Enfermería realiza sin la necesidad de tecnología avanzada?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Aislamiento para enfermedades respiratorias",
-        "opcion b": "Medidas para infecciones por gotas",
-        "opcion c": "Precauciones para tuberculosis",
-        "opcion d": "Precauciones para infecciones transmitidas por contacto directo o indirecto"
-      }
+        "opcion a": "TA, la frecuencia del pulso, FR y la temperatura corporal.",
+        "opcion b": "Gasto cardíaco, presión arterial media y diuresis horaria.",
+        "opcion c": "Presión venosa central, índice cardíaco, saturación.",
+        "opcion d": "Electrocardiograma, capnografía y PVC."
+      },
+      "caso_clinico": "Signos Vitales"
     },
     {
       "id": 68,
-      "pregunta": "¿Cuál es el calibre más común de sonda Foley en adultos?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "La inserción total o parcial de la placenta en el segmento uterino inferior (placenta previa) es la causa más frecuente de hemorragias en un periodo del embarazo. ¿En qué trimestre aparece este tipo de hemorragias?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "28 - 30 Fr",
-        "opcion b": "20 - 24 Fr",
-        "opcion c": "6 - 8 Fr",
-        "opcion d": "14 - 16 Fr (French)"
-      }
+        "opcion a": "Durante el alumbramiento",
+        "opcion b": "Tercer trimestre de embarazo",
+        "opcion c": "Segundo trimestre de embarazo",
+        "opcion d": "Primer trimestre de embarazo"
+      },
+      "caso_clinico": "Obstetricia"
     },
     {
       "id": 69,
-      "pregunta": "¿Qué es una úlcera por presión?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "¿Cómo se define “un conjunto de partículas que se producen cuando una corriente de aire atraviesa la superficie de una película de fluido, generando pequeñas partículas en el cruce de aire y líquido”?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Herida quirúrgica infectada",
-        "opcion b": "Lesión traumática con pérdida de tejido",
-        "opcion c": "Lesión de la piel por presión prolongada sobre prominencias óseas",
-        "opcion d": "Quemadura por exposición solar"
-      }
+        "opcion a": "Gotitas (Droplets)",
+        "opcion b": "Aerosoles",
+        "opcion c": "Fómites",
+        "opcion d": "Esputo"
+      },
+      "caso_clinico": "Bioseguridad"
     },
     {
       "id": 70,
-      "pregunta": "¿Qué es la ictericia?",
+      "pregunta": "¿Qué valora el Test de Apgar?",
       "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Enrojecimiento facial por fiebre",
-        "opcion b": "Coloración amarillenta de piel y mucosas por aumento de bilirrubina",
-        "opcion c": "Coloración azulada por falta de oxígeno",
-        "opcion d": "Palidez por anemia severa"
-      }
+        "opcion a": "El peso y la talla del recién nacido.",
+        "opcion b": "Valora las capacidades fisiológicas del RN para adaptarse a la vida extrauterina",
+        "opcion c": "El desarrollo neurológico a largo plazo.",
+        "opcion d": "La madurez pulmonar fetal."
+      },
+      "caso_clinico": "Puericultura (Recién Nacido)"
     },
     {
       "id": 71,
-      "pregunta": "¿Qué es la maniobra de Heimlich?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "Si se detectó la circulación del virus del Dengue en su comunidad, ¿qué medidas de prevención se deben realizar para evitar la propagación del dengue en la familia y la comunidad?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Método de inmovilización cervical",
-        "opcion b": "Técnica de ventilación artificial",
-        "opcion c": "Técnica para desobstruir vía aérea por cuerpo extraño",
-        "opcion d": "Maniobra para controlar hemorragias"
-      }
+        "opcion a": "Aislamiento obligatorio de todos los casos sospechosos.",
+        "opcion b": "El control del mosquito y sus criaderos",
+        "opcion c": "Fumigación aérea diaria en toda la comunidad.",
+        "opcion d": "El uso masivo de repelentes personales como única medida."
+      },
+      "caso_clinico": "Epidemiología (Dengue)"
     },
     {
       "id": 72,
-      "pregunta": "¿Qué es el aislamiento respiratorio?",
+      "pregunta": "La enfermería debe reconocer y respetar la privacidad de cada individuo, siendo consciente de la información obtenida. ¿A qué cualidad moral corresponde lo mencionada?",
       "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Precauciones para infecciones por contacto",
-        "opcion b": "Precauciones para infecciones transmitidas por vía aérea",
-        "opcion c": "Medidas para pacientes con traqueostomía",
-        "opcion d": "Aislamiento de pacientes con ventilación mecánica"
-      }
+        "opcion a": "Beneficencia",
+        "opcion b": "Confidencialidad",
+        "opcion c": "Veracidad",
+        "opcion d": "Justicia"
+      },
+      "caso_clinico": "Ética Profesional"
     },
     {
       "id": 73,
-      "pregunta": "¿Cuáles son los síntomas de hipoglucemia?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "Según la ley 26.743/2012 de Identidad de Género, en su Artículo 5 menciona las situaciones de personas menos de 18 años. ¿Quiénes darán su consentimiento para solicitud de dicho trámite?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Sed excesiva, poliuria, visión borrosa",
-        "opcion b": "Sudoración, temblor, palpitaciones, confusión",
-        "opcion c": "Dolor abdominal, náuseas, vómitos",
-        "opcion d": "Fiebre, escalofríos, malestar general"
-      }
+        "opcion a": "Representante legal con expresa conformidad del menor",
+        "opcion b": "Unicamente el menor sin intervención de adultos.",
+        "opcion c": "Cualquier persona que actúe como su tutor.",
+        "opcion d": "Solo el Juez de Menores."
+      },
+      "caso_clinico": "Identidad de Género (Ley 26743)"
     },
     {
       "id": 74,
-      "pregunta": "¿Qué es la mascarilla de Venturi?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "¿Cuál es el mecanismo de acción de los métodos anticonceptivos hormonales anovulatorios?",
+      "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Dispositivo que administra oxígeno a concentraciones controladas",
-        "opcion b": "Mascarilla para protección respiratoria",
-        "opcion c": "Equipo de ventilación mecánica",
-        "opcion d": "Filtro para aire contaminado"
-      }
+        "opcion a": "Bloqueo de la implantación.",
+        "opcion b": "Atrofia del endometrio.",
+        "opcion c": "Inhibición de la ovulación",
+        "opcion d": "Engrosamiento del moco cervical."
+      },
+      "caso_clinico": "Maternidad y Anticoncepción"
     },
     {
       "id": 75,
-      "pregunta": "¿Qué es la escala de Braden?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "La mayoría de los recién nacidos que requieren reanimación tienen un corazón saludable. Si un recién nacido requiere reanimación en la sala de parto, se relaciona a una insuficiencia:",
+      "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Escala para evaluar el riesgo de úlceras por presión",
-        "opcion b": "Escala para medir el nivel de dolor",
-        "opcion c": "Escala de evaluación nutricional",
-        "opcion d": "Escala de riesgo de caídas"
-      }
+        "opcion a": "Hepática.",
+        "opcion b": "Cardíaca.",
+        "opcion c": "Respiratoria.",
+        "opcion d": "Renal."
+      },
+      "caso_clinico": "Reanimación Neonatal"
     },
     {
       "id": 76,
-      "pregunta": "¿Qué es la anestesia?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "La educación y la promoción de la salud son funciones esenciales de la enfermería. ¿A qué actividades se encuentra dirigida la atención de Enfermería?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Sedación superficial",
-        "opcion b": "Relajación muscular profunda",
-        "opcion c": "Pérdida de la sensibilidad con o sin pérdida de conciencia",
-        "opcion d": "Alivio del dolor sin pérdida de sensibilidad"
-      }
+        "opcion a": "Gestionar los recursos financieros del sistema de salud.",
+        "opcion b": "Asistir exclusivamente en el ámbito hospitalario.",
+        "opcion c": "Administrar medicación y realizar procedimientos invasivos.",
+        "opcion d": "Promover, mantener y restablecer la salud, prevenir enfermedades y ayudar a las personas a adaptarse a los efectos residuales de la enfermedad."
+      },
+      "caso_clinico": "Promoción de la Salud"
     },
     {
       "id": 77,
-      "pregunta": "¿Qué es la escala de Glasgow?",
+      "pregunta": "¿Qué plazo dispone la Ley 27.610 para la interrupción voluntaria del embarazo (IVE)?",
       "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Escala para evaluar el nivel de conciencia",
-        "opcion b": "Escala de riesgo de caídas",
-        "opcion c": "Escala para medir el dolor",
-        "opcion d": "Escala de evaluación nutricional"
-      }
+        "opcion a": "Hasta la semana 14 inclusive del proceso gestacional",
+        "opcion b": "Hasta la semana 24 inclusive del proceso gestacional.",
+        "opcion c": "Hasta la semana 12 inclusive del proceso gestacional.",
+        "opcion d": "Cualquier momento, si es por causal salud."
+      },
+      "caso_clinico": "Interrupción del Embarazo (Ley 27610)"
     },
     {
       "id": 78,
-      "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "¿A qué clasificación se refiere cuando definimos que el antibiótico destruye bacterias Gram positivas, Gram negativas y tienen capacidad para destruir gérmenes de naturaleza distinta a la bacteria?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "40 - 60 latidos por minuto",
-        "opcion b": "60 - 100 latidos por minuto",
-        "opcion c": "100 - 140 latidos por minuto",
-        "opcion d": "120 - 160 latidos por minuto"
-      }
+        "opcion a": "Antibióticos amplio espectro",
+        "opcion b": "Bacteriostáticos",
+        "opcion c": "Bactericidas",
+        "opcion d": "Antibióticos de espectro reducido"
+      },
+      "caso_clinico": "Farmacología"
     },
     {
       "id": 79,
-      "pregunta": "¿Qué es la escala de EVA?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "¿Cuáles son los signos y síntomas más frecuentes de la Apnea Obstructiva del Sueño (AOS)?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Escala de riesgo cardiovascular",
-        "opcion b": "Escala de valoración de conciencia",
-        "opcion c": "Escala Visual Analógica para medir intensidad del dolor",
-        "opcion d": "Escala de evaluación de úlceras"
-      }
+        "opcion a": "Hipertensión arterial y taquipnea diurna.",
+        "opcion b": "Náuseas, vómitos y dolor torácico.",
+        "opcion c": "Hipoglucemia y convulsiones nocturnas.",
+        "opcion d": "Ronquidos, somnolencia y apnea del sueño nocturnos"
+      },
+      "caso_clinico": "Fisiopatología Respiratoria"
     },
     {
       "id": 80,
-      "pregunta": "¿Qué ángulo se usa en inyección subcutánea?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "Según la ley Nacional 26529/2009, ¿cuál es uno de los derechos esenciales que les corresponden a los pacientes?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "60 grados",
-        "opcion b": "45 grados",
-        "opcion c": "90 grados",
-        "opcion d": "15 grados"
-      }
+        "opcion a": "Trato digno y respetuoso",
+        "opcion b": "El derecho a recibir obsequios del personal de salud.",
+        "opcion c": "El derecho a la curación garantizada.",
+        "opcion d": "El derecho a elegir el horario de todas las comidas."
+      },
+      "caso_clinico": "Derechos del Paciente (Ley 26529)"
     },
     {
       "id": 81,
-      "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "El método de cuatro cuadrantes incluye el empleo de una línea imaginaria dibujada en el abdomen. ¿Qué órgano vital se encuentra localizado en el Cuadrante Superior derecho?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Evaluación de resultados",
-        "opcion b": "Aplicación del tratamiento",
-        "opcion c": "Diagnóstico médico",
-        "opcion d": "Valoración del paciente"
-      }
+        "opcion a": "Hígado",
+        "opcion b": "Estómago",
+        "opcion c": "Bazo",
+        "opcion d": "Colon sigmoides"
+      },
+      "caso_clinico": "Valoración Física"
     },
     {
       "id": 82,
-      "pregunta": "¿Qué es la anuria?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "¿Durante qué tipo de procedimientos deberán utilizar los barbijos N95 para la atención del paciente COVID-19?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Dolor al orinar",
-        "opcion b": "Producción excesiva de orina",
-        "opcion c": "Presencia de sangre en la orina",
-        "opcion d": "Ausencia o producción menor a 100 ml de orina en 24 horas"
-      }
+        "opcion a": "Aspiración, intubación, toma de hisopado naso/ orofaríngeo, broncoscopía",
+        "opcion b": "Cambio de ropa de cama.",
+        "opcion c": "Control de temperatura y presión arterial.",
+        "opcion d": "Administración de medicación oral."
+      },
+      "caso_clinico": "Bioseguridad (EPP)"
     },
     {
       "id": 83,
-      "pregunta": "¿Qué es la venopunción?",
+      "pregunta": "Paciente de 49 años cursando 24hs de posoperatorio de cirugía abdominal. Presenta molestia en abdomen bajo y distensión con diuresis negativa de más de 24 hs de evolución. ¿Qué diagnóstico de enfermería es primordial para dicha situación?",
       "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Tratamiento con láser de varices",
-        "opcion b": "Medición de la presión venosa central",
-        "opcion c": "Cirugía para reparar venas varicosas",
-        "opcion d": "Punción de una vena para extraer sangre o administrar medicamentos"
-      }
+        "opcion a": "Deterioro de la movilidad física.",
+        "opcion b": "Riesgo de infección de la herida quirúrgica.",
+        "opcion c": "Estreñimiento relacionado con la cirugía.",
+        "opcion d": "Eliminación ineficaz de orina"
+      },
+      "caso_clinico": "Diagnóstico de Enfermería"
     },
     {
       "id": 84,
-      "pregunta": "¿Qué es la cianosis?",
+      "pregunta": "¿Cuál es la función de los elementos de protección personal (EPP)?",
       "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Coloración amarillenta por exceso de bilirrubina",
-        "opcion b": "Palidez extrema por pérdida de sangre",
-        "opcion c": "Coloración azulada de piel y mucosas por falta de oxígeno",
-        "opcion d": "Enrojecimiento de la piel por inflamación"
-      }
+        "opcion a": "Únicamente cumplir con los requisitos legales de la institución.",
+        "opcion b": "Solo aumentar la sensación de seguridad del personal.",
+        "opcion c": "Se utilizan para proteger al personal de salud, proteger a los pacientes de infectarse o prevenir que infecten a otros",
+        "opcion d": "Reducir la ansiedad del paciente ante la enfermedad."
+      },
+      "caso_clinico": "Bioseguridad (EPP)"
     },
     {
       "id": 85,
-      "pregunta": "¿Cuál es el sitio de inyección intramuscular más usado en adultos?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "Usted es Enfermero del área COVID y le indican movilizar a un paciente para la realización de una Radiografía como rutina. ¿Qué menciona la recomendación sobre el manejo de los pacientes con insuficiencia respiratoria aguda por COVID-19 ante ese procedimiento?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Región abdominal periumbilical",
-        "opcion b": "Región plantar del pie",
-        "opcion c": "Músculo deltoides y región ventroglútea",
-        "opcion d": "Cara anterior del antebrazo"
-      }
+        "opcion a": "Realizar radiografías de tórax de rutinarias diarias obligatoriamente.",
+        "opcion b": "No realizar radiografías de tórax de rutinarias diarias",
+        "opcion c": "Realizar la radiografía solo si el paciente satura menos de 90%.",
+        "opcion d": "Solo se realizan radiografías de tórax post-intubación."
+      },
+      "caso_clinico": "Epidemiología (COVID-19)/Recomendaciones"
     },
     {
       "id": 86,
-      "pregunta": "¿Qué es la anafilaxia?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "La enseñanza en servicio involucra 4 áreas para lograr la eficiencia del personal. ¿Cuales son esas áreas de enseñanza?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Mareo posterior a extracción de sangre",
-        "opcion b": "Desmayo por dolor durante procedimiento",
-        "opcion c": "Reacción local leve en sitio de inyección",
-        "opcion d": "Reacción alérgica grave y potencialmente mortal"
-      }
+        "opcion a": "Remuneración, sanciones, ascensos y vacaciones.",
+        "opcion b": "Orientación, adiestramiento, liderazgo y educacion continua.",
+        "opcion c": "Teoría, práctica, investigación y docencia.",
+        "opcion d": "Diagnóstico, tratamiento, seguimiento y evaluación."
+      },
+      "caso_clinico": "Administración y Gestión"
     },
     {
       "id": 87,
-      "pregunta": "¿Qué es la posición de decúbito lateral?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "Cuando la administración de oxígeno se prolonga en niños prematuros, este deberá calentar y humidificar. ¿Cuáles son los valores de saturación de 02 que deben mantener los prematuros para evitar complicaciones?",
+      "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Paciente acostado de lado",
-        "opcion b": "Paciente boca arriba",
-        "opcion c": "Paciente sentado",
-        "opcion d": "Paciente boca abajo"
-      }
+        "opcion a": "95% a 100%",
+        "opcion b": "85% a 90%",
+        "opcion c": "92% a 94%",
+        "opcion d": "70% a 80%"
+      },
+      "caso_clinico": "Puericultura (Recién Nacido)"
     },
     {
       "id": 88,
-      "pregunta": "¿Qué es la anemia?",
-      "respuesta_correcta": "opcion b",
+      "pregunta": "Una paciente mentalmente competente rechaza un tratamiento oncológico, pero el médico y la hija insisten en que lo reciba. La enfermera defiende el derecho de la paciente a decidir. ¿Qué principio ético está defendiendo la enfermera?",
+      "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Aumento de plaquetas",
-        "opcion b": "Disminución de hemoglobina o glóbulos rojos",
-        "opcion c": "Disminución de factores de coagulación",
-        "opcion d": "Disminución de glóbulos blancos"
-      }
+        "opcion a": "Beneficencia",
+        "opcion b": "Justicia",
+        "opcion c": "Autonomía",
+        "opcion d": "No Maleficencia"
+      },
+      "caso_clinico": "Ética Profesional"
     },
     {
       "id": 89,
-      "pregunta": "¿Qué es la RCP (Reanimación Cardiopulmonar)?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "¿Por qué vía se metabolizan y se excretan los AINES (Antiinflamatorios no esteroideos)?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Maniobras para mantener circulación y oxigenación en paro cardíaco",
-        "opcion b": "Técnica de inmovilización de fracturas",
-        "opcion c": "Procedimiento para controlar hemorragias",
-        "opcion d": "Método de tratamiento de shock"
-      }
+        "opcion a": "Se metabolizan por vía renal y se excretan por vía hepática.",
+        "opcion b": "Se metabolizan y se excretan por vía gastrointestinal.",
+        "opcion c": "Se metabolizan por vía pulmonar y se excretan por vía biliar.",
+        "opcion d": "Se metabolizan por vía hepática y se excretan por vía renal"
+      },
+      "caso_clinico": "Farmacología"
     },
     {
       "id": 90,
-      "pregunta": "¿Qué es la prevención terciaria?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "¿Cómo se define la investigación según Hernández Sampieri?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Prevención de complicaciones y rehabilitación",
-        "opcion b": "Evitar la aparición de enfermedades",
-        "opcion c": "Educación en salud",
-        "opcion d": "Diagnóstico temprano"
-      }
+        "opcion a": "La formulación de hipótesis sin comprobación.",
+        "opcion b": "La búsqueda de información en internet y libros.",
+        "opcion c": "Un proceso de recolección de datos sin un método específico.",
+        "opcion d": "La investigación es un conjunto de procesos sistemáticos, críticos y empíricos que se aplican al estudio de un fenómeno o problema."
+      },
+      "caso_clinico": "Investigación"
     },
     {
       "id": 91,
-      "pregunta": "¿Qué es el dolor crónico?",
+      "pregunta": "¿Qué definición de salud es la correcta, según la Organización Mundial de la Salud en 1945?",
       "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Dolor relacionado con actividad física",
-        "opcion b": "Dolor persistente mayor a 3-6 meses",
-        "opcion c": "Dolor que aparece solo por la noche",
-        "opcion d": "Dolor de inicio súbito y severo"
-      }
+        "opcion a": "La capacidad de funcionar adecuadamente en la sociedad.",
+        "opcion b": "El estado de completo bienestar físico, mental y social y no solamente la ausencia de enfermedad",
+        "opcion c": "El equilibrio biopsicosocial y ambiental.",
+        "opcion d": "La ausencia de patologías y afecciones."
+      },
+      "caso_clinico": "Salud Pública y Leyes"
     },
     {
       "id": 92,
-      "pregunta": "¿Qué es una enfermedad endémica?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "El Dispositivo Estratégico de Testeo para Coronavirus en Terreno Argentino (DETECTAR) busca el diagnóstico oportuno. En la toma de muestras y diagnóstico ¿qué actividades se realizan?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Enfermedad que afecta a todo el mundo",
-        "opcion b": "Enfermedad que aparece en brotes",
-        "opcion c": "Enfermedad sin casos reportados",
-        "opcion d": "Enfermedad presente de forma habitual en una zona geográfica"
-      }
+        "opcion a": "Solo la toma de muestras de saliva para análisis viral.",
+        "opcion b": "Confirmación por criterios clínico-epidemiológicos o realización de hisopado diagnóstico",
+        "opcion c": "Realización obligatoria de serología IgG e IgM.",
+        "opcion d": "Únicamente la valoración de la saturación de oxígeno."
+      },
+      "caso_clinico": "Epidemiología (COVID-19)"
     },
     {
       "id": 93,
-      "pregunta": "¿Qué es la epidemiología?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "Según Virginia Henderson, ¿en qué tipo de atención se basa su teoría, afirmando que los receptores de los cuidados requieren ayuda profesional para mantener su salud?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Estudio de la distribución y determinantes de enfermedades en poblaciones",
-        "opcion b": "Estudio de epidemias únicamente",
-        "opcion c": "Tratamiento de enfermedades infecciosas",
-        "opcion d": "Prevención de enfermedades crónicas"
-      }
+        "opcion a": "En la atención de la Enfermería Transcultural.",
+        "opcion b": "En la Atención de necesidades basicas en el individuo",
+        "opcion c": "En la atención de la adaptación humana.",
+        "opcion d": "En la atención del Sistema Abierto."
+      },
+      "caso_clinico": "Teorías de Enfermería"
     },
     {
       "id": 94,
-      "pregunta": "¿Cuál es el orden de extracción de tubos en venopunción?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "En el Algoritmo de paro cardíaco en adultos, para realizar RCP de calidad se comienza con compresiones. ¿Cuántas compresiones deberá realizar para realizar RCP de calidad?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Siempre comenzar por tubo con EDTA",
-        "opcion b": "No importa el orden de extracción",
-        "opcion c": "Hemocultivos, tubos sin aditivo, con coagulante, con EDTA",
-        "opcion d": "Primero tubos con anticoagulante"
-      }
+        "opcion a": "Secuencia 5:1 (compresiones:ventilaciones)",
+        "opcion b": "Secuencia 30:2",
+        "opcion c": "Secuencia 10:1",
+        "opcion d": "Secuencia 15:2"
+      },
+      "caso_clinico": "Reanimación"
     },
     {
       "id": 95,
-      "pregunta": "¿Cuál es el dispositivo de oxigenoterapia más común?",
+      "pregunta": "La Ceftriaxona pertenece a la familia de las cefalosporinas de tercera generación. ¿Cuáles son las vías de administración de la Ceftriaxona?",
       "respuesta_correcta": "opcion c",
       "opciones": {
-        "opcion a": "Nebulizador ultrasónico",
-        "opcion b": "Cámara hiperbárica",
-        "opcion c": "Cánula nasal",
-        "opcion d": "Ventilador mecánico"
-      }
+        "opcion a": "Tópica y subcutánea.",
+        "opcion b": "Intratecal e intraarticular.",
+        "opcion c": "IM-EV",
+        "opcion d": "Vía oral únicamente."
+      },
+      "caso_clinico": "Farmacología"
     },
     {
       "id": 96,
-      "pregunta": "¿Qué es la taquicardia?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "¿Qué objetivo se proponen los tratamientos para personas con consumo problemático de sustancias según el marco de la Ley N° 26657 de Salud Mental?",
+      "respuesta_correcta": "opcion a",
       "opciones": {
-        "opcion a": "Irregularidad en el ritmo cardíaco",
-        "opcion b": "Frecuencia cardíaca menor a 60 latidos por minuto",
-        "opcion c": "Dolor precordial intenso",
-        "opcion d": "Frecuencia cardíaca mayor a 100 latidos por minuto"
-      }
+        "opcion a": "El proceso de atención debe realizarse preferentemente fuera del ámbito de internación hospitalario con abordaje interdisciplinario.",
+        "opcion b": "Priorizar el tratamiento farmacológico sobre la psicoterapia.",
+        "opcion c": "La abstinencia total como único criterio de éxito.",
+        "opcion d": "La internación compulsiva y prolongada en hospitales monovalentes."
+      },
+      "caso_clinico": "Salud Mental (Ley 26657)"
     },
     {
       "id": 97,
-      "pregunta": "¿Cuál es el puntaje máximo en la escala de Glasgow?",
-      "respuesta_correcta": "opcion c",
+      "pregunta": "¿Cómo se define el desarrollo que se produce desde la cabeza hacia los pies?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "10 puntos",
-        "opcion b": "20 puntos",
-        "opcion c": "15 puntos",
-        "opcion d": "12 puntos"
-      }
+        "opcion a": "Secuencial.",
+        "opcion b": "Cefalocaudal.",
+        "opcion c": "Próximodistal.",
+        "opcion d": "Holístico."
+      },
+      "caso_clinico": "Desarrollo Infantil"
     },
     {
       "id": 98,
-      "pregunta": "¿Cuáles son las precauciones estándar?",
+      "pregunta": "¿Qué principio elemental describe el artículo 12 de la Ley 26.743 de Identidad de Género al mencionar que deberá respetarse la identidad de género adoptada por las personas, en especial por niñas, niños y adolescentes?",
       "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "Uso de antibióticos profilácticos antes de procedimientos",
-        "opcion b": "Lavado de manos, uso de guantes, bata, mascarilla y protección ocular",
-        "opcion c": "Desinfección diaria de todas las superficies hospitalarias",
-        "opcion d": "Aislamiento de todos los pacientes en habitaciones individuales"
-      }
+        "opcion a": "Libre desarrollo personal",
+        "opcion b": "Trato digno",
+        "opcion c": "Interés superior del niño",
+        "opcion d": "No discriminación"
+      },
+      "caso_clinico": "Leyes y Derechos (Niños/Adolescentes)"
     },
     {
       "id": 99,
-      "pregunta": "¿Qué es la analgesia?",
-      "respuesta_correcta": "opcion a",
+      "pregunta": "Un niño de 15 meses solo tiene pendiente una única vacuna. ¿Qué vacuna debe aplicar como única dosis a esa edad?",
+      "respuesta_correcta": "opcion d",
       "opciones": {
-        "opcion a": "Ausencia o alivio del dolor",
-        "opcion b": "Pérdida de la sensibilidad",
-        "opcion c": "Pérdida de la conciencia",
-        "opcion d": "Parálisis muscular"
-      }
+        "opcion a": "Hepatitis A",
+        "opcion b": "Rotavirus",
+        "opcion c": "Triple Viral",
+        "opcion d": "Varicela."
+      },
+      "caso_clinico": "Vacunación (Niño)"
     },
     {
       "id": 100,
-      "pregunta": "¿Cuál es el volumen normal de diuresis en 24 horas?",
-      "respuesta_correcta": "opcion d",
+      "pregunta": "¿Cuáles son los mecanismos de pérdida de calor en el recién nacido?",
+      "respuesta_correcta": "opcion b",
       "opciones": {
-        "opcion a": "2500 - 3000 ml",
-        "opcion b": "300 - 500 ml",
-        "opcion c": "500 - 700 ml",
-        "opcion d": "1000 - 1500 ml"
-      }
+        "opcion a": "Por vasodilatación y sudoración.",
+        "opcion b": "Mediante conducción, radiación, convección, evaporación",
+        "opcion c": "Solo por evaporación y conducción.",
+        "opcion d": "Por termogénesis sin escalofríos."
+      },
+      "caso_clinico": "Puericultura (Recién Nacido)"
     }
   ]
 }
