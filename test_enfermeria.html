@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Enfermería</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+        .pregunta {
+            background: #f5f5f5;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+        .opcion {
+            padding: 10px;
+            margin: 5px 0;
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .correcta {
+            background: #d4edda !important;
+            border-color: #28a745;
+        }
+        button {
+            background: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        #resultado {
+            margin-top: 20px;
+            padding: 15px;
+            background: #e7f3ff;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Test de Carga de Enfermería</h1>
+    
+    <div>
+        <label>Seleccionar archivo:</label>
+        <select id="selectArchivo">
+            <option value="enfermeria_2023_1">2023 - Primer Año</option>
+            <option value="enfermeria_2023_2">2023 - Segundo Año</option>
+            <option value="enfermeria_2023_3">2023 - Tercer Año</option>
+            <option value="enfermeria_2023_4">2023 - Cuarto Año</option>
+            <option value="enfermeria_2024_1">2024 - Primer Año</option>
+            <option value="enfermeria_2024_2">2024 - Segundo Año</option>
+            <option value="enfermeria_2024_3">2024 - Tercer Año</option>
+            <option value="enfermeria_2024_4">2024 - Cuarto Año</option>
+        </select>
+        <button onclick="cargarArchivo()">Cargar</button>
+    </div>
+    
+    <div id="resultado"></div>
+    <div id="preguntas"></div>
+
+    <script>
+        async function cargarArchivo() {
+            const select = document.getElementById('selectArchivo');
+            const archivo = select.value;
+            const resultado = document.getElementById('resultado');
+            const preguntasDiv = document.getElementById('preguntas');
+            
+            resultado.innerHTML = '<p>⏳ Cargando...</p>';
+            preguntasDiv.innerHTML = '';
+            
+            try {
+                const response = await fetch(`data_final/${archivo}.json`);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+                
+                const data = await response.json();
+                
+                // Mostrar información
+                resultado.innerHTML = `
+                    <h3>✅ Archivo cargado exitosamente</h3>
+                    <p><strong>Tema:</strong> ${data.tema || 'N/A'}</p>
+                    <p><strong>Año:</strong> ${data.año || 'N/A'}</p>
+                    <p><strong>Examen:</strong> ${data.examen || 'N/A'}</p>
+                    <p><strong>Total preguntas:</strong> ${data.preguntas ? data.preguntas.length : 0}</p>
+                `;
+                
+                // Mostrar primeras 3 preguntas
+                if (data.preguntas && data.preguntas.length > 0) {
+                    const primeras = data.preguntas.slice(0, 3);
+                    
+                    primeras.forEach((p, index) => {
+                        const div = document.createElement('div');
+                        div.className = 'pregunta';
+                        
+                        let html = `
+                            <h4>Pregunta ${index + 1} (ID: ${p.id})</h4>
+                            <p><strong>${p.pregunta}</strong></p>
+                        `;
+                        
+                        // Mostrar opciones
+                        const opciones = ['opcion a', 'opcion b', 'opcion c', 'opcion d'];
+                        opciones.forEach(opt => {
+                            const esCorrecta = p.respuesta_correcta === opt;
+                            const clase = esCorrecta ? 'opcion correcta' : 'opcion';
+                            html += `
+                                <div class="${clase}">
+                                    ${opt.toUpperCase()}: ${p[opt] || 'NO DISPONIBLE'}
+                                    ${esCorrecta ? ' ✓ CORRECTA' : ''}
+                                </div>
+                            `;
+                        });
+                        
+                        div.innerHTML = html;
+                        preguntasDiv.appendChild(div);
+                    });
+                }
+                
+            } catch (error) {
+                resultado.innerHTML = `
+                    <h3>❌ Error al cargar</h3>
+                    <p><strong>Error:</strong> ${error.message}</p>
+                    <pre>${error.stack}</pre>
+                `;
+            }
+        }
+        
+        // Cargar automáticamente al inicio
+        window.onload = () => {
+            cargarArchivo();
+        };
+    </script>
+</body>
+</html>
