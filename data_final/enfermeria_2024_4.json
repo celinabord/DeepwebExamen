@@ -6,902 +6,1102 @@
     {
       "id": 1,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "opcion d": "Es la técnica de administración hospitalaria",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
+        "opcion d": "Es la técnica de administración hospitalaria"
+      }
     },
     {
       "id": 2,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Evaluación de resultados",
-      "opcion b": "Diagnóstico médico",
-      "opcion c": "Aplicación del tratamiento",
-      "opcion d": "Valoración del paciente",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Evaluación de resultados",
+        "opcion b": "Diagnóstico médico",
+        "opcion c": "Aplicación del tratamiento",
+        "opcion d": "Valoración del paciente"
+      }
     },
     {
       "id": 3,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "38 - 39 °C",
-      "opcion b": "34 - 35.5 °C",
-      "opcion c": "36.5 - 37.5 °C",
-      "opcion d": "35 - 36 °C",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "38 - 39 °C",
+        "opcion b": "34 - 35.5 °C",
+        "opcion c": "36.5 - 37.5 °C",
+        "opcion d": "35 - 36 °C"
+      }
     },
     {
       "id": 4,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion b": "Servicio, Observación, Atención, Protocolo",
-      "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
-      "opcion d": "Sistema, Organización, Aplicación, Procedimiento",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion b": "Servicio, Observación, Atención, Protocolo",
+        "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
+        "opcion d": "Sistema, Organización, Aplicación, Procedimiento"
+      }
     },
     {
       "id": 5,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "40 - 60 latidos por minuto",
-      "opcion b": "100 - 140 latidos por minuto",
-      "opcion c": "60 - 100 latidos por minuto",
-      "opcion d": "120 - 160 latidos por minuto",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "40 - 60 latidos por minuto",
+        "opcion b": "100 - 140 latidos por minuto",
+        "opcion c": "60 - 100 latidos por minuto",
+        "opcion d": "120 - 160 latidos por minuto"
+      }
     },
     {
       "id": 6,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Valoración del paciente",
-      "opcion b": "Aplicación del tratamiento",
-      "opcion c": "Evaluación de resultados",
-      "opcion d": "Diagnóstico médico",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Valoración del paciente",
+        "opcion b": "Aplicación del tratamiento",
+        "opcion c": "Evaluación de resultados",
+        "opcion d": "Diagnóstico médico"
+      }
     },
     {
       "id": 7,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Evaluación de resultados",
-      "opcion b": "Valoración del paciente",
-      "opcion c": "Aplicación del tratamiento",
-      "opcion d": "Diagnóstico médico",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Evaluación de resultados",
+        "opcion b": "Valoración del paciente",
+        "opcion c": "Aplicación del tratamiento",
+        "opcion d": "Diagnóstico médico"
+      }
     },
     {
       "id": 8,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "36.5 - 37.5 °C",
-      "opcion b": "34 - 35.5 °C",
-      "opcion c": "35 - 36 °C",
-      "opcion d": "38 - 39 °C",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "36.5 - 37.5 °C",
+        "opcion b": "34 - 35.5 °C",
+        "opcion c": "35 - 36 °C",
+        "opcion d": "38 - 39 °C"
+      }
     },
     {
       "id": 9,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion b": "Es la técnica de administración hospitalaria",
-      "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion b": "Es la técnica de administración hospitalaria",
+        "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos"
+      }
     },
     {
       "id": 10,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Diagnóstico médico",
-      "opcion b": "Aplicación del tratamiento",
-      "opcion c": "Valoración del paciente",
-      "opcion d": "Evaluación de resultados",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Diagnóstico médico",
+        "opcion b": "Aplicación del tratamiento",
+        "opcion c": "Valoración del paciente",
+        "opcion d": "Evaluación de resultados"
+      }
     },
     {
       "id": 11,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Evaluación de resultados",
-      "opcion b": "Aplicación del tratamiento",
-      "opcion c": "Valoración del paciente",
-      "opcion d": "Diagnóstico médico",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Evaluación de resultados",
+        "opcion b": "Aplicación del tratamiento",
+        "opcion c": "Valoración del paciente",
+        "opcion d": "Diagnóstico médico"
+      }
     },
     {
       "id": 12,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion d": "Es la técnica de administración hospitalaria",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Es únicamente la aplicación de tratamientos médicos prescritos",
+        "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion d": "Es la técnica de administración hospitalaria"
+      }
     },
     {
       "id": 13,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "34 - 35.5 °C",
-      "opcion b": "38 - 39 °C",
-      "opcion c": "36.5 - 37.5 °C",
-      "opcion d": "35 - 36 °C",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "34 - 35.5 °C",
+        "opcion b": "38 - 39 °C",
+        "opcion c": "36.5 - 37.5 °C",
+        "opcion d": "35 - 36 °C"
+      }
     },
     {
       "id": 14,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "60 - 100 latidos por minuto",
-      "opcion b": "100 - 140 latidos por minuto",
-      "opcion c": "40 - 60 latidos por minuto",
-      "opcion d": "120 - 160 latidos por minuto",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "60 - 100 latidos por minuto",
+        "opcion b": "100 - 140 latidos por minuto",
+        "opcion c": "40 - 60 latidos por minuto",
+        "opcion d": "120 - 160 latidos por minuto"
+      }
     },
     {
       "id": 15,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "60 - 100 latidos por minuto",
-      "opcion b": "100 - 140 latidos por minuto",
-      "opcion c": "40 - 60 latidos por minuto",
-      "opcion d": "120 - 160 latidos por minuto",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "60 - 100 latidos por minuto",
+        "opcion b": "100 - 140 latidos por minuto",
+        "opcion c": "40 - 60 latidos por minuto",
+        "opcion d": "120 - 160 latidos por minuto"
+      }
     },
     {
       "id": 16,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "35 - 36 °C",
-      "opcion b": "38 - 39 °C",
-      "opcion c": "36.5 - 37.5 °C",
-      "opcion d": "34 - 35.5 °C",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "35 - 36 °C",
+        "opcion b": "38 - 39 °C",
+        "opcion c": "36.5 - 37.5 °C",
+        "opcion d": "34 - 35.5 °C"
+      }
     },
     {
       "id": 17,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "38 - 39 °C",
-      "opcion b": "36.5 - 37.5 °C",
-      "opcion c": "35 - 36 °C",
-      "opcion d": "34 - 35.5 °C",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "38 - 39 °C",
+        "opcion b": "36.5 - 37.5 °C",
+        "opcion c": "35 - 36 °C",
+        "opcion d": "34 - 35.5 °C"
+      }
     },
     {
       "id": 18,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Evaluación de resultados",
-      "opcion b": "Valoración del paciente",
-      "opcion c": "Aplicación del tratamiento",
-      "opcion d": "Diagnóstico médico",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Evaluación de resultados",
+        "opcion b": "Valoración del paciente",
+        "opcion c": "Aplicación del tratamiento",
+        "opcion d": "Diagnóstico médico"
+      }
     },
     {
       "id": 19,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "34 - 35.5 °C",
-      "opcion b": "38 - 39 °C",
-      "opcion c": "36.5 - 37.5 °C",
-      "opcion d": "35 - 36 °C",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "34 - 35.5 °C",
+        "opcion b": "38 - 39 °C",
+        "opcion c": "36.5 - 37.5 °C",
+        "opcion d": "35 - 36 °C"
+      }
     },
     {
       "id": 20,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "38 - 39 °C",
-      "opcion b": "34 - 35.5 °C",
-      "opcion c": "35 - 36 °C",
-      "opcion d": "36.5 - 37.5 °C",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "38 - 39 °C",
+        "opcion b": "34 - 35.5 °C",
+        "opcion c": "35 - 36 °C",
+        "opcion d": "36.5 - 37.5 °C"
+      }
     },
     {
       "id": 21,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es la técnica de administración hospitalaria",
-      "opcion b": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Es la técnica de administración hospitalaria",
+        "opcion b": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos"
+      }
     },
     {
       "id": 22,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion b": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion d": "Es la técnica de administración hospitalaria",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion b": "Es únicamente la aplicación de tratamientos médicos prescritos",
+        "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion d": "Es la técnica de administración hospitalaria"
+      }
     },
     {
       "id": 23,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "38 - 39 °C",
-      "opcion b": "34 - 35.5 °C",
-      "opcion c": "35 - 36 °C",
-      "opcion d": "36.5 - 37.5 °C",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "38 - 39 °C",
+        "opcion b": "34 - 35.5 °C",
+        "opcion c": "35 - 36 °C",
+        "opcion d": "36.5 - 37.5 °C"
+      }
     },
     {
       "id": 24,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "34 - 35.5 °C",
-      "opcion b": "35 - 36 °C",
-      "opcion c": "38 - 39 °C",
-      "opcion d": "36.5 - 37.5 °C",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "34 - 35.5 °C",
+        "opcion b": "35 - 36 °C",
+        "opcion c": "38 - 39 °C",
+        "opcion d": "36.5 - 37.5 °C"
+      }
     },
     {
       "id": 25,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "34 - 35.5 °C",
-      "opcion b": "38 - 39 °C",
-      "opcion c": "36.5 - 37.5 °C",
-      "opcion d": "35 - 36 °C",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "34 - 35.5 °C",
+        "opcion b": "38 - 39 °C",
+        "opcion c": "36.5 - 37.5 °C",
+        "opcion d": "35 - 36 °C"
+      }
     },
     {
       "id": 26,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
-      "opcion c": "Servicio, Observación, Atención, Protocolo",
-      "opcion d": "Sistema, Organización, Aplicación, Procedimiento",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
+        "opcion c": "Servicio, Observación, Atención, Protocolo",
+        "opcion d": "Sistema, Organización, Aplicación, Procedimiento"
+      }
     },
     {
       "id": 27,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "opcion b": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion d": "Es la técnica de administración hospitalaria",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Es únicamente la aplicación de tratamientos médicos prescritos",
+        "opcion b": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion d": "Es la técnica de administración hospitalaria"
+      }
     },
     {
       "id": 28,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "34 - 35.5 °C",
-      "opcion b": "35 - 36 °C",
-      "opcion c": "38 - 39 °C",
-      "opcion d": "36.5 - 37.5 °C",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "34 - 35.5 °C",
+        "opcion b": "35 - 36 °C",
+        "opcion c": "38 - 39 °C",
+        "opcion d": "36.5 - 37.5 °C"
+      }
     },
     {
       "id": 29,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion b": "Es la técnica de administración hospitalaria",
-      "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "opcion d": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion b": "Es la técnica de administración hospitalaria",
+        "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
+        "opcion d": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad"
+      }
     },
     {
       "id": 30,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "100 - 140 latidos por minuto",
-      "opcion b": "120 - 160 latidos por minuto",
-      "opcion c": "60 - 100 latidos por minuto",
-      "opcion d": "40 - 60 latidos por minuto",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "100 - 140 latidos por minuto",
+        "opcion b": "120 - 160 latidos por minuto",
+        "opcion c": "60 - 100 latidos por minuto",
+        "opcion d": "40 - 60 latidos por minuto"
+      }
     },
     {
       "id": 31,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Evaluación de resultados",
-      "opcion b": "Valoración del paciente",
-      "opcion c": "Aplicación del tratamiento",
-      "opcion d": "Diagnóstico médico",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Evaluación de resultados",
+        "opcion b": "Valoración del paciente",
+        "opcion c": "Aplicación del tratamiento",
+        "opcion d": "Diagnóstico médico"
+      }
     },
     {
       "id": 32,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion c": "Es la técnica de administración hospitalaria",
-      "opcion d": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Es únicamente la aplicación de tratamientos médicos prescritos",
+        "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion c": "Es la técnica de administración hospitalaria",
+        "opcion d": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad"
+      }
     },
     {
       "id": 33,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "34 - 35.5 °C",
-      "opcion b": "36.5 - 37.5 °C",
-      "opcion c": "38 - 39 °C",
-      "opcion d": "35 - 36 °C",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "34 - 35.5 °C",
+        "opcion b": "36.5 - 37.5 °C",
+        "opcion c": "38 - 39 °C",
+        "opcion d": "35 - 36 °C"
+      }
     },
     {
       "id": 34,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es la técnica de administración hospitalaria",
-      "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Es la técnica de administración hospitalaria",
+        "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos"
+      }
     },
     {
       "id": 35,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "40 - 60 latidos por minuto",
-      "opcion b": "100 - 140 latidos por minuto",
-      "opcion c": "60 - 100 latidos por minuto",
-      "opcion d": "120 - 160 latidos por minuto",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "40 - 60 latidos por minuto",
+        "opcion b": "100 - 140 latidos por minuto",
+        "opcion c": "60 - 100 latidos por minuto",
+        "opcion d": "120 - 160 latidos por minuto"
+      }
     },
     {
       "id": 36,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "60 - 100 latidos por minuto",
-      "opcion b": "120 - 160 latidos por minuto",
-      "opcion c": "40 - 60 latidos por minuto",
-      "opcion d": "100 - 140 latidos por minuto",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "60 - 100 latidos por minuto",
+        "opcion b": "120 - 160 latidos por minuto",
+        "opcion c": "40 - 60 latidos por minuto",
+        "opcion d": "100 - 140 latidos por minuto"
+      }
     },
     {
       "id": 37,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "36.5 - 37.5 °C",
-      "opcion b": "38 - 39 °C",
-      "opcion c": "34 - 35.5 °C",
-      "opcion d": "35 - 36 °C",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "36.5 - 37.5 °C",
+        "opcion b": "38 - 39 °C",
+        "opcion c": "34 - 35.5 °C",
+        "opcion d": "35 - 36 °C"
+      }
     },
     {
       "id": 38,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "60 - 100 latidos por minuto",
-      "opcion b": "120 - 160 latidos por minuto",
-      "opcion c": "40 - 60 latidos por minuto",
-      "opcion d": "100 - 140 latidos por minuto",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "60 - 100 latidos por minuto",
+        "opcion b": "120 - 160 latidos por minuto",
+        "opcion c": "40 - 60 latidos por minuto",
+        "opcion d": "100 - 140 latidos por minuto"
+      }
     },
     {
       "id": 39,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "60 - 100 latidos por minuto",
-      "opcion b": "40 - 60 latidos por minuto",
-      "opcion c": "120 - 160 latidos por minuto",
-      "opcion d": "100 - 140 latidos por minuto",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "60 - 100 latidos por minuto",
+        "opcion b": "40 - 60 latidos por minuto",
+        "opcion c": "120 - 160 latidos por minuto",
+        "opcion d": "100 - 140 latidos por minuto"
+      }
     },
     {
       "id": 40,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion b": "Es la técnica de administración hospitalaria",
-      "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion b": "Es la técnica de administración hospitalaria",
+        "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos"
+      }
     },
     {
       "id": 41,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es la técnica de administración hospitalaria",
-      "opcion b": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Es la técnica de administración hospitalaria",
+        "opcion b": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos"
+      }
     },
     {
       "id": 42,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "40 - 60 latidos por minuto",
-      "opcion b": "120 - 160 latidos por minuto",
-      "opcion c": "100 - 140 latidos por minuto",
-      "opcion d": "60 - 100 latidos por minuto",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "40 - 60 latidos por minuto",
+        "opcion b": "120 - 160 latidos por minuto",
+        "opcion c": "100 - 140 latidos por minuto",
+        "opcion d": "60 - 100 latidos por minuto"
+      }
     },
     {
       "id": 43,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "opcion b": "Es la técnica de administración hospitalaria",
-      "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion d": "Es el estudio exclusivo de enfermedades infecciosas",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Es únicamente la aplicación de tratamientos médicos prescritos",
+        "opcion b": "Es la técnica de administración hospitalaria",
+        "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion d": "Es el estudio exclusivo de enfermedades infecciosas"
+      }
     },
     {
       "id": 44,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "34 - 35.5 °C",
-      "opcion b": "38 - 39 °C",
-      "opcion c": "35 - 36 °C",
-      "opcion d": "36.5 - 37.5 °C",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "34 - 35.5 °C",
+        "opcion b": "38 - 39 °C",
+        "opcion c": "35 - 36 °C",
+        "opcion d": "36.5 - 37.5 °C"
+      }
     },
     {
       "id": 45,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
-      "opcion c": "Sistema, Organización, Aplicación, Procedimiento",
-      "opcion d": "Servicio, Observación, Atención, Protocolo",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
+        "opcion c": "Sistema, Organización, Aplicación, Procedimiento",
+        "opcion d": "Servicio, Observación, Atención, Protocolo"
+      }
     },
     {
       "id": 46,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion b": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion d": "Es la técnica de administración hospitalaria",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion b": "Es únicamente la aplicación de tratamientos médicos prescritos",
+        "opcion c": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion d": "Es la técnica de administración hospitalaria"
+      }
     },
     {
       "id": 47,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Servicio, Observación, Atención, Protocolo",
-      "opcion b": "Sistema, Organización, Aplicación, Procedimiento",
-      "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
-      "opcion d": "Subjetivo, Objetivo, Análisis, Plan",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Servicio, Observación, Atención, Protocolo",
+        "opcion b": "Sistema, Organización, Aplicación, Procedimiento",
+        "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
+        "opcion d": "Subjetivo, Objetivo, Análisis, Plan"
+      }
     },
     {
       "id": 48,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion b": "Es la técnica de administración hospitalaria",
-      "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "opcion d": "Es el estudio exclusivo de enfermedades infecciosas",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion b": "Es la técnica de administración hospitalaria",
+        "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
+        "opcion d": "Es el estudio exclusivo de enfermedades infecciosas"
+      }
     },
     {
       "id": 49,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "36.5 - 37.5 °C",
-      "opcion b": "35 - 36 °C",
-      "opcion c": "34 - 35.5 °C",
-      "opcion d": "38 - 39 °C",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "36.5 - 37.5 °C",
+        "opcion b": "35 - 36 °C",
+        "opcion c": "34 - 35.5 °C",
+        "opcion d": "38 - 39 °C"
+      }
     },
     {
       "id": 50,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "60 - 100 latidos por minuto",
-      "opcion b": "100 - 140 latidos por minuto",
-      "opcion c": "40 - 60 latidos por minuto",
-      "opcion d": "120 - 160 latidos por minuto",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "60 - 100 latidos por minuto",
+        "opcion b": "100 - 140 latidos por minuto",
+        "opcion c": "40 - 60 latidos por minuto",
+        "opcion d": "120 - 160 latidos por minuto"
+      }
     },
     {
       "id": 51,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "38 - 39 °C",
-      "opcion b": "36.5 - 37.5 °C",
-      "opcion c": "34 - 35.5 °C",
-      "opcion d": "35 - 36 °C",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "38 - 39 °C",
+        "opcion b": "36.5 - 37.5 °C",
+        "opcion c": "34 - 35.5 °C",
+        "opcion d": "35 - 36 °C"
+      }
     },
     {
       "id": 52,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Aplicación del tratamiento",
-      "opcion b": "Valoración del paciente",
-      "opcion c": "Evaluación de resultados",
-      "opcion d": "Diagnóstico médico",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Aplicación del tratamiento",
+        "opcion b": "Valoración del paciente",
+        "opcion c": "Evaluación de resultados",
+        "opcion d": "Diagnóstico médico"
+      }
     },
     {
       "id": 53,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion b": "Es la técnica de administración hospitalaria",
-      "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "opcion d": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion b": "Es la técnica de administración hospitalaria",
+        "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
+        "opcion d": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad"
+      }
     },
     {
       "id": 54,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "120 - 160 latidos por minuto",
-      "opcion b": "40 - 60 latidos por minuto",
-      "opcion c": "100 - 140 latidos por minuto",
-      "opcion d": "60 - 100 latidos por minuto",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "120 - 160 latidos por minuto",
+        "opcion b": "40 - 60 latidos por minuto",
+        "opcion c": "100 - 140 latidos por minuto",
+        "opcion d": "60 - 100 latidos por minuto"
+      }
     },
     {
       "id": 55,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion b": "Servicio, Observación, Atención, Protocolo",
-      "opcion c": "Sistema, Organización, Aplicación, Procedimiento",
-      "opcion d": "Sanitario, Operativo, Asistencial, Profesional",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion b": "Servicio, Observación, Atención, Protocolo",
+        "opcion c": "Sistema, Organización, Aplicación, Procedimiento",
+        "opcion d": "Sanitario, Operativo, Asistencial, Profesional"
+      }
     },
     {
       "id": 56,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Valoración del paciente",
-      "opcion b": "Aplicación del tratamiento",
-      "opcion c": "Diagnóstico médico",
-      "opcion d": "Evaluación de resultados",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Valoración del paciente",
+        "opcion b": "Aplicación del tratamiento",
+        "opcion c": "Diagnóstico médico",
+        "opcion d": "Evaluación de resultados"
+      }
     },
     {
       "id": 57,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "100 - 140 latidos por minuto",
-      "opcion b": "60 - 100 latidos por minuto",
-      "opcion c": "120 - 160 latidos por minuto",
-      "opcion d": "40 - 60 latidos por minuto",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "100 - 140 latidos por minuto",
+        "opcion b": "60 - 100 latidos por minuto",
+        "opcion c": "120 - 160 latidos por minuto",
+        "opcion d": "40 - 60 latidos por minuto"
+      }
     },
     {
       "id": 58,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "100 - 140 latidos por minuto",
-      "opcion b": "40 - 60 latidos por minuto",
-      "opcion c": "60 - 100 latidos por minuto",
-      "opcion d": "120 - 160 latidos por minuto",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "100 - 140 latidos por minuto",
+        "opcion b": "40 - 60 latidos por minuto",
+        "opcion c": "60 - 100 latidos por minuto",
+        "opcion d": "120 - 160 latidos por minuto"
+      }
     },
     {
       "id": 59,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "100 - 140 latidos por minuto",
-      "opcion b": "120 - 160 latidos por minuto",
-      "opcion c": "60 - 100 latidos por minuto",
-      "opcion d": "40 - 60 latidos por minuto",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "100 - 140 latidos por minuto",
+        "opcion b": "120 - 160 latidos por minuto",
+        "opcion c": "60 - 100 latidos por minuto",
+        "opcion d": "40 - 60 latidos por minuto"
+      }
     },
     {
       "id": 60,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "36.5 - 37.5 °C",
-      "opcion b": "34 - 35.5 °C",
-      "opcion c": "38 - 39 °C",
-      "opcion d": "35 - 36 °C",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "36.5 - 37.5 °C",
+        "opcion b": "34 - 35.5 °C",
+        "opcion c": "38 - 39 °C",
+        "opcion d": "35 - 36 °C"
+      }
     },
     {
       "id": 61,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Diagnóstico médico",
-      "opcion b": "Aplicación del tratamiento",
-      "opcion c": "Evaluación de resultados",
-      "opcion d": "Valoración del paciente",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Diagnóstico médico",
+        "opcion b": "Aplicación del tratamiento",
+        "opcion c": "Evaluación de resultados",
+        "opcion d": "Valoración del paciente"
+      }
     },
     {
       "id": 62,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Aplicación del tratamiento",
-      "opcion b": "Diagnóstico médico",
-      "opcion c": "Evaluación de resultados",
-      "opcion d": "Valoración del paciente",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Aplicación del tratamiento",
+        "opcion b": "Diagnóstico médico",
+        "opcion c": "Evaluación de resultados",
+        "opcion d": "Valoración del paciente"
+      }
     },
     {
       "id": 63,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Sistema, Organización, Aplicación, Procedimiento",
-      "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
-      "opcion c": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion d": "Servicio, Observación, Atención, Protocolo",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Sistema, Organización, Aplicación, Procedimiento",
+        "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
+        "opcion c": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion d": "Servicio, Observación, Atención, Protocolo"
+      }
     },
     {
       "id": 64,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "60 - 100 latidos por minuto",
-      "opcion b": "120 - 160 latidos por minuto",
-      "opcion c": "100 - 140 latidos por minuto",
-      "opcion d": "40 - 60 latidos por minuto",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "60 - 100 latidos por minuto",
+        "opcion b": "120 - 160 latidos por minuto",
+        "opcion c": "100 - 140 latidos por minuto",
+        "opcion d": "40 - 60 latidos por minuto"
+      }
     },
     {
       "id": 65,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion c": "Es la técnica de administración hospitalaria",
-      "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion b": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion c": "Es la técnica de administración hospitalaria",
+        "opcion d": "Es únicamente la aplicación de tratamientos médicos prescritos"
+      }
     },
     {
       "id": 66,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Sistema, Organización, Aplicación, Procedimiento",
-      "opcion b": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
-      "opcion d": "Servicio, Observación, Atención, Protocolo",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Sistema, Organización, Aplicación, Procedimiento",
+        "opcion b": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
+        "opcion d": "Servicio, Observación, Atención, Protocolo"
+      }
     },
     {
       "id": 67,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion b": "Sistema, Organización, Aplicación, Procedimiento",
-      "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
-      "opcion d": "Servicio, Observación, Atención, Protocolo",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion b": "Sistema, Organización, Aplicación, Procedimiento",
+        "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
+        "opcion d": "Servicio, Observación, Atención, Protocolo"
+      }
     },
     {
       "id": 68,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Sistema, Organización, Aplicación, Procedimiento",
-      "opcion b": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion c": "Servicio, Observación, Atención, Protocolo",
-      "opcion d": "Sanitario, Operativo, Asistencial, Profesional",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Sistema, Organización, Aplicación, Procedimiento",
+        "opcion b": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion c": "Servicio, Observación, Atención, Protocolo",
+        "opcion d": "Sanitario, Operativo, Asistencial, Profesional"
+      }
     },
     {
       "id": 69,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "40 - 60 latidos por minuto",
-      "opcion b": "120 - 160 latidos por minuto",
-      "opcion c": "100 - 140 latidos por minuto",
-      "opcion d": "60 - 100 latidos por minuto",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "40 - 60 latidos por minuto",
+        "opcion b": "120 - 160 latidos por minuto",
+        "opcion c": "100 - 140 latidos por minuto",
+        "opcion d": "60 - 100 latidos por minuto"
+      }
     },
     {
       "id": 70,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "100 - 140 latidos por minuto",
-      "opcion b": "40 - 60 latidos por minuto",
-      "opcion c": "60 - 100 latidos por minuto",
-      "opcion d": "120 - 160 latidos por minuto",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "100 - 140 latidos por minuto",
+        "opcion b": "40 - 60 latidos por minuto",
+        "opcion c": "60 - 100 latidos por minuto",
+        "opcion d": "120 - 160 latidos por minuto"
+      }
     },
     {
       "id": 71,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "60 - 100 latidos por minuto",
-      "opcion b": "100 - 140 latidos por minuto",
-      "opcion c": "120 - 160 latidos por minuto",
-      "opcion d": "40 - 60 latidos por minuto",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "60 - 100 latidos por minuto",
+        "opcion b": "100 - 140 latidos por minuto",
+        "opcion c": "120 - 160 latidos por minuto",
+        "opcion d": "40 - 60 latidos por minuto"
+      }
     },
     {
       "id": 72,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Diagnóstico médico",
-      "opcion b": "Aplicación del tratamiento",
-      "opcion c": "Valoración del paciente",
-      "opcion d": "Evaluación de resultados",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Diagnóstico médico",
+        "opcion b": "Aplicación del tratamiento",
+        "opcion c": "Valoración del paciente",
+        "opcion d": "Evaluación de resultados"
+      }
     },
     {
       "id": 73,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion b": "Es la técnica de administración hospitalaria",
-      "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "opcion d": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion b": "Es la técnica de administración hospitalaria",
+        "opcion c": "Es únicamente la aplicación de tratamientos médicos prescritos",
+        "opcion d": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad"
+      }
     },
     {
       "id": 74,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Evaluación de resultados",
-      "opcion b": "Valoración del paciente",
-      "opcion c": "Diagnóstico médico",
-      "opcion d": "Aplicación del tratamiento",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Evaluación de resultados",
+        "opcion b": "Valoración del paciente",
+        "opcion c": "Diagnóstico médico",
+        "opcion d": "Aplicación del tratamiento"
+      }
     },
     {
       "id": 75,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Valoración del paciente",
-      "opcion b": "Evaluación de resultados",
-      "opcion c": "Aplicación del tratamiento",
-      "opcion d": "Diagnóstico médico",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Valoración del paciente",
+        "opcion b": "Evaluación de resultados",
+        "opcion c": "Aplicación del tratamiento",
+        "opcion d": "Diagnóstico médico"
+      }
     },
     {
       "id": 76,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Servicio, Observación, Atención, Protocolo",
-      "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
-      "opcion c": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion d": "Sistema, Organización, Aplicación, Procedimiento",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Servicio, Observación, Atención, Protocolo",
+        "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
+        "opcion c": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion d": "Sistema, Organización, Aplicación, Procedimiento"
+      }
     },
     {
       "id": 77,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "100 - 140 latidos por minuto",
-      "opcion b": "40 - 60 latidos por minuto",
-      "opcion c": "60 - 100 latidos por minuto",
-      "opcion d": "120 - 160 latidos por minuto",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "100 - 140 latidos por minuto",
+        "opcion b": "40 - 60 latidos por minuto",
+        "opcion c": "60 - 100 latidos por minuto",
+        "opcion d": "120 - 160 latidos por minuto"
+      }
     },
     {
       "id": 78,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "60 - 100 latidos por minuto",
-      "opcion b": "120 - 160 latidos por minuto",
-      "opcion c": "40 - 60 latidos por minuto",
-      "opcion d": "100 - 140 latidos por minuto",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "60 - 100 latidos por minuto",
+        "opcion b": "120 - 160 latidos por minuto",
+        "opcion c": "40 - 60 latidos por minuto",
+        "opcion d": "100 - 140 latidos por minuto"
+      }
     },
     {
       "id": 79,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Servicio, Observación, Atención, Protocolo",
-      "opcion b": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
-      "opcion d": "Sistema, Organización, Aplicación, Procedimiento",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Servicio, Observación, Atención, Protocolo",
+        "opcion b": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
+        "opcion d": "Sistema, Organización, Aplicación, Procedimiento"
+      }
     },
     {
       "id": 80,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "100 - 140 latidos por minuto",
-      "opcion b": "120 - 160 latidos por minuto",
-      "opcion c": "60 - 100 latidos por minuto",
-      "opcion d": "40 - 60 latidos por minuto",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "100 - 140 latidos por minuto",
+        "opcion b": "120 - 160 latidos por minuto",
+        "opcion c": "60 - 100 latidos por minuto",
+        "opcion d": "40 - 60 latidos por minuto"
+      }
     },
     {
       "id": 81,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "40 - 60 latidos por minuto",
-      "opcion b": "100 - 140 latidos por minuto",
-      "opcion c": "60 - 100 latidos por minuto",
-      "opcion d": "120 - 160 latidos por minuto",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "40 - 60 latidos por minuto",
+        "opcion b": "100 - 140 latidos por minuto",
+        "opcion c": "60 - 100 latidos por minuto",
+        "opcion d": "120 - 160 latidos por minuto"
+      }
     },
     {
       "id": 82,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion b": "Servicio, Observación, Atención, Protocolo",
-      "opcion c": "Sistema, Organización, Aplicación, Procedimiento",
-      "opcion d": "Sanitario, Operativo, Asistencial, Profesional",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion b": "Servicio, Observación, Atención, Protocolo",
+        "opcion c": "Sistema, Organización, Aplicación, Procedimiento",
+        "opcion d": "Sanitario, Operativo, Asistencial, Profesional"
+      }
     },
     {
       "id": 83,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "36.5 - 37.5 °C",
-      "opcion b": "38 - 39 °C",
-      "opcion c": "35 - 36 °C",
-      "opcion d": "34 - 35.5 °C",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "36.5 - 37.5 °C",
+        "opcion b": "38 - 39 °C",
+        "opcion c": "35 - 36 °C",
+        "opcion d": "34 - 35.5 °C"
+      }
     },
     {
       "id": 84,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Servicio, Observación, Atención, Protocolo",
-      "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
-      "opcion c": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion d": "Sistema, Organización, Aplicación, Procedimiento",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Servicio, Observación, Atención, Protocolo",
+        "opcion b": "Sanitario, Operativo, Asistencial, Profesional",
+        "opcion c": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion d": "Sistema, Organización, Aplicación, Procedimiento"
+      }
     },
     {
       "id": 85,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion b": "Sistema, Organización, Aplicación, Procedimiento",
-      "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
-      "opcion d": "Servicio, Observación, Atención, Protocolo",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion b": "Sistema, Organización, Aplicación, Procedimiento",
+        "opcion c": "Sanitario, Operativo, Asistencial, Profesional",
+        "opcion d": "Servicio, Observación, Atención, Protocolo"
+      }
     },
     {
       "id": 86,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Diagnóstico médico",
-      "opcion b": "Aplicación del tratamiento",
-      "opcion c": "Valoración del paciente",
-      "opcion d": "Evaluación de resultados",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Diagnóstico médico",
+        "opcion b": "Aplicación del tratamiento",
+        "opcion c": "Valoración del paciente",
+        "opcion d": "Evaluación de resultados"
+      }
     },
     {
       "id": 87,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "40 - 60 latidos por minuto",
-      "opcion b": "60 - 100 latidos por minuto",
-      "opcion c": "120 - 160 latidos por minuto",
-      "opcion d": "100 - 140 latidos por minuto",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "40 - 60 latidos por minuto",
+        "opcion b": "60 - 100 latidos por minuto",
+        "opcion c": "120 - 160 latidos por minuto",
+        "opcion d": "100 - 140 latidos por minuto"
+      }
     },
     {
       "id": 88,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "35 - 36 °C",
-      "opcion b": "36.5 - 37.5 °C",
-      "opcion c": "34 - 35.5 °C",
-      "opcion d": "38 - 39 °C",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "35 - 36 °C",
+        "opcion b": "36.5 - 37.5 °C",
+        "opcion c": "34 - 35.5 °C",
+        "opcion d": "38 - 39 °C"
+      }
     },
     {
       "id": 89,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "100 - 140 latidos por minuto",
-      "opcion b": "40 - 60 latidos por minuto",
-      "opcion c": "60 - 100 latidos por minuto",
-      "opcion d": "120 - 160 latidos por minuto",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "100 - 140 latidos por minuto",
+        "opcion b": "40 - 60 latidos por minuto",
+        "opcion c": "60 - 100 latidos por minuto",
+        "opcion d": "120 - 160 latidos por minuto"
+      }
     },
     {
       "id": 90,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Evaluación de resultados",
-      "opcion b": "Diagnóstico médico",
-      "opcion c": "Aplicación del tratamiento",
-      "opcion d": "Valoración del paciente",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Evaluación de resultados",
+        "opcion b": "Diagnóstico médico",
+        "opcion c": "Aplicación del tratamiento",
+        "opcion d": "Valoración del paciente"
+      }
     },
     {
       "id": 91,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "60 - 100 latidos por minuto",
-      "opcion b": "120 - 160 latidos por minuto",
-      "opcion c": "40 - 60 latidos por minuto",
-      "opcion d": "100 - 140 latidos por minuto",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "60 - 100 latidos por minuto",
+        "opcion b": "120 - 160 latidos por minuto",
+        "opcion c": "40 - 60 latidos por minuto",
+        "opcion d": "100 - 140 latidos por minuto"
+      }
     },
     {
       "id": 92,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Valoración del paciente",
-      "opcion b": "Evaluación de resultados",
-      "opcion c": "Aplicación del tratamiento",
-      "opcion d": "Diagnóstico médico",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Valoración del paciente",
+        "opcion b": "Evaluación de resultados",
+        "opcion c": "Aplicación del tratamiento",
+        "opcion d": "Diagnóstico médico"
+      }
     },
     {
       "id": 93,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "35 - 36 °C",
-      "opcion b": "34 - 35.5 °C",
-      "opcion c": "36.5 - 37.5 °C",
-      "opcion d": "38 - 39 °C",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "35 - 36 °C",
+        "opcion b": "34 - 35.5 °C",
+        "opcion c": "36.5 - 37.5 °C",
+        "opcion d": "38 - 39 °C"
+      }
     },
     {
       "id": 94,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "60 - 100 latidos por minuto",
-      "opcion b": "100 - 140 latidos por minuto",
-      "opcion c": "120 - 160 latidos por minuto",
-      "opcion d": "40 - 60 latidos por minuto",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "60 - 100 latidos por minuto",
+        "opcion b": "100 - 140 latidos por minuto",
+        "opcion c": "120 - 160 latidos por minuto",
+        "opcion d": "40 - 60 latidos por minuto"
+      }
     },
     {
       "id": 95,
       "pregunta": "¿Qué significa SOAP en los registros de enfermería?",
-      "opcion a": "Sanitario, Operativo, Asistencial, Profesional",
-      "opcion b": "Subjetivo, Objetivo, Análisis, Plan",
-      "opcion c": "Sistema, Organización, Aplicación, Procedimiento",
-      "opcion d": "Servicio, Observación, Atención, Protocolo",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Sanitario, Operativo, Asistencial, Profesional",
+        "opcion b": "Subjetivo, Objetivo, Análisis, Plan",
+        "opcion c": "Sistema, Organización, Aplicación, Procedimiento",
+        "opcion d": "Servicio, Observación, Atención, Protocolo"
+      }
     },
     {
       "id": 96,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "40 - 60 latidos por minuto",
-      "opcion b": "120 - 160 latidos por minuto",
-      "opcion c": "100 - 140 latidos por minuto",
-      "opcion d": "60 - 100 latidos por minuto",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "40 - 60 latidos por minuto",
+        "opcion b": "120 - 160 latidos por minuto",
+        "opcion c": "100 - 140 latidos por minuto",
+        "opcion d": "60 - 100 latidos por minuto"
+      }
     },
     {
       "id": 97,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "100 - 140 latidos por minuto",
-      "opcion b": "40 - 60 latidos por minuto",
-      "opcion c": "120 - 160 latidos por minuto",
-      "opcion d": "60 - 100 latidos por minuto",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "100 - 140 latidos por minuto",
+        "opcion b": "40 - 60 latidos por minuto",
+        "opcion c": "120 - 160 latidos por minuto",
+        "opcion d": "60 - 100 latidos por minuto"
+      }
     },
     {
       "id": 98,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "36.5 - 37.5 °C",
-      "opcion b": "35 - 36 °C",
-      "opcion c": "34 - 35.5 °C",
-      "opcion d": "38 - 39 °C",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "36.5 - 37.5 °C",
+        "opcion b": "35 - 36 °C",
+        "opcion c": "34 - 35.5 °C",
+        "opcion d": "38 - 39 °C"
+      }
     },
     {
       "id": 99,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Evaluación de resultados",
-      "opcion b": "Diagnóstico médico",
-      "opcion c": "Aplicación del tratamiento",
-      "opcion d": "Valoración del paciente",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Evaluación de resultados",
+        "opcion b": "Diagnóstico médico",
+        "opcion c": "Aplicación del tratamiento",
+        "opcion d": "Valoración del paciente"
+      }
     },
     {
       "id": 100,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion b": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "opcion c": "Es la técnica de administración hospitalaria",
-      "opcion d": "Es el estudio exclusivo de enfermedades infecciosas",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion b": "Es únicamente la aplicación de tratamientos médicos prescritos",
+        "opcion c": "Es la técnica de administración hospitalaria",
+        "opcion d": "Es el estudio exclusivo de enfermedades infecciosas"
+      }
     }
   ]
 }

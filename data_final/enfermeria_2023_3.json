@@ -6,902 +6,1102 @@
     {
       "id": 1,
       "pregunta": "¿Cuáles son los síntomas de hipoglucemia?",
-      "opcion a": "Sudoración, temblor, palpitaciones, confusión",
-      "opcion b": "Dolor abdominal, náuseas, vómitos",
-      "opcion c": "Fiebre, escalofríos, malestar general",
-      "opcion d": "Sed excesiva, poliuria, visión borrosa",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Sudoración, temblor, palpitaciones, confusión",
+        "opcion b": "Dolor abdominal, náuseas, vómitos",
+        "opcion c": "Fiebre, escalofríos, malestar general",
+        "opcion d": "Sed excesiva, poliuria, visión borrosa"
+      }
     },
     {
       "id": 2,
       "pregunta": "¿Cuáles son los colores del triaje?",
-      "opcion a": "Verde, naranja, morado, negro",
-      "opcion b": "Rojo (crítico), amarillo (urgente), verde (no urgente), negro (fallecido)",
-      "opcion c": "Blanco, gris, negro, rojo",
-      "opcion d": "Azul, verde, amarillo, rojo",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Verde, naranja, morado, negro",
+        "opcion b": "Rojo (crítico), amarillo (urgente), verde (no urgente), negro (fallecido)",
+        "opcion c": "Blanco, gris, negro, rojo",
+        "opcion d": "Azul, verde, amarillo, rojo"
+      }
     },
     {
       "id": 3,
       "pregunta": "¿Qué incluye el ingreso en el balance hídrico?",
-      "opcion a": "Líquidos orales, intravenosos, alimentación enteral",
-      "opcion b": "Solo agua que bebe el paciente",
-      "opcion c": "Solamente la alimentación",
-      "opcion d": "Únicamente sueros intravenosos",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Líquidos orales, intravenosos, alimentación enteral",
+        "opcion b": "Solo agua que bebe el paciente",
+        "opcion c": "Solamente la alimentación",
+        "opcion d": "Únicamente sueros intravenosos"
+      }
     },
     {
       "id": 4,
       "pregunta": "¿Qué es la prevención terciaria?",
-      "opcion a": "Diagnóstico temprano",
-      "opcion b": "Educación en salud",
-      "opcion c": "Evitar la aparición de enfermedades",
-      "opcion d": "Prevención de complicaciones y rehabilitación",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Diagnóstico temprano",
+        "opcion b": "Educación en salud",
+        "opcion c": "Evitar la aparición de enfermedades",
+        "opcion d": "Prevención de complicaciones y rehabilitación"
+      }
     },
     {
       "id": 5,
       "pregunta": "¿Qué es el triaje o triage?",
-      "opcion a": "Alta de pacientes hospitalizados",
-      "opcion b": "Registro de pacientes en admisión",
-      "opcion c": "Clasificación de pacientes según gravedad y prioridad",
-      "opcion d": "Derivación de pacientes a especialistas",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Alta de pacientes hospitalizados",
+        "opcion b": "Registro de pacientes en admisión",
+        "opcion c": "Clasificación de pacientes según gravedad y prioridad",
+        "opcion d": "Derivación de pacientes a especialistas"
+      }
     },
     {
       "id": 6,
       "pregunta": "¿Qué es el aislamiento de contacto?",
-      "opcion a": "Precauciones para infecciones transmitidas por contacto directo o indirecto",
-      "opcion b": "Medidas para infecciones por gotas",
-      "opcion c": "Precauciones para tuberculosis",
-      "opcion d": "Aislamiento para enfermedades respiratorias",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Precauciones para infecciones transmitidas por contacto directo o indirecto",
+        "opcion b": "Medidas para infecciones por gotas",
+        "opcion c": "Precauciones para tuberculosis",
+        "opcion d": "Aislamiento para enfermedades respiratorias"
+      }
     },
     {
       "id": 7,
       "pregunta": "¿Qué es la neutropenia?",
-      "opcion a": "Aumento de eosinófilos",
-      "opcion b": "Disminución de neutrófilos en sangre",
-      "opcion c": "Disminución de plaquetas",
-      "opcion d": "Aumento de glóbulos blancos",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Aumento de eosinófilos",
+        "opcion b": "Disminución de neutrófilos en sangre",
+        "opcion c": "Disminución de plaquetas",
+        "opcion d": "Aumento de glóbulos blancos"
+      }
     },
     {
       "id": 8,
       "pregunta": "¿Qué es el cuidado paliativo?",
-      "opcion a": "Prevención de enfermedades graves",
-      "opcion b": "Rehabilitación post-quirúrgica",
-      "opcion c": "Tratamiento curativo de enfermedades crónicas",
-      "opcion d": "Atención para mejorar calidad de vida en enfermedades terminales",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Prevención de enfermedades graves",
+        "opcion b": "Rehabilitación post-quirúrgica",
+        "opcion c": "Tratamiento curativo de enfermedades crónicas",
+        "opcion d": "Atención para mejorar calidad de vida en enfermedades terminales"
+      }
     },
     {
       "id": 9,
       "pregunta": "¿Qué es la bioseguridad en enfermería?",
-      "opcion a": "Técnica de esterilización de material quirúrgico",
-      "opcion b": "Sistema de seguros médicos para enfermeros",
-      "opcion c": "Conjunto de medidas para proteger la salud del personal y pacientes",
-      "opcion d": "Protocolo de administración de medicamentos",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Técnica de esterilización de material quirúrgico",
+        "opcion b": "Sistema de seguros médicos para enfermeros",
+        "opcion c": "Conjunto de medidas para proteger la salud del personal y pacientes",
+        "opcion d": "Protocolo de administración de medicamentos"
+      }
     },
     {
       "id": 10,
       "pregunta": "¿Qué es la ética en enfermería?",
-      "opcion a": "Conjunto de principios morales que guían la práctica profesional",
-      "opcion b": "Leyes que regulan la profesión",
-      "opcion c": "Normas de bioseguridad",
-      "opcion d": "Reglamento interno del hospital",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Conjunto de principios morales que guían la práctica profesional",
+        "opcion b": "Leyes que regulan la profesión",
+        "opcion c": "Normas de bioseguridad",
+        "opcion d": "Reglamento interno del hospital"
+      }
     },
     {
       "id": 11,
       "pregunta": "¿Qué es el aislamiento hospitalario?",
-      "opcion a": "Restricción de visitas familiares",
-      "opcion b": "Separación de pacientes agresivos",
-      "opcion c": "Medidas para prevenir transmisión de infecciones",
-      "opcion d": "Hospitalización en sala privada",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Restricción de visitas familiares",
+        "opcion b": "Separación de pacientes agresivos",
+        "opcion c": "Medidas para prevenir transmisión de infecciones",
+        "opcion d": "Hospitalización en sala privada"
+      }
     },
     {
       "id": 12,
       "pregunta": "¿Qué ángulo se usa en inyección intradérmica?",
-      "opcion a": "90 grados",
-      "opcion b": "30 grados",
-      "opcion c": "45 grados",
-      "opcion d": "10-15 grados",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "90 grados",
+        "opcion b": "30 grados",
+        "opcion c": "45 grados",
+        "opcion d": "10-15 grados"
+      }
     },
     {
       "id": 13,
       "pregunta": "¿Qué es un cultivo bacteriológico?",
-      "opcion a": "Prueba para detectar alergias",
-      "opcion b": "Examen para identificar microorganismos causantes de infección",
-      "opcion c": "Análisis de células sanguíneas",
-      "opcion d": "Estudio de función renal",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Prueba para detectar alergias",
+        "opcion b": "Examen para identificar microorganismos causantes de infección",
+        "opcion c": "Análisis de células sanguíneas",
+        "opcion d": "Estudio de función renal"
+      }
     },
     {
       "id": 14,
       "pregunta": "¿Qué es la epidemiología?",
-      "opcion a": "Tratamiento de enfermedades infecciosas",
-      "opcion b": "Estudio de epidemias únicamente",
-      "opcion c": "Estudio de la distribución y determinantes de enfermedades en poblaciones",
-      "opcion d": "Prevención de enfermedades crónicas",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Tratamiento de enfermedades infecciosas",
+        "opcion b": "Estudio de epidemias únicamente",
+        "opcion c": "Estudio de la distribución y determinantes de enfermedades en poblaciones",
+        "opcion d": "Prevención de enfermedades crónicas"
+      }
     },
     {
       "id": 15,
       "pregunta": "¿Cuál es el calibre más común de sonda Foley en adultos?",
-      "opcion a": "14 - 16 Fr (French)",
-      "opcion b": "20 - 24 Fr",
-      "opcion c": "6 - 8 Fr",
-      "opcion d": "28 - 30 Fr",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "14 - 16 Fr (French)",
+        "opcion b": "20 - 24 Fr",
+        "opcion c": "6 - 8 Fr",
+        "opcion d": "28 - 30 Fr"
+      }
     },
     {
       "id": 16,
       "pregunta": "¿Qué es un evento adverso post-vacunación?",
-      "opcion a": "Cualquier situación no deseada que ocurre después de la vacunación",
-      "opcion b": "Fiebre mayor a 39°C únicamente",
-      "opcion c": "Dolor en el sitio de inyección solamente",
-      "opcion d": "Reacción alérgica exclusivamente",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Cualquier situación no deseada que ocurre después de la vacunación",
+        "opcion b": "Fiebre mayor a 39°C únicamente",
+        "opcion c": "Dolor en el sitio de inyección solamente",
+        "opcion d": "Reacción alérgica exclusivamente"
+      }
     },
     {
       "id": 17,
       "pregunta": "¿Qué es la sonda nasogástrica?",
-      "opcion a": "Sonda para nutrición parenteral",
-      "opcion b": "Catéter para drenar la vejiga",
-      "opcion c": "Tubo para administrar oxígeno",
-      "opcion d": "Tubo que se introduce por la nariz hasta el estómago",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Sonda para nutrición parenteral",
+        "opcion b": "Catéter para drenar la vejiga",
+        "opcion c": "Tubo para administrar oxígeno",
+        "opcion d": "Tubo que se introduce por la nariz hasta el estómago"
+      }
     },
     {
       "id": 18,
       "pregunta": "¿Qué son los signos vitales?",
-      "opcion a": "Frecuencia cardíaca, electrocardiograma, peso y tensión",
-      "opcion b": "Peso, talla, índice de masa corporal y glucemia",
-      "opcion c": "Saturación de oxígeno, glucemia, peso y diuresis",
-      "opcion d": "Temperatura, pulso, respiración y presión arterial",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Frecuencia cardíaca, electrocardiograma, peso y tensión",
+        "opcion b": "Peso, talla, índice de masa corporal y glucemia",
+        "opcion c": "Saturación de oxígeno, glucemia, peso y diuresis",
+        "opcion d": "Temperatura, pulso, respiración y presión arterial"
+      }
     },
     {
       "id": 19,
       "pregunta": "¿Qué es la flebitis?",
-      "opcion a": "Infección de una arteria",
-      "opcion b": "Obstrucción de un vaso linfático",
-      "opcion c": "Inflamación de una vena",
-      "opcion d": "Ruptura de un capilar",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Infección de una arteria",
+        "opcion b": "Obstrucción de un vaso linfático",
+        "opcion c": "Inflamación de una vena",
+        "opcion d": "Ruptura de un capilar"
+      }
     },
     {
       "id": 20,
       "pregunta": "¿Qué es la prevención secundaria?",
-      "opcion a": "Rehabilitación de secuelas",
-      "opcion b": "Detección precoz y tratamiento oportuno de enfermedades",
-      "opcion c": "Promoción de estilos de vida saludables",
-      "opcion d": "Evitar la aparición de enfermedades",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Rehabilitación de secuelas",
+        "opcion b": "Detección precoz y tratamiento oportuno de enfermedades",
+        "opcion c": "Promoción de estilos de vida saludables",
+        "opcion d": "Evitar la aparición de enfermedades"
+      }
     },
     {
       "id": 21,
       "pregunta": "¿Qué es la escala de Glasgow?",
-      "opcion a": "Escala de evaluación nutricional",
-      "opcion b": "Escala para medir el dolor",
-      "opcion c": "Escala de riesgo de caídas",
-      "opcion d": "Escala para evaluar el nivel de conciencia",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Escala de evaluación nutricional",
+        "opcion b": "Escala para medir el dolor",
+        "opcion c": "Escala de riesgo de caídas",
+        "opcion d": "Escala para evaluar el nivel de conciencia"
+      }
     },
     {
       "id": 22,
       "pregunta": "¿Qué es la aspiración de secreciones?",
-      "opcion a": "Drenaje postural del paciente",
-      "opcion b": "Procedimiento para eliminar secreciones de las vías respiratorias",
-      "opcion c": "Administración de mucolíticos nebulizados",
-      "opcion d": "Técnica de fisioterapia respiratoria",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Drenaje postural del paciente",
+        "opcion b": "Procedimiento para eliminar secreciones de las vías respiratorias",
+        "opcion c": "Administración de mucolíticos nebulizados",
+        "opcion d": "Técnica de fisioterapia respiratoria"
+      }
     },
     {
       "id": 23,
       "pregunta": "¿Cuál es la temperatura corporal normal en adultos?",
-      "opcion a": "36.5 - 37.5 °C",
-      "opcion b": "38 - 39 °C",
-      "opcion c": "35 - 36 °C",
-      "opcion d": "34 - 35.5 °C",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "36.5 - 37.5 °C",
+        "opcion b": "38 - 39 °C",
+        "opcion c": "35 - 36 °C",
+        "opcion d": "34 - 35.5 °C"
+      }
     },
     {
       "id": 24,
       "pregunta": "¿Qué es la poliuria?",
-      "opcion a": "Producción excesiva de orina mayor a 2500 ml en 24 horas",
-      "opcion b": "Ausencia de producción de orina",
-      "opcion c": "Micción nocturna frecuente",
-      "opcion d": "Producción escasa de orina",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Producción excesiva de orina mayor a 2500 ml en 24 horas",
+        "opcion b": "Ausencia de producción de orina",
+        "opcion c": "Micción nocturna frecuente",
+        "opcion d": "Producción escasa de orina"
+      }
     },
     {
       "id": 25,
       "pregunta": "¿Qué es el calendario de vacunación?",
-      "opcion a": "Esquema que indica qué vacunas aplicar según edad",
-      "opcion b": "Horario de atención del vacunatorio",
-      "opcion c": "Registro de pacientes vacunados",
-      "opcion d": "Lista de vacunas disponibles",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Esquema que indica qué vacunas aplicar según edad",
+        "opcion b": "Horario de atención del vacunatorio",
+        "opcion c": "Registro de pacientes vacunados",
+        "opcion d": "Lista de vacunas disponibles"
+      }
     },
     {
       "id": 26,
       "pregunta": "¿Cuál es el glucosa normal en ayunas?",
-      "opcion a": "70 - 100 mg/dl",
-      "opcion b": "140 - 180 mg/dl",
-      "opcion c": "110 - 140 mg/dl",
-      "opcion d": "50 - 70 mg/dl",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "70 - 100 mg/dl",
+        "opcion b": "140 - 180 mg/dl",
+        "opcion c": "110 - 140 mg/dl",
+        "opcion d": "50 - 70 mg/dl"
+      }
     },
     {
       "id": 27,
       "pregunta": "¿Cuáles son los signos de flebitis?",
-      "opcion a": "Dolor, enrojecimiento, calor, induración en el trayecto venoso",
-      "opcion b": "Prurito, descamación, sequedad",
-      "opcion c": "Cianosis, edema, dolor intenso",
-      "opcion d": "Palidez, frialdad, ausencia de pulso",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Dolor, enrojecimiento, calor, induración en el trayecto venoso",
+        "opcion b": "Prurito, descamación, sequedad",
+        "opcion c": "Cianosis, edema, dolor intenso",
+        "opcion d": "Palidez, frialdad, ausencia de pulso"
+      }
     },
     {
       "id": 28,
       "pregunta": "¿Qué es el consentimiento informado?",
-      "opcion a": "Registro de ingreso al hospital",
-      "opcion b": "Autorización voluntaria del paciente tras recibir información adecuada",
-      "opcion c": "Documento de alta hospitalaria",
-      "opcion d": "Permiso familiar para hospitalización",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Registro de ingreso al hospital",
+        "opcion b": "Autorización voluntaria del paciente tras recibir información adecuada",
+        "opcion c": "Documento de alta hospitalaria",
+        "opcion d": "Permiso familiar para hospitalización"
+      }
     },
     {
       "id": 29,
       "pregunta": "¿Qué es la analgesia?",
-      "opcion a": "Parálisis muscular",
-      "opcion b": "Pérdida de la conciencia",
-      "opcion c": "Ausencia o alivio del dolor",
-      "opcion d": "Pérdida de la sensibilidad",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Parálisis muscular",
+        "opcion b": "Pérdida de la conciencia",
+        "opcion c": "Ausencia o alivio del dolor",
+        "opcion d": "Pérdida de la sensibilidad"
+      }
     },
     {
       "id": 30,
       "pregunta": "¿Qué es la oliguria?",
-      "opcion a": "Producción excesiva de orina clara",
-      "opcion b": "Micción frecuente en pequeñas cantidades",
-      "opcion c": "Producción de orina menor a 400 ml en 24 horas",
-      "opcion d": "Ausencia total de orina",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Producción excesiva de orina clara",
+        "opcion b": "Micción frecuente en pequeñas cantidades",
+        "opcion c": "Producción de orina menor a 400 ml en 24 horas",
+        "opcion d": "Ausencia total de orina"
+      }
     },
     {
       "id": 31,
       "pregunta": "¿Cuál es la vía de administración más rápida para medicamentos?",
-      "opcion a": "Oral",
-      "opcion b": "Subcutánea",
-      "opcion c": "Intravenosa",
-      "opcion d": "Intramuscular",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Oral",
+        "opcion b": "Subcutánea",
+        "opcion c": "Intravenosa",
+        "opcion d": "Intramuscular"
+      }
     },
     {
       "id": 32,
       "pregunta": "¿Qué es una úlcera por presión?",
-      "opcion a": "Quemadura por exposición solar",
-      "opcion b": "Herida quirúrgica infectada",
-      "opcion c": "Lesión de la piel por presión prolongada sobre prominencias óseas",
-      "opcion d": "Lesión traumática con pérdida de tejido",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Quemadura por exposición solar",
+        "opcion b": "Herida quirúrgica infectada",
+        "opcion c": "Lesión de la piel por presión prolongada sobre prominencias óseas",
+        "opcion d": "Lesión traumática con pérdida de tejido"
+      }
     },
     {
       "id": 33,
       "pregunta": "¿Qué es la vía oral?",
-      "opcion a": "Administración de medicamentos por la boca",
-      "opcion b": "Inyección en el músculo",
-      "opcion c": "Aplicación de medicamentos en la piel",
-      "opcion d": "Administración por vía rectal",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Administración de medicamentos por la boca",
+        "opcion b": "Inyección en el músculo",
+        "opcion c": "Aplicación de medicamentos en la piel",
+        "opcion d": "Administración por vía rectal"
+      }
     },
     {
       "id": 34,
       "pregunta": "¿Qué es la enfermería según el Consejo Internacional de Enfermeras (CIE)?",
-      "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
-      "opcion b": "Es únicamente la aplicación de tratamientos médicos prescritos",
-      "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
-      "opcion d": "Es la técnica de administración hospitalaria",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Es la ciencia y arte del cuidado de la salud integral del individuo, familia y comunidad",
+        "opcion b": "Es únicamente la aplicación de tratamientos médicos prescritos",
+        "opcion c": "Es el estudio exclusivo de enfermedades infecciosas",
+        "opcion d": "Es la técnica de administración hospitalaria"
+      }
     },
     {
       "id": 35,
       "pregunta": "¿Qué es la saturación de oxígeno normal (SpO2)?",
-      "opcion a": "85% - 90%",
-      "opcion b": "95% - 100%",
-      "opcion c": "70% - 80%",
-      "opcion d": "80% - 85%",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "85% - 90%",
+        "opcion b": "95% - 100%",
+        "opcion c": "70% - 80%",
+        "opcion d": "80% - 85%"
+      }
     },
     {
       "id": 36,
       "pregunta": "¿Cuáles son los principios bioéticos fundamentales?",
-      "opcion a": "Honestidad, lealtad, respeto, responsabilidad",
-      "opcion b": "Autonomía, beneficencia, no maleficencia, justicia",
-      "opcion c": "Prevención, diagnóstico, tratamiento, rehabilitación",
-      "opcion d": "Eficiencia, eficacia, calidad, seguridad",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Honestidad, lealtad, respeto, responsabilidad",
+        "opcion b": "Autonomía, beneficencia, no maleficencia, justicia",
+        "opcion c": "Prevención, diagnóstico, tratamiento, rehabilitación",
+        "opcion d": "Eficiencia, eficacia, calidad, seguridad"
+      }
     },
     {
       "id": 37,
       "pregunta": "¿Qué es la salud según la OMS?",
-      "opcion a": "Ausencia de enfermedad únicamente",
-      "opcion b": "Capacidad de realizar actividades diarias",
-      "opcion c": "Equilibrio entre trabajo y descanso",
-      "opcion d": "Estado de completo bienestar físico, mental y social",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Ausencia de enfermedad únicamente",
+        "opcion b": "Capacidad de realizar actividades diarias",
+        "opcion c": "Equilibrio entre trabajo y descanso",
+        "opcion d": "Estado de completo bienestar físico, mental y social"
+      }
     },
     {
       "id": 38,
       "pregunta": "¿Qué es una enfermedad endémica?",
-      "opcion a": "Enfermedad que afecta a todo el mundo",
-      "opcion b": "Enfermedad que aparece en brotes",
-      "opcion c": "Enfermedad sin casos reportados",
-      "opcion d": "Enfermedad presente de forma habitual en una zona geográfica",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Enfermedad que afecta a todo el mundo",
+        "opcion b": "Enfermedad que aparece en brotes",
+        "opcion c": "Enfermedad sin casos reportados",
+        "opcion d": "Enfermedad presente de forma habitual en una zona geográfica"
+      }
     },
     {
       "id": 39,
       "pregunta": "¿Cuáles son los grados de úlceras por presión?",
-      "opcion a": "Tipo A, B y C",
-      "opcion b": "Grado I, II, III y IV",
-      "opcion c": "Estadio 1, 2 y 3",
-      "opcion d": "Leve, moderado y severo",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Tipo A, B y C",
+        "opcion b": "Grado I, II, III y IV",
+        "opcion c": "Estadio 1, 2 y 3",
+        "opcion d": "Leve, moderado y severo"
+      }
     },
     {
       "id": 40,
       "pregunta": "¿Cuál es la zona recomendada para inyección subcutánea de insulina?",
-      "opcion a": "Exclusivamente en la región lumbar",
-      "opcion b": "Solamente en la región deltoidea",
-      "opcion c": "Abdomen, muslos, brazos y glúteos",
-      "opcion d": "Únicamente en el dorso de la mano",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Exclusivamente en la región lumbar",
+        "opcion b": "Solamente en la región deltoidea",
+        "opcion c": "Abdomen, muslos, brazos y glúteos",
+        "opcion d": "Únicamente en el dorso de la mano"
+      }
     },
     {
       "id": 41,
       "pregunta": "¿Qué es el dolor agudo?",
-      "opcion a": "Dolor persistente mayor a 6 meses",
-      "opcion b": "Dolor sin causa identificable",
-      "opcion c": "Dolor de inicio reciente, generalmente menor a 3 meses",
-      "opcion d": "Dolor de intensidad muy severa",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Dolor persistente mayor a 6 meses",
+        "opcion b": "Dolor sin causa identificable",
+        "opcion c": "Dolor de inicio reciente, generalmente menor a 3 meses",
+        "opcion d": "Dolor de intensidad muy severa"
+      }
     },
     {
       "id": 42,
       "pregunta": "¿Qué es el secreto profesional?",
-      "opcion a": "Protocolos de medicación",
-      "opcion b": "Procedimientos de enfermería",
-      "opcion c": "Obligación de mantener confidencial la información del paciente",
-      "opcion d": "Información clasificada del hospital",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Protocolos de medicación",
+        "opcion b": "Procedimientos de enfermería",
+        "opcion c": "Obligación de mantener confidencial la información del paciente",
+        "opcion d": "Información clasificada del hospital"
+      }
     },
     {
       "id": 43,
       "pregunta": "¿Qué es la traqueostomía?",
-      "opcion a": "Intubación endotraqueal de emergencia",
-      "opcion b": "Abertura quirúrgica en la tráquea para facilitar la respiración",
-      "opcion c": "Cirugía de las cuerdas vocales",
-      "opcion d": "Procedimiento de broncoscopía",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Intubación endotraqueal de emergencia",
+        "opcion b": "Abertura quirúrgica en la tráquea para facilitar la respiración",
+        "opcion c": "Cirugía de las cuerdas vocales",
+        "opcion d": "Procedimiento de broncoscopía"
+      }
     },
     {
       "id": 44,
       "pregunta": "¿Qué es la taquicardia?",
-      "opcion a": "Irregularidad en el ritmo cardíaco",
-      "opcion b": "Dolor precordial intenso",
-      "opcion c": "Frecuencia cardíaca menor a 60 latidos por minuto",
-      "opcion d": "Frecuencia cardíaca mayor a 100 latidos por minuto",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Irregularidad en el ritmo cardíaco",
+        "opcion b": "Dolor precordial intenso",
+        "opcion c": "Frecuencia cardíaca menor a 60 latidos por minuto",
+        "opcion d": "Frecuencia cardíaca mayor a 100 latidos por minuto"
+      }
     },
     {
       "id": 45,
       "pregunta": "¿Qué es la anafilaxia?",
-      "opcion a": "Mareo posterior a extracción de sangre",
-      "opcion b": "Desmayo por dolor durante procedimiento",
-      "opcion c": "Reacción local leve en sitio de inyección",
-      "opcion d": "Reacción alérgica grave y potencialmente mortal",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Mareo posterior a extracción de sangre",
+        "opcion b": "Desmayo por dolor durante procedimiento",
+        "opcion c": "Reacción local leve en sitio de inyección",
+        "opcion d": "Reacción alérgica grave y potencialmente mortal"
+      }
     },
     {
       "id": 46,
       "pregunta": "¿Qué es la vía sublingual?",
-      "opcion a": "Administración del medicamento con agua",
-      "opcion b": "Aplicación del medicamento en las encías",
-      "opcion c": "Colocación del medicamento en la mejilla",
-      "opcion d": "Colocación del medicamento debajo de la lengua",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Administración del medicamento con agua",
+        "opcion b": "Aplicación del medicamento en las encías",
+        "opcion c": "Colocación del medicamento en la mejilla",
+        "opcion d": "Colocación del medicamento debajo de la lengua"
+      }
     },
     {
       "id": 47,
       "pregunta": "¿Qué es la disnea?",
-      "opcion a": "Tos persistente",
-      "opcion b": "Dolor en el pecho",
-      "opcion c": "Dificultad para respirar",
-      "opcion d": "Aumento de la frecuencia cardíaca",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Tos persistente",
+        "opcion b": "Dolor en el pecho",
+        "opcion c": "Dificultad para respirar",
+        "opcion d": "Aumento de la frecuencia cardíaca"
+      }
     },
     {
       "id": 48,
       "pregunta": "¿Cuál es el orden correcto del lavado de manos clínico?",
-      "opcion a": "Frotar, enjabonar, mojar, secar, enjuagar",
-      "opcion b": "Mojar, enjabonar, frotar, enjuagar, secar",
-      "opcion c": "Enjabonar, mojar, frotar, secar, enjuagar",
-      "opcion d": "Secar, mojar, enjabonar, enjuagar, frotar",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Frotar, enjabonar, mojar, secar, enjuagar",
+        "opcion b": "Mojar, enjabonar, frotar, enjuagar, secar",
+        "opcion c": "Enjabonar, mojar, frotar, secar, enjuagar",
+        "opcion d": "Secar, mojar, enjabonar, enjuagar, frotar"
+      }
     },
     {
       "id": 49,
       "pregunta": "¿Cuál es el calibre de aguja más grueso?",
-      "opcion a": "30 G",
-      "opcion b": "14 G (gauge)",
-      "opcion c": "25 G",
-      "opcion d": "21 G",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "30 G",
+        "opcion b": "14 G (gauge)",
+        "opcion c": "25 G",
+        "opcion d": "21 G"
+      }
     },
     {
       "id": 50,
       "pregunta": "¿Qué es la hipertensión arterial?",
-      "opcion a": "Presión arterial 120/80 mmHg",
-      "opcion b": "Presión arterial sistólica <100 mmHg",
-      "opcion c": "Frecuencia cardíaca mayor a 120 lpm",
-      "opcion d": "Presión arterial sistólica ≥140 mmHg y/o diastólica ≥90 mmHg",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Presión arterial 120/80 mmHg",
+        "opcion b": "Presión arterial sistólica <100 mmHg",
+        "opcion c": "Frecuencia cardíaca mayor a 120 lpm",
+        "opcion d": "Presión arterial sistólica ≥140 mmHg y/o diastólica ≥90 mmHg"
+      }
     },
     {
       "id": 51,
       "pregunta": "¿Cuál es el flujo de oxígeno con cánula nasal?",
-      "opcion a": "20 - 30 litros por minuto",
-      "opcion b": "0.5 - 1 litros por minuto",
-      "opcion c": "10 - 15 litros por minuto",
-      "opcion d": "1 - 6 litros por minuto",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "20 - 30 litros por minuto",
+        "opcion b": "0.5 - 1 litros por minuto",
+        "opcion c": "10 - 15 litros por minuto",
+        "opcion d": "1 - 6 litros por minuto"
+      }
     },
     {
       "id": 52,
       "pregunta": "¿Qué evalúa la escala de Glasgow?",
-      "opcion a": "Frecuencia cardíaca, respiratoria y presión arterial",
-      "opcion b": "Apertura ocular, respuesta verbal y respuesta motora",
-      "opcion c": "Reflejos, sensibilidad y movilidad",
-      "opcion d": "Orientación, memoria y lenguaje",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Frecuencia cardíaca, respiratoria y presión arterial",
+        "opcion b": "Apertura ocular, respuesta verbal y respuesta motora",
+        "opcion c": "Reflejos, sensibilidad y movilidad",
+        "opcion d": "Orientación, memoria y lenguaje"
+      }
     },
     {
       "id": 53,
       "pregunta": "¿Qué es la técnica aséptica?",
-      "opcion a": "Conjunto de procedimientos para evitar la contaminación con microorganismos",
-      "opcion b": "Método de esterilización química de instrumentos",
-      "opcion c": "Protocolo de aislamiento respiratorio",
-      "opcion d": "Técnica de sutura quirúrgica",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Conjunto de procedimientos para evitar la contaminación con microorganismos",
+        "opcion b": "Método de esterilización química de instrumentos",
+        "opcion c": "Protocolo de aislamiento respiratorio",
+        "opcion d": "Técnica de sutura quirúrgica"
+      }
     },
     {
       "id": 54,
       "pregunta": "¿Qué es el balance hídrico?",
-      "opcion a": "Evaluación del estado nutricional",
-      "opcion b": "Registro de ingresos y egresos de líquidos en 24 horas",
-      "opcion c": "Medición de la presión arterial",
-      "opcion d": "Control de peso diario del paciente",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Evaluación del estado nutricional",
+        "opcion b": "Registro de ingresos y egresos de líquidos en 24 horas",
+        "opcion c": "Medición de la presión arterial",
+        "opcion d": "Control de peso diario del paciente"
+      }
     },
     {
       "id": 55,
       "pregunta": "¿Para qué se usa la vía intradérmica?",
-      "opcion a": "Aplicación de insulina",
-      "opcion b": "Pruebas de alergia y tuberculina (PPD)",
-      "opcion c": "Administración de antibióticos",
-      "opcion d": "Transfusión de sangre",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Aplicación de insulina",
+        "opcion b": "Pruebas de alergia y tuberculina (PPD)",
+        "opcion c": "Administración de antibióticos",
+        "opcion d": "Transfusión de sangre"
+      }
     },
     {
       "id": 56,
       "pregunta": "¿Cuál es el puntaje máximo en la escala de Glasgow?",
-      "opcion a": "10 puntos",
-      "opcion b": "20 puntos",
-      "opcion c": "15 puntos",
-      "opcion d": "12 puntos",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "10 puntos",
+        "opcion b": "20 puntos",
+        "opcion c": "15 puntos",
+        "opcion d": "12 puntos"
+      }
     },
     {
       "id": 57,
       "pregunta": "¿Qué es la posición de decúbito lateral?",
-      "opcion a": "Paciente acostado de lado",
-      "opcion b": "Paciente boca abajo",
-      "opcion c": "Paciente sentado",
-      "opcion d": "Paciente boca arriba",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Paciente acostado de lado",
+        "opcion b": "Paciente boca abajo",
+        "opcion c": "Paciente sentado",
+        "opcion d": "Paciente boca arriba"
+      }
     },
     {
       "id": 58,
       "pregunta": "¿Qué es la hipoglucemia?",
-      "opcion a": "Nivel de glucosa mayor a 180 mg/dl",
-      "opcion b": "Nivel de glucosa en sangre menor a 70 mg/dl",
-      "opcion c": "Presencia de cetonas en sangre",
-      "opcion d": "Glucosa en ayunas de 100 mg/dl",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Nivel de glucosa mayor a 180 mg/dl",
+        "opcion b": "Nivel de glucosa en sangre menor a 70 mg/dl",
+        "opcion c": "Presencia de cetonas en sangre",
+        "opcion d": "Glucosa en ayunas de 100 mg/dl"
+      }
     },
     {
       "id": 59,
       "pregunta": "¿Qué es la cadena de frío?",
-      "opcion a": "Sistema para mantener vacunas a temperatura adecuada",
-      "opcion b": "Método de esterilización por congelación",
-      "opcion c": "Transporte de órganos para trasplante",
-      "opcion d": "Conservación de medicamentos termolábiles",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Sistema para mantener vacunas a temperatura adecuada",
+        "opcion b": "Método de esterilización por congelación",
+        "opcion c": "Transporte de órganos para trasplante",
+        "opcion d": "Conservación de medicamentos termolábiles"
+      }
     },
     {
       "id": 60,
       "pregunta": "¿Cuál es el tratamiento de primera línea en anafilaxia?",
-      "opcion a": "Adrenalina (epinefrina) intramuscular",
-      "opcion b": "Oxígeno por mascarilla",
-      "opcion c": "Corticoides intravenosos",
-      "opcion d": "Antihistamínicos orales",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Adrenalina (epinefrina) intramuscular",
+        "opcion b": "Oxígeno por mascarilla",
+        "opcion c": "Corticoides intravenosos",
+        "opcion d": "Antihistamínicos orales"
+      }
     },
     {
       "id": 61,
       "pregunta": "¿Cuál es el orden de extracción de tubos en venopunción?",
-      "opcion a": "Siempre comenzar por tubo con EDTA",
-      "opcion b": "No importa el orden de extracción",
-      "opcion c": "Hemocultivos, tubos sin aditivo, con coagulante, con EDTA",
-      "opcion d": "Primero tubos con anticoagulante",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Siempre comenzar por tubo con EDTA",
+        "opcion b": "No importa el orden de extracción",
+        "opcion c": "Hemocultivos, tubos sin aditivo, con coagulante, con EDTA",
+        "opcion d": "Primero tubos con anticoagulante"
+      }
     },
     {
       "id": 62,
       "pregunta": "¿Cuál es la frecuencia respiratoria normal en adultos?",
-      "opcion a": "20 - 30 respiraciones por minuto",
-      "opcion b": "25 - 35 respiraciones por minuto",
-      "opcion c": "12 - 20 respiraciones por minuto",
-      "opcion d": "8 - 12 respiraciones por minuto",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "20 - 30 respiraciones por minuto",
+        "opcion b": "25 - 35 respiraciones por minuto",
+        "opcion c": "12 - 20 respiraciones por minuto",
+        "opcion d": "8 - 12 respiraciones por minuto"
+      }
     },
     {
       "id": 63,
       "pregunta": "¿Cuál es el primer paso del Proceso de Atención de Enfermería (PAE)?",
-      "opcion a": "Aplicación del tratamiento",
-      "opcion b": "Diagnóstico médico",
-      "opcion c": "Evaluación de resultados",
-      "opcion d": "Valoración del paciente",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Aplicación del tratamiento",
+        "opcion b": "Diagnóstico médico",
+        "opcion c": "Evaluación de resultados",
+        "opcion d": "Valoración del paciente"
+      }
     },
     {
       "id": 64,
       "pregunta": "¿Qué es el dolor crónico?",
-      "opcion a": "Dolor persistente mayor a 3-6 meses",
-      "opcion b": "Dolor relacionado con actividad física",
-      "opcion c": "Dolor de inicio súbito y severo",
-      "opcion d": "Dolor que aparece solo por la noche",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Dolor persistente mayor a 3-6 meses",
+        "opcion b": "Dolor relacionado con actividad física",
+        "opcion c": "Dolor de inicio súbito y severo",
+        "opcion d": "Dolor que aparece solo por la noche"
+      }
     },
     {
       "id": 65,
       "pregunta": "¿Qué es el duelo?",
-      "opcion a": "Reacción de estrés postraumático",
-      "opcion b": "Proceso de adaptación emocional ante una pérdida",
-      "opcion c": "Trastorno de ansiedad generalizada",
-      "opcion d": "Depresión severa que requiere medicación",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Reacción de estrés postraumático",
+        "opcion b": "Proceso de adaptación emocional ante una pérdida",
+        "opcion c": "Trastorno de ansiedad generalizada",
+        "opcion d": "Depresión severa que requiere medicación"
+      }
     },
     {
       "id": 66,
       "pregunta": "¿Cuál es el sitio correcto para tomar el pulso carotídeo?",
-      "opcion a": "Lateral del cuello, entre la tráquea y el músculo esternocleidomastoideo",
-      "opcion b": "En la región temporal de la frente",
-      "opcion c": "En la región submandibular",
-      "opcion d": "En la parte posterior del cuello",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Lateral del cuello, entre la tráquea y el músculo esternocleidomastoideo",
+        "opcion b": "En la región temporal de la frente",
+        "opcion c": "En la región submandibular",
+        "opcion d": "En la parte posterior del cuello"
+      }
     },
     {
       "id": 67,
       "pregunta": "¿Cuál es el volumen normal de diuresis en 24 horas?",
-      "opcion a": "1000 - 1500 ml",
-      "opcion b": "2500 - 3000 ml",
-      "opcion c": "500 - 700 ml",
-      "opcion d": "300 - 500 ml",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "1000 - 1500 ml",
+        "opcion b": "2500 - 3000 ml",
+        "opcion c": "500 - 700 ml",
+        "opcion d": "300 - 500 ml"
+      }
     },
     {
       "id": 68,
       "pregunta": "¿Qué es la sonda vesical o Foley?",
-      "opcion a": "Tubo para alimentación gástrica",
-      "opcion b": "Catéter para administrar medicamentos",
-      "opcion c": "Sonda para aspiración de secreciones",
-      "opcion d": "Catéter que se introduce en la vejiga para drenar orina",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Tubo para alimentación gástrica",
+        "opcion b": "Catéter para administrar medicamentos",
+        "opcion c": "Sonda para aspiración de secreciones",
+        "opcion d": "Catéter que se introduce en la vejiga para drenar orina"
+      }
     },
     {
       "id": 69,
       "pregunta": "¿Qué es la anestesia?",
-      "opcion a": "Alivio del dolor sin pérdida de sensibilidad",
-      "opcion b": "Sedación superficial",
-      "opcion c": "Relajación muscular profunda",
-      "opcion d": "Pérdida de la sensibilidad con o sin pérdida de conciencia",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Alivio del dolor sin pérdida de sensibilidad",
+        "opcion b": "Sedación superficial",
+        "opcion c": "Relajación muscular profunda",
+        "opcion d": "Pérdida de la sensibilidad con o sin pérdida de conciencia"
+      }
     },
     {
       "id": 70,
       "pregunta": "¿Qué es la autonomía del paciente?",
-      "opcion a": "Capacidad del paciente para cuidarse solo",
-      "opcion b": "Independencia económica del paciente",
-      "opcion c": "Derecho del paciente a tomar decisiones sobre su salud",
-      "opcion d": "Autorización para salir del hospital",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Capacidad del paciente para cuidarse solo",
+        "opcion b": "Independencia económica del paciente",
+        "opcion c": "Derecho del paciente a tomar decisiones sobre su salud",
+        "opcion d": "Autorización para salir del hospital"
+      }
     },
     {
       "id": 71,
       "pregunta": "¿Qué es un hematoma?",
-      "opcion a": "Inflamación de un vaso sanguíneo",
-      "opcion b": "Aumento del número de glóbulos rojos",
-      "opcion c": "Acumulación de sangre fuera de los vasos sanguíneos",
-      "opcion d": "Deficiencia de factores de coagulación",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Inflamación de un vaso sanguíneo",
+        "opcion b": "Aumento del número de glóbulos rojos",
+        "opcion c": "Acumulación de sangre fuera de los vasos sanguíneos",
+        "opcion d": "Deficiencia de factores de coagulación"
+      }
     },
     {
       "id": 72,
       "pregunta": "¿Qué es la posición de Fowler?",
-      "opcion a": "Paciente de lado con piernas flexionadas",
-      "opcion b": "Paciente con piernas elevadas 30 grados",
-      "opcion c": "Paciente sentado con cabecera elevada 45-60 grados",
-      "opcion d": "Paciente acostado boca abajo",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Paciente de lado con piernas flexionadas",
+        "opcion b": "Paciente con piernas elevadas 30 grados",
+        "opcion c": "Paciente sentado con cabecera elevada 45-60 grados",
+        "opcion d": "Paciente acostado boca abajo"
+      }
     },
     {
       "id": 73,
       "pregunta": "¿Qué es un factor de riesgo?",
-      "opcion a": "Síntoma inicial de una enfermedad",
-      "opcion b": "Causa directa de una enfermedad",
-      "opcion c": "Complicación de un tratamiento",
-      "opcion d": "Característica que aumenta la probabilidad de desarrollar una enfermedad",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Síntoma inicial de una enfermedad",
+        "opcion b": "Causa directa de una enfermedad",
+        "opcion c": "Complicación de un tratamiento",
+        "opcion d": "Característica que aumenta la probabilidad de desarrollar una enfermedad"
+      }
     },
     {
       "id": 74,
       "pregunta": "¿Cuál es la presión arterial normal en adultos?",
-      "opcion a": "140/90 mmHg",
-      "opcion b": "120/80 mmHg (sistólica/diastólica)",
-      "opcion c": "160/100 mmHg",
-      "opcion d": "100/60 mmHg",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "140/90 mmHg",
+        "opcion b": "120/80 mmHg (sistólica/diastólica)",
+        "opcion c": "160/100 mmHg",
+        "opcion d": "100/60 mmHg"
+      }
     },
     {
       "id": 75,
       "pregunta": "¿Cuál es el dispositivo de oxigenoterapia más común?",
-      "opcion a": "Nebulizador ultrasónico",
-      "opcion b": "Cánula nasal",
-      "opcion c": "Ventilador mecánico",
-      "opcion d": "Cámara hiperbárica",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Nebulizador ultrasónico",
+        "opcion b": "Cánula nasal",
+        "opcion c": "Ventilador mecánico",
+        "opcion d": "Cámara hiperbárica"
+      }
     },
     {
       "id": 76,
       "pregunta": "¿Qué es la cetoacidosis diabética?",
-      "opcion a": "Nivel bajo de glucosa por exceso de insulina",
-      "opcion b": "Complicación aguda de la diabetes por deficiencia severa de insulina",
-      "opcion c": "Infección urinaria en paciente diabético",
-      "opcion d": "Daño renal crónico por diabetes",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Nivel bajo de glucosa por exceso de insulina",
+        "opcion b": "Complicación aguda de la diabetes por deficiencia severa de insulina",
+        "opcion c": "Infección urinaria en paciente diabético",
+        "opcion d": "Daño renal crónico por diabetes"
+      }
     },
     {
       "id": 77,
       "pregunta": "¿Qué es la bradicardia?",
-      "opcion a": "Respiración lenta y profunda",
-      "opcion b": "Frecuencia cardíaca menor a 60 latidos por minuto",
-      "opcion c": "Frecuencia cardíaca mayor a 100 latidos por minuto",
-      "opcion d": "Presión arterial baja",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Respiración lenta y profunda",
+        "opcion b": "Frecuencia cardíaca menor a 60 latidos por minuto",
+        "opcion c": "Frecuencia cardíaca mayor a 100 latidos por minuto",
+        "opcion d": "Presión arterial baja"
+      }
     },
     {
       "id": 78,
       "pregunta": "¿Qué es la maniobra de Heimlich?",
-      "opcion a": "Maniobra para controlar hemorragias",
-      "opcion b": "Método de inmovilización cervical",
-      "opcion c": "Técnica de ventilación artificial",
-      "opcion d": "Técnica para desobstruir vía aérea por cuerpo extraño",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Maniobra para controlar hemorragias",
+        "opcion b": "Método de inmovilización cervical",
+        "opcion c": "Técnica de ventilación artificial",
+        "opcion d": "Técnica para desobstruir vía aérea por cuerpo extraño"
+      }
     },
     {
       "id": 79,
       "pregunta": "¿Qué es una pandemia?",
-      "opcion a": "Enfermedad rara sin tratamiento",
-      "opcion b": "Brote localizado de una enfermedad",
-      "opcion c": "Enfermedad endémica de una región",
-      "opcion d": "Epidemia que afecta a varios países o continentes",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Enfermedad rara sin tratamiento",
+        "opcion b": "Brote localizado de una enfermedad",
+        "opcion c": "Enfermedad endémica de una región",
+        "opcion d": "Epidemia que afecta a varios países o continentes"
+      }
     },
     {
       "id": 80,
       "pregunta": "¿Qué es la anuria?",
-      "opcion a": "Ausencia o producción menor a 100 ml de orina en 24 horas",
-      "opcion b": "Producción excesiva de orina",
-      "opcion c": "Dolor al orinar",
-      "opcion d": "Presencia de sangre en la orina",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Ausencia o producción menor a 100 ml de orina en 24 horas",
+        "opcion b": "Producción excesiva de orina",
+        "opcion c": "Dolor al orinar",
+        "opcion d": "Presencia de sangre en la orina"
+      }
     },
     {
       "id": 81,
       "pregunta": "¿A qué temperatura se conservan la mayoría de las vacunas?",
-      "opcion a": "0 a +2 °C",
-      "opcion b": "-20 °C",
-      "opcion c": "+15 a +20 °C",
-      "opcion d": "+2 a +8 °C",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "0 a +2 °C",
+        "opcion b": "-20 °C",
+        "opcion c": "+15 a +20 °C",
+        "opcion d": "+2 a +8 °C"
+      }
     },
     {
       "id": 82,
       "pregunta": "¿Qué es una transfusión sanguínea?",
-      "opcion a": "Extracción de sangre para análisis",
-      "opcion b": "Administración de sangre o hemoderivados por vía intravenosa",
-      "opcion c": "Infusión de soluciones cristaloides",
-      "opcion d": "Donación de médula ósea",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Extracción de sangre para análisis",
+        "opcion b": "Administración de sangre o hemoderivados por vía intravenosa",
+        "opcion c": "Infusión de soluciones cristaloides",
+        "opcion d": "Donación de médula ósea"
+      }
     },
     {
       "id": 83,
       "pregunta": "¿Qué es la inmunización?",
-      "opcion a": "Desinfección de superficies",
-      "opcion b": "Aislamiento de pacientes infecciosos",
-      "opcion c": "Tratamiento con antibióticos",
-      "opcion d": "Proceso de generar protección contra enfermedades mediante vacunas",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Desinfección de superficies",
+        "opcion b": "Aislamiento de pacientes infecciosos",
+        "opcion c": "Tratamiento con antibióticos",
+        "opcion d": "Proceso de generar protección contra enfermedades mediante vacunas"
+      }
     },
     {
       "id": 84,
       "pregunta": "¿Qué es la promoción de la salud?",
-      "opcion a": "Diagnóstico precoz de enfermedades",
-      "opcion b": "Proceso que permite a las personas mejorar su salud",
-      "opcion c": "Rehabilitación de pacientes crónicos",
-      "opcion d": "Tratamiento de enfermedades existentes",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Diagnóstico precoz de enfermedades",
+        "opcion b": "Proceso que permite a las personas mejorar su salud",
+        "opcion c": "Rehabilitación de pacientes crónicos",
+        "opcion d": "Tratamiento de enfermedades existentes"
+      }
     },
     {
       "id": 85,
       "pregunta": "¿Qué es una vacuna?",
-      "opcion a": "Antibiótico de amplio espectro",
-      "opcion b": "Suero con anticuerpos preformados",
-      "opcion c": "Medicamento para tratar infecciones",
-      "opcion d": "Preparación biológica que proporciona inmunidad contra una enfermedad",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Antibiótico de amplio espectro",
+        "opcion b": "Suero con anticuerpos preformados",
+        "opcion c": "Medicamento para tratar infecciones",
+        "opcion d": "Preparación biológica que proporciona inmunidad contra una enfermedad"
+      }
     },
     {
       "id": 86,
       "pregunta": "¿Qué es la hiperglucemia?",
-      "opcion a": "Nivel normal de glucosa postprandial",
-      "opcion b": "Glucosa en orina positiva",
-      "opcion c": "Nivel de glucosa en sangre mayor a 126 mg/dl en ayunas",
-      "opcion d": "Nivel de glucosa menor a 70 mg/dl",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Nivel normal de glucosa postprandial",
+        "opcion b": "Glucosa en orina positiva",
+        "opcion c": "Nivel de glucosa en sangre mayor a 126 mg/dl en ayunas",
+        "opcion d": "Nivel de glucosa menor a 70 mg/dl"
+      }
     },
     {
       "id": 87,
       "pregunta": "¿Qué es el antibiograma?",
-      "opcion a": "Registro de antibióticos administrados",
-      "opcion b": "Evaluación de efectos adversos de antibióticos",
-      "opcion c": "Análisis de concentración de antibióticos en sangre",
-      "opcion d": "Prueba para determinar sensibilidad de bacterias a antibióticos",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Registro de antibióticos administrados",
+        "opcion b": "Evaluación de efectos adversos de antibióticos",
+        "opcion c": "Análisis de concentración de antibióticos en sangre",
+        "opcion d": "Prueba para determinar sensibilidad de bacterias a antibióticos"
+      }
     },
     {
       "id": 88,
       "pregunta": "¿Qué es la hemostasia?",
-      "opcion a": "Equilibrio de líquidos corporales",
-      "opcion b": "Mantenimiento del pH sanguíneo",
-      "opcion c": "Regulación de la temperatura corporal",
-      "opcion d": "Proceso de detención de una hemorragia",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Equilibrio de líquidos corporales",
+        "opcion b": "Mantenimiento del pH sanguíneo",
+        "opcion c": "Regulación de la temperatura corporal",
+        "opcion d": "Proceso de detención de una hemorragia"
+      }
     },
     {
       "id": 89,
       "pregunta": "¿Cuál es la frecuencia cardíaca normal en adultos en reposo?",
-      "opcion a": "40 - 60 latidos por minuto",
-      "opcion b": "120 - 160 latidos por minuto",
-      "opcion c": "100 - 140 latidos por minuto",
-      "opcion d": "60 - 100 latidos por minuto",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "40 - 60 latidos por minuto",
+        "opcion b": "120 - 160 latidos por minuto",
+        "opcion c": "100 - 140 latidos por minuto",
+        "opcion d": "60 - 100 latidos por minuto"
+      }
     },
     {
       "id": 90,
       "pregunta": "¿Qué es la tromboflebitis?",
-      "opcion a": "Ruptura de la pared venosa",
-      "opcion b": "Inflamación de una vena con formación de trombo",
-      "opcion c": "Infección bacteriana de la vena",
-      "opcion d": "Vasodilatación venosa excesiva",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Ruptura de la pared venosa",
+        "opcion b": "Inflamación de una vena con formación de trombo",
+        "opcion c": "Infección bacteriana de la vena",
+        "opcion d": "Vasodilatación venosa excesiva"
+      }
     },
     {
       "id": 91,
       "pregunta": "¿Cuáles son las etapas del duelo según Kübler-Ross?",
-      "opcion a": "Negación, ira, negociación, depresión, aceptación",
-      "opcion b": "Miedo, angustia, resignación, olvido",
-      "opcion c": "Sorpresa, dolor, nostalgia, superación",
-      "opcion d": "Shock, llanto, tristeza, recuperación",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Negación, ira, negociación, depresión, aceptación",
+        "opcion b": "Miedo, angustia, resignación, olvido",
+        "opcion c": "Sorpresa, dolor, nostalgia, superación",
+        "opcion d": "Shock, llanto, tristeza, recuperación"
+      }
     },
     {
       "id": 92,
       "pregunta": "¿Cuál es la frecuencia de compresiones en RCP?",
-      "opcion a": "140-160 por minuto",
-      "opcion b": "60-80 por minuto",
-      "opcion c": "100-120 por minuto",
-      "opcion d": "80-100 por minuto",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "140-160 por minuto",
+        "opcion b": "60-80 por minuto",
+        "opcion c": "100-120 por minuto",
+        "opcion d": "80-100 por minuto"
+      }
     },
     {
       "id": 93,
       "pregunta": "¿Cuál es la relación compresiones-ventilaciones en RCP adulto?",
-      "opcion a": "30 compresiones : 2 ventilaciones",
-      "opcion b": "5 compresiones : 1 ventilación",
-      "opcion c": "20 compresiones : 1 ventilación",
-      "opcion d": "15 compresiones : 2 ventilaciones",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "30 compresiones : 2 ventilaciones",
+        "opcion b": "5 compresiones : 1 ventilación",
+        "opcion c": "20 compresiones : 1 ventilación",
+        "opcion d": "15 compresiones : 2 ventilaciones"
+      }
     },
     {
       "id": 94,
       "pregunta": "¿Cuáles son las vías parenterales?",
-      "opcion a": "Oral, sublingual, rectal",
-      "opcion b": "Nasal, inhalatoria, transdérmica",
-      "opcion c": "Tópica, oftálmica, ótica",
-      "opcion d": "Intravenosa, intramuscular, subcutánea, intradérmica",
-      "respuesta_correcta": "opcion d"
+      "respuesta_correcta": "opcion d",
+      "opciones": {
+        "opcion a": "Oral, sublingual, rectal",
+        "opcion b": "Nasal, inhalatoria, transdérmica",
+        "opcion c": "Tópica, oftálmica, ótica",
+        "opcion d": "Intravenosa, intramuscular, subcutánea, intradérmica"
+      }
     },
     {
       "id": 95,
       "pregunta": "¿Cuál es la profundidad de compresiones en RCP adulto?",
-      "opcion a": "5-6 cm",
-      "opcion b": "1-2 cm",
-      "opcion c": "2-3 cm",
-      "opcion d": "8-10 cm",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "5-6 cm",
+        "opcion b": "1-2 cm",
+        "opcion c": "2-3 cm",
+        "opcion d": "8-10 cm"
+      }
     },
     {
       "id": 96,
       "pregunta": "¿Qué es la vía intradérmica?",
-      "opcion a": "Inyección en la dermis, entre epidermis y tejido subcutáneo",
-      "opcion b": "Inyección en el tejido graso subcutáneo",
-      "opcion c": "Inyección profunda en el músculo",
-      "opcion d": "Inyección directa en vena",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Inyección en la dermis, entre epidermis y tejido subcutáneo",
+        "opcion b": "Inyección en el tejido graso subcutáneo",
+        "opcion c": "Inyección profunda en el músculo",
+        "opcion d": "Inyección directa en vena"
+      }
     },
     {
       "id": 97,
       "pregunta": "¿Qué incluye el egreso en el balance hídrico?",
-      "opcion a": "Orina, heces, vómitos, drenajes, sudoración",
-      "opcion b": "Únicamente vómitos y diarrea",
-      "opcion c": "Solo la orina",
-      "opcion d": "Solamente pérdidas insensibles",
-      "respuesta_correcta": "opcion a"
+      "respuesta_correcta": "opcion a",
+      "opciones": {
+        "opcion a": "Orina, heces, vómitos, drenajes, sudoración",
+        "opcion b": "Únicamente vómitos y diarrea",
+        "opcion c": "Solo la orina",
+        "opcion d": "Solamente pérdidas insensibles"
+      }
     },
     {
       "id": 98,
       "pregunta": "¿Qué es la cianosis?",
-      "opcion a": "Coloración amarillenta por exceso de bilirrubina",
-      "opcion b": "Coloración azulada de piel y mucosas por falta de oxígeno",
-      "opcion c": "Enrojecimiento de la piel por inflamación",
-      "opcion d": "Palidez extrema por pérdida de sangre",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "Coloración amarillenta por exceso de bilirrubina",
+        "opcion b": "Coloración azulada de piel y mucosas por falta de oxígeno",
+        "opcion c": "Enrojecimiento de la piel por inflamación",
+        "opcion d": "Palidez extrema por pérdida de sangre"
+      }
     },
     {
       "id": 99,
       "pregunta": "¿Qué es la prevención primaria?",
-      "opcion a": "Diagnóstico precoz de enfermedades",
-      "opcion b": "Prevención de complicaciones",
-      "opcion c": "Medidas para evitar la aparición de enfermedades",
-      "opcion d": "Tratamiento de enfermedades establecidas",
-      "respuesta_correcta": "opcion c"
+      "respuesta_correcta": "opcion c",
+      "opciones": {
+        "opcion a": "Diagnóstico precoz de enfermedades",
+        "opcion b": "Prevención de complicaciones",
+        "opcion c": "Medidas para evitar la aparición de enfermedades",
+        "opcion d": "Tratamiento de enfermedades establecidas"
+      }
     },
     {
       "id": 100,
       "pregunta": "¿Qué ángulo se usa en inyección subcutánea?",
-      "opcion a": "15 grados",
-      "opcion b": "45 grados",
-      "opcion c": "90 grados",
-      "opcion d": "60 grados",
-      "respuesta_correcta": "opcion b"
+      "respuesta_correcta": "opcion b",
+      "opciones": {
+        "opcion a": "15 grados",
+        "opcion b": "45 grados",
+        "opcion c": "90 grados",
+        "opcion d": "60 grados"
+      }
     }
   ]
 }
