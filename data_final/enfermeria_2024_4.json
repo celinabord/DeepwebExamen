@@ -151,7 +151,7 @@
       "opcion b": "Horario administrativo.",
       "opcion d": "Solo días hábiles."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 12,
@@ -165,7 +165,7 @@
       "opcion c": "Evaluar, sintetizar y proyectar resultados.",
       "opcion d": "Observar, interpretar y consensuar."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 13,
@@ -179,7 +179,7 @@
       "opcion c": "De laboratorio puro.",
       "opcion d": "Paramétricos obligatorios."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 14,
@@ -193,7 +193,7 @@
       "opcion b": "Estridor inspiratorio puro.",
       "opcion d": "Murmullo vesicular aumentado."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 15,
@@ -207,7 +207,7 @@
       "opcion c": "Oxigenación, difusión, circulación y expulsión.",
       "opcion d": "Neutralización, acople, degradación y reciclado."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 16,
@@ -221,7 +221,7 @@
       "opcion c": "A los 4 años.",
       "opcion d": "Al ingreso escolar."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 17,
@@ -235,7 +235,7 @@
       "opcion c": "Centro quirúrgico programado.",
       "opcion d": "Servicios privados obligatorios."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 18,
@@ -249,7 +249,7 @@
       "opcion b": "Actores.",
       "opcion d": "Recursos humanos."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 19,
@@ -263,7 +263,7 @@
       "opcion b": "Presionar el abdomen en sentido lateral.",
       "opcion c": "Realizar compresiones torácicas rápidas."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 20,
@@ -277,7 +277,7 @@
       "opcion b": "Alineación sensorial.",
       "opcion c": "Preparación neonatal."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 21,
@@ -291,7 +291,7 @@
       "opcion b": "Indicar prueba de esfuerzo.",
       "opcion c": "Administrar profilaxis antibiótica inmediata."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 22,
@@ -305,7 +305,7 @@
       "opcion c": "Ecografía hepática.",
       "opcion d": "Prueba de tuberculina de urgencia."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 23,
@@ -319,7 +319,7 @@
       "opcion c": "Estado civil y ocupación.",
       "opcion d": "Nivel educativo y actividad recreativa."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 24,
@@ -333,7 +333,7 @@
       "opcion b": "Filtración por gradiente osmótico.",
       "opcion d": "Impregnación celular."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 25,
@@ -347,7 +347,7 @@
       "opcion b": "Solicitar cierre de glotis por 10 segundos.",
       "opcion c": "Indicar respiración abdominal exclusivamente."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 26,
@@ -375,7 +375,7 @@
       "opcion c": "Solicitar radiografía de columna cervical.",
       "opcion d": "Administrar antiinflamatorios orales."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 28,
@@ -403,7 +403,7 @@
       "opcion c": "Vitamina K y Omega 3.",
       "opcion d": "Calcio y vitamina D únicamente."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 30,
@@ -417,7 +417,7 @@
       "opcion b": "Derecho ambiental.",
       "opcion c": "Derecho a la propiedad."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 31,
@@ -431,7 +431,7 @@
       "opcion c": "Iniciar antibióticos inmediatamente.",
       "opcion d": "Internación obligatoria."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 32,
@@ -459,7 +459,7 @@
       "opcion b": "Protocolos quirúrgicos avanzados.",
       "opcion c": "Exclusivamente historia clínica digital."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 34,
@@ -473,7 +473,7 @@
       "opcion c": "Solo dieta sin medicación.",
       "opcion d": "Insulina rápida cada 4 horas."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 35,
@@ -487,7 +487,7 @@
       "opcion c": "Suspender antibiótico y observar.",
       "opcion d": "Indicar corticoides por 3 días."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 36,
@@ -501,7 +501,7 @@
       "opcion b": "Prolapso mitral.",
       "opcion d": "Insuficiencia tricuspídea."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 37,
@@ -515,7 +515,7 @@
       "opcion c": "Cesárea sin profilaxis.",
       "opcion d": "Parto vaginal + antibióticos."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 38,
@@ -529,7 +529,7 @@
       "opcion c": "Propranolol y espironolactona.",
       "opcion d": "Hidroclorotiazida sola."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 39,
@@ -543,7 +543,7 @@
       "opcion c": "Amoxicilina 500 mg cada 8 h.",
       "opcion d": "Ibuprofeno + hidratación."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 40,
@@ -557,7 +557,7 @@
       "opcion b": "Realizar cistouretrografía inmediata.",
       "opcion d": "Solicitar hemocultivo urgente."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 41,
@@ -571,7 +571,7 @@
       "opcion b": "Miocarditis viral.",
       "opcion d": "Comunicación interventricular."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 42,
@@ -599,7 +599,7 @@
       "opcion c": "Dermatitis alérgica.",
       "opcion d": "Trombocitopenia inducida por fármacos."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 44,
@@ -613,7 +613,7 @@
       "opcion c": "Enalapril y carvedilol.",
       "opcion d": "Propranolol y amlodipina."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 45,
@@ -641,7 +641,7 @@
       "opcion b": "Indicar ecografía vesical con contraste.",
       "opcion d": "Internar para hidratación EV."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 47,
@@ -669,7 +669,7 @@
       "opcion c": "Cesárea sin tratamiento antiviral.",
       "opcion d": "Parto vaginal con antibióticos."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 49,
@@ -683,7 +683,7 @@
       "opcion b": "Hemocultivo solamente.",
       "opcion d": "TAC contrastada como primer estudio."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 50,
@@ -725,7 +725,7 @@
       "opcion b": "Fase de recuperación.",
       "opcion c": "Fase inicial prodrómica."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 53,
@@ -739,7 +739,7 @@
       "opcion c": "Indicar antibiótico por 3 días.",
       "opcion d": "Iniciar hidratación EV urgente."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 54,
@@ -753,7 +753,7 @@
       "opcion b": "Ruptura cervical primaria.",
       "opcion d": "Hipertensión gestacional severa."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 55,
@@ -781,7 +781,7 @@
       "opcion c": "Rotar a claritromicina VO.",
       "opcion d": "Indicar broncodilatadores solos."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 57,
@@ -809,7 +809,7 @@
       "opcion b": "Roce pleural.",
       "opcion d": "Murmullo aumentado."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 59,
@@ -823,7 +823,7 @@
       "opcion c": "Dilución, filtración y captación.",
       "opcion d": "Eliminación exclusiva por riñón."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 60,
@@ -851,7 +851,7 @@
       "opcion c": "Solo al servicio de emergencias.",
       "opcion d": "Consultorio privado exclusivo."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 62,
@@ -865,7 +865,7 @@
       "opcion b": "Puestos de trabajo.",
       "opcion d": "Recursos financieros."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 63,
@@ -907,7 +907,7 @@
       "opcion b": "TAC de cráneo.",
       "opcion c": "Electrocardiograma de reposo."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 66,
@@ -935,7 +935,7 @@
       "opcion c": "Frecuencia de actividad recreativa.",
       "opcion d": "Tipo de alimentación materna en infancia."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 68,
@@ -949,7 +949,7 @@
       "opcion b": "Presurización activa.",
       "opcion d": "Filtración hormonal."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 69,
@@ -963,7 +963,7 @@
       "opcion b": "Solicitar inspiración nasal rápida.",
       "opcion c": "Pedir respiración diafragmática exclusiva."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 70,
@@ -977,7 +977,7 @@
       "opcion c": "TAC cervical.",
       "opcion d": "Ecografía mamaria."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 71,
@@ -991,7 +991,7 @@
       "opcion c": "Radiografía cervical.",
       "opcion d": "Electroencefalograma urgente."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 72,
@@ -1005,7 +1005,7 @@
       "opcion b": "Catarro sin fiebre.",
       "opcion c": "Dolor abdominal."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 73,
@@ -1047,7 +1047,7 @@
       "opcion c": "Iniciar antibiótico.",
       "opcion d": "Hidratar exclusivamente EV."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 76,
@@ -1061,7 +1061,7 @@
       "opcion b": "Capacidad vital forzada.",
       "opcion c": "Reserva inspiratoria."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 77,
@@ -1075,7 +1075,7 @@
       "opcion b": "Exclusivamente cuidados quirúrgicos.",
       "opcion c": "Prácticas materno-infantiles únicamente."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 78,
@@ -1089,7 +1089,7 @@
       "opcion c": "Dieta exclusiva sin medicación.",
       "opcion d": "Antiinflamatorios por 7 días."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 79,
@@ -1103,7 +1103,7 @@
       "opcion c": "Dar alta con control en una semana.",
       "opcion d": "Añadir solo broncodilatadores."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 80,
@@ -1117,7 +1117,7 @@
       "opcion b": "Fase de recuperación.",
       "opcion c": "Fase prodrómica."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 81,
@@ -1145,7 +1145,7 @@
       "opcion b": "Endometritis temprana.",
       "opcion d": "Desprendimiento precoz de placenta."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 83,
@@ -1159,7 +1159,7 @@
       "opcion c": "Etapa de recaída.",
       "opcion d": "Etapa de mantenimiento."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 84,
@@ -1173,7 +1173,7 @@
       "opcion b": "Roce pleural.",
       "opcion d": "Murmullo vesicular abolido."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 85,
@@ -1201,7 +1201,7 @@
       "opcion c": "4 años.",
       "opcion d": "11 años."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 87,
@@ -1215,7 +1215,7 @@
       "opcion c": "Guardia de emergencias.",
       "opcion d": "Servicios especializados privados."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 88,
@@ -1229,7 +1229,7 @@
       "opcion b": "Infraestructura.",
       "opcion d": "Recursos materiales."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 89,
@@ -1243,7 +1243,7 @@
       "opcion b": "Golpes en espalda exclusivamente.",
       "opcion c": "Elevar brazos del paciente."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 90,
@@ -1285,7 +1285,7 @@
       "opcion c": "Ibuprofeno.",
       "opcion d": "Eritromicina."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 93,
@@ -1299,7 +1299,7 @@
       "opcion c": "Propranolol solo.",
       "opcion d": "Diuréticos tiazídicos exclusivos."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 94,
@@ -1313,7 +1313,7 @@
       "opcion c": "Inducción con oxitocina.",
       "opcion d": "Cesárea sin profilaxis."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 95,
@@ -1341,7 +1341,7 @@
       "opcion b": "Indicar analgésicos únicamente.",
       "opcion c": "Citar en 48 horas."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 97,
@@ -1355,7 +1355,7 @@
       "opcion b": "Hemocultivos exclusivamente.",
       "opcion d": "No iniciar antibiótico hasta 72 h."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 98,
@@ -1369,7 +1369,7 @@
       "opcion c": "Corticoides solos.",
       "opcion d": "Control en una semana."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 99,
@@ -1383,7 +1383,7 @@
       "opcion b": "Fase de recuperación.",
       "opcion c": "Fase prodrómica."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 100,
@@ -1397,6 +1397,6 @@
       "opcion b": "Miocardiopatía hipertrófica.",
       "opcion c": "Insuficiencia mitral."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion a"
   }
 ]

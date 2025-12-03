@@ -18,7 +18,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuáles son los lugares recomendados para la inserción de CVPc?",
     "opciones": {
       "opcion b": "Zona proximal a distal.",
       "opcion a": "En cualquier vena palpable sin criterios.",
@@ -32,7 +32,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es la clasificación de los peligros ambientales?",
     "opciones": {
       "opcion d": "Biológicos, químicos y físicos.",
       "opcion a": "Físicos, emocionales y sociales.",
@@ -46,7 +46,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es el signo de alarma en un niño con diarrea y deshidratación?",
     "opciones": {
       "opcion c": "Signos de shock.",
       "opcion a": "Aumento del apetito.",
@@ -60,7 +60,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuáles son los lugares recomendados para la inserción de CVPc?",
     "opciones": {
       "opcion d": "Zona distal a la proximal.",
       "opcion a": "Zona media del muslo.",
@@ -74,7 +74,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es la primera medida inicial para manejar hemorragia postparto?",
     "opciones": {
       "opcion b": "Evaluar el estado clínico general.",
       "opcion a": "Administrar uterotónicos de inmediato sin valoración.",
@@ -88,7 +88,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuáles son las vías naturales de administración de una droga?",
     "opciones": {
       "opcion d": "Vías enterales, inhalatoria y tópica.",
       "opcion a": "Parenteral, intramedular y dérmica profunda.",
@@ -102,7 +102,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿Qué es inherente a la profesión según el",
+    "pregunta": "¿Qué es inherente a la profesión según el Código de Ética del CIE?",
     "opciones": {
       "opcion a": "Los derechos humanos.",
       "opcion b": "El desarrollo económico del país.",
@@ -116,7 +116,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es el objetivo del profesional de Enfermería para la atención comunitaria?",
     "opciones": {
       "opcion b": "Ayudar al individuo, su familia y comunidad a conservar la salud y afrontar la enfermedad.",
       "opcion a": "Realizar seguimiento exclusivo de enfermedades crónicas.",
@@ -144,14 +144,14 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuáles son los controles prenatales según la recomendación actual?",
     "opciones": {
       "opcion d": "Al menos 8 visitas para el seguimiento prenatal.",
       "opcion a": "Solo 2 visitas trimestrales.",
       "opcion b": "Un control mensual hasta el parto.",
       "opcion c": "10 controles obligatorios sin excepción."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 12,
@@ -179,7 +179,7 @@
       "opcion c": "Técnicas de comunicación institucional.",
       "opcion d": "Evaluación de riesgos laborales."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 14,
@@ -200,21 +200,21 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Guía IAS",
+    "pregunta": "Guía IASC: primer punto en emergencias humanitarias.",
     "opciones": {
       "opcion a": "Organización de la comunidad y apoyo comunitario.",
       "opcion b": "Derivación obligatoria a psiquiatría.",
       "opcion c": "Aislamiento de víctimas para contención.",
       "opcion d": "Centrar la atención solo en población infantil."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 16,
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Profundidad adecuada de compresiones (R",
+    "pregunta": "Profundidad adecuada de compresiones (RCP) en niños >1 año.",
     "opciones": {
       "opcion d": "Hasta 5 cm de profundidad.",
       "opcion a": "1 cm máximo.",
@@ -235,21 +235,7 @@
       "opcion c": "Intervenciones basadas en protocolos rígidos.",
       "opcion d": "Opiniones de expertos únicamente."
     },
-    "respuesta_correcta": "opcion a"
-  },
-  {
-    "id": 18,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "Recomendación sobre catéteres centrales (Prevención cuaternaria).",
-    "opciones": {
-      "opcion b": "Monitorizar y revisar diariamente para garantizar su uso.",
-      "opcion a": "Cambiarlos cada 24 h por rutina.",
-      "opcion c": "Lavar con heparina ante cualquier duda.",
-      "opcion d": "Mantenerlos indefinidamente aunque no se utilicen."
-    },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 19,
@@ -263,21 +249,21 @@
       "opcion b": "Hídricos, estructurales y sociales.",
       "opcion c": "Físicos, políticos y migratorios."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 20,
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Lugares recomendados para inserción de",
+    "pregunta": "Lugares recomendados para inserción de CVPc.",
     "opciones": {
       "opcion d": "Zona distal a la proximal.",
       "opcion a": "Vena femoral siempre primero.",
       "opcion b": "Pliegue del codo obligatorio.",
       "opcion c": "Cualquier vena inflamada."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 21,
@@ -291,7 +277,7 @@
       "opcion c": "Cuidados paliativos, entorno, terapia y rehabilitación.",
       "opcion d": "Comunidad, familia, salud y bienestar."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 22,
@@ -319,7 +305,7 @@
       "opcion c": "Rotación constante de personal.",
       "opcion d": "Retiro de consentimientos informados."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 24,
@@ -354,7 +340,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿Qué intervenciones se recomiendan para prevenir complicaciones en la colocación de",
+    "pregunta": "¿Qué intervenciones se recomiendan para prevenir complicaciones en la colocación de CVPc?",
     "opciones": {
       "opcion c": "Elección del sitio adecuado y técnica aséptica estricta.",
       "opcion a": "Utilizar siempre el mismo brazo en todos los pacientes.",
@@ -368,28 +354,28 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿Qué elemento del",
+    "pregunta": "¿Qué elemento del Código de Ética del CIE es fundamental para la práctica profesional?",
     "opciones": {
       "opcion a": "Respeto por los derechos humanos.",
       "opcion b": "Preferencia por decisiones institucionales.",
       "opcion c": "Priorización de intereses económicos.",
       "opcion d": "Obediencia a jerarquías sin criterio propio."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 28,
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es el objetivo central de la Atención Primaria de la Salud?",
     "opciones": {
       "opcion b": "Promover el autocuidado y la participación comunitaria.",
       "opcion a": "Garantizar derivaciones a niveles superiores.",
       "opcion c": "Centralizar la atención en hospitales.",
       "opcion d": "Sustituir intervenciones de especialistas."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 29,
@@ -403,28 +389,28 @@
       "opcion b": "PA ≤100/60 mmHg.",
       "opcion c": "PA ≥160/50 mmHg."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 30,
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es un signo de alarma en diarrea infantil?",
     "opciones": {
       "opcion c": "Signos de shock.",
       "opcion a": "Hipoactividad leve.",
       "opcion b": "Sudoración aislada.",
       "opcion d": "Llanto intermitente sin fiebre."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 31,
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es el rol de Enfermería en el enfoque comunitario?",
     "opciones": {
       "opcion b": "Favorecer el autocuidado del individuo, la familia y la comunidad.",
       "opcion a": "Sustituir funciones médicas.",
@@ -459,21 +445,21 @@
       "opcion b": "Climáticos, culturales y estructurales.",
       "opcion c": "Urbanos, rurales y mixtos."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 34,
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿Qué lugares son recomendados para inserción de",
+    "pregunta": "¿Qué lugares son recomendados para inserción de CVPc? (real: examen-unico-2024-bioquimica-en… )",
     "opciones": {
       "opcion d": "Zona distal a la proximal.",
       "opcion a": "Cualquier vena visible.",
       "opcion b": "Pliegue del codo.",
       "opcion c": "Venas en miembros inferiores siempre."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 35,
@@ -494,7 +480,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuáles son vías naturales de administración? (real: examen-unico-2024-bioquimica-en… )",
     "opciones": {
       "opcion d": "Vías enterales, inhalatoria y tópica.",
       "opcion a": "Intravenosa e intraósea.",
@@ -508,7 +494,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿Qué es inherente a la profesión según",
+    "pregunta": "¿Qué es inherente a la profesión según CIE? (real: examen-unico-2024-bioquimica-en… )",
     "opciones": {
       "opcion a": "Derechos humanos.",
       "opcion b": "Regulación económica.",
@@ -543,7 +529,7 @@
       "opcion c": "Métodos exclusivamente cuantitativos.",
       "opcion d": "Técnicas de laboratorio."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 40,
@@ -557,7 +543,7 @@
       "opcion c": "Explorar sin medir.",
       "opcion d": "Identificar emociones subjetivas."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 41,
@@ -571,7 +557,7 @@
       "opcion b": "Atención de alta complejidad.",
       "opcion d": "Centros privados especializados."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 42,
@@ -585,7 +571,7 @@
       "opcion c": "Inmovilizar sin evaluación.",
       "opcion d": "Solicitar estudios antes de intervenir."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 43,
@@ -613,14 +599,14 @@
       "opcion c": "Diagnóstico, tratamiento y evolución.",
       "opcion d": "Comunidad, cultura y política sanitaria."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 45,
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Frecuencia de compresiones en R",
+    "pregunta": "Frecuencia de compresiones en RCP adulto.",
     "opciones": {
       "opcion b": "100–120 por minuto.",
       "opcion a": "50–70 por minuto.",
@@ -641,7 +627,7 @@
       "opcion c": "Uso de uniformes diferenciados.",
       "opcion d": "Registro de visitas."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 47,
@@ -655,7 +641,7 @@
       "opcion c": "Usarlos indefinidamente.",
       "opcion d": "Curarlos sin valoración."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 48,
@@ -669,7 +655,7 @@
       "opcion c": "Mendoza.",
       "opcion d": "La Pampa."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 49,
@@ -683,16 +669,16 @@
       "opcion c": "Secundaria.",
       "opcion d": "Indirecta."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 50,
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Objetivos de investigación (formulación correcta).",
+    "pregunta": "Objetivos de investigación (formulación correct",
     "opciones": {
-      "opcion a": "Iniciar con verbo en infinitivo, alcanzables y coherentes.",
+      "opcion a": ". a) Iniciar con verbo en infinitivo, alcanzables y coherentes.",
       "opcion b": "Formularse en pasado.",
       "opcion c": "Escribirlos como hipótesis cerradas.",
       "opcion d": "Redactarlos sin criterios metodológicos."
@@ -704,7 +690,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es la profundidad adecuada de compresiones en niños mayores de 1 año?",
     "opciones": {
       "opcion d": "Hasta 5 cm de profundidad.",
       "opcion a": "Hasta 2 cm.",
@@ -753,7 +739,7 @@
       "opcion b": "Segundo nivel.",
       "opcion d": "Cuarto nivel."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 55,
@@ -781,7 +767,7 @@
       "opcion c": "Formularse como conclusiones.",
       "opcion d": "Contener juicios de valor."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 57,
@@ -795,7 +781,7 @@
       "opcion b": "<70 / >75 mmHg.",
       "opcion d": ">90 / >75 mmHg."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 58,
@@ -809,7 +795,7 @@
       "opcion c": "San Juan.",
       "opcion d": "Neuquén."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 59,
@@ -837,7 +823,7 @@
       "opcion c": "Centrarse solo en experiencias subjetivas.",
       "opcion d": "Analizar sin medir."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 61,
@@ -851,7 +837,7 @@
       "opcion c": "Mixtos.",
       "opcion d": "Lineales estrictos."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 62,
@@ -865,14 +851,14 @@
       "opcion c": "Derivar siempre al segundo nivel.",
       "opcion d": "Realizar solo tareas administrativas."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 63,
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿Qué elemento del",
+    "pregunta": "¿Qué elemento del CIE es inherente a la enfermería?",
     "opciones": {
       "opcion a": "Los derechos humanos.",
       "opcion b": "La gestión política.",
@@ -907,21 +893,21 @@
       "opcion b": "Náuseas aisladas.",
       "opcion d": "Sudoración nocturna."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 66,
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Inserción recomendada de",
+    "pregunta": "Inserción recomendada de CVPc.",
     "opciones": {
       "opcion d": "Zona distal a proximal.",
       "opcion a": "Pliegue del codo.",
       "opcion b": "Vena más accesible sin criterios.",
       "opcion c": "Pierna dominante."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 67,
@@ -935,7 +921,7 @@
       "opcion c": "Mantenerlo siempre aunque no se use.",
       "opcion d": "Cambiarlo por rutina cada día."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 68,
@@ -949,7 +935,7 @@
       "opcion c": "Diagnóstico, tratamiento, rehabilitación.",
       "opcion d": "Rol profesional, ética, técnica y contexto."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 69,
@@ -977,7 +963,7 @@
       "opcion c": "Listas de asistencia.",
       "opcion d": "Rotación de personal."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 71,
@@ -991,7 +977,7 @@
       "opcion c": "Incluir opinión personal del investigador.",
       "opcion d": "Iniciar con conclusiones."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 72,
@@ -1019,7 +1005,7 @@
       "opcion c": "Dejarlo sin uso prolongado.",
       "opcion d": "Hacer curación cada 6 h."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 74,
@@ -1033,7 +1019,7 @@
       "opcion c": "Formosa.",
       "opcion d": "Chubut."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 75,
@@ -1061,7 +1047,7 @@
       "opcion b": "Tercer nivel.",
       "opcion d": "Centros quirúrgicos."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 77,
@@ -1117,7 +1103,7 @@
       "opcion c": "Incluir opiniones personales.",
       "opcion d": "Ser amplio y ambiguo."
     },
-    "respuesta_correcta": "opcion a"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 81,
@@ -1131,7 +1117,7 @@
       "opcion c": "Confirmación telefónica.",
       "opcion d": "Firma de terceros."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 82,
@@ -1152,7 +1138,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿Qué es inherente al profesional según el",
+    "pregunta": "¿Qué es inherente al profesional según el CIE?",
     "opciones": {
       "opcion a": "Los derechos humanos.",
       "opcion b": "La obediencia administrativa.",
@@ -1166,7 +1152,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es el objetivo de Enfermería comunitaria?",
     "opciones": {
       "opcion b": "Ayudar a individuo, familia y comunidad en acciones de autocuidado.",
       "opcion a": "Reemplazar funciones médicas.",
@@ -1187,21 +1173,21 @@
       "opcion b": "Sequedad de labios.",
       "opcion d": "Irritabilidad sin otros signos."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 86,
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Lugar recomendado para inserción de",
+    "pregunta": "Lugar recomendado para inserción de CVPc.",
     "opciones": {
       "opcion d": "Zona distal a proximal.",
       "opcion a": "Vena femoral de inicio.",
       "opcion b": "Venas inflamadas.",
       "opcion c": "Codo como primera opción."
     },
-    "respuesta_correcta": "opcion d"
+    "respuesta_correcta": "opcion b"
   },
   {
     "id": 87,
@@ -1215,7 +1201,7 @@
       "opcion c": "Mantenerlo aunque no se use.",
       "opcion d": "No evaluar curación."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 88,
@@ -1229,7 +1215,7 @@
       "opcion c": "Interpretar narrativas.",
       "opcion d": "Realizar análisis subjetivos."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 89,
@@ -1243,7 +1229,7 @@
       "opcion c": "Estandarizados.",
       "opcion d": "Matemáticos."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 90,
@@ -1257,7 +1243,7 @@
       "opcion b": "Cuarto nivel.",
       "opcion d": "Servicios especializados."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 91,
@@ -1299,7 +1285,7 @@
       "opcion c": "Prevención, promoción, tratamiento.",
       "opcion d": "Cultura, política, salud mental."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion d"
   },
   {
     "id": 94,
@@ -1313,33 +1299,19 @@
       "opcion b": "Palidez aislada.",
       "opcion d": "Sueño prolongado."
     },
-    "respuesta_correcta": "opcion c"
+    "respuesta_correcta": "opcion a"
   },
   {
     "id": 95,
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Inserción de",
+    "pregunta": "Inserción de CVPc adecuada.",
     "opciones": {
       "opcion d": "Zona distal a proximal.",
       "opcion a": "Brazo dominante siempre.",
       "opcion b": "Codo.",
       "opcion c": "Venas profundas del pie."
-    },
-    "respuesta_correcta": "opcion d"
-  },
-  {
-    "id": 96,
-    "tema": "Enfermería 2024",
-    "año": 2024,
-    "caso_clínico": "",
-    "pregunta": "Recomendación en catéteres centrales (Prevención cuaternaria).",
-    "opciones": {
-      "opcion b": "Monitorizar y revisar diariamente.",
-      "opcion a": "Cambiar por rutina cada día.",
-      "opcion c": "Mantener aunque esté ocioso.",
-      "opcion d": "No registrar curación."
     },
     "respuesta_correcta": "opcion b"
   },
@@ -1355,7 +1327,7 @@
       "opcion c": "Prioriza experiencias subjetivas.",
       "opcion d": "Analiza sin hipótesis."
     },
-    "respuesta_correcta": "opcion b"
+    "respuesta_correcta": "opcion c"
   },
   {
     "id": 98,
@@ -1376,7 +1348,7 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Inherente a Enfermería según",
+    "pregunta": "Inherente a Enfermería según CIE.",
     "opciones": {
       "opcion a": "Derechos humanos.",
       "opcion b": "Supervisión económica.",
