@@ -722,6 +722,186 @@
       "opcion c": "Administrar alimentos.",
       "opcion d": "Esperar asistencia sin actuar.",
       "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 101,
+      "pregunta": "¿Cuál es el signo de Babinski positivo en adultos?",
+      "opcion a": "Signo de deshidratación",
+      "opcion b": "Indica lesión neurológica",
+      "opcion c": "Normal",
+      "opcion d": "Signo de infección",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 102,
+      "pregunta": "¿Qué complicación puede presentarse por inmovilización prolongada?",
+      "opcion a": "Taquicardia",
+      "opcion b": "Trombosis venosa profunda",
+      "opcion c": "Hiperglucemia",
+      "opcion d": "Hipertensión",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 103,
+      "pregunta": "¿Cuál es el tratamiento inmediato ante una quemadura de segundo grado?",
+      "opcion a": "Aplicar pomadas",
+      "opcion b": "Reventar ampollas",
+      "opcion c": "Enfriar con agua tibia durante 20 minutos",
+      "opcion d": "Aplicar hielo directo",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 104,
+      "pregunta": "¿Qué indica la escala de Norton menor a 14 puntos?",
+      "opcion a": "Alto riesgo de úlceras por presión",
+      "opcion b": "Bajo riesgo de UPP",
+      "opcion c": "Riesgo moderado",
+      "opcion d": "Sin riesgo",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 105,
+      "pregunta": "¿Qué precaución se debe tomar con un paciente con varicela?",
+      "opcion a": "Ninguna precaución especial",
+      "opcion b": "Precauciones aéreas",
+      "opcion c": "Precauciones estándar",
+      "opcion d": "Precauciones de contacto",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 106,
+      "pregunta": "¿Qué indica el término 'bradipnea'?",
+      "opcion a": "Respiración rápida",
+      "opcion b": "Sin respiración",
+      "opcion c": "Respiración lenta (menos de 12 rpm)",
+      "opcion d": "Respiración profunda",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 107,
+      "pregunta": "¿Qué indica una presión de pulso menor a 30 mmHg?",
+      "opcion a": "Normal",
+      "opcion b": "Shock o hipoperfusión",
+      "opcion c": "Hipervolemia",
+      "opcion d": "Hipertensión",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 108,
+      "pregunta": "¿Cuál es la primera maniobra en obstrucción de vía aérea por cuerpo extraño?",
+      "opcion a": "Ventilación boca a boca",
+      "opcion b": "Barrido digital ciego",
+      "opcion c": "Maniobra de Heimlich",
+      "opcion d": "Golpes en la espalda",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 109,
+      "pregunta": "¿Cuál es la principal función del sistema linfático?",
+      "opcion a": "Regulación térmica",
+      "opcion b": "Transporte de oxígeno",
+      "opcion c": "Defensa inmunológica",
+      "opcion d": "Producción de glucosa",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 110,
+      "pregunta": "¿Qué anticoagulante se utiliza en tubos de laboratorio para hemograma?",
+      "opcion a": "EDTA",
+      "opcion b": "Citrato de sodio",
+      "opcion c": "Fluoruro",
+      "opcion d": "Heparina",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 111,
+      "pregunta": "¿Qué tipo de aislamiento requiere un paciente con tuberculosis pulmonar activa?",
+      "opcion a": "No requiere aislamiento",
+      "opcion b": "Aislamiento de contacto",
+      "opcion c": "Aislamiento respiratorio",
+      "opcion d": "Aislamiento entérico",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 112,
+      "pregunta": "¿Cuál es el primer paso ante una crisis convulsiva?",
+      "opcion a": "Introducir objeto en boca",
+      "opcion b": "Sujetar al paciente",
+      "opcion c": "Administrar anticonvulsivante",
+      "opcion d": "Proteger de lesiones",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 113,
+      "pregunta": "¿Cuál es el tiempo máximo de permanencia de un catéter venoso periférico?",
+      "opcion a": "48-72 horas",
+      "opcion b": "5-7 días",
+      "opcion c": "15 días",
+      "opcion d": "24 horas",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 114,
+      "pregunta": "¿Cuál es el método de elección para diagnóstico de diabetes mellitus?",
+      "opcion a": "Peso corporal",
+      "opcion b": "Solo síntomas clínicos",
+      "opcion c": "Glucemia en ayunas y HbA1c",
+      "opcion d": "Presión arterial",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 115,
+      "pregunta": "¿Cuál es el tiempo máximo recomendado para mantener un torniquete aplicado?",
+      "opcion a": "30 minutos",
+      "opcion b": "2 horas",
+      "opcion c": "No hay límite",
+      "opcion d": "1 hora",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 116,
+      "pregunta": "¿Qué tipo de dieta se indica en pacientes con disfagia?",
+      "opcion a": "Dieta líquida clara",
+      "opcion b": "Dieta con consistencia modificada",
+      "opcion c": "Dieta hiposódica",
+      "opcion d": "Dieta hipocalórica",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 117,
+      "pregunta": "¿Cuál es la posición correcta para realizar RCP?",
+      "opcion a": "Cualquier superficie",
+      "opcion b": "Superficie blanda",
+      "opcion c": "Posición semi-sentada",
+      "opcion d": "Superficie dura y plana",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 118,
+      "pregunta": "¿Cuál es el objetivo del uso de medias de compresión graduada?",
+      "opcion a": "Mejorar movilidad",
+      "opcion b": "Prevenir infecciones",
+      "opcion c": "Prevenir trombosis venosa",
+      "opcion d": "Aumentar temperatura",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 119,
+      "pregunta": "¿Qué caracteriza a una crisis hipertensiva?",
+      "opcion a": "PA > 180/120 mmHg con daño orgánico",
+      "opcion b": "PA normal",
+      "opcion c": "PA < 90/60 mmHg",
+      "opcion d": "PA > 120/80 mmHg",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 120,
+      "pregunta": "¿Qué escala se utiliza para valorar el riesgo de úlceras por presión?",
+      "opcion a": "Escala de APGAR",
+      "opcion b": "Escala de Glasgow",
+      "opcion c": "Escala de Norton",
+      "opcion d": "Escala de Barthel",
+      "respuesta_correcta": "opcion c"
     }
   ]
 }

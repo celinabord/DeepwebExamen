@@ -641,6 +641,267 @@
       "opcion c": "Miocardiopatía hipertrófica.",
       "opcion d": "Insuficiencia mitral.",
       "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 101,
+      "pregunta": "¿Qué fármaco es de primera elección en paro cardiorrespiratorio?",
+      "opcion a": "Atropina",
+      "opcion b": "Amiodarona",
+      "opcion c": "Adrenalina (Epinefrina)",
+      "opcion d": "Lidocaína",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 102,
+      "pregunta": "¿Qué precaución se debe tomar con un paciente con varicela?",
+      "opcion a": "Ninguna precaución especial",
+      "opcion b": "Precauciones de contacto",
+      "opcion c": "Precauciones estándar",
+      "opcion d": "Precauciones aéreas",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 103,
+      "pregunta": "¿Qué caracteriza a una crisis hipertensiva?",
+      "opcion a": "PA normal",
+      "opcion b": "PA < 90/60 mmHg",
+      "opcion c": "PA > 120/80 mmHg",
+      "opcion d": "PA > 180/120 mmHg con daño orgánico",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 104,
+      "pregunta": "¿Qué caracteriza a una herida limpia?",
+      "opcion a": "Quirúrgica no contaminada",
+      "opcion b": "Con secreción purulenta",
+      "opcion c": "Con signos de infección",
+      "opcion d": "Traumática con tierra",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 105,
+      "pregunta": "¿Qué caracteriza al dolor visceral?",
+      "opcion a": "Superficial",
+      "opcion b": "Sin irradiación",
+      "opcion c": "Difuso y mal localizado",
+      "opcion d": "Localizado y punzante",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 106,
+      "pregunta": "¿Cuál es el período de vigilancia post-transfusional?",
+      "opcion a": "24 horas",
+      "opcion b": "2 horas",
+      "opcion c": "5 minutos",
+      "opcion d": "15-30 minutos",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 107,
+      "pregunta": "¿Cuál es la complicación más grave de la hipertensión no controlada?",
+      "opcion a": "Accidente cerebrovascular",
+      "opcion b": "Anemia",
+      "opcion c": "Várices",
+      "opcion d": "Obesidad",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 108,
+      "pregunta": "¿Cuál es la posición correcta para realizar RCP?",
+      "opcion a": "Cualquier superficie",
+      "opcion b": "Superficie dura y plana",
+      "opcion c": "Superficie blanda",
+      "opcion d": "Posición semi-sentada",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 109,
+      "pregunta": "¿Qué parámetro indica el test de APGAR al minuto de nacer?",
+      "opcion a": "Madurez pulmonar",
+      "opcion b": "Peso del recién nacido",
+      "opcion c": "Nivel de glucosa",
+      "opcion d": "Adaptación inmediata a la vida extrauterina",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 110,
+      "pregunta": "¿Cuál es la zona más frecuente de úlceras por presión?",
+      "opcion a": "Codos",
+      "opcion b": "Región sacra y talones",
+      "opcion c": "Rodillas",
+      "opcion d": "Hombros",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 111,
+      "pregunta": "¿Cuál es la primera maniobra en obstrucción de vía aérea por cuerpo extraño?",
+      "opcion a": "Ventilación boca a boca",
+      "opcion b": "Golpes en la espalda",
+      "opcion c": "Barrido digital ciego",
+      "opcion d": "Maniobra de Heimlich",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 112,
+      "pregunta": "¿Cuál es el volumen de llenado gástrico máximo recomendado para alimentación por sonda?",
+      "opcion a": "600-700 ml",
+      "opcion b": "200-300 ml",
+      "opcion c": "100-150 ml",
+      "opcion d": "400-500 ml",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 113,
+      "pregunta": "¿Cuál es la primera intervención ante una hemorragia externa?",
+      "opcion a": "Aplicar hielo",
+      "opcion b": "Aplicar torniquete",
+      "opcion c": "Elevar extremidad",
+      "opcion d": "Presión directa",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 114,
+      "pregunta": "¿Qué tipo de vendaje se utiliza para inmovilizar una fractura?",
+      "opcion a": "Vendaje compresivo",
+      "opcion b": "Vendaje en espiga",
+      "opcion c": "Férula rígida",
+      "opcion d": "Vendaje circular",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 115,
+      "pregunta": "¿Qué indica una puntuación de 15 en la escala de Glasgow?",
+      "opcion a": "Muerte cerebral",
+      "opcion b": "Estado vegetativo",
+      "opcion c": "Nivel de conciencia normal",
+      "opcion d": "Coma profundo",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 116,
+      "pregunta": "¿Cuál es el tratamiento inmediato ante una quemadura de segundo grado?",
+      "opcion a": "Reventar ampollas",
+      "opcion b": "Aplicar pomadas",
+      "opcion c": "Enfriar con agua tibia durante 20 minutos",
+      "opcion d": "Aplicar hielo directo",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 117,
+      "pregunta": "¿Qué tipo de aislamiento requiere un paciente con sarampión?",
+      "opcion a": "Aislamiento entérico",
+      "opcion b": "Aislamiento de contacto",
+      "opcion c": "Aislamiento aéreo",
+      "opcion d": "No requiere aislamiento",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 118,
+      "pregunta": "¿Qué tipo de aislamiento requiere un paciente con tuberculosis pulmonar activa?",
+      "opcion a": "Aislamiento de contacto",
+      "opcion b": "No requiere aislamiento",
+      "opcion c": "Aislamiento respiratorio",
+      "opcion d": "Aislamiento entérico",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 119,
+      "pregunta": "¿Qué indica una presión intracraneal mayor a 20 mmHg?",
+      "opcion a": "Normal",
+      "opcion b": "Hipotensión",
+      "opcion c": "Hipertensión intracraneal",
+      "opcion d": "Hidrocefalia",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 120,
+      "pregunta": "¿Cuál es el tratamiento inicial de la hipoglucemia consciente?",
+      "opcion a": "Ejercicio intenso",
+      "opcion b": "Insulina intravenosa",
+      "opcion c": "Carbohidratos de absorción rápida",
+      "opcion d": "Dieta hipocalórica",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 121,
+      "pregunta": "¿Qué indica un pH arterial menor a 7.35?",
+      "opcion a": "Hipoxia",
+      "opcion b": "Acidosis",
+      "opcion c": "Alcalosis",
+      "opcion d": "Normal",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 122,
+      "pregunta": "¿Qué indica una glucemia en ayunas mayor a 126 mg/dl en dos ocasiones?",
+      "opcion a": "Normal",
+      "opcion b": "Diabetes mellitus",
+      "opcion c": "Hipoglucemia",
+      "opcion d": "Prediabetes",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 123,
+      "pregunta": "¿Qué material se utiliza para sutura absorbible?",
+      "opcion a": "Acero",
+      "opcion b": "Seda",
+      "opcion c": "Catgut o ácido poliglicólico",
+      "opcion d": "Nylon",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 124,
+      "pregunta": "¿Qué indica el signo de Homans positivo?",
+      "opcion a": "Trombosis venosa profunda",
+      "opcion b": "Apendicitis",
+      "opcion c": "Neumonía",
+      "opcion d": "Meningitis",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 125,
+      "pregunta": "¿Cuál es el objetivo del uso de medias de compresión graduada?",
+      "opcion a": "Mejorar movilidad",
+      "opcion b": "Aumentar temperatura",
+      "opcion c": "Prevenir trombosis venosa",
+      "opcion d": "Prevenir infecciones",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 126,
+      "pregunta": "¿Qué indica el término 'taquipnea'?",
+      "opcion a": "Respiración lenta",
+      "opcion b": "Ausencia de respiración",
+      "opcion c": "Respiración rápida",
+      "opcion d": "Respiración irregular",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 127,
+      "pregunta": "¿Qué valor de saturación de oxígeno se considera hipoxemia?",
+      "opcion a": "Menor al 90%",
+      "opcion b": "Menor al 95%",
+      "opcion c": "Menor al 85%",
+      "opcion d": "Menor al 80%",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 128,
+      "pregunta": "¿Qué escala se utiliza para valorar el riesgo de úlceras por presión?",
+      "opcion a": "Escala de Glasgow",
+      "opcion b": "Escala de Norton",
+      "opcion c": "Escala de Barthel",
+      "opcion d": "Escala de APGAR",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 129,
+      "pregunta": "¿Qué indica un valor de PaCO2 mayor a 45 mmHg?",
+      "opcion a": "Hipercapnia",
+      "opcion b": "Hiperventilación",
+      "opcion c": "Alcalosis",
+      "opcion d": "Hipocapnia",
+      "respuesta_correcta": "opcion a"
     }
   ]
 }

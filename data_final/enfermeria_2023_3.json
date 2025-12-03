@@ -812,6 +812,96 @@
       "opcion c": "Iniciar RCP inmediata.",
       "opcion d": "Sacudir al paciente vigorosamente.",
       "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 101,
+      "pregunta": "¿Qué fármaco se utiliza para revertir la intoxicación por opioides?",
+      "opcion a": "Atropina",
+      "opcion b": "Flumazenil",
+      "opcion c": "Naloxona",
+      "opcion d": "Glucagón",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 102,
+      "pregunta": "¿Cuál es la técnica correcta para administrar medicación sublingual?",
+      "opcion a": "Tragar inmediatamente",
+      "opcion b": "Colocar bajo la lengua sin tragar",
+      "opcion c": "Disolver en agua",
+      "opcion d": "Masticar antes de tragar",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 103,
+      "pregunta": "¿Cuál es el primer paso ante una crisis convulsiva?",
+      "opcion a": "Introducir objeto en boca",
+      "opcion b": "Administrar anticonvulsivante",
+      "opcion c": "Proteger de lesiones",
+      "opcion d": "Sujetar al paciente",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 104,
+      "pregunta": "¿Cuál es el rango normal de potasio sérico?",
+      "opcion a": "3.5-5.0 mEq/L",
+      "opcion b": "5.5-7.0 mEq/L",
+      "opcion c": "7.5-9.0 mEq/L",
+      "opcion d": "2.0-3.0 mEq/L",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 105,
+      "pregunta": "¿Qué indica un valor de PaCO2 mayor a 45 mmHg?",
+      "opcion a": "Hipocapnia",
+      "opcion b": "Hipercapnia",
+      "opcion c": "Alcalosis",
+      "opcion d": "Hiperventilación",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 106,
+      "pregunta": "¿Cuál es la zona correcta para administración intramuscular en glúteo?",
+      "opcion a": "Cuadrante inferior interno",
+      "opcion b": "Cuadrante superior interno",
+      "opcion c": "Cuadrante superior externo",
+      "opcion d": "Cuadrante inferior externo",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 107,
+      "pregunta": "¿Cuál es el período de incubación promedio de la tuberculosis?",
+      "opcion a": "2-10 semanas",
+      "opcion b": "1-2 semanas",
+      "opcion c": "6-12 meses",
+      "opcion d": "1-2 años",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 108,
+      "pregunta": "¿Qué indica una presión intracraneal mayor a 20 mmHg?",
+      "opcion a": "Hidrocefalia",
+      "opcion b": "Hipotensión",
+      "opcion c": "Normal",
+      "opcion d": "Hipertensión intracraneal",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 109,
+      "pregunta": "¿Cuál es el tratamiento inicial de la hipoglucemia consciente?",
+      "opcion a": "Ejercicio intenso",
+      "opcion b": "Insulina intravenosa",
+      "opcion c": "Carbohidratos de absorción rápida",
+      "opcion d": "Dieta hipocalórica",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 110,
+      "pregunta": "¿Qué indica un pH arterial menor a 7.35?",
+      "opcion a": "Acidosis",
+      "opcion b": "Normal",
+      "opcion c": "Hipoxia",
+      "opcion d": "Alcalosis",
+      "respuesta_correcta": "opcion a"
     }
   ]
 }

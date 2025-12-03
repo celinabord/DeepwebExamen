@@ -893,6 +893,15 @@
       "opcion c": "Género nominal / grupo sanguíneo ordinal",
       "opcion d": "Ambas ordinales",
       "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 101,
+      "pregunta": "¿Cuál es la principal vía de transmisión del VIH?",
+      "opcion a": "Aérea",
+      "opcion b": "Por vectores",
+      "opcion c": "Fecal-oral",
+      "opcion d": "Sexual y sanguínea",
+      "respuesta_correcta": "opcion d"
     }
   ]
 }

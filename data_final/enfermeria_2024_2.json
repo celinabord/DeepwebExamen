@@ -173,6 +173,735 @@
       "opcion c": "Administrar oxígeno humidificados a todos los pacientes.",
       "opcion d": "Para tratar la disnea no hipóxica no utilizar oxígeno.",
       "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 82,
+      "pregunta": "¿Qué indica el término 'bradipnea'?",
+      "opcion a": "Respiración rápida",
+      "opcion b": "Sin respiración",
+      "opcion c": "Respiración profunda",
+      "opcion d": "Respiración lenta (menos de 12 rpm)",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 83,
+      "pregunta": "¿Cuál es el período de vigilancia post-transfusional?",
+      "opcion a": "5 minutos",
+      "opcion b": "2 horas",
+      "opcion c": "24 horas",
+      "opcion d": "15-30 minutos",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 84,
+      "pregunta": "¿Qué indica una presión intracraneal mayor a 20 mmHg?",
+      "opcion a": "Normal",
+      "opcion b": "Hidrocefalia",
+      "opcion c": "Hipotensión",
+      "opcion d": "Hipertensión intracraneal",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 85,
+      "pregunta": "¿Qué precaución se debe tomar con un paciente con varicela?",
+      "opcion a": "Precauciones estándar",
+      "opcion b": "Precauciones aéreas",
+      "opcion c": "Precauciones de contacto",
+      "opcion d": "Ninguna precaución especial",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 86,
+      "pregunta": "¿Qué fármaco se utiliza para revertir la intoxicación por opioides?",
+      "opcion a": "Glucagón",
+      "opcion b": "Flumazenil",
+      "opcion c": "Atropina",
+      "opcion d": "Naloxona",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 87,
+      "pregunta": "¿Qué valor de saturación de oxígeno se considera hipoxemia?",
+      "opcion a": "Menor al 90%",
+      "opcion b": "Menor al 80%",
+      "opcion c": "Menor al 85%",
+      "opcion d": "Menor al 95%",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 88,
+      "pregunta": "¿Qué indica la presencia de edema con fóvea?",
+      "opcion a": "Fractura",
+      "opcion b": "Infección",
+      "opcion c": "Deshidratación",
+      "opcion d": "Acumulación de líquido intersticial",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 89,
+      "pregunta": "¿Qué medida previene la trombosis venosa profunda en pacientes encamados?",
+      "opcion a": "Sedación continua",
+      "opcion b": "Movilización precoz y ejercicios",
+      "opcion c": "Reposo absoluto",
+      "opcion d": "Restricción de líquidos",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 90,
+      "pregunta": "¿Cuál es el objetivo de la ventilación mecánica no invasiva?",
+      "opcion a": "Soporte ventilatorio sin intubación",
+      "opcion b": "Sedar al paciente",
+      "opcion c": "Administrar medicación",
+      "opcion d": "Reemplazar función renal",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 91,
+      "pregunta": "¿Qué complicación puede presentarse por inmovilización prolongada?",
+      "opcion a": "Trombosis venosa profunda",
+      "opcion b": "Hiperglucemia",
+      "opcion c": "Hipertensión",
+      "opcion d": "Taquicardia",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 92,
+      "pregunta": "¿Cuál es el volumen de llenado gástrico máximo recomendado para alimentación por sonda?",
+      "opcion a": "600-700 ml",
+      "opcion b": "400-500 ml",
+      "opcion c": "100-150 ml",
+      "opcion d": "200-300 ml",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 93,
+      "pregunta": "¿Qué indica una puntuación de 15 en la escala de Glasgow?",
+      "opcion a": "Muerte cerebral",
+      "opcion b": "Estado vegetativo",
+      "opcion c": "Coma profundo",
+      "opcion d": "Nivel de conciencia normal",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 94,
+      "pregunta": "¿Cuál es el rango normal de presión arterial en adultos?",
+      "opcion a": "120/80 a 140/90 mmHg",
+      "opcion b": "90/60 a 120/80 mmHg",
+      "opcion c": "140/90 a 160/100 mmHg",
+      "opcion d": "160/100 a 180/110 mmHg",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 95,
+      "pregunta": "¿Cuál es el signo de Babinski positivo en adultos?",
+      "opcion a": "Indica lesión neurológica",
+      "opcion b": "Normal",
+      "opcion c": "Signo de infección",
+      "opcion d": "Signo de deshidratación",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 96,
+      "pregunta": "¿Qué intervención es prioritaria en un paciente con anafilaxia?",
+      "opcion a": "Antihistamínicos orales",
+      "opcion b": "Oxígeno a bajo flujo",
+      "opcion c": "Adrenalina intramuscular",
+      "opcion d": "Corticoides tópicos",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 97,
+      "pregunta": "¿Qué indica la escala de Norton menor a 14 puntos?",
+      "opcion a": "Bajo riesgo de UPP",
+      "opcion b": "Alto riesgo de úlceras por presión",
+      "opcion c": "Riesgo moderado",
+      "opcion d": "Sin riesgo",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 98,
+      "pregunta": "¿Cuál es el rango normal de frecuencia cardíaca en un adulto en reposo?",
+      "opcion a": "100-120 lpm",
+      "opcion b": "40-60 lpm",
+      "opcion c": "60-100 lpm",
+      "opcion d": "120-140 lpm",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 99,
+      "pregunta": "¿Qué medida previene la neumonía asociada a ventilación mecánica?",
+      "opcion a": "Aspiración frecuente",
+      "opcion b": "Cambios posturales cada 4 horas",
+      "opcion c": "Elevación cabecera 30-45°",
+      "opcion d": "Nutrición enteral continua",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 100,
+      "pregunta": "¿Qué signo es característico de deshidratación severa?",
+      "opcion a": "Edema generalizado",
+      "opcion b": "Piel húmeda",
+      "opcion c": "Hipertensión",
+      "opcion d": "Mucosas secas y turgencia disminuida",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 101,
+      "pregunta": "¿Qué vacuna se administra al recién nacido en las primeras 24 horas?",
+      "opcion a": "Hepatitis B",
+      "opcion b": "Rotavirus",
+      "opcion c": "Triple viral",
+      "opcion d": "Neumococo",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 102,
+      "pregunta": "¿Cuál es la técnica correcta para aspiración de secreciones traqueales?",
+      "opcion a": "Aspiración intermitente durante retiro",
+      "opcion b": "Aspiración permanente",
+      "opcion c": "Aspiración continua durante inserción",
+      "opcion d": "Sin aspiración",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 103,
+      "pregunta": "¿Qué caracteriza a una herida limpia?",
+      "opcion a": "Quirúrgica no contaminada",
+      "opcion b": "Traumática con tierra",
+      "opcion c": "Con secreción purulenta",
+      "opcion d": "Con signos de infección",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 104,
+      "pregunta": "¿Qué medida es prioritaria en la prevención de infecciones nosocomiales?",
+      "opcion a": "Uso de antibióticos profilácticos",
+      "opcion b": "Aislamiento de todos los pacientes",
+      "opcion c": "Uso permanente de guantes",
+      "opcion d": "Higiene de manos",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 105,
+      "pregunta": "¿Cuál es el período de incubación promedio de la tuberculosis?",
+      "opcion a": "2-10 semanas",
+      "opcion b": "6-12 meses",
+      "opcion c": "1-2 semanas",
+      "opcion d": "1-2 años",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 106,
+      "pregunta": "¿Cuál es el principal signo de hipoglucemia?",
+      "opcion a": "Poliuria",
+      "opcion b": "Sed excesiva",
+      "opcion c": "Visión borrosa",
+      "opcion d": "Sudoración y temblor",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 107,
+      "pregunta": "¿Cuál es el sitio de elección para medir la temperatura corporal en adultos?",
+      "opcion a": "Axilar",
+      "opcion b": "Frontal",
+      "opcion c": "Rectal",
+      "opcion d": "Oral o timpánica",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 108,
+      "pregunta": "¿Cuál es la principal vía de transmisión del VIH?",
+      "opcion a": "Aérea",
+      "opcion b": "Sexual y sanguínea",
+      "opcion c": "Por vectores",
+      "opcion d": "Fecal-oral",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 109,
+      "pregunta": "¿Qué signo vital es prioritario evaluar en un paciente con shock?",
+      "opcion a": "Temperatura",
+      "opcion b": "Frecuencia respiratoria",
+      "opcion c": "Saturación de oxígeno",
+      "opcion d": "Presión arterial",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 110,
+      "pregunta": "¿Qué escala se utiliza para valorar el riesgo de úlceras por presión?",
+      "opcion a": "Escala de Barthel",
+      "opcion b": "Escala de Glasgow",
+      "opcion c": "Escala de APGAR",
+      "opcion d": "Escala de Norton",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 111,
+      "pregunta": "¿Qué anticoagulante se utiliza en tubos de laboratorio para hemograma?",
+      "opcion a": "EDTA",
+      "opcion b": "Citrato de sodio",
+      "opcion c": "Heparina",
+      "opcion d": "Fluoruro",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 112,
+      "pregunta": "¿Cuál es el primer paso ante una crisis convulsiva?",
+      "opcion a": "Introducir objeto en boca",
+      "opcion b": "Administrar anticonvulsivante",
+      "opcion c": "Sujetar al paciente",
+      "opcion d": "Proteger de lesiones",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 113,
+      "pregunta": "¿Qué fármaco es de primera elección en paro cardiorrespiratorio?",
+      "opcion a": "Amiodarona",
+      "opcion b": "Lidocaína",
+      "opcion c": "Adrenalina (Epinefrina)",
+      "opcion d": "Atropina",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 114,
+      "pregunta": "¿Cuál es la zona más frecuente de úlceras por presión?",
+      "opcion a": "Rodillas",
+      "opcion b": "Codos",
+      "opcion c": "Hombros",
+      "opcion d": "Región sacra y talones",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 115,
+      "pregunta": "¿Cuál es la posición indicada para realizar un enema?",
+      "opcion a": "Decúbito supino",
+      "opcion b": "Trendelenburg",
+      "opcion c": "Sims o decúbito lateral izquierdo",
+      "opcion d": "Fowler",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 116,
+      "pregunta": "¿Qué indica el término 'taquipnea'?",
+      "opcion a": "Respiración lenta",
+      "opcion b": "Respiración irregular",
+      "opcion c": "Ausencia de respiración",
+      "opcion d": "Respiración rápida",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 117,
+      "pregunta": "¿Qué parámetro evalúa la escala de EVA (Escala Visual Analógica)?",
+      "opcion a": "Riesgo de caídas",
+      "opcion b": "Intensidad del dolor",
+      "opcion c": "Nivel de conciencia",
+      "opcion d": "Estado nutricional",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 118,
+      "pregunta": "¿Cuál es el rango normal de potasio sérico?",
+      "opcion a": "2.0-3.0 mEq/L",
+      "opcion b": "7.5-9.0 mEq/L",
+      "opcion c": "5.5-7.0 mEq/L",
+      "opcion d": "3.5-5.0 mEq/L",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 119,
+      "pregunta": "¿Cuál es el volumen normal de diuresis en un adulto sano por día?",
+      "opcion a": "2500-3500 ml",
+      "opcion b": "1000-2000 ml",
+      "opcion c": "500-800 ml",
+      "opcion d": "4000-5000 ml",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 120,
+      "pregunta": "¿Cuál es el tiempo máximo de permanencia de un catéter venoso periférico?",
+      "opcion a": "5-7 días",
+      "opcion b": "48-72 horas",
+      "opcion c": "15 días",
+      "opcion d": "24 horas",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 121,
+      "pregunta": "¿Cuál es el método de planificación familiar más efectivo?",
+      "opcion a": "Método del ritmo",
+      "opcion b": "Dispositivo intrauterino (DIU)",
+      "opcion c": "Coitus interruptus",
+      "opcion d": "Lactancia materna",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 122,
+      "pregunta": "¿Qué vacuna está contraindicada durante el embarazo?",
+      "opcion a": "Hepatitis B",
+      "opcion b": "Influenza inactivada",
+      "opcion c": "Toxoide tetánico",
+      "opcion d": "Triple viral (MMR)",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 123,
+      "pregunta": "¿Qué indica un recuento de leucocitos mayor a 11,000/mm³?",
+      "opcion a": "Anemia",
+      "opcion b": "Trombocitopenia",
+      "opcion c": "Leucocitosis",
+      "opcion d": "Leucopenia",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 124,
+      "pregunta": "¿Cuál es la primera maniobra en obstrucción de vía aérea por cuerpo extraño?",
+      "opcion a": "Maniobra de Heimlich",
+      "opcion b": "Ventilación boca a boca",
+      "opcion c": "Golpes en la espalda",
+      "opcion d": "Barrido digital ciego",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 125,
+      "pregunta": "¿Cuál es el tratamiento inmediato ante una quemadura de segundo grado?",
+      "opcion a": "Enfriar con agua tibia durante 20 minutos",
+      "opcion b": "Aplicar pomadas",
+      "opcion c": "Reventar ampollas",
+      "opcion d": "Aplicar hielo directo",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 126,
+      "pregunta": "¿Qué indica una glucemia en ayunas mayor a 126 mg/dl en dos ocasiones?",
+      "opcion a": "Prediabetes",
+      "opcion b": "Diabetes mellitus",
+      "opcion c": "Normal",
+      "opcion d": "Hipoglucemia",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 127,
+      "pregunta": "¿Cuál es el objetivo del uso de medias de compresión graduada?",
+      "opcion a": "Prevenir trombosis venosa",
+      "opcion b": "Prevenir infecciones",
+      "opcion c": "Aumentar temperatura",
+      "opcion d": "Mejorar movilidad",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 128,
+      "pregunta": "¿Qué indica una presión de pulso menor a 30 mmHg?",
+      "opcion a": "Shock o hipoperfusión",
+      "opcion b": "Hipervolemia",
+      "opcion c": "Normal",
+      "opcion d": "Hipertensión",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 129,
+      "pregunta": "¿Qué tipo de precaución requiere un paciente con diarrea por Clostridium difficile?",
+      "opcion a": "Precauciones por gotas",
+      "opcion b": "Precauciones de contacto",
+      "opcion c": "Precauciones aéreas",
+      "opcion d": "Precauciones estándar",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 130,
+      "pregunta": "¿Cuál es el tratamiento inicial de la hipoglucemia consciente?",
+      "opcion a": "Dieta hipocalórica",
+      "opcion b": "Carbohidratos de absorción rápida",
+      "opcion c": "Ejercicio intenso",
+      "opcion d": "Insulina intravenosa",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 131,
+      "pregunta": "¿Cuál es el signo más precoz de hipoxia tisular?",
+      "opcion a": "Bradicardia",
+      "opcion b": "Alteración del estado mental",
+      "opcion c": "Taquipnea",
+      "opcion d": "Cianosis",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 132,
+      "pregunta": "¿Cuál es el período de incubación de la hepatitis B?",
+      "opcion a": "2 años",
+      "opcion b": "1-7 días",
+      "opcion c": "2-6 meses",
+      "opcion d": "1 año",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 133,
+      "pregunta": "¿Qué medida previene la neumonía por aspiración?",
+      "opcion a": "Alimentación rápida",
+      "opcion b": "Elevación cabecera y espesado líquidos",
+      "opcion c": "Reposo absoluto",
+      "opcion d": "Posición supina durante alimentación",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 134,
+      "pregunta": "¿Qué medida es fundamental en el manejo de paciente neutropénico?",
+      "opcion a": "Protección contra infecciones",
+      "opcion b": "Dieta rica en fibra",
+      "opcion c": "Exposición solar",
+      "opcion d": "Ejercicio intenso",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 135,
+      "pregunta": "¿Cuál es el tiempo máximo recomendado para mantener un torniquete aplicado?",
+      "opcion a": "2 horas",
+      "opcion b": "No hay límite",
+      "opcion c": "30 minutos",
+      "opcion d": "1 hora",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 136,
+      "pregunta": "¿Cuál es la técnica correcta para administrar medicación sublingual?",
+      "opcion a": "Tragar inmediatamente",
+      "opcion b": "Colocar bajo la lengua sin tragar",
+      "opcion c": "Disolver en agua",
+      "opcion d": "Masticar antes de tragar",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 137,
+      "pregunta": "¿Qué caracteriza al síndrome de abstinencia alcohólica?",
+      "opcion a": "Bradicardia",
+      "opcion b": "Temblor, sudoración y agitación",
+      "opcion c": "Hipotensión",
+      "opcion d": "Somnolencia",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 138,
+      "pregunta": "¿Cuál es la zona correcta para administración intramuscular en glúteo?",
+      "opcion a": "Cuadrante inferior interno",
+      "opcion b": "Cuadrante superior externo",
+      "opcion c": "Cuadrante superior interno",
+      "opcion d": "Cuadrante inferior externo",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 139,
+      "pregunta": "¿Qué tipo de vendaje se utiliza para inmovilizar una fractura?",
+      "opcion a": "Vendaje compresivo",
+      "opcion b": "Vendaje circular",
+      "opcion c": "Férula rígida",
+      "opcion d": "Vendaje en espiga",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 140,
+      "pregunta": "¿Cuál es la posición correcta para realizar RCP?",
+      "opcion a": "Cualquier superficie",
+      "opcion b": "Superficie dura y plana",
+      "opcion c": "Superficie blanda",
+      "opcion d": "Posición semi-sentada",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 141,
+      "pregunta": "¿Qué tipo de aislamiento requiere un paciente con sarampión?",
+      "opcion a": "Aislamiento entérico",
+      "opcion b": "Aislamiento de contacto",
+      "opcion c": "No requiere aislamiento",
+      "opcion d": "Aislamiento aéreo",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 142,
+      "pregunta": "¿Qué caracteriza al dolor neuropático?",
+      "opcion a": "Dolor cólico",
+      "opcion b": "Dolor agudo y localizado",
+      "opcion c": "Dolor quemante y hormigueo",
+      "opcion d": "Dolor sordo",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 143,
+      "pregunta": "¿Cuál es el calibre de aguja recomendado para venopunción en adultos?",
+      "opcion a": "18-20 G",
+      "opcion b": "21-23 G",
+      "opcion c": "25-27 G",
+      "opcion d": "30-32 G",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 144,
+      "pregunta": "¿Cuál es la duración recomendada de lactancia materna exclusiva?",
+      "opcion a": "3 meses",
+      "opcion b": "9 meses",
+      "opcion c": "6 meses",
+      "opcion d": "12 meses",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 145,
+      "pregunta": "¿Cuál es la complicación más grave de la hipertensión no controlada?",
+      "opcion a": "Anemia",
+      "opcion b": "Várices",
+      "opcion c": "Obesidad",
+      "opcion d": "Accidente cerebrovascular",
+      "respuesta_correcta": "opcion d"
+    },
+    {
+      "id": 146,
+      "pregunta": "¿Cuál es la intervención prioritaria en hipertermia mayor a 40°C?",
+      "opcion a": "Abrigar al paciente",
+      "opcion b": "Administrar antibióticos",
+      "opcion c": "Medidas de enfriamiento físico",
+      "opcion d": "Administrar antipiréticos orales",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 147,
+      "pregunta": "¿Qué medida previene la aspiración durante alimentación por sonda nasogástrica?",
+      "opcion a": "Elevación cabecera 30-45°",
+      "opcion b": "Volúmenes grandes",
+      "opcion c": "Administración rápida",
+      "opcion d": "Posición supina",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 148,
+      "pregunta": "¿Qué indica el signo de Homans positivo?",
+      "opcion a": "Meningitis",
+      "opcion b": "Trombosis venosa profunda",
+      "opcion c": "Apendicitis",
+      "opcion d": "Neumonía",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 149,
+      "pregunta": "¿Cuál es el rango normal de hemoglobina en mujeres adultas?",
+      "opcion a": "12-16 g/dl",
+      "opcion b": "18-20 g/dl",
+      "opcion c": "8-10 g/dl",
+      "opcion d": "22-24 g/dl",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 150,
+      "pregunta": "¿Cuál es la complicación más grave de la diabetes no controlada?",
+      "opcion a": "Cetoacidosis diabética",
+      "opcion b": "Visión borrosa temporal",
+      "opcion c": "Hipoglucemia leve",
+      "opcion d": "Aumento de peso",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 151,
+      "pregunta": "¿Cuál es la principal causa de mortalidad materna?",
+      "opcion a": "Náuseas",
+      "opcion b": "Hemorragia",
+      "opcion c": "Anemia leve",
+      "opcion d": "Diabetes gestacional",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 152,
+      "pregunta": "¿Cuál es la principal función del sistema linfático?",
+      "opcion a": "Transporte de oxígeno",
+      "opcion b": "Defensa inmunológica",
+      "opcion c": "Regulación térmica",
+      "opcion d": "Producción de glucosa",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 153,
+      "pregunta": "¿Cuál es el método de elección para diagnóstico de diabetes mellitus?",
+      "opcion a": "Glucemia en ayunas y HbA1c",
+      "opcion b": "Solo síntomas clínicos",
+      "opcion c": "Presión arterial",
+      "opcion d": "Peso corporal",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 154,
+      "pregunta": "¿Cuál es la cantidad mínima de orina que indica oliguria en adultos?",
+      "opcion a": "Menos de 50 ml/hora",
+      "opcion b": "Menos de 30 ml/hora",
+      "opcion c": "Menos de 10 ml/hora",
+      "opcion d": "Menos de 20 ml/hora",
+      "respuesta_correcta": "opcion b"
+    },
+    {
+      "id": 155,
+      "pregunta": "¿Qué caracteriza a una crisis hipertensiva?",
+      "opcion a": "PA > 180/120 mmHg con daño orgánico",
+      "opcion b": "PA normal",
+      "opcion c": "PA < 90/60 mmHg",
+      "opcion d": "PA > 120/80 mmHg",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 156,
+      "pregunta": "¿Qué indica la presencia de estrías gravídicas durante el embarazo?",
+      "opcion a": "Cambio fisiológico normal",
+      "opcion b": "Complicación grave",
+      "opcion c": "Signo de preclampsia",
+      "opcion d": "Necesidad de cesárea",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 157,
+      "pregunta": "¿Cuál es la técnica correcta para la administración de insulina subcutánea?",
+      "opcion a": "Ángulo de 90° con pellizco",
+      "opcion b": "Ángulo de 90° sin pellizco",
+      "opcion c": "Ángulo de 45° con pellizco",
+      "opcion d": "Ángulo de 15° sin pellizco",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 158,
+      "pregunta": "¿Qué indica un índice de masa corporal (IMC) mayor a 30?",
+      "opcion a": "Obesidad",
+      "opcion b": "Bajo peso",
+      "opcion c": "Sobrepeso",
+      "opcion d": "Peso normal",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 159,
+      "pregunta": "¿Cuál es la técnica correcta para medir presión venosa central?",
+      "opcion a": "Catéter venoso central",
+      "opcion b": "Catéter periférico",
+      "opcion c": "Esfigmomanómetro",
+      "opcion d": "Pulsioxímetro",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 160,
+      "pregunta": "¿Cuál es el período de lavado de manos quirúrgico?",
+      "opcion a": "3-5 minutos",
+      "opcion b": "1 minuto",
+      "opcion c": "15 segundos",
+      "opcion d": "10 minutos",
+      "respuesta_correcta": "opcion a"
+    },
+    {
+      "id": 161,
+      "pregunta": "¿Cuál es la frecuencia respiratoria normal en adultos?",
+      "opcion a": "20-30 rpm",
+      "opcion b": "30-40 rpm",
+      "opcion c": "12-20 rpm",
+      "opcion d": "8-12 rpm",
+      "respuesta_correcta": "opcion c"
+    },
+    {
+      "id": 162,
+      "pregunta": "¿Qué parámetro indica el test de APGAR al minuto de nacer?",
+      "opcion a": "Peso del recién nacido",
+      "opcion b": "Madurez pulmonar",
+      "opcion c": "Nivel de glucosa",
+      "opcion d": "Adaptación inmediata a la vida extrauterina",
+      "respuesta_correcta": "opcion d"
     }
   ]
 }
