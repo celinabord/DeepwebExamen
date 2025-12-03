@@ -129,6 +129,110 @@ function actualizarPanelAdmin() {
     document.getElementById('claveActual').textContent = claveAlumno;
     const fechaExp = new Date(fechaExpiracionClave);
     document.getElementById('fechaExpiracion').textContent = fechaExp.toLocaleString('es-AR');
+    
+    // Actualizar estadísticas
+    mostrarEstadisticas();
+}
+
+function mostrarEstadisticas() {
+    const estadisticas = JSON.parse(localStorage.getItem('estadisticasExamenes') || '[]');
+    
+    // Calcular totales
+    const totalExamenes = estadisticas.length;
+    const aprobados = estadisticas.filter(e => e.aprobado).length;
+    const reprobados = totalExamenes - aprobados;
+    const porcentajeAprobacion = totalExamenes > 0 ? Math.round((aprobados / totalExamenes) * 100) : 0;
+    
+    // Actualizar resumen
+    document.getElementById('totalExamenes').textContent = totalExamenes;
+    document.getElementById('totalAprobados').textContent = aprobados;
+    document.getElementById('totalReprobados').textContent = reprobados;
+    document.getElementById('porcentajeAprobacion').textContent = porcentajeAprobacion + '%';
+    
+    // Mostrar lista detallada
+    const listaEstadisticas = document.getElementById('listaEstadisticas');
+    listaEstadisticas.innerHTML = '';
+    
+    if (totalExamenes === 0) {
+        listaEstadisticas.innerHTML = '<p style="text-align: center; color: #999;">No hay exámenes registrados aún.</p>';
+        return;
+    }
+    
+    // Ordenar por fecha más reciente
+    estadisticas.sort((a, b) => new Date(b.fecha) - new Date(a.fecha));
+    
+    estadisticas.forEach((est, index) => {
+        const fecha = new Date(est.fecha);
+        const fechaFormateada = fecha.toLocaleDateString('es-AR') + ' ' + fecha.toLocaleTimeString('es-AR');
+        const tiempoMinutos = Math.floor(est.tiempoUsado / 60);
+        
+        const itemDiv = document.createElement('div');
+        itemDiv.className = `estadistica-item ${est.aprobado ? 'aprobado' : 'reprobado'}`;
+        itemDiv.innerHTML = `
+            <div class="estadistica-header">
+                <span class="estadistica-nombre"><i class="fas fa-user"></i> ${est.nombre}</span>
+                <span class="estadistica-estado ${est.aprobado ? 'badge-success' : 'badge-danger'}">
+                    ${est.aprobado ? '✓ Aprobado' : '✗ Reprobado'}
+                </span>
+            </div>
+            <div class="estadistica-detalles">
+                <div class="detalle-item">
+                    <i class="fas fa-stethoscope"></i>
+                    <span>${est.especialidad}</span>
+                </div>
+                <div class="detalle-item">
+                    <i class="fas fa-calendar"></i>
+                    <span>${fechaFormateada}</span>
+                </div>
+                <div class="detalle-item">
+                    <i class="fas fa-chart-pie"></i>
+                    <span>${est.porcentaje}% (${est.correctas}/${est.total})</span>
+                </div>
+                <div class="detalle-item">
+                    <i class="fas fa-clock"></i>
+                    <span>${tiempoMinutos} minutos</span>
+                </div>
+            </div>
+        `;
+        listaEstadisticas.appendChild(itemDiv);
+    });
+}
+
+function limpiarEstadisticas() {
+    if (confirm('¿Está seguro de eliminar TODAS las estadísticas?\n\nEsta acción no se puede deshacer.')) {
+        localStorage.removeItem('estadisticasExamenes');
+        mostrarEstadisticas();
+        alert('Estadísticas eliminadas exitosamente.');
+    }
+}
+
+function exportarEstadisticas() {
+    const estadisticas = JSON.parse(localStorage.getItem('estadisticasExamenes') || '[]');
+    
+    if (estadisticas.length === 0) {
+        alert('No hay estadísticas para exportar.');
+        return;
+    }
+    
+    // Convertir a CSV
+    let csv = 'Nombre,Especialidad,Fecha,Correctas,Incorrectas,Total,Porcentaje,Estado,Tiempo (min)\n';
+    
+    estadisticas.forEach(est => {
+        const fecha = new Date(est.fecha).toLocaleString('es-AR');
+        const tiempoMinutos = Math.floor(est.tiempoUsado / 60);
+        csv += `"${est.nombre}","${est.especialidad}","${fecha}",${est.correctas},${est.incorrectas},${est.total},${est.porcentaje}%,"${est.aprobado ? 'Aprobado' : 'Reprobado'}",${tiempoMinutos}\n`;
+    });
+    
+    // Descargar archivo
+    const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement('a');
+    const url = URL.createObjectURL(blob);
+    link.setAttribute('href', url);
+    link.setAttribute('download', `estadisticas_examenes_${new Date().toISOString().split('T')[0]}.csv`);
+    link.style.visibility = 'hidden';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
 }
 
 function mostrarLoginAlumno() {
@@ -550,8 +654,33 @@ function finalizarExamen() {
     });
     
     const porcentaje = Math.round((correctas / preguntasExamen.length) * 100);
+    const aprobado = porcentaje >= 60; // 60% para aprobar
+    
+    // Guardar estadísticas
+    guardarEstadistica({
+        nombre: nombreAlumno,
+        especialidad: especialidadSeleccionada,
+        fecha: new Date().toISOString(),
+        correctas: correctas,
+        incorrectas: incorrectas,
+        total: preguntasExamen.length,
+        porcentaje: porcentaje,
+        aprobado: aprobado,
+        tiempoUsado: (240 * 60) - tiempoRestante
+    });
     
     mostrarResultados(correctas, incorrectas, porcentaje);
+}
+
+function guardarEstadistica(dato) {
+    // Obtener estadísticas existentes
+    let estadisticas = JSON.parse(localStorage.getItem('estadisticasExamenes') || '[]');
+    
+    // Agregar nueva estadística
+    estadisticas.push(dato);
+    
+    // Guardar en localStorage
+    localStorage.setItem('estadisticasExamenes', JSON.stringify(estadisticas));
 }
 
 function mostrarResultados(correctas, incorrectas, porcentaje) {
