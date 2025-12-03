@@ -6,7 +6,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué recomendaría realizar en un paciente que presenta una glucemia plasmática en ayunas (GPA) de 119 mg/dl?",
     "opciones": {
-      "opcion a": "Una segunda prueba para detección DM2: nueva glucemia y POTG 75. Incorrectas inventadas:",
+      "opcion a": "Una segunda prueba para detección DM2: nueva glucemia y POTG 75.",
       "opcion b": "Repetir glucemia capilar postprandial en 24 horas.",
       "opcion c": "Indicar ayuno prolongado y controlar glucemia en 12 horas.",
       "opcion d": "Solicitar únicamente perfil lipídico de control."
@@ -20,7 +20,7 @@
     "caso_clínico": "",
     "pregunta": "Según el examen, ¿qué acción se debe realizar frente a sospecha diagnóstica de trastorno glucémico en fase inicial?",
     "opciones": {
-      "opcion c": "Solicito Hemoglobina glicosilada. Incorrectas inventadas:",
+      "opcion c": "Solicito Hemoglobina glicosilada.",
       "opcion a": "Suspender la alimentación por 48 horas.",
       "opcion b": "Iniciar tratamiento con insulina basal.",
       "opcion d": "Indicar glucemia capilar cada 2 horas durante un día."
@@ -32,9 +32,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es la conducta recomendada ante valores límite de glucemia en ayunas?",
     "opciones": {
-      "opcion b": "Cito en 3 meses para repetir laboratorios. Incorrectas inventadas:",
+      "opcion b": "Cito en 3 meses para repetir laboratorios.",
       "opcion a": "Indicar dieta líquida por 7 días.",
       "opcion c": "Iniciar actividad física intensa inmediata.",
       "opcion d": "Solicitar radiografía de abdomen."
@@ -48,7 +48,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué etapa del cambio de conducta se caracteriza por reconocer la necesidad de modificar hábitos pero sin iniciar acción?",
     "opciones": {
-      "opcion a": "Etapa contemplativa. Incorrectas inventadas:",
+      "opcion a": "Etapa contemplativa.",
       "opcion b": "Etapa transformativa.",
       "opcion c": "Etapa resolutiva.",
       "opcion d": "Etapa formativa."
@@ -62,7 +62,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué etapa implica que el paciente ya toma medidas activas para modificar su conducta?",
     "opciones": {
-      "opcion b": "Etapa de acción. Incorrectas inventadas:",
+      "opcion b": "Etapa de acción.",
       "opcion a": "Etapa decisiva.",
       "opcion c": "Etapa de intención avanzada.",
       "opcion d": "Etapa de respuesta."
@@ -74,9 +74,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es la etapa previa a la decisión consciente de cambio?",
     "opciones": {
-      "opcion d": "Etapa precontemplativa. Incorrectas inventadas:",
+      "opcion d": "Etapa precontemplativa.",
       "opcion a": "Etapa neutra.",
       "opcion b": "Etapa exploratoria.",
       "opcion c": "Etapa reactiva."
@@ -90,7 +90,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué estudio es el indicado ante masa ovárica heterogénea con doppler positivo?",
     "opciones": {
-      "opcion d": "Marcadores tumorales. Incorrectas inventadas:",
+      "opcion d": "Marcadores tumorales.",
       "opcion a": "Urocultivo seriado.",
       "opcion b": "TAC de cráneo.",
       "opcion c": "Test ergométrico."
@@ -102,9 +102,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es la complicación más probable tras tiroidectomía total con signos de Chvostek y Trousseau positivos?",
     "opciones": {
-      "opcion a": "Hipocalcemia. Incorrectas inventadas:",
+      "opcion a": "Hipocalcemia.",
       "opcion b": "Hematoma retroperitoneal.",
       "opcion c": "Hipoglucemia severa.",
       "opcion d": "Lesión del nervio frénico."
@@ -118,7 +118,7 @@
     "caso_clínico": "",
     "pregunta": "Ante nódulo tiroideo hipoecoico de 18 mm con TSH y T4 normales, ¿cuál es la conducta recomendada?",
     "opciones": {
-      "opcion a": "Punción aspirativa con aguja fina. Incorrectas inventadas:",
+      "opcion a": "Punción aspirativa con aguja fina.",
       "opcion b": "Iniciar levotiroxina empírica.",
       "opcion c": "Ciclo de antibióticos por 7 días.",
       "opcion d": "Controlar únicamente dentro de 2 años."
@@ -132,7 +132,7 @@
     "caso_clínico": "",
     "pregunta": "Niña de 10 años con soplo sistólico eyectivo en foco aórtico que se atenúa al sentarse. Sospecha:",
     "opciones": {
-      "opcion d": "Soplo funcional. Incorrectas inventadas:",
+      "opcion d": "Soplo funcional.",
       "opcion a": "Miocardiopatía restrictiva.",
       "opcion b": "Coartación aórtica severa.",
       "opcion c": "Tetralogía de Fallot."
@@ -146,7 +146,7 @@
     "caso_clínico": "",
     "pregunta": "Según el PNUD, ¿qué horarios deben cubrir los servicios de guardia para violencia de género?",
     "opciones": {
-      "opcion c": "Nocturnos, fines de semana y feriados. Incorrectas inventadas:",
+      "opcion c": "Nocturnos, fines de semana y feriados.",
       "opcion a": "Solo turnos matutinos.",
       "opcion b": "Horario administrativo.",
       "opcion d": "Solo días hábiles."
@@ -160,7 +160,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué metas corresponden al enfoque cuantitativo según Hernández Sampieri?",
     "opciones": {
-      "opcion b": "Describir, explicar, comprobar y predecir los fenómenos. Incorrectas inventadas:",
+      "opcion b": "Describir, explicar, comprobar y predecir los fenómenos.",
       "opcion a": "Ordenar, clasificar y corregir procesos.",
       "opcion c": "Evaluar, sintetizar y proyectar resultados.",
       "opcion d": "Observar, interpretar y consensuar."
@@ -174,7 +174,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué tipo de métodos de recolección utiliza la aproximación cualitativa?",
     "opciones": {
-      "opcion b": "No estandarizados. Incorrectas inventadas:",
+      "opcion b": "No estandarizados.",
       "opcion a": "Uniformes.",
       "opcion c": "De laboratorio puro.",
       "opcion d": "Paramétricos obligatorios."
@@ -188,7 +188,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué sonido respiratorio se asocia a bronquitis, enfisema o asma?",
     "opciones": {
-      "opcion c": "Sibilancias. Incorrectas inventadas:",
+      "opcion c": "Sibilancias.",
       "opcion a": "Soplo cavernoso.",
       "opcion b": "Estridor inspiratorio puro.",
       "opcion d": "Murmullo vesicular aumentado."
@@ -200,9 +200,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuáles son los procesos de la farmacocinética?",
     "opciones": {
-      "opcion b": "La absorción, distribución, metabolización y excreción. Incorrectas inventadas:",
+      "opcion b": "La absorción, distribución, metabolización y excreción.",
       "opcion a": "Dilución, fijación, expansión y filtrado.",
       "opcion c": "Oxigenación, difusión, circulación y expulsión.",
       "opcion d": "Neutralización, acople, degradación y reciclado."
@@ -216,7 +216,7 @@
     "caso_clínico": "",
     "pregunta": "¿A qué edad se aplica el primer refuerzo de IPV según calendario 2024?",
     "opciones": {
-      "opcion b": "18 meses. Incorrectas inventadas:",
+      "opcion b": "18 meses.",
       "opcion a": "A los 9 meses.",
       "opcion c": "A los 4 años.",
       "opcion d": "Al ingreso escolar."
@@ -230,7 +230,7 @@
     "caso_clínico": "",
     "pregunta": "Según modelo asistencial, ¿a dónde debe acudir una persona gestante para controles?",
     "opciones": {
-      "opcion a": "1° nivel de atención. Incorrectas inventadas:",
+      "opcion a": "1° nivel de atención.",
       "opcion b": "Solo hospitales de alta complejidad.",
       "opcion c": "Centro quirúrgico programado.",
       "opcion d": "Servicios privados obligatorios."
@@ -244,7 +244,7 @@
     "caso_clínico": "",
     "pregunta": "De acuerdo con Fayol, ¿qué se busca al gestionar por procesos?",
     "opciones": {
-      "opcion c": "Objetivos. Incorrectas inventadas:",
+      "opcion c": "Objetivos.",
       "opcion a": "Redes.",
       "opcion b": "Actores.",
       "opcion d": "Recursos humanos."
@@ -256,9 +256,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cómo se inicia la maniobra de Heimlich en mayores de 1 año?",
     "opciones": {
-      "opcion d": "Abrace al paciente por la cintura, desde atrás. Incorrectas inventadas:",
+      "opcion d": "Abrace al paciente por la cintura, desde atrás.",
       "opcion a": "Colocar ambas manos sobre el esternón.",
       "opcion b": "Presionar el abdomen en sentido lateral.",
       "opcion c": "Realizar compresiones torácicas rápidas."
@@ -270,9 +270,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cómo se denomina la primera etapa de coordinación sensorial en CoPaP?",
     "opciones": {
-      "opcion d": "Familiarización. Incorrectas inventadas:",
+      "opcion d": "Familiarización.",
       "opcion a": "Integración precoz.",
       "opcion b": "Alineación sensorial.",
       "opcion c": "Preparación neonatal."
@@ -284,9 +284,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es la acción recomendada para confirmar infección tuberculosa latente con PPD positivo?",
     "opciones": {
-      "opcion d": "Indicar radiografía de tórax. Incorrectas inventadas:",
+      "opcion d": "Indicar radiografía de tórax.",
       "opcion a": "Solicitar electrocardiograma.",
       "opcion b": "Indicar prueba de esfuerzo.",
       "opcion c": "Administrar profilaxis antibiótica inmediata."
@@ -300,7 +300,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué estudio indica el inicio de tratamiento en un paciente con síntomas respiratorios y hallazgos compatibles con neumonía adquirida en la comunidad?",
     "opciones": {
-      "opcion b": "Radiografía de tórax. Incorrectas inventadas:",
+      "opcion b": "Radiografía de tórax.",
       "opcion a": "TAC de abdomen.",
       "opcion c": "Ecografía hepática.",
       "opcion d": "Prueba de tuberculina de urgencia."
@@ -314,7 +314,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué variable se considera al evaluar riesgo cardiovascular global en adultos?",
     "opciones": {
-      "opcion a": "Edad y tensión arterial. Incorrectas inventadas:",
+      "opcion a": "Edad y tensión arterial.",
       "opcion b": "Color de piel y tipo de dieta.",
       "opcion c": "Estado civil y ocupación.",
       "opcion d": "Nivel educativo y actividad recreativa."
@@ -328,7 +328,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué mecanismo fisiológico permite el intercambio gaseoso a nivel pulmonar?",
     "opciones": {
-      "opcion c": "Difusión. Incorrectas inventadas:",
+      "opcion c": "Difusión.",
       "opcion a": "Digestión.",
       "opcion b": "Filtración por gradiente osmótico.",
       "opcion d": "Impregnación celular."
@@ -340,9 +340,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es el primer paso para realizar una correcta auscultación respiratoria?",
     "opciones": {
-      "opcion d": "Indicar al paciente que respire profundo por la boca. Incorrectas inventadas:",
+      "opcion d": "Indicar al paciente que respire profundo por la boca.",
       "opcion a": "Pedir inspiración nasal forzada.",
       "opcion b": "Solicitar cierre de glotis por 10 segundos.",
       "opcion c": "Indicar respiración abdominal exclusivamente."
@@ -356,7 +356,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué estudio se utiliza para valorar compromiso cardíaco estructural?",
     "opciones": {
-      "opcion a": "Ecocardiograma. Incorrectas inventadas:",
+      "opcion a": "Ecocardiograma.",
       "opcion b": "Radiografía de cráneo.",
       "opcion c": "Electromiografía.",
       "opcion d": "TAC de miembros inferiores."
@@ -370,7 +370,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué tratamiento inicial debe indicarse en sospecha de accidente cerebrovascular agudo?",
     "opciones": {
-      "opcion b": "Solicitar TAC de cerebro sin contraste. Incorrectas inventadas:",
+      "opcion b": "Solicitar TAC de cerebro sin contraste.",
       "opcion a": "Iniciar anticoagulación inmediata sin estudios.",
       "opcion c": "Solicitar radiografía de columna cervical.",
       "opcion d": "Administrar antiinflamatorios orales."
@@ -382,9 +382,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es la única contraindicación aplicable a todas las vacunas del Programa Nacional?",
     "opciones": {
-      "opcion d": "Historial de reacción alérgica grave. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion d": "Historial de reacción alérgica grave. examen-unico-2024-bioquimica-en…",
       "opcion a": "Resfrío leve.",
       "opcion b": "Fiebre menor a 37.6°C.",
       "opcion c": "Menstruación activa."
@@ -396,9 +396,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es la suplementación prenatal diaria recomendada para gestantes de bajo riesgo?",
     "opciones": {
-      "opcion b": "Ácido fólico y hierro. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion b": "Ácido fólico y hierro. examen-unico-2024-bioquimica-en…",
       "opcion a": "Magnesio y potasio.",
       "opcion c": "Vitamina K y Omega 3.",
       "opcion d": "Calcio y vitamina D únicamente."
@@ -412,7 +412,7 @@
     "caso_clínico": "",
     "pregunta": "¿A qué derecho refiere la Ley 26.529 cuando exige reserva de la información clínica?",
     "opciones": {
-      "opcion d": "Confidencialidad. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion d": "Confidencialidad. examen-unico-2024-bioquimica-en…",
       "opcion a": "Autonomía laboral.",
       "opcion b": "Derecho ambiental.",
       "opcion c": "Derecho a la propiedad."
@@ -426,7 +426,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué recomendaciones corresponden a diarrea sin deshidratación?",
     "opciones": {
-      "opcion a": "Continuar en domicilio, dar líquidos y alimentación, explicar signos de alarma y control en 24 h. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion a": "Continuar en domicilio, dar líquidos y alimentación, explicar signos de alarma y control en 24 h. examen-unico-2024-bioquimica-en…",
       "opcion b": "Suspender la alimentación por 48 h.",
       "opcion c": "Iniciar antibióticos inmediatamente.",
       "opcion d": "Internación obligatoria."
@@ -438,9 +438,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cómo se define volumen corriente (VC)?",
     "opciones": {
-      "opcion d": "Es la cantidad de aire ~500 ml que entra y sale de los pulmones. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion d": "Es la cantidad de aire ~500 ml que entra y sale de los pulmones. examen-unico-2024-bioquimica-en…",
       "opcion a": "Volumen residual de 3000 ml.",
       "opcion b": "Volumen espiratorio forzado máximo.",
       "opcion c": "Capacidad inspiratoria total."
@@ -452,9 +452,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuáles son los componentes contemporáneos para la Enfermería con visión a futuro?",
     "opciones": {
-      "opcion d": "Derechos humanos y diversidades, humanización de cuidados, cuidados progresivos y TIC. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion d": "Derechos humanos y diversidades, humanización de cuidados, cuidados progresivos y TIC. examen-unico-2024-bioquimica-en…",
       "opcion a": "Solamente cuidados materno-infantiles.",
       "opcion b": "Protocolos quirúrgicos avanzados.",
       "opcion c": "Exclusivamente historia clínica digital."
@@ -466,9 +466,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Mujer de 55 años con IM",
+    "pregunta": "Mujer de 55 años con IMC 34 y glucemia en ayunas 240 mg%. ¿Qué tratamiento realizaría?",
     "opciones": {
-      "opcion a": "Metformina + dieta + actividad física. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion a": "Metformina + dieta + actividad física. examen-unico-2024-bioquimica-en…",
       "opcion b": "Metformina + corticoides.",
       "opcion c": "Solo dieta sin medicación.",
       "opcion d": "Insulina rápida cada 4 horas."
@@ -480,9 +480,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Niño con NA",
+    "pregunta": "Niño con NAC tratado hace 36 h con amoxicilina sin cambios clínicos. ¿Conducta adecuada?",
     "opciones": {
-      "opcion a": "Internar para antibiótico EV. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion a": "Internar para antibiótico EV. examen-unico-2024-bioquimica-en…",
       "opcion b": "Duplicar la dosis oral y continuar en domicilio.",
       "opcion c": "Suspender antibiótico y observar.",
       "opcion d": "Indicar corticoides por 3 días."
@@ -496,7 +496,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué tipo de soplo se sospecha ante soplo sistólico áspero en 2° EID y disnea?",
     "opciones": {
-      "opcion c": "Estenosis aórtica. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion c": "Estenosis aórtica. examen-unico-2024-bioquimica-en…",
       "opcion a": "Comunicación interauricular.",
       "opcion b": "Prolapso mitral.",
       "opcion d": "Insuficiencia tricuspídea."
@@ -510,7 +510,7 @@
     "caso_clínico": "",
     "pregunta": "Paciente embarazada con HIV y carga viral >1000 copias. Vía de finalización recomendada:",
     "opciones": {
-      "opcion b": "Cesárea electiva + AZT intraparto. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion b": "Cesárea electiva + AZT intraparto. examen-unico-2024-bioquimica-en…",
       "opcion a": "Parto vaginal obligatorio.",
       "opcion c": "Cesárea sin profilaxis.",
       "opcion d": "Parto vaginal + antibióticos."
@@ -524,7 +524,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué fármacos se recomiendan para hipertensión en el embarazo en tratamiento ambulatorio?",
     "opciones": {
-      "opcion a": "Alfametildopa, Labetalol, Nifedipina. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion a": "Alfametildopa, Labetalol, Nifedipina. examen-unico-2024-bioquimica-en…",
       "opcion b": "Enalapril y carvedilol.",
       "opcion c": "Propranolol y espironolactona.",
       "opcion d": "Hidroclorotiazida sola."
@@ -536,9 +536,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es el tratamiento de elección para formas no graves de infección por Clostridium difficile?",
     "opciones": {
-      "opcion b": "Vancomicina 125 mg cada 6 h VO. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion b": "Vancomicina 125 mg cada 6 h VO. examen-unico-2024-bioquimica-en…",
       "opcion a": "Ciprofloxacina oral.",
       "opcion c": "Amoxicilina 500 mg cada 8 h.",
       "opcion d": "Ibuprofeno + hidratación."
@@ -550,9 +550,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Niña de 2 años con ITU (primer episodio) y ecografía normal. ¿",
+    "pregunta": "Niña de 2 años con ITU (primer episodio) y ecografía normal. ¿Conducta adecuada?",
     "opciones": {
-      "opcion c": "Dar pautas de alarma y no solicitar otro estudio. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion c": "Dar pautas de alarma y no solicitar otro estudio. examen-unico-2024-bioquimica-en…",
       "opcion a": "Iniciar profilaxis antibiótica diaria.",
       "opcion b": "Realizar cistouretrografía inmediata.",
       "opcion d": "Solicitar hemocultivo urgente."
@@ -566,7 +566,7 @@
     "caso_clínico": "",
     "pregunta": "Paciente masculino de 78 años con disnea, angina y soplo sistólico áspero en 2° EID. Sospecha:",
     "opciones": {
-      "opcion c": "Estenosis aórtica. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion c": "Estenosis aórtica. examen-unico-2024-bioquimica-en…",
       "opcion a": "Insuficiencia mitral leve.",
       "opcion b": "Miocarditis viral.",
       "opcion d": "Comunicación interventricular."
@@ -580,7 +580,7 @@
     "caso_clínico": "",
     "pregunta": "En paciente embarazada con VIH y carga viral >1000 copias, vía recomendada de finalización:",
     "opciones": {
-      "opcion b": "Cesárea electiva + profilaxis con AZT intraparto. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion b": "Cesárea electiva + profilaxis con AZT intraparto. examen-unico-2024-bioquimica-en…",
       "opcion a": "Parto vaginal sin medicación.",
       "opcion c": "Cesárea sin profilaxis.",
       "opcion d": "Parto vaginal + antibiótico EV."
@@ -592,9 +592,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es la causa más frecuente de púrpura en niños con clínica cutánea y dolor abdominal?",
     "opciones": {
-      "opcion b": "Púrpura de Schönlein-Henoch. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion b": "Púrpura de Schönlein-Henoch. examen-unico-2024-bioquimica-en…",
       "opcion a": "Eritema multiforme.",
       "opcion c": "Dermatitis alérgica.",
       "opcion d": "Trombocitopenia inducida por fármacos."
@@ -608,7 +608,7 @@
     "caso_clínico": "",
     "pregunta": "Fármacos recomendados para hipertensión en el embarazo por vía oral ambulatoria:",
     "opciones": {
-      "opcion a": "Alfametildopa, Labetalol, Nifedipina. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion a": "Alfametildopa, Labetalol, Nifedipina. examen-unico-2024-bioquimica-en…",
       "opcion b": "Losartán y espironolactona.",
       "opcion c": "Enalapril y carvedilol.",
       "opcion d": "Propranolol y amlodipina."
@@ -620,9 +620,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Tratamiento de elección en formas NO graves de infección por",
+    "pregunta": "Tratamiento de elección en formas NO graves de infección por Clostridium difficile:",
     "opciones": {
-      "opcion b": "Vancomicina 125 mg cada 6 h VO. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion b": "Vancomicina 125 mg cada 6 h VO. examen-unico-2024-bioquimica-en…",
       "opcion a": "Amoxicilina 500 mg.",
       "opcion c": "Metronidazol 250 mg cada 12 h.",
       "opcion d": "Ciprofloxacina 500 mg cada 8 h."
@@ -634,9 +634,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Niña de 2 años con primer episodio de ITU, urocultivo positivo y ecografía renal normal.",
+    "pregunta": "Niña de 2 años con primer episodio de ITU, urocultivo positivo y ecografía renal normal. Conducta:",
     "opciones": {
-      "opcion c": "Dar pautas de alarma y no solicitar otro estudio. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion c": "Dar pautas de alarma y no solicitar otro estudio. examen-unico-2024-bioquimica-en…",
       "opcion a": "Comenzar profilaxis antibiótica por 3 meses.",
       "opcion b": "Indicar ecografía vesical con contraste.",
       "opcion d": "Internar para hidratación EV."
@@ -650,7 +650,7 @@
     "caso_clínico": "",
     "pregunta": "Paciente 78 años con disnea progresiva, TA 110/80, soplo sistólico áspero y crépitos basales:",
     "opciones": {
-      "opcion c": "Estenosis aórtica. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion c": "Estenosis aórtica. examen-unico-2024-bioquimica-en…",
       "opcion a": "Insuficiencia tricuspídea.",
       "opcion b": "Insuficiencia mitral severa.",
       "opcion d": "Taponamiento cardíaco."
@@ -662,9 +662,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Embarazada con HIV y",
+    "pregunta": "Embarazada con HIV y CV >1000 copias. Vía recomendada de parto:",
     "opciones": {
-      "opcion b": "Cesárea electiva + AZT intraparto. (repetido por diseño del examen) examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion b": "Cesárea electiva + AZT intraparto. (repetido por diseño del examen) examen-unico-2024-bioquimica-en…",
       "opcion a": "Parto vaginal con monitoreo estricto.",
       "opcion c": "Cesárea sin tratamiento antiviral.",
       "opcion d": "Parto vaginal con antibióticos."
@@ -678,7 +678,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué estudio solicita para evaluar sospecha de pielonefritis con urocultivo pendiente?",
     "opciones": {
-      "opcion c": "Urocultivo + evaluar tolerancia oral + iniciar ciprofloxacina VO. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion c": "Urocultivo + evaluar tolerancia oral + iniciar ciprofloxacina VO. examen-unico-2024-bioquimica-en…",
       "opcion a": "Radiografía simple de abdomen.",
       "opcion b": "Hemocultivo solamente.",
       "opcion d": "TAC contrastada como primer estudio."
@@ -692,7 +692,7 @@
     "caso_clínico": "",
     "pregunta": "Conducta recomendada en pielonefritis con fiebre, náuseas y leucocituria intensa:",
     "opciones": {
-      "opcion d": "Solicita urocultivo y deriva para internación urgente. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion d": "Solicita urocultivo y deriva para internación urgente. examen-unico-2024-bioquimica-en…",
       "opcion a": "Administrar analgésicos y dar alta.",
       "opcion b": "Indicar hidratación oral exclusivamente.",
       "opcion c": "Citar en 48 horas para control."
@@ -706,7 +706,7 @@
     "caso_clínico": "",
     "pregunta": "Juan, 38 años, fumador: sabe que debe dejar pero no está listo. Etapa del cambio:",
     "opciones": {
-      "opcion a": "Etapa contemplativa. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion a": "Etapa contemplativa. examen-unico-2024-bioquimica-en…",
       "opcion b": "Etapa de acción.",
       "opcion c": "Etapa de mantenimiento.",
       "opcion d": "Etapa preoperacional."
@@ -720,7 +720,7 @@
     "caso_clínico": "",
     "pregunta": "¿En qué fase del dengue ocurren las complicaciones graves?",
     "opciones": {
-      "opcion d": "Fase de defervescencia febril. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion d": "Fase de defervescencia febril. examen-unico-2024-bioquimica-en…",
       "opcion a": "Fase de incubación.",
       "opcion b": "Fase de recuperación.",
       "opcion c": "Fase inicial prodrómica."
@@ -732,9 +732,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Lactante con diarrea sin moco ni sangre, mucosas húmedas, buen estado general.",
+    "pregunta": "Lactante con diarrea sin moco ni sangre, mucosas húmedas, buen estado general. Conducta:",
     "opciones": {
-      "opcion b": "Sales de rehidratación oral luego de cada deposición. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion b": "Sales de rehidratación oral luego de cada deposición. examen-unico-2024-bioquimica-en…",
       "opcion a": "Suspender alimentación sólida.",
       "opcion c": "Indicar antibiótico por 3 días.",
       "opcion d": "Iniciar hidratación EV urgente."
@@ -748,7 +748,7 @@
     "caso_clínico": "",
     "pregunta": "Causa más frecuente de hemorragia posparto:",
     "opciones": {
-      "opcion c": "Anomalías de la contractilidad uterina. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion c": "Anomalías de la contractilidad uterina. examen-unico-2024-bioquimica-en…",
       "opcion a": "Traumatismos del cordón umbilical.",
       "opcion b": "Ruptura cervical primaria.",
       "opcion d": "Hipertensión gestacional severa."
@@ -762,7 +762,7 @@
     "caso_clínico": "",
     "pregunta": "Paciente con glucemia en ayunas 240 mg%. Tratamiento inicial:",
     "opciones": {
-      "opcion a": "Metformina + dieta + actividad física. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion a": "Metformina + dieta + actividad física. examen-unico-2024-bioquimica-en…",
       "opcion b": "Solo actividad física.",
       "opcion c": "Insulina rápida sin indicación.",
       "opcion d": "Glibenclamida como monoterapia."
@@ -774,9 +774,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Niño con NA",
+    "pregunta": "Niño con NAC tratado correctamente 36 h sin mejoría. Conducta:",
     "opciones": {
-      "opcion a": "Internación para antibiótico EV. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+      "opcion a": "Internación para antibiótico EV. examen-unico-2024-bioquimica-en…",
       "opcion b": "Citar en 7 días sin cambios.",
       "opcion c": "Rotar a claritromicina VO.",
       "opcion d": "Indicar broncodilatadores solos."
@@ -790,7 +790,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué define la etapa de acción en el modelo de Prochaska?",
     "opciones": {
-      "opcion b": "El paciente ya inició cambios efectivos. Incorrectas inventadas:",
+      "opcion b": "El paciente ya inició cambios efectivos.",
       "opcion a": "El paciente solo reflexiona sobre el cambio.",
       "opcion c": "El paciente regresa a hábitos previos.",
       "opcion d": "El paciente no reconoce el problema."
@@ -804,7 +804,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué sonido respiratorio indica broncoespasmo?",
     "opciones": {
-      "opcion c": "Sibilancias. Incorrectas inventadas:",
+      "opcion c": "Sibilancias.",
       "opcion a": "Estertores húmedos gruesos.",
       "opcion b": "Roce pleural.",
       "opcion d": "Murmullo aumentado."
@@ -818,7 +818,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué procesos comprende la farmacocinética?",
     "opciones": {
-      "opcion b": "Absorción, distribución, metabolismo y excreción. Incorrectas inventadas:",
+      "opcion b": "Absorción, distribución, metabolismo y excreción.",
       "opcion a": "Oxigenación, difusión y transporte.",
       "opcion c": "Dilución, filtración y captación.",
       "opcion d": "Eliminación exclusiva por riñón."
@@ -832,7 +832,7 @@
     "caso_clínico": "",
     "pregunta": "¿A qué edad se aplica el primer refuerzo IPV?",
     "opciones": {
-      "opcion b": "18 meses. Incorrectas inventadas:",
+      "opcion b": "18 meses.",
       "opcion a": "9 meses.",
       "opcion c": "4 años.",
       "opcion d": "11 años."
@@ -846,7 +846,7 @@
     "caso_clínico": "",
     "pregunta": "Según modelo asistencial, ¿a qué nivel debe asistir una persona gestante para controles prenatales?",
     "opciones": {
-      "opcion a": "1º nivel de atención. Incorrectas inventadas:",
+      "opcion a": "1º nivel de atención.",
       "opcion b": "Únicamente a un hospital de alta complejidad.",
       "opcion c": "Solo al servicio de emergencias.",
       "opcion d": "Consultorio privado exclusivo."
@@ -860,7 +860,7 @@
     "caso_clínico": "",
     "pregunta": "Según Fayol, la gestión por procesos se orienta a:",
     "opciones": {
-      "opcion c": "Objetivos. Incorrectas inventadas:",
+      "opcion c": "Objetivos.",
       "opcion a": "Estructuras.",
       "opcion b": "Puestos de trabajo.",
       "opcion d": "Recursos financieros."
@@ -872,9 +872,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cómo se inicia la maniobra de Heimlich en mayores de 1 año?",
     "opciones": {
-      "opcion d": "Abrace al paciente por la cintura desde atrás. Incorrectas inventadas:",
+      "opcion d": "Abrace al paciente por la cintura desde atrás.",
       "opcion a": "Coloque manos en el esternón.",
       "opcion b": "Empuje el abdomen hacia los costados.",
       "opcion c": "Aplique golpes torácicos laterales."
@@ -886,9 +886,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cómo se denomina la primera etapa de coordinación sensorial en el CoPaP?",
     "opciones": {
-      "opcion d": "Familiarización. Incorrectas inventadas:",
+      "opcion d": "Familiarización.",
       "opcion a": "Sincronización inicial.",
       "opcion b": "Ajuste primario.",
       "opcion c": "Integración preparatoria."
@@ -900,9 +900,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿Qué estudio se debe solicitar en sospecha de TB",
+    "pregunta": "¿Qué estudio se debe solicitar en sospecha de TBC pulmonar tras PPD positiva?",
     "opciones": {
-      "opcion d": "Radiografía de tórax. Incorrectas inventadas:",
+      "opcion d": "Radiografía de tórax.",
       "opcion a": "Ecografía abdominal.",
       "opcion b": "TAC de cráneo.",
       "opcion c": "Electrocardiograma de reposo."
@@ -916,7 +916,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué estudio confirma el diagnóstico de neumonía adquirida en la comunidad?",
     "opciones": {
-      "opcion b": "Radiografía de tórax. Incorrectas inventadas:",
+      "opcion b": "Radiografía de tórax.",
       "opcion a": "Espirometría basal.",
       "opcion c": "Ecografía de partes blandas.",
       "opcion d": "TAC de pelvis."
@@ -930,7 +930,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué factor se considera clave para evaluar riesgo cardiovascular?",
     "opciones": {
-      "opcion a": "Edad y tensión arterial. Incorrectas inventadas:",
+      "opcion a": "Edad y tensión arterial.",
       "opcion b": "Estado civil y ocupación.",
       "opcion c": "Frecuencia de actividad recreativa.",
       "opcion d": "Tipo de alimentación materna en infancia."
@@ -944,7 +944,7 @@
     "caso_clínico": "",
     "pregunta": "Mecanismo fundamental del intercambio gaseoso pulmonar:",
     "opciones": {
-      "opcion c": "Difusión. Incorrectas inventadas:",
+      "opcion c": "Difusión.",
       "opcion a": "Osmosis pura.",
       "opcion b": "Presurización activa.",
       "opcion d": "Filtración hormonal."
@@ -958,7 +958,7 @@
     "caso_clínico": "",
     "pregunta": "Para realizar auscultación respiratoria, primer paso:",
     "opciones": {
-      "opcion d": "Indicar respiración profunda por la boca. Incorrectas inventadas:",
+      "opcion d": "Indicar respiración profunda por la boca.",
       "opcion a": "Mantener apnea voluntaria.",
       "opcion b": "Solicitar inspiración nasal rápida.",
       "opcion c": "Pedir respiración diafragmática exclusiva."
@@ -972,7 +972,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué estudio evalúa estructura cardíaca?",
     "opciones": {
-      "opcion a": "Ecocardiograma. Incorrectas inventadas:",
+      "opcion a": "Ecocardiograma.",
       "opcion b": "Placa simple de tórax.",
       "opcion c": "TAC cervical.",
       "opcion d": "Ecografía mamaria."
@@ -984,9 +984,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Sospecha de A",
+    "pregunta": "Sospecha de ACV agudo: primer estudio indicado:",
     "opciones": {
-      "opcion b": "TAC de cerebro sin contraste. Incorrectas inventadas:",
+      "opcion b": "TAC de cerebro sin contraste.",
       "opcion a": "RMN con contraste inmediato.",
       "opcion c": "Radiografía cervical.",
       "opcion d": "Electroencefalograma urgente."
@@ -998,9 +998,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuál es la única contraindicación común a TODAS las vacunas del calendario nacional?",
     "opciones": {
-      "opcion d": "Reacción alérgica grave previa. Incorrectas inventadas:",
+      "opcion d": "Reacción alérgica grave previa.",
       "opcion a": "Tos leve.",
       "opcion b": "Catarro sin fiebre.",
       "opcion c": "Dolor abdominal."
@@ -1014,7 +1014,7 @@
     "caso_clínico": "",
     "pregunta": "En embarazo de bajo riesgo, suplementación diaria recomendada:",
     "opciones": {
-      "opcion b": "Ácido fólico + hierro. Incorrectas inventadas:",
+      "opcion b": "Ácido fólico + hierro.",
       "opcion a": "Magnesio + potasio.",
       "opcion c": "Vitamina E + yodo.",
       "opcion d": "Omega 3 solo."
@@ -1028,7 +1028,7 @@
     "caso_clínico": "",
     "pregunta": "Ley 26.529 — El resguardo de la información clínica refiere a:",
     "opciones": {
-      "opcion d": "Confidencialidad. Incorrectas inventadas:",
+      "opcion d": "Confidencialidad.",
       "opcion a": "Derecho comercial.",
       "opcion b": "Protección patrimonial.",
       "opcion c": "Derecho urbanístico."
@@ -1040,9 +1040,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Niño con diarrea sin deshidratación.",
+    "pregunta": "Niño con diarrea sin deshidratación. Conducta adecuada:",
     "opciones": {
-      "opcion a": "Continuar en domicilio + líquidos + alimentación + pautas de alarma + control 24 h. Incorrectas inventadas:",
+      "opcion a": "Continuar en domicilio + líquidos + alimentación + pautas de alarma + control 24 h.",
       "opcion b": "Suspender alimentación sólida.",
       "opcion c": "Iniciar antibiótico.",
       "opcion d": "Hidratar exclusivamente EV."
@@ -1056,7 +1056,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué es el volumen corriente?",
     "opciones": {
-      "opcion d": "Cantidad de aire (~500 ml) intercambiado en respiración normal. Incorrectas inventadas:",
+      "opcion d": "Cantidad de aire (~500 ml) intercambiado en respiración normal.",
       "opcion a": "Volumen residual total.",
       "opcion b": "Capacidad vital forzada.",
       "opcion c": "Reserva inspiratoria."
@@ -1070,7 +1070,7 @@
     "caso_clínico": "",
     "pregunta": "Componentes futuros de la enfermería contemporánea:",
     "opciones": {
-      "opcion d": "Derechos humanos, diversidades, humanización, cuidados progresivos, TIC. Incorrectas inventadas:",
+      "opcion d": "Derechos humanos, diversidades, humanización, cuidados progresivos, TIC.",
       "opcion a": "Solo digitalización del registro.",
       "opcion b": "Exclusivamente cuidados quirúrgicos.",
       "opcion c": "Prácticas materno-infantiles únicamente."
@@ -1082,9 +1082,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Mujer 55 años, IM",
+    "pregunta": "Mujer 55 años, IMC 34, glucemia 240 mg%. Tratamiento inicial:",
     "opciones": {
-      "opcion a": "Metformina + dieta + actividad física. Incorrectas inventadas:",
+      "opcion a": "Metformina + dieta + actividad física.",
       "opcion b": "Insulina rápida sin monitoreo.",
       "opcion c": "Dieta exclusiva sin medicación.",
       "opcion d": "Antiinflamatorios por 7 días."
@@ -1096,9 +1096,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Niño con NA",
+    "pregunta": "Niño con NAC sin respuesta 36 h a amoxicilina. Conducta:",
     "opciones": {
-      "opcion a": "Internación para antibiótico EV. Incorrectas inventadas:",
+      "opcion a": "Internación para antibiótico EV.",
       "opcion b": "Aumentar dosis oral.",
       "opcion c": "Dar alta con control en una semana.",
       "opcion d": "Añadir solo broncodilatadores."
@@ -1112,7 +1112,7 @@
     "caso_clínico": "",
     "pregunta": "¿En qué fase del dengue se producen las complicaciones graves?",
     "opciones": {
-      "opcion d": "Fase de defervescencia febril. Incorrectas inventadas:",
+      "opcion d": "Fase de defervescencia febril.",
       "opcion a": "Fase de incubación.",
       "opcion b": "Fase de recuperación.",
       "opcion c": "Fase prodrómica."
@@ -1126,7 +1126,7 @@
     "caso_clínico": "",
     "pregunta": "Lactante con diarrea sin moco ni sangre, buen estado general. ¿Qué indicar?",
     "opciones": {
-      "opcion b": "Sales de rehidratación oral luego de cada deposición. Incorrectas inventadas:",
+      "opcion b": "Sales de rehidratación oral luego de cada deposición.",
       "opcion a": "Suspender alimentación por 24 h.",
       "opcion c": "Antibióticos de amplio espectro.",
       "opcion d": "Hidratación EV inmediata."
@@ -1140,7 +1140,7 @@
     "caso_clínico": "",
     "pregunta": "Causa más frecuente de hemorragia posparto:",
     "opciones": {
-      "opcion c": "Anomalías de la contractilidad uterina. Incorrectas inventadas:",
+      "opcion c": "Anomalías de la contractilidad uterina.",
       "opcion a": "Rotura ovárica aguda.",
       "opcion b": "Endometritis temprana.",
       "opcion d": "Desprendimiento precoz de placenta."
@@ -1154,7 +1154,7 @@
     "caso_clínico": "",
     "pregunta": "Etapa de cambio donde el paciente reconoce el problema pero aún no actúa:",
     "opciones": {
-      "opcion a": "Etapa contemplativa. Incorrectas inventadas:",
+      "opcion a": "Etapa contemplativa.",
       "opcion b": "Etapa de acción.",
       "opcion c": "Etapa de recaída.",
       "opcion d": "Etapa de mantenimiento."
@@ -1168,7 +1168,7 @@
     "caso_clínico": "",
     "pregunta": "¿Qué sonido respiratorio indica obstrucción bronquial?",
     "opciones": {
-      "opcion c": "Sibilancias. Incorrectas inventadas:",
+      "opcion c": "Sibilancias.",
       "opcion a": "Estertores húmedos.",
       "opcion b": "Roce pleural.",
       "opcion d": "Murmullo vesicular abolido."
@@ -1182,7 +1182,7 @@
     "caso_clínico": "",
     "pregunta": "Procesos de farmacocinética:",
     "opciones": {
-      "opcion b": "Absorción, distribución, metabolismo y excreción. Incorrectas inventadas:",
+      "opcion b": "Absorción, distribución, metabolismo y excreción.",
       "opcion a": "Oxigenación y difusión.",
       "opcion c": "Transporte hormonal.",
       "opcion d": "Eliminación cutánea exclusiva."
@@ -1194,9 +1194,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "¿",
+    "pregunta": "¿Cuándo se aplica el primer refuerzo de IPV?",
     "opciones": {
-      "opcion b": "18 meses. Incorrectas inventadas:",
+      "opcion b": "18 meses.",
       "opcion a": "6 meses.",
       "opcion c": "4 años.",
       "opcion d": "11 años."
@@ -1210,7 +1210,7 @@
     "caso_clínico": "",
     "pregunta": "Nivel recomendado para control prenatal en personas gestantes:",
     "opciones": {
-      "opcion a": "Primer nivel de atención. Incorrectas inventadas:",
+      "opcion a": "Primer nivel de atención.",
       "opcion b": "Solo hospitales de alta complejidad.",
       "opcion c": "Guardia de emergencias.",
       "opcion d": "Servicios especializados privados."
@@ -1224,7 +1224,7 @@
     "caso_clínico": "",
     "pregunta": "Según Fayol, la gestión por procesos se orienta a:",
     "opciones": {
-      "opcion c": "Objetivos. Incorrectas inventadas:",
+      "opcion c": "Objetivos.",
       "opcion a": "Jerarquías.",
       "opcion b": "Infraestructura.",
       "opcion d": "Recursos materiales."
@@ -1238,7 +1238,7 @@
     "caso_clínico": "",
     "pregunta": "Maniobra de Heimlich en mayores de 1 año, primer paso:",
     "opciones": {
-      "opcion d": "Abrace al paciente por la cintura desde atrás. Incorrectas inventadas:",
+      "opcion d": "Abrace al paciente por la cintura desde atrás.",
       "opcion a": "Compresiones sobre esternón.",
       "opcion b": "Golpes en espalda exclusivamente.",
       "opcion c": "Elevar brazos del paciente."
@@ -1250,9 +1250,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Primera etapa de coordinación sensorial",
+    "pregunta": "Primera etapa de coordinación sensorial CoPaP:",
     "opciones": {
-      "opcion d": "Familiarización. Incorrectas inventadas:",
+      "opcion d": "Familiarización.",
       "opcion a": "Integración inicial.",
       "opcion b": "Ajuste sensorial.",
       "opcion c": "Activación preparatoria."
@@ -1264,9 +1264,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Niña con ITU, ecografía normal, buen estado general.",
+    "pregunta": "Niña con ITU, ecografía normal, buen estado general. Conducta:",
     "opciones": {
-      "opcion c": "Dar pautas de alarma y no solicitar otro estudio. Incorrectas inventadas:",
+      "opcion c": "Dar pautas de alarma y no solicitar otro estudio.",
       "opcion a": "Profilaxis antibiótica 6 meses.",
       "opcion b": "Internación preventiva.",
       "opcion d": "Cistografía miccional inmediata."
@@ -1278,9 +1278,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Tratamiento de elección en",
+    "pregunta": "Tratamiento de elección en C. difficile no grave:",
     "opciones": {
-      "opcion b": "Vancomicina 125 mg cada 6 h VO. Incorrectas inventadas:",
+      "opcion b": "Vancomicina 125 mg cada 6 h VO.",
       "opcion a": "Amoxicilina VO.",
       "opcion c": "Ibuprofeno.",
       "opcion d": "Eritromicina."
@@ -1294,7 +1294,7 @@
     "caso_clínico": "",
     "pregunta": "Hipertensión en embarazo ambulatoria:",
     "opciones": {
-      "opcion a": "Alfametildopa, Labetalol, Nifedipina. Incorrectas inventadas:",
+      "opcion a": "Alfametildopa, Labetalol, Nifedipina.",
       "opcion b": "Enalapril + espironolactona.",
       "opcion c": "Propranolol solo.",
       "opcion d": "Diuréticos tiazídicos exclusivos."
@@ -1306,9 +1306,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Vía de finalización en embarazada con HIV y",
+    "pregunta": "Vía de finalización en embarazada con HIV y CV >1000 copias:",
     "opciones": {
-      "opcion b": "Cesárea electiva + AZT intraparto. Incorrectas inventadas:",
+      "opcion b": "Cesárea electiva + AZT intraparto.",
       "opcion a": "Parto vaginal sin medicación.",
       "opcion c": "Inducción con oxitocina.",
       "opcion d": "Cesárea sin profilaxis."
@@ -1322,7 +1322,7 @@
     "caso_clínico": "",
     "pregunta": "Soplo sistólico áspero en 2° EID, disnea y mareos en adulto mayor:",
     "opciones": {
-      "opcion c": "Estenosis aórtica. Incorrectas inventadas:",
+      "opcion c": "Estenosis aórtica.",
       "opcion a": "Prolapso mitral.",
       "opcion b": "Soplo inocente.",
       "opcion d": "Insuficiencia tricuspídea."
@@ -1336,7 +1336,7 @@
     "caso_clínico": "",
     "pregunta": "Pielonefritis con fiebre, náuseas y puño-percusión positiva:",
     "opciones": {
-      "opcion d": "Solicita urocultivo y deriva para internación urgente. Incorrectas inventadas:",
+      "opcion d": "Solicita urocultivo y deriva para internación urgente.",
       "opcion a": "Dar alta con hidratación oral.",
       "opcion b": "Indicar analgésicos únicamente.",
       "opcion c": "Citar en 48 horas."
@@ -1348,9 +1348,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Hombre con ITU y fiebre.",
+    "pregunta": "Hombre con ITU y fiebre. Conducta inicial:",
     "opciones": {
-      "opcion c": "Solicita urocultivo y evalúa tolerancia oral + CIPROVO. Incorrectas inventadas:",
+      "opcion c": "Solicita urocultivo y evalúa tolerancia oral + CIPROVO.",
       "opcion a": "TAC abdominal inmediata.",
       "opcion b": "Hemocultivos exclusivamente.",
       "opcion d": "No iniciar antibiótico hasta 72 h."
@@ -1362,9 +1362,9 @@
     "tema": "Enfermería 2024",
     "año": 2024,
     "caso_clínico": "",
-    "pregunta": "Niño con NA",
+    "pregunta": "Niño con NAC sin mejoría en 36 h con amoxi VO:",
     "opciones": {
-      "opcion a": "Internación para antibiótico EV. Incorrectas inventadas:",
+      "opcion a": "Internación para antibiótico EV.",
       "opcion b": "Aumentar dosis oral.",
       "opcion c": "Corticoides solos.",
       "opcion d": "Control en una semana."
@@ -1378,7 +1378,7 @@
     "caso_clínico": "",
     "pregunta": "¿En qué etapa del dengue se presentan las complicaciones más graves?",
     "opciones": {
-      "opcion d": "Fase de defervescencia febril. Incorrectas inventadas:",
+      "opcion d": "Fase de defervescencia febril.",
       "opcion a": "Fase de incubación.",
       "opcion b": "Fase de recuperación.",
       "opcion c": "Fase prodrómica."
@@ -1392,7 +1392,7 @@
     "caso_clínico": "",
     "pregunta": "Niña de 10 años con soplo sistólico eyectivo en foco aórtico que disminuye al sentarse:",
     "opciones": {
-      "opcion d": "Soplo funcional. Incorrectas inventadas:",
+      "opcion d": "Soplo funcional.",
       "opcion a": "Estenosis pulmonar.",
       "opcion b": "Miocardiopatía hipertrófica.",
       "opcion c": "Insuficiencia mitral."
