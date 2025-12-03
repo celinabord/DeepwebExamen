@@ -117,12 +117,13 @@
                     
                     <div class="form-group">
                         <label for="selectEspecialidad">Especialidad:</label>
-                        <select id="selectEspecialidad" class="input-field">
+                        <select id="selectEspecialidad" class="input-field" onchange="mostrarSelectorAno()">
                             <option value="">-- Seleccionar --</option>
                             <option value="anestesiologia">Anestesiología</option>
                             <option value="cardiologia">Cardiología</option>
                             <option value="dermatologia">Dermatología</option>
                             <option value="diagnostico_imagenes">Diagnóstico por Imágenes</option>
+                            <option value="enfermeria">Enfermería</option>
                             <option value="hematologia">Hematología</option>
                             <option value="neumonologia">Neumonología</option>
                             <option value="neurologia">Neurología</option>
@@ -133,6 +134,20 @@
                             <option value="tocoginecologia">Tocoginecología</option>
                             <option value="urologia">Urología</option>
                         </select>
+                        
+                        <div id="selectorAnoEnfermeria" style="display: none; margin-top: 15px;">
+                            <label for="selectAnoEnfermeria">Año y Año de Carrera:</label>
+                            <select id="selectAnoEnfermeria" class="input-field">
+                                <option value="">-- Seleccionar --</option>
+                                <option value="2016">2016</option>
+                                <option value="2019">2019</option>
+                                <option value="2021">2021</option>
+                                <option value="1_2024">2024 - Primer Año</option>
+                                <option value="2_2024">2024 - Segundo Año</option>
+                                <option value="3_2024">2024 - Tercer Año</option>
+                                <option value="4_2024">2024 - Cuarto Año</option>
+                            </select>
+                        </div>
                         
                         <div class="info-examen">
                             <p><i class="fas fa-info-circle"></i> <strong>Información del examen:</strong></p>

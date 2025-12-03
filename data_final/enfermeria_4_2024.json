@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Una segunda prueba para detección DM2: nueva glucemia y POTG 75. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Repetir glucemia capilar postprandial en 24 horas.",
+      "opcion c": "Indicar ayuno prolongado y controlar glucemia en 12 horas.",
+      "opcion d": "Solicitar únicamente perfil lipídico de control."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 2,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Solicito Hemoglobina glicosilada. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Suspender la alimentación por 48 horas.",
+      "opcion b": "Iniciar tratamiento con insulina basal.",
+      "opcion c": "",
+      "opcion d": "Indicar glucemia capilar cada 2 horas durante un día."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 3,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Cito en 3 meses para repetir laboratorios. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Indicar dieta líquida por 7 días.",
+      "opcion b": "",
+      "opcion c": "Iniciar actividad física intensa inmediata.",
+      "opcion d": "Solicitar radiografía de abdomen."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 4,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Etapa contemplativa. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Etapa transformativa.",
+      "opcion c": "Etapa resolutiva.",
+      "opcion d": "Etapa formativa."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 5,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Etapa de acción. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Etapa decisiva.",
+      "opcion b": "",
+      "opcion c": "Etapa de intención avanzada.",
+      "opcion d": "Etapa de respuesta."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 6,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Etapa precontemplativa. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Etapa neutra.",
+      "opcion b": "Etapa exploratoria.",
+      "opcion c": "Etapa reactiva.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 7,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Marcadores tumorales. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Urocultivo seriado.",
+      "opcion b": "TAC de cráneo.",
+      "opcion c": "Test ergométrico.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 8,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Hipocalcemia. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Hematoma retroperitoneal.",
+      "opcion c": "Hipoglucemia severa.",
+      "opcion d": "Lesión del nervio frénico."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 9,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Punción aspirativa con aguja fina. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Iniciar levotiroxina empírica.",
+      "opcion c": "Ciclo de antibióticos por 7 días.",
+      "opcion d": "Controlar únicamente dentro de 2 años."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 10,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Soplo funcional. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Miocardiopatía restrictiva.",
+      "opcion b": "Coartación aórtica severa.",
+      "opcion c": "Tetralogía de Fallot.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 11,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Nocturnos, fines de semana y feriados. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Solo turnos matutinos.",
+      "opcion b": "Horario administrativo.",
+      "opcion c": "",
+      "opcion d": "Solo días hábiles."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 12,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Describir, explicar, comprobar y predecir los fenómenos. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Ordenar, clasificar y corregir procesos.",
+      "opcion b": "",
+      "opcion c": "Evaluar, sintetizar y proyectar resultados.",
+      "opcion d": "Observar, interpretar y consensuar."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 13,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) No estandarizados. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Uniformes.",
+      "opcion b": "",
+      "opcion c": "De laboratorio puro.",
+      "opcion d": "Paramétricos obligatorios."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 14,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Sibilancias. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Soplo cavernoso.",
+      "opcion b": "Estridor inspiratorio puro.",
+      "opcion c": "",
+      "opcion d": "Murmullo vesicular aumentado."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 15,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) La absorción, distribución, metabolización y excreción. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Dilución, fijación, expansión y filtrado.",
+      "opcion b": "",
+      "opcion c": "Oxigenación, difusión, circulación y expulsión.",
+      "opcion d": "Neutralización, acople, degradación y reciclado."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 16,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) 18 meses. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "A los 9 meses.",
+      "opcion b": "",
+      "opcion c": "A los 4 años.",
+      "opcion d": "Al ingreso escolar."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 17,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) 1° nivel de atención. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Solo hospitales de alta complejidad.",
+      "opcion c": "Centro quirúrgico programado.",
+      "opcion d": "Servicios privados obligatorios."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 18,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Objetivos. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Redes.",
+      "opcion b": "Actores.",
+      "opcion c": "",
+      "opcion d": "Recursos humanos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 19,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Abrace al paciente por la cintura, desde atrás. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Colocar ambas manos sobre el esternón.",
+      "opcion b": "Presionar el abdomen en sentido lateral.",
+      "opcion c": "Realizar compresiones torácicas rápidas.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 20,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Familiarización. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Integración precoz.",
+      "opcion b": "Alineación sensorial.",
+      "opcion c": "Preparación neonatal.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 21,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Indicar radiografía de tórax. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Solicitar electrocardiograma.",
+      "opcion b": "Indicar prueba de esfuerzo.",
+      "opcion c": "Administrar profilaxis antibiótica inmediata.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 22,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Radiografía de tórax. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "TAC de abdomen.",
+      "opcion b": "",
+      "opcion c": "Ecografía hepática.",
+      "opcion d": "Prueba de tuberculina de urgencia."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 23,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Edad y tensión arterial. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Color de piel y tipo de dieta.",
+      "opcion c": "Estado civil y ocupación.",
+      "opcion d": "Nivel educativo y actividad recreativa."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 24,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Difusión. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Digestión.",
+      "opcion b": "Filtración por gradiente osmótico.",
+      "opcion c": "",
+      "opcion d": "Impregnación celular."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 25,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Indicar al paciente que respire profundo por la boca. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Pedir inspiración nasal forzada.",
+      "opcion b": "Solicitar cierre de glotis por 10 segundos.",
+      "opcion c": "Indicar respiración abdominal exclusivamente.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 26,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Ecocardiograma. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Radiografía de cráneo.",
+      "opcion c": "Electromiografía.",
+      "opcion d": "TAC de miembros inferiores."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 27,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Solicitar TAC de cerebro sin contraste. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Iniciar anticoagulación inmediata sin estudios.",
+      "opcion b": "",
+      "opcion c": "Solicitar radiografía de columna cervical.",
+      "opcion d": "Administrar antiinflamatorios orales."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 28,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Historial de reacción alérgica grave. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Resfrío leve.",
+      "opcion b": "Fiebre menor a 37.6°C.",
+      "opcion c": "Menstruación activa.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 29,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Ácido fólico y hierro. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Magnesio y potasio.",
+      "opcion b": "",
+      "opcion c": "Vitamina K y Omega 3.",
+      "opcion d": "Calcio y vitamina D únicamente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 30,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Confidencialidad. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Autonomía laboral.",
+      "opcion b": "Derecho ambiental.",
+      "opcion c": "Derecho a la propiedad.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 31,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Continuar en domicilio, dar líquidos y alimentación, explicar signos de alarma y control en 24 h. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Suspender la alimentación por 48 h.",
+      "opcion c": "Iniciar antibióticos inmediatamente.",
+      "opcion d": "Internación obligatoria."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 32,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Es la cantidad de aire ~500 ml que entra y sale de los pulmones. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Volumen residual de 3000 ml.",
+      "opcion b": "Volumen espiratorio forzado máximo.",
+      "opcion c": "Capacidad inspiratoria total.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 33,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Derechos humanos y diversidades, humanización de cuidados, cuidados progresivos y TIC. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Solamente cuidados materno-infantiles.",
+      "opcion b": "Protocolos quirúrgicos avanzados.",
+      "opcion c": "Exclusivamente historia clínica digital.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 34,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Metformina + dieta + actividad física. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Metformina + corticoides.",
+      "opcion c": "Solo dieta sin medicación.",
+      "opcion d": "Insulina rápida cada 4 horas."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 35,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Internar para antibiótico EV. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Duplicar la dosis oral y continuar en domicilio.",
+      "opcion c": "Suspender antibiótico y observar.",
+      "opcion d": "Indicar corticoides por 3 días."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 36,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Estenosis aórtica. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Comunicación interauricular.",
+      "opcion b": "Prolapso mitral.",
+      "opcion c": "",
+      "opcion d": "Insuficiencia tricuspídea."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 37,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Cesárea electiva + AZT intraparto. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Parto vaginal obligatorio.",
+      "opcion b": "",
+      "opcion c": "Cesárea sin profilaxis.",
+      "opcion d": "Parto vaginal + antibióticos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 38,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Alfametildopa, Labetalol, Nifedipina. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Enalapril y carvedilol.",
+      "opcion c": "Propranolol y espironolactona.",
+      "opcion d": "Hidroclorotiazida sola."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 39,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Vancomicina 125 mg cada 6 h VO. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Ciprofloxacina oral.",
+      "opcion b": "",
+      "opcion c": "Amoxicilina 500 mg cada 8 h.",
+      "opcion d": "Ibuprofeno + hidratación."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 40,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Dar pautas de alarma y no solicitar otro estudio. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Iniciar profilaxis antibiótica diaria.",
+      "opcion b": "Realizar cistouretrografía inmediata.",
+      "opcion c": "",
+      "opcion d": "Solicitar hemocultivo urgente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 41,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Estenosis aórtica. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Insuficiencia mitral leve.",
+      "opcion b": "Miocarditis viral.",
+      "opcion c": "",
+      "opcion d": "Comunicación interventricular."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 42,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Cesárea electiva + profilaxis con AZT intraparto. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Parto vaginal sin medicación.",
+      "opcion b": "",
+      "opcion c": "Cesárea sin profilaxis.",
+      "opcion d": "Parto vaginal + antibiótico EV."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 43,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Púrpura de Schönlein-Henoch. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Eritema multiforme.",
+      "opcion b": "",
+      "opcion c": "Dermatitis alérgica.",
+      "opcion d": "Trombocitopenia inducida por fármacos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 44,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Alfametildopa, Labetalol, Nifedipina. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Losartán y espironolactona.",
+      "opcion c": "Enalapril y carvedilol.",
+      "opcion d": "Propranolol y amlodipina."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 45,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Vancomicina 125 mg cada 6 h VO. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Amoxicilina 500 mg.",
+      "opcion b": "",
+      "opcion c": "Metronidazol 250 mg cada 12 h.",
+      "opcion d": "Ciprofloxacina 500 mg cada 8 h."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 46,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Dar pautas de alarma y no solicitar otro estudio. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Comenzar profilaxis antibiótica por 3 meses.",
+      "opcion b": "Indicar ecografía vesical con contraste.",
+      "opcion c": "",
+      "opcion d": "Internar para hidratación EV."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 47,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Estenosis aórtica. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Insuficiencia tricuspídea.",
+      "opcion b": "Insuficiencia mitral severa.",
+      "opcion c": "",
+      "opcion d": "Taponamiento cardíaco."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 48,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Cesárea electiva + AZT intraparto. (repetido por diseño del examen) examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Parto vaginal con monitoreo estricto.",
+      "opcion b": "",
+      "opcion c": "Cesárea sin tratamiento antiviral.",
+      "opcion d": "Parto vaginal con antibióticos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 49,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Urocultivo + evaluar tolerancia oral + iniciar ciprofloxacina VO. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Radiografía simple de abdomen.",
+      "opcion b": "Hemocultivo solamente.",
+      "opcion c": "",
+      "opcion d": "TAC contrastada como primer estudio."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 50,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Solicita urocultivo y deriva para internación urgente. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Administrar analgésicos y dar alta.",
+      "opcion b": "Indicar hidratación oral exclusivamente.",
+      "opcion c": "Citar en 48 horas para control.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 51,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Etapa contemplativa. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Etapa de acción.",
+      "opcion c": "Etapa de mantenimiento.",
+      "opcion d": "Etapa preoperacional."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 52,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Fase de defervescencia febril. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Fase de incubación.",
+      "opcion b": "Fase de recuperación.",
+      "opcion c": "Fase inicial prodrómica.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 53,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Sales de rehidratación oral luego de cada deposición. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Suspender alimentación sólida.",
+      "opcion b": "",
+      "opcion c": "Indicar antibiótico por 3 días.",
+      "opcion d": "Iniciar hidratación EV urgente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 54,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Anomalías de la contractilidad uterina. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Traumatismos del cordón umbilical.",
+      "opcion b": "Ruptura cervical primaria.",
+      "opcion c": "",
+      "opcion d": "Hipertensión gestacional severa."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 55,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Metformina + dieta + actividad física. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Solo actividad física.",
+      "opcion c": "Insulina rápida sin indicación.",
+      "opcion d": "Glibenclamida como monoterapia."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 56,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Internación para antibiótico EV. examen-unico-2024-bioquimica-en… Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Citar en 7 días sin cambios.",
+      "opcion c": "Rotar a claritromicina VO.",
+      "opcion d": "Indicar broncodilatadores solos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 57,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) El paciente ya inició cambios efectivos. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "El paciente solo reflexiona sobre el cambio.",
+      "opcion b": "",
+      "opcion c": "El paciente regresa a hábitos previos.",
+      "opcion d": "El paciente no reconoce el problema."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 58,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Sibilancias. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Estertores húmedos gruesos.",
+      "opcion b": "Roce pleural.",
+      "opcion c": "",
+      "opcion d": "Murmullo aumentado."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 59,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Absorción, distribución, metabolismo y excreción. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Oxigenación, difusión y transporte.",
+      "opcion b": "",
+      "opcion c": "Dilución, filtración y captación.",
+      "opcion d": "Eliminación exclusiva por riñón."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 60,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) 18 meses. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "9 meses.",
+      "opcion b": "",
+      "opcion c": "4 años.",
+      "opcion d": "11 años."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 61,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) 1º nivel de atención. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Únicamente a un hospital de alta complejidad.",
+      "opcion c": "Solo al servicio de emergencias.",
+      "opcion d": "Consultorio privado exclusivo."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 62,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Objetivos. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Estructuras.",
+      "opcion b": "Puestos de trabajo.",
+      "opcion c": "",
+      "opcion d": "Recursos financieros."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 63,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Abrace al paciente por la cintura desde atrás. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Coloque manos en el esternón.",
+      "opcion b": "Empuje el abdomen hacia los costados.",
+      "opcion c": "Aplique golpes torácicos laterales.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 64,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Familiarización. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Sincronización inicial.",
+      "opcion b": "Ajuste primario.",
+      "opcion c": "Integración preparatoria.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 65,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Radiografía de tórax. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Ecografía abdominal.",
+      "opcion b": "TAC de cráneo.",
+      "opcion c": "Electrocardiograma de reposo.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 66,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Radiografía de tórax. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Espirometría basal.",
+      "opcion b": "",
+      "opcion c": "Ecografía de partes blandas.",
+      "opcion d": "TAC de pelvis."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 67,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Edad y tensión arterial. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Estado civil y ocupación.",
+      "opcion c": "Frecuencia de actividad recreativa.",
+      "opcion d": "Tipo de alimentación materna en infancia."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 68,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Difusión. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Osmosis pura.",
+      "opcion b": "Presurización activa.",
+      "opcion c": "",
+      "opcion d": "Filtración hormonal."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 69,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Indicar respiración profunda por la boca. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Mantener apnea voluntaria.",
+      "opcion b": "Solicitar inspiración nasal rápida.",
+      "opcion c": "Pedir respiración diafragmática exclusiva.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 70,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Ecocardiograma. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Placa simple de tórax.",
+      "opcion c": "TAC cervical.",
+      "opcion d": "Ecografía mamaria."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 71,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) TAC de cerebro sin contraste. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "RMN con contraste inmediato.",
+      "opcion b": "",
+      "opcion c": "Radiografía cervical.",
+      "opcion d": "Electroencefalograma urgente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 72,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Reacción alérgica grave previa. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Tos leve.",
+      "opcion b": "Catarro sin fiebre.",
+      "opcion c": "Dolor abdominal.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 73,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Ácido fólico + hierro. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Magnesio + potasio.",
+      "opcion b": "",
+      "opcion c": "Vitamina E + yodo.",
+      "opcion d": "Omega 3 solo."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 74,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Confidencialidad. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Derecho comercial.",
+      "opcion b": "Protección patrimonial.",
+      "opcion c": "Derecho urbanístico.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 75,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Continuar en domicilio + líquidos + alimentación + pautas de alarma + control 24 h. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Suspender alimentación sólida.",
+      "opcion c": "Iniciar antibiótico.",
+      "opcion d": "Hidratar exclusivamente EV."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 76,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Cantidad de aire (~500 ml) intercambiado en respiración normal. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Volumen residual total.",
+      "opcion b": "Capacidad vital forzada.",
+      "opcion c": "Reserva inspiratoria.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 77,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Derechos humanos, diversidades, humanización, cuidados progresivos, TIC. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Solo digitalización del registro.",
+      "opcion b": "Exclusivamente cuidados quirúrgicos.",
+      "opcion c": "Prácticas materno-infantiles únicamente.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 78,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Metformina + dieta + actividad física. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Insulina rápida sin monitoreo.",
+      "opcion c": "Dieta exclusiva sin medicación.",
+      "opcion d": "Antiinflamatorios por 7 días."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 79,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Internación para antibiótico EV. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Aumentar dosis oral.",
+      "opcion c": "Dar alta con control en una semana.",
+      "opcion d": "Añadir solo broncodilatadores."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 80,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Fase de defervescencia febril. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Fase de incubación.",
+      "opcion b": "Fase de recuperación.",
+      "opcion c": "Fase prodrómica.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 81,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Sales de rehidratación oral luego de cada deposición. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Suspender alimentación por 24 h.",
+      "opcion b": "",
+      "opcion c": "Antibióticos de amplio espectro.",
+      "opcion d": "Hidratación EV inmediata."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 82,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Anomalías de la contractilidad uterina. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Rotura ovárica aguda.",
+      "opcion b": "Endometritis temprana.",
+      "opcion c": "",
+      "opcion d": "Desprendimiento precoz de placenta."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 83,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Etapa contemplativa. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Etapa de acción.",
+      "opcion c": "Etapa de recaída.",
+      "opcion d": "Etapa de mantenimiento."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 84,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Sibilancias. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Estertores húmedos.",
+      "opcion b": "Roce pleural.",
+      "opcion c": "",
+      "opcion d": "Murmullo vesicular abolido."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 85,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Absorción, distribución, metabolismo y excreción. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Oxigenación y difusión.",
+      "opcion b": "",
+      "opcion c": "Transporte hormonal.",
+      "opcion d": "Eliminación cutánea exclusiva."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 86,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) 18 meses. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "6 meses.",
+      "opcion b": "",
+      "opcion c": "4 años.",
+      "opcion d": "11 años."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 87,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Primer nivel de atención. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Solo hospitales de alta complejidad.",
+      "opcion c": "Guardia de emergencias.",
+      "opcion d": "Servicios especializados privados."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 88,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Objetivos. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Jerarquías.",
+      "opcion b": "Infraestructura.",
+      "opcion c": "",
+      "opcion d": "Recursos materiales."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 89,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Abrace al paciente por la cintura desde atrás. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Compresiones sobre esternón.",
+      "opcion b": "Golpes en espalda exclusivamente.",
+      "opcion c": "Elevar brazos del paciente.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 90,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Familiarización. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Integración inicial.",
+      "opcion b": "Ajuste sensorial.",
+      "opcion c": "Activación preparatoria.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 91,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Dar pautas de alarma y no solicitar otro estudio. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Profilaxis antibiótica 6 meses.",
+      "opcion b": "Internación preventiva.",
+      "opcion c": "",
+      "opcion d": "Cistografía miccional inmediata."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 92,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Vancomicina 125 mg cada 6 h VO. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Amoxicilina VO.",
+      "opcion b": "",
+      "opcion c": "Ibuprofeno.",
+      "opcion d": "Eritromicina."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 93,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Alfametildopa, Labetalol, Nifedipina. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Enalapril + espironolactona.",
+      "opcion c": "Propranolol solo.",
+      "opcion d": "Diuréticos tiazídicos exclusivos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 94,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: b) Cesárea electiva + AZT intraparto. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Parto vaginal sin medicación.",
+      "opcion b": "",
+      "opcion c": "Inducción con oxitocina.",
+      "opcion d": "Cesárea sin profilaxis."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 95,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Estenosis aórtica. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Prolapso mitral.",
+      "opcion b": "Soplo inocente.",
+      "opcion c": "",
+      "opcion d": "Insuficiencia tricuspídea."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 96,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Solicita urocultivo y deriva para internación urgente. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Dar alta con hidratación oral.",
+      "opcion b": "Indicar analgésicos únicamente.",
+      "opcion c": "Citar en 48 horas.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 97,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: c) Solicita urocultivo y evalúa tolerancia oral + CIPROVO. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "TAC abdominal inmediata.",
+      "opcion b": "Hemocultivos exclusivamente.",
+      "opcion c": "",
+      "opcion d": "No iniciar antibiótico hasta 72 h."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 98,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: a) Internación para antibiótico EV. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Aumentar dosis oral.",
+      "opcion c": "Corticoides solos.",
+      "opcion d": "Control en una semana."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 99,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Fase de defervescencia febril. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Fase de incubación.",
+      "opcion b": "Fase de recuperación.",
+      "opcion c": "Fase prodrómica.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 100,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Correcta: d) Soplo funcional. Incorrectas inventadas:",
+    "opciones": {
+      "opcion a": "Estenosis pulmonar.",
+      "opcion b": "Miocardiopatía hipertrófica.",
+      "opcion c": "Insuficiencia mitral.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  }
+]

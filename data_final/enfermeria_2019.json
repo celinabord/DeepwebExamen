@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "tema": "Enfermería - Examen 2019",
+        "año": 2019,
+        "caso_clínico": "Paciente de 68 años con diagnóstico de Insuficiencia Cardíaca Congestiva, presenta disnea en reposo y edema en miembros inferiores.",
+        "pregunta": "¿Cuál es la intervención de enfermería prioritaria?",
+        "opciones": {
+            "opcion a": "Colocar al paciente en posición de Trendelenburg",
+            "opcion b": "Colocar al paciente en posición de Fowler o semi-Fowler",
+            "opcion c": "Administrar líquidos endovenosos",
+            "opcion d": "Restringir la oxigenoterapia"
+        },
+        "respuesta_correcta": "opcion b"
+    },
+    {
+        "id": 2,
+        "tema": "Enfermería - Examen 2019",
+        "año": 2019,
+        "caso_clínico": "Paciente postquirúrgico requiere administración de Heparina 5000 UI subcutánea como profilaxis antitrombótica.",
+        "pregunta": "¿Cuál es el sitio de aplicación más apropiado?",
+        "opciones": {
+            "opcion a": "Región deltoidea",
+            "opcion b": "Región glútea",
+            "opcion c": "Tejido subcutáneo abdominal",
+            "opcion d": "Cara anterior del muslo"
+        },
+        "respuesta_correcta": "opcion c"
+    },
+    {
+        "id": 3,
+        "tema": "Enfermería - Examen 2019",
+        "año": 2019,
+        "caso_clínico": "Paciente con diagnóstico de Hipertensión Arterial en tratamiento con Enalapril.",
+        "pregunta": "¿Qué efecto adverso debe monitorizar la enfermera?",
+        "opciones": {
+            "opcion a": "Hiperpotasemia",
+            "opcion b": "Hipopotasemia",
+            "opcion c": "Hipernatremia",
+            "opcion d": "Hipocalcemia"
+        },
+        "respuesta_correcta": "opcion a"
+    }
+]

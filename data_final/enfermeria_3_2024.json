@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: c) Cuidar y colaborar con las personas de todas las edades y familias. distractores:",
+    "opciones": {
+      "opcion a": "Supervisar y evaluar hospitales privados.",
+      "opcion b": "Regular la matrícula de todo el personal de salud.",
+      "opcion c": "",
+      "opcion d": "Administrar exclusivamente cuidados críticos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 2,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Zona proximal a distal. distractores:",
+    "opciones": {
+      "opcion a": "En cualquier vena palpable sin criterios.",
+      "opcion b": "",
+      "opcion c": "Preferentemente en pliegue del codo.",
+      "opcion d": "Únicamente en extremidades inferiores."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 3,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: d) Biológicos, químicos y físicos. distractores:",
+    "opciones": {
+      "opcion a": "Físicos, emocionales y sociales.",
+      "opcion b": "Naturales, humanos y mixtos.",
+      "opcion c": "Biológicos, políticos y comunitarios.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 4,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: c) Signos de shock. distractores:",
+    "opciones": {
+      "opcion a": "Aumento del apetito.",
+      "opcion b": "Somnolencia leve postprandial.",
+      "opcion c": "",
+      "opcion d": "Erupción cutánea pasajera."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 5,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: d) Zona distal a la proximal. distractores:",
+    "opciones": {
+      "opcion a": "Zona media del muslo.",
+      "opcion b": "Cualquier vena inflamada.",
+      "opcion c": "Exclusivamente vena yugular externa.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 6,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Evaluar el estado clínico general. distractores:",
+    "opciones": {
+      "opcion a": "Administrar uterotónicos de inmediato sin valoración.",
+      "opcion b": "",
+      "opcion c": "Realizar masaje uterino sin evaluar signos vitales.",
+      "opcion d": "Colocar compresas frías en abdomen."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 7,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: d) Vías enterales, inhalatoria y tópica. distractores:",
+    "opciones": {
+      "opcion a": "Parenteral, intramedular y dérmica profunda.",
+      "opcion b": "Intravenosa, subcutánea y epidural.",
+      "opcion c": "Intraósea, rectal profunda y intrapleural.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 8,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: a) Los derechos humanos. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "El desarrollo económico del país.",
+      "opcion c": "La gestión administrativa del sistema de salud.",
+      "opcion d": "La protección jurídica del Estado."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 9,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Ayudar al individuo, su familia y comunidad a conservar la salud y afrontar la enfermedad. distractores:",
+    "opciones": {
+      "opcion a": "Realizar seguimiento exclusivo de enfermedades crónicas.",
+      "opcion b": "",
+      "opcion c": "Hacer controles solo en adultos mayores.",
+      "opcion d": "Ejecutar acciones de emergencia exclusivamente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 10,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: a) Aparición de síntomas físicos al suspender consumo de sustancias. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Rechazo voluntario a los medicamentos.",
+      "opcion c": "Necesidad psicológica sin manifestaciones corporales.",
+      "opcion d": "Pérdida de memoria inducida por estrés."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 11,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: d) Al menos 8 visitas para el seguimiento prenatal. distractores:",
+    "opciones": {
+      "opcion a": "Solo 2 visitas trimestrales.",
+      "opcion b": "Un control mensual hasta el parto.",
+      "opcion c": "10 controles obligatorios sin excepción.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 12,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: d) Infecciones asociadas a la internación. distractores:",
+    "opciones": {
+      "opcion a": "Reacciones alérgicas a vendajes.",
+      "opcion b": "Confusión por cambios de cuarto.",
+      "opcion c": "Pérdida temporal de objetos personales.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 13,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Relación entre personas, Enfermería y su actitud hacia los otros. distractores:",
+    "opciones": {
+      "opcion a": "Métodos de gestión y liderazgo.",
+      "opcion b": "",
+      "opcion c": "Técnicas de comunicación institucional.",
+      "opcion d": "Evaluación de riesgos laborales."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 14,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: c) Ciencia que protege y mejora la salud mediante educación y promoción. distractores:",
+    "opciones": {
+      "opcion a": "Conjunto de trámites para validar prácticas clínicas.",
+      "opcion b": "Disciplina de gestión hospitalaria.",
+      "opcion c": "",
+      "opcion d": "Evaluación económica de programas sanitarios."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 15,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: a) Organización de la comunidad y apoyo comunitario. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Derivación obligatoria a psiquiatría.",
+      "opcion c": "Aislamiento de víctimas para contención.",
+      "opcion d": "Centrar la atención solo en población infantil."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 16,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: d) Hasta 5 cm de profundidad. distractores:",
+    "opciones": {
+      "opcion a": "1 cm máximo.",
+      "opcion b": "8 cm profundos.",
+      "opcion c": "Solo presión superficial.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 17,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: a) Evidencia científica, experiencia profesional y opinión del usuario. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Solo diagnóstico y valoración.",
+      "opcion c": "Intervenciones basadas en protocolos rígidos.",
+      "opcion d": "Opiniones de expertos únicamente."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 18,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Monitorizar y revisar diariamente para garantizar su uso. distractores:",
+    "opciones": {
+      "opcion a": "Cambiarlos cada 24 h por rutina.",
+      "opcion b": "",
+      "opcion c": "Lavar con heparina ante cualquier duda.",
+      "opcion d": "Mantenerlos indefinidamente aunque no se utilicen."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 19,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: d) Biológicos, químicos y físicos. distractores:",
+    "opciones": {
+      "opcion a": "Urbanos, rurales y mixtos.",
+      "opcion b": "Hídricos, estructurales y sociales.",
+      "opcion c": "Físicos, políticos y migratorios.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 20,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: d) Zona distal a la proximal. distractores:",
+    "opciones": {
+      "opcion a": "Vena femoral siempre primero.",
+      "opcion b": "Pliegue del codo obligatorio.",
+      "opcion c": "Cualquier vena inflamada.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 21,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Persona, entorno, salud y cuidado. distractores:",
+    "opciones": {
+      "opcion a": "Sociedad, gobierno, ambiente y economía.",
+      "opcion b": "",
+      "opcion c": "Cuidados paliativos, entorno, terapia y rehabilitación.",
+      "opcion d": "Comunidad, familia, salud y bienestar."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 22,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) 100–120 compresiones por minuto. distractores:",
+    "opciones": {
+      "opcion a": "60–80 por minuto.",
+      "opcion b": "",
+      "opcion c": "150–160 por minuto.",
+      "opcion d": "30–40 por minuto."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 23,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Identificación de paciente. distractores:",
+    "opciones": {
+      "opcion a": "Uso obligatorio de doble guante.",
+      "opcion b": "",
+      "opcion c": "Rotación constante de personal.",
+      "opcion d": "Retiro de consentimientos informados."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 24,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Evaluar estado clínico general. distractores:",
+    "opciones": {
+      "opcion a": "Administrar líquidos sin control.",
+      "opcion b": "",
+      "opcion c": "Colocar compresas frías.",
+      "opcion d": "Pedir transfusión inmediata."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 25,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: a) Factores tecnológicos. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Factores nutricionales.",
+      "opcion c": "Factores culturales.",
+      "opcion d": "Factores recreativos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 26,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): c) Elección del sitio adecuado y técnica aséptica estricta. distractores:",
+    "opciones": {
+      "opcion a": "Utilizar siempre el mismo brazo en todos los pacientes.",
+      "opcion b": "Cambiar el catéter cada 12 horas por rutina.",
+      "opcion c": "",
+      "opcion d": "Colocar el catéter sin fijación para permitir movilidad."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 27,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: a) Respeto por los derechos humanos. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Preferencia por decisiones institucionales.",
+      "opcion c": "Priorización de intereses económicos.",
+      "opcion d": "Obediencia a jerarquías sin criterio propio."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 28,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Promover el autocuidado y la participación comunitaria. distractores:",
+    "opciones": {
+      "opcion a": "Garantizar derivaciones a niveles superiores.",
+      "opcion b": "",
+      "opcion c": "Centralizar la atención en hospitales.",
+      "opcion d": "Sustituir intervenciones de especialistas."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 29,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: d) PA ≥140/90 mmHg. distractores:",
+    "opciones": {
+      "opcion a": "PA ≥120/70 mmHg.",
+      "opcion b": "PA ≤100/60 mmHg.",
+      "opcion c": "PA ≥160/50 mmHg.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 30,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: c) Signos de shock. distractores:",
+    "opciones": {
+      "opcion a": "Hipoactividad leve.",
+      "opcion b": "Sudoración aislada.",
+      "opcion c": "",
+      "opcion d": "Llanto intermitente sin fiebre."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 31,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Favorecer el autocuidado del individuo, la familia y la comunidad. distractores:",
+    "opciones": {
+      "opcion a": "Sustituir funciones médicas.",
+      "opcion b": "",
+      "opcion c": "Realizar únicamente administración de medicación.",
+      "opcion d": "Intervenir solo en situaciones de emergencia."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 32,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: a) Aparición de síntomas físicos al suspender sustancias. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Búsqueda compulsiva sin síntomas corporales.",
+      "opcion c": "Disconformidad con los tratamientos médicos.",
+      "opcion d": "Necesidad social de consumir con pares."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 33,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "examen-unico-2024-bioquimica-en… ) ✔ Correcta: d) Biológicos, químicos y físicos. distractores:",
+    "opciones": {
+      "opcion a": "Sociales, emocionales y afectivos.",
+      "opcion b": "Climáticos, culturales y estructurales.",
+      "opcion c": "Urbanos, rurales y mixtos.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 34,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "examen-unico-2024-bioquimica-en… ) ✔ Correcta: d) Zona distal a la proximal. distractores:",
+    "opciones": {
+      "opcion a": "Cualquier vena visible.",
+      "opcion b": "Pliegue del codo.",
+      "opcion c": "Venas en miembros inferiores siempre.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 35,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "examen-unico-2024-bioquimica-en… ) ✔ Correcta: b) Evaluar estado clínico general. distractores:",
+    "opciones": {
+      "opcion a": "Administrar líquidos sin monitorización.",
+      "opcion b": "",
+      "opcion c": "Realizar masaje uterino sin examen previo.",
+      "opcion d": "Derivar sin evaluar signos vitales."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 36,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "examen-unico-2024-bioquimica-en… ) ✔ Correcta: d) Vías enterales, inhalatoria y tópica. distractores:",
+    "opciones": {
+      "opcion a": "Intravenosa e intraósea.",
+      "opcion b": "Epidural y subdural.",
+      "opcion c": "Intramuscular rectal profunda.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 37,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "examen-unico-2024-bioquimica-en… ) ✔ Correcta: a) Derechos humanos. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Regulación económica.",
+      "opcion c": "Gestión administrativa.",
+      "opcion d": "Políticas laborales."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 38,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "examen-unico-2024-bioquimica-en… ) ✔ Correcta: b) Ayudar al individuo y comunidad en acciones de autocuidado. distractores:",
+    "opciones": {
+      "opcion a": "Realizar tratamientos invasivos.",
+      "opcion b": "",
+      "opcion c": "Mantener las enfermedades crónicas.",
+      "opcion d": "Administrar programas sin participación activa."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 39,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Métodos no estandarizados. distractores:",
+    "opciones": {
+      "opcion a": "Protocolos rígidos.",
+      "opcion b": "",
+      "opcion c": "Métodos exclusivamente cuantitativos.",
+      "opcion d": "Técnicas de laboratorio."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 40,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Describir, explicar, comprobar y predecir fenómenos. distractores:",
+    "opciones": {
+      "opcion a": "Interpretar únicamente.",
+      "opcion b": "",
+      "opcion c": "Explorar sin medir.",
+      "opcion d": "Identificar emociones subjetivas."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 41,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "examen-unico-2024-bioquimica-en… ) ✔ Correcta: c) Primer nivel de atención. distractores:",
+    "opciones": {
+      "opcion a": "Urgencias hospitalarias.",
+      "opcion b": "Atención de alta complejidad.",
+      "opcion c": "",
+      "opcion d": "Centros privados especializados."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 42,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: a) Reconocer signos y activar protocolo de urgencia. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Administrar sedantes.",
+      "opcion c": "Inmovilizar sin evaluación.",
+      "opcion d": "Solicitar estudios antes de intervenir."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 43,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: d) pH. distractores:",
+    "opciones": {
+      "opcion a": "Hemoglobina.",
+      "opcion b": "Saturación de oxígeno.",
+      "opcion c": "Calcio iónico.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 44,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Persona, entorno, salud y cuidado. distractores:",
+    "opciones": {
+      "opcion a": "Sistema, salud pública y economía.",
+      "opcion b": "",
+      "opcion c": "Diagnóstico, tratamiento y evolución.",
+      "opcion d": "Comunidad, cultura y política sanitaria."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 45,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) 100–120 por minuto. distractores:",
+    "opciones": {
+      "opcion a": "50–70 por minuto.",
+      "opcion b": "",
+      "opcion c": "140–160 por minuto.",
+      "opcion d": "20–30 por minuto."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 46,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Identificación del paciente. distractores:",
+    "opciones": {
+      "opcion a": "Listado administrativo actualizado.",
+      "opcion b": "",
+      "opcion c": "Uso de uniformes diferenciados.",
+      "opcion d": "Registro de visitas."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 47,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "examen-unico-2024-bioquimica-en… ) ✔ Correcta: b) Monitorizar y revisar diariamente para garantizar su uso. distractores:",
+    "opciones": {
+      "opcion a": "Cambiarlos cada 8 h.",
+      "opcion b": "",
+      "opcion c": "Usarlos indefinidamente.",
+      "opcion d": "Curarlos sin valoración."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 48,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: a) Misiones. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "San Luis.",
+      "opcion c": "Mendoza.",
+      "opcion d": "La Pampa."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 49,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: a) Fuente primaria. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Oficial.",
+      "opcion c": "Secundaria.",
+      "opcion d": "Indirecta."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 50,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: a) Iniciar con verbo en infinitivo, alcanzables y coherentes. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Formularse en pasado.",
+      "opcion c": "Escribirlos como hipótesis cerradas.",
+      "opcion d": "Redactarlos sin criterios metodológicos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 51,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) Hasta 5 cm de profundidad. distractores:",
+    "opciones": {
+      "opcion a": "Hasta 2 cm.",
+      "opcion b": "10 cm.",
+      "opcion c": "3 cm.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 52,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Absorción, distribución, metabolización y excreción. distractores:",
+    "opciones": {
+      "opcion a": "Administración, velocidad y metabolización.",
+      "opcion b": "",
+      "opcion c": "Ingreso, pasaje membrana y eliminación.",
+      "opcion d": "Velocidad, dilución y secreción."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 53,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) pH. distractores:",
+    "opciones": {
+      "opcion a": "PaO₂.",
+      "opcion b": "PaCO₂.",
+      "opcion c": "HCO₃.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 54,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): c) Primer nivel de atención. distractores:",
+    "opciones": {
+      "opcion a": "Tercer nivel.",
+      "opcion b": "Segundo nivel.",
+      "opcion c": "",
+      "opcion d": "Cuarto nivel."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 55,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Evaluar estado clínico general. distractores:",
+    "opciones": {
+      "opcion a": "Pedir hemoterapia de inmediato.",
+      "opcion b": "",
+      "opcion c": "Colocar venoclisis 24G.",
+      "opcion d": "Intervenir sin evaluación."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 56,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): a) Iniciar con verbo infinitivo, ser alcanzable y coherente. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Deben ser subjetivos y abiertos.",
+      "opcion c": "Formularse como conclusiones.",
+      "opcion d": "Contener juicios de valor."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 57,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): c) PA sistólica <130 mmHg y diastólica <85 mmHg. distractores:",
+    "opciones": {
+      "opcion a": "≥90 / ≥95 mmHg.",
+      "opcion b": "<70 / >75 mmHg.",
+      "opcion c": "",
+      "opcion d": ">90 / >75 mmHg."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 58,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): a) Misiones. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Buenos Aires.",
+      "opcion c": "San Juan.",
+      "opcion d": "Neuquén."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 59,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Ayudar al individuo, su familia y la comunidad en acciones de autocuidado. distractores:",
+    "opciones": {
+      "opcion a": "Asumir el rol médico.",
+      "opcion b": "",
+      "opcion c": "Reemplazar al equipo interdisciplinario.",
+      "opcion d": "Intervenir solo ante urgencias."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 60,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Describir, explicar, comprobar y predecir fenómenos. distractores:",
+    "opciones": {
+      "opcion a": "Solo interpretar narrativas.",
+      "opcion b": "",
+      "opcion c": "Centrarse solo en experiencias subjetivas.",
+      "opcion d": "Analizar sin medir."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 61,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Métodos no estandarizados. distractores:",
+    "opciones": {
+      "opcion a": "Predeterminados.",
+      "opcion b": "",
+      "opcion c": "Mixtos.",
+      "opcion d": "Lineales estrictos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 62,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Promover participación activa de la comunidad. distractores:",
+    "opciones": {
+      "opcion a": "Garantizar tratamientos costosos.",
+      "opcion b": "",
+      "opcion c": "Derivar siempre al segundo nivel.",
+      "opcion d": "Realizar solo tareas administrativas."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 63,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): a) Los derechos humanos. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "La gestión política.",
+      "opcion c": "La administración presupuestaria.",
+      "opcion d": "La planificación económica."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 64,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) Enterales, inhalatoria y tópica. distractores:",
+    "opciones": {
+      "opcion a": "Intraósea y epidural.",
+      "opcion b": "Intradérmica profunda.",
+      "opcion c": "Medular y subpleural.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 65,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): c) Signos de shock. distractores:",
+    "opciones": {
+      "opcion a": "Fiebre leve.",
+      "opcion b": "Náuseas aisladas.",
+      "opcion c": "",
+      "opcion d": "Sudoración nocturna."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 66,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) Zona distal a proximal. distractores:",
+    "opciones": {
+      "opcion a": "Pliegue del codo.",
+      "opcion b": "Vena más accesible sin criterios.",
+      "opcion c": "Pierna dominante.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 67,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Monitorizar y revisar diariamente para garantizar su uso. distractores:",
+    "opciones": {
+      "opcion a": "Cambiar curación cada 8 h.",
+      "opcion b": "",
+      "opcion c": "Mantenerlo siempre aunque no se use.",
+      "opcion d": "Cambiarlo por rutina cada día."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 68,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Persona, entorno, salud y cuidado. distractores:",
+    "opciones": {
+      "opcion a": "Comunidad, cultura, economía, ambiente.",
+      "opcion b": "",
+      "opcion c": "Diagnóstico, tratamiento, rehabilitación.",
+      "opcion d": "Rol profesional, ética, técnica y contexto."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 69,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) 100–120 por minuto. distractores:",
+    "opciones": {
+      "opcion a": "80–90.",
+      "opcion b": "",
+      "opcion c": "150–180.",
+      "opcion d": "40–60."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 70,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Identificación del paciente. distractores:",
+    "opciones": {
+      "opcion a": "Información administrativa.",
+      "opcion b": "",
+      "opcion c": "Listas de asistencia.",
+      "opcion d": "Rotación de personal."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 71,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): a) Iniciar con verbo en infinitivo y ser coherente. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Redactar con verbos en pasado.",
+      "opcion c": "Incluir opinión personal del investigador.",
+      "opcion d": "Iniciar con conclusiones."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 72,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) pH. distractores:",
+    "opciones": {
+      "opcion a": "Calcio.",
+      "opcion b": "Creatinina.",
+      "opcion c": "Eritrocitos.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 73,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: b) Monitorizar y revisar diariamente. distractores:",
+    "opciones": {
+      "opcion a": "Reemplazar a diario sin necesidad.",
+      "opcion b": "",
+      "opcion c": "Dejarlo sin uso prolongado.",
+      "opcion d": "Hacer curación cada 6 h."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 74,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta: a) Misiones. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Córdoba.",
+      "opcion c": "Formosa.",
+      "opcion d": "Chubut."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 75,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Ayudar en acciones de autocuidado para conservar la salud. distractores:",
+    "opciones": {
+      "opcion a": "Controlar exclusivamente enfermedades crónicas.",
+      "opcion b": "",
+      "opcion c": "Sustituir al equipo interdisciplinario.",
+      "opcion d": "Realizar solo promoción sin intervención."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 76,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): c) Primer nivel de atención. distractores:",
+    "opciones": {
+      "opcion a": "Segundo nivel.",
+      "opcion b": "Tercer nivel.",
+      "opcion c": "",
+      "opcion d": "Centros quirúrgicos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 77,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) pH. distractores:",
+    "opciones": {
+      "opcion a": "Hemoglobina.",
+      "opcion b": "Proteínas totales.",
+      "opcion c": "Potasio sérico.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 78,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) Hasta 5 cm. distractores:",
+    "opciones": {
+      "opcion a": "1 cm.",
+      "opcion b": "3 cm.",
+      "opcion c": "7 cm.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 79,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) Infecciones asociadas a la internación. distractores:",
+    "opciones": {
+      "opcion a": "Intoxicación medicamentosa leve.",
+      "opcion b": "Caídas por mala iluminación.",
+      "opcion c": "Reacciones por alimentos.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 80,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): a) Iniciar con verbo en infinitivo, ser específico y alcanzable. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Ser redactado como hipótesis.",
+      "opcion c": "Incluir opiniones personales.",
+      "opcion d": "Ser amplio y ambiguo."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 81,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Identificación del paciente. distractores:",
+    "opciones": {
+      "opcion a": "Registro de visitas.",
+      "opcion b": "",
+      "opcion c": "Confirmación telefónica.",
+      "opcion d": "Firma de terceros."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 82,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) Enteral, inhalatoria y tópica. distractores:",
+    "opciones": {
+      "opcion a": "Intraósea y epidural.",
+      "opcion b": "Subdérmica profunda.",
+      "opcion c": "Intracoronaria.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 83,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): a) Los derechos humanos. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "La obediencia administrativa.",
+      "opcion c": "La gestión económica.",
+      "opcion d": "La promoción de políticas públicas."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 84,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Ayudar a individuo, familia y comunidad en acciones de autocuidado. distractores:",
+    "opciones": {
+      "opcion a": "Reemplazar funciones médicas.",
+      "opcion b": "",
+      "opcion c": "Realizar únicamente curaciones.",
+      "opcion d": "Enfocarse sólo en urgencias."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 85,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): c) Signos de shock. distractores:",
+    "opciones": {
+      "opcion a": "Fiebre leve.",
+      "opcion b": "Sequedad de labios.",
+      "opcion c": "",
+      "opcion d": "Irritabilidad sin otros signos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 86,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) Zona distal a proximal. distractores:",
+    "opciones": {
+      "opcion a": "Vena femoral de inicio.",
+      "opcion b": "Venas inflamadas.",
+      "opcion c": "Codo como primera opción.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 87,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Revisar diariamente para garantizar su necesidad. distractores:",
+    "opciones": {
+      "opcion a": "Cambiar cada 12 h sin indicación.",
+      "opcion b": "",
+      "opcion c": "Mantenerlo aunque no se use.",
+      "opcion d": "No evaluar curación."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 88,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Describir, explicar, comprobar y predecir fenómenos. distractores:",
+    "opciones": {
+      "opcion a": "Explorar sin medir.",
+      "opcion b": "",
+      "opcion c": "Interpretar narrativas.",
+      "opcion d": "Realizar análisis subjetivos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 89,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) No estandarizados. distractores:",
+    "opciones": {
+      "opcion a": "Rígidos.",
+      "opcion b": "",
+      "opcion c": "Estandarizados.",
+      "opcion d": "Matemáticos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 90,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): c) Primer nivel de atención. distractores:",
+    "opciones": {
+      "opcion a": "Tercer nivel.",
+      "opcion b": "Cuarto nivel.",
+      "opcion c": "",
+      "opcion d": "Servicios especializados."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 91,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) pH. distractores:",
+    "opciones": {
+      "opcion a": "Glucemia.",
+      "opcion b": "Sodio.",
+      "opcion c": "Hemoglobina.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 92,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) Infecciones asociadas a la atención de salud. distractores:",
+    "opciones": {
+      "opcion a": "Errores de facturación.",
+      "opcion b": "Malestar por ayuno.",
+      "opcion c": "Dolores inespecíficos.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 93,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Persona, entorno, salud y cuidado. distractores:",
+    "opciones": {
+      "opcion a": "Familia, sociedad, ambiente, economía.",
+      "opcion b": "",
+      "opcion c": "Prevención, promoción, tratamiento.",
+      "opcion d": "Cultura, política, salud mental."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 94,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): c) Signos de shock. distractores:",
+    "opciones": {
+      "opcion a": "Aumento del apetito.",
+      "opcion b": "Palidez aislada.",
+      "opcion c": "",
+      "opcion d": "Sueño prolongado."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 95,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) Zona distal a proximal. distractores:",
+    "opciones": {
+      "opcion a": "Brazo dominante siempre.",
+      "opcion b": "Codo.",
+      "opcion c": "Venas profundas del pie.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 96,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Monitorizar y revisar diariamente. distractores:",
+    "opciones": {
+      "opcion a": "Cambiar por rutina cada día.",
+      "opcion b": "",
+      "opcion c": "Mantener aunque esté ocioso.",
+      "opcion d": "No registrar curación."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 97,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): b) Explica, describe, comprueba y predice fenómenos. distractores:",
+    "opciones": {
+      "opcion a": "Solo observa sin medir.",
+      "opcion b": "",
+      "opcion c": "Prioriza experiencias subjetivas.",
+      "opcion d": "Analiza sin hipótesis."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 98,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) Enterales, inhalatoria y tópica. distractores:",
+    "opciones": {
+      "opcion a": "Intravenosa y epidural.",
+      "opcion b": "Subcutánea profunda.",
+      "opcion c": "Intraósea.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 99,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): a) Derechos humanos. distractores:",
+    "opciones": {
+      "opcion a": "",
+      "opcion b": "Supervisión económica.",
+      "opcion c": "Gestión política.",
+      "opcion d": "Administración de recursos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 100,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "✔ Correcta (real): d) Hasta 5 cm. distractores:",
+    "opciones": {
+      "opcion a": "2 cm.",
+      "opcion b": "8 cm.",
+      "opcion c": "3 cm.",
+      "opcion d": ""
+    },
+    "respuesta_correcta": "opcion a"
+  }
+]

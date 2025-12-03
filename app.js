@@ -358,14 +358,40 @@ function detenerCronometro() {
     }
 }
 
+// ===== FUNCIONES PARA ENFERMERÍA =====
+function mostrarSelectorAno() {
+    const select = document.getElementById('selectEspecialidad');
+    const selectorAno = document.getElementById('selectorAnoEnfermeria');
+    
+    if (select.value === 'enfermeria') {
+        selectorAno.style.display = 'block';
+    } else {
+        selectorAno.style.display = 'none';
+    }
+}
+
 // ===== INICIO DEL EXAMEN =====
 async function iniciarExamen() {
     const select = document.getElementById('selectEspecialidad');
-    const especialidad = select.value;
+    let especialidad = select.value;
     
     if (!especialidad) {
         alert('Por favor seleccione una especialidad');
         return;
+    }
+    
+    // Si es enfermería, verificar que se haya seleccionado el año
+    if (especialidad === 'enfermeria') {
+        const selectAno = document.getElementById('selectAnoEnfermeria');
+        const ano = selectAno.value;
+        
+        if (!ano) {
+            alert('Por favor seleccione el año del examen de enfermería');
+            return;
+        }
+        
+        // Modificar la especialidad para cargar el archivo correcto
+        especialidad = `enfermeria_${ano}`;
     }
     
     // Mostrar mensaje de carga

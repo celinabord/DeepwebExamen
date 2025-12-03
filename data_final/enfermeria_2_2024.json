@@ -1,0 +1,800 @@
+[
+  {
+    "id": 1,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "para el manejo de la hemorragia post parto?",
+    "opciones": {
+      "opcion a": "Pedir ayuda al servicio de Hemoterapia.",
+      "opcion b": "Evaluar el estado clínico general.",
+      "opcion c": "Colocar acceso venoso número 24 G.",
+      "opcion d": "Proceder sin demora."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 3,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Internacional de Enfermeras (CIE)?",
+    "opciones": {
+      "opcion a": "Los derechos humanos.",
+      "opcion b": "La sociedad.",
+      "opcion c": "El conocimiento .",
+      "opcion d": "Los valores."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 7,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "los cinco sentidos en CoPaP?",
+    "opciones": {
+      "opcion a": "Relajación.",
+      "opcion b": "Llanto de nacimiento.",
+      "opcion c": "Descanso.",
+      "opcion d": "Familiarización."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 8,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "públicas, de participar en conversación con otras personas y manifestar sus síntomas. ¿Qué tipo de fobia presenta?",
+    "opciones": {
+      "opcion a": "Agorafobia.",
+      "opcion b": "Claustrofobia.",
+      "opcion c": "Fobia social.",
+      "opcion d": "Fobia específica."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 9,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "adulta que llega a la guardia con sospecha de intoxicación?",
+    "opciones": {
+      "opcion a": "Desloratadina.",
+      "opcion b": "Naloxona.",
+      "opcion c": "Hidrocortisona.",
+      "opcion d": "Adrenalina."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 0,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "según el manual de seguridad del paciente del Ministerio de Salud?",
+    "opciones": {
+      "opcion a": "Informe.",
+      "opcion b": "Investigación.",
+      "opcion c": "Encuesta.",
+      "opcion d": "Formulario."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 2,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "años, según la tabla de referencia?",
+    "opciones": {
+      "opcion a": "PA sistólica > o = 90 mmHg y diastólica > 95 mmHg.",
+      "opcion b": "PA sistólica < 70 mmHg y diastólica > 75 mmHg.",
+      "opcion c": "PA sistólica <130mmHg y diastólica <85 mmHg.",
+      "opcion d": "PA sistólica > 90 mmHg y diastólica > 75 mmHg."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 3,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "manos?",
+    "opciones": {
+      "opcion a": "Solo deben ser en forma de espuma hidroalcohólicas.",
+      "opcion b": "Deben tener una concentración de alcohol al 100%.",
+      "opcion c": "Tienen que ser en forma de cremas para el uso cotidiano.",
+      "opcion d": "Deben tener una concentración de alcohol de 60% a 95%."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 5,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "los pulmones tras una espiración normal\"?",
+    "opciones": {
+      "opcion a": "Vital.",
+      "opcion b": "Pulmonar total.",
+      "opcion c": "Residual funcional.",
+      "opcion d": "Vital forzada."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 6,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "reproductiva?",
+    "opciones": {
+      "opcion a": "Promover el ejercicio de su autonomía.",
+      "opcion b": "Realizar marcos regulatorios para su promoción.",
+      "opcion c": "Capacitar para competencias en promoción.",
+      "opcion d": "Concientizar en las prácticas educativas."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 8,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Programa Nacional de Control de Enfermedades Inmunoprevenibles?",
+    "opciones": {
+      "opcion a": "Antecedente de fiebre alta.",
+      "opcion b": "Presencia de una enfermedad crónica.",
+      "opcion c": "Exposición previa a una infección.",
+      "opcion d": "Historial de reacción alérgica grave."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 9,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "mejoran los resultados maternos y neonatales?",
+    "opciones": {
+      "opcion a": "Magnesio y calcio.",
+      "opcion b": "Ácido fólico y hierro.",
+      "opcion c": "Vitamina C y B12.",
+      "opcion d": "Zinc y vitamina A."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 0,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "toda persona que participe en la elaboración o manipulación de la documentación clínica, o bien tenga acceso al contenido de la misma, guarde la debida reserva?",
+    "opciones": {
+      "opcion a": "Dignidad.",
+      "opcion b": "Libertad.",
+      "opcion c": "Autonomía.",
+      "opcion d": "Confidencialidad."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 2,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "respiratoria?",
+    "opciones": {
+      "opcion a": "Es el volumen de aire de 1100ml que permanecen dentro de los pulmones.",
+      "opcion b": "Es aproximadamente 1000ml de aire que se pueden expirar.",
+      "opcion c": "Es la cantidad de aire de unos 2100-3100ml que se pueden inhalar con fuerza.",
+      "opcion d": "Es la cantidad de aire de unos 500ml que entran y salen de los pulmones."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 3,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "futuro?",
+    "opciones": {
+      "opcion a": "Las leyes de Enfermería, el código de ética para Enfermería, los cuidados centrados en la",
+      "opcion b": "El cuidado integral, la cultura del cuidado y el desarrollo de tecnologías para informatizar los",
+      "opcion c": "La cristalización de la formación técnica y universitaria, la incorporación de nuevas prácticas y la",
+      "opcion d": "Los derechos humanos y diversidades, la humanización de los cuidados, los cuidados"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 4,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Salud de la Nación, sobre la Prevención cuaternaria \"No Hacer\" en Enfermería?",
+    "opciones": {
+      "opcion a": "Se recomienda cambiar el catéter si el paciente refiere dolor y picazón en el sitio de inserción.",
+      "opcion b": "Se recomienda monitorizar y revisar diariamente para garantizar su uso.",
+      "opcion c": "Se debe realizar curación cada 8 horas para evaluación de sitio de inserción del catéter.",
+      "opcion d": "Por debe utilizar de manera prolongada los catéteres centrales de inserción periférica."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 5,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "arterial (GA)?",
+    "opciones": {
+      "opcion a": "PaO2.",
+      "opcion b": "PaCO2.",
+      "opcion c": "HCO3.",
+      "opcion d": "pH."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 7,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "mayores de 1 año, según la recomendación del Ministerio de Salud de la Nación?",
+    "opciones": {
+      "opcion a": "Pedir ayuda.",
+      "opcion b": "Iniciar compresiones.",
+      "opcion c": "Verificar que la escena sea segura.",
+      "opcion d": "Abrir la vía aérea."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 8,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "personas, que contribuyen a la salud de los individuos, familias y comunidades. ¿Quién desarrolló el modelo de cuidados basado en los 11 patrones funcionales?",
+    "opciones": {
+      "opcion a": "Maryori Gordon.",
+      "opcion b": "Calista Roy.",
+      "opcion c": "Dorotea E. Orem.",
+      "opcion d": "Nola Pender."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 9,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "objetivos de las investigaciones?",
+    "opciones": {
+      "opcion a": "Debe Iniciar con un verbo infinitivo, ser alcanzable, lógico y coherente.",
+      "opcion b": "Tiene que tener lógica y ser coherente ya que es una construcción objetiva.",
+      "opcion c": "Ser coherente con la realidad actual y tener conclusiones.",
+      "opcion d": "Debe formularse con verbos participativos con metas esperables."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 0,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "antropométrica?",
+    "opciones": {
+      "opcion a": "Fecha de control, fecha de nacimiento y cálculo de los percentiles.",
+      "opcion b": "Peso en KG, talla en cm e índice de masa corporal (IMC).",
+      "opcion c": "Fecha de control, perímetro de cintura en cm y perímetro cefálico en cm.",
+      "opcion d": "Índice de masa corporal (IMC), edad y perímetro abdominal."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 1,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "cursan embarazos de bajo riesgo?",
+    "opciones": {
+      "opcion a": "Se deben realizar cuando realiza la consulta la persona gestante.",
+      "opcion b": "Deben ser 10 (diez) visitas según cronograma de recomendación actualizado.",
+      "opcion c": "Se recomienda la adopción de un esquema de 4 (cuatro) visitas obligatorias y evaluar otras si",
+      "opcion d": "Al menos 8 (ocho) visitas para el seguimiento prenatal y adaptarse a las necesidades"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 2,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "por cada 1000 días-cama, según la publicación \"seguridad del paciente\" de la OMS?",
+    "opciones": {
+      "opcion a": "Caídas del paciente.",
+      "opcion b": "Errores en la prescripción de medicamentos.",
+      "opcion c": "Ulceras por decúbito.",
+      "opcion d": "Infecciones asociadas a la internación."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 6,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "cardiopulmonar (RCP) a niños y niñas mayores de 1 año?",
+    "opciones": {
+      "opcion a": "Hasta 2 cm de profundidad.",
+      "opcion b": "10 cm de profundidad.",
+      "opcion c": "3 cm de profundidad.",
+      "opcion d": "Hasta 5 cm de profundidad."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 1,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "pide un Desfibrilador Externo Automático (DEA) pero pasan más de 10 minutos y no se consigue?",
+    "opciones": {
+      "opcion a": "Se realizan 50 compresiones por minuto para suplantar el DEA.",
+      "opcion b": "Se realizan 4 ventilación para suplantar el DEA.",
+      "opcion c": "Se continúa realizando RCP hasta conseguir un DEA.",
+      "opcion d": "Se suspenden las compresiones por no tener un DEA."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 2,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "de presión arterial para niños, niñas y adolescentes, si no se dispone del mango apropiado para la toma?",
+    "opciones": {
+      "opcion a": "Utilizar un mango más grande.",
+      "opcion b": "Utilizar cualquier mango.",
+      "opcion c": "Utilizar el mango correspondiente.",
+      "opcion d": "Utilizar un mango más pequeño."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 3,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Si gestiona por procesos. ¿Qué es lo que quiere alcanzar si se gestiona por procesos?",
+    "opciones": {
+      "opcion a": "Proyectos.",
+      "opcion b": "Estrategias.",
+      "opcion c": "Objetivos.",
+      "opcion d": "Ideas."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 4,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "irritabilidad. Deambula compulsivamente arrojando elementos que se encuentran a su paso. Su discurso es incoherente. ¿Qué manifestaciones presenta según la evaluación de signos y síntomas?",
+    "opciones": {
+      "opcion a": "Excitación psicomotriz.",
+      "opcion b": "Síndrome relacionado con el uso de psicofármacos.",
+      "opcion c": "Inhibición psicomotriz.",
+      "opcion d": "Crisis de ansiedad/ angustia."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 5,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "refiere que existen factores que pueden generar daños a los pacientes relacionados con los sistemas de información sanitaria?",
+    "opciones": {
+      "opcion a": "Factores tecnológicos.",
+      "opcion b": "Factores ambientales.",
+      "opcion c": "Factores externos.",
+      "opcion d": "Factores humanos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 6,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "(OMS)?",
+    "opciones": {
+      "opcion a": "Es la eliminación de heces acuosas en número de 2 a más en menos de 48hs.",
+      "opcion b": "Es la eliminación de heces semi blandas en número de 5 veces en 24hs.",
+      "opcion c": "Es la eliminación de heces líquidas en número de 1 vez en 72hs.",
+      "opcion d": "Es la eliminación de heces semilíquidas en número de 3 o más en 12hs."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 7,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "seguridad del paciente del Ministerio de Salud?",
+    "opciones": {
+      "opcion a": "Creencias subjetivas y cultura individual que tienen los profesionales de salud en pos de evitar",
+      "opcion b": "Valores, actitudes, competencias y patrones de conducta individuales y grupales que",
+      "opcion c": "Actitudes grupales dentro de los equipos de salud relacionados con los cuidados y prevención",
+      "opcion d": "Resultado de acciones individuales preventivas que realizan de manera individual los"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 1,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Inactivada tipo Salk), según el calendario Nacional de Vacunación 2024?",
+    "opciones": {
+      "opcion a": "5 años.",
+      "opcion b": "18 meses.",
+      "opcion c": "24 meses.",
+      "opcion d": "11 años."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 6,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "vacunación?",
+    "opciones": {
+      "opcion a": "Desinfectar la piel.",
+      "opcion b": "Manejo de desechos cortopunzantes.",
+      "opcion c": "Uso de guantes estériles.",
+      "opcion d": "Lavado de manos."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 7,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "el resto del país, según el informe sobre la Situación de salud de adolescentes y jóvenes de la Argentina 2023?",
+    "opciones": {
+      "opcion a": "Misiones.",
+      "opcion b": "Ciudad Autónoma de Buenos Aires.",
+      "opcion c": "Santa Fe.",
+      "opcion d": "Córdoba."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 8,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "prevención y promoción de la salud?",
+    "opciones": {
+      "opcion a": "Tercer Nivel de atención de salud.",
+      "opcion b": "Segundo Nivel de atención de salud.",
+      "opcion c": "Primer nivel de atención de salud.",
+      "opcion d": "Cuarto Nivel de atención de salud."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 9,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "hemorragia post parto sin alumbramiento?",
+    "opciones": {
+      "opcion a": "Evaluar el estado clínico, comprobar hemorragia y realizar masaje uterino.",
+      "opcion b": "Administrar solución fisiológica y si es necesario transfusión glóbulos rojos.",
+      "opcion c": "Inyección de Oxitócica 10UI (EV), masaje uterino, tracción controlada del cordón.",
+      "opcion d": "Evaluar el estado clínico, físico y preparar a la puérpera para una histerectomía."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 0,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "nacimiento?",
+    "opciones": {
+      "opcion a": "Se sugiere realizar de inmediato y luego el APGAR.",
+      "opcion b": "Debe realizarse antes que la persona recién nacida haya comenzado a respirar.",
+      "opcion c": "Se sugiere esperar al menos un minuto o hasta que el cordón deje de latir.",
+      "opcion d": "Debe esperarse hasta que la persona recién nacida haya llorado."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 2,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "AMERICAN HEART ASSOCIATION (AHA) en el ámbito sanitario?",
+    "opciones": {
+      "opcion a": "Comenzar con ventilación, compresiones y colocar dispositivo para la vía aérea.",
+      "opcion b": "Conectar desfibrilador, realizar descarga y evaluar el monitor.",
+      "opcion c": "Administrar adrenalina, lidocaína y conectar un monitor.",
+      "opcion d": "Iniciar RCP, administrar oxígeno y conectar un monitor/desfibrilador."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 3,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "vacunas, según las recomendaciones Nacionales de vacunación-Argentina-2012?",
+    "opciones": {
+      "opcion a": "25º, 45º,95º",
+      "opcion b": "10º,45º,100º",
+      "opcion c": "15°, 45°, 90°",
+      "opcion d": "10º, 50º, 90º"
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 4,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "pacientes con bronquitis, enfisema o asma?",
+    "opciones": {
+      "opcion a": "Roncus.",
+      "opcion b": "Rales crepitantes.",
+      "opcion c": "Sibilancias.",
+      "opcion d": "Soplo por fricción."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 5,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Reanimación cardiopulmonar (RCP) a niños y niñas mayores de 1 año?",
+    "opciones": {
+      "opcion a": "30 compresiones torácicas seguidas de 2 ventilación.",
+      "opcion b": "5 compresiones torácicas seguidas de 1 ventilación.",
+      "opcion c": "10 compresiones torácicas seguidas de 3 ventilaciones.",
+      "opcion d": "15 compresiones torácicas seguidas de 1 ventilaciones."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 6,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "según el calendario Nacional de Vacunación 2024?",
+    "opciones": {
+      "opcion a": "Virus sincicial.",
+      "opcion b": "Hepatitis B.",
+      "opcion c": "Gripe.",
+      "opcion d": "BCG."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 8,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Lineamientos para la atención de la urgencia en Salud Mental (2020)?",
+    "opciones": {
+      "opcion a": "De un médico de guardia.",
+      "opcion b": "De un familiar responsable.",
+      "opcion c": "Del Servicio Policial.",
+      "opcion d": "Del Poder Judicial."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 0,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "de presión arterial, para no tener resultados erróneos?",
+    "opciones": {
+      "opcion a": "La persona tiene que 5 minutos antes tomar líquidos previos a la toma de PA.",
+      "opcion b": "La persona debe guardar reposo previo a la medicación de 2 -5 minutos.",
+      "opcion c": "La persona debe realizar ayuno de 1 hora antes de la toma de PA.",
+      "opcion d": "La persona tiene que estar sentada 1 hora antes y tomar PA en reposo."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 3,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "cardíaco en adultos AMERICAN HEART ASSOCIATION (AHA)?",
+    "opciones": {
+      "opcion a": "Entre 80-90 compresiones por minuto.",
+      "opcion b": "Entre 100-120 compresiones por minuto.",
+      "opcion c": "Entre 130-140 compresiones por minuto.",
+      "opcion d": "Entre 180-200 compresiones por minuto."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 4,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "reproductiva?",
+    "opciones": {
+      "opcion a": "Como el modo de hacer de los profesionales de la salud.",
+      "opcion b": "Como actividades que se observan o recogen del examen del paciente.",
+      "opcion c": "Como la atención subjetiva basada en la deducción de la necesidad.",
+      "opcion d": "Como un modelo organizado y centrado en la persona."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 6,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "de 5 días de vida?",
+    "opciones": {
+      "opcion a": "A 20 grados.",
+      "opcion b": "A 25 grados.",
+      "opcion c": "A 15 grados.",
+      "opcion d": "A 10 grados."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 7,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "fenómenos/objeto de investigación?",
+    "opciones": {
+      "opcion a": "La salud, la comunidad, el entorno y el ambiente.",
+      "opcion b": "La persona, el entorno, la salud y el cuidado.",
+      "opcion c": "El cuidado, el entorno, la enfermedad y el individuo.",
+      "opcion d": "La disciplina, el entorno, la enfermedad y el bienestar."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 9,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "de salud de adolescentes y jóvenes de la Argentina 2023?",
+    "opciones": {
+      "opcion a": "Hogares con más de dos personas por cuarto.",
+      "opcion b": "Hogares sin acceso a agua potable.",
+      "opcion c": "Hogares con acceso a fuentes alternativas de agua.",
+      "opcion d": "Hogares con más de tres personas por cuarto."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 0,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "AMERICAN HEART ASSOCIATION (AHA)?",
+    "opciones": {
+      "opcion a": "Fibrilación auricular y latido irregular.",
+      "opcion b": "Asistolia e insuficiencia mitral.",
+      "opcion c": "Fibrilación Ventricular y Taquicardia Ventricular sin pulso.",
+      "opcion d": "Fibrilación Ventricular y Taquicardia Ventricular con pulso."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 2,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "Presenta colocado un CVPc en miembro superior derecho por tratamiento prolongado de 14 días de antibioticoterapia. Se realiza prescripción de nutrición parenteral estándar por 2 semanas para recuperación nutricional cuya osmolaridad es de 1300 mOsmol/L, ¿Cuál es la osmolaridad recomendada para la administración por vía periférica?",
+    "opciones": {
+      "opcion a": "Osmolaridad de 800 mOsm/L.",
+      "opcion b": "Osmolaridad mayor 1200 mOsm/L.",
+      "opcion c": "Osmolaridad mayor a 600 mOsm/L.",
+      "opcion d": "Osmolaridad menor a 600 mOsm/L."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 4,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "termina de desayunar, siendo las 8:30 hs. llaman del Servicio de Diagnóstico por imágenes para informar que en 5 minutos vienen a buscar al paciente para realizar un estudio que requiere ayuno. Revisa y no se encuentra registrado en la historia clínica del paciente la indicación del estudio, ni fue informado o conversado con Enfermería por el equipo tratante. ¿ A qué factor hace referencia el caso según los eventos adversos habituales para la seguridad del paciente?",
+    "opciones": {
+      "opcion a": "Factores relacionados con el paciente y el entorno.",
+      "opcion b": "Factores tecnológicos e informáticos.",
+      "opcion c": "Factores sistémicos y organizativos.",
+      "opcion d": "Factores humanos y comportamentales."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 5,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "calendario Nacional de Vacunación 2024?",
+    "opciones": {
+      "opcion a": "salk, triple viral, varicela, triple bacteriana.",
+      "opcion b": "salk , triple bacteriana, pentavalente.",
+      "opcion c": "salk, triple bacteriana acelular, triple viral.",
+      "opcion d": "IPV, Triple Viral, varicela y Triple Bacteriana Celular."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 7,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "de intervenciones quirúrgicas en un lugar erróneo, según un informe sobre seguridad del paciente de la OMS?",
+    "opciones": {
+      "opcion a": "Historia clínica electrónica.",
+      "opcion b": "Identificación de paciente.",
+      "opcion c": "Informatización de la prescripción.",
+      "opcion d": "Prácticas riesgosas de inyección."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 8,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "comunitarios?",
+    "opciones": {
+      "opcion a": "Primaria.",
+      "opcion b": "Oficial.",
+      "opcion c": "Secundaria.",
+      "opcion d": "Terciaria."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 9,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "cuanto a la persona acompañante?",
+    "opciones": {
+      "opcion a": "Puede elegir solo a un familiar directo para que la acompañe.",
+      "opcion b": "Puede elegir solo a la madre de la persona gestante para que la acompañe.",
+      "opcion c": "Puede elegir a la persona que acompañe todo el tiempo en esos procesos.",
+      "opcion d": "Puede elegir al padre de la persona por nacer."
+    },
+    "respuesta_correcta": "opcion a"
+  },
+  {
+    "id": 0,
+    "tema": "Enfermería 2024",
+    "año": 2024,
+    "caso_clínico": "",
+    "pregunta": "recomendaciones del Ministerio de salud de prevención cuaternaria?",
+    "opciones": {
+      "opcion a": "Administrar oxígeno humidificados a todos los pacientes.",
+      "opcion b": "Administrar oxígeno suplementario mezclado.",
+      "opcion c": "Utilizar cánulas de alto flujo para pacientes con enfisema.",
+      "opcion d": "Para tratar la disnea no hipóxica no utilizar oxígeno."
+    },
+    "respuesta_correcta": "opcion a"
+  }
+]

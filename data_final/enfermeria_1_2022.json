@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "tema": "Enfermería 2022",
+    "año": 2022,
+    "caso_clínico": "",
+    "pregunta": "¿Cuáles son los factores de riesgo externos o ambientales?",
+    "opciones": {
+      "opcion a": "Superficies irregulares, iluminación deficiente y obstáculos domésticos",
+      "opcion b": "Pérdida de masa muscular por envejecimiento",
+      "opcion c": "Incontinencia urinaria prolongada",
+      "opcion d": "Exceso de medicación antihipertensiva"
+    },
+    "respuesta_correcta": "opcion a"
+  }
+]
