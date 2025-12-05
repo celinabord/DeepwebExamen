@@ -134,8 +134,27 @@ function actualizarPanelAdmin() {
     mostrarEstadisticas();
 }
 
-function mostrarEstadisticas() {
-    const estadisticas = JSON.parse(localStorage.getItem('estadisticasExamenes') || '[]');
+async function mostrarEstadisticas() {
+    let estadisticas = [];
+    
+    // Intentar obtener desde Firebase primero
+    if (typeof obtenerEstadisticasFirebase !== 'undefined') {
+        try {
+            const firebaseData = await obtenerEstadisticasFirebase();
+            if (firebaseData && firebaseData.length > 0) {
+                estadisticas = firebaseData;
+                console.log('📊 Mostrando estadísticas desde Firebase');
+            }
+        } catch (error) {
+            console.warn('Error al obtener datos de Firebase, usando localStorage:', error);
+        }
+    }
+    
+    // Si no hay datos de Firebase, usar localStorage
+    if (estadisticas.length === 0) {
+        estadisticas = JSON.parse(localStorage.getItem('estadisticasExamenes') || '[]');
+        console.log('📊 Mostrando estadísticas desde localStorage');
+    }
     
     // Calcular totales
     const totalExamenes = estadisticas.length;
@@ -198,16 +217,44 @@ function mostrarEstadisticas() {
     });
 }
 
-function limpiarEstadisticas() {
-    if (confirm('¿Está seguro de eliminar TODAS las estadísticas?\n\nEsta acción no se puede deshacer.')) {
+async function limpiarEstadisticas() {
+    if (confirm('¿Está seguro de eliminar TODAS las estadísticas?\n\nEsta acción no se puede deshacer y eliminará los datos de la nube y del almacenamiento local.')) {
+        // Limpiar localStorage
         localStorage.removeItem('estadisticasExamenes');
-        mostrarEstadisticas();
-        alert('Estadísticas eliminadas exitosamente.');
+        
+        // Limpiar Firebase si está habilitado
+        if (typeof limpiarEstadisticasFirebase !== 'undefined') {
+            try {
+                await limpiarEstadisticasFirebase();
+            } catch (error) {
+                console.warn('Error al limpiar Firebase:', error);
+            }
+        }
+        
+        await mostrarEstadisticas();
+        alert('Estadísticas eliminadas exitosamente de todos los sistemas.');
     }
 }
 
-function exportarEstadisticas() {
-    const estadisticas = JSON.parse(localStorage.getItem('estadisticasExamenes') || '[]');
+async function exportarEstadisticas() {
+    let estadisticas = [];
+    
+    // Intentar obtener desde Firebase primero
+    if (typeof obtenerEstadisticasFirebase !== 'undefined') {
+        try {
+            const firebaseData = await obtenerEstadisticasFirebase();
+            if (firebaseData && firebaseData.length > 0) {
+                estadisticas = firebaseData;
+            }
+        } catch (error) {
+            console.warn('Error al obtener datos de Firebase para exportar:', error);
+        }
+    }
+    
+    // Si no hay datos de Firebase, usar localStorage
+    if (estadisticas.length === 0) {
+        estadisticas = JSON.parse(localStorage.getItem('estadisticasExamenes') || '[]');
+    }
     
     if (estadisticas.length === 0) {
         alert('No hay estadísticas para exportar.');
@@ -672,15 +719,20 @@ function finalizarExamen() {
     mostrarResultados(correctas, incorrectas, porcentaje);
 }
 
-function guardarEstadistica(dato) {
-    // Obtener estadísticas existentes
+async function guardarEstadistica(dato) {
+    // Guardar en localStorage (siempre como respaldo)
     let estadisticas = JSON.parse(localStorage.getItem('estadisticasExamenes') || '[]');
-    
-    // Agregar nueva estadística
     estadisticas.push(dato);
-    
-    // Guardar en localStorage
     localStorage.setItem('estadisticasExamenes', JSON.stringify(estadisticas));
+    
+    // Guardar en Firebase si está habilitado
+    if (typeof guardarEstadisticaFirebase !== 'undefined') {
+        try {
+            await guardarEstadisticaFirebase(dato);
+        } catch (error) {
+            console.warn('No se pudo guardar en Firebase, pero se guardó en localStorage:', error);
+        }
+    }
 }
 
 function mostrarResultados(correctas, incorrectas, porcentaje) {
