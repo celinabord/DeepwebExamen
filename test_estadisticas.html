@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test de Estadísticas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .test-container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        .test-section {
+            margin: 20px 0;
+            padding: 15px;
+            background: #f9f9f9;
+            border-left: 4px solid #667eea;
+        }
+        .test-result {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        .success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+        button {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 5px;
+        }
+        button:hover {
+            background: #5568d3;
+        }
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        .stats-display {
+            margin-top: 20px;
+            padding: 15px;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .stat-item {
+            padding: 10px;
+            margin: 5px 0;
+            background: #f8f9fa;
+            border-radius: 3px;
+        }
+        pre {
+            background: #282c34;
+            color: #abb2bf;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <h1>🧪 Test de Sistema de Estadísticas</h1>
+        
+        <div class="test-section">
+            <h2>Paso 1: Crear datos de prueba</h2>
+            <button onclick="crearDatosPrueba()">Generar Exámenes de Prueba</button>
+            <button onclick="limpiarDatos()">Limpiar Todo</button>
+            <div id="resultado1"></div>
+        </div>
+
+        <div class="test-section">
+            <h2>Paso 2: Verificar almacenamiento</h2>
+            <button onclick="verificarLocalStorage()">Verificar localStorage</button>
+            <div id="resultado2"></div>
+        </div>
+
+        <div class="test-section">
+            <h2>Paso 3: Simular cálculos de estadísticas</h2>
+            <button onclick="calcularEstadisticas()">Calcular Estadísticas</button>
+            <div id="resultado3"></div>
+        </div>
+
+        <div class="test-section">
+            <h2>Paso 4: Probar funciones de app.js</h2>
+            <button onclick="probarFunciones()">Probar Funciones</button>
+            <div id="resultado4"></div>
+        </div>
+
+        <div class="test-section">
+            <h2>Paso 5: Exportar CSV</h2>
+            <button onclick="testExportarCSV()">Test Exportar CSV</button>
+            <div id="resultado5"></div>
+        </div>
+
+        <div class="stats-display">
+            <h3>📊 Estado Actual del Sistema</h3>
+            <div id="estadoActual"></div>
+        </div>
+    </div>
+
+    <script>
+        // Función para crear datos de prueba
+        function crearDatosPrueba() {
+            const estadisticas = [
+                {
+                    nombre: "Juan Pérez",
+                    especialidad: "Cardiología",
+                    fecha: new Date('2024-12-01T10:30:00').toISOString(),
+                    correctas: 85,
+                    incorrectas: 15,
+                    total: 100,
+                    porcentaje: 85,
+                    aprobado: true,
+                    tiempoUsado: 7200 // 2 horas
+                },
+                {
+                    nombre: "María González",
+                    especialidad: "Neurología",
+                    fecha: new Date('2024-12-02T14:15:00').toISOString(),
+                    correctas: 55,
+                    incorrectas: 45,
+                    total: 100,
+                    porcentaje: 55,
+                    aprobado: false,
+                    tiempoUsado: 9000 // 2.5 horas
+                },
+                {
+                    nombre: "Carlos Rodríguez",
+                    especialidad: "Pediatría",
+                    fecha: new Date('2024-12-03T09:00:00').toISOString(),
+                    correctas: 72,
+                    incorrectas: 28,
+                    total: 100,
+                    porcentaje: 72,
+                    aprobado: true,
+                    tiempoUsado: 8400 // 2.33 horas
+                },
+                {
+                    nombre: "Ana Martínez",
+                    especialidad: "Enfermería 2024",
+                    fecha: new Date('2024-12-04T11:45:00').toISOString(),
+                    correctas: 48,
+                    incorrectas: 52,
+                    total: 100,
+                    porcentaje: 48,
+                    aprobado: false,
+                    tiempoUsado: 10800 // 3 horas
+                },
+                {
+                    nombre: "Luis Fernández",
+                    especialidad: "Urología",
+                    fecha: new Date('2024-12-05T08:30:00').toISOString(),
+                    correctas: 90,
+                    incorrectas: 10,
+                    total: 100,
+                    porcentaje: 90,
+                    aprobado: true,
+                    tiempoUsado: 6600 // 1.83 horas
+                }
+            ];
+
+            try {
+                localStorage.setItem('estadisticasExamenes', JSON.stringify(estadisticas));
+                document.getElementById('resultado1').innerHTML = 
+                    `<div class="test-result success">
+                        ✅ Se crearon ${estadisticas.length} exámenes de prueba exitosamente
+                    </div>`;
+                actualizarEstadoActual();
+            } catch (error) {
+                document.getElementById('resultado1').innerHTML = 
+                    `<div class="test-result error">
+                        ❌ Error: ${error.message}
+                    </div>`;
+            }
+        }
+
+        // Función para limpiar datos
+        function limpiarDatos() {
+            if (confirm('¿Estás seguro de eliminar todos los datos de prueba?')) {
+                localStorage.removeItem('estadisticasExamenes');
+                document.getElementById('resultado1').innerHTML = 
+                    `<div class="test-result info">
+                        🗑️ Todos los datos han sido eliminados
+                    </div>`;
+                actualizarEstadoActual();
+            }
+        }
+
+        // Función para verificar localStorage
+        function verificarLocalStorage() {
+            const datos = localStorage.getItem('estadisticasExamenes');
+            const resultado = document.getElementById('resultado2');
+            
+            if (datos) {
+                try {
+                    const estadisticas = JSON.parse(datos);
+                    resultado.innerHTML = 
+                        `<div class="test-result success">
+                            ✅ localStorage contiene ${estadisticas.length} registros
+                        </div>
+                        <pre>${JSON.stringify(estadisticas, null, 2)}</pre>`;
+                } catch (error) {
+                    resultado.innerHTML = 
+                        `<div class="test-result error">
+                            ❌ Error al parsear JSON: ${error.message}
+                        </div>`;
+                }
+            } else {
+                resultado.innerHTML = 
+                    `<div class="test-result info">
+                        ℹ️ No hay datos en localStorage
+                    </div>`;
+            }
+        }
+
+        // Función para calcular estadísticas
+        function calcularEstadisticas() {
+            const estadisticas = JSON.parse(localStorage.getItem('estadisticasExamenes') || '[]');
+            const resultado = document.getElementById('resultado3');
+            
+            if (estadisticas.length === 0) {
+                resultado.innerHTML = 
+                    `<div class="test-result info">
+                        ℹ️ No hay datos para calcular
+                    </div>`;
+                return;
+            }
+
+            const totalExamenes = estadisticas.length;
+            const aprobados = estadisticas.filter(e => e.aprobado).length;
+            const reprobados = totalExamenes - aprobados;
+            const porcentajeAprobacion = Math.round((aprobados / totalExamenes) * 100);
+            
+            const promedioNotas = Math.round(
+                estadisticas.reduce((sum, e) => sum + e.porcentaje, 0) / totalExamenes
+            );
+
+            resultado.innerHTML = 
+                `<div class="test-result success">
+                    ✅ Cálculos realizados:
+                    <div class="stat-item">📊 Total Exámenes: <strong>${totalExamenes}</strong></div>
+                    <div class="stat-item">✔️ Aprobados: <strong>${aprobados}</strong></div>
+                    <div class="stat-item">✖️ Reprobados: <strong>${reprobados}</strong></div>
+                    <div class="stat-item">📈 % Aprobación: <strong>${porcentajeAprobacion}%</strong></div>
+                    <div class="stat-item">📝 Promedio General: <strong>${promedioNotas}%</strong></div>
+                </div>`;
+        }
+
+        // Función para probar funciones de app.js
+        function probarFunciones() {
+            const resultado = document.getElementById('resultado4');
+            let tests = [];
+
+            // Test 1: Verificar que las funciones existan
+            tests.push({
+                nombre: "Verificar funciones en app.js",
+                resultado: typeof guardarEstadistica !== 'undefined' || 
+                          typeof mostrarEstadisticas !== 'undefined' ||
+                          typeof limpiarEstadisticas !== 'undefined',
+                mensaje: "Las funciones están definidas en app.js (necesitas abrir index.html para acceder a ellas)"
+            });
+
+            // Test 2: Verificar estructura de datos
+            const datos = JSON.parse(localStorage.getItem('estadisticasExamenes') || '[]');
+            if (datos.length > 0) {
+                const primerDato = datos[0];
+                const camposRequeridos = ['nombre', 'especialidad', 'fecha', 'correctas', 'incorrectas', 'total', 'porcentaje', 'aprobado', 'tiempoUsado'];
+                const todosCamposPresentes = camposRequeridos.every(campo => primerDato.hasOwnProperty(campo));
+                
+                tests.push({
+                    nombre: "Estructura de datos correcta",
+                    resultado: todosCamposPresentes,
+                    mensaje: todosCamposPresentes ? "Todos los campos requeridos están presentes" : "Faltan campos en la estructura"
+                });
+            }
+
+            // Test 3: Verificar tipos de datos
+            if (datos.length > 0) {
+                const primerDato = datos[0];
+                const tiposCorrecto = 
+                    typeof primerDato.nombre === 'string' &&
+                    typeof primerDato.correctas === 'number' &&
+                    typeof primerDato.aprobado === 'boolean' &&
+                    typeof primerDato.porcentaje === 'number';
+                
+                tests.push({
+                    nombre: "Tipos de datos correctos",
+                    resultado: tiposCorrecto,
+                    mensaje: tiposCorrecto ? "Los tipos de datos son correctos" : "Hay problemas con los tipos de datos"
+                });
+            }
+
+            let html = '<div class="test-result success"><h4>Resultados de las Pruebas:</h4>';
+            tests.forEach(test => {
+                html += `<div class="stat-item">
+                    ${test.resultado ? '✅' : '❌'} <strong>${test.nombre}:</strong> ${test.mensaje}
+                </div>`;
+            });
+            html += '</div>';
+            resultado.innerHTML = html;
+        }
+
+        // Función para test de exportar CSV
+        function testExportarCSV() {
+            const estadisticas = JSON.parse(localStorage.getItem('estadisticasExamenes') || '[]');
+            const resultado = document.getElementById('resultado5');
+            
+            if (estadisticas.length === 0) {
+                resultado.innerHTML = 
+                    `<div class="test-result info">
+                        ℹ️ No hay datos para exportar
+                    </div>`;
+                return;
+            }
+
+            // Simular generación de CSV
+            let csv = 'Nombre,Especialidad,Fecha,Correctas,Incorrectas,Total,Porcentaje,Estado,Tiempo (min)\n';
+            
+            estadisticas.forEach(est => {
+                const fecha = new Date(est.fecha).toLocaleString('es-AR');
+                const tiempoMinutos = Math.floor(est.tiempoUsado / 60);
+                csv += `"${est.nombre}","${est.especialidad}","${fecha}",${est.correctas},${est.incorrectas},${est.total},${est.porcentaje}%,"${est.aprobado ? 'Aprobado' : 'Reprobado'}",${tiempoMinutos}\n`;
+            });
+
+            resultado.innerHTML = 
+                `<div class="test-result success">
+                    ✅ CSV generado correctamente con ${estadisticas.length} registros
+                    <pre>${csv}</pre>
+                    <button onclick="descargarCSV()">Descargar CSV Real</button>
+                </div>`;
+        }
+
+        // Función para descargar CSV
+        function descargarCSV() {
+            const estadisticas = JSON.parse(localStorage.getItem('estadisticasExamenes') || '[]');
+            let csv = 'Nombre,Especialidad,Fecha,Correctas,Incorrectas,Total,Porcentaje,Estado,Tiempo (min)\n';
+            
+            estadisticas.forEach(est => {
+                const fecha = new Date(est.fecha).toLocaleString('es-AR');
+                const tiempoMinutos = Math.floor(est.tiempoUsado / 60);
+                csv += `"${est.nombre}","${est.especialidad}","${fecha}",${est.correctas},${est.incorrectas},${est.total},${est.porcentaje}%,"${est.aprobado ? 'Aprobado' : 'Reprobado'}",${tiempoMinutos}\n`;
+            });
+
+            const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+            const link = document.createElement('a');
+            const url = URL.createObjectURL(blob);
+            link.setAttribute('href', url);
+            link.setAttribute('download', 'test_estadisticas_' + new Date().getTime() + '.csv');
+            link.style.visibility = 'hidden';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+
+        // Función para actualizar estado actual
+        function actualizarEstadoActual() {
+            const datos = localStorage.getItem('estadisticasExamenes');
+            const div = document.getElementById('estadoActual');
+            
+            if (datos) {
+                const estadisticas = JSON.parse(datos);
+                const totalExamenes = estadisticas.length;
+                const aprobados = estadisticas.filter(e => e.aprobado).length;
+                const reprobados = totalExamenes - aprobados;
+                
+                div.innerHTML = `
+                    <div class="stat-item">📊 Total de Exámenes: <strong>${totalExamenes}</strong></div>
+                    <div class="stat-item">✅ Aprobados: <strong>${aprobados}</strong></div>
+                    <div class="stat-item">❌ Reprobados: <strong>${reprobados}</strong></div>
+                    <div class="stat-item">💾 Tamaño en localStorage: <strong>${(JSON.stringify(estadisticas).length / 1024).toFixed(2)} KB</strong></div>
+                `;
+            } else {
+                div.innerHTML = '<div class="stat-item">Sin datos almacenados</div>';
+            }
+        }
+
+        // Cargar estado al iniciar
+        actualizarEstadoActual();
+    </script>
+</body>
+</html>

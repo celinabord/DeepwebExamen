@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo Visual - Estadísticas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #f0f2f5;
+        }
+        .demo-container {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        .step {
+            margin: 30px 0;
+            padding: 20px;
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            border-radius: 5px;
+        }
+        .step h2 {
+            color: #667eea;
+            margin-top: 0;
+        }
+        .stats-preview {
+            margin: 20px 0;
+        }
+        .stat-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .stat-card {
+            padding: 20px;
+            border-radius: 10px;
+            color: white;
+            text-align: center;
+        }
+        .stat-card.total {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .stat-card.success {
+            background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+        }
+        .stat-card.danger {
+            background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+        }
+        .stat-card.info {
+            background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+        }
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+        }
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.9;
+            text-transform: uppercase;
+        }
+        .exam-list {
+            margin: 20px 0;
+        }
+        .exam-item {
+            background: white;
+            border-left: 4px solid #667eea;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .exam-item.aprobado {
+            border-left-color: #10b981;
+        }
+        .exam-item.reprobado {
+            border-left-color: #ef4444;
+        }
+        .exam-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .exam-nombre {
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+        .badge {
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: bold;
+        }
+        .badge.aprobado {
+            background: #d1fae5;
+            color: #065f46;
+        }
+        .badge.reprobado {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+        .exam-details {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+            color: #666;
+            font-size: 0.9rem;
+        }
+        .detail-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .highlight {
+            background: #fff3cd;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-weight: bold;
+        }
+        .example-box {
+            background: #e7f3ff;
+            border: 2px solid #3b82f6;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+        .code-block {
+            background: #282c34;
+            color: #abb2bf;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="demo-container">
+        <h1>📊 Cómo Funciona el Sistema de Estadísticas</h1>
+        
+        <div class="step">
+            <h2>Paso 1: Alumno Rinde Examen</h2>
+            <p>El alumno ingresa su nombre, selecciona una especialidad y responde las preguntas.</p>
+            <div class="example-box">
+                <strong>Ejemplo:</strong><br>
+                👤 Nombre: <span class="highlight">María Rodríguez</span><br>
+                🩺 Especialidad: <span class="highlight">Cardiología</span><br>
+                ✏️ Respuestas: 100 preguntas
+            </div>
+        </div>
+
+        <div class="step">
+            <h2>Paso 2: Sistema Calcula Automáticamente</h2>
+            <p>Al hacer click en "Finalizar Examen", el sistema calcula:</p>
+            <div class="code-block">
+✓ Correctas: 75<br>
+✗ Incorrectas: 25<br>
+📊 Porcentaje: 75%<br>
+✅ Resultado: APROBADO (≥60%)
+            </div>
+        </div>
+
+        <div class="step">
+            <h2>Paso 3: Se Guarda en Estadísticas</h2>
+            <p>Los datos se almacenan automáticamente en el navegador (localStorage):</p>
+            <div class="code-block">
+{<br>
+  "nombre": "María Rodríguez",<br>
+  "especialidad": "Cardiología",<br>
+  "fecha": "2025-12-05T15:30:00.000Z",<br>
+  "correctas": 75,<br>
+  "incorrectas": 25,<br>
+  "total": 100,<br>
+  "porcentaje": 75,<br>
+  <strong style="color: #98c379;">"aprobado": true</strong>,  ← ✅ APROBADO<br>
+  "tiempoUsado": 7200<br>
+}
+            </div>
+        </div>
+
+        <div class="step">
+            <h2>Paso 4: Administrador Ve las Estadísticas</h2>
+            <p>El administrador ingresa con la clave y ve:</p>
+            
+            <h3 style="color: #667eea; margin-top: 20px;">📊 Resumen General:</h3>
+            <div class="stat-cards">
+                <div class="stat-card total">
+                    <div class="stat-number">5</div>
+                    <div class="stat-label">Total Exámenes</div>
+                </div>
+                <div class="stat-card success">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">Aprobados</div>
+                </div>
+                <div class="stat-card danger">
+                    <div class="stat-number">2</div>
+                    <div class="stat-label">Reprobados</div>
+                </div>
+                <div class="stat-card info">
+                    <div class="stat-number">60%</div>
+                    <div class="stat-label">% Aprobación</div>
+                </div>
+            </div>
+
+            <h3 style="color: #667eea; margin-top: 30px;">📋 Lista Detallada de Exámenes:</h3>
+            <div class="exam-list">
+                <div class="exam-item aprobado">
+                    <div class="exam-header">
+                        <span class="exam-nombre">👤 María Rodríguez</span>
+                        <span class="badge aprobado">✓ APROBADO</span>
+                    </div>
+                    <div class="exam-details">
+                        <div class="detail-item">🩺 Cardiología</div>
+                        <div class="detail-item">📅 05/12/2025 15:30</div>
+                        <div class="detail-item">📊 <strong>75%</strong> (75/100)</div>
+                        <div class="detail-item">⏱️ 120 minutos</div>
+                    </div>
+                </div>
+
+                <div class="exam-item reprobado">
+                    <div class="exam-header">
+                        <span class="exam-nombre">👤 Juan Pérez</span>
+                        <span class="badge reprobado">✗ REPROBADO</span>
+                    </div>
+                    <div class="exam-details">
+                        <div class="detail-item">🩺 Neurología</div>
+                        <div class="detail-item">📅 05/12/2025 14:15</div>
+                        <div class="detail-item">📊 <strong>48%</strong> (48/100)</div>
+                        <div class="detail-item">⏱️ 180 minutos</div>
+                    </div>
+                </div>
+
+                <div class="exam-item aprobado">
+                    <div class="exam-header">
+                        <span class="exam-nombre">👤 Carlos Gómez</span>
+                        <span class="badge aprobado">✓ APROBADO</span>
+                    </div>
+                    <div class="exam-details">
+                        <div class="detail-item">🩺 Pediatría</div>
+                        <div class="detail-item">📅 05/12/2025 10:00</div>
+                        <div class="detail-item">📊 <strong>88%</strong> (88/100)</div>
+                        <div class="detail-item">⏱️ 95 minutos</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="step">
+            <h2>🎯 Criterio de Aprobación</h2>
+            <div class="example-box">
+                <p style="margin: 0; font-size: 1.1rem;">
+                    <strong>Si porcentaje ≥ 60%</strong> → ✅ <span style="color: #059669;">APROBADO</span><br>
+                    <strong>Si porcentaje < 60%</strong> → ❌ <span style="color: #dc2626;">REPROBADO</span>
+                </p>
+            </div>
+        </div>
+
+        <div class="step">
+            <h2>💾 ¿Dónde se Guardan los Datos?</h2>
+            <p>Los datos se almacenan en <strong>localStorage</strong> del navegador bajo la clave:</p>
+            <div class="code-block">
+localStorage.getItem('estadisticasExamenes')
+            </div>
+            <p style="margin-top: 15px;">Esto significa que:</p>
+            <ul>
+                <li>✅ Los datos persisten aunque cierres el navegador</li>
+                <li>✅ No necesitas base de datos externa</li>
+                <li>✅ Funciona offline</li>
+                <li>⚠️ Si borras el caché del navegador, se pierden los datos</li>
+                <li>💡 Por eso hay opción de "Exportar CSV" como respaldo</li>
+            </ul>
+        </div>
+
+        <div class="step">
+            <h2>🔍 Para Probarlo AHORA:</h2>
+            <ol style="font-size: 1.1rem; line-height: 2;">
+                <li>Abre: <a href="http://localhost:8000" target="_blank">http://localhost:8000</a></li>
+                <li>Click en <strong>"Alumno"</strong></li>
+                <li>Ingresa tu nombre y clave: <code style="background: #f0f0f0; padding: 2px 6px;">DEMO2025</code></li>
+                <li>Selecciona una especialidad</li>
+                <li>Responde algunas preguntas y click <strong>"Finalizar Examen"</strong></li>
+                <li>Vuelve al inicio y entra como <strong>"Administrador"</strong></li>
+                <li>Ingresa clave: <code style="background: #f0f0f0; padding: 2px 6px;">Teamopi91</code></li>
+                <li>✅ <strong>Verás tu examen con el resultado (Aprobado/Reprobado)</strong></li>
+            </ol>
+        </div>
+    </div>
+</body>
+</html>
