@@ -8,13 +8,13 @@
 // 5. Copia la configuración y reemplaza los valores abajo
 
 const firebaseConfig = {
-    apiKey: "TU_API_KEY_AQUI",
-    authDomain: "tu-proyecto.firebaseapp.com",
-    databaseURL: "https://tu-proyecto-default-rtdb.firebaseio.com",
-    projectId: "tu-proyecto",
-    storageBucket: "tu-proyecto.appspot.com",
-    messagingSenderId: "123456789",
-    appId: "1:123456789:web:abcdef123456"
+    apiKey: "AIzaSyAZncg80zZ-DvM8q5XljGC2Vh4ZKDp6cZQ",
+    authDomain: "deepweb-examenes.firebaseapp.com",
+    databaseURL: "https://deepweb-examenes-default-rtdb.firebaseio.com",
+    projectId: "deepweb-examenes",
+    storageBucket: "deepweb-examenes.firebasestorage.app",
+    messagingSenderId: "136422691134",
+    appId: "1:136422691134:web:770299289077b6d9ab9c6f"
 };
 
 // Variable para controlar si Firebase está habilitado
