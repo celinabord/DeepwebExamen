@@ -704,9 +704,64 @@ footer {
     .score-number {
         font-size: 2.5rem;
     }
+
+    /* Estadísticas responsive */
+    .estadisticas-resumen {
+        grid-template-columns: 1fr;
+        gap: 0.75rem;
+    }
+
+    .stat-card {
+        padding: 1rem;
+    }
+
+    .estadistica-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .estadistica-detalles {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+    }
+
+    .estadistica-nombre {
+        font-size: 1rem;
+    }
 }
 
 /* ===== ESTADÍSTICAS ===== */
+.firebase-status {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: #e0f2fe;
+    color: #0369a1;
+    border-radius: 20px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    animation: pulse 2s infinite;
+}
+
+.firebase-status.connected {
+    background: #d1fae5;
+    color: #065f46;
+    animation: none;
+}
+
+.firebase-status.error {
+    background: #fee2e2;
+    color: #991b1b;
+    animation: none;
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
 .estadisticas-resumen {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));

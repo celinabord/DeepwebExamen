@@ -136,6 +136,8 @@ function actualizarPanelAdmin() {
 
 async function mostrarEstadisticas() {
     let estadisticas = [];
+    const statusEl = document.getElementById('firebaseStatus');
+    const statusTextEl = document.getElementById('firebaseStatusText');
     
     // Intentar obtener desde Firebase primero
     if (typeof obtenerEstadisticasFirebase !== 'undefined') {
@@ -143,10 +145,23 @@ async function mostrarEstadisticas() {
             const firebaseData = await obtenerEstadisticasFirebase();
             if (firebaseData && firebaseData.length > 0) {
                 estadisticas = firebaseData;
+                if (statusEl) {
+                    statusEl.className = 'firebase-status connected';
+                    statusTextEl.innerHTML = '<i class="fas fa-check-circle"></i> Sincronizado con la nube';
+                }
                 console.log('📊 Mostrando estadísticas desde Firebase');
             }
         } catch (error) {
+            if (statusEl) {
+                statusEl.className = 'firebase-status error';
+                statusTextEl.innerHTML = '<i class="fas fa-exclamation-triangle"></i> Modo sin conexión';
+            }
             console.warn('Error al obtener datos de Firebase, usando localStorage:', error);
+        }
+    } else {
+        if (statusEl) {
+            statusEl.className = 'firebase-status error';
+            statusTextEl.innerHTML = '<i class="fas fa-database"></i> Solo almacenamiento local';
         }
     }
     
