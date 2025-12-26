@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Login</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: 0 auto; }
+        .test-section { background: #f0f0f0; padding: 15px; margin: 10px 0; border-radius: 5px; }
+        .success { color: green; }
+        .error { color: red; }
+        button { padding: 10px 20px; margin: 5px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>🔍 Diagnóstico del Sistema de Login</h1>
+    
+    <div class="test-section">
+        <h3>1. Test de Carga de Archivos</h3>
+        <div id="test-carga"></div>
+    </div>
+    
+    <div class="test-section">
+        <h3>2. Test de Firebase</h3>
+        <div id="test-firebase"></div>
+    </div>
+    
+    <div class="test-section">
+        <h3>3. Test de Funciones</h3>
+        <div id="test-funciones"></div>
+    </div>
+    
+    <div class="test-section">
+        <h3>4. Test de Login Alumno</h3>
+        <input type="text" id="testNombre" placeholder="Nombre" value="Test User">
+        <input type="password" id="testClave" placeholder="Clave" value="DEMO2025">
+        <button onclick="testLoginAlumno()">Probar Login</button>
+        <div id="test-login-result"></div>
+    </div>
+
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-database-compat.js"></script>
+    <script src="firebase-config.js"></script>
+    <script src="ia-analisis.js"></script>
+    <script src="app.js"></script>
+    
+    <script>
+        // Test 1: Verificar carga de archivos
+        setTimeout(() => {
+            const testCarga = document.getElementById('test-carga');
+            let html = '';
+            
+            html += typeof firebase !== 'undefined' ? 
+                '<p class="success">✅ Firebase SDK cargado</p>' : 
+                '<p class="error">❌ Firebase SDK NO cargado</p>';
+                
+            html += typeof initFirebase !== 'undefined' ? 
+                '<p class="success">✅ firebase-config.js cargado</p>' : 
+                '<p class="error">❌ firebase-config.js NO cargado</p>';
+                
+            html += typeof SistemaIA !== 'undefined' ? 
+                '<p class="success">✅ ia-analisis.js cargado</p>' : 
+                '<p class="error">❌ ia-analisis.js NO cargado</p>';
+                
+            html += typeof validarAlumno !== 'undefined' ? 
+                '<p class="success">✅ app.js cargado</p>' : 
+                '<p class="error">❌ app.js NO cargado</p>';
+                
+            testCarga.innerHTML = html;
+        }, 500);
+        
+        // Test 2: Verificar Firebase
+        setTimeout(() => {
+            const testFirebase = document.getElementById('test-firebase');
+            let html = '';
+            
+            if (typeof firebaseEnabled !== 'undefined') {
+                html += firebaseEnabled ? 
+                    '<p class="success">✅ Firebase habilitado y funcionando</p>' : 
+                    '<p class="error">⚠️ Firebase deshabilitado (usando localStorage)</p>';
+            }
+            
+            if (typeof claveAlumno !== 'undefined') {
+                html += `<p class="success">✅ Clave actual: <strong>${claveAlumno}</strong></p>`;
+            }
+            
+            testFirebase.innerHTML = html;
+        }, 1000);
+        
+        // Test 3: Verificar funciones
+        setTimeout(() => {
+            const testFunciones = document.getElementById('test-funciones');
+            let html = '';
+            
+            const funciones = [
+                'mostrarPantalla',
+                'validarAlumno',
+                'validarAdmin',
+                'mostrarLoginAlumno',
+                'mostrarAnalisisIA'
+            ];
+            
+            funciones.forEach(func => {
+                html += typeof window[func] !== 'undefined' ? 
+                    `<p class="success">✅ ${func}()</p>` : 
+                    `<p class="error">❌ ${func}() NO encontrada</p>`;
+            });
+            
+            testFunciones.innerHTML = html;
+        }, 1500);
+        
+        // Test 4: Simular login
+        function testLoginAlumno() {
+            const result = document.getElementById('test-login-result');
+            const nombre = document.getElementById('testNombre').value;
+            const clave = document.getElementById('testClave').value;
+            
+            result.innerHTML = '<p>⏳ Probando login...</p>';
+            
+            setTimeout(() => {
+                if (!nombre) {
+                    result.innerHTML = '<p class="error">❌ Nombre requerido</p>';
+                    return;
+                }
+                
+                if (clave !== claveAlumno) {
+                    result.innerHTML = `<p class="error">❌ Clave incorrecta. Esperada: ${claveAlumno}, Recibida: ${clave}</p>`;
+                    return;
+                }
+                
+                if (typeof fechaExpiracionClave !== 'undefined' && new Date().getTime() > fechaExpiracionClave) {
+                    result.innerHTML = '<p class="error">❌ Clave expirada</p>';
+                    return;
+                }
+                
+                result.innerHTML = '<p class="success">✅ ¡Login exitoso! El sistema funciona correctamente.</p>';
+            }, 500);
+        }
+    </script>
+</body>
+</html>
