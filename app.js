@@ -315,6 +315,9 @@ function validarAlumno() {
 // ===== CARGA DE PREGUNTAS =====
 async function cargarPreguntas(especialidad) {
     try {
+        // Verificar si el modo IA híbrido está activado
+        const modoIA = document.getElementById('iaToggle')?.checked || false;
+        
         const response = await fetch(`data_final/${especialidad}.json`);
         if (!response.ok) {
             throw new Error(`Error al cargar: ${response.status}`);
@@ -366,7 +369,17 @@ async function cargarPreguntas(especialidad) {
         
         console.log(`Cargadas ${preguntasValidas.length} preguntas válidas de ${especialidad}`);
         
-        // Seleccionar 100 preguntas aleatorias (o todas si hay menos de 100)
+        // Si el modo IA está activado, usar modo híbrido
+        if (modoIA && window.generadorIA && window.generadorIA.estaConfigurado()) {
+            // Modo híbrido: 50 del banco + 50 de IA
+            const preguntasHibridas = await window.generadorIA.generarExamenHibrido(
+                especialidad.replace(/enfermeria_\d{4}(_\d+)?(_alt)?/, 'enfermeria'), 
+                preguntasValidas
+            );
+            return preguntasHibridas;
+        }
+        
+        // Modo normal: 100 preguntas del banco
         const cantidad = Math.min(100, preguntasValidas.length);
         const preguntasSeleccionadas = seleccionarPreguntasAleatorias(preguntasValidas, cantidad);
         return preguntasSeleccionadas;
@@ -1001,3 +1014,66 @@ async function mostrarAnalisisIA() {
         `;
     }
 }
+
+// ===== FUNCIONES PARA MODO IA HÍBRIDO =====
+function toggleModoIA() {
+    const toggle = document.getElementById('iaToggle');
+    const warning = document.getElementById('iaConfigWarning');
+    const infoPreguntas = document.getElementById('infoPreguntas');
+    
+    if (toggle.checked) {
+        // Verificar si está configurado
+        if (!window.generadorIA || !window.generadorIA.estaConfigurado()) {
+            warning.style.display = 'flex';
+            toggle.checked = false;
+            return;
+        }
+        
+        warning.style.display = 'none';
+        window.generadorIA.enabled = true;
+        infoPreguntas.innerHTML = '<strong>50 del banco + 50 generadas con IA</strong> (100 total)';
+        console.log('✅ Modo IA híbrido activado');
+    } else {
+        warning.style.display = 'none';
+        if (window.generadorIA) {
+            window.generadorIA.enabled = false;
+        }
+        infoPreguntas.textContent = '100 preguntas de opción múltiple';
+        console.log('📚 Modo banco clásico activado');
+    }
+}
+
+function mostrarConfigIA() {
+    const apiKey = prompt(
+        '🤖 Configuración de Gemini AI\n\n' +
+        '1. Ve a: https://makersuite.google.com/app/apikey\n' +
+        '2. Inicia sesión con tu cuenta de Google\n' +
+        '3. Crea una API Key (es GRATIS)\n' +
+        '4. Copia y pega tu API Key aquí:\n\n' +
+        '(La API Key se guardará en tu navegador)'
+    );
+    
+    if (apiKey && apiKey.trim().length > 0) {
+        window.generadorIA.configurarAPIKey(apiKey.trim());
+        alert('✅ API Key configurada correctamente.\n\nAhora puedes activar el modo IA híbrido.');
+        
+        // Activar el toggle automáticamente
+        const toggle = document.getElementById('iaToggle');
+        const warning = document.getElementById('iaConfigWarning');
+        toggle.checked = true;
+        warning.style.display = 'none';
+        window.generadorIA.enabled = true;
+        
+        const infoPreguntas = document.getElementById('infoPreguntas');
+        infoPreguntas.innerHTML = '<strong>50 del banco + 50 generadas con IA</strong> (100 total)';
+    }
+}
+
+// Verificar al cargar la página si ya tiene API key configurada
+document.addEventListener('DOMContentLoaded', () => {
+    setTimeout(() => {
+        if (window.generadorIA && window.generadorIA.estaConfigurado()) {
+            console.log('✅ Gemini API ya configurada');
+        }
+    }, 1000);
+});

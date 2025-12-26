@@ -213,10 +213,29 @@
                             </select>
                         </div>
                         
+                        <!-- MODO IA HÍBRIDO -->
+                        <div class="ia-hybrid-section">
+                            <div class="ia-toggle-container">
+                                <div class="ia-toggle-info">
+                                    <h4><i class="fas fa-robot"></i> Preguntas con IA</h4>
+                                    <p>Genera 50 preguntas nuevas con Inteligencia Artificial cada vez</p>
+                                </div>
+                                <label class="switch">
+                                    <input type="checkbox" id="iaToggle" onchange="toggleModoIA()">
+                                    <span class="slider"></span>
+                                </label>
+                            </div>
+                            <div id="iaConfigWarning" class="ia-warning" style="display:none;">
+                                <i class="fas fa-exclamation-circle"></i>
+                                <span>Necesitas configurar tu API Key de Gemini para usar IA.</span>
+                                <button class="btn-link" onclick="mostrarConfigIA()">Configurar ahora</button>
+                            </div>
+                        </div>
+                        
                         <div class="info-examen">
                             <p><i class="fas fa-info-circle"></i> <strong>Información del examen:</strong></p>
                             <ul>
-                                <li>100 preguntas de opción múltiple</li>
+                                <li id="infoPreguntas">100 preguntas de opción múltiple</li>
                                 <li>Solo una respuesta correcta por pregunta</li>
                                 <li>Tiempo: 4 horas</li>
                                 <li>Resultado al finalizar</li>
@@ -360,6 +379,7 @@
 
     <script src="firebase-config.js"></script>
     <script src="ia-analisis.js"></script>
+    <script src="ia-generador-preguntas.js"></script>
     <script src="app.js"></script>
 </body>
 </html>
