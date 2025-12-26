@@ -778,5 +778,225 @@ function mostrarResultados(correctas, incorrectas, porcentaje) {
         listaRespuestas.appendChild(itemDiv);
     });
     
+    // Mostrar sección de análisis con IA si el alumno tiene historial
+    mostrarSeccionIA();
+    
     mostrarPantalla('pantallaResultados');
 }
+
+// ===== ANÁLISIS CON IA =====
+function mostrarSeccionIA() {
+    const iaSection = document.getElementById('iaAnalisisSection');
+    if (iaSection && nombreAlumno) {
+        iaSection.style.display = 'block';
+    }
+}
+
+async function mostrarAnalisisIA() {
+    const contenido = document.getElementById('iaAnalisisContent');
+    if (!contenido) return;
+    
+    // Mostrar loading
+    contenido.innerHTML = '<div style="text-align:center; padding:2rem;"><i class="fas fa-spinner fa-spin" style="font-size:2rem;"></i><p>Analizando tu rendimiento...</p></div>';
+    contenido.style.display = 'block';
+    
+    try {
+        // Crear instancia del sistema de IA
+        const ia = new SistemaIA();
+        
+        // Cargar historial del alumno
+        await ia.cargarHistorial(nombreAlumno);
+        
+        if (ia.historialAlumno.length === 0) {
+            contenido.innerHTML = `
+                <div class="ia-card">
+                    <p style="text-align:center;">
+                        <i class="fas fa-info-circle" style="font-size:2rem; color:#667eea;"></i><br>
+                        Este es tu primer examen. Rinde más exámenes para obtener análisis personalizado con IA.
+                    </p>
+                </div>
+            `;
+            return;
+        }
+        
+        // Generar análisis completo
+        const analisis = ia.generarAnalisisCompleto();
+        const comparacion = await ia.compararConOtros();
+        
+        // Construir HTML del análisis
+        let html = '';
+        
+        // 1. Rendimiento General
+        html += `
+            <div class="ia-card">
+                <h4><i class="fas fa-chart-line"></i> Rendimiento General</h4>
+                <span class="nivel-badge nivel-${analisis.rendimiento.nivel}">${analisis.rendimiento.mensaje}</span>
+                <div class="comparacion-box" style="margin-top:1rem;">
+                    <div class="comparacion-stat">
+                        <div class="comparacion-numero">${analisis.rendimiento.totalExamenes}</div>
+                        <div class="comparacion-label">Exámenes</div>
+                    </div>
+                    <div class="comparacion-stat">
+                        <div class="comparacion-numero">${analisis.rendimiento.promedioGeneral}%</div>
+                        <div class="comparacion-label">Promedio</div>
+                    </div>
+                    <div class="comparacion-stat">
+                        <div class="comparacion-numero">${analisis.rendimiento.aprobados}</div>
+                        <div class="comparacion-label">Aprobados</div>
+                    </div>
+                    <div class="comparacion-stat">
+                        <div class="comparacion-numero">${analisis.rendimiento.tasaAprobacion}%</div>
+                        <div class="comparacion-label">Tasa Aprobación</div>
+                    </div>
+                </div>
+                <p style="margin-top:1rem; color:var(--text-secondary);">${analisis.rendimiento.recomendacion}</p>
+            </div>
+        `;
+        
+        // 2. Predicción con IA
+        html += `
+            <div class="ia-card">
+                <h4><i class="fas fa-crystal-ball"></i> Predicción para Próximo Examen</h4>
+                <div class="prediccion-box">
+                    <div class="prediccion-numero">${analisis.prediccion.probabilidad}%</div>
+                    <div class="prediccion-label">Probabilidad de Aprobar</div>
+                    <p style="margin-top:0.5rem; font-size:0.9rem;">
+                        Tendencia: <strong>${analisis.prediccion.tendencia === 'mejorando' ? '📈 Mejorando' : 
+                                             analisis.prediccion.tendencia === 'empeorando' ? '📉 Empeorando' : 
+                                             '➡️ Estable'}</strong>
+                    </p>
+                </div>
+                <p style="text-align:center; color:var(--text-secondary); font-size:0.9rem;">
+                    Confianza: ${analisis.prediccion.confianza} - ${analisis.prediccion.mensaje}
+                </p>
+            </div>
+        `;
+        
+        // 3. Especialidades
+        if (analisis.especialidades.todas.length > 0) {
+            html += `
+                <div class="ia-card">
+                    <h4><i class="fas fa-stethoscope"></i> Análisis por Especialidad</h4>
+            `;
+            
+            if (analisis.especialidades.fuertes.length > 0) {
+                html += '<p style="font-weight:600; color:#059669; margin-top:1rem;"><i class="fas fa-award"></i> Tus Áreas Fuertes:</p>';
+                analisis.especialidades.fuertes.forEach(esp => {
+                    html += `
+                        <div class="especialidad-item">
+                            <span class="especialidad-nombre">✅ ${esp.nombre}</span>
+                            <span class="especialidad-stats">
+                                <span>${esp.promedioNotas}% promedio</span>
+                                <span>${esp.examenes} exámenes</span>
+                            </span>
+                        </div>
+                    `;
+                });
+            }
+            
+            if (analisis.especialidades.debiles.length > 0) {
+                html += '<p style="font-weight:600; color:#dc2626; margin-top:1rem;"><i class="fas fa-exclamation-triangle"></i> Áreas a Reforzar:</p>';
+                analisis.especialidades.debiles.forEach(esp => {
+                    html += `
+                        <div class="especialidad-item">
+                            <span class="especialidad-nombre">⚠️ ${esp.nombre}</span>
+                            <span class="especialidad-stats">
+                                <span>${esp.promedioNotas}% promedio</span>
+                                <span>${esp.examenes} exámenes</span>
+                            </span>
+                        </div>
+                    `;
+                });
+            }
+            
+            html += '</div>';
+        }
+        
+        // 4. Patrones Identificados
+        if (analisis.patrones.patrones.length > 0) {
+            html += `
+                <div class="ia-card">
+                    <h4><i class="fas fa-lightbulb"></i> Patrones Identificados por IA</h4>
+                    <p style="color:var(--text-secondary); margin-bottom:1rem;">${analisis.patrones.mensaje}</p>
+            `;
+            
+            analisis.patrones.patrones.forEach(patron => {
+                html += `
+                    <div class="patron-item">
+                        <div class="patron-tipo">${patron.tipo === 'tiempo' ? '⏱️ Tiempo' : 
+                                                    patron.tipo === 'consistencia' ? '📊 Consistencia' : 
+                                                    '🎯 ' + patron.tipo}</div>
+                        <div class="patron-mensaje">${patron.mensaje}</div>
+                        <div class="patron-recomendacion">${patron.recomendacion}</div>
+                    </div>
+                `;
+            });
+            
+            html += '</div>';
+        }
+        
+        // 5. Recomendaciones Personalizadas
+        if (analisis.recomendaciones.length > 0) {
+            html += `
+                <div class="ia-card">
+                    <h4><i class="fas fa-tasks"></i> Recomendaciones Personalizadas</h4>
+            `;
+            
+            analisis.recomendaciones.forEach(rec => {
+                html += `
+                    <div class="recomendacion-item prioridad-${rec.prioridad}">
+                        <div class="recomendacion-titulo">
+                            <span>${rec.icono}</span>
+                            <span>${rec.titulo}</span>
+                        </div>
+                        <div class="recomendacion-descripcion">${rec.descripcion}</div>
+                    </div>
+                `;
+            });
+            
+            html += '</div>';
+        }
+        
+        // 6. Comparación con otros alumnos
+        if (comparacion.disponible) {
+            html += `
+                <div class="ia-card">
+                    <h4><i class="fas fa-users"></i> Comparación con Otros Alumnos</h4>
+                    <div class="comparacion-box">
+                        <div class="comparacion-stat">
+                            <div class="comparacion-numero">${comparacion.miPromedio}%</div>
+                            <div class="comparacion-label">Tu Promedio</div>
+                        </div>
+                        <div class="comparacion-stat">
+                            <div class="comparacion-numero">${comparacion.promedioGeneral}%</div>
+                            <div class="comparacion-label">Promedio General</div>
+                        </div>
+                        <div class="comparacion-stat">
+                            <div class="comparacion-numero">${comparacion.totalAlumnos}</div>
+                            <div class="comparacion-label">Total Alumnos</div>
+                        </div>
+                    </div>
+                    <p style="text-align:center; margin-top:1rem; font-weight:600; color:${
+                        comparacion.posicionRelativa === 'superior' || comparacion.posicionRelativa === 'por encima' ? '#059669' : 
+                        comparacion.posicionRelativa === 'promedio' ? '#667eea' : '#dc2626'
+                    };">
+                        Estás ${comparacion.diferencia}% ${comparacion.miPromedio > comparacion.promedioGeneral ? 'por encima' : 'por debajo'} del promedio general
+                    </p>
+                </div>
+            `;
+        }
+        
+        // Insertar todo el HTML
+        contenido.innerHTML = html;
+        
+    } catch (error) {
+        console.error('Error al generar análisis IA:', error);
+        contenido.innerHTML = `
+            <div class="ia-card">
+                <p style="text-align:center; color:var(--error-color);">
+                    <i class="fas fa-exclamation-triangle"></i><br>
+                    Error al generar el análisis. Por favor, intenta de nuevo.
+                </p>
+            </div>
+        `;
+    }
