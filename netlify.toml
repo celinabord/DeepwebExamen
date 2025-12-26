@@ -4,6 +4,7 @@
 [build]
   publish = "."
   command = "echo 'No build command needed'"
+  environment = { SECRETS_SCAN_SMART_DETECTION_ENABLED = "false" }
 
 [[redirects]]
   from = "/*"
